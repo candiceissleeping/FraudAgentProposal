@@ -14,7 +14,7 @@
 
 ## 流程
 1. **抓資料** `python -m experiment.edgar_risk.fetch`
-   從 Hugging Face datasets-server 依 CIK 篩選；長段落被截斷時改下載 parquet（需 `pyarrow`）。
+   逐年串流 Hugging Face 上的原始 jsonl（每年約 1.2 GB），只保留目標公司的列，不存整個檔案。
    離線模式：`--local-jsonl <檔案>`。
 2. **規則式評分** `python -m experiment.edgar_risk.score`
    在 Item 1A / 3 / 7 / 8 / 9 / 9A 中逐句比對紅旗，排除否定句（如 "no material weakness"）。
