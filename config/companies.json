@@ -1,15 +1,75 @@
 {
   "_comment": "10 companies: 6 with later-documented accounting/conduct problems (treatment) and 4 controls. 'year' = EDGAR-CORPUS filing year of the 10-K analysed (the 10-K filed BEFORE the problem became public). CIKs should be verified on first fetch: the fetcher prints the matched filename.",
   "companies": [
-    {"name": "Enron Corp",                    "cik": "1024401", "year": 2001, "group": "treatment", "known_outcome": "Accounting fraud / SPEs; bankruptcy Dec 2001"},
-    {"name": "WorldCom Inc",                  "cik": "723527",  "year": 2002, "group": "treatment", "known_outcome": "Line-cost capitalisation fraud disclosed Jun 2002"},
-    {"name": "HealthSouth Corp",              "cik": "785161",  "year": 2002, "group": "treatment", "known_outcome": "Earnings inflation; SEC charges Mar 2003"},
-    {"name": "Lehman Brothers Holdings",      "cik": "806085",  "year": 2008, "group": "treatment", "known_outcome": "Repo 105 balance-sheet window dressing; bankruptcy Sep 2008"},
-    {"name": "Valeant Pharmaceuticals",       "cik": "885590",  "year": 2016, "group": "treatment", "known_outcome": "Philidor channel / revenue recognition restatement 2016"},
-    {"name": "General Electric",              "cik": "40545",   "year": 2018, "group": "treatment", "known_outcome": "Insurance reserve shortfall; SEC investigation"},
-    {"name": "Microsoft Corp",                "cik": "789019",  "year": 2019, "group": "control",   "known_outcome": "None known"},
-    {"name": "Costco Wholesale",              "cik": "909832",  "year": 2019, "group": "control",   "known_outcome": "None known"},
-    {"name": "Johnson & Johnson",             "cik": "200406",  "year": 2019, "group": "control",   "known_outcome": "Product-liability litigation (talc), no accounting fraud"},
-    {"name": "Apple Inc",                     "cik": "320193",  "year": 2019, "group": "control",   "known_outcome": "None known"}
+    {
+      "name": "Enron Corp",
+      "cik": "1024401",
+      "year": 2000,
+      "group": "treatment",
+      "known_outcome": "Accounting fraud / SPEs; bankruptcy Dec 2001"
+    },
+    {
+      "name": "WorldCom Inc",
+      "cik": "723527",
+      "year": 2002,
+      "group": "treatment",
+      "known_outcome": "Line-cost capitalisation fraud disclosed Jun 2002"
+    },
+    {
+      "name": "HealthSouth Corp",
+      "cik": "785161",
+      "year": 2002,
+      "group": "treatment",
+      "known_outcome": "Earnings inflation; SEC charges Mar 2003"
+    },
+    {
+      "name": "Lehman Brothers Holdings",
+      "cik": "806085",
+      "year": 2008,
+      "group": "treatment",
+      "known_outcome": "Repo 105 balance-sheet window dressing; bankruptcy Sep 2008"
+    },
+    {
+      "name": "Valeant Pharmaceuticals",
+      "cik": "885590",
+      "year": 2016,
+      "group": "treatment",
+      "known_outcome": "Philidor channel / revenue recognition restatement 2016"
+    },
+    {
+      "name": "General Electric",
+      "cik": "40545",
+      "year": 2018,
+      "group": "treatment",
+      "known_outcome": "Insurance reserve shortfall; SEC investigation"
+    },
+    {
+      "name": "Microsoft Corp",
+      "cik": "789019",
+      "year": 2019,
+      "group": "control",
+      "known_outcome": "None known"
+    },
+    {
+      "name": "Costco Wholesale",
+      "cik": "909832",
+      "year": 2019,
+      "group": "control",
+      "known_outcome": "None known"
+    },
+    {
+      "name": "Johnson & Johnson",
+      "cik": "200406",
+      "year": 2019,
+      "group": "control",
+      "known_outcome": "Product-liability litigation (talc), no accounting fraud"
+    },
+    {
+      "name": "Apple Inc",
+      "cik": "320193",
+      "year": 2019,
+      "group": "control",
+      "known_outcome": "None known"
+    }
   ]
 }
