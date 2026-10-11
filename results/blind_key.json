@@ -1,0 +1,62 @@
+{
+  "B01": {
+    "name": "Qwest Communications",
+    "cik": "1037949",
+    "year": 2001,
+    "group": "treatment"
+  },
+  "B02": {
+    "name": "J.M. Smucker",
+    "cik": "91419",
+    "year": 2011,
+    "group": "control"
+  },
+  "B03": {
+    "name": "Edwards Lifesciences",
+    "cik": "1099800",
+    "year": 2016,
+    "group": "control"
+  },
+  "B04": {
+    "name": "United Rentals",
+    "cik": "1067701",
+    "year": 2013,
+    "group": "control"
+  },
+  "B05": {
+    "name": "MiMedx Group",
+    "cik": "1376339",
+    "year": 2016,
+    "group": "treatment"
+  },
+  "B06": {
+    "name": "Diamond Foods",
+    "cik": "1320947",
+    "year": 2011,
+    "group": "treatment"
+  },
+  "B07": {
+    "name": "Comcast Corp",
+    "cik": "22301",
+    "year": 2000,
+    "group": "control"
+  },
+  "B08": {
+    "name": "Adelphia Communications",
+    "cik": "796486",
+    "year": 2000,
+    "group": "treatment"
+  },
+  "B09": {
+    "name": "CenturyTel",
+    "cik": "18926",
+    "year": 2001,
+    "group": "control"
+  },
+  "B10": {
+    "name": "Hertz Global Holdings",
+    "cik": "1364479",
+    "year": 2013,
+    "group": "treatment"
+  }
+}

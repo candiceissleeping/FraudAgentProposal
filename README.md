@@ -14,7 +14,10 @@
 注意：EDGAR-CORPUS 的 `year` 是**會計年度**（例如 WorldCom 2002 是 2004 年才申報、已含重編的 FY2002 10-K）。
 GE 原本在名單中，但其 FY2016 10-K 在資料集中為空（年報以引用方式併入），改用 Kraft Heinz。
 
-**結果：** 見 [`results/analyst_review.md`](results/analyst_review.md)（最終分數與理由）與 `results/rule_based_report.md`（關鍵字初評）。
+**結果：**
+- 第一輪：[`results/analyst_review.md`](results/analyst_review.md)（最終分數與理由）、`results/rule_based_report.md`（關鍵字初評）
+- 第二輪（遮蔽名稱 + 預先登錄規則，5 組同產業配對）：[`results/blind_review.md`](results/blind_review.md)
+  - 流程：`blind_rubric.md` → `python -m experiment.edgar_risk.blind` → `blind_scores.md` → `--unblind`
 
 ## 流程
 1. **抓資料** `python -m experiment.edgar_risk.fetch`
