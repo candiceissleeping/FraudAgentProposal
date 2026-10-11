@@ -38,7 +38,9 @@ CATEGORIES = {
         "label": "Restatement of prior financials",
         "weight": 20,
         "sections": ALL,
-        "patterns": [r"\brestate(d|ment)?\b", r"should no longer be relied upon",
+        # "Amended and Restated Articles/Plan/Agreement" in exhibit lists is not a financial restatement
+        "patterns": [r"(?<!amended and )\brestate(d|ment)?\b(?! (articles|certificate|by-?laws|charter|agreement|credit|plan))",
+                     r"should no longer be relied upon",
                      r"previously (issued|reported) financial statements"],
     },
     "internal_control": {
@@ -69,7 +71,9 @@ CATEGORIES = {
         "label": "Auditor change / disagreement",
         "weight": 10,
         "sections": ["section_9", "section_9A"],
-        "patterns": [r"dismiss(ed|al) .{0,60}(accountant|auditor)", r"disagreements? with (the )?(accountant|auditor)",
+        # the Item 9 heading itself ("Changes in and Disagreements with Accountants ... None.") is not evidence
+        "patterns": [r"dismiss(ed|al) .{0,60}(accountant|auditor)",
+                     r"(?<!changes in and )disagreements? with (the )?(accountant|auditor)",
                      r"resign(ed|ation) .{0,40}(accountant|auditor)", r"reportable event"],
     },
     "off_balance_sheet": {

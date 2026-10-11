@@ -39,6 +39,20 @@ class ScoringTest(unittest.TestCase):
         r = score.score_filing(filing)
         self.assertEqual(r["breakdown"]["restatement"]["points"], signals.CATEGORIES["restatement"]["weight"])
 
+    def test_exhibit_and_heading_boilerplate_ignored(self):
+        filing = {
+            "section_14": "*3.01 - Amended and Restated Articles of Incorporation of the Company. "
+                          "(3)-1 Restated Certificate of Incorporation, filed as Exhibit (3)-1.",
+            "section_9": "CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE None.",
+        }
+        ev = signals.extract(filing)
+        self.assertEqual(ev["restatement"]["hits"], 0)
+        self.assertEqual(ev["auditor_change"]["hits"], 0)
+
+    def test_real_restatement_still_detected(self):
+        filing = {"section_7": "We have restated our previously reported consolidated financial statements for 2001."}
+        self.assertEqual(signals.extract(filing)["restatement"]["hits"], 1)
+
 
 if __name__ == "__main__":
     unittest.main()
