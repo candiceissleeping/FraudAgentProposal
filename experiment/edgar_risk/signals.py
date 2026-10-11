@@ -110,7 +110,7 @@ CATEGORIES = {
 }
 
 NEGATION = re.compile(
-    r"\b(no|not aware|did not identify|does not believe|there were no|has not|have not|were not|was not|without)\b"
+    r"\b(no|not aware|did not|does not believe|there were no|has not|have not|were not|was not|without)\b"
     r"[^.]{0,60}$", re.I)
 
 _SENT_SPLIT = re.compile(r"(?<=[.!?])\s+(?=[A-Z(\"])")
