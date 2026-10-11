@@ -39,7 +39,7 @@ CATEGORIES = {
         "weight": 20,
         "sections": ALL,
         # "Amended and Restated Articles/Plan/Agreement" in exhibit lists is not a financial restatement
-        "patterns": [r"(?<!amended and )\brestate(d|ment)?\b(?! (articles|certificate|by-?laws|charter|agreement|credit|plan))",
+        "patterns": [r"(?<!amended and )\brestate(d|ment)?\b(?! (articles|certificate|by-?laws|charter|agreement|credit|plan|as of|to (reflect|include)))",
                      r"should no longer be relied upon",
                      r"previously (issued|reported) financial statements"],
     },
@@ -47,7 +47,9 @@ CATEGORIES = {
         "label": "Internal-control weakness",
         "weight": 20,
         "sections": ["section_9A", "section_7", "section_1A"] + FIN_STMT,
-        "patterns": [r"material weakness", r"significant deficienc",
+        # skip the auditor-opinion boilerplate ("assessing the risk that a material weakness exists")
+        # and textbook definitions ("A material weakness is a ...")
+        "patterns": [r"(?<!risk that a )material weakness(?! (exists|is a))", r"significant deficienc",
                      r"(disclosure controls|internal control).{0,80}\bnot effective\b"],
     },
     "regulatory": {
@@ -108,7 +110,7 @@ CATEGORIES = {
 }
 
 NEGATION = re.compile(
-    r"\b(no|not aware|did not identify|does not believe|there were no|has not|have not|without)\b"
+    r"\b(no|not aware|did not identify|does not believe|there were no|has not|have not|were not|was not|without)\b"
     r"[^.]{0,60}$", re.I)
 
 _SENT_SPLIT = re.compile(r"(?<=[.!?])\s+(?=[A-Z(\"])")

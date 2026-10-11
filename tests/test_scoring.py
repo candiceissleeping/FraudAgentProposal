@@ -49,6 +49,16 @@ class ScoringTest(unittest.TestCase):
         self.assertEqual(ev["restatement"]["hits"], 0)
         self.assertEqual(ev["auditor_change"]["hits"], 0)
 
+    def test_mechanical_restatements_and_audit_boilerplate_ignored(self):
+        filing = {
+            "section_8": "Prior period share amounts have been restated to reflect the split. "
+                         "Results for fiscal 2005 were not restated. "
+                         "Our audit included assessing the risk that a material weakness exists.",
+        }
+        ev = signals.extract(filing)
+        self.assertEqual(ev["restatement"]["hits"], 0)
+        self.assertEqual(ev["internal_control"]["hits"], 0)
+
     def test_real_restatement_still_detected(self):
         filing = {"section_7": "We have restated our previously reported consolidated financial statements for 2001."}
         self.assertEqual(signals.extract(filing)["restatement"]["hits"], 1)
