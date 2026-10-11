@@ -78,7 +78,11 @@ def main():
             lines = open(src, "rb") if args.local_jsonl else _lines(src)
             for row in scan(lines, todo):
                 c = todo.pop(_cik(row["cik"]))
-                print(f"  {c['name']}: {row.get('filename')}", flush=True)
+                chars = sum(len(v or "") for k, v in row.items() if k.startswith("section_"))
+                print(f"  {c['name']}: {row.get('filename')} ({chars:,} chars of section text)", flush=True)
+                if chars < 5000:
+                    print(f"  WARNING {c['name']}: filing is (nearly) empty - likely incorporated by reference; "
+                          "pick another year or company", flush=True)
                 row["_company"] = c
                 with open(os.path.join(args.out, f"{c['cik']}_{year}.json"), "w", encoding="utf-8") as f:
                     json.dump(row, f, ensure_ascii=False)

@@ -37,11 +37,12 @@
       "known_outcome": "Philidor channel / revenue recognition restatement 2016"
     },
     {
-      "name": "General Electric",
-      "cik": "40545",
-      "year": 2016,
+      "name": "Kraft Heinz Co",
+      "cik": "1637459",
+      "year": 2017,
       "group": "treatment",
-      "known_outcome": "Insurance reserve shortfall; SEC investigation"
+      "known_outcome": "SEC subpoena on procurement accounting (Feb 2019); restated 2015-2018 results",
+      "_note": "Replaced General Electric: GE's FY2016 10-K is empty in EDGAR-CORPUS (annual report incorporated by reference)"
     },
     {
       "name": "Microsoft Corp",
