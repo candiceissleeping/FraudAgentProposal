@@ -1,0 +1,232 @@
+{
+  "score": 36.7,
+  "band": "Moderate",
+  "breakdown": {
+    "going_concern": {
+      "label": "Going-concern doubt",
+      "hits": 0,
+      "points": 0.0,
+      "max": 25
+    },
+    "restatement": {
+      "label": "Restatement of prior financials",
+      "hits": 0,
+      "points": 0.0,
+      "max": 20
+    },
+    "internal_control": {
+      "label": "Internal-control weakness",
+      "hits": 0,
+      "points": 0.0,
+      "max": 20
+    },
+    "regulatory": {
+      "label": "Regulatory / criminal investigation",
+      "hits": 5,
+      "points": 15.0,
+      "max": 15
+    },
+    "securities_litigation": {
+      "label": "Securities / shareholder litigation",
+      "hits": 4,
+      "points": 10.0,
+      "max": 10
+    },
+    "auditor_change": {
+      "label": "Auditor change / disagreement",
+      "hits": 0,
+      "points": 0.0,
+      "max": 10
+    },
+    "off_balance_sheet": {
+      "label": "Off-balance-sheet / related-party structures",
+      "hits": 2,
+      "points": 6.7,
+      "max": 10
+    },
+    "aggressive_accounting": {
+      "label": "Aggressive revenue / accounting choices",
+      "hits": 0,
+      "points": 0.0,
+      "max": 10
+    },
+    "liquidity_stress": {
+      "label": "Liquidity / covenant stress",
+      "hits": 0,
+      "points": 0.0,
+      "max": 10
+    },
+    "impairment": {
+      "label": "Large impairments / write-downs",
+      "hits": 13,
+      "points": 5.0,
+      "max": 5
+    }
+  },
+  "reasons": [
+    {
+      "category": "Regulatory / criminal investigation",
+      "points": 15.0,
+      "hits": 5,
+      "quote": "The Office of Inspector General of the Department of Health and Human Services, the Department of Justice and other federal agencies interpret healthcare fraud and abuse provisions liberally and enforce them aggressively.",
+      "section": "Item 1 Business"
+    },
+    {
+      "category": "Securities / shareholder litigation",
+      "points": 10.0,
+      "hits": 4,
+      "quote": "SECURITIES LITIGATION We were served with various lawsuits filed beginning September 30, 1998 purporting to be class actions under the federal and Alabama securities laws.",
+      "section": "Item 3 Legal Proceedings"
+    },
+    {
+      "category": "Off-balance-sheet / related-party structures",
+      "points": 6.7,
+      "hits": 2,
+      "quote": "At December 31, 2001, the investment balance on the Company's books was not materially different than the underlying equity in net assets of the unconsolidated entities.",
+      "section": "Item 8 Financial Statements"
+    },
+    {
+      "category": "Large impairments / write-downs",
+      "points": 5.0,
+      "hits": 13,
+      "quote": "This expense item included write-offs of investments and notes of $14,603,000, expenses related to year 2000 remediation of $13,429,000 and expenses related to the proposed spin-off of our inpatient operations of $1,766,000.",
+      "section": "Item 7 MD&A"
+    }
+  ],
+  "evidence": {
+    "going_concern": {
+      "hits": 0,
+      "examples": []
+    },
+    "restatement": {
+      "hits": 0,
+      "examples": []
+    },
+    "internal_control": {
+      "hits": 0,
+      "examples": []
+    },
+    "regulatory": {
+      "hits": 5,
+      "examples": [
+        {
+          "section": "Item 1 Business",
+          "text": "The Office of Inspector General of the Department of Health and Human Services, the Department of Justice and other federal agencies interpret healthcare fraud and abuse provisions liberally and enforce them aggressively."
+        },
+        {
+          "section": "Item 3 Legal Proceedings",
+          "text": "CERTAIN MEDICARE LITIGATION On May 22, 2001, we announced a settlement with the United States Department of Justice in connection with a lawsuit styled United States ex rel."
+        },
+        {
+          "section": "Item 3 Legal Proceedings",
+          "text": "In late December 2001, the United States Department of Justice filed a Notice of Election to Intervene in Part and to Decline to Intervene in Part in a case styled United States ex rel."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "Included in corporate general and administrative expenses for the year ended December 31, 2001, is a non-recurring expense item of approximately $8,248,000 related to the settlement of litigation with the United States Department of Justice."
+        },
+        {
+          "section": "Item 8 Financial Statements",
+          "text": "In late December 2001, the Department of Justice (DOJ) filed a Notice of Election to Intervene in Part in a case styled United States ex rel."
+        }
+      ]
+    },
+    "securities_litigation": {
+      "hits": 4,
+      "examples": [
+        {
+          "section": "Item 3 Legal Proceedings",
+          "text": "SECURITIES LITIGATION We were served with various lawsuits filed beginning September 30, 1998 purporting to be class actions under the federal and Alabama securities laws."
+        },
+        {
+          "section": "Item 3 Legal Proceedings",
+          "text": "On April 12, 1999, the plaintiffs filed a consolidated amended complaint against us and certain of our current and former officers and directors alleging that, during the period April 24, 1997 through September 30, 1998, the defendants misrepresented or failed to disclose certain material facts concerning our business and financial condition and the impact of the Balanced Budget Act of 1997 on our operations in order to artificially inflate the price of our common stock and issued or sold shares of such stock during the purported class period, all allegedly in violation of Section 10(b) of the"
+        },
+        {
+          "section": "Item 8 Financial Statements",
+          "text": "The Company was served with certain lawsuits filed beginning September 30, 1998, purporting to be class actions under the federal and Alabama securities laws."
+        },
+        {
+          "section": "Item 8 Financial Statements",
+          "text": "On April 12, 1999, the plaintiffs filed a consolidated amended complaint against the Company and certain of its officers and directors alleging that, during the period April 24, 1997 through September 30, 1998, the defendants misrepresented or failed to disclose certain material facts concerning the Company's business and financial condition and the impact of the Balanced Budget Act of 1997 on the Company's operations in order to artificially inflate the price of the Company's common stock and issued or sold shares of such stock during the purported class period, all allegedly in violation of "
+        }
+      ]
+    },
+    "auditor_change": {
+      "hits": 0,
+      "examples": []
+    },
+    "off_balance_sheet": {
+      "hits": 2,
+      "examples": [
+        {
+          "section": "Item 8 Financial Statements",
+          "text": "At December 31, 2001, the investment balance on the Company's books was not materially different than the underlying equity in net assets of the unconsolidated entities."
+        },
+        {
+          "section": "Item 8 Financial Statements",
+          "text": "RELATED PARTY In December 1999, the Company acquired 6,390,583 shares of Series A Convertible Preferred Stock of MedCenterDirect.com, Inc., a development-stage healthcare e-procurement company, in a private placement for a purchase price of $0.3458 per share."
+        }
+      ]
+    },
+    "aggressive_accounting": {
+      "hits": 0,
+      "examples": []
+    },
+    "liquidity_stress": {
+      "hits": 0,
+      "examples": []
+    },
+    "impairment": {
+      "hits": 13,
+      "examples": [
+        {
+          "section": "Item 7 MD&A",
+          "text": "This expense item included write-offs of investments and notes of $14,603,000, expenses related to year 2000 remediation of $13,429,000 and expenses related to the proposed spin-off of our inpatient operations of $1,766,000."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "This approach focused more heavily upon the specific agings and payor classifications at each facility, as opposed to determining an estimate based primarily on historical write-off rates."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "In the second quarter of 2001, we recorded a loss of $6,475,000 related to the write-off of unamortized balances of loan fees on a secondary credit facility we had established in 2000 and which we elected to terminate before its stated maturity in 2003."
+        },
+        {
+          "section": "Item 8 Financial Statements",
+          "text": "INCOME PER COMMON SHARE The following table sets forth the computation of basic and diluted earnings per share: IMPAIRMENT OF ASSETS The Company records impairment losses on long-lived assets used in operations when events and circumstances indicate that the assets might be impaired and the undiscounted cash flows estimated to be generated by those assets are less than the carrying amount of those assets."
+        },
+        {
+          "section": "Item 8 Financial Statements",
+          "text": "SIGNIFICANT ACCOUNTING POLICIES - (CONTINUED) the value of the asset will not be recoverable as determined based on the undiscounted cash flows of the entity over the remaining amortization period, an impairment loss is calculated based on the excess of the carrying amount of the asset over the asset's fair value (see Note 13)."
+        }
+      ]
+    }
+  },
+  "text_stats": {
+    "section_1A": {
+      "words": 0,
+      "fog_index": null
+    },
+    "section_7": {
+      "words": 6317,
+      "fog_index": 20.1
+    },
+    "sections_present": [
+      "Item 1 Business",
+      "Item 3 Legal Proceedings",
+      "Item 7 MD&A",
+      "Item 8 Financial Statements",
+      "Item 9 Changes in/Disagreements with Accountants",
+      "Item 14 Exhibits/Financial Statements"
+    ]
+  },
+  "company": {
+    "name": "HealthSouth Corp",
+    "cik": "785161",
+    "year": 2001,
+    "group": "treatment",
+    "known_outcome": "Earnings inflation; SEC charges Mar 2003"
+  },
+  "filename": "785161_2001.txt"
+}

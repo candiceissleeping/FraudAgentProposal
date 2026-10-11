@@ -1,0 +1,285 @@
+{
+  "score": 68.3,
+  "band": "Elevated",
+  "breakdown": {
+    "going_concern": {
+      "label": "Going-concern doubt",
+      "hits": 0,
+      "points": 0.0,
+      "max": 25
+    },
+    "restatement": {
+      "label": "Restatement of prior financials",
+      "hits": 5,
+      "points": 20.0,
+      "max": 20
+    },
+    "internal_control": {
+      "label": "Internal-control weakness",
+      "hits": 8,
+      "points": 20.0,
+      "max": 20
+    },
+    "regulatory": {
+      "label": "Regulatory / criminal investigation",
+      "hits": 0,
+      "points": 0.0,
+      "max": 15
+    },
+    "securities_litigation": {
+      "label": "Securities / shareholder litigation",
+      "hits": 0,
+      "points": 0.0,
+      "max": 10
+    },
+    "auditor_change": {
+      "label": "Auditor change / disagreement",
+      "hits": 0,
+      "points": 0.0,
+      "max": 10
+    },
+    "off_balance_sheet": {
+      "label": "Off-balance-sheet / related-party structures",
+      "hits": 1,
+      "points": 3.3,
+      "max": 10
+    },
+    "aggressive_accounting": {
+      "label": "Aggressive revenue / accounting choices",
+      "hits": 3,
+      "points": 10.0,
+      "max": 10
+    },
+    "liquidity_stress": {
+      "label": "Liquidity / covenant stress",
+      "hits": 6,
+      "points": 10.0,
+      "max": 10
+    },
+    "impairment": {
+      "label": "Large impairments / write-downs",
+      "hits": 23,
+      "points": 5.0,
+      "max": 5
+    }
+  },
+  "reasons": [
+    {
+      "category": "Restatement of prior financials",
+      "points": 20.0,
+      "hits": 5,
+      "quote": "As a result, we expect to restate our Europe and Rest of World segments to reflect these changes for historical periods presented in the first quarter of 2018.",
+      "section": "Item 1 Business"
+    },
+    {
+      "category": "Internal-control weakness",
+      "points": 20.0,
+      "hits": 8,
+      "quote": "Remediation of Previously Disclosed Material Weakness A material weakness is a deficiency, or combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the Company's annual or interim financial statements wi",
+      "section": "Item 9A Controls and Procedures"
+    },
+    {
+      "category": "Aggressive revenue / accounting choices",
+      "points": 10.0,
+      "hits": 3,
+      "quote": "We accounted for this change prospectively as a change in accounting estimate.",
+      "section": "Item 7 MD&A"
+    },
+    {
+      "category": "Liquidity / covenant stress",
+      "points": 10.0,
+      "hits": 6,
+      "quote": "Our Senior Credit Facility contains customary representations, covenants, and events of default.",
+      "section": "Item 7 MD&A"
+    },
+    {
+      "category": "Large impairments / write-downs",
+      "points": 5.0,
+      "hits": 23,
+      "quote": "This decrease was primarily due to a $236 million write-off of debt issuance costs related to 2015 debt refinancing activities and a $227 million loss released from accumulated other comprehensive income/(losses) due to the early termination of certain interest rate swaps in the prior period as well",
+      "section": "Item 7 MD&A"
+    },
+    {
+      "category": "Off-balance-sheet / related-party structures",
+      "points": 3.3,
+      "hits": 1,
+      "quote": "Off-Balance Sheet Arrangements and Aggregate Contractual Obligations Off-Balance Sheet Arrangements: We do not have guarantees or other off-balance sheet financing arrangements that we believe are reasonably likely to have a current or future effect on our financial condition, changes in financial c",
+      "section": "Item 7 MD&A"
+    }
+  ],
+  "evidence": {
+    "going_concern": {
+      "hits": 0,
+      "examples": []
+    },
+    "restatement": {
+      "hits": 5,
+      "examples": [
+        {
+          "section": "Item 1 Business",
+          "text": "As a result, we expect to restate our Europe and Rest of World segments to reflect these changes for historical periods presented in the first quarter of 2018."
+        },
+        {
+          "section": "Item 1A Risk Factors",
+          "text": "In November 2017, we restated our consolidated financial statements for the quarters ended April 1, 2017 and July 1, 2017 in order to correctly classify cash receipts from the payments on sold receivables (which are cash receipts on the underlying trade receivables that have already been securitized) to cash provided by investing activities (from cash provided by operating activities) within our condensed consolidated statements of cash flows."
+        },
+        {
+          "section": "Item 1A Risk Factors",
+          "text": "If other material weaknesses or significant deficiencies in our internal control are discovered or occur in the future or we otherwise must restate our financial statements, it could materially and adversely affect our business and results of operations or financial condition, restrict our ability to access the capital markets, require us to expend significant resources to correct the weaknesses or deficiencies, subject us to fines, penalties, investigations or judgments, harm our reputation, or otherwise cause a decline in investor confidence."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "As a result, we expect to restate our Europe and Rest of World segments to reflect these changes for historical periods presented as of March 31, 2018."
+        },
+        {
+          "section": "Item 8 Financial Statements",
+          "text": "Accordingly, we restated our cash and cash equivalents balances in the consolidated statements of cash flows to include restricted cash of $51 million at December 31, 2016, $75 million at January 3, 2016, and $12 million at December 28, 2014."
+        }
+      ]
+    },
+    "internal_control": {
+      "hits": 8,
+      "examples": [
+        {
+          "section": "Item 9A Controls and Procedures",
+          "text": "Remediation of Previously Disclosed Material Weakness A material weakness is a deficiency, or combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the Company's annual or interim financial statements will not be prevented or detected on a timely basis."
+        },
+        {
+          "section": "Item 9A Controls and Procedures",
+          "text": "As previously disclosed concurrently with the filing of our Quarterly Report on Form 10-Q for the quarter ended September 30, 2017, we concluded that we had a material weakness in internal control over financial reporting related to the misapplication of Accounting Standards Update 2016-15."
+        },
+        {
+          "section": "Item 9A Controls and Procedures",
+          "text": "Our management determined that the control deficiency constituted a material weakness."
+        },
+        {
+          "section": "Item 1A Risk Factors",
+          "text": "While we have remediated the previously-identified material weakness in our internal control over financial reporting, we may identify other material weaknesses in the future."
+        },
+        {
+          "section": "Item 1A Risk Factors",
+          "text": "In connection with these restatements, management identified a material weakness in our internal control over financial reporting related to the misapplication of Accounting Standards Update 2016-15."
+        }
+      ]
+    },
+    "regulatory": {
+      "hits": 0,
+      "examples": []
+    },
+    "securities_litigation": {
+      "hits": 0,
+      "examples": []
+    },
+    "auditor_change": {
+      "hits": 0,
+      "examples": []
+    },
+    "off_balance_sheet": {
+      "hits": 1,
+      "examples": [
+        {
+          "section": "Item 7 MD&A",
+          "text": "Off-Balance Sheet Arrangements and Aggregate Contractual Obligations Off-Balance Sheet Arrangements: We do not have guarantees or other off-balance sheet financing arrangements that we believe are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenue or expenses, results of operations, liquidity, capital expenditures, or capital resources."
+        }
+      ]
+    },
+    "aggressive_accounting": {
+      "hits": 3,
+      "examples": [
+        {
+          "section": "Item 7 MD&A",
+          "text": "We accounted for this change prospectively as a change in accounting estimate."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "Kraft historically elected a mark-to-market accounting policy and recognized net actuarial gains or losses and changes in the fair value of plan assets immediately in earnings upon remeasurement."
+        },
+        {
+          "section": "Item 8 Financial Statements",
+          "text": "The new guidance must be applied retrospectively for the statement of income presentation of service cost components and other net periodic benefit cost components and prospectively for the capitalization of service cost components."
+        }
+      ]
+    },
+    "liquidity_stress": {
+      "hits": 6,
+      "examples": [
+        {
+          "section": "Item 7 MD&A",
+          "text": "Our Senior Credit Facility contains customary representations, covenants, and events of default."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "Our long-term debt contains customary representations, covenants, and events of default."
+        },
+        {
+          "section": "Item 1A Risk Factors",
+          "text": "Our existing debt, together with any incurrence of additional indebtedness, could have important consequences, including, but not limited to: • increasing our vulnerability to general adverse economic and industry conditions; • limiting our ability to obtain additional financing for working capital, capital expenditures, research and development, debt service requirements, acquisitions, and general corporate or other purposes; • resulting in a downgrade to our credit rating, which could adversely affect our cost of funds, liquidity, and access to capital markets; • restricting us from making s"
+        },
+        {
+          "section": "Item 1A Risk Factors",
+          "text": "If we breach the covenants under our indebtedness instruments and seek a waiver, we may not be able to obtain a waiver from the required creditors."
+        },
+        {
+          "section": "Item 8 Financial Statements",
+          "text": "The fair values and the levels within the fair value hierarchy of derivative instruments recorded on the consolidated balance sheets were (in millions): Our derivative financial instruments are subject to master netting arrangements that allow for the offset of assets and liabilities in the event of default or early termination of the contract."
+        }
+      ]
+    },
+    "impairment": {
+      "hits": 23,
+      "examples": [
+        {
+          "section": "Item 7 MD&A",
+          "text": "This decrease was primarily due to a $236 million write-off of debt issuance costs related to 2015 debt refinancing activities and a $227 million loss released from accumulated other comprehensive income/(losses) due to the early termination of certain interest rate swaps in the prior period as well as lower interest rates following our debt refinancing in connection with the 2015 Merger."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "These items include depreciation and amortization (excluding integration and restructuring expenses; including amortization of postretirement benefit plans prior service credits), equity award compensation expense, integration and restructuring expenses, merger costs, unrealized gains/(losses) on commodity hedges (the unrealized gains and losses are recorded in general corporate expenses until realized; once realized, the gains and losses are recorded in the applicable segment’s operating results), impairment losses, gains/(losses) on the sale of a business, and nonmonetary currency devaluatio"
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "The first step of the goodwill impairment test compares the reporting unit’s estimated fair value with its carrying value."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "No impairment of goodwill was reported as a result of our 2017 annual goodwill impairment test."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "Each of our goodwill reporting units had excess fair value over its carrying value of at least 10% as of April 2, 2017 (our goodwill impairment testing date)."
+        }
+      ]
+    }
+  },
+  "text_stats": {
+    "section_1A": {
+      "words": 8176,
+      "fog_index": 23.2
+    },
+    "section_7": {
+      "words": 12713,
+      "fog_index": 21.2
+    },
+    "sections_present": [
+      "Item 1 Business",
+      "Item 1A Risk Factors",
+      "Item 3 Legal Proceedings",
+      "Item 7 MD&A",
+      "Item 7A Market Risk",
+      "Item 8 Financial Statements",
+      "Item 9 Changes in/Disagreements with Accountants",
+      "Item 9A Controls and Procedures",
+      "Item 14 Exhibits/Financial Statements",
+      "Item 15 Exhibits/Financial Statements"
+    ]
+  },
+  "company": {
+    "name": "Kraft Heinz Co",
+    "cik": "1637459",
+    "year": 2017,
+    "group": "treatment",
+    "known_outcome": "SEC subpoena on procurement accounting (Feb 2019); restated 2015-2018 results",
+    "_note": "Replaced General Electric: GE's FY2016 10-K is empty in EDGAR-CORPUS (annual report incorporated by reference)"
+  },
+  "filename": "1637459_2017.htm"
+}

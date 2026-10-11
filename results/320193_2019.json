@@ -1,0 +1,172 @@
+{
+  "score": 11.7,
+  "band": "Low",
+  "breakdown": {
+    "going_concern": {
+      "label": "Going-concern doubt",
+      "hits": 0,
+      "points": 0.0,
+      "max": 25
+    },
+    "restatement": {
+      "label": "Restatement of prior financials",
+      "hits": 0,
+      "points": 0.0,
+      "max": 20
+    },
+    "internal_control": {
+      "label": "Internal-control weakness",
+      "hits": 0,
+      "points": 0.0,
+      "max": 20
+    },
+    "regulatory": {
+      "label": "Regulatory / criminal investigation",
+      "hits": 0,
+      "points": 0.0,
+      "max": 15
+    },
+    "securities_litigation": {
+      "label": "Securities / shareholder litigation",
+      "hits": 0,
+      "points": 0.0,
+      "max": 10
+    },
+    "auditor_change": {
+      "label": "Auditor change / disagreement",
+      "hits": 0,
+      "points": 0.0,
+      "max": 10
+    },
+    "off_balance_sheet": {
+      "label": "Off-balance-sheet / related-party structures",
+      "hits": 3,
+      "points": 10.0,
+      "max": 10
+    },
+    "aggressive_accounting": {
+      "label": "Aggressive revenue / accounting choices",
+      "hits": 0,
+      "points": 0.0,
+      "max": 10
+    },
+    "liquidity_stress": {
+      "label": "Liquidity / covenant stress",
+      "hits": 0,
+      "points": 0.0,
+      "max": 10
+    },
+    "impairment": {
+      "label": "Large impairments / write-downs",
+      "hits": 1,
+      "points": 1.7,
+      "max": 5
+    }
+  },
+  "reasons": [
+    {
+      "category": "Off-balance-sheet / related-party structures",
+      "points": 10.0,
+      "hits": 3,
+      "quote": "Other Off-Balance Sheet Commitments Operating Leases The Company leases various equipment and facilities, including retail space, under noncancelable operating lease arrangements.",
+      "section": "Item 8 Financial Statements"
+    },
+    {
+      "category": "Large impairments / write-downs",
+      "points": 1.7,
+      "hits": 1,
+      "quote": "If there is an abrupt and substantial decline in estimated demand for one or more of the Company’s products, a change in the Company’s product development plans, or an unanticipated change in technological requirements for any of the Company’s products, the Company may be required to record write-do",
+      "section": "Item 7 MD&A"
+    }
+  ],
+  "evidence": {
+    "going_concern": {
+      "hits": 0,
+      "examples": []
+    },
+    "restatement": {
+      "hits": 0,
+      "examples": []
+    },
+    "internal_control": {
+      "hits": 0,
+      "examples": []
+    },
+    "regulatory": {
+      "hits": 0,
+      "examples": []
+    },
+    "securities_litigation": {
+      "hits": 0,
+      "examples": []
+    },
+    "auditor_change": {
+      "hits": 0,
+      "examples": []
+    },
+    "off_balance_sheet": {
+      "hits": 3,
+      "examples": [
+        {
+          "section": "Item 8 Financial Statements",
+          "text": "Other Off-Balance Sheet Commitments Operating Leases The Company leases various equipment and facilities, including retail space, under noncancelable operating lease arrangements."
+        },
+        {
+          "section": "Item 8 Financial Statements",
+          "text": "The Company does not currently utilize any other off-balance sheet financing arrangements."
+        },
+        {
+          "section": "Item 8 Financial Statements",
+          "text": "Future minimum lease payments under noncancelable operating leases having initial or remaining terms in excess of one year as of September 28, 2019, are as follows (in millions): Unconditional Purchase Obligations The Company has entered into certain off-balance sheet commitments that require the future purchase of goods or services (“unconditional purchase obligations”)."
+        }
+      ]
+    },
+    "aggressive_accounting": {
+      "hits": 0,
+      "examples": []
+    },
+    "liquidity_stress": {
+      "hits": 0,
+      "examples": []
+    },
+    "impairment": {
+      "hits": 1,
+      "examples": [
+        {
+          "section": "Item 7 MD&A",
+          "text": "If there is an abrupt and substantial decline in estimated demand for one or more of the Company’s products, a change in the Company’s product development plans, or an unanticipated change in technological requirements for any of the Company’s products, the Company may be required to record write-downs or impairments of manufacturing-related assets or accrue purchase commitment cancellation fees."
+        }
+      ]
+    }
+  },
+  "text_stats": {
+    "section_1A": {
+      "words": 7923,
+      "fog_index": 24.3
+    },
+    "section_7": {
+      "words": 4690,
+      "fog_index": 23.4
+    },
+    "sections_present": [
+      "Item 1 Business",
+      "Item 1A Risk Factors",
+      "Item 3 Legal Proceedings",
+      "Item 7 MD&A",
+      "Item 7A Market Risk",
+      "Item 8 Financial Statements",
+      "Item 9 Changes in/Disagreements with Accountants",
+      "Item 9A Controls and Procedures",
+      "Item 14 Exhibits/Financial Statements",
+      "Item 15 Exhibits/Financial Statements"
+    ]
+  },
+  "company": {
+    "name": "Apple Inc",
+    "cik": "320193",
+    "year": 2019,
+    "group": "control",
+    "known_outcome": "None known"
+  },
+  "filename": "320193_2019.htm"
+}

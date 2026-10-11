@@ -7,10 +7,14 @@
 ## 實驗設計
 | 組別 | 公司（10-K 申報年度） | 用途 |
 |---|---|---|
-| Treatment（事後證實有問題） | Enron (2001), WorldCom (2002), HealthSouth (2002), Lehman Brothers (2008), Valeant (2016), General Electric (2018) | 檢驗方法能否在問題公開**之前**的 10-K 找到警訊 |
-| Control（無已知會計舞弊） | Microsoft, Costco, Johnson & Johnson, Apple（皆 2019） | 檢驗誤報率 |
+| Treatment（事後證實有問題） | Enron (FY2000), WorldCom (FY2001), HealthSouth (FY2001), Lehman Brothers (FY2007), Valeant (FY2014), Kraft Heinz (FY2017) | 檢驗方法能否在問題公開**之前**的 10-K 找到警訊 |
+| Control（無已知會計舞弊） | Microsoft, Costco, Johnson & Johnson, Apple（皆 FY2019） | 檢驗誤報率 |
 
 公司清單在 `config/companies.json`。每家選的是問題爆發**前**最後一份 10-K，避免直接讀到事後揭露。
+注意：EDGAR-CORPUS 的 `year` 是**會計年度**（例如 WorldCom 2002 是 2004 年才申報、已含重編的 FY2002 10-K）。
+GE 原本在名單中，但其 FY2016 10-K 在資料集中為空（年報以引用方式併入），改用 Kraft Heinz。
+
+**結果：** 見 [`results/analyst_review.md`](results/analyst_review.md)（最終分數與理由）與 `results/rule_based_report.md`（關鍵字初評）。
 
 ## 流程
 1. **抓資料** `python -m experiment.edgar_risk.fetch`

@@ -1,0 +1,212 @@
+{
+  "score": 25.0,
+  "band": "Moderate",
+  "breakdown": {
+    "going_concern": {
+      "label": "Going-concern doubt",
+      "hits": 0,
+      "points": 0.0,
+      "max": 25
+    },
+    "restatement": {
+      "label": "Restatement of prior financials",
+      "hits": 0,
+      "points": 0.0,
+      "max": 20
+    },
+    "internal_control": {
+      "label": "Internal-control weakness",
+      "hits": 0,
+      "points": 0.0,
+      "max": 20
+    },
+    "regulatory": {
+      "label": "Regulatory / criminal investigation",
+      "hits": 2,
+      "points": 10.0,
+      "max": 15
+    },
+    "securities_litigation": {
+      "label": "Securities / shareholder litigation",
+      "hits": 0,
+      "points": 0.0,
+      "max": 10
+    },
+    "auditor_change": {
+      "label": "Auditor change / disagreement",
+      "hits": 0,
+      "points": 0.0,
+      "max": 10
+    },
+    "off_balance_sheet": {
+      "label": "Off-balance-sheet / related-party structures",
+      "hits": 2,
+      "points": 6.7,
+      "max": 10
+    },
+    "aggressive_accounting": {
+      "label": "Aggressive revenue / accounting choices",
+      "hits": 0,
+      "points": 0.0,
+      "max": 10
+    },
+    "liquidity_stress": {
+      "label": "Liquidity / covenant stress",
+      "hits": 1,
+      "points": 3.3,
+      "max": 10
+    },
+    "impairment": {
+      "label": "Large impairments / write-downs",
+      "hits": 8,
+      "points": 5.0,
+      "max": 5
+    }
+  },
+  "reasons": [
+    {
+      "category": "Regulatory / criminal investigation",
+      "points": 10.0,
+      "hits": 2,
+      "quote": "PART I Item 1A • We may be required to make available licenses to our proprietary technologies on terms that do not reflect their fair market value or do not protect our associated intellectual property. • We are subject to a variety of ongoing commitments because of court or administrative orders, ",
+      "section": "Item 1A Risk Factors"
+    },
+    {
+      "category": "Off-balance-sheet / related-party structures",
+      "points": 6.7,
+      "hits": 2,
+      "quote": "PART II Item 7 Off-Balance Sheet Arrangements We provide indemnifications of varying scope and size to certain customers against claims of intellectual property infringement made by third parties arising from the use of our products and certain other matters.",
+      "section": "Item 7 MD&A"
+    },
+    {
+      "category": "Large impairments / write-downs",
+      "points": 5.0,
+      "hits": 8,
+      "quote": "Once a decline in fair value is determined to be other-than-temporary, an impairment charge is recorded in other income (expense), net and a new cost basis in the investment is established.",
+      "section": "Item 7 MD&A"
+    },
+    {
+      "category": "Liquidity / covenant stress",
+      "points": 3.3,
+      "hits": 1,
+      "quote": "If global financial markets decline for long periods, or if there is a downgrade of the U.S. government credit rating due to an actual or threatened default on government debt, our investment portfolio may be adversely affected and we could determine that more of our investments have experienced an ",
+      "section": "Item 1A Risk Factors"
+    }
+  ],
+  "evidence": {
+    "going_concern": {
+      "hits": 0,
+      "examples": []
+    },
+    "restatement": {
+      "hits": 0,
+      "examples": []
+    },
+    "internal_control": {
+      "hits": 0,
+      "examples": []
+    },
+    "regulatory": {
+      "hits": 2,
+      "examples": [
+        {
+          "section": "Item 1A Risk Factors",
+          "text": "PART I Item 1A • We may be required to make available licenses to our proprietary technologies on terms that do not reflect their fair market value or do not protect our associated intellectual property. • We are subject to a variety of ongoing commitments because of court or administrative orders, consent decrees, or other voluntary actions we have taken."
+        },
+        {
+          "section": "Item 1A Risk Factors",
+          "text": "Department of Justice (“DOJ”) and we agreed to the terms of a cease and desist order with the Securities and Exchange Commission."
+        }
+      ]
+    },
+    "securities_litigation": {
+      "hits": 0,
+      "examples": []
+    },
+    "auditor_change": {
+      "hits": 0,
+      "examples": []
+    },
+    "off_balance_sheet": {
+      "hits": 2,
+      "examples": [
+        {
+          "section": "Item 7 MD&A",
+          "text": "PART II Item 7 Off-Balance Sheet Arrangements We provide indemnifications of varying scope and size to certain customers against claims of intellectual property infringement made by third parties arising from the use of our products and certain other matters."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "We have not engaged in any related party transactions or arrangements with unconsolidated entities or other persons that are reasonably likely to materially affect liquidity or the availability of capital resources."
+        }
+      ]
+    },
+    "aggressive_accounting": {
+      "hits": 0,
+      "examples": []
+    },
+    "liquidity_stress": {
+      "hits": 1,
+      "examples": [
+        {
+          "section": "Item 1A Risk Factors",
+          "text": "If global financial markets decline for long periods, or if there is a downgrade of the U.S. government credit rating due to an actual or threatened default on government debt, our investment portfolio may be adversely affected and we could determine that more of our investments have experienced an other-than-temporary decline in fair value, requiring impairment charges that could adversely affect our consolidated financial statements."
+        }
+      ]
+    },
+    "impairment": {
+      "hits": 8,
+      "examples": [
+        {
+          "section": "Item 7 MD&A",
+          "text": "Once a decline in fair value is determined to be other-than-temporary, an impairment charge is recorded in other income (expense), net and a new cost basis in the investment is established."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "We are required to estimate the fair value of the investment to determine the amount of the impairment loss."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "Once an investment is determined to be impaired, an impairment charge is recorded in other income (expense), net."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "Application of the goodwill impairment test requires judgment, including the identification of reporting units, assignment of assets and liabilities to reporting units, assignment of goodwill to reporting units, and determination of the fair value of each reporting unit."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "Changes in these estimates and assumptions could materially affect the determination of fair value and goodwill impairment for each reporting unit."
+        }
+      ]
+    }
+  },
+  "text_stats": {
+    "section_1A": {
+      "words": 8834,
+      "fog_index": 21.2
+    },
+    "section_7": {
+      "words": 8892,
+      "fog_index": 21.4
+    },
+    "sections_present": [
+      "Item 1 Business",
+      "Item 1A Risk Factors",
+      "Item 3 Legal Proceedings",
+      "Item 7 MD&A",
+      "Item 7A Market Risk",
+      "Item 8 Financial Statements",
+      "Item 9 Changes in/Disagreements with Accountants",
+      "Item 9A Controls and Procedures",
+      "Item 14 Exhibits/Financial Statements",
+      "Item 15 Exhibits/Financial Statements"
+    ]
+  },
+  "company": {
+    "name": "Microsoft Corp",
+    "cik": "789019",
+    "year": 2019,
+    "group": "control",
+    "known_outcome": "None known"
+  },
+  "filename": "789019_2019.htm"
+}

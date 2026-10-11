@@ -1,0 +1,213 @@
+{
+  "score": 28.4,
+  "band": "Moderate",
+  "breakdown": {
+    "going_concern": {
+      "label": "Going-concern doubt",
+      "hits": 0,
+      "points": 0.0,
+      "max": 25
+    },
+    "restatement": {
+      "label": "Restatement of prior financials",
+      "hits": 1,
+      "points": 6.7,
+      "max": 20
+    },
+    "internal_control": {
+      "label": "Internal-control weakness",
+      "hits": 0,
+      "points": 0.0,
+      "max": 20
+    },
+    "regulatory": {
+      "label": "Regulatory / criminal investigation",
+      "hits": 0,
+      "points": 0.0,
+      "max": 15
+    },
+    "securities_litigation": {
+      "label": "Securities / shareholder litigation",
+      "hits": 0,
+      "points": 0.0,
+      "max": 10
+    },
+    "auditor_change": {
+      "label": "Auditor change / disagreement",
+      "hits": 0,
+      "points": 0.0,
+      "max": 10
+    },
+    "off_balance_sheet": {
+      "label": "Off-balance-sheet / related-party structures",
+      "hits": 26,
+      "points": 10.0,
+      "max": 10
+    },
+    "aggressive_accounting": {
+      "label": "Aggressive revenue / accounting choices",
+      "hits": 4,
+      "points": 10.0,
+      "max": 10
+    },
+    "liquidity_stress": {
+      "label": "Liquidity / covenant stress",
+      "hits": 0,
+      "points": 0.0,
+      "max": 10
+    },
+    "impairment": {
+      "label": "Large impairments / write-downs",
+      "hits": 1,
+      "points": 1.7,
+      "max": 5
+    }
+  },
+  "reasons": [
+    {
+      "category": "Off-balance-sheet / related-party structures",
+      "points": 10.0,
+      "hits": 26,
+      "quote": "Investments in Unconsolidated Affiliates.",
+      "section": "Item 14 Exhibits/Financial Statements"
+    },
+    {
+      "category": "Aggressive revenue / accounting choices",
+      "points": 10.0,
+      "hits": 4,
+      "quote": "Contracts associated with this activity are accounted for using the mark-to-market method of accounting.",
+      "section": "Item 7 MD&A"
+    },
+    {
+      "category": "Restatement of prior financials",
+      "points": 6.7,
+      "hits": 1,
+      "quote": "Restated 1994 Deferral Plan (Exhibit 4.3 to Enron Form S-8 Registration Statement, File No. 333-48193). *10.43 - Employment Agreement between Enron Capital Trade & Resources Corp. and Jeffrey K.",
+      "section": "Item 14 Exhibits/Financial Statements"
+    },
+    {
+      "category": "Large impairments / write-downs",
+      "points": 1.7,
+      "hits": 1,
+      "quote": "Items impacting comparability in 2000 included a pre-tax gain of $121 million related to the issuance of common stock by The New Power Company and a charge of $59 million related to the write-off of certain information technology and other costs.",
+      "section": "Item 7 MD&A"
+    }
+  ],
+  "evidence": {
+    "going_concern": {
+      "hits": 0,
+      "examples": []
+    },
+    "restatement": {
+      "hits": 1,
+      "examples": [
+        {
+          "section": "Item 14 Exhibits/Financial Statements",
+          "text": "Restated 1994 Deferral Plan (Exhibit 4.3 to Enron Form S-8 Registration Statement, File No. 333-48193). *10.43 - Employment Agreement between Enron Capital Trade & Resources Corp. and Jeffrey K."
+        }
+      ]
+    },
+    "internal_control": {
+      "hits": 0,
+      "examples": []
+    },
+    "regulatory": {
+      "hits": 0,
+      "examples": []
+    },
+    "securities_litigation": {
+      "hits": 0,
+      "examples": []
+    },
+    "auditor_change": {
+      "hits": 0,
+      "examples": []
+    },
+    "off_balance_sheet": {
+      "hits": 26,
+      "examples": [
+        {
+          "section": "Item 14 Exhibits/Financial Statements",
+          "text": "Investments in Unconsolidated Affiliates."
+        },
+        {
+          "section": "Item 14 Exhibits/Financial Statements",
+          "text": "Investments in unconsolidated affiliates are accounted for by the equity method, except for certain investments resulting from Enron's merchant investment activities which are included at market value in \"Other Investments\" in the Consolidated Balance Sheet."
+        },
+        {
+          "section": "Item 14 Exhibits/Financial Statements",
+          "text": "Guarantees of liabilities of unconsolidated entities and residual value guarantees have no carrying value and fair values which are not readily determinable (see Note 15). 4 MERCHANT ACTIVITIES An analysis of the composition of Enron's merchant investments and energy assets at December 31, 2000 and 1999 is as follows: Enron provides capital primarily to energy and technology-related businesses seeking debt or equity financing."
+        },
+        {
+          "section": "Item 14 Exhibits/Financial Statements",
+          "text": "The merchant investments made by Enron and certain of its unconsolidated affiliates (see Note 9) are carried at fair value and include public and private equity, government securities with maturities of more than 90 days, debt and interests in limited partnerships."
+        },
+        {
+          "section": "Item 14 Exhibits/Financial Statements",
+          "text": "In 2000 and 1999, Enron entered into various transactions with related parties, which resulted in an exchange of assets and an increase in common stock of $171 million in 2000."
+        }
+      ]
+    },
+    "aggressive_accounting": {
+      "hits": 4,
+      "examples": [
+        {
+          "section": "Item 7 MD&A",
+          "text": "Contracts associated with this activity are accounted for using the mark-to-market method of accounting."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "The commodity portion of the contracts associated with this business are accounted for using the mark-to-market method of accounting."
+        },
+        {
+          "section": "Item 14 Exhibits/Financial Statements",
+          "text": "Instruments utilized in connection with trading activities are accounted for using the mark-to-market method."
+        },
+        {
+          "section": "Item 14 Exhibits/Financial Statements",
+          "text": "Under the mark-to-market method of accounting, forwards, swaps, options, energy transportation contracts utilized for trading activities and other instruments with third parties are reflected at fair value and are shown as \"Assets and Liabilities from Price Risk Management Activities\" in the Consolidated Balance Sheet."
+        }
+      ]
+    },
+    "liquidity_stress": {
+      "hits": 0,
+      "examples": []
+    },
+    "impairment": {
+      "hits": 1,
+      "examples": [
+        {
+          "section": "Item 7 MD&A",
+          "text": "Items impacting comparability in 2000 included a pre-tax gain of $121 million related to the issuance of common stock by The New Power Company and a charge of $59 million related to the write-off of certain information technology and other costs."
+        }
+      ]
+    }
+  },
+  "text_stats": {
+    "section_1A": {
+      "words": 0,
+      "fog_index": null
+    },
+    "section_7": {
+      "words": 5208,
+      "fog_index": 22.1
+    },
+    "sections_present": [
+      "Item 1 Business",
+      "Item 3 Legal Proceedings",
+      "Item 7 MD&A",
+      "Item 7A Market Risk",
+      "Item 8 Financial Statements",
+      "Item 9 Changes in/Disagreements with Accountants",
+      "Item 14 Exhibits/Financial Statements"
+    ]
+  },
+  "company": {
+    "name": "Enron Corp",
+    "cik": "1024401",
+    "year": 2000,
+    "group": "treatment",
+    "known_outcome": "Accounting fraud / SPEs; bankruptcy Dec 2001"
+  },
+  "filename": "1024401_2000.txt"
+}

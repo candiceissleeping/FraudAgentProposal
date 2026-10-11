@@ -1,0 +1,245 @@
+{
+  "score": 38.3,
+  "band": "Moderate",
+  "breakdown": {
+    "going_concern": {
+      "label": "Going-concern doubt",
+      "hits": 0,
+      "points": 0.0,
+      "max": 25
+    },
+    "restatement": {
+      "label": "Restatement of prior financials",
+      "hits": 0,
+      "points": 0.0,
+      "max": 20
+    },
+    "internal_control": {
+      "label": "Internal-control weakness",
+      "hits": 0,
+      "points": 0.0,
+      "max": 20
+    },
+    "regulatory": {
+      "label": "Regulatory / criminal investigation",
+      "hits": 2,
+      "points": 10.0,
+      "max": 15
+    },
+    "securities_litigation": {
+      "label": "Securities / shareholder litigation",
+      "hits": 1,
+      "points": 3.3,
+      "max": 10
+    },
+    "auditor_change": {
+      "label": "Auditor change / disagreement",
+      "hits": 0,
+      "points": 0.0,
+      "max": 10
+    },
+    "off_balance_sheet": {
+      "label": "Off-balance-sheet / related-party structures",
+      "hits": 4,
+      "points": 10.0,
+      "max": 10
+    },
+    "aggressive_accounting": {
+      "label": "Aggressive revenue / accounting choices",
+      "hits": 1,
+      "points": 3.3,
+      "max": 10
+    },
+    "liquidity_stress": {
+      "label": "Liquidity / covenant stress",
+      "hits": 2,
+      "points": 6.7,
+      "max": 10
+    },
+    "impairment": {
+      "label": "Large impairments / write-downs",
+      "hits": 7,
+      "points": 5.0,
+      "max": 5
+    }
+  },
+  "reasons": [
+    {
+      "category": "Regulatory / criminal investigation",
+      "points": 10.0,
+      "hits": 2,
+      "quote": "In connection with the Intermedia merger, the Antitrust Division of the Department of Justice required us to dispose of Intermedia's Internet service provider business, which provided integrated Internet connectivity solutions and effective December 1, 2001, we sold substantially all of the Internet",
+      "section": "Item 1 Business"
+    },
+    {
+      "category": "Off-balance-sheet / related-party structures",
+      "points": 10.0,
+      "hits": 4,
+      "quote": "RELATED PARTY TRANSACTIONS We have entered into certain loan and guaranty arrangements involving Bernard J.",
+      "section": "Item 7 MD&A"
+    },
+    {
+      "category": "Liquidity / covenant stress",
+      "points": 6.7,
+      "hits": 2,
+      "quote": "Our senior debt is currently rated as follows: Any downgrade in rating will not trigger any events on our outstanding bond debt, although the cost of future bond offerings may increase.",
+      "section": "Item 7 MD&A"
+    },
+    {
+      "category": "Large impairments / write-downs",
+      "points": 5.0,
+      "hits": 7,
+      "quote": "Selling, general and administrative expenses for 2001 include pre-tax costs of $865 million ($742 million from the WorldCom group and $123 million from the MCI group) related to the write-off of investments in certain publicly traded and privately held companies, $23 million ($12 million from the Wo",
+      "section": "Item 7 MD&A"
+    },
+    {
+      "category": "Securities / shareholder litigation",
+      "points": 3.3,
+      "hits": 1,
+      "quote": "Based on these allegations, the consolidated amended complaint asserts claims for violation of Section 10(b) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated thereunder and Section 20(a) of the Securities Exchange Act of 1934.",
+      "section": "Item 14 Exhibits/Financial Statements"
+    },
+    {
+      "category": "Aggressive revenue / accounting choices",
+      "points": 3.3,
+      "hits": 1,
+      "quote": "Any change in these asset lives would be reported in our statement of operations as soon as any change in estimate is determined.",
+      "section": "Item 7 MD&A"
+    }
+  ],
+  "evidence": {
+    "going_concern": {
+      "hits": 0,
+      "examples": []
+    },
+    "restatement": {
+      "hits": 0,
+      "examples": []
+    },
+    "internal_control": {
+      "hits": 0,
+      "examples": []
+    },
+    "regulatory": {
+      "hits": 2,
+      "examples": [
+        {
+          "section": "Item 1 Business",
+          "text": "In connection with the Intermedia merger, the Antitrust Division of the Department of Justice required us to dispose of Intermedia's Internet service provider business, which provided integrated Internet connectivity solutions and effective December 1, 2001, we sold substantially all of the Internet related assets for approximately $12 million."
+        },
+        {
+          "section": "Item 14 Exhibits/Financial Statements",
+          "text": "In connection with the Intermedia merger, the Antitrust Division of the Department of Justice required us to dispose of Intermedia's Internet service provider business, which provided integrated Internet connectivity solutions, and effective December 1, 2001, we sold substantially all of the Internet related assets for approximately $12 million."
+        }
+      ]
+    },
+    "securities_litigation": {
+      "hits": 1,
+      "examples": [
+        {
+          "section": "Item 14 Exhibits/Financial Statements",
+          "text": "Based on these allegations, the consolidated amended complaint asserts claims for violation of Section 10(b) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated thereunder and Section 20(a) of the Securities Exchange Act of 1934."
+        }
+      ]
+    },
+    "auditor_change": {
+      "hits": 0,
+      "examples": []
+    },
+    "off_balance_sheet": {
+      "hits": 4,
+      "examples": [
+        {
+          "section": "Item 7 MD&A",
+          "text": "RELATED PARTY TRANSACTIONS We have entered into certain loan and guaranty arrangements involving Bernard J."
+        },
+        {
+          "section": "Item 14 Exhibits/Financial Statements",
+          "text": "AND SUBSIDIARIES NOTES TO CONSOLIDATED FINANCIAL STATEMENTS DECEMBER 31, 2001 (16) RELATED PARTY TRANSACTIONS - We have entered into certain loan and guaranty arrangements involving Bernard J."
+        },
+        {
+          "section": "Item 14 Exhibits/Financial Statements",
+          "text": "The following is a reconciliation of the segment information to income before income taxes, minority interests and cumulative effect of accounting change (in millions): Information about the WorldCom group's operations by geographic areas are as follows (in millions): (13) RELATED PARTY TRANSACTIONS - See Note 16 to our consolidated financial statements for information pertaining to our related party transactions."
+        },
+        {
+          "section": "Item 14 Exhibits/Financial Statements",
+          "text": "Information about the MCI group's segments is as follows (in millions): (10) SEGMENT AND GEOGRAPHIC INFORMATION - MCI GROUP (AN INTEGRATED BUSINESS OF WORLDCOM, INC.) NOTES TO COMBINED FINANCIAL STATEMENTS DECEMBER 31, 2001 (10) SEGMENT AND GEOGRAPHIC INFORMATION - (CONTINUED) The following is a reconciliation of the segment information to income (loss) before income taxes and cumulative effect of accounting change (in millions): Information about the MCI group's operations by geographic areas are as follows (in millions): (11) RELATED PARTY TRANSACTIONS - See Note 16 to our consolidated finan"
+        }
+      ]
+    },
+    "aggressive_accounting": {
+      "hits": 1,
+      "examples": [
+        {
+          "section": "Item 7 MD&A",
+          "text": "Any change in these asset lives would be reported in our statement of operations as soon as any change in estimate is determined."
+        }
+      ]
+    },
+    "liquidity_stress": {
+      "hits": 2,
+      "examples": [
+        {
+          "section": "Item 7 MD&A",
+          "text": "Our senior debt is currently rated as follows: Any downgrade in rating will not trigger any events on our outstanding bond debt, although the cost of future bond offerings may increase."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "Our management frequently communicates with the rating agencies and currently believes that a downgrade below Baa3 or BBB- is not likely."
+        }
+      ]
+    },
+    "impairment": {
+      "hits": 7,
+      "examples": [
+        {
+          "section": "Item 7 MD&A",
+          "text": "Selling, general and administrative expenses for 2001 include pre-tax costs of $865 million ($742 million from the WorldCom group and $123 million from the MCI group) related to the write-off of investments in certain publicly traded and privately held companies, $23 million ($12 million from the WorldCom group and $11 million from the MCI group) as a result of the costs associated with the tracking stock capitalization and $207 million associated with domestic and international severance packages and other costs related to our 2001 workforce reductions ($159 million allocated to the WorldCom "
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "This, combined with the third quarter 2000 declines in stock prices for many companies in the telecommunications industry and the overall tightening of the capital markets, which limited the access of many telecommunications providers to the necessary capital to continue operations, led to our specific write-off of such accounts."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "Selling, general and administrative expenses for 2001 include pre-tax costs of $742 million related to the write-off of investments in certain publicly traded and privately held companies, $12 million as a result of the costs associated with the tracking stock capitalization and $159 million associated with domestic and international severance packages and other costs related to our 2001 workforce reductions."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "Selling, general and administrative expenses for 2001 include pre-tax costs of $123 million related to the write-off of investments in certain publicly traded and privately held companies, $11 million as a result of the costs associated with the tracking stock capitalization and $48 million associated with domestic severance packages and other costs related to our February 2001 workforce reductions."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "We currently estimate that we will record an impairment charge upon completion of the initial impairment review of approximately $15 to $20 billion, with approximately $1 billion at the MCI group."
+        }
+      ]
+    }
+  },
+  "text_stats": {
+    "section_1A": {
+      "words": 0,
+      "fog_index": null
+    },
+    "section_7": {
+      "words": 15890,
+      "fog_index": 20.5
+    },
+    "sections_present": [
+      "Item 1 Business",
+      "Item 3 Legal Proceedings",
+      "Item 7 MD&A",
+      "Item 7A Market Risk",
+      "Item 8 Financial Statements",
+      "Item 9 Changes in/Disagreements with Accountants",
+      "Item 14 Exhibits/Financial Statements"
+    ]
+  },
+  "company": {
+    "name": "WorldCom Inc",
+    "cik": "723527",
+    "year": 2001,
+    "group": "treatment",
+    "known_outcome": "Line-cost capitalisation fraud disclosed Jun 2002"
+  },
+  "filename": "723527_2001.txt"
+}

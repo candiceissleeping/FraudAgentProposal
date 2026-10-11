@@ -1,0 +1,244 @@
+{
+  "score": 35.0,
+  "band": "Moderate",
+  "breakdown": {
+    "going_concern": {
+      "label": "Going-concern doubt",
+      "hits": 0,
+      "points": 0.0,
+      "max": 25
+    },
+    "restatement": {
+      "label": "Restatement of prior financials",
+      "hits": 0,
+      "points": 0.0,
+      "max": 20
+    },
+    "internal_control": {
+      "label": "Internal-control weakness",
+      "hits": 0,
+      "points": 0.0,
+      "max": 20
+    },
+    "regulatory": {
+      "label": "Regulatory / criminal investigation",
+      "hits": 0,
+      "points": 0.0,
+      "max": 15
+    },
+    "securities_litigation": {
+      "label": "Securities / shareholder litigation",
+      "hits": 4,
+      "points": 10.0,
+      "max": 10
+    },
+    "auditor_change": {
+      "label": "Auditor change / disagreement",
+      "hits": 0,
+      "points": 0.0,
+      "max": 10
+    },
+    "off_balance_sheet": {
+      "label": "Off-balance-sheet / related-party structures",
+      "hits": 23,
+      "points": 10.0,
+      "max": 10
+    },
+    "aggressive_accounting": {
+      "label": "Aggressive revenue / accounting choices",
+      "hits": 0,
+      "points": 0.0,
+      "max": 10
+    },
+    "liquidity_stress": {
+      "label": "Liquidity / covenant stress",
+      "hits": 7,
+      "points": 10.0,
+      "max": 10
+    },
+    "impairment": {
+      "label": "Large impairments / write-downs",
+      "hits": 4,
+      "points": 5.0,
+      "max": 5
+    }
+  },
+  "reasons": [
+    {
+      "category": "Securities / shareholder litigation",
+      "points": 10.0,
+      "hits": 4,
+      "quote": "LBI was named as a defendant in numerous purported securities class actions that were filed between March and December 2001 in the United States District Court for the Southern District of New York (the “New York District Court”).",
+      "section": "Item 3 Legal Proceedings"
+    },
+    {
+      "category": "Off-balance-sheet / related-party structures",
+      "points": 10.0,
+      "hits": 23,
+      "quote": "MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS Contents Management’s Discussion and Analysis of Financial Condition and Results of Operations Introduction Forward-Looking Statements Executive Overview Certain Factors Affecting Results of Operations Critical Acc",
+      "section": "Item 7 MD&A"
+    },
+    {
+      "category": "Liquidity / covenant stress",
+      "points": 10.0,
+      "hits": 7,
+      "quote": "Also during the latter part of the 2007 fiscal year, risk aversion escalated following rating agency downgrades of certain structured assets which, in part, led to many market participants re-pricing assets and taking large write-downs.",
+      "section": "Item 7 MD&A"
+    },
+    {
+      "category": "Large impairments / write-downs",
+      "points": 5.0,
+      "hits": 4,
+      "quote": "Also during the latter part of the 2007 fiscal year, risk aversion escalated following rating agency downgrades of certain structured assets which, in part, led to many market participants re-pricing assets and taking large write-downs.",
+      "section": "Item 7 MD&A"
+    }
+  ],
+  "evidence": {
+    "going_concern": {
+      "hits": 0,
+      "examples": []
+    },
+    "restatement": {
+      "hits": 0,
+      "examples": []
+    },
+    "internal_control": {
+      "hits": 0,
+      "examples": []
+    },
+    "regulatory": {
+      "hits": 0,
+      "examples": []
+    },
+    "securities_litigation": {
+      "hits": 4,
+      "examples": [
+        {
+          "section": "Item 3 Legal Proceedings",
+          "text": "LBI was named as a defendant in numerous purported securities class actions that were filed between March and December 2001 in the United States District Court for the Southern District of New York (the “New York District Court”)."
+        },
+        {
+          "section": "Item 3 Legal Proceedings",
+          "text": "Relief sought included class certification, injunctive relief, an accounting and declarations requiring defendants to indemnify Breakaway in the pending consolidated IPO securities class actions, and compensatory damages."
+        },
+        {
+          "section": "Item 3 Legal Proceedings",
+          "text": "The actions allege conflicts of interest between LBI’s investment banking business and research activities and seek to assert claims pursuant to Sections 10(b) and 20(a) of the Exchange Act and Rule 10b-5 thereunder."
+        },
+        {
+          "section": "Item 3 Legal Proceedings",
+          "text": "Derivative Litigation Beginning in mid-April 2007, three purported shareholder derivative actions were filed against Holdings (as a nominal defendant) and certain of its current and former officers and directors in the New York District Court, all relating to Holdings’ historical stock option granting processes."
+        }
+      ]
+    },
+    "auditor_change": {
+      "hits": 0,
+      "examples": []
+    },
+    "off_balance_sheet": {
+      "hits": 23,
+      "examples": [
+        {
+          "section": "Item 7 MD&A",
+          "text": "MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS Contents Management’s Discussion and Analysis of Financial Condition and Results of Operations Introduction Forward-Looking Statements Executive Overview Certain Factors Affecting Results of Operations Critical Accounting Policies and Estimates Consolidated Results of Operations Business Segments Geographic Revenues Liquidity, Funding and Capital Resources Contractual Obligations and Lending-Related Commitments Off-Balance-Sheet Arrangements Risk Management 2-for-1 Stock Split Accounting and Regulatory Develo"
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "We determine whether we have a controlling financial interest in an entity by first determining whether the entity is a voting interest entity (sometimes referred to as a non-VIE), a variable interest entity (“VIE”) or a qualified special purpose entity (“QSPE”)."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "Variable Interest Entity."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "In accordance with Financial Accounting Standards Board (“FASB”) Interpretation (“FIN”) No. 46-R, Consolidation of Variable Interest Entities (revised December 2003)-an interpretation of ARB No. 51 (“FIN 46(R)”), we are the primary beneficiary if we have a variable interest, or a combination of variable interests, that will either (i) absorb a majority of the VIEs expected losses, (ii) receive a majority of the VIEs expected residual returns, or (iii) both."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "To determine if we are the primary beneficiary of a VIE, we review, among other factors, the VIE’s design, capital structure, contractual terms, which interests create or absorb variability and related party relationships, if any."
+        }
+      ]
+    },
+    "aggressive_accounting": {
+      "hits": 0,
+      "examples": []
+    },
+    "liquidity_stress": {
+      "hits": 7,
+      "examples": [
+        {
+          "section": "Item 7 MD&A",
+          "text": "Also during the latter part of the 2007 fiscal year, risk aversion escalated following rating agency downgrades of certain structured assets which, in part, led to many market participants re-pricing assets and taking large write-downs."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "In addition, the liquidity pool is sized to cover the impact of a one notch downgrade of Holdings’ long-term debt ratings, including the additional collateral that would be required to be posted against derivative contracts and other LEHMAN BROTHERS HOLDINGS INC."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "For a further discussion of our commitments, see “Contractual Obligations and Lending-Related Commitments” in this MD&A and Note 9, “Commitments, Contingencies and Guarantees,” to the Consolidated Financial Statements. · Ratings downgrade - Cash capital is utilized to cover the liquidity impact of a one-notch downgrade on Holdings."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "A ratings downgrade would increase the amount of collateral to be posted against our derivative contracts and other secured funding arrangements."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "For a further discussion of credit ratings and the potential impacts of ratings downgrades, see “Credit Ratings” below. · Client financing - We provide secured financing to our clients typically through repurchase and prime broker agreements."
+        }
+      ]
+    },
+    "impairment": {
+      "hits": 4,
+      "examples": [
+        {
+          "section": "Item 7 MD&A",
+          "text": "Also during the latter part of the 2007 fiscal year, risk aversion escalated following rating agency downgrades of certain structured assets which, in part, led to many market participants re-pricing assets and taking large write-downs."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "These estimates and assumptions could have a significant effect on whether or not an impairment charge is recognized and the magnitude of such a charge."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "The gain on sale was not material. · We incurred non-personnel costs of approximately $62 million, including a goodwill write-down of approximately $27 million, and approximately $30 million of severance expense (reported in Compensation and benefits), in connection with the announced restructuring of the Firm’s global residential mortgage origination business, including the closure of BNC Mortgage LLC, our U.S. subprime residential mortgage origination platform, the rescaling of operations in the U.S. and U.K. due to market conditions and product revisions and the closure of our Korean mortga"
+        },
+        {
+          "section": "Item 8 Financial Statements",
+          "text": "If the expected future undiscounted cash flows are less than the carrying amount of the asset, an impairment loss is recognized to the extent the carrying value of the asset exceeds its fair value."
+        }
+      ]
+    }
+  },
+  "text_stats": {
+    "section_1A": {
+      "words": 6926,
+      "fog_index": 22.9
+    },
+    "section_7": {
+      "words": 29061,
+      "fog_index": 22.0
+    },
+    "sections_present": [
+      "Item 1 Business",
+      "Item 1A Risk Factors",
+      "Item 3 Legal Proceedings",
+      "Item 7 MD&A",
+      "Item 7A Market Risk",
+      "Item 8 Financial Statements",
+      "Item 9 Changes in/Disagreements with Accountants",
+      "Item 9A Controls and Procedures",
+      "Item 14 Exhibits/Financial Statements",
+      "Item 15 Exhibits/Financial Statements"
+    ]
+  },
+  "company": {
+    "name": "Lehman Brothers Holdings",
+    "cik": "806085",
+    "year": 2007,
+    "group": "treatment",
+    "known_outcome": "Repo 105 balance-sheet window dressing; bankruptcy Sep 2008"
+  },
+  "filename": "806085_2007.htm"
+}

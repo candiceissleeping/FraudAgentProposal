@@ -1,0 +1,288 @@
+{
+  "score": 66.7,
+  "band": "Elevated",
+  "breakdown": {
+    "going_concern": {
+      "label": "Going-concern doubt",
+      "hits": 2,
+      "points": 16.7,
+      "max": 25
+    },
+    "restatement": {
+      "label": "Restatement of prior financials",
+      "hits": 0,
+      "points": 0.0,
+      "max": 20
+    },
+    "internal_control": {
+      "label": "Internal-control weakness",
+      "hits": 0,
+      "points": 0.0,
+      "max": 20
+    },
+    "regulatory": {
+      "label": "Regulatory / criminal investigation",
+      "hits": 7,
+      "points": 15.0,
+      "max": 15
+    },
+    "securities_litigation": {
+      "label": "Securities / shareholder litigation",
+      "hits": 5,
+      "points": 10.0,
+      "max": 10
+    },
+    "auditor_change": {
+      "label": "Auditor change / disagreement",
+      "hits": 0,
+      "points": 0.0,
+      "max": 10
+    },
+    "off_balance_sheet": {
+      "label": "Off-balance-sheet / related-party structures",
+      "hits": 4,
+      "points": 10.0,
+      "max": 10
+    },
+    "aggressive_accounting": {
+      "label": "Aggressive revenue / accounting choices",
+      "hits": 0,
+      "points": 0.0,
+      "max": 10
+    },
+    "liquidity_stress": {
+      "label": "Liquidity / covenant stress",
+      "hits": 4,
+      "points": 10.0,
+      "max": 10
+    },
+    "impairment": {
+      "label": "Large impairments / write-downs",
+      "hits": 42,
+      "points": 5.0,
+      "max": 5
+    }
+  },
+  "reasons": [
+    {
+      "category": "Going-concern doubt",
+      "points": 16.7,
+      "hits": 2,
+      "quote": "In August 2014, the FASB issued guidance which requires management to assess an entity’s ability to continue as a going concern and to provide related disclosures in certain circumstances.",
+      "section": "Item 15 Exhibits/Financial Statements"
+    },
+    {
+      "category": "Regulatory / criminal investigation",
+      "points": 15.0,
+      "hits": 7,
+      "quote": "Federal Trade Commission On May 2, 2012, Medicis received a civil investigative demand from the FTC requiring that Medicis provide to the FTC information and documents relating to various settlement and other agreements with makers of generic SOLODYN® products following patent infringement claims an",
+      "section": "Item 15 Exhibits/Financial Statements"
+    },
+    {
+      "category": "Securities / shareholder litigation",
+      "points": 10.0,
+      "hits": 5,
+      "quote": "Securities Medicis Shareholder Class Actions Prior to the Company’s acquisition of Medicis, several purported holders of then public shares of Medicis filed putative class action lawsuits in the Delaware Court of Chancery and the Arizona Superior Court against Medicis and the members of its Board of",
+      "section": "Item 15 Exhibits/Financial Statements"
+    },
+    {
+      "category": "Off-balance-sheet / related-party structures",
+      "points": 10.0,
+      "hits": 4,
+      "quote": "OFF-BALANCE SHEET ARRANGEMENTS AND CONTRACTUAL OBLIGATIONS We have no off-balance sheet arrangements that have a material current effect or that are reasonably likely to have a material future effect on our results of operations, financial condition, capital expenditures, liquidity, or capital resou",
+      "section": "Item 7 MD&A"
+    },
+    {
+      "category": "Liquidity / covenant stress",
+      "points": 10.0,
+      "hits": 4,
+      "quote": "These factors may include greater than expected operating costs, the difficulty in eliminating certain duplicative costs, facilities and functions, and the outcome of many operational and strategic decisions, some of which have not yet been made; • factors relating to our proposed acquisition of Sal",
+      "section": "Item 7 MD&A"
+    },
+    {
+      "category": "Large impairments / write-downs",
+      "points": 5.0,
+      "hits": 42,
+      "quote": "Net income attributable to Valeant Pharmaceuticals International, Inc. was $913.5 million in 2014, compared with net loss attributable to Valeant Pharmaceuticals International, Inc. of $866.1 million in 2013, reflecting the following factors: (i) an increase in contribution (product sales revenue le",
+      "section": "Item 7 MD&A"
+    }
+  ],
+  "evidence": {
+    "going_concern": {
+      "hits": 2,
+      "examples": [
+        {
+          "section": "Item 15 Exhibits/Financial Statements",
+          "text": "In August 2014, the FASB issued guidance which requires management to assess an entity’s ability to continue as a going concern and to provide related disclosures in certain circumstances."
+        },
+        {
+          "section": "Item 15 Exhibits/Financial Statements",
+          "text": "Under the new guidance, disclosures are required when conditions give rise to substantial doubt about an entity’s ability to continue as a going concern within one year from the financial statement issuance date."
+        }
+      ]
+    },
+    "restatement": {
+      "hits": 0,
+      "examples": []
+    },
+    "internal_control": {
+      "hits": 0,
+      "examples": []
+    },
+    "regulatory": {
+      "hits": 7,
+      "examples": [
+        {
+          "section": "Item 15 Exhibits/Financial Statements",
+          "text": "Federal Trade Commission On May 2, 2012, Medicis received a civil investigative demand from the FTC requiring that Medicis provide to the FTC information and documents relating to various settlement and other agreements with makers of generic SOLODYN® products following patent infringement claims and litigation, each of which was previously filed with the FTC and the Antitrust Division of the Department of Justice, and other efforts principally relating to SOLODYN®."
+        },
+        {
+          "section": "Item 15 Exhibits/Financial Statements",
+          "text": "Subpoenas from the New York Office of Inspector General for the U.S."
+        },
+        {
+          "section": "Item 15 Exhibits/Financial Statements",
+          "text": "Department of Health and Human Services On June 29, 2011, B&L received a subpoena from the New York Office of Inspector General for the U.S."
+        },
+        {
+          "section": "Item 15 Exhibits/Financial Statements",
+          "text": "The government has indicated that the subpoena was issued in connection with a civil investigation, and B&L is cooperating fully with the government’s investigation."
+        },
+        {
+          "section": "Item 15 Exhibits/Financial Statements",
+          "text": "B&L and the Company will continue to work with the Office of Inspector General regarding the scope of the subpoena and any additional specific information that may be requested."
+        }
+      ]
+    },
+    "securities_litigation": {
+      "hits": 5,
+      "examples": [
+        {
+          "section": "Item 15 Exhibits/Financial Statements",
+          "text": "Securities Medicis Shareholder Class Actions Prior to the Company’s acquisition of Medicis, several purported holders of then public shares of Medicis filed putative class action lawsuits in the Delaware Court of Chancery and the Arizona Superior Court against Medicis and the members of its Board of Directors, as well as one or both of Valeant and Merlin Merger Sub (the wholly-owned subsidiary of Valeant formed in connection with the Medicis acquisition)."
+        },
+        {
+          "section": "Item 15 Exhibits/Financial Statements",
+          "text": "Obagi Shareholder Class Actions Prior to the acquisition of all of the outstanding common stock of Obagi, the following complaints were filed: (i) a complaint in the Court of Chancery of the State of Delaware, dated March 22, 2013, and amended on April 1, 2013 and on April 8, 2013, captioned Michael Rubin v."
+        },
+        {
+          "section": "Item 15 Exhibits/Financial Statements",
+          "text": "Each complaint is a purported shareholder class action and names as defendants Obagi and the members of the Obagi Board of Directors."
+        },
+        {
+          "section": "Item 15 Exhibits/Financial Statements",
+          "text": "Solta Medical Shareholder Class Actions Prior to the Company’s completion of the acquisition of Solta Medical, several purported holders of then public shares of Solta Medical filed putative class action lawsuits in the Delaware Court of Chancery and the Superior Court of the State of California, County of Alameda, against Solta Medical and the members of its board of directors, as well as the Company, Valeant, and Sapphire Subsidiary Corp."
+        },
+        {
+          "section": "Item 15 Exhibits/Financial Statements",
+          "text": "Allergan Shareholder Class Action On December 16, 2014, Anthony Basile filed a putative class action lawsuit against the Company, Valeant, AGMS, Pershing Square Capital Management, L.P., PS Management, GP, LLC, PS Fund 1 and William A."
+        }
+      ]
+    },
+    "auditor_change": {
+      "hits": 0,
+      "examples": []
+    },
+    "off_balance_sheet": {
+      "hits": 4,
+      "examples": [
+        {
+          "section": "Item 7 MD&A",
+          "text": "OFF-BALANCE SHEET ARRANGEMENTS AND CONTRACTUAL OBLIGATIONS We have no off-balance sheet arrangements that have a material current effect or that are reasonably likely to have a material future effect on our results of operations, financial condition, capital expenditures, liquidity, or capital resources."
+        },
+        {
+          "section": "Item 15 Exhibits/Financial Statements",
+          "text": "Principles of Consolidation The consolidated financial statements include the accounts of the Company and those of its subsidiaries and any variable interest entities (“VIEs”) for which the Company is the primary beneficiary."
+        },
+        {
+          "section": "Item 15 Exhibits/Financial Statements",
+          "text": "The new guidance has the following stipulations, among others: (i) eliminates the presumption that a general partner should consolidate a limited partnership and eliminates the consolidation model specific to limited partnerships, (ii) clarifies when fees paid to a decision maker should be a factor to include in the consolidation of VIEs, (iii) amends the guidance for assessing how relationships of related parties affect the consolidation analysis of VIEs, and (iv) reduces the number of VIE consolidation models from two to one by eliminating the indefinite deferral for certain investment funds"
+        },
+        {
+          "section": "Item 15 Exhibits/Financial Statements",
+          "text": "Solta Medical’s products include the Thermage CPT® system that provides non-invasive treatment options using radiofrequency energy for skin tightening, the Fraxel® repair system for use in dermatological procedures requiring ablation, coagulation, and resurfacing of soft tissue, the Clear + Brilliant® system to improve skin texture and help prevent the signs of aging skin, and the Liposonix® system that destroys unwanted fat cells resulting in waist circumference reduction. • During the year ended December 31, 2014, the Company completed other smaller acquisitions, including the consolidation "
+        }
+      ]
+    },
+    "aggressive_accounting": {
+      "hits": 0,
+      "examples": []
+    },
+    "liquidity_stress": {
+      "hits": 4,
+      "examples": [
+        {
+          "section": "Item 7 MD&A",
+          "text": "These factors may include greater than expected operating costs, the difficulty in eliminating certain duplicative costs, facilities and functions, and the outcome of many operational and strategic decisions, some of which have not yet been made; • factors relating to our proposed acquisition of Salix, including our ability to consummate such transaction on a timely basis, if at all; the impact of substantial additional debt on our financial condition and results of operations; our ability to effectively and timely integrate the operations of the Company and Salix; our ability to achieve the e"
+        },
+        {
+          "section": "Item 15 Exhibits/Financial Statements",
+          "text": "The Company’s Senior Secured Credit Facilities also contain specified financial covenants (consisting of a secured leverage ratio and an interest coverage ratio), various customary affirmative covenants and specified events of default."
+        },
+        {
+          "section": "Item 15 Exhibits/Financial Statements",
+          "text": "The Company’s indentures also contain certain customary affirmative covenants and specified events of default."
+        },
+        {
+          "section": "Item 15 Exhibits/Financial Statements",
+          "text": "All borrowings under the Senior Secured Credit Facilities are subject to the satisfaction of customary conditions, including the absence of a default or an event of default and the accuracy in all material respects of representations and warranties."
+        }
+      ]
+    },
+    "impairment": {
+      "hits": 42,
+      "examples": [
+        {
+          "section": "Item 7 MD&A",
+          "text": "Net income attributable to Valeant Pharmaceuticals International, Inc. was $913.5 million in 2014, compared with net loss attributable to Valeant Pharmaceuticals International, Inc. of $866.1 million in 2013, reflecting the following factors: (i) an increase in contribution (product sales revenue less cost of goods sold, exclusive of amortization and impairments of finite-lived intangible assets) of $2,113.4 million in 2014, (ii) higher impairment charges in 2013 (primarily driven by the impairment charge for ezogabine/retigabine) and (iii) a net gain related to the divestiture of facial aesth"
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "Those factors were partially offset by: • a decrease in contribution related to divestitures, discontinuations and supply interruptions of $214.2 million in 2014, primarily driven by a decrease in contribution of $149.0 million related to the divestiture of facial aesthetic fillers and toxins in the third quarter of 2014; • an increase in operating expenses (including amortization and impairments of finite-lived intangible assets) of $202.2 million in 2014 primarily due to the acquisitions of new businesses within the segment, partially offset by the impairment charge of $551.6 million related"
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "Those factors were more than offset by: • an increase in operating expenses (including amortization and impairments of finite-lived intangible assets) of $1,333.6 million in 2013, primarily due to an impairment charge of $551.6 million related to ezogabine/retigabine in the third quarter of 2013 and the acquisitions of new businesses within the segment."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "Amortization and Impairments of Finite-Lived Intangible Assets Amortization and impairments of finite-lived intangible assets decreased $351.3 million, or 18%, to $1.6 billion in 2014, primarily due to (i) a decrease of $631.0 million for ezogabine/retigabine due to the impairment charge of $551.6 million recognized in the third quarter of 2013 (which also resulted in lower amortization expense in 2014), (ii) a decrease in amortization of the divested facial aesthetic fillers and toxins assets which were divested in July 2014 of $43.7 million, (iii) impairment charges of $31.5 million recogniz"
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "Amortization and impairments of finite-lived intangible assets increased $973.1 million, or 105%, to $1.9 billion in 2013, primarily due to (i) a net increase of $525.1 million for ezogabine/retigabine, as the impairment charge of $551.6 million in the third quarter of 2013 was partially offset by lower amortization for ezogabine/retigabine of $26.5 million in the fourth quarter of 2013, (ii) the amortization of $351.9 million, in the aggregate, in 2013, primarily related to the Medicis, B&L, and Obagi identifiable intangible assets, (iii) impairment charges of $31.5 million related to the wri"
+        }
+      ]
+    }
+  },
+  "text_stats": {
+    "section_1A": {
+      "words": 10036,
+      "fog_index": 23.8
+    },
+    "section_7": {
+      "words": 21927,
+      "fog_index": 25.2
+    },
+    "sections_present": [
+      "Item 1 Business",
+      "Item 1A Risk Factors",
+      "Item 3 Legal Proceedings",
+      "Item 7 MD&A",
+      "Item 7A Market Risk",
+      "Item 8 Financial Statements",
+      "Item 9 Changes in/Disagreements with Accountants",
+      "Item 9A Controls and Procedures",
+      "Item 14 Exhibits/Financial Statements",
+      "Item 15 Exhibits/Financial Statements"
+    ]
+  },
+  "company": {
+    "name": "Valeant Pharmaceuticals",
+    "cik": "885590",
+    "year": 2014,
+    "group": "treatment",
+    "known_outcome": "Philidor channel / revenue recognition restatement 2016"
+  },
+  "filename": "885590_2014.htm"
+}

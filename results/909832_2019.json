@@ -1,0 +1,248 @@
+{
+  "score": 48.3,
+  "band": "Moderate",
+  "breakdown": {
+    "going_concern": {
+      "label": "Going-concern doubt",
+      "hits": 0,
+      "points": 0.0,
+      "max": 25
+    },
+    "restatement": {
+      "label": "Restatement of prior financials",
+      "hits": 1,
+      "points": 6.7,
+      "max": 20
+    },
+    "internal_control": {
+      "label": "Internal-control weakness",
+      "hits": 6,
+      "points": 20.0,
+      "max": 20
+    },
+    "regulatory": {
+      "label": "Regulatory / criminal investigation",
+      "hits": 1,
+      "points": 5.0,
+      "max": 15
+    },
+    "securities_litigation": {
+      "label": "Securities / shareholder litigation",
+      "hits": 2,
+      "points": 6.7,
+      "max": 10
+    },
+    "auditor_change": {
+      "label": "Auditor change / disagreement",
+      "hits": 0,
+      "points": 0.0,
+      "max": 10
+    },
+    "off_balance_sheet": {
+      "label": "Off-balance-sheet / related-party structures",
+      "hits": 1,
+      "points": 3.3,
+      "max": 10
+    },
+    "aggressive_accounting": {
+      "label": "Aggressive revenue / accounting choices",
+      "hits": 1,
+      "points": 3.3,
+      "max": 10
+    },
+    "liquidity_stress": {
+      "label": "Liquidity / covenant stress",
+      "hits": 0,
+      "points": 0.0,
+      "max": 10
+    },
+    "impairment": {
+      "label": "Large impairments / write-downs",
+      "hits": 2,
+      "points": 3.3,
+      "max": 5
+    }
+  },
+  "reasons": [
+    {
+      "category": "Internal-control weakness",
+      "points": 20.0,
+      "hits": 6,
+      "quote": "As disclosed in Part II Item 9A Controls and Procedures in our Annual Report on Form 10-K for the fiscal year ended September 2, 2018, during the fourth quarter of fiscal 2018 we identified a material weakness in internal control related to ineffective information technology general controls (ITGCs)",
+      "section": "Item 9A Controls and Procedures"
+    },
+    {
+      "category": "Restatement of prior financials",
+      "points": 6.7,
+      "hits": 1,
+      "quote": "On January 24, 2019, shareholders approved the adoption of the 2019 Incentive Plan, which replaced the Seventh Restated 2002 Stock Incentive Plan (Seventh Plan).",
+      "section": "Item 8 Financial Statements"
+    },
+    {
+      "category": "Securities / shareholder litigation",
+      "points": 6.7,
+      "hits": 2,
+      "quote": "The Company and its CEO and CFO are defendants in putative class actions brought on behalf of shareholders who acquired Company stock between June 6 and October 25, 2018.",
+      "section": "Item 8 Financial Statements"
+    },
+    {
+      "category": "Regulatory / criminal investigation",
+      "points": 5.0,
+      "hits": 1,
+      "quote": "We are or may become involved in a number of legal proceedings and audits, including grand jury investigations, government and agency investigations, and consumer, employment, tort, unclaimed property laws, and other litigation.",
+      "section": "Item 1A Risk Factors"
+    },
+    {
+      "category": "Off-balance-sheet / related-party structures",
+      "points": 3.3,
+      "hits": 1,
+      "quote": "Off-Balance Sheet Arrangements In the opinion of management, we have no off-balance sheet arrangements that have had or are reasonably likely to have a material current or future effect on our financial condition or financial statements, other than operating leases, included in the table above and d",
+      "section": "Item 7 MD&A"
+    },
+    {
+      "category": "Aggressive revenue / accounting choices",
+      "points": 3.3,
+      "hits": 1,
+      "quote": "Foreign-currency transaction gains (losses), net include the revaluation and settlement of monetary assets and liabilities and mark-to-market adjustments for forward foreign-exchange contracts by our Canadian and Other International operations.",
+      "section": "Item 7 MD&A"
+    },
+    {
+      "category": "Large impairments / write-downs",
+      "points": 3.3,
+      "hits": 2,
+      "quote": "Write-offs of receivables were immaterial in 2019, 2018, and 2017.",
+      "section": "Item 8 Financial Statements"
+    }
+  ],
+  "evidence": {
+    "going_concern": {
+      "hits": 0,
+      "examples": []
+    },
+    "restatement": {
+      "hits": 1,
+      "examples": [
+        {
+          "section": "Item 8 Financial Statements",
+          "text": "On January 24, 2019, shareholders approved the adoption of the 2019 Incentive Plan, which replaced the Seventh Restated 2002 Stock Incentive Plan (Seventh Plan)."
+        }
+      ]
+    },
+    "internal_control": {
+      "hits": 6,
+      "examples": [
+        {
+          "section": "Item 9A Controls and Procedures",
+          "text": "As disclosed in Part II Item 9A Controls and Procedures in our Annual Report on Form 10-K for the fiscal year ended September 2, 2018, during the fourth quarter of fiscal 2018 we identified a material weakness in internal control related to ineffective information technology general controls (ITGCs) in the areas of user access and program change-management over certain information technology (IT) systems that support the Company’s financial reporting processes."
+        },
+        {
+          "section": "Item 9A Controls and Procedures",
+          "text": "As a result we have concluded the material weakness has been remediated as of September 1, 2019."
+        },
+        {
+          "section": "Item 1A Risk Factors",
+          "text": "We previously identified a material weakness in our internal control related to ineffective information technology general controls and if we fail to maintain an effective system of internal control in the future, this could result in loss of investor confidence and adversely impact our stock price."
+        },
+        {
+          "section": "Item 1A Risk Factors",
+          "text": "We reported in our Annual Report on Form 10-K as of September 2, 2018, a material weakness in internal control related to ineffective information technology general controls (ITGCs) in the areas of user access and program change-management over certain information technology systems that support the Company’s financial reporting processes."
+        },
+        {
+          "section": "Item 1A Risk Factors",
+          "text": "During 2019, we completed the remediation measures related to the material weakness and concluded that our internal control over financial reporting was effective as of September 1, 2019."
+        }
+      ]
+    },
+    "regulatory": {
+      "hits": 1,
+      "examples": [
+        {
+          "section": "Item 1A Risk Factors",
+          "text": "We are or may become involved in a number of legal proceedings and audits, including grand jury investigations, government and agency investigations, and consumer, employment, tort, unclaimed property laws, and other litigation."
+        }
+      ]
+    },
+    "securities_litigation": {
+      "hits": 2,
+      "examples": [
+        {
+          "section": "Item 8 Financial Statements",
+          "text": "The Company and its CEO and CFO are defendants in putative class actions brought on behalf of shareholders who acquired Company stock between June 6 and October 25, 2018."
+        },
+        {
+          "section": "Item 8 Financial Statements",
+          "text": "Members of the Board of Directors, one other individual, and the Company are defendants in a shareholder derivative action related to the internal controls and related disclosures identified in the putative class actions, alleging that the individual defendants breached their fiduciary duties."
+        }
+      ]
+    },
+    "auditor_change": {
+      "hits": 0,
+      "examples": []
+    },
+    "off_balance_sheet": {
+      "hits": 1,
+      "examples": [
+        {
+          "section": "Item 7 MD&A",
+          "text": "Off-Balance Sheet Arrangements In the opinion of management, we have no off-balance sheet arrangements that have had or are reasonably likely to have a material current or future effect on our financial condition or financial statements, other than operating leases, included in the table above and discussed in Note 1 and Note 5 to the consolidated financial statements included in Item 8 of this Report."
+        }
+      ]
+    },
+    "aggressive_accounting": {
+      "hits": 1,
+      "examples": [
+        {
+          "section": "Item 7 MD&A",
+          "text": "Foreign-currency transaction gains (losses), net include the revaluation and settlement of monetary assets and liabilities and mark-to-market adjustments for forward foreign-exchange contracts by our Canadian and Other International operations."
+        }
+      ]
+    },
+    "liquidity_stress": {
+      "hits": 0,
+      "examples": []
+    },
+    "impairment": {
+      "hits": 2,
+      "examples": [
+        {
+          "section": "Item 8 Financial Statements",
+          "text": "Write-offs of receivables were immaterial in 2019, 2018, and 2017."
+        },
+        {
+          "section": "Item 8 Financial Statements",
+          "text": "In the event that the carrying value is not considered recoverable, an impairment loss is recognized for the asset group to be held and used equal to the excess of the carrying value above the estimated fair value of the asset group."
+        }
+      ]
+    }
+  },
+  "text_stats": {
+    "section_1A": {
+      "words": 5221,
+      "fog_index": 22.6
+    },
+    "section_7": {
+      "words": 4139,
+      "fog_index": 21.0
+    },
+    "sections_present": [
+      "Item 1 Business",
+      "Item 1A Risk Factors",
+      "Item 3 Legal Proceedings",
+      "Item 7 MD&A",
+      "Item 7A Market Risk",
+      "Item 8 Financial Statements",
+      "Item 9 Changes in/Disagreements with Accountants",
+      "Item 9A Controls and Procedures",
+      "Item 14 Exhibits/Financial Statements",
+      "Item 15 Exhibits/Financial Statements"
+    ]
+  },
+  "company": {
+    "name": "Costco Wholesale",
+    "cik": "909832",
+    "year": 2019,
+    "group": "control",
+    "known_outcome": "None known"
+  },
+  "filename": "909832_2019.htm"
+}

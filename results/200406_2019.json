@@ -1,0 +1,220 @@
+{
+  "score": 30.0,
+  "band": "Moderate",
+  "breakdown": {
+    "going_concern": {
+      "label": "Going-concern doubt",
+      "hits": 0,
+      "points": 0.0,
+      "max": 25
+    },
+    "restatement": {
+      "label": "Restatement of prior financials",
+      "hits": 0,
+      "points": 0.0,
+      "max": 20
+    },
+    "internal_control": {
+      "label": "Internal-control weakness",
+      "hits": 0,
+      "points": 0.0,
+      "max": 20
+    },
+    "regulatory": {
+      "label": "Regulatory / criminal investigation",
+      "hits": 15,
+      "points": 15.0,
+      "max": 15
+    },
+    "securities_litigation": {
+      "label": "Securities / shareholder litigation",
+      "hits": 4,
+      "points": 10.0,
+      "max": 10
+    },
+    "auditor_change": {
+      "label": "Auditor change / disagreement",
+      "hits": 0,
+      "points": 0.0,
+      "max": 10
+    },
+    "off_balance_sheet": {
+      "label": "Off-balance-sheet / related-party structures",
+      "hits": 0,
+      "points": 0.0,
+      "max": 10
+    },
+    "aggressive_accounting": {
+      "label": "Aggressive revenue / accounting choices",
+      "hits": 0,
+      "points": 0.0,
+      "max": 10
+    },
+    "liquidity_stress": {
+      "label": "Liquidity / covenant stress",
+      "hits": 0,
+      "points": 0.0,
+      "max": 10
+    },
+    "impairment": {
+      "label": "Large impairments / write-downs",
+      "hits": 11,
+      "points": 5.0,
+      "max": 5
+    }
+  },
+  "reasons": [
+    {
+      "category": "Regulatory / criminal investigation",
+      "points": 15.0,
+      "hits": 15,
+      "quote": "FDA may also recommend prosecution to the US Department of Justice.",
+      "section": "Item 1 Business"
+    },
+    {
+      "category": "Securities / shareholder litigation",
+      "points": 10.0,
+      "hits": 4,
+      "quote": "In February 2018, a securities class action lawsuit was filed against Johnson & Johnson and certain named officers in the United States District Court for the District of New Jersey, alleging that Johnson & Johnson violated the federal securities laws by failing to adequately disclose the alleged as",
+      "section": "Item 8 Financial Statements"
+    },
+    {
+      "category": "Large impairments / write-downs",
+      "points": 5.0,
+      "hits": 11,
+      "quote": "The impairment charge was based on additional information, including clinical data, which became available and led to the Company's decision to abandon the development of AL-8176.",
+      "section": "Item 7 MD&A"
+    }
+  ],
+  "evidence": {
+    "going_concern": {
+      "hits": 0,
+      "examples": []
+    },
+    "restatement": {
+      "hits": 0,
+      "examples": []
+    },
+    "internal_control": {
+      "hits": 0,
+      "examples": []
+    },
+    "regulatory": {
+      "hits": 15,
+      "examples": [
+        {
+          "section": "Item 1 Business",
+          "text": "FDA may also recommend prosecution to the US Department of Justice."
+        },
+        {
+          "section": "Item 8 Financial Statements",
+          "text": "In addition, the Company has received preliminary inquiries and subpoenas to produce documents regarding these matters from Senator Murray, a member of the Senate Committee on Health, Education, Labor and Pensions, the Department of Justice, the Securities and Exchange Commission and the U.S."
+        },
+        {
+          "section": "Item 8 Financial Statements",
+          "text": "Johnson & Johnson, JPI and other pharmaceutical companies have also received subpoenas or requests for information related to opioids marketing practices from the following state Attorneys General: Alaska, Indiana, Montana, New Hampshire, South Carolina, Tennessee, Texas and Washington."
+        },
+        {
+          "section": "Item 8 Financial Statements",
+          "text": "In August 2019, Johnson & Johnson received a grand jury subpoena from the United States Attorney’s Office for the Eastern District of New York for documents related to the Company’s anti-diversion policies and procedures and distribution of its opioid medications, in what the Company understands to be part of a broader investigation into manufacturers’ and distributors’ monitoring programs and reporting under the Controlled Substances Act."
+        },
+        {
+          "section": "Item 8 Financial Statements",
+          "text": "In September 2019, Johnson & Johnson received subpoenas from the New York State Department of Financial Services (NYDFS) as part of an industry-wide inquiry into the effect of opioid prescriptions on New York health insurance premiums."
+        }
+      ]
+    },
+    "securities_litigation": {
+      "hits": 4,
+      "examples": [
+        {
+          "section": "Item 8 Financial Statements",
+          "text": "In February 2018, a securities class action lawsuit was filed against Johnson & Johnson and certain named officers in the United States District Court for the District of New Jersey, alleging that Johnson & Johnson violated the federal securities laws by failing to adequately disclose the alleged asbestos contamination in body powders containing talc, primarily JOHNSON'S® Baby Powder, and that purchasers of Johnson & Johnson’s shares suffered losses as a result."
+        },
+        {
+          "section": "Item 8 Financial Statements",
+          "text": "In October 2018, a shareholder derivative lawsuit was filed against Johnson & Johnson as the nominal defendant and its current directors as defendants in the United States District Court for the District of New Jersey, alleging a breach of fiduciary duties related to the alleged asbestos contamination in body powders containing talc, primarily JOHNSON’S® Baby Powder, and that Johnson & Johnson has suffered damages as a result of those alleged breaches."
+        },
+        {
+          "section": "Item 8 Financial Statements",
+          "text": "In September 2019, the United States District Court for the District of New Jersey granted defendants’ motion to dismiss the shareholder derivative lawsuit, and dismissed the complaint without prejudice."
+        },
+        {
+          "section": "Item 8 Financial Statements",
+          "text": "Four additional shareholder derivative lawsuits have been filed in New Jersey making similar allegations against the Company and its current directors and certain officers."
+        }
+      ]
+    },
+    "auditor_change": {
+      "hits": 0,
+      "examples": []
+    },
+    "off_balance_sheet": {
+      "hits": 0,
+      "examples": []
+    },
+    "aggressive_accounting": {
+      "hits": 0,
+      "examples": []
+    },
+    "liquidity_stress": {
+      "hits": 0,
+      "examples": []
+    },
+    "impairment": {
+      "hits": 11,
+      "examples": [
+        {
+          "section": "Item 7 MD&A",
+          "text": "The impairment charge was based on additional information, including clinical data, which became available and led to the Company's decision to abandon the development of AL-8176."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "In the fiscal third quarter of 2018, the Company recorded an impairment charge of $1.1 billion which included a partial impairment charge of $0.8 billion related to the development program of AL-8176 and an impairment charge of $0.3 billion for the discontinuation of the development project for an anti-thrombin antibody associated with the 2015 acquisition of XO1 Limited."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "Other (Income) Expense, Net: Other (income) expense, net is the account where the Company records gains and losses related to the sale and write-down of certain investments in equity securities held by Johnson & Johnson Innovation - JJDC, Inc."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "Cash flow from operations of $23.4 billion was the result of $15.1 billion of net earnings and $9.1 billion of non-cash expenses and other adjustments for depreciation and amortization, stock-based compensation, assets write-downs (primarily related to the Alios IPR&D asset), and favorable increases in accounts payable, accrued liabilities and other liabilities of $5.5 billion."
+        },
+        {
+          "section": "Item 7 MD&A",
+          "text": "As these assumptions and estimates may change over time, it may or may not be necessary for the Company to record impairment charges."
+        }
+      ]
+    }
+  },
+  "text_stats": {
+    "section_1A": {
+      "words": 3885,
+      "fog_index": 24.2
+    },
+    "section_7": {
+      "words": 8779,
+      "fog_index": 20.1
+    },
+    "sections_present": [
+      "Item 1 Business",
+      "Item 1A Risk Factors",
+      "Item 3 Legal Proceedings",
+      "Item 7 MD&A",
+      "Item 7A Market Risk",
+      "Item 8 Financial Statements",
+      "Item 9 Changes in/Disagreements with Accountants",
+      "Item 9A Controls and Procedures",
+      "Item 14 Exhibits/Financial Statements",
+      "Item 15 Exhibits/Financial Statements"
+    ]
+  },
+  "company": {
+    "name": "Johnson & Johnson",
+    "cik": "200406",
+    "year": 2019,
+    "group": "control",
+    "known_outcome": "Product-liability litigation (talc), no accounting fraud"
+  },
+  "filename": "200406_2019.htm"
+}
