@@ -1,17 +1,192 @@
 {
   "_comment": "Blind round: 5 industry/year-matched pairs (treatment = later-documented accounting problem; control = peer with no known problem). Extra controls are backups in case a filing is empty in EDGAR-CORPUS. 'aliases' are redacted from the blind packets.",
   "companies": [
-    {"name": "Adelphia Communications", "cik": "796486",  "year": 2000, "group": "treatment", "aliases": ["Adelphia", "ADELPHIA", "Rigas", "RIGAS"], "known_outcome": "Undisclosed co-borrowing by Rigas family; bankruptcy 2002"},
-    {"name": "Comcast Corp",            "cik": "22301",   "year": 2000, "group": "control",   "aliases": ["Comcast", "COMCAST", "Roberts", "ROBERTS"]},
-    {"name": "Qwest Communications",    "cik": "1037949", "year": 2001, "group": "treatment", "aliases": ["Qwest", "QWEST", "U S WEST", "U S West", "U.S. WEST", "Nacchio", "NACCHIO"], "known_outcome": "IRU swap revenue; restated ~$2.2B, SEC fraud charges"},
-    {"name": "BellSouth Corp",          "cik": "732713",  "year": 2001, "group": "control",   "aliases": ["BellSouth", "BELLSOUTH", "Cingular", "CINGULAR"]},
-    {"name": "Diamond Foods",           "cik": "1320947", "year": 2011, "group": "treatment", "aliases": ["Diamond Foods", "DIAMOND FOODS", "Diamond", "DIAMOND", "Kettle", "KETTLE", "Pringles", "PRINGLES", "Emerald", "EMERALD", "Pop Secret"], "known_outcome": "Walnut grower payment timing; restated FY2010-11"},
-    {"name": "J.M. Smucker",            "cik": "91419",   "year": 2011, "group": "control",   "aliases": ["Smucker", "SMUCKER", "Folgers", "FOLGERS", "Jif", "Crisco", "Dunkin"]},
-    {"name": "Hershey Co",              "cik": "47111",   "year": 2011, "group": "control_backup", "aliases": ["Hershey", "HERSHEY"]},
-    {"name": "Hertz Global Holdings",   "cik": "1364479", "year": 2013, "group": "treatment", "aliases": ["Hertz", "HERTZ", "Dollar Thrifty", "DOLLAR THRIFTY", "Thrifty", "Dollar"], "known_outcome": "Restated 2011-2013; SEC fraud settlement 2018"},
-    {"name": "Avis Budget Group",       "cik": "723612",  "year": 2013, "group": "control",   "aliases": ["Avis", "AVIS", "Budget", "BUDGET", "Zipcar", "ZIPCAR", "Payless"]},
-    {"name": "MiMedx Group",            "cik": "1376339", "year": 2016, "group": "treatment", "aliases": ["MiMedx", "MIMEDX", "Petit", "PETIT", "EpiFix", "AmnioFix"], "known_outcome": "Channel stuffing; restated 2012-2016; executives charged"},
-    {"name": "Edwards Lifesciences",    "cik": "1099800", "year": 2016, "group": "control",   "aliases": ["Edwards", "EDWARDS", "SAPIEN", "Sapien"]},
-    {"name": "Boston Scientific",       "cik": "885725",  "year": 2016, "group": "control_backup", "aliases": ["Boston Scientific", "BOSTON SCIENTIFIC"]}
+    {
+      "name": "Adelphia Communications",
+      "cik": "796486",
+      "year": 2000,
+      "group": "treatment",
+      "aliases": [
+        "Adelphia",
+        "ADELPHIA",
+        "Rigas",
+        "RIGAS"
+      ],
+      "known_outcome": "Undisclosed co-borrowing by Rigas family; bankruptcy 2002"
+    },
+    {
+      "name": "Comcast Corp",
+      "cik": "22301",
+      "year": 2000,
+      "group": "control",
+      "aliases": [
+        "Comcast",
+        "COMCAST",
+        "Roberts",
+        "ROBERTS"
+      ]
+    },
+    {
+      "name": "Qwest Communications",
+      "cik": "1037949",
+      "year": 2001,
+      "group": "treatment",
+      "aliases": [
+        "Qwest",
+        "QWEST",
+        "U S WEST",
+        "U S West",
+        "U.S. WEST",
+        "Nacchio",
+        "NACCHIO"
+      ],
+      "known_outcome": "IRU swap revenue; restated ~$2.2B, SEC fraud charges"
+    },
+    {
+      "name": "BellSouth Corp",
+      "cik": "732713",
+      "year": 2001,
+      "group": "control",
+      "aliases": [
+        "BellSouth",
+        "BELLSOUTH",
+        "Cingular",
+        "CINGULAR"
+      ]
+    },
+    {
+      "name": "Diamond Foods",
+      "cik": "1320947",
+      "year": 2011,
+      "group": "treatment",
+      "aliases": [
+        "Diamond Foods",
+        "DIAMOND FOODS",
+        "Diamond",
+        "DIAMOND",
+        "Kettle",
+        "KETTLE",
+        "Pringles",
+        "PRINGLES",
+        "Emerald",
+        "EMERALD",
+        "Pop Secret"
+      ],
+      "known_outcome": "Walnut grower payment timing; restated FY2010-11"
+    },
+    {
+      "name": "J.M. Smucker",
+      "cik": "91419",
+      "year": 2011,
+      "group": "control",
+      "aliases": [
+        "Smucker",
+        "SMUCKER",
+        "Folgers",
+        "FOLGERS",
+        "Jif",
+        "Crisco",
+        "Dunkin"
+      ]
+    },
+    {
+      "name": "Hershey Co",
+      "cik": "47111",
+      "year": 2011,
+      "group": "control_backup",
+      "aliases": [
+        "Hershey",
+        "HERSHEY"
+      ]
+    },
+    {
+      "name": "Hertz Global Holdings",
+      "cik": "1364479",
+      "year": 2013,
+      "group": "treatment",
+      "aliases": [
+        "Hertz",
+        "HERTZ",
+        "Dollar Thrifty",
+        "DOLLAR THRIFTY",
+        "Thrifty",
+        "Dollar"
+      ],
+      "known_outcome": "Restated 2011-2013; SEC fraud settlement 2018"
+    },
+    {
+      "name": "Avis Budget Group",
+      "cik": "723612",
+      "year": 2013,
+      "group": "control",
+      "aliases": [
+        "Avis",
+        "AVIS",
+        "Budget",
+        "BUDGET",
+        "Zipcar",
+        "ZIPCAR",
+        "Payless"
+      ]
+    },
+    {
+      "name": "United Rentals",
+      "cik": "1067701",
+      "year": 2013,
+      "group": "control_backup",
+      "aliases": [
+        "United Rentals",
+        "UNITED RENTALS",
+        "RSC Holdings",
+        "RSC"
+      ]
+    },
+    {
+      "name": "Ryder System",
+      "cik": "85961",
+      "year": 2013,
+      "group": "control_backup",
+      "aliases": [
+        "Ryder",
+        "RYDER"
+      ]
+    },
+    {
+      "name": "MiMedx Group",
+      "cik": "1376339",
+      "year": 2016,
+      "group": "treatment",
+      "aliases": [
+        "MiMedx",
+        "MIMEDX",
+        "Petit",
+        "PETIT",
+        "EpiFix",
+        "AmnioFix"
+      ],
+      "known_outcome": "Channel stuffing; restated 2012-2016; executives charged"
+    },
+    {
+      "name": "Edwards Lifesciences",
+      "cik": "1099800",
+      "year": 2016,
+      "group": "control",
+      "aliases": [
+        "Edwards",
+        "EDWARDS",
+        "SAPIEN",
+        "Sapien"
+      ]
+    },
+    {
+      "name": "Boston Scientific",
+      "cik": "885725",
+      "year": 2016,
+      "group": "control_backup",
+      "aliases": [
+        "Boston Scientific",
+        "BOSTON SCIENTIFIC"
+      ]
+    }
   ]
 }
