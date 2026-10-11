@@ -17,7 +17,12 @@ SECTION_NAMES = {
     "section_8": "Item 8 Financial Statements",
     "section_9": "Item 9 Changes in/Disagreements with Accountants",
     "section_9A": "Item 9A Controls and Procedures",
+    # older 10-Ks often place the financial statements and notes here, with Item 8 only a cross-reference
+    "section_14": "Item 14 Exhibits/Financial Statements",
+    "section_15": "Item 15 Exhibits/Financial Statements",
 }
+
+FIN_STMT = ["section_8", "section_14", "section_15"]
 
 ALL = list(SECTION_NAMES)
 
@@ -39,7 +44,7 @@ CATEGORIES = {
     "internal_control": {
         "label": "Internal-control weakness",
         "weight": 20,
-        "sections": ["section_9A", "section_7", "section_1A", "section_8"],
+        "sections": ["section_9A", "section_7", "section_1A"] + FIN_STMT,
         "patterns": [r"material weakness", r"significant deficienc",
                      r"(disclosure controls|internal control).{0,80}\bnot effective\b"],
     },
@@ -55,7 +60,7 @@ CATEGORIES = {
     "securities_litigation": {
         "label": "Securities / shareholder litigation",
         "weight": 10,
-        "sections": ["section_3", "section_8", "section_1A", "section_7"],
+        "sections": ["section_3", "section_1A", "section_7"] + FIN_STMT,
         "patterns": [r"securities (class action|fraud)", r"shareholder (class action|derivative)",
                      r"(class action|derivative (action|lawsuit|suit)).{0,80}(securities|shareholder|stockholder)",
                      r"section 10\(b\)", r"rule 10b-5"],
@@ -63,21 +68,21 @@ CATEGORIES = {
     "auditor_change": {
         "label": "Auditor change / disagreement",
         "weight": 10,
-        "sections": ["section_9", "section_9A", "section_8"],
+        "sections": ["section_9", "section_9A"],
         "patterns": [r"dismiss(ed|al) .{0,60}(accountant|auditor)", r"disagreements? with (the )?(accountant|auditor)",
                      r"resign(ed|ation) .{0,40}(accountant|auditor)", r"reportable event"],
     },
     "off_balance_sheet": {
         "label": "Off-balance-sheet / related-party structures",
         "weight": 10,
-        "sections": ["section_7", "section_8", "section_1A"],
+        "sections": ["section_7", "section_1A"] + FIN_STMT,
         "patterns": [r"special purpose entit", r"variable interest entit", r"unconsolidated (affiliate|entit|subsidiar)",
                      r"related[- ]part(y|ies)", r"off-balance[- ]sheet", r"repurchase agreements? .{0,60}sales?"],
     },
     "aggressive_accounting": {
         "label": "Aggressive revenue / accounting choices",
         "weight": 10,
-        "sections": ["section_7", "section_8"],
+        "sections": ["section_7"] + FIN_STMT,
         "patterns": [r"bill[- ]and[- ]hold", r"channel (stuffing|inventory)", r"\bbarter\b",
                      r"mark[- ]to[- ](market|model)", r"round[- ]trip", r"capitaliz(ed|ation) of .{0,40}(cost|expense)",
                      r"change in (accounting )?estimate", r"specialty pharmacy"],
@@ -85,7 +90,7 @@ CATEGORIES = {
     "liquidity_stress": {
         "label": "Liquidity / covenant stress",
         "weight": 10,
-        "sections": ["section_7", "section_1A", "section_8"],
+        "sections": ["section_7", "section_1A"] + FIN_STMT,
         "patterns": [r"covenant.{0,60}(waiver|violat|breach|default)", r"(waiver|violat|breach|default).{0,60}covenant",
                      r"(credit )?rating.{0,40}downgrad", r"downgrad.{0,40}rating", r"event of default",
                      r"liquidity (crisis|shortfall)"],
@@ -93,7 +98,7 @@ CATEGORIES = {
     "impairment": {
         "label": "Large impairments / write-downs",
         "weight": 5,
-        "sections": ["section_7", "section_8"],
+        "sections": ["section_7"] + FIN_STMT,
         "patterns": [r"impairment (charge|loss)", r"write[- ](down|off)s?\b", r"goodwill impairment"],
     },
 }
