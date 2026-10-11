@@ -55,6 +55,50 @@
       ]
     },
     {
+      "name": "CenturyTel",
+      "cik": "18926",
+      "year": 2001,
+      "group": "control_backup",
+      "aliases": [
+        "CenturyTel",
+        "CENTURYTEL",
+        "CenturyTel, Inc."
+      ]
+    },
+    {
+      "name": "ALLTEL Corp",
+      "cik": "66756",
+      "year": 2001,
+      "group": "control_backup",
+      "aliases": [
+        "ALLTEL",
+        "Alltel"
+      ]
+    },
+    {
+      "name": "Sprint Corp",
+      "cik": "101830",
+      "year": 2001,
+      "group": "control_backup",
+      "aliases": [
+        "Sprint",
+        "SPRINT"
+      ]
+    },
+    {
+      "name": "Verizon Communications",
+      "cik": "732712",
+      "year": 2001,
+      "group": "control_backup",
+      "aliases": [
+        "Verizon",
+        "VERIZON",
+        "Bell Atlantic",
+        "BELL ATLANTIC",
+        "GTE"
+      ]
+    },
+    {
       "name": "Diamond Foods",
       "cik": "1320947",
       "year": 2011,
