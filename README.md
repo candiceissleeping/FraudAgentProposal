@@ -18,6 +18,7 @@ GE 原本在名單中，但其 FY2016 10-K 在資料集中為空（年報以引�
 - 第一輪：[`results/analyst_review.md`](results/analyst_review.md)（最終分數與理由）、`results/rule_based_report.md`（關鍵字初評）
 - 第二輪（遮蔽名稱 + 預先登錄規則，5 組同產業配對）：[`results/blind_review.md`](results/blind_review.md)
   - 流程：`blind_rubric.md` → `python -m experiment.edgar_risk.blind` → `blind_scores.md` → `--unblind`
+- 實驗一設計（跨年度 10-K 差異是否提升 LLM 舞弊偵測，AAER 標籤）：[`docs/exp1_yoy_diff_design.md`](docs/exp1_yoy_diff_design.md)
 
 ## 流程
 1. **抓資料** `python -m experiment.edgar_risk.fetch`
