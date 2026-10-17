@@ -9,9 +9,11 @@ Results are cached in data/sic.json ({cik: {"sic": "2834", "name": ...}}); rerun
 only fetch missing CIKs. Note: the API returns the firm's *current* SIC code.
 """
 import argparse
+import concurrent.futures
 import json
 import os
 import sys
+import threading
 import time
 
 import requests
@@ -19,6 +21,7 @@ import requests
 URL = "https://data.sec.gov/submissions/CIK{:010d}.json"
 DEFAULT_PATH = "data/sic.json"
 MIN_INTERVAL = 0.125  # 8 requests/second, under SEC's 10/s limit
+WORKERS = 8           # requests take ~0.7 s each, so run several at once under the rate limit
 
 
 def load(path=DEFAULT_PATH):
@@ -38,20 +41,36 @@ def fetch(ciks, path=DEFAULT_PATH, user_agent=None):
         sys.exit("Set SEC_USER_AGENT to 'Name email' (required by SEC for data.sec.gov)")
     s = requests.Session()
     s.headers["User-Agent"] = user_agent
-    print(f"fetching SIC for {len(todo):,} CIKs ({len(cache):,} cached)", flush=True)
-    for i, cik in enumerate(todo, 1):
-        start = time.monotonic()
-        r = s.get(URL.format(int(cik)), timeout=30)
+    lock, next_slot = threading.Lock(), [time.monotonic()]
+
+    def one(cik):
+        with lock:  # hand out request start times MIN_INTERVAL apart
+            wait = next_slot[0] - time.monotonic()
+            next_slot[0] = max(next_slot[0], time.monotonic()) + MIN_INTERVAL
+        if wait > 0:
+            time.sleep(wait)
+        for attempt in range(4):  # retry rate limiting / server errors / dropped connections
+            try:
+                r = s.get(URL.format(int(cik)), timeout=30)
+                if r.status_code != 429 and r.status_code < 500:
+                    break
+            except (requests.ConnectionError, requests.Timeout):
+                if attempt == 3:
+                    raise
+            time.sleep(2 ** (attempt + 1))
         if r.status_code == 404:
-            cache[cik] = {"sic": "", "name": ""}
-        else:
-            r.raise_for_status()
-            d = r.json()
-            cache[cik] = {"sic": d.get("sic") or "", "name": d.get("name") or ""}
-        if i % 500 == 0 or i == len(todo):
-            _save(cache, path)
-            print(f"  {i:,}/{len(todo):,}", flush=True)
-        time.sleep(max(0.0, MIN_INTERVAL - (time.monotonic() - start)))
+            return cik, {"sic": "", "name": ""}
+        r.raise_for_status()
+        d = r.json()
+        return cik, {"sic": d.get("sic") or "", "name": d.get("name") or ""}
+
+    print(f"fetching SIC for {len(todo):,} CIKs ({len(cache):,} cached)", flush=True)
+    with concurrent.futures.ThreadPoolExecutor(WORKERS) as pool:
+        for i, (cik, info) in enumerate(pool.map(one, todo), 1):
+            cache[cik] = info
+            if i % 500 == 0 or i == len(todo):
+                _save(cache, path)
+                print(f"  {i:,}/{len(todo):,}", flush=True)
     return cache
 
 

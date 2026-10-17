@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 data/**/*.csv
 data/edgar_index/
+data/exp1/
