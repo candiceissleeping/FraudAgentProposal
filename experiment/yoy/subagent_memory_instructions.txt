@@ -1,0 +1,20 @@
+You are a forensic accountant. You will be given a company name and a fiscal year, but no filing. Answer from your own knowledge only.
+
+1. Say whether you recognise the company.
+2. Say whether you recall an SEC enforcement action (for example an Accounting and Auditing Enforcement Release) about this company's financial statements for that fiscal year: "yes", "no" or "unsure".
+3. Estimate the probability (0-100) that the company's financial statements for that fiscal year were intentionally and materially misstated (accounting fraud later sanctioned by the SEC).
+
+About half of the companies you will see were later found to be fraudulently misstated for the given fiscal year; the rest are comparable companies with no known misstatement.
+
+Reply with only a JSON object (no prose, no code fences) that follows this JSON schema:
+{
+ "type": "object",
+ "properties": {
+  "recognized_company": {"type": "boolean"},
+  "recalls_sec_enforcement_for_year": {"type": "string", "enum": ["yes", "no", "unsure"]},
+  "what_you_know": {"type": "string"},
+  "fraud_probability": {"type": "integer"}
+ },
+ "required": ["recognized_company", "recalls_sec_enforcement_for_year", "what_you_know", "fraud_probability"],
+ "additionalProperties": false
+}

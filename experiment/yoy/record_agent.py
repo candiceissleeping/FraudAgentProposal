@@ -30,7 +30,7 @@ def parse_reply(text):
         return None
 
 
-def from_transcript(path, expect_file):
+def from_transcript(path, expect_files):
     """-> (reply text, list of isolation problems) from a subagent JSONL transcript."""
     reply, problems = "", []
     with open(path, encoding="utf-8") as f:
@@ -44,7 +44,8 @@ def from_transcript(path, expect_file):
                 name, inp = b.get("name"), b.get("input", {})
                 if name == "SubagentHandback":
                     reply = inp.get("message", "")
-                elif not (name == "Read" and os.path.abspath(inp.get("file_path", "")) == os.path.abspath(expect_file)):
+                elif not (name == "Read" and os.path.abspath(inp.get("file_path", "")) in
+                          {os.path.abspath(f) for f in expect_files}):
                     problems.append(f"{name} {json.dumps(inp)[:200]}")
     return reply, problems
 
@@ -55,7 +56,8 @@ def main():
     ap.add_argument("--id", required=True, help="custom id, e.g. A2-D0010-r1 or PROBE-D0010")
     ap.add_argument("--out", default=packets.DEFAULT_DIR)
     ap.add_argument("--transcript", help="subagent JSONL transcript to take the reply from")
-    ap.add_argument("--expect-file", help="the only file the subagent may read (with --transcript)")
+    ap.add_argument("--expect-file", action="append", default=[],
+                    help="a file the subagent may read (repeatable; with --transcript)")
     args = ap.parse_args()
     problems = []
     if args.transcript:
