@@ -91,6 +91,17 @@ def load_responses(path):
     return probs, probes, evidence, failures
 
 
+def load_recall(path):
+    """K0 replies -> {doc: "yes" | "no" | "unsure"} (does the model recall SEC enforcement for that year)."""
+    out = {}
+    with open(path, encoding="utf-8") as f:
+        for line in f:
+            r = json.loads(line)
+            if r["custom_id"].startswith("K0-") and r["data"]:
+                out[r["custom_id"].split("-")[1]] = r["data"].get("recalls_sec_enforcement_for_year")
+    return out
+
+
 def identified(probe, firm):
     if not probe:
         return False
@@ -137,24 +148,51 @@ def main():
     docs = [d for p in pairs for d in p]
 
     L = [f"# 實驗一 {args.run}：結果（自動產生）", "",
-         f"- 配對：{len(all_pairs)} 組；所有組別皆有有效分數：**{len(pairs)} 組**；排除被認出公司後：{len(clean)} 組",
-         f"- 身分測試：認出公司 {sum(ident.values())}/{len(key)}；猜中年度（±1）{sum(year_hit.values())}/{len(key)}",
+         f"- 配對：{len(all_pairs)} 組；所有組別皆有有效分數：**{len(pairs)} 組**"
+         + (f"；排除被認出公司後：{len(clean)} 組" if probes else ""),
+         (f"- 身分測試：認出公司 {sum(ident.values())}/{len(key)}；猜中年度（±1）{sum(year_hit.values())}/{len(key)}"
+          if probes else "- 身分測試：本輪未執行（改用 K0 記憶基準，見下方記憶乾淨子樣本）"),
          "", "## 主要結果", "",
-         "| 組別 | AUC | 配對內正確率 | Accuracy@50 | Brier | AUC（排除被認出） |", "|---|---|---|---|---|---|"]
+         "| 組別 | AUC | 配對內正確率 | Accuracy@50 | Brier |" + (" AUC（排除被認出） |" if probes else ""),
+         "|---|---|---|---|---|" + ("---|" if probes else "")]
     for arm in arms:
         s = scores[arm]
         L.append(f"| {arm} | {pair_auc(pairs, s):.3f} | {sum(within_pair(pairs, s)) / len(pairs):.3f} | "
-                 f"{accuracy(docs, s, label):.3f} | {brier(docs, s, label):.3f} | {pair_auc(clean, s):.3f} |")
+                 f"{accuracy(docs, s, label):.3f} | {brier(docs, s, label):.3f} |"
+                 + (f" {pair_auc(clean, s):.3f} |" if probes else ""))
     for name, s in refs.items():
-        L.append(f"| {name} | {pair_auc(pairs, s):.3f} | {sum(within_pair(pairs, s)) / len(pairs):.3f} | — | — | "
-                 f"{pair_auc(clean, s):.3f} |")
+        L.append(f"| {name} | {pair_auc(pairs, s):.3f} | {sum(within_pair(pairs, s)) / len(pairs):.3f} | — | — |"
+                 + (f" {pair_auc(clean, s):.3f} |" if probes else ""))
     L += ["", "## 組間比較（配對 bootstrap 95% CI；McNemar 為配對內正確與否）", "",
-          "| 比較 | ΔAUC | 95% CI | ΔAUC（排除被認出） | McNemar p（只對 / 只錯） |", "|---|---|---|---|---|"]
+          "| 比較 | ΔAUC | 95% CI |" + (" ΔAUC（排除被認出） |" if probes else "") + " McNemar p（只對 / 只錯） |",
+          "|---|---|---|---|" + ("---|" if probes else "")]
     for a, b in [(a, b) for a, b in COMPARISONS if a in scores and b in scores]:
         d, lo, hi = bootstrap_delta(pairs, scores[a], scores[b])
         dc = pair_auc(clean, scores[a]) - pair_auc(clean, scores[b])
         p, nb, nc = mcnemar_p(within_pair(pairs, scores[a]), within_pair(pairs, scores[b]))
-        L.append(f"| {a} − {b} | {d:+.3f} | [{lo:+.3f}, {hi:+.3f}] | {dc:+.3f} | {p:.3f} ({nb} / {nc}) |")
+        L.append(f"| {a} − {b} | {d:+.3f} | [{lo:+.3f}, {hi:+.3f}] |" + (f" {dc:+.3f} |" if probes else "")
+                 + f" {p:.3f} ({nb} / {nc}) |")
+    recall = {d: v for d, v in load_recall(os.path.join(args.out, "runs", args.run, "responses.jsonl")).items() if d in key}
+    if recall:
+        # pre-registered primary analysis: pairs where K0 recalls no enforcement for either firm
+        mem = [(f, c) for f, c in pairs if recall.get(f) in ("no", "unsure") and recall.get(c) in ("no", "unsure")]
+        L += ["", "## 記憶乾淨子樣本（兩家公司 K0 都回答 no / unsure）", "",
+              f"- 子樣本：**{len(mem)} / {len(pairs)} 組**", "",
+              "| 組別 | AUC | 配對內正確率 |", "|---|---|---|"]
+        for arm in arms:
+            L.append(f"| {arm} | {pair_auc(mem, scores[arm]):.3f} | "
+                     f"{sum(within_pair(mem, scores[arm])) / len(mem):.3f} |" if mem else f"| {arm} | — | — |")
+        if mem:
+            L += ["", "| 比較 | ΔAUC | 95% CI | McNemar p（只對 / 只錯） |", "|---|---|---|---|"]
+            for a, b in [(a, b) for a, b in COMPARISONS if a in scores and b in scores]:
+                d, lo, hi = bootstrap_delta(mem, scores[a], scores[b])
+                p, nb, nc = mcnemar_p(within_pair(mem, scores[a]), within_pair(mem, scores[b]))
+                L.append(f"| {a} − {b} | {d:+.3f} | [{lo:+.3f}, {hi:+.3f}] | {p:.3f} ({nb} / {nc}) |")
+        L += ["", "### K0 回答分布（描述）", "", "| K0 回答 | 舞弊公司 | 對照公司 | K0 平均分數 |", "|---|---|---|---|"]
+        for v in ("yes", "unsure", "no"):
+            ds = [d for d in docs if recall.get(d) == v]
+            mean = f"{sum(scores['K0'][d] for d in ds) / len(ds):.1f}" if ds and "K0" in scores else "—"
+            L.append(f"| {v} | {sum(label[d] for d in ds)} | {sum(not label[d] for d in ds)} | {mean} |")
     src = collections.Counter(e["source"] for (arm, d), ev in evidence.items() if arm == "A2" for e in ev)
     L += ["", "## 機制與資料品質", "",
           f"- A2 引用證據來源：" + "、".join(f"{k} {v}" for k, v in src.most_common()),

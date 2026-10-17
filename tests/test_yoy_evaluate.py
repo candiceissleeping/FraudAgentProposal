@@ -1,5 +1,7 @@
 """Metric helpers for experiment 1 on hand-made scores."""
 import json
+import os
+import tempfile
 import types
 import unittest
 
@@ -35,6 +37,15 @@ class MetricTest(unittest.TestCase):
         renamed = {"name": "SOURCECORP INC", "former_names": ["FYI INC"]}
         self.assertTrue(evaluate.identified({"company_guess": "F.Y.I. Incorporated"}, renamed) or
                         evaluate.identified({"company_guess": "FYI Inc"}, renamed))
+
+    def test_load_recall_reads_only_k0(self):
+        rows = [{"custom_id": "K0-D0001-r1", "data": {"recalls_sec_enforcement_for_year": "yes"}},
+                {"custom_id": "K0-D0002-r1", "data": None},
+                {"custom_id": "A0-D0001-r1", "data": {"fraud_probability": 50}}]
+        with tempfile.NamedTemporaryFile("w", suffix=".jsonl", delete=False) as f:
+            f.write("\n".join(json.dumps(r) for r in rows))
+        self.assertEqual(evaluate.load_recall(f.name), {"D0001": "yes"})
+        os.unlink(f.name)
 
 
 def fake_result(stop_reason, text):

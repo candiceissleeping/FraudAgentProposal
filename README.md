@@ -28,6 +28,7 @@ GE 原本在名單中，但其 FY2016 10-K 在資料集中為空（年報以引�
     python -m experiment.yoy.run_llm collect --run pilot
     python -m experiment.yoy.evaluate --run pilot   # → results/exp1_pilot/
     ```
+  - 試點結果（無 API 金鑰，改用子代理評分；A0、A2、K0 記憶基準）：[`results/exp1_pilot_sub/summary.md`](results/exp1_pilot_sub/summary.md)
 
 ## 流程
 1. **抓資料** `python -m experiment.edgar_risk.fetch`
