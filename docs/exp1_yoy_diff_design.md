@@ -60,19 +60,33 @@
 ### 3.1 分析單位與樣本
 
 - **單位：firm-year。** 預測時點 = 公司申報 t 年 10-K 的當下，只能用 t 年與 t-1 年的 10-K。
-- **舞弊組（positive）**：AAER 認定有不實陳述的公司，取**第一個不實陳述的會計年度**作為 t。
+- **舞弊組（positive）**：AAER 事件中**第一個不實陳述的會計年度**作為 t。
   - 理由：t-1 年仍乾淨、t 年開始造假，年度差異最可能出現訊號；若 t-1 也已造假，差異裡看不到轉折。
   - 次要分析：所有不實陳述年度都納入。
-- **對照組（negative）**：同年度、同 SIC 二位碼、總資產最接近，且**從未**出現在 AAER 的公司，1:1 配對。
-- **標籤來源（擇一，須先確認可取得）**：
-  - USC Marshall CFRM 的 AAER 資料庫（Dechow et al. 2011 使用的版本，含不實陳述年度與科目）
-  - Bao et al. (2020, JAR) 公開的 AAER firm-year 標籤（GitHub: JarFraud/FraudDetection，1991–2014，以 gvkey 識別，需對應到 CIK）
-- **納入條件**（兩組相同，並記錄每一步剔除數量）：
-  - t 與 t-1 的 10-K 在 EDGAR-CORPUS 都存在且非空（本 repo 已遇過 GE、BellSouth 的 10-K 為空，年報以引用方式併入）
-  - 排除 10-K/A 等修正版，只用原始申報
+- **標籤來源（已決定）**：Bao et al. (2020, JAR) 公開的 `AAER_firm_year.csv`
+  （github.com/JarFraud/FraudDetection，固定在 commit `2d10bc6`）。
+  - 來自 Berkeley CFRM 的 AAER 資料庫，加上作者手動補到 2018 年底（AAER #4012）。
+  - **檔案本身就有 CIK**，舞弊組不需要 gvkey → CIK 對應；gvkey 只出現在他們的 Compustat 特徵檔，本實驗不用。
+  - 共 1,746 個不實陳述 firm-years、729 個 AAER 事件、716 家公司。
+- **標籤規則**（`experiment/yoy/labels.py`）：
+  - 剔除低報盈餘（`UNDERSTATEMENT = 1`）的事件：不是本實驗要偵測的類型
+  - t 必須在 1994–2020（t-1 也要在 EDGAR-CORPUS 1993–2020 內）
+  - 剔除 t-1 已被同公司另一個 AAER 認定不實的事件（沒有乾淨的前一年）
+  - 結果：**476 個候選舞弊 firm-years**（剔除：年份不在資料集 221、低報 30、前一年已不實 2）
+- **對照組（negative）**：同會計年度 t、同 SIC 二位碼、**從未**出現在任何 AAER 的公司，1:1 配對；
+  同產業內選「LLM 會讀到的章節總字數」最接近者（取對數差），每家對照公司只用一次。
+  - 原本想用總資產配對，但 Compustat 只能用 gvkey 連結，沒有公開的 gvkey → CIK 對照表；
+    改用文字長度配對，同時也讓兩組的 LLM 輸入長度相近，避免「文件長短」成為線索。
+  - SIC 來自 SEC `data.sec.gov` submissions API（`experiment/yoy/sic.py`），是公司**目前**的 SIC，不是當年的。
+- **可用 10-K 的條件**（兩組相同，`experiment/yoy/build_sample.py`）：
+  - t 與 t-1 的 10-K 在 EDGAR-CORPUS 都存在，且 Item 7（MD&A）與財報各 ≥ 2,000 字元；
+    財報 = Item 8，舊式 10-K 則用 Item 14 + 15
+    （本 repo 已遇過 GE、BellSouth 的 10-K 為空，年報以引用方式併入）
+  - 同一公司同一年有多份時取最長的一份
   - EDGAR-CORPUS 的 `year` 是會計年度（見 README），t 與 t-1 都以會計年度對齊
+  - 每一步剔除數量寫入 `results/exp1_attrition.md`
 - **樣本數**：
-  - 先做**試點 30 組配對**（60 firm-years），用來檢查流程、估計各組分數的相關性與變異。
+  - 先做**試點 30 組配對**（60 firm-years，以固定 seed `20261017` 從全部配對中抽出），用來檢查流程、估計各組分數的相關性與變異。
   - 主實驗目標 **200 組配對**（400 firm-years）。以試點結果做 bootstrap 檢定力分析後再定案；
     要偵測 ΔAUC ≈ 0.05 通常需要數百個正樣本，前兩輪的 10 家完全不夠。
 
@@ -157,12 +171,21 @@
 
 ## 4. 執行步驟
 
-1. 取得 AAER 標籤 → 對應 CIK → 產生配對樣本 `config/exp1_sample.json`，記錄剔除流程。
+1. 取得 AAER 標籤 → 索引 EDGAR-CORPUS → 查 SIC → 產生配對樣本 `config/exp1_sample.json`，記錄剔除流程（見下方指令）。
 2. 抓 t 與 t-1 的 10-K（沿用 `experiment/edgar_risk/fetch.py`，需支援同一家公司多個年度）。
 3. 實作差異產生器與遮蔽，輸出各組的資料包。
 4. **提交本檔、樣本清單、prompt、判定規則到 git（預先登錄）。**
 5. 試點 30 組 → 檢查流程與檢定力 → 決定主實驗樣本數。
 6. 主實驗：A0 / A1 / A2 / A3 / B0 全部跑完後才合併標籤計算指標。
+
+### 產生樣本的指令
+
+```bash
+python -m experiment.yoy.labels                  # 下載 AAER 標籤並列出候選數
+python -m experiment.yoy.index_corpus            # 索引 1993–2020 所有 10-K 的章節長度（約 30 GB 串流，不存全文）
+SEC_USER_AGENT="Name email" python -m experiment.yoy.sic   # 需能連到 data.sec.gov
+python -m experiment.yoy.build_sample            # → config/exp1_sample.json、results/exp1_attrition.md
+```
 
 ## 5. 已知限制
 
@@ -170,3 +193,4 @@
 - 第一年造假的公司，舞弊可能本來就不會寫進 10-K；差異只能捕捉「揭露方式的改變」。
 - EDGAR-CORPUS 只有文字，沒有結構化財務數字；數字差異要另外接 XBRL。
 - 遮蔽無法做到完美，身分測試是必要的補強。
+- 對照組沒有依規模配對（見 3.1），以文字長度代替；SIC 是目前的產業代碼，少數公司可能已改變產業。
