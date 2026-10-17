@@ -11,6 +11,8 @@ import json
 import os
 import re
 
+import requests
+
 from experiment.edgar_risk.fetch import BASE, SPLITS, _cik, _lines
 
 DEFAULT_DIR = "data/exp1/filings"
@@ -74,7 +76,14 @@ def main():
         if not todo:
             continue
         print(f"[{year}] fetching {len(todo)} filings", flush=True)
-        missing += [(c, year) for c in fetch_year(year, todo, args.out)]
+        for attempt in range(1, 4):  # Hugging Face sometimes drops a GB-sized stream midway
+            try:
+                missing += [(c, year) for c in fetch_year(year, todo, args.out)]
+                break
+            except (requests.ConnectionError, requests.exceptions.ChunkedEncodingError) as e:
+                print(f"[{year}] attempt {attempt} failed: {e.__class__.__name__}", flush=True)
+                if attempt == 3:
+                    raise
     if missing:
         raise SystemExit(f"not found in EDGAR-CORPUS: {missing}")
 

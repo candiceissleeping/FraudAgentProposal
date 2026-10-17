@@ -13,6 +13,8 @@ import csv
 import json
 import os
 
+import requests
+
 from experiment.edgar_risk.fetch import BASE, SPLITS, _cik, _lines
 
 YEARS = range(1993, 2021)
@@ -79,7 +81,14 @@ def main():
         if os.path.exists(os.path.join(args.out, f"{year}.csv")):
             print(f"[{year}] already indexed", flush=True)
             continue
-        print(f"[{year}] indexed {index_year(year, args.out):,} filings", flush=True)
+        for attempt in range(1, 4):  # Hugging Face sometimes drops a GB-sized stream midway
+            try:
+                print(f"[{year}] indexed {index_year(year, args.out):,} filings", flush=True)
+                break
+            except (requests.ConnectionError, requests.exceptions.ChunkedEncodingError) as e:
+                print(f"[{year}] attempt {attempt} failed: {e.__class__.__name__}", flush=True)
+                if attempt == 3:
+                    raise
 
 
 if __name__ == "__main__":
