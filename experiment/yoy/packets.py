@@ -82,8 +82,26 @@ def sections_text(filing, budget):
     return "\n\n".join(blocks)
 
 
-def masked_filing(filing, t, aliases):
-    return {k: mask.mask(v, t, aliases) if k.startswith("section_") else v for k, v in filing.items()}
+def masked_filing(filing, t, aliases, vocab=None):
+    return {k: mask.mask(v, t, aliases, vocab) if k.startswith("section_") else v for k, v in filing.items()}
+
+
+def build_vocab(path, filings_dir, docs):
+    """Mask-v2 vocabulary: built once from the run's raw filings, then committed and reused."""
+    if os.path.exists(path):
+        with open(path, encoding="utf-8") as f:
+            return set(f.read().split())
+    texts = {}
+    for p, role in docs:
+        cik = p[role]["cik"]
+        for year in (p["t"], p["t"] - 1):
+            filing = fetch_sample.load(filings_dir, cik, year)
+            texts.setdefault(cik, []).extend(v for k, v in filing.items() if k.startswith("section_") and v)
+    vocab = mask.generic_vocab(texts)
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("\n".join(sorted(vocab)) + "\n")
+    print(f"wrote {path} ({len(vocab):,} generic capitalised words from {len(texts)} firms)")
+    return vocab
 
 
 HEADER = ("Excerpts from a company's annual report on Form 10-K. The company's name, other entity names, "
@@ -112,6 +130,9 @@ def main():
     ap.add_argument("--out", default=DEFAULT_DIR)
     ap.add_argument("--pilot", action="store_true")
     ap.add_argument("--manifest", help="sha256 manifest to write, or to verify against if it exists")
+    ap.add_argument("--mask-version", type=int, choices=(1, 2), default=1,
+                    help="2 also masks rare capitalised words and accounting-standard numbers")
+    ap.add_argument("--vocab", help="mask-v2 vocabulary file (built and written if missing)")
     args = ap.parse_args()
 
     pairs = json.load(open(args.sample, encoding="utf-8"))["pairs"]
@@ -121,6 +142,10 @@ def main():
     docs = [(p, role) for p in pairs for role in ("fraud", "control")]
     ids = [f"D{i:04d}" for i in range(1, len(docs) + 1)]
     random.Random(DOC_SEED).shuffle(ids)
+    vocab = None
+    if args.mask_version == 2:
+        vocab = build_vocab(args.vocab or f"config/exp1_vocab_{'pilot' if args.pilot else 'all'}.txt",
+                            args.filings, docs)
 
     for arm in ARMS:
         os.makedirs(os.path.join(args.out, "packets", arm), exist_ok=True)
@@ -128,8 +153,8 @@ def main():
     for doc_id, (p, role) in sorted(zip(ids, docs)):
         cik, t = p[role]["cik"], p["t"]
         aliases = mask.firm_aliases(names.get(cik, {}))
-        current = masked_filing(fetch_sample.load(args.filings, cik, t), t, aliases)
-        prior = masked_filing(fetch_sample.load(args.filings, cik, t - 1), t, aliases)
+        current = masked_filing(fetch_sample.load(args.filings, cik, t), t, aliases, vocab)
+        prior = masked_filing(fetch_sample.load(args.filings, cik, t - 1), t, aliases, vocab)
         texts, sims = build(current, prior)
         for arm, text in texts.items():
             with open(os.path.join(args.out, "packets", arm, f"{doc_id}.txt"), "w", encoding="utf-8") as f:
@@ -145,7 +170,8 @@ def main():
         w = csv.DictWriter(f, ["doc_id"] + [f"sim_{k}" for k, _ in diff.SECTIONS])
         w.writeheader()
         w.writerows(features)
-    check_manifest(args.manifest or f"results/exp1_packets_{'pilot' if args.pilot else 'all'}.sha256", digests)
+    suffix = "" if args.mask_version == 1 else f"_v{args.mask_version}"
+    check_manifest(args.manifest or f"results/exp1_packets_{'pilot' if args.pilot else 'all'}{suffix}.sha256", digests)
 
 
 if __name__ == "__main__":

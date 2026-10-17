@@ -1,0 +1,509 @@
+Excerpts from a company's annual report on Form 10-K. The company's name, other entity names, people's names and audit firms are masked; calendar years are replaced by Year T (the fiscal year of this report), Year T-1 (the prior year), and so on.
+
+## CURRENT YEAR 10-K (Year T)
+
+### Item 1A Risk Factors
+ITEM 1A. RISK FACTORS.
+You should carefully consider the risks described below before making an investment decision. We believe these are all the material risks currently facing our business. Our business, financial condition or results of operations could be materially adversely affected by these risks. The trading price of our common stock could decline due to any of these risks, and you may lose all or part of your investment. You should also refer to the other information included or incorporated by reference in this report, including our financial statements and related notes.
+Changes in customer demand for our products and services could result in a significant decrease in revenues.
+Although our customer base commonly uses our products and services, our failure to meet changing demands of our customers could result in a significant decrease in our revenues.
+Changes in governmental rules and regulations applicable to the specialty financial services industry could have a negative impact on our lending activities.
+Our lending is subject to extensive regulation, supervision and licensing requirements under various federal, state and local laws, ordinances and regulations. New laws and regulations could be enacted that could have a negative impact on our lending activities.
+Fluctuations in our inventory turnover and sales.
+We regularly experience fluctuations in our inventory balances, inventory turnover and sales margins, yields on loan portfolios and pawn redemption rates. Changes in any of these factors could materially and adversely affect our profitability and ability to achieve our planned results.
+Changes in our liquidity and capital requirements could limit our ability to achieve our plans.
+We require continued access to capital, and a significant reduction in cash flows from operations or the availability of credit could materially and adversely affect our ability to achieve our planned growth and operating results. Similarly, if actual costs to build new stores significantly exceeds planned costs, our ability to build new stores or to operate new stores profitably could be materially restricted. The [COMPANY] credit agreement also limits the allowable amount of capital expenditures in any given fiscal year, which could limit our ability to build new stores.
+Changes in competition from various sources could have a material adverse impact on our ability to achieve our plans.
+We encounter significant competition in connection with our retail and lending operations from other pawnshops, cash advance [COMPANY] and other forms of financial institutions and other retailers, many of which have significantly greater financial resources than us. Significant increases in these competitive influences could adversely affect our operations through a decrease in the number or quality pawn loans or our ability to liquidate forfeited collateral at acceptable margins.
+In the coins and other collectibles business, we will compete with a number of comparably sized and smaller firms, as well as a number of larger firms throughout the United States. Our primary competitors are American [NAME], a comparably-sized coin auctioneer. Many of our competitors have the ability to attract customers as a result of their reputation and the quality collectibles they obtain through their industry connections. Additionally, other reputable [COMPANY] that sell rare coins and other collectibles may decide to enter our markets to compete with us. These [COMPANY] have greater name recognition and have greater financial and marketing resources than we do. If these auction [COMPANY] are successful in entering the specialized market for premium collectibles in which we participate or if dealers and sellers participate less in our auctions, we may attract fewer buyers and our revenue could decrease.
+Our earnings could be negatively impacted by an unfavorable outcome of litigation, regulatory actions, or labor and employment matters.
+From time to time, we are involved in litigation, regulatory actions and labor and employment matters arising from our normal operations. There can be no assurance as to the ultimate outcome of any future actions and that they will not have a material adverse effect on our financial condition, results of operation or liquidity.
+A failure in our information systems could prevent us from effectively managing and controlling our business or serving our customers.
+We rely on our information systems to manage and operate our stores and business. Each store is part of an information network that permits us to maintain adequate cash inventory, reconcile cash balances daily and report revenues and expenses timely. Any disruption in the availability of our information systems could adversely affect our operation, the ability to serve our customers and our results of operations.
+A failure of our internal controls and disclosure controls and procedures in accordance with the requirements of section 404 of the Sarbanes-Oxley Act could have a material adverse impact on us and our investors’ confidence in our reported financial information.
+Effective internal controls and disclosure controls and processes are necessary for us to provide reliable financial reports and to detect and prevent fraud. Under the supervision and with the participation of our Chief Executive Officer and Chief Financial Officer, management assessed the effectiveness of the Company’s internal control over financial reporting as of December 31, Year T-1 using the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission in Internal Control - Integrated Framework. Based on this assessment, management has concluded that, as of December 31, Year T, the Company’s internal control over financial reporting was effective to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles based on such criteria.
+Our management, including our Chief Executive Officer and Chief Financial Officer, does not expect that our disclosure controls or internal controls over financial reporting will prevent all errors or all instances of fraud. A control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance that the control system’s objectives will be met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within our company have been detected. These inherent limitations include the realities that judgments in decision-making can be faulty, and that breakdowns can occur because of simple error or mistake. Controls can also be circumvented by the individual acts of some
+persons, by collusion of two or more people, or by management override of the controls. The design of any system of controls is based in part upon certain assumptions about the likelihood of future events, and any design may not succeed in achieving its stated goals under all potential future conditions. Over time, controls may become inadequate because of changes in conditions or deterioration in the degree of compliance with policies or procedures. Because of the inherent limitation of a cost-effective control system, misstatements due to error or fraud may occur and not be detected.
+This Annual Report on Form 10-K does not include an attestation report of the Company’s registered public accounting firm regarding internal control over financial reporting. Management’s report was not subject to attestation by the Company’s registered public accounting firm pursuant to temporary rules of the Securities and [COMPANY] Commission that permit the Company to provide only management’s report in this Annual Report on Form 10-K.
+If there is a failure in any of our controls as required by Section 404 of the Sarbanes-Oxley Act that leads to a material misstatement of our financial condition, investors could lose confidence in our reported financial information.
+Changes in general economic conditions could negatively affect loan performance and demand for our products and services.
+A sustained deterioration in the economic environment could adversely affect our operations by reducing consumer demand for the products we sell.
+Interest rate fluctuations could increase our interest expense.
+Although the U.S. Federal Reserve halted a sustained period of regular interest rate hikes in August Year T-3, interest rates could rise which would, in turn, increase our cost of borrowing.
+Our success depends on our ability to attract, retain and motivate management and other skilled employees.
+Our future success and growth depend on the continued services of our key management and employees. The loss of the services of any of these individuals or any other key employee or contractor could materially affect our business. Our future success also depends on our ability to identify, attract and retain additional qualified personnel. Competition for employees in our industry is intense and we may not be successful in attracting or retaining them. There are a limited number of people with knowledge of, and experience in, our industry. We do not have employment agreements with many of our key employees. We do not maintain life insurance polices on many of our employees. Our loss of key personnel, especially without advance notice, or our inability to hire or retain qualified personnel, could have a material adverse effect on sales and our ability to maintain our technological edge. We cannot guarantee that we will continue to retain our key management and skilled personnel, or that
+we will be able to attract, assimilate and retain other highly qualified personnel in the future.
+The voting power in our company is substantially controlled by a small number of stockholders, which may, among other things, delay or frustrate the removal of incumbent directors or a takeover attempt, even if such events may be beneficial to our stockholders.
+As of June 29, Year T-2, [ENTITY] ([NAME]), which we refer to as Stanford, and Dr. L.S. Smith, our chairman and chief executive officer, collectively had the power to vote approximately 63% of our voting securities, and beneficially owned approximately 56.4% of our voting securities on a fully-diluted basis (after giving effect to the exercise of all options and warrants held by them which are exercisable within sixty days of December 31, Year T-2 but not giving effect to the exercise of any other options or warrants). Consequently, these two stockholders may have sufficient voting power to control the outcome of virtually all corporate matters submitted to the vote of our common stockholders. Those matters could include the election of directors, changes in the size and composition of our board of directors, mergers and other business combinations involving us, or the liquidation of our company. In addition, Stanford and [PERSON] have entered into a corporate governance agreement with
+us, which entitles Stanford and [PERSON] to each nominate two “independent” directors to our board and entitles [PERSON], our chairman and chief executive officer, and William H. [NAME], our president and chief operating officer, to be nominated to our board for so long as he remains an executive officer.
+Rule 704 of the NYSE:[NAME] rules requires that listed [COMPANY] hold annual meeting no later than 12 months after the close of the fiscal year.
+As a result of the [NAME] involving Stanford International Bank , The Company did not hold an annual meeting in Year T and therefore may not be incompliance with the requirements of the [COMPANY]. The Company has scheduled an annual meeting April of Year T+1.
+Through this control of company nominations to our board of directors and through their voting power, Stanford and [PERSON] are able to exercise substantial control over certain decisions, including decisions regarding the qualification and appointment of officers, dividend policy, access to capital (including borrowing from third-party lenders and the issuance of additional equity securities), a merger or consolidation with another company, and our acquisition or disposition of assets. Also, the concentration of voting power in the hands of Stanford and [PERSON] could have the effect of delaying or preventing a change in control of our company, even if the change in control would benefit our other stockholders. The significant concentration of stock ownership may adversely affect the trading price of our common stock due to investors’ perception that conflicts of interest may exist or arise.
+We could be subject to sales taxes, interest and penalties on interstate sales for which we have not collected taxes.
+Superior has not collected [PLACE] sales tax on mail-order sales to out-of-state customers, nor has it collected use tax on its interstate mail order sales. We believe that our sales to interstate customers are generally tax-exempt due to varying state exemptions relative to the definitions of being engaged in business in particular states and the lack of current Internet taxation. While we have not been contacted by any state authorities seeking to enforce sales or use tax regulations, we cannot assure you that we will not be contacted by authorities in the future with inquiries concerning our compliance with current statutes, nor can we assure you that future statutes will not be enacted that affect the sales and use tax aspects of our business.
+We may incur losses as a result of accumulating inventory.
+A substantial portion of the products that we sell comes from our own inventory. We purchased these products from dealers and collectors and assume the inventory and price risks of these items until they are sold. If we are unable to resell the products that we purchase when we want or need to, or at prices sufficient to generate a profit from their resale, or if the market value of the inventory of purchased products were to decline, our revenue would likely decline.
+Our planned expansion and enhancement of our websites and internet operations may not result in increased profitability.
+The satisfactory performance, reliability and availability of our website and network infrastructure are and will be critical to our reputation and our ability to attract and retain customers and technical personnel and to maintain adequate customer service levels. Any system interruptions or reduced performance of our website could materially adversely affect our reputation and our ability to attract new customers and technical personnel. We are in the process of development and/or enhancement of several portions of our websites that will offer content and auctions for rare coins that may have a lower average selling price than many of the rare coins in the markets we currently serve, and in the future we plan to integrate various of our websites. Continued development of our websites will require significant resources and expense. If the planned expansion of our websites does not result in increased revenue, we may experience decreased profitability.
+Our websites may be vulnerable to security breaches and similar threats which could result in our liability for damages and harm to our reputation.
+Despite the implementation of network security measures, our websites are vulnerable to computer viruses, break-ins and similar disruptive problems caused by internet users. These occurrences could result in our liability for damages, and our reputation could suffer. The circumvention of our security measures may result in the misappropriation of customer or other confidential information. Any such security breach could lead to interruptions and delays and the cessation of service to our customers and could result in a decline in revenue and income.
+Changes to financial accounting standards and new [COMPANY] rules could make it more expensive to issue stock options to employees, which would increase compensation costs and may cause us to change our business practices.
+We prepare our financial statements to conform with generally accepted accounting principles, or GAAP, in the United States. These accounting principles are subject to interpretation by the Public Company Accounting Oversight Board, the SEC and various other bodies. A change in those policies could have a significant effect on our reported results and may affect our reporting of transactions completed before a change is announced.
+We are subject to new corporate governance and internal control reporting requirements, and our costs related to compliance with, or our failure to comply with existing and future requirements could adversely affect our business.
+We face new corporate governance requirements under the Sarbanes-Oxley Act of Year T-7, as well as new rules and regulations subsequently adopted by the SEC, the Public Company Accounting Oversight Board and the NYSE [NAME]. These laws, rules and regulations continue to evolve and may become increasingly stringent in the future. In particular, we’re required to include management’s report on internal controls as part of our annual report for the year ending December 31, Year T pursuant to Section 404 of the Sarbanes-Oxley Act. We are in the process of evaluating our control structure to help ensure that we will be able to comply with Section 404 of the Sarbanes-Oxley Act. We cannot assure you that we will be able to fully comply with these laws, rules and regulations that address corporate governance, internal control reporting and similar matters. Failure to comply with these laws, rules and regulations could materially adversely affect our reputation, financial condition and the
+value and liquidity of our securities.
+The revolving credit facilities with [ENTITY] and [PLACE] Capital Bank, N.A. is each collateralized by a general security interest in our assets. If we were to default under the terms of either credit facility, the lender would have the right to foreclose on our assets.
+In December Year T-4, we entered into a revolving credit facility with [PLACE] Capital Bank, N.A., which permits borrowings up to a maximum principal amount of $4.3 million. Borrowings under the revolving credit facility are collateralized by a general security interest in substantially all of our assets (other than the assets of Superior). As of December 31, Year T, approximately $3.3 million was outstanding under the term loan and revolving credit facility. If we were to default under the terms and conditions of the revolving credit facility, [PLACE] Capital Bank would have the right to accelerate any indebtedness outstanding and foreclose on our assets in order to satisfy our indebtedness. Such a foreclosure could have a material adverse effect on our business, liquidity, results of operations and financial position.
+In October Year T-6, Superior entered into a revolving credit facility with Stanford Financial Group Company, which we refer to as [NAME], which has assigned the facility to Stanford. The facility currently permits borrowings up to a maximum principal amount of $11.5 million, up to $6.5 million of which Superior may upstream to [COMPANY] Borrowings under the revolving credit facility are collateralized by a general security interest in substantially all of Superior’s assets and, to the extent of money to [COMPANY], substantially all of [COMPANY]’s assets. As of December 31, Year T, approximately $9.7 million was outstanding under the revolving credit facility. If Superior were to default under the terms and conditions of the revolving credit facility, Stanford would have the right to accelerate any indebtedness outstanding and foreclose on Superior’s assets, and, subject to intercreditor arrangements with [PLACE] Capital Bank and other limitations, our assets, in order to satisfy
+Superior’s indebtedness. Such a foreclosure could have a material adverse effect on our business, liquidity, results of operations and financial position.
+We have been informed that on February 19, Year T, a US district court placed [NAME] under the supervision of a receiver and that the court enjoined [NAME] creditors and other persons from taking certain actions related to [NAME] or its assets. In addition, on the same date, [NAME] Financial Services Regulatory Commission appointed a Receiver for [ENTITY] This action was subsequently ratified by the High Court of Justice in [NAME] and [NAME]. As a result of [NAME] current status, we do not believe that Superior will be able to borrow additional funds under either revolving loan, including any amounts Superior is obligated to repay to [NAME] pursuant to the repayment provisions applicable to the first revolving note. We believe that certain terms of agreements entered into by us, Superior and/or [NAME] and its affiliates in connection with our acquisition of Superior have been breached by [NAME] or its affiliates, and we are evaluating available remedies, including but not limited to
+damages from responsible parties. While Superior does not currently require additional funds under the [NAME] credit facility, should the need arise and Superior is unable to replace this credit facility the operations and performance of Superior could be materially adversely affected.
+On January 27, Year T+1, [COMPANY].(“[COMPANY]”) and Stanford International Bank, LTD (‘[NAME]”), which is the beneficial owner of a significant equity interest in [COMPANY], a primary lender to a wholly owned subsidiary of [COMPANY] and subject to certain agreements with [COMPANY] and its Chairman, entered into definitive agreements whereby [NAME] will terminate all agreements, will convert all of its debt, interest and other expenses and will sell all of its equity interests including common stock and warrants to [COMPANY] or its assignees.
+Stanford and its affiliates, including [NAME] are under receivership, and, accordingly, the transaction is subject to the approval of the United States District Court for the Northern District of [PLACE] which has jurisdiction for the assets of [NAME]. The agreements also contain other closing conditions including, but not limited to the receipt of all United States governmental and regulatory approvals, if any, the receipt of third party approvals, consents and/or waivers as may be required in connection with the transaction and compliance with United States regulatory and governmental requirements, including proof acceptable to the Company, that upon transfer to the purchaser or its assignees that they will receive title to the Securities free and clear of all liens. It is anticipated that additional 8-K’s may be filed upon the occurrence of material events related to this matter.
+As a result of the transaction, it is anticipated that the immediate shares outstanding of the Company will be reduced by all or part of approximately 3,400,000 held by [NAME] and over $9,000,000 in obligations owed by a subsidiary of [COMPANY] to [NAME] will be eliminated.
+We have not paid dividends on our common stock in the past and do not anticipate paying dividends on our common stock in the foreseeable future.
+We have not paid common stock dividends since our inception and do not anticipate paying dividends in the foreseeable future. Our current business plan provides for the reinvestment of earnings in an effort to complete development of our technologies and products, with the goal of increasing sales and long-term profitability and value. In addition, our revolving credit facility with [PLACE] Capital Bank currently restricts, and any other credit or borrowing arrangements that we may enter into may in the future restrict or limit, our ability to pay dividends to our stockholders.
+ITEM 1B.
+
+### Item 3 Legal Proceedings
+ITEM 3. LEGAL PROCEEDINGS.
+From time to time, be involved in various claims, lawsuits, disputes with third parties, actions involving allegations of discrimination, or breach of contract actions incidental to the operation of its business. Except as set forth above, we are not currently involved in any such litigation which we believe could have a material adverse effect on our financial condition or results of operations, liquidity or cash flows.
+PART II
+ITEM 5.
+
+### Item 7 MD&A
+ITEM 7.
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+CAUTIONARY STATEMENT REGARDING RISKS AND UNCERTAINTIES THAT MAY AFFECT FUTURE RESULTS
+Forward-Looking Statements
+This Annual Report on Form 10-K, including Management's Discussion and Analysis of Financial Condition and Results of Operations, includes "forward-looking statements" within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities [COMPANY] Act of 1934, as amended. Forward-looking statements generally can be identified by the use of forward-looking terminology, such as "may," "will," "would," "expect," "intend," "could," "estimate," "should," "anticipate" or "believe." We intend that all forward-looking statements be subject to the safe harbors created by these laws. All statements other than statements of historical information provided herein are forward-looking and may contain information about financial results, economic conditions, trends, and known uncertainties. All forward-looking statements are based on current expectations regarding important risk factors. Many of these risks and uncertainties are beyond our ability to control,
+and, in many cases, we cannot predict all of the risks and uncertainties that could cause our actual results to differ materially from those expressed in the forward-looking statements. Actual results could differ materially from those expressed in the forward-looking statements, and readers should not regard those statements as a representation by us or any other person that the results expressed in the statements will be achieved. Important risk factors that could cause results or events to differ from current expectations are described under the section “Risk Factors” and elsewhere in this report. These factors are not intended to be an all-encompassing list of risks and uncertainties that may affect the operations, performance, development and results of our business. Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date hereof. We undertake no obligation to release publicly the results of any revisions to these
+forward-looking statements which may be made to reflect events or circumstances after the date hereon, including without limitation, changes in our business strategy or planned capital expenditures, store growth plans, or to reflect the occurrence of unanticipated events.
+Critical Accounting Policies and Estimates
+Our significant accounting policies are disclosed in Note 1 of our consolidated financial statements. The following discussion addresses our most critical accounting policies, which are those that are both important to the portrayal of our financial condition and results of operations and that require significant judgment or use of complex estimates.
+Inventories. [NAME] and other inventories are valued at the lower of cost or market. [NAME] is valued at the lower-of-cost-or-market (average cost). See also “Critical Accounting Estimates”.
+Impairment of Long-Lived and Amortized Intangible Assets. The Company performs impairment evaluations of its long-lived assets, including property, plant and equipment and intangible assets with finite lives, including the customer base acquired in the Superior acquisition, whenever business conditions or events indicate that those assets may be impaired. When the estimated future undiscounted cash flows to be generated by the assets are less than the carrying value of the long-lived assets, the assets are written down to fair market value and a charge is recorded to current operations. Based on our evaluations no impairment was required as of December 31, Year T.
+Impairment of Goodwill and Indefinite-Lived Intangible Assets. Goodwill and indefinite-lived intangible assets are tested for impairment annually, or more frequently if events or changes in circumstances indicate that the assets might be impaired. The Company performs its annual review at the beginning of the fourth quarter of each fiscal year.
+The Company evaluates the recoverability of goodwill by estimating the future discounted cash flows of the businesses to which the goodwill relates. Estimated cash flows and related goodwill are grouped at the reporting unit level. A reporting unit is an operating segment or, under certain circumstances, a component of an operating segment that constitutes a business. When estimated future discounted cash flows are less than the carrying value of the net assets and related goodwill, an impairment test is performed to measure and recognize the amount of the impairment loss, if any. Impairment losses, limited to the carrying value of goodwill, represent the excess of the carrying amount of a reporting unit’s goodwill over the implied fair value of that goodwill. In determining the estimated future cash flows, the Company considers current and projected future levels of income as well as business trends, prospects and market and economic conditions.
+The Company cannot predict the occurrence of certain events that might adversely affect the carrying value of goodwill and indefinite-lived intangible assets. Such events may include, but are not limited to, the impact of the economic environment, a material negative change in relationships with significant customers, or strategic decisions made in response to economic and competitive conditions. See “Critical Accounting Estimates.”
+Revenue Recognition. Revenue is generated from wholesale and retail sales of rare coins, precious metals, bullion and second-hand jewelry. The recognition of revenue varies for wholesale and retail transactions and is, in large part, dependent on the type of payment arrangements made between the parties. The Company recognizes sales on an F.O.B. shipping point basis.
+The Company sells rare coins to other wholesalers/dealers within its industry on credit, generally for terms of 14 to 60 days, but in no event greater than one year. The Company grants credit to new dealers based on extensive credit evaluations and for existing dealers based on established business relationships and payment histories. The Company generally does not obtain collateral with which to secure its accounts receivable when the sale is made to a dealer. The Company maintains reserves for potential credit losses based on an evaluation of specific receivables and its historical experience related to credit losses. See “Critical Accounting Estimates”.
+Revenues for monetary transactions (i.e., cash and receivables) with dealers are recognized when the merchandise is shipped to the related dealer.
+The Company also sells rare coins to retail customers on credit, generally for terms of 30 to 60 days, but in no event greater than one year. The Company grants credit to new retail customers based on extensive credit evaluations and for existing retail customers based on established business relationships and payment histories. When a retail customer is granted credit, the Company generally collects a payment of 25% of the sales price, establishes a payment schedule for the remaining balance and holds the merchandise as collateral as security against the customer’s receivable until all amounts due under the credit arrangement are paid in full. If the customer defaults in the payment of any amount when due, the Company may declare the customer’s obligation in default, liquidate the collateral in a commercially reasonable manner using such proceeds to extinguish the remaining balance and disburse any amount in excess of the remaining balance to the customer.
+Under this retail arrangement, revenues are recognized when the customer agrees to the terms of the credit and makes the initial payment. We have a limited-in-duration money back guaranty policy (as discussed below).
+In limited circumstances, the Company exchanges merchandise for similar merchandise and/or monetary consideration with both dealers and retail customers, for which the Company recognizes revenue in accordance with SFAS [#], “ Exchanges of [NAME] Assets - An Amendment of APB Opinion No. [#].” When the Company exchanges merchandise for similar merchandise and there is no monetary component to the [COMPANY], the Company does not recognize any revenue. Instead, the basis of the merchandise relinquished becomes the basis of the merchandise received, less any indicated impairment of value of the merchandise relinquished. When the Company exchanges merchandise for similar merchandise and there is a monetary component to the [COMPANY], the Company recognizes revenue to the extent of monetary assets received and determine the cost of sale based on the ratio of monetary assets received to monetary and non-monetary assets received multiplied by the cost of the assets surrendered.
+The Company has a return policy (money-back guarantee). The policy covers retail transactions involving graded rare coins only. Customers may return graded rare coins purchased within 7 days of the receipt of the rare coins for a full refund as long as the rare coins are returned in exactly the same condition as they were delivered. In the case of rare coin sales on account, customers may cancel the sale within 7 days of making a commitment to purchase the rare coins. The receipt of a deposit and a signed purchase order evidences the commitment. Any customer may return a coin if they can demonstrate that the coin is not authentic, or there was an error in the description of a graded coin.
+Revenues from the sale of consigned goods are recognized as commission income on such sale if the Company is acting as an agent for the consignor. If in the process of selling consigned goods, the Company makes an irrevocable payment to a consignor for the full amount due on the consignment and the corresponding receivable from the buyer(s) has not been collected by the Company at that payment date, the Company records that payment as a purchase and the sale of the consigned good(s) to the buyer as revenue as the Company has assumed all collection risk.
+[NAME] loans (“loans”) were made with the collateral of tangible personal property for one month with an automatic 60-day extension period. [NAME] service charges were recorded at the time of redemption at the greater of $15 or the actual interest accrued to date. If the loan was not repaid, the principal amount loaned plus accrued interest (or the fair value of the collateral, if lower) became the carrying value of the forfeited collateral (“inventories”) which was recovered through sales to customers.
+Income Taxes. Income taxes are estimated for each jurisdiction in which we operate. This involves assessing the current tax exposure together with temporary differences resulting from differing treatment of items for tax and financial statement accounting purposes. Any resulting deferred tax assets are evaluated for recoverability based on estimated future taxable income. To the extent that recovery is deemed not likely, a valuation allowance is recorded. See “Critical Accounting Estimates”.
+Inventories. The Company acquires a majority of its retail jewelry inventory from individuals that is pre-owned. The Company acquires the jewelry based on its own internal estimate of the fair market value of the items offered for sale considering factors such as the current spot market prices of precious metals and current demand for the items offered for sale. Because the overall market value for precious metals fluctuates, these fluctuations could have either a positive or negative impact to the profitability of the Company. The Company monitors these fluctuations to evaluate any impairment to its retail jewelry inventory.
+Allowance for Doubtful Accounts. The allowance for doubtful accounts requires management to estimate a customer’s ability to satisfy its obligations. The estimate of the allowance for doubtful accounts is particularly critical in the Company’s wholesale coin segment where a significant amount of the Company’s trade receivables are recorded. The Company evaluates the collectability of receivables based on a combination of factors. In circumstances where the Company is aware of a specific customer’s inability to meet its financial obligations, a specific reserve is recorded against amounts due to reduce the net recognized receivable to the amount reasonably expected to be collected. Additional reserves are established based upon the Company’s perception of the quality of the current receivables, including the length of time the receivables are past due, past experience of collectability and underlying economic conditions. If the financial condition of the Company’s customers were to
+deteriorate resulting in an impairment of their ability to make payments, additional reserves would be required.
+Impairment of Goodwill and Indefinite-Lived Intangible Assets. In evaluating the recoverability of goodwill, it is necessary to estimate the fair value of the reporting units. The estimate of fair value of intangible assets is generally determined on the basis of discounted future cash flows. The estimate of fair value of the reporting units is generally determined on the basis of discounted future cash flows supplemented by the market approach. In estimating the fair value, management must make assumptions and projections regarding such items as future cash flows, future revenues, future earnings and other factors. The assumptions used in the estimate of fair value are generally consistent with the past performance of each reporting unit and are also consistent with the projections and assumptions that are used in current operating plans. Such assumptions are subject to change as a result of changing economic and competitive conditions. The rate used to discount estimated cash flows
+is a rate corresponding to the Company’s cost of capital, adjusted for risk where appropriate, and is dependent upon interest rates at a point in time. There are inherent uncertainties related to these factors and management’s judgment in applying them to the analysis of goodwill impairment. It is possible that assumptions underlying the impairment analysis will change in such a manner to cause further impairment of goodwill, which could have a material impact on the Company’s results of operations.
+During the 4th quarter of Year T-1, given the sustained decline in the price of the Company’s Common Stock during Year T-1 when its share price approximated book value, continued operating losses within the auction segment, as well as further deterioration in credit markets and the macro-economic environment, the Company determined that the appropriate triggers had been reached to perform additional impairment testing on goodwill and its indefinite-lived intangible assets.
+To derive the fair value of its reporting units, the Company performed extensive valuation analyses, utilizing both income and market approaches. Under the income approach, the Company determined fair value based on estimated future cash flows discounted by an estimated weighted-average cost of capital, which reflects the overall level of inherent risk of a reporting unit and the rate of return an outside investor would expect to earn. Estimated future cash flows were based on the Company’s internal projection models, industry projections and other assumptions deemed reasonable by management. For the impairment analysis, the Company used a weighted-average cost of capital of 20% and a terminal growth rate of 3%. Under the market approach, the Company evaluated the fair value of its reporting units based on the overall actual market capitalization trend of the Company as compared to the net book value of the Company. Changes in estimates or the application of alternative assumptions
+could produce significantly different results.
+As a result of this analysis, $8,185,443 of goodwill was written off during the 4th quarter of fiscal Year T-1 relating to the goodwill resulting from the Superior [NAME] acquisition. The evaluation of other long-lived intangible assets relating to the Superior [NAME] acquisition were not written off due to new business generated from the [ENTITY] through the establishment of two new entities, Superior Estate Buyers and Superior [NAME] Metals, which attracted approximately $9.8 million and $1.8 million, respectively, in revenues in their first full year of operations in Year T-1. These charges were driven by current projections and valuation assumptions that reflected the Company’s belief that the [ENTITY] wholesale auction and coin segments would not sustain adequate growth and profitability to generate cash flow, especially in the current downtown in the economy.
+The analysis of the wholesale watch sales division resulting from the acquisition of [NAME] with a carrying value of goodwill of $837,117 resulted in no impairment as its estimated future discounted cash flows significantly exceeded the net assets and related goodwill.
+Income Taxes. The Company records deferred income tax assets and liabilities for differences between the book basis and tax basis of the related net assets. The Company records a valuation allowance, when appropriate, to adjust deferred tax asset balances to the amount management expects to realize. Management considers, as applicable, the amount of taxable income available in carryback years, future taxable income and potential tax planning strategies in assessing the need for a valuation allowance. The Company has recorded the net present value of the future expected benefits of the net operating loss (NOL) carryforward related to its subsidiary [ENTITY] due to IRS loss limitation rules. The Company will require future taxable income to fully realize the net deferred tax asset resulting from the NOL.
+As of January 1, Year T-2, the Company adopted FASB Interpretation No. [#], Accounting for Uncertainty in Income Taxes, an Interpretation of FASB Statement No. [#], Accounting for Income Taxes (“FIN [#]”). The adoption did not have a material impact on the Company’s consolidated financial statements or effective tax rate and did not result in any unrecognized tax benefits.
+Interest costs and penalties related to income taxes are classified as interest expense and general and administrative costs, respectively, in the Company’s consolidated financial statements. For the years ended December 31, Year T and Year T-1, the Company did not recognize any interest or penalty expense related to income taxes. It is determined not to be reasonably likely for the amounts of unrecognized tax benefits to significantly increase or decrease within the next 12 months. The Company is currently subject to a three year statute of limitations by major tax jurisdictions. The Company and its subsidiaries file income tax returns in the U.S. federal jurisdiction.
+Results of Operations
+Comparison of the Years ended December 31, Year T and Year T-1
+Revenues decreased by $15,854,000 or 15.6%, in Year T. This decrease was primarily the result of a $2,652,000 or 5.8% decrease in the sale of precious metals products, a $11,958,000 or 32.6% decrease in retail jewelry sales and a $1,890,000, or 11.8% decrease in rare coin sales. The decreases in precious metals and rare coin sales were due to a reduced availability of precious metal products and the reduction of activity at Superior as a result of the discontinuance of the auction business segment. The decrease in jewelry sales was due to the sluggish retail environment. in addition, the discontinuance of the auction business segment and the sale of our pawn shops had an indirect effect on our retail sales. Cost of goods sold as a percentage of sales decreased to 85.6% in Year T from 87.2% in Year T-1 and gross margins increased to 14.4% in Year T from 12.3% in Year T-1. This increase was due to the decrease in precious metal sales which have a lower margin than jewelry and rare coins
+revenues.
+Selling, general and administrative expenses increased $2,446,000 or 29.43% during the year. This increase was due to higher advertising and payroll related cost. Depreciation and amortization increased by $14,066 during Year T due to new assets being placed into service. The decrease in interest expense was due to the reduction in debt outstanding and the non payment of the Superior related debt to Stanford International Bank resulting from the bank’s default under the loan agreement. Loss from discontinued operations was the result of the discontinuing the operations of our live
+During Year T-1, the Company reflected $8,185,443 of goodwill relating to the acquisition of [ENTITY] in May Year T-2. Under SFAS No. [#], the Company is required to undertake an annual impairment test at its year end or when there is a triggering event. In addition to the annual impairment review, there were a number of triggering events in the fourth quarter due to the significant operating losses of Superior and the impact of the economic downturn on Superior’s operations and the decline in the Company’s share price resulting in a substantial discount of the market capitalization to tangible net asset value. An evaluation of the recorded goodwill was undertaken, which considered two methodologies to determine the fair-value of the entity:
+·
+A market capitalization approach, which measure market capitalization at the measurement date.
+·
+A discounted cash flow approach, which entails determining fair value using a discounted cash flow methodology. This method requires significant judgment to estimate the future cash flow and to determine the appropriate discount rates, growth rates, and other assumptions.
+Each of these the Company believes has merit, and resulted in the determination that goodwill was impaired. Accordingly, to reflect the impairment, the Company recorded a non-cash charge of $8,185,443, which eliminated the value of the goodwill related to Superior.
+In November Year T-1 we decided to discontinue the live auction segment of the Company’s business activities. This decision was based on the substantial losses being incurred by this operating segment during Year T-1. As a result, the operating results of the auction segment have been reclassified to discontinued operations for Year T, Year T-1 and Year T-2. During Year T-1 the auction segment incurred a pretax loss of $3,227,151which includes $848,000 related to the impairment of goodwill associated with the Superior acquisition in May Year T-2. During Year T the auction segment incurred a pretax loss of $710,056.
+In June Year T we sold the assets of National [NAME] [COMPANY], Inc. (our two pawn shops to an unrelated third party for cash in the amount of $ 1,324.450. The proceeds were used to retire $400,000 of our bank debt and the balance was used for working capital. As a result, the operations results of this segment have been classified as discontinued operations.
+In December Year T, the Company decided to discontinued operations of Superior Estate Buyers. This decision was based on the substantial losses being incurred by this component during Year T. As a result, the operating results of this segment have been reclassified to discontinued operations for Year T, Year T-1 and Year T-2. During Year T, Superior Estate Buyers incurred a pretax loss of $87,120.
+As a result, operating results from these business segments have been reclassified to discontinued operations for all periods presented
+Income tax expense is directly affected by the levels of pretax income and non-deductible permanent differences related to the goodwill impairment. The Company’s effective tax rate was 31.5% and 23.1% for the year ended December 31, Year T and Year T-1, respectively.
+Comparison of the Years ended December 31, Year T-1 and Year T-2
+Revenues increased by $43,749,984 or 71.2%, in Year T-1. This increase was primarily the result of a $24,296,000 or 114.9% increase in the sale of precious metals products, a $17,254,000, or 89.2% increase in retail jewelry sales and a $1,992,000, or 14.3% increase in rare coin sales. The increases in precious metals, rare coin and jewelry sales were due to a price increase in [COMPANY] products ($13,435,000), acquisition of Superior [NAME] ($14,500,000) and [NAME] [COMPANY] and [COMPANY] ($8,600,000). Consumer loan service fees increased by $242,440 in Year T-1 due to increased loans outstanding during the year. Cost of goods as a percentage of sales increased to 86.7% in Year T-1 from 84.1% in Year T-2 and gross margins decreased to 12.8% in Year T-1 from 15.9% in Year T-2. This decrease was due to the significant increase in precious metal sales which have a much lower margin than jewelry and rare coins revenues.
+Selling, general and administrative expenses increased $1,520,262 or 18.3% during the year. This increase was due to the start up of Superior [NAME] metals ($692,000), Superior Estate Buyers ($396,000), American [COMPANY] and [COMPANY] [COMPANY] ($160,000) and the opening of our second pawn shop during Year T-2 ($440,000). Depreciation and amortization increased by $236,975, or 95.6%, during Year T-1 due to additional assets being purchased through our recent acquisitions and depreciation on our new facility in [COMPANY], [PLACE]. The increase in interest expense was due to the additional debt related to the Superior acquisition. The loss from discontinued operations was the result of the discontinuing the operations of our live auction segment and closing of our pay day loan stores.
+At December 31, Year T-1, management believed the equity shares owned in three publicly traded stocks had declined on an other than temporary basis as these stocks are thinly traded and have market values of less than $ .01 per share. As a result, these investments were written-off in the amount of $115,992. this charge is included in other expense during Year T-1 net of interest earned during the year. Other income during Year T-2 was the result of the gain on the sale of the land and building at which our [COMPANY] retail store and corporate headquarters were previously located.
+During Year T-1, the Company reflected $8,185,443 of goodwill relating to the acquisition of [ENTITY] in May Year T-2. Under SFAS No. [#], the Company is required to undertake an annual impairment test at its year end or when there is a triggering event. In addition to the annual impairment review, there were a number of triggering events in the fourth quarter due to the significant operating losses of Superior and the impact of the economic downturn on Superior’s operations and the decline in the Company’s share price resulting in a substantial discount of the market capitalization to tangible net asset value. An evaluation of the recorded goodwill was undertaken, which considered two methodologies to determine the fair-value of the entity:
+·
+A market capitalization approach, which measure market capitalization at the measurement date.
+·
+A discounted cash flow approach, which entails determining fair value using a discounted cash flow methodology. This method requires significant judgment to estimate the future cash flow and to determine the appropriate discount rates, growth rates, and other assumptions.
+Each of these the Company believes has merit, and resulted in the determination that goodwill was impaired. Accordingly, to reflect the impairment, the Company recorded a non-cash charge of $8,185,443, which eliminated the value of the goodwill related to Superior.
+In November Year T-1 we decided to discontinue the live auction segment of the Company’s business activities. This decision was based on the substantial losses being incurred by this operating segment during Year T-1. As a result, the operating results of the auction segment have been reclassified to discontinued operations for both Year T,Year T-1 and Year T. During Year T-1 the auction segment incurred a pretax loss of $3,227,151which includes $848,000 related to the impairment of goodwill associated with the Superior acquisition in May Year T-2.
+In June Year T we sold the assets of National [NAME] [COMPANY], Inc. (our two pawn shops to an unrelated third party for cash in the amount of $ 1,324.450. The proceeds were used to retire $400,000 of our bank debt and the balance was used for working capital.
+As a result, operating results from this business segment has been reclassified to discontinued operations for all periods presented
+Income tax expense is directly affected by the levels of pretax income and non-deductible permanent differences related to the goodwill impairment. The Company’s effective tax rate was 11.4% and 23% for the year ended December 31, Year T and Year T-1, respectively. The provisions for deferred taxes increased due to the impairment of goodwill in
+Liquidity and Capital Resources
+During the three years ended December 31, Year T cash flows from operating activities totaled $1,317,816, ($1,013,482), and (4,342,513), respectively. Cash provided in operating activities during Year T was primarily the result of an decrease in trade receivables $2,173,749, a increase in accounts payable and accrued expenses $541,105, and a increase in customer deposits ($870,284). These uses of cash were partially offset by a increase in inventory ($2,362,528) and an increase in prepaid expenses. The increase in deposits was primarily the result of price increase in [COMPANY] products and a significant increase in the demand for precious metal products. Cash used in operating activities during Year T-1 was primarily the result of an increase in inventory ($3,077,051) offset by a decrease in trade receivable 1,473,136 and an increase in customer deposits 915,554. These increases were primarily the re the result of the acquisition of [ENTITY] in May of Year T-2.
+During the three years ended December 31, Year T cash flows from investing activities totaled $851,204 ($1,222,178), and ($3,546,379). The cash provided in Year T was the result of the proceeds from the sale discontinued operations (1,324,450) The uses of cash in Year T-1 and Year T-2 were primarily the result of building improvements ($1,130,602) during Year T-1, the purchase of a new facility ($3,780,554) during Year T-2 and cost related to the acquisition of [ENTITY]($375,280)during Year T-2.During Year T-2 the Company sold it’s former corporate offices and store for cash in the amount of $1,299,898.
+During the three years ended December 31, Year T cash flows from financing activities totaled ($942,389), $1,919,205 and $7,215,158. These cash flows were the result of borrowings and repayments of loans.
+We expect capital expenditures to total approximately $150,000 during the next twelve months. It is anticipated that these expenditures will be funded from working capital. As of December 31, Year T there were no commitments outstanding for capital expenditures.
+In the event of significant growth in retail and or wholesale jewelry sales, the demand for additional working capital will expand due to a related need to stock additional jewelry inventory and increases in wholesale accounts receivable. Historically, vendors have offered us extended payment terms to finance the need for jewelry inventory growth and our management believes that we will continue to do so in the future. Any significant increase in wholesale accounts receivable will be financed under a new bank credit facility or from short-term loans from individuals.
+Our ability to finance our operations and working capital needs are dependent upon management’s ability to negotiate extended terms or refinance its debt. We have historically renewed, extended or replaced short-term debt as it matures and management believes that we will be able to continue to do so in the near future.
+From time to time, we have adjusted our inventory levels to meet seasonal demand or in order to meet working capital requirements. Management is of the opinion that if additional working capital is required, additional loans can be obtained from individuals or from commercial banks. If necessary, inventory levels may be adjusted in order to meet unforeseen working capital requirements.
+In December Year T-4, we entered into a revolving credit facility with [PLACE] Capital Bank, N.A., which currently permits borrowings up to a maximum principal amount of $3.3 million. Borrowings under the revolving credit facility are collateralized by a general security interest in substantially all of our assets (other than the assets of Superior). As of De [...truncated]
+
+### Item 7A Market Risk
+ITEM 7A. QUALITATIVE AND QUANTITATIVE DISCLOSURES ABOUT MARKET RISK.
+Market Risk
+The following discussion about our market risk disclosures involves forward-looking statements. Actual results could differ materially from those projected in the forward-looking statements. We are exposed to market risk related to changes in interest rates and precious metal values. We also are exposed to regulatory risk in relation to our pawn loans. We do not use derivative financial instruments.
+Our earnings and financial position may be affected by changes in precious metal values and the resulting impact on pawn lending and jewelry sales. The proceeds of scrap sales and our ability to liquidate excess jewelry inventory at an acceptable margin are dependent upon [COMPANY] values. The impact on our financial position and results of operations of a hypothetical change in precious metal values cannot be reasonably estimated.
+ITEM 8.
+
+### Financial Statements and Notes
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+(a)
+Exhibits
+10.1
+Renewal, Extension And Modification Agreement dated January 28, Year T-15, by and among [COMPANY] Corporation and Michael E. Hall And [NAME] E. Hall
+×
+10-KSB
+March
+10.2
+10.2
+Lease Agreement dated June 2, Year T-9 by and between [NAME] Properties and [NAME] [COMPANY] and [NAME] [COMPANY], Inc.
+×
+10-KSB
+March 29,
+10.1
+10.3
+Lease agreement dated October 5, Year T-5 by and between [NAME] Road Associates and [COMPANY]
+×
+10-K
+April 15,
+10.2
+10.4
+Lease agreement dated December 1, Year T-5 by and between [NAME] Properties and [COMPANY]
+×
+10-K
+April 15,
+10.3
+10.5
+Lease agreement dated November 18, Year T-5 by and between [ENTITY] and [ENTITY]
+×
+10-K
+April 15,
+10.4
+10.6
+Lease Agreement dated January 17, Year T-4 by and between [ENTITY] Partnership and [COMPANY].
+×
+S-4
+January 6,
+10.6
+10.7
+Sale agreement dated executed July 5, Year T-2 by and between [COMPANY]. and [PLACE] Department of Transportation
+×
+8-K
+July 11, Year T-2
+10.1
+10.8
+Purchase agreement dated July 5, Year T-2 by and between [COMPANY]. and 11311 [NAME] Road Holdings, LP
+×
+8-K
+July 11, Year T-2
+10.2
+10.9
+Loan Agreement, dated as of December 22, Year T-4, between [COMPANY]. and [PLACE] Capital Bank, N.A.
+×
+8-K/A
+August 17,
+10.1
+10.10
+Third Amendment to Loan Agreement, dated as of May 10, Year T-2, by and between [COMPANY]. and [PLACE] Capital Bank, N.A.
+×
+8-K
+May 9, Year T-2
+3.0
+10.11
+Support Agreement, [COMPANY] stockholders, dated as of January 6,
+×
+8-K
+January 9,
+99.1
+10.12
+Securities [COMPANY] Agreement, dated as of January 6, Year T-2
+×
+8-K
+January 9,
+99.2
+10.13
+Warrant to [NAME], issued January 6, Year T-2
+×
+8-K
+January 9,
+99.3
+10.14
+Support Agreement, Superior stockholders, dated as of January 6,
+×
+8-K
+January 9,
+99.5
+10.15
+Asset purchase agreement, dated May 9, Year T-2, by and between [COMPANY]. and [NAME] [COMPANY] & [COMPANY], Inc.
+×
+8-K
+May 9, Year T-2
+1.0
+10.16
+Subordinated Promissory Note dated May 9, Year T-2
+×
+8-K
+May 9, Year T-2
+2.0
+10.17
+Registration Rights Agreement with [ENTITY], dated as of May 30, Year T-2
+×
+8-K
+May 31, Year T-2
+99.1
+10.18
+Corporate Governance Agreement with Dr. L.S. Smith and [ENTITY], dated as of May 30, Year T-2
+×
+8-K
+May 31, Year T-2
+99.2
+10.19
+Escrow Agreement with American Stock Transfer & Trust Company and [ENTITY], as stockholder agent, dated as of May 30,
+×
+8-K
+May 31, Year T-2
+99.3
+10.20
+Form of Warrants
+×
+8-K
+May 31, Year T-2
+99.4
+10.21
+Amended and Restated Commercial Loan and Security Agreement, by and between [ENTITY] and [ENTITY], dated as of May 30, Year T-2
+×
+8-K
+May 31, Year T-2
+99.5
+10.22
+Employment Agreement with L.S. Smith, dated as of May 30, Year T-2
+×
+8-K
+May 31, Year T-2
+99.6
+10.23
+Employment Agreement with William H. [NAME], dated as of May 30, Year T-2
+×
+8-K
+May 31, Year T-2
+99.7
+10.24
+Employment Agreement with John [NAME], dated as of May 30, Year T-2
+×
+8-K
+May 31, Year T-2
+99.8
+23.1
+Consent of [NAME] Jackson
+x
+31.1
+Certification pursuant to Rule 13a-14(a) of the Securities [COMPANY] Act of 1934 implementing Section 302 of the Sarbanes-Oxley Act of Year T-7 by Dr. L.S. Smith
+×
+31.2
+Certification pursuant to Rule 13a-14(a) of the Securities [COMPANY] Act of 1934 implementing Section 302 of the Sarbanes-Oxley Act of Year T-7 by John [NAME]
+×
+32.1
+Certification pursuant to 18 U.S.C. Section 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of Year T-7 by Dr. L.S. Smith
+×
+32.2
+Certification pursuant to 18 U.S.C. Section 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of Year T-7 by John [NAME]
+×
+(b) Reports on Form 8-K :
+None.
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities [COMPANY] Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+[COMPANY].
+By:
+/s/ L. S. Smith
+Dated: March 30, Year T+1
+L. S. Smith
+Chairman of the Board,
+Chief Executive Officer and
+Secretary
+Pursuant to the requirements of the Securities [COMPANY] Act of 1934, this report has been signed below by the following persons on behalf of the Registrant and in the capacities and on the dates indicated.
+By:
+/s/ L. S. Smith
+Dated: March 30, Year T+1
+L.S Smith
+Chairman of the Board,
+Chief Executive Officer and
+Secretary
+By:
+/s/ W. H. [NAME]
+Dated: March 30, Year T+1
+W. H. [NAME]
+Director, President and
+Chief Operating Officer
+By:
+/s/ John [NAME]
+Dated: March 30, Year T+1
+John [NAME]
+Chief Financial Officer
+(Principal Accounting Officer)
+By:
+/s/ William P. [NAME]
+Dated: March 30, Year T+1
+Director
+By:
+/s/ Craig [NAME]
+Dated: March 30, Year T+1
+Director
+By
+By:
+/s/David [NAME]
+Dated: March 30, Year T+1
+Director
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the Board of Directors and
+Shareholders of [COMPANY].
+We have audited the accompanying consolidated balance sheets of [NAME] [COMPANY], Inc. and its subsidiaries (the “Company”) as of December 31, Year T and Year T-1, and the related consolidated statements of operations, shareholders’ equity and comprehensive income, and cash flows for the years ended December 31, Year T, Year T-1, and Year T-2. These consolidated financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on these financial statements based on our audits.
+We conducted our audits in accordance with standards of the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. We have not been engaged to perform an audit of the Company’s internal control over financial reporting. Our audit included consideration of internal control over financial reporting as a basis for designing audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Company’s internal control over financial reporting. Accordingly we express no such opinion. An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements. An audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis for our opinion.
+In our opinion, the financial statements referred to above present fairly, in all material respects, the consolidated financial position of the Company as of December 31, Year T and Year T-1, and the consolidated results of operations and its cash flows for the years ended December 31, Year T, Year T-1, and Year T-2 in conformity with accounting principles generally accepted in the United States of America.
+/s/ [NAME] [PLACE]
+March 31,
+[COMPANY]. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+The accompanying notes are an integral part of these consolidated financial statements
+[COMPANY]. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS
+The accompanying notes are an integral part of these consolidated financial statements
+[COMPANY]. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+FOR THE YEARS ENDED DECEMBER 31,
+The accompanying notes are an integral part of these consolidated financial statements.
+[COMPANY]. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+FOR THE YEARS ENDED DECEMBER 31,
+The accompanying notes are an integral part of these consolidated financial statements.
+[COMPANY]. and Subsidiaries
+Notes to Consolidated Financial Statements
+December 31, Year T, Year T-1 and Year T-2
+Note 1 - Summary of Accounting Policies and Nature of Operations
+A summary of the significant accounting policies applied in the preparation of the accompanying consolidated financial statements follows:
+Principles of Consolidation and Nature of Operations
+[COMPANY]. and its subsidiaries (the “Company”), sell jewelry and bullion products to both retail and wholesale customers throughout the United States through its facilities in [COMPANY] and [PLACE], [NAME]. [PLACE], [NAME] Hills [PLACE] and through its internet sites.
+The consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America and include the accounts of the Company and its subsidiaries. All material intercompany transactions and balances have been eliminated.
+On July 13, Year T-2, the Company sold the loan balances from our American Pay Day Center locations and discontinued operations in those locations. During Year T-2, we recognized a pretax loss of $107,838 on the disposal of assets and a pretax loss of $51,937 from operations.
+In November Year T-1, the Company decided to discontinue the live auction segment of its business activities. The decision was based on the substantial losses being incurred by this operating segment during Year T-1. As a result, the operating results of the auction segment have been reclassified to discontinued operations for Year T, Year T-1 and Year T-2. During Year T and Year T-1, the auction segment incurred pretax losses of $710,656 and $2,379,151.
+On July 16, Year T, the Company sold the assets of our National [NAME] locations and discontinued operations in those locations. As a result, the operating results of National [NAME] have been reclassified to discontinued operations for Year T, Year T-1 and Year T-2. During Year T, we recognized a pretax gain of $14,450 on the disposal of assets and incurred a pretax loss of $9,599 from operations.
+In December Year T, the Company decided to discontinued operations of Superior Estate Buyers. This decision was based on the substantial losses being incurred by this component during Year T. As a result, the operating results of this segment have been reclassified to discontinued operations for Year T, Year T-1 and Year T-2. During Year T, Superior Estate Buyers incurred a pretax loss of $87,120.
+As a result of these dispositions, the Consolidated Financial Statements and related notes have been reclassed to present the results of the American Pay Day Center locations, auction segment, National [NAME] locations and Superior Estate Buyer’s activities as discontinued operations.
+Cash and Cash Equivalents
+For purposes of the statements of cash flows, the Company considers all highly liquid debt instruments purchased with a maturity of three months or less to be cash equivalents.
+Investments in Marketable Equity Securities
+Marketable equity securities have been categorized as available-for-sale and carried at fair value. Unrealized gains and losses for available-for-sale securities are included as a component of shareholders’ equity net of tax until realized. Realized gains and losses on the sale of securities are based on the specific identification method. The Company continually reviews its investments to determine whether a decline in fair value below the cost basis is other than temporary. If the decline in the fair values is judged to be other than temporary, the cost basis of the security is written down to fair value and the amount of the write-down is included in the consolidated statements of operations.
+Inventory
+[NAME] and other inventory is valued at lower-of-cost-or-market (specific identification). [NAME] inventory is valued at lower-of-cost-or-market (average cost).
+[COMPANY]. and Subsidiaries
+Notes to Consolidated Financial Statements
+December 31, Year T, Year T-1 and Year T-2
+Property and Equipment
+Property and equipment are stated at cost less accumulated depreciation and amortization. Depreciation and amortization are being provided on the straight-line method over periods of three to thirty years. Machinery and equipment under capital leases are amortized on the straight-line method over the life of the lease. Expenditures for repairs and maintenance are charged to expense as incurred.
+Goodwill
+Effective January 1, Year T-7, the Company adopted Statement of Financial Accounting Standards No. [#], Goodwill and Other Intangible Assets [ASC [#]]. Under that pronouncement, goodwill is not being amortized but is subject to periodic tests to determine the amount of impairment, if any, to be reflected during the period.
+Note 1 - Summary of Accounting Policies and Nature of Operations - continued
+Impairment of Long-Lived Assets
+The Company assesses the recoverability of its long-lived assets (including intangible assets) based on their current and anticipated future undiscounted cash flows. An impairment occurs when the discounted cash flows (excluding interest) do not exceed the carrying amount of the asset. The amount of the impairment loss is the difference between the carrying amount of the asset and its estimated fair value.
+Financial Instruments
+The carrying amounts reported in the consolidated balance sheets for cash and cash equivalents, accounts receivable, marketable securities, short-term debt, accounts payable and accrued expenses approximate fair value because of the immediate or short-term maturity of these consolidated financial instruments. The carrying amount reported for long-term debt approximates fair value because substantially all of the underlying instruments have variable interest rates which reprice frequently or the interest rates approximate current market rates.
+Advertising Costs
+Advertising costs are expensed as incurred and amounted to $2,636,178, $2,028,275 and $1,262,804 for Year T, Year T-1 and Year T-2, respectively.
+Accounts Receivable
+The Company records trade receivables when revenue is recognized. No product has been consigned to customers. The Company’s allowance for doubtful accounts is primarily determined by review of specific trade receivables. Those accounts that are doubtful of collection are included in the allowance. These provisions are reviewed to determine the adequacy of the allowance for doubtful accounts. Trade receivables are charged off when there is certainty as to their being uncollectible. Trade receivables are considered delinquent when payment has not been made within contract terms. As of December 31, Year T, the Company did not have an allowance recorded.
+[NAME] loans receivable in the amount of $0 and $306,620 as of December 31, Year T and Year T-1, respectively, are included in the Consolidated Balance Sheets caption current assets of discontinued operations. The related pawn service charges receivable in the amount of $0 and $89,235 as of December 31 Year T and Year T-1, respectively, are also included in the Consolidated Balance Sheets caption current assets of discontinued operations.
+Income Taxes
+Deferred tax liabilities and assets are recognized for the expected future tax consequences of events that have been included in the consolidated financial statements or tax returns. Under this method, deferred tax liabilities and assets are determined based on the difference between the consolidated financial statements and tax basis of assets and liabilities.
+In June Year T-3, the FASB released FASB Interpretation (FIN) No. 48, Accounting for Uncertainty in Income Taxes, FIN [#] interprets the guidance in FASB Statement of Financial Accounting Standards (SFAS) No. 109, Accounting for Income Taxes [ASC [#] & ASC [#]]. When FIN [#] is implemented, reporting entities utilize different recognition thresholds and measurement requirements when compared to prior technical literature. The adoption of the provisions of FIN [#] did not have a material impact on the company’s financial position and results of operations. At December 31, Year T, the company had no liability for unrecognized tax benefits and no accrual for the payment of related interest.
+[COMPANY]. and Subsidiaries
+Notes to Consolidated Financial Statements
+December 31, Year T, Year T-1 and Year T-2
+Revenue Recognition
+Revenue is generated from wholesale and retail sales of rare coins, precious metals, bullion and second-hand jewelry. The recognition of revenue varies for wholesale and retail transactions and is, in large part, dependent on the type of payment arrangements made between the parties. The Company recognizes sales on an F.O.B. shipping point basis.
+The Company sells rare coins to other wholesalers/dealers within its industry on credit, generally for terms of 14 to 60 days, but in no event greater than one year. The Company grants credit to new dealers based on extensive credit evaluations and for existing dealers based on established business relationships and payment histories. The Company generally does not obtain collateral with which to secure its accounts receivable when the sale is made to a dealer. The Company maintains reserves for potential credit losses based on an evaluation of specific receivables and its historical experience related to credit losses.
+Revenues for monetary transactions (i.e., cash and receivables) with dealers are recognized when the merchandise is shipped to the related dealer.
+The Company also sells rare coins to retail customers on credit, generally for terms of 30 to 60 days, but in no event greater than one year. The Company grants credit to new retail customers based on extensive credit evaluations and for existing retail customers based on established business relationships and payment histories. When a retail customer is granted credit, the Company generally collects a payment of 25% of the sales price, establishes a payment schedule for the remaining balance and holds the merchandise as collateral as security against the customer’s receivable until all amounts due under the credit arrangement are paid in full. If the customer defaults in the payment of any amount when due, the Company may declare the customer’s obligation in default, liquidate the collateral in a commercially reasonable manner using such proceeds to extinguish the remaining balance and disburse any amount in excess of the remaining balance to the customer.
+Under this retail arrangement, revenues are recognized when the customer agrees to the terms of the credit and makes the initial payment. We have a limited-in-duration money back guaranty policy (as discussed below).
+In limited circumstances, the Company exchanges merchandise for similar merchandise and/or monetary consideration with both dealers and retail customers, for which the Company recognizes revenue in accordance with SFAS [#], “Exchanges of [NAME] Assets - An Amendment of APB Opinion No. [#] [ASC [#]].” When the Company exchanges merchandise for similar merchandise and there is no monetary component to the [COMPANY], the Company does not recognize any revenue. Instead, the basis of the merchandise relinquished becomes the basis of the merchandise received, less any indicated impairment of value of the merchandise relinquished. When the Company exchanges merchandise for similar merchandise and there is a monetary component to the [COMPANY], the Company recognizes revenue to the extent of monetary assets received and determine the cost of sale based on the ratio of monetary assets received to monetary and non-monetary assets received multiplied by the cost of the assets surrendered.
+The Company has a return policy (money-back guarantee). The policy covers retail transactions involving graded rare coins only. Customers may return graded rare coins purchased within 7 days of the receipt of the rare coins for a full refund as long as the rare coins are returned in exactly the same condition as they were delivered. In the case of rare coin sales on account, customers may cancel the sale within 7 days of making a commitment to purchase the rare coins. The receipt of a deposit and a signed purchase order evidences the commitment. Any customer may return a coin if they can demonstrate that the coin is not authentic, or there was an error in the description of a graded coin.
+Revenues from the sale of consigned goods are recognized as commission income on such sale if the Company is acting as an agent for the consignor. If in the process of selling consigned goods, the Company makes an irrevocable payment to a consignor for the full amount due on the consignment and the corresponding receivable from the buyer(s) has not been collected by the Company at that payment date, the Company records that payment as a purchase and the sale of the consigned good(s) to the buyer as revenue as the Company has assumed all collection risk.
+[COMPANY]. and Subsidiaries
+Notes to Consolidated Financial Statements
+December 31, Year T, Year T-1 and Year T-2
+[NAME] loans (“loans”) are made with the collateral of tangible personal property for one month with an automatic 60-day extension period. [NAME] service charges are recorded at the time of redemption at the greater of $15 or the actual interest accrued to date. If the loan is not repaid, the principal amount loaned plus accrued interest (or the fair value of the collateral, if lower) becomes the carrying value of the forfeited collateral (“inventories”) which is recovered through sales to customers.
+Direct cost of [NAME] Loan Service Charge Revenue
+The direct cost of pawn loan service charge revenue is included in the Consolidated Statements of Operations caption “Selling, general and administrative.”
+Note 1 - Summary of Accounting Policies and Nature of Operations - continued
+Fair Value Measures
+In September Year T-3, the FASB issued SFAS No. [#], “Fair Value Measures” (“SFAS No. [#]”) [ASC [#]]. SFAS No. [#] defines fair value, establishes a framework for measuring fair value and enhances disclosures about fair value measures required under other accounting pronouncements, but does not change existing guidance as to whether or not an instrument is carried at fair value. SFAS No. [#] is effective for fiscal years beginning after November 15, Year T-2. Effective January 1, Year T-1, the Company has adopted the provisions of SFAS [#].
+SFAS No. [#] emphasizes that fair value is a market-based measurement, not an entity-specific measurement. Therefore, a fair value measurement should be determined based on the assumptions that market participants would use in pricing the asset or liability. As a basis for considering market participant assumptions in fair value measurements, SFAS No. [#] establishes a fair value hierarchy that distinguishes between market participant assumptions based on market data obtained from sources independent of the reporting entity (observable inputs that are classified within Levels 1 and 2 of the hierarchy) and the reporting entity’s own assumptions about market participant assumptions (unobservable inputs classified within Level 3 of the hierarchy).
+Level 1 inputs utilize quoted prices (unadjusted) in active markets for identical assets or liabilities that we have the ability to access. Level 2 inputs are inputs other than quoted prices included in Level 1 that are observable for the asset or liability, either directly or indirectly. Level 2 inputs may include quoted prices for similar assets and liabilities in active markets, as well as inputs that are observable for the asset or liability (other than quoted prices), such as interest rates, foreign [COMPANY] rates, and yield curves that are observable at commonly quoted intervals. Level 3 inputs are unobservable inputs for the asset or liability, which are typically based on an entity’s own assumptions, as there is little, if any, related market activity. In instances where the determination of the fair value measurement is based on inputs from different levels of the fair value hierarchy, the level in the fair value hierarchy within which the entire fair value measurement falls
+is based on the lowest level input that is significant to the fair value measurement in its entirety. Our assessment of the significance of a particular input to the fair value measurement in its entirety requires judgment, and considers factors specific to the asset or liability. The adoption did not have any financial impact on the Company’s results of operations and financial position.
+Shipping and Handling Costs
+Shipping and handling costs are included in selling general and administrative expenses, and amounted to $357,492, $248,333 and $237,323 for Year T, Year T-1 and Year T-2, respectively.
+Taxes Collected From Customers
+In June of Year T-3, the FASB issued Emerging Issues Task Force 06-03, “How Taxes Collected from Customers and Remitted to Governmental Authorities Should Be Presented in the Income Statement” (“EITF [#]”) [ASC [#]]. The consensus reached in EITF [#] allows [COMPANY] to adopt a policy of presenting taxes in the income statement on either a gross basis (included in revenues and costs) or net basis (excluded from revenues). Taxes within the scope of EITF [#] would include taxes that are imposed on a revenue transaction between a seller and a customer, for example, sales taxes, use taxes, value-added taxes and some types of excise taxes. The Company has consistently recorded all taxes within the scope of EITF [#] on a net basis.
+[COMPANY]. and Subsidiaries
+Notes to Consolidated Financial Statements
+December 31, Year T, Year T-1 and Year T-2
+Earnings (Loss) Per Share
+Basic earnings per common share is based upon the weighted average number of shares of common stock outstanding. Diluted earnings per share is based upon the weighted average number of common stock outstanding and, when dilutive, common shares issuable for stock options.
+Comprehensive Income
+The Company reports all changes in comprehensive income in the consolidated statements of changes in shareholders’ equity, in accordance with the provisions of Statement of Financial Accounting Standards No. [#], Reporting Comprehensive Income [ASC [#]].
+Stock-based Compensation
+Effective January 1, Year T-3, we adopted the fair value recognition provisions of SFAS No. [#] (revised Year T-5), Share Based Payment, (SFAS No. [#](R)) [ASC [#]] for all share-based payment award to employees and directors including stock options related to our employee stock purchase plan. In addition, we applied the provisions of Staff Accounting Bulletin No. [#](SAB No. [#]), issued by the SEC, in our adoption of SFAS No. [#](R).
+We adopted SFAS No. [#](R) using the modified-prospective-transition method. Under this transition method, stock-based compensation expense recognized after the effective date includes: (1) compensation cost for all share-based payments granted prior to, but not yet vested as of January 1, Year T-3, based on the measurement date fair value estimate in accordance with the original provisions of SFAS No. [#], and (2) compensation cost for all share-based payments granted subsequent to January 1, Year T-3, based on the measurement date fair value estimate in accordance with the provisions of SFAS No. [#](R).
+Stock-based compensation expense recognized each period is based on the greater of the value of the portion of share-based payment awards under the straight-line method or the value of the portion of share-based payment awards that is ultimately expected to vest during the period. In accordance with SFAS No. [#](R), we estimate forfeitures at the time of grant and revise our estimate, if necessary, in subsequent period if actual forfeitures differ from those estimates.
+Upon adoption of SFAS No. [#](R), we elected to use the [NAME] option-pricing formula to value share-based payments granted to employees subsequent to January 1, Year T-3 and elected to attribute the value of stock-based compensation to expense using the straight-line single option method.
+On November 10, Year T-4, the Financial Accounting Standards Board (FASB) issued FASB Staff Position No. FAS [#](R)-3, “Transition Election Related to Accounting for Tax Effects of Share-Based Payment Awards,” which detailed an alternative transition method for calculating the tax effects of stock-based compensation pursuant to SFAS No. [#](R). This alternative transition method included simplified methods to establish the beginning balance of the additional paid-in capital pool ([NAME] pool) related to the tax effects of employee stock-based compensation and to determine the subsequent impact on the [NAME] pool and Consolidated Statement of Cash Flows of the tax effects of employee stock-based compensation awards that are outstanding upon adoption of SFAS No. [#](R). The tax effect of employee stock-based compensation has no [NAME] pool.
+SFAS No. [#](R) requires the cash flows resulting from the tax benefits resulting from tax deductions in excess of the compensation cost recognized for those options (excess tax benefits) to be classified as financing cash flows. There has been no excess tax benefit as of December 31, Year T, Year T-1 and Year T-2.
+Use of Estimates
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues, and expenses during the reporting period. Actual results could differ from those estimates.
+[COMPANY]. and Subsidiaries
+Notes to Consolidated Financial Statements
+December 31, Year T, Year T-1 and Year T-2
+Reclassifications
+Certain reclassifications were made to the prior years’ consolidated financial statements to conform to the current year presentation.
+Subsequent Events
+In May Year T, the FASB issued Statement of Financial Accounting Standards No. [#], Subsequent Events (“SFAS [#]”), [ASC [#]]. SFAS [#] establishes general standards of accounting for and disclosure of events that occur after the balance sheet date but before financial statements are issued. The Company adopted the provisions of SFAS [#], effective May Year T. Subsequent events have been evaluated through the date of the independent auditors report.
+[COMPANY]. and Subsidiaries
+Notes to Consolidated Financial Statements
+December 31, Year T, Year T-1 and Year T-2
+New Accounting Pronouncements
+In June Year T, the Financial Accounting Standards Board (FASB) issued Statement of Financial Accounting Standards No. [#], The FASB Accounting Standards Codification and the Hierarchy of Generally Accepted Accounting Principles - a replacement of FASB Statement No. [#] (The Codification). The Codification reorganized existing U.S. accounting and reporting standards issued by the FASB and other related private sector standard setters into a single source of authoritative accounting principles arranged by topic. The Codification supersedes all existing U.S. accounting standards; all other accounting literature not included in the Codification (other than Securities and [COMPANY] Commission guidance for publicly-traded [COMPANY]) is considered non-authoritative. The Codification was effective on a prospective basis for interim and annual reporting periods ending after September 15, Year T. The adoption of the Codification changed the Company’s references to U.S. GAAP accounting standards
+but did not impact the Company’s results of operations, financial position or liquidity.
+In December Year T-2, the FASB issued SFAS No. [#] (revised Year T-2), “Business Combinations” (“SFAS No. [#](R)”) [ASC[#]], which establishes principles for how the acquirer recognizes and measures in the financial statements the identifiable assets acquired, the liabilities assumed, and any non-controlling interest in the acquiree. This statement also provides guidance for recognizing and measuring the goodwill acquired in the business combination and determines what information to disclose to enable users of the financial statements to evaluate the nature and financial effects of the business combination. Effective January 1, Year T, we adopted SFAS No. [#](R) [ASC[#]]. No business combinations were completed in the first quarter of Year T. However, to the extent that future business combinations are material, our adoption of SFAS No. [#](R) [ASC[#]] will significantly impact our accounting and reporting for future acquisitions, principally as a result of (i) expanded requirements
+to value acquired assets, liabilities and contingencies at their fair values; and (ii) the requirement that acquisition-related transaction and restructuring costs be expensed as incurred rather than capitalized as a part of the cost of the acquisition.
+SFAS No. [#], Subsequent Events issued by the FASB in May Year T-1 [ASC [#]], establishes general standards o [...truncated]
+
+### Item 9 Accountant Changes
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE.
+None.
+ITEM 9A.
+
+### Item 9A Controls and Procedures
+ITEM 9A. CONTROLS AND PROCEDURES.
+Disclosure Controls and procedures
+An evaluation was performed under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Rule 13a-15(e) under the Securities [COMPANY] Act of 1934) as of the end of the period covered by this annual report. Our disclosure controls and procedures are designed to ensure that information required to be disclosed by us in the reports we file or submit under the Securities [COMPANY] Act of 1934, as amended, is (1) recorded, processed, summarized and reported within the time periods specified in the Securities and [COMPANY] Commission’s rules and forms and (2) accumulated and communicated to our management, including our Chief Executive Officer, to allow timely decisions regarding required disclosure. Based on that evaluation, our management, including our Chief Executive Officer and our Chief Financial Officer,
+concluded that our disclosure controls and procedures were effective.
+No changes in internal controls over financial reporting occurred during the last fiscal quarter that has materially affected, or is reasonably likely to materially affect, our control over financial reporting.
+Management’s Report on Internal Control Over Financial Reporting
+Management is responsible for establishing and maintaining adequate internal control over financial reporting as such term is defined in [COMPANY] Act Rule 13a-15(f). The Company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles.
+Under the supervision and with the participation of our Chief Executive Officer and Chief Financial Officer, management assessed the effectiveness of the Company’s internal control over financial reporting as of December 31, Year T using the criteria set forth by the Committee of Sponsoring Organizations of the [NAME] way Commission in Internal Control - Integrated Framework. Based on this assessment, management has concluded that, as of December 31, Year T, the Company’s internal control over financial reporting was effective to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles based on such criteria.
+This Annual Report on Form 10-K does not include an attestation report of the Company’s registered public accounting firm regarding internal control over financial reporting. Management’s report was not subject to attestation by the Company’s registered public accounting firm pursuant to temporary rules of the Securities and [COMPANY] Commission that permit the Company to provide only management’s report in this Annual Report on Form 10-K
+Our management, including our Chief Executive Officer and Chief Financial Officer, does not expect that our disclosure controls or internal controls over financial reporting will prevent all errors or all instances of fraud. A control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance that the control system’s objectives will be met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within our company have been detected. These inherent limitations include the realities that judgments in decision-making can be faulty, and that breakdowns can occur because of simple error or mistake. Controls can also be circumvented by the individual acts of some
+persons, by collusion of two or more people, or by management override of the controls. The design of any system of controls is based in part upon certain assumptions about the likelihood of future events, and any design may not succeed in achieving its stated goals under all potential future conditions. Over time, controls may become inadequate because of changes in conditions or deterioration in the degree of compliance with policies or procedures. Because of the inherent limitation of a cost-effective control system, misstatements due to error or fraud may occur and not be detected.
+Changes in Internal Control over Financial Reporting
+For the quarter ended December 31, Year T, there have been no changes in our internal control over financial reporting (as defined in Rule 13a-15(f) under the Securities [COMPANY] Act of 1934) that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+ITEM 9B.

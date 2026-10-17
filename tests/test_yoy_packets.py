@@ -60,5 +60,30 @@ class MaskTest(unittest.TestCase):
         self.assertEqual(text, "The Company and the Group reported results.")
 
 
+class MaskV2Test(unittest.TestCase):
+    def setUp(self):
+        generic = "The Company reported Revenue under SFAS No. 5 in the United States. the company revenue"
+        self.vocab = mask.generic_vocab({i: [generic] for i in range(5)} |
+                                        {"rare": ["Donald K. McGhan sold MediVIEW pumps in Las Vegas."]})
+
+    def test_vocab_keeps_words_used_by_many_firms(self):
+        self.assertIn("Revenue", self.vocab)
+        self.assertNotIn("McGhan", self.vocab)
+        self.assertNotIn("MediVIEW", self.vocab)
+
+    def test_rare_names_places_cases_and_standards_masked(self):
+        text = mask.mask("The Company: Donald K. McGhan sold MediVIEW in Hurst, Texas and Las Vegas; "
+                         "Multiple District Litigation No. 926 and Case No. 99 C 0351. "
+                         "Adopted SFAS No. 125 in 1996 before the Year 2000 issue.", 1996, (), self.vocab)
+        for leak in ("McGhan", "MediVIEW", "Hurst", "Texas", "Las Vegas", "926", "0351", "125", "2000", "1996"):
+            self.assertNotIn(leak, text)
+        self.assertIn("The Company: [NAME] sold [NAME]", text)
+        self.assertIn("SFAS No. [#]", text)
+        self.assertIn("[Y2K]", text)
+
+    def test_v1_unchanged_without_vocab(self):
+        self.assertEqual(mask.mask("Revenue under SFAS No. 125 in Texas.", 1996), "Revenue under SFAS No. 125 in Texas.")
+
+
 if __name__ == "__main__":
     unittest.main()

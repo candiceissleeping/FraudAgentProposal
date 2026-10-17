@@ -1,0 +1,894 @@
+Excerpts from a company's annual report on Form 10-K. The company's name, other entity names, people's names and audit firms are masked; calendar years are replaced by Year T (the fiscal year of this report), Year T-1 (the prior year), and so on.
+
+## CURRENT YEAR 10-K (Year T)
+
+### Item 1A Risk Factors
+Item 1A. Risk Factors.
+Investors or potential investors in our stock should carefully consider the risks described below. Our stock price will reflect the performance of our business relative to, among other things, our competition, expectations of securities analysts or investors, and general economic market conditions and industry conditions. One should carefully consider the following factors in connection with any investment in our stock. Our business, financial condition and results of operations could be materially adversely affected if any of the following risks occur. Should any or all of the following risks materialize, the trading price of our stock could decline, and investors could lose all or part of their investment.
+Risks Related to Our Business
+We have a limited operating history and have generated losses in each quarter of Year T, except the second, and in each quarter before Year T-1.
+We began operations in February Year T-7 and incurred losses in each reporting period until the second fiscal quarter of Year T-1, and we incurred losses in each quarter of Year T except the second. Our prospects for financial success are difficult to forecast because we have a relatively limited operating history. Our prospects for financial success must be considered in light of the risks, expenses and difficulties frequently encountered by companies in new, unproven and rapidly evolving markets. Our business could be subject to any or all of the problems, expenses, delays and risks inherent in the establishment of a new business enterprise, including limited capital resources, possible delays in product development, possible cost overruns due to price and cost increases in raw product and manufacturing processes, uncertain market acceptance, and inability to respond effectively to competitive developments and attract, retain and motivate qualified employees. Therefore, there can be no assurance that our business or products will be successful, that we will be able to achieve or maintain profitable operations or that we will not encounter unforeseen difficulties that may deplete our capital resources more rapidly than anticipated.
+There are significant market risks associated with our business.
+We have formulated our business plan and strategies based on certain assumptions regarding the size of the rice bran market, our anticipated share of this market and the estimated price and acceptance of our products. These assumptions are based on the best estimates of our management; however there can be no assurance that our assessments regarding market size, potential market share attainable by us, the price at which we will be able to sell our products, market acceptance of our products or a variety of other factors will prove to be correct. Any future success may depend upon factors including changes in the dietary supplement industry, governmental regulation, increased levels of competition, including the entry of additional competitors and increased success by existing competitors, changes in general economic conditions, increases in operating costs including costs of production, supplies, personnel, equipment, and reduced margins caused by competitive pressures.
+We depend on a limited number of customers.
+During Year T, we received approximately 59% of product sales revenue from six customers. During Year T-1, we received approximately 67% of product sales revenue from five customers and approximately 48% of our revenue from one customer. A loss of any of these customers could have a material adverse effect on our revenues and results of operations.
+The inability of our significant customers to meet their obligations to us may adversely affect our financial results.
+We are subject to credit risk due to concentration of our trade accounts receivables and notes receivables. As of December 31, Year T, 6 customers accounted for 28% of our $2,346,000 trade accounts receivable and 2 debtors accounted for 81% of $7,975,000 notes receivables reflected on our December 31, Year T balance sheet. In addition, we acquired secured promissory notes of [ENTITY] with aggregate principal amounts of $4,226,000 in connection with our entering into an asset purchase agreement with [NAME] Living to acquire [NAME] Living’s assets. While we obtain personal guarantees and security interests backing these obligation when possible, many of these obligations are not guaranteed or secured. The inability of our significant customers and obligors to meet their obligations to us, or, in the case of [NAME] Living, the deterioration of [NAME] Living’s financial condition or assets before we are able to consummate our asset purchase, may adversely affect our financial condition and results of operations.
+We rely upon a limited number of product offerings.
+The majority of the products that we have sold as of December 31, Year T have been based on stabilized rice bran. Although we will market stabilized rice bran as a dietary supplement, as an active food ingredient for inclusion in our products and in other companies’ products, and in other ways, a decline in the market demand for our [NAME] products, as well as the products of other companies utilizing our [NAME] products, could have a significant adverse impact on us.
+We are dependent upon our marketing efforts.
+We are dependent on our ability to market products to animal food producers, food manufacturers, mass merchandise and health food retailers, and to other companies for use in their products. We must increase the level of awareness of dietary supplements in general and our products in particular. We will be required to devote substantial management and financial resources to these marketing and advertising efforts and there can be no assurance that it will be successful.
+We rely upon an adequate supply of raw rice bran.
+All of our current products depend on our proprietary technology using unstabilized or raw rice bran, which is a by-product from milling paddy rice to white rice. Our ability to manufacture stabilized rice bran raw is currently limited to the production capability of our production equipment at [NAME], our own plants located next to the [PLACE] [NAME] (“[NAME]”) in [NAME], and [ENTITY] in [NAME], TX, and our single value-added products plant in [PLACE]. Between the [PLACE] plant and our co-located facilities at [NAME], and own plants in [NAME] and [NAME], and our new facility in [NAME], Brazil (acquired in February Year T+1) we currently are capable of producing enough finished products to meet current demand. With the exception of [NAME], Brazil, the existing plants do not allow for dramatic expansion of product demand, therefore additional production capacity is needed. Anticipating incremental demand for [COMPANY] products, we completed the first phase of an expansion of the [PLACE] facility in Year T-1. We also entered into a new raw rice bran supply agreement with [PLACE] [NAME] (“[NAME]”) in [PLACE] that year. The supply agreement led to the construction of a new stabilization plant in [NAME] which became operational in April Year T. Start-up of our latest stabilization facility during the first quarter of Year T+1 in Lake Charles, [NAME] should meet our production needs for Year T+1, but we do not anticipate that they will meet our longer term supply needs. Therefore, we anticipate building new facilities to meet the forecasted demand for our products and envision we will be able to execute on this initiative. In the event we are unable to create additional production capacity to produce more stabilized rice bran products to fulfill our current and future requirements this could materially and adversely affect our business, results from operations, and financial condition.
+We are pursuing other supply sources in the United States and in foreign countries and anticipate being able to secure alternatives and back-up sources of rice bran, however, there can be no assurance that we will continue to secure adequate sources of raw rice bran to meet our requirements to produce stabilized rice bran products. Since rice bran has a limited shelf life, the supply of rice bran is affected by the amount of rice planted and harvested each year. If economic or weather conditions adversely affect the amount of rice planted or harvested, the cost of rice bran products that we use may increase. We are not generally able to immediately pass cost increases to our customers and any increase in the cost of stabilized rice bran products would have an adverse effect on our results of operations.
+We face risks in our wheat bran stabilization efforts.
+In January Year T+1, through a newly formed wholly owned subsidiary, we entered an agreement to develop and lease [NAME] equipment to an [NAME] company. We cannot guarantee that our efforts to develop [NAME] equipment will be successful.
+We face competition.
+Competition in our targeted industries, including nutraceuticals, functional food ingredients, rice bran oils, animal feed supplements and companion pet food ingredients is vigorous, with a large number of businesses engaged in the various industries. Many of our competitors have established reputations for successfully developing and marketing their products, including products that incorporate bran from other cereal grains and other alternative ingredients that are widely recognized as providing similar benefits as rice bran. In addition, many of our competitors have greater financial, managerial, and technical resources than us. If we are not successful in competing in these markets, we may not be able to attain our business objectives.
+We intend to pursue significant foreign operations and there are inherent risks in operating abroad.
+An important component of our business strategy is to build rice bran stabilization facilities in foreign countries and to market and sell our products internationally. For example, we recently entered into a joint venture with an [NAME] company produce and market our [NAME] products in Southeast Asia and purchased a company in Brazil that manufactures rice bran oil. There are risks in operating stabilization facilities in developing countries because, among other reasons, we may be unable to attract sufficient qualified personnel, intellectual property rights may not be enforced as we expect, power may not be available as contemplated. Should any of these risks occur, we may be unable to maximize the output from these facilities and our financial results may decrease from our anticipated levels. The inherent risks of international operations could materially adversely affect our business, financial condition and results of operations. The types of risks faced in connection with international operations and sales include, among others:
+·
+cultural differences in the conduct of business;
+·
+fluctuations in foreign exchange rates;
+·
+greater difficulty in accounts receivable collection and longer collection periods;
+·
+impact of recessions in economies outside of the United States;
+·
+reduced protection for intellectual property rights in some countries;
+·
+unexpected changes in regulatory requirements;
+·
+tariffs and other trade barriers;
+·
+political conditions in each country;
+·
+management and operation of an enterprise spread over various countries;
+·
+the burden and administrative costs of complying with a wide variety of foreign laws; and
+·
+currency restrictions.
+Our products could fail to meet applicable regulations which could have a material adverse affect on our financial performance.
+The dietary supplement and cosmetic industries are subject to considerable government regulation, both as to efficacy as well as labeling and advertising. There is no assurance that all of our products and marketing strategies will satisfy all of the applicable regulations of the Dietary Supplement, Health and Education Act, the Federal Food, Drug and Cosmetic Act, the U.S. Food and Drug Administration and/or the U.S. Federal Trade Commission. Failure to meet any applicable regulations would require us to limit the production or marketing of any non-compliant products or advertising, which could subject us to financial or other penalties.
+Our success depends in part on our ability to obtain patents, licenses and other intellectual property rights for our products and technology.
+We have one patent entitled Methods for Treating Joint [NAME], Pain and Loss of Mobility, which covers both humans and mammals. In addition, our subsidiary [NAME] has five United States patents and may decide to file corresponding international applications. [NAME] holds patents to the production of [NAME] and to a micro nutrient enriched rice bran oil process. [NAME] also holds patents to a method to treat high cholesterol, to a method to treat diabetes and to a process for producing Higher Value [NAME] from stabilized rice bran. We also have filed a number of provisional patents for our technology. The process of seeking patent protection may be long and expensive, and there can be no assurance that patents will be issued, that we will be able to protect our technology adequately, or that competition will not be able to develop similar technology.
+There currently are no claims or lawsuits pending or threatened against us or [NAME] regarding possible infringement claims, but there can be no assurance that infringement claims by third parties, or claims for indemnification resulting from infringement claims, will not be asserted in the future or that such assertions, if proven to be accurate, will not have a material adverse affect on our business, financial condition and results of operations. In the future, litigation may be necessary to enforce our patents, to protect our trade secrets or know-how or to defend against claimed infringement of the rights of others and to determine the scope and validity of the proprietary rights of others. Any litigation could result in substantial cost and diversion of our efforts, which could have a material adverse affect on our financial condition and results of operations. Adverse determinations in any litigation could result in the loss of our proprietary rights, subjecting us to significant liabilities to third parties, require us to seek licenses from third parties or prevent us from manufacturing or selling our systems, any of which could have a material adverse affect on our financial condition and results of operations. There can be no assurance that a license under a third party’s intellectual property rights will be available to us on reasonable terms, if at all.
+We have identified material weaknesses in our internal control over financial reporting, which could impact negatively our ability to report our results of operations and financial condition accurately and in a timely manner.
+As required by Section 404 of the Sarbanes-Oxley Act of Year T-5, management has conducted an evaluation of the effectiveness of our internal control over financial reporting at December 31, Year T. We identified two material weaknesses in our internal control over financial reporting and concluded that, as of December 31, Year T, we did not maintain effective control over financial reporting based on criteria established in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission. For a detailed description of these material weaknesses, see Item 9A, “Controls and Procedures.” Each of our material weaknesses results in more than a remote likelihood that a material misstatement of the annual or interim financial statements that we prepare will not be prevented or detected. As a result, we must perform additional work to obtain reasonable assurance regarding the reliability of our financial statements.
+If we are unsuccessful in implementing or following our remediation plan, or fail to update our internal control over financial reporting as our business evolves or to integrate acquired businesses into our controls system, we may not be able to timely or accurately report our financial condition, results of operations or cash flows or to maintain effective disclosure controls and procedures. If we are unable to report financial information in a timely and accurate manner or to maintain effective disclosure controls and procedures, we could be subject to, among other things, regulatory or enforcement actions by the SEC, securities litigation and a general loss of investor confidence, any one of which could adversely affect our business prospects and the market value of our common stock.
+We are dependent on key employees and consultants.
+Our success depends upon the efforts of our top management team, including the efforts of [NAME], our President and Chief Executive Officer, [NAME], our Chief Financial Officer, [NAME], our Chief Operating Officer, [NAME], our Secretary and Senior Vice President and [NAME], our Senior Vice President of Sales and Marketing. Although we have written employment agreements with each of the foregoing individuals, except for [PERSON], there is no assurance that such individuals will not die, become disabled, or resign. In addition, our success is dependent upon our ability to attract and retain key management persons for positions relating to the marketing and distribution of our products. There is no assurance that we will be able to recruit and employ such executives at times and on terms acceptable to us.
+We have not yet achieved positive cash flow
+We have not generated a positive cash flow from operations continuous period to period since commencing operations. We raised in private placements of equity approximately $50,000,000 in February Year T, $17,560,000 in May Year T-1, and $8,000,000 in October Year T-2, and paid off all short and long term debt obligations. While we believe that we have adequate cash reserves and working capital to fund current operations, our ability to meet long term business objectives may be dependent upon our ability to raise additional financing through public or private equity financings, establish increasing cash flow from operations, enter into collaborative or other arrangements with corporate sources, or secure other sources of financing to fund long-term operations. There is no assurance that external funds will be available on terms acceptable to us in sufficient amount to finance operations until we do reach sufficient positive cash flow to fund our capital expenditures. In addition, any issuance of securities to obtain such funds would dilute percentage ownership of our shareholders. Such dilution could also have an adverse impact on our earnings per share and reduce the price of our common stock. Incurring additional debt may involve restrictive covenants and increased interest costs and demand on future cash flow. Our inability to obtain sufficient financing may require us to delay, scale back or eliminate some or all of our product development and marketing programs.
+Our products may require clinical trials to establish efficacy and safety.
+Certain of our products may require clinical trials to establish our benefit claims or their safety and efficacy. Such trials can require a significant amount of resources and there is no assurance that such trials will be favorable to the claims we make for our products, or that the cumulative authority established by such trials will be sufficient to support our claims. Moreover, both the findings and methodology of such trials are subject to challenge by the FDA and scientific bodies. If the findings of our trials are challenged or found to be insufficient to support our claims, additional trials may be required before such products can be marketed.
+Risks Related to Our Stock
+Our Stock Price is Volatile.
+The market price of a share of our common stock has fluctuated significantly in the past and may continue to fluctuate significantly in the future. The high and low closing sales prices of a share of our common stock for the following periods were:
+The market price of a share of our common stock may continue to fluctuate in response to a number of factors, including:
+·
+announcements of new products or product enhancements by us or our competitors;
+·
+fluctuations in our quarterly or annual operating results;
+·
+developments in our relationships with customers and suppliers;
+·
+the loss of services of one or more of our executive officers or other key employees;
+·
+announcements of technological innovations or new systems or enhancements used by us or our competitors;
+·
+developments in our or our competitors intellectual property rights;
+·
+adverse effects to our operating results due to impairment of goodwill;
+·
+failure to meet the expectation of securities analysts’ or the public; and
+·
+general economic and market conditions.
+We have significant “equity overhang” which could adversely affect the market price of our common stock and impair our ability to raise additional capital through the sale of equity securities.
+As of March 3, Year T+1, [COMPANY] had 145,418,965 shares of common stock outstanding. Additionally, as of March 3, Year T+1, options and warrants to purchase approximately 41,981,000 shares of our common stock were outstanding. The possibility that substantial amounts of our outstanding common stock may be sold by investors or the perception that such sales could occur, often called “equity overhang,” could adversely affect the market price of our common stock and could impair our ability to raise additional capital through the sale of equity securities in the future.
+Sales of Our Stock Pursuant to Registration Statements May Hurt Our Stock Price
+We granted registration rights to the investors in our October Year T-2, May Year T-1 and February Year T capital stock and warrant financings. As of March 3, Year T+1, approximately 25,319,000 shares of our common stock remained eligible for resale pursuant to outstanding registration statements filed for these investors. In addition, we have filed a registration statement to cover our issuance and sale of up to $125,000,000 of common stock, preferred stock and warrants to purchase common or preferred stock. Sales or potential sales of a significant number of shares into the public markets may negatively affect our stock price.
+The Exercise of Outstanding Options and Warrants May Dilute Current Shareholders
+As of March 3, Year T+1, there were outstanding options and warrants to purchase approximately 41,981,000 shares of our common stock. Holders of these options and warrants may exercise them at a time when we would otherwise be able to obtain additional equity capital on terms more favorable to us. Moreover, while these options and warrants are outstanding, our ability to obtain financing on favorable terms may be adversely affected.
+We may need to raise funds through debt or equity financings in the future, which would dilute the ownership of our existing shareholders and possibly subordinate certain of their rights to the rights of new investors.
+We may choose to raise additional funds in debt or equity financings if they are available to us on terms we believe reasonable to increase our working capital, strengthen our financial position or to make acquisitions. Any sales of additional equity or convertible debt securities would result in dilution of the equity interests of our existing shareholders, which could be substantial. Additionally, if we issue shares of preferred stock or convertible debt to raise funds, the holders of those securities might be entitled to various preferential rights over the holders of our common stock, including repayment of their investment, and possibly additional amounts, before any payments could be made to holders of our common stock in connection with an acquisition of the company. Such preferred shares, if authorized, might be granted rights and preferences that would be senior to, or otherwise adversely affect, the rights and the value of our common stock. Also, new investors may require that we and certain of our shareholders enter into voting arrangements that give them additional voting control or representation on our board of directors.
+The authorization of our preferred stock may have an adverse effect on the rights of holders of our common stock.
+We may, without further action or vote by holders of our common stock, designate and issue shares of our preferred stock. The terms of any series of preferred stock could adversely affect the rights of holders of our common stock and thereby reduce the value of our common stock. The designation and issuance of preferred stock favorable to current management or shareholders could make it more difficult to gain control of our Board of Directors or remove our current management and may be used to defeat hostile bids for control which might provide shareholders with premiums for their shares.
+We may engage in future acquisitions that dilute our shareholders and cause us to incur debt or assume contingent liabilities.
+As part of our strategy, we expect to review opportunities to buy other businesses or technologies that would complement our current products, expand the breadth of our markets or enhance technical capabilities, or that may otherwise offer growth opportunities. In the event of any future acquisitions, we could:
+·
+issue stock that would dilute current shareholders’ percentage ownership;
+·
+incur debt; or
+·
+assume liabilities.
+These purchases also involve numerous risks, including:
+·
+problems combining the purchased operations, technologies or products;
+·
+unanticipated costs;
+·
+diversion of management’s attention from our core business;
+·
+adverse effects on existing business relationships with suppliers and customers;
+·
+risks associated with entering markets in which we have no or limited prior experience; and
+·
+potential loss of key employees of purchased organizations.
+We cannot assure you that we will be able to successfully integrate any businesses, products, technologies or personnel that we might purchase in the future.
+Compliance with corporate governance and public disclosure regulations may result in additional expenses.
+Changing laws, regulations and standards relating to corporate governance and public disclosure, including the Sarbanes-Oxley Act of Year T-5, and new regulations issued by the Securities and Exchange Commission, are creating uncertainty for companies. In order to comply with these laws, we may need to invest substantial resources to comply with evolving standards, and this investment would result in increased general and administrative expenses and a diversion of management time and attention from revenue-generating activities to compliance activities.
+Our officers and directors have limited liability and have indemnification rights
+Our Articles of Incorporation and by-laws provide that we may indemnify our officers and directors against losses sustained or liabilities incurred which arise from any transaction in that officer’s or director’s respective managerial capacity unless that officer or director violates a duty of loyalty, did not act in good faith, engaged in intentional misconduct or knowingly violated the law, approved an improper dividend, or derived an improper benefit from the transaction.
+Item 1B.
+
+### Item 3 Legal Proceedings
+Item 3. Legal Proceedings.
+From time to time we are involved in litigation incidental to the conduct of our business. While the outcome of lawsuits and other proceedings against us cannot be predicted with certainty, in the opinion of management, individually, or in the aggregate, no such lawsuits are expected to have a material effect on our financial position or results of operations.
+Item 4.
+
+### Item 7 MD&A
+Item 7. Management’s Discussion and Analysis or Plan of Operation
+Executive Summary
+The year ended December 31, Year T was a busy and exciting year for [COMPANY] and an important phase in our growth. During Year T, we built out our infrastructure to allow us to meet an anticipated increase in our business in the years ahead. We entered new distribution agreements that underscored the substantial demand for our core product, stabilized rice bran (“[NAME]”); and marked a number of operating achievements that positioned [COMPANY] for success in Year T+1 and beyond. We completed multiple expansions of our [NAME] facility, initiated rice stabilization processing at a new facility in [NAME]’s plant in [NAME], CA, and our new facility next to the [PLACE] [NAME] in [NAME], continued the new plant build out of our facility in Lake Charles, [NAME], and announced a definitive joint venture in [NAME] that will lay the groundwork to build several [NAME] facilities in Southeast Asia.
+We are proud that we were able to reach these benchmarks, which position the company for future growth and success and allow us to increase our production to sell our products to current and future customers.
+In addition, during Year T we expanded our humanitarian efforts, teaming with [NAME] the Children and the [NAME] Fund. These programs will feed thousands of children and the health progress will be monitored and documented to track the benefits of this nutritional supplement for children.
+Results of Operations
+The following is a detailed discussion of our consolidated financial condition as of December 31, Year T and Year T-1 and the results of operations for fiscal years ended December 31, Year T, Year T-1 and Year T-2, which should be read in conjunction with, and is qualified in its entirety by, the consolidated financial statements and notes thereto included elsewhere in this report. The consolidated financial statements (see Part II - Item 8. FINANCIAL STATEMENTS) represent annual results for [COMPANY].
+YEAR ENDED DECEMBER 31, Year T AND DECEMBER 31, Year T-1
+For the year ended December 31, Year T, our net loss was $11,911,000, or ($0.09) per share, compared to net income of $1,585,000, or $0.02 per share, in Year T-1, showing a decrease of $13,496,000. The decrease for the year ended December 31, Year T was primarily due to a net increase in revenue of $4,071,000, with a corresponding increase in cost of goods sold of $768,000, resulting in an increase in gross margins of $3,303,000 for Year T compared to Year T-1, which was offset by a $10,244,000 increase in Selling, General, and Administrative (“SG&A”) costs, a $3,224,000 increase in allowance for bad debt, a $1,000,000 charge for a separation sgreement with our former Chief Executive Officer, an increase of $3,216,000 in professional fees, and an increase in Research and Development (“R&D) costs of $501,000. Other income (net of expenses) for the twelve month period increased $2,701,000 consisting of a $2,264,000 increase in interest income and a $1,250,000 gain on the settlement of a lawsuit, offset by a $347,000 loss on the retirement of assets, a $309,000 loss on an equity investment, and a $163,000 loss on the sale of marketable equity securities.
+Revenues, cost of goods sold and gross margin:
+Consolidated revenues for the year ended December 31, Year T were $22,161,000, an increase of $4,071,000, or 23%, from consolidated revenues of $18,090,000 in Year T-1. The increased revenue was a result of a $7,386,000 increase in our core [NAME] and related products categories and an increase of $4,355,000 in royalty and licensing fees, offset by a $7,670,000 decease in infomercial sales (net of a $1,551,000 sales return).
+During the second quarter of Year T we granted to [ENTITY] (“[NAME]”) an exclusive, perpetual, royalty-free right and license to use and distribute [NAME] and [NAME] derivative products in certain Southeast Asian countries. [NAME] paid a one-time fee of $5,000,000 for these rights. [NAME] paid the license fee by issuing to [COMPANY] an interest bearing promissory note payable over five years. In January Year T+1, in conjunction with another agreement (see Note 20 of the Consolidated Financial Statements) we amended this note to provide that [NAME] will pay us the $5,000,000 license fee by March 31, Year T+1 in full satisfaction of its obligations under the Note. In consideration for this accelerated payment, [COMPANY] agrees to waive all accrued interest owed by [NAME] ($118,000 at December 31, Year T).
+Cost of goods sold increased $768,000 from $9,130,000 in Year T-1 to $9,898,000 in Year T due primarily to the corresponding increase in product sales in the twelve months ended December 31, Year T. Cost of goods sold on our various product lines vary widely and the gross margins are impacted from period to period by sales mix and utilization of production capacity.
+Gross margins increased $3,303,000 to $12,263,000 in Year T, from $8,960,000 in Year T-1 due to a $4,355,000 increase in licensing and royalty revenues, which has no associated cost of goods, offset by a $768,000, or 2%, increase in cost of goods sold from $9,130,000 (53% of sales) to $9,898,000 (55% of sales) in the twelve months ended December 31, Year T and Year T-1, respectively. The following table summarizes the changes in revenue, cost of goods sold, and our gross margin.
+Operating expenses:
+Research and Development (R&D) expenses increased $501,000 in Year T to $878,000 from $377,000 in Year T-1, due to on-going product development activities.
+Sales, General and Administrative (SG&A) expenses increased $10,244,000 from $6,018,000 in Year T-1 to $16,262,000 in Year T. The increase was mostly due to expanded investment in personnel, infrastructure, and sales and marketing activities to meet anticipated future demands (with certain exceptions as noted below). Specific changes in SG&A expense is detailed in the following schedule:
+Included in our total increase in selling, general and administrative costs were $448,000 for payroll, $169,000 for marketing, and $267,000 for other administrative costs (total $884,000) due to the inclusion in our results of operations the results of [ENTITY] (“[NAME]”) operations for the period of April 20, Year T through December 31, Year T which are consolidated under Variable Interest Entity (“VIE”) rules (see Note 10 of the Consolidated Financial Statements).
+In the twelve months ended December 31, Year T our provision for the allowance for bad debt expense was $3,233,000 compared to $9,000 in the same period of the prior year. This increase is the result of additional provisions for doubtful accounts receivable of $1,601,000 and $1,378,000 and doubtful notes receivable of $250,000 for two customers and one note maker, respectively. Additionally, we wrote off $4,000 of accounts receivable deemed to be un-collectible.
+Total goodwill recorded on our financial statements as of result of our purchase of certain debt securities and preferred stock securities of [ENTITY] (see Note 10 to the Consolidated Financial Statements) amounted to $7,579,000. We evaluated the value of this goodwill and determined that it is $6,279,000. Accordingly we have recorded an intangible impairment of $1,300,000.
+In November Year T, we reached an accord with our former Chief Executive Officer, [PERSON], under which we agreed to pay her $1,000,000 in a separation agreement under which she surrendered all prior claims to patents and other rights relating to products developed for [NAME] and [COMPANY] during her employment, and grants us a right of first refusal for ten years to any patent, process, or product she might develop that are derived from stabilized rice bran ingredients.
+Professional fees increased $3,216,000 from $1,504,000 in Year T-1 to $4,720,000 in Year T. In Year T, professional expenses were associated with consultants, accounting, [NAME] 404 compliance, legal, investor relations and stock-based compensation expenses. We incurred investor relations costs of $580,000 in Year T compared to $251,000 in Year T-1, an increase of $329,000 associated with an investor relations firm and fees associated with SEC filing requirements. Stock-based compensation on stock and warrant issued to consultants for services was $379,000 in Year T and $213,000 in Year T-1. We incurred a $750,000 cost associated with developing our joint venture with [ENTITY] (see Note 10 of the consolidated financial statements). Our increase in professional fees also includes a $624,000 charge due to the inclusion of the results of [NAME] for the period of April 20, Year T through December 31, Year T (see Note 10 of the Consolidated Financial Statements).
+Other income (expense):
+Interest income increased $2,264,000 to $2,809,000 from $545,000 in the twelve month period ended December 31, Year T over the same period in the prior year due to the higher cash balance available.
+The gain on a settlement increased $1,250,000 due to the settlement of a lawsuit in relation to the investment in [NAME] (see Note 4 of the Consolidated Financial Statements).
+The loss on an equity investment increased $309,000 as a result of our investment in [ENTITY] (see Note 10 of the Consolidated Financial Statements).
+The loss on retirement of assets increased $347,000 due to the sale or retirement of assets.
+The loss on disposition of marketable equity securities increased $162,000 due to the sale of [NAME] (see Note 4 of the Consolidated Financial Statements).
+Income taxes:
+Income tax expense for the year ended December 31, Year T increased $15,000 to $20,000 from $5,000 for the prior year due to a payment for State of [PLACE] corporate income taxes.
+Deferred taxes arise from temporary differences in the recognition of certain expenses for tax and financial reporting purposes. At December 31, Year T and Year T-1, management determined that realization of these benefits is not assured and has provided a valuation allowance for the entire amount of such benefits. At December 31, Year T, net operating loss carry-forwards were approximately $37,488,000 for federal tax purposes that expire at various dates from Year T+4 through Year T+14 and $10,087,000 for state tax purposes that expire in Year T+3 through Year T+9.
+The Company has an unrecorded income tax benefit of $9,015,000 resulting from the exercise of options during Year T. This benefit can only be recognized if the net operating losses are used in future periods or if net operating losses expire, and will be recorded in equity.
+Utilization of net operating loss carry forwards may be subject to substantial annual limitations due to the “change in ownership” provisions of the Internal Revenue Code of Year T-21, as amended, and similar state regulations. The annual limitation may result in expiration of net operating loss carry forwards before utilization.
+YEAR ENDED DECEMBER 31, Year T-1 AND DECEMBER 31, Year T-2
+For the year ended December 31, Year T-1, our net income was $1,585,000, or $0.02 per share, compared to a loss of $3,872,000, or ($0.10) loss per share, in Year T-2, showing an improvement of $5,457,000. The improvement for the year ended December 31, was primarily due to increased revenue of $12,526,000, offset by increased cost of sales of $6,252,000, resulting in an increase in gross margins of $6,274,000 for Year T-1 compared to Year T-2. The favorable increase of $5,457,000 was primarily due to increased total revenues combined with new product sales and new license and royalty fees. There were positive trends in our infomercial products, domestic animal product lines primarily sold to the equine market and our domestic functional foods and nutraceutical product lines. Assuming the merger with [NAME] was effective for the entire year of Year T-2, the unaudited pro forma condensed combined consolidated net loss for year ended December 31, Year T-2 would have been $7,506,000 ([COMPANY] year ended December 31, Year T-2 net loss $3,567,000, [NAME] year ended December 31, Year T-2 net loss $3,994,000 and $55,000 intercompany adjustment).
+Revenue, cost of goods sold and gross margin
+Consolidated revenues for the year ended December 31, Year T-1 were $18,090,000, an increase of $12,526,000, or 225%, from consolidated revenues of $5,564,000 in Year T-2. The increased revenue was a result of increased volume in all categories, including a $5,044,000 increase in the infomercial market, a $2,500,000 increase in the equine market, and a $2,000,000 increase in sales of the nutraceutical products. Also contributing to our revenue increase was license fees, royalties and other income in the amount of $985,000. Assuming the merger with [NAME] was effective for the entire year of Year T-2, the unaudited pro forma condensed combined consolidated revenues for year ended December 31, Year T-2 would have been $8,082,000 ([COMPANY] year ended December 31, Year T-2 consolidated revenues $4,569,000, [NAME] year ended December 31, Year T-2 consolidated revenues $3,838,000 and $325,000 intercompany adjustment).
+Cost of goods sold increased $6,252,000 from $2,878,000 in Year T-2 to $9,130,000 in Year T-1 due primarily to the significant increase in product sold in Year T-1. Gross margins increased $6,274,000 to $8,960,000 in Year T-1, from $2,686,000 in Year T-2. This 233% increase was due to new sales in the infomercial market and increased sales in the equine market and nutraceutical markets. Assuming the merger with [NAME] was effective for the entire year of Year T-2, the unaudited pro forma condensed combined consolidated gross margins for the year ended December 31, Year T-2 would have been $4,351,000 ([COMPANY] year ended December 31, Year T-2 gross margins at $2,046,000 and [NAME] year ended December 31,Year T-2 gross margins at $2,305,000).
+Operating expenses:
+Research and Development (R&D) expenses increased $186,000 in Year T-1 to $377,000 due to increased product development costs.
+Sales, General and Administrative (SG&A) expenses increased $2,158,000 from $3,860,000 in Year T-2 to $6,018,000 in Year T-1. The increase was mostly due to added employee-related, travel, office, commission, and other general operating expenses. Included in SG&A category is stock-based compensation for employees, directors and consultants. Stock-based compensation decreased $142,000 from $868,000 in Year T-2 to $726,000 in Year T-1. Stock-based compensation expenses decreased $420,000 from $1,511,000 in Year T-2 to $1,091,000 in Year T-1. These non-cash charges relate to issuances of common stock and common stock warrants and options in Year T-1 and Year T-2. The higher issuances of restricted stock, options and warrants during Year T-2 was deemed necessary by management to retain and compensate officers, directors, consultants and employees while conserving cash assets that would otherwise have been expended for these purposes.
+Professional fees decreased $123,000 from $1,627,000 in Year T-2 to $1,504,000 in Year T-1. In Year T-1, professional expenses were associated with consultants, accounting, [NAME] 404 compliance, legal, investor relations and stock-based compensation expenses. We incurred investor relations costs of $251,000 in Year T-1 compared to $307,000 in Year T-2, a decrease of $56,000 associated with an investor relations firm and fees associated with SEC filing requirements. Stock-based compensation on stock and warrant issues to consultants for services decreased $278,000 from $643,000 in Year T-2 to $365,000 in Year T-1
+Other income and expense:
+Interest income increased by $527,000 from $18,000 to $545,000 due to the higher balance of cash available.
+Interest expense decreased by $889,000 to $7,000 in Year T-1 due to the payoff of a note of $2,400,000 at 7% interest compounded quarterly on October 4, Year T-2. Interest expense in Year T-1 primarily consisted of interest on a loan for equipment.
+Income tax:
+The provision for income tax expense increased $3,000 from $2,000 to $5,000 due to a payment for State of [PLACE] corporate income taxes.
+Deferred taxes arise from temporary differences in the recognition of certain expenses for tax and financial reporting purposes. At December 31, Year T-1 and Year T-2, management determined that realization of these benefits is not assured and has provided a valuation allowance for the entire amount of such benefits. At December 31, Year T-1, net operating loss carry forwards were approximately $25,018,000 for federal tax purposes that expire at various dates from Year T+4 through Year T+13 and $12,230,000 for state tax purposes that expire in Year T+3 through Year T+8.
+The Company has an unrecorded income tax benefit of $14,100,000 resulting from the exercise of options during Year T-1. This benefit can only be recognized if the net operating losses are used in future periods or if net operating losses expire, and will be recorded in equity.
+Utilization of net operating loss carry forwards may be subject to substantial annual limitations due to the “change in ownership” provisions of the Internal Revenue Code of Year T-21, as amended, and similar state regulations. The annual limitation may result in expiration of net operating loss carry forwards before utilization.
+LIQUIDITY AND CAPITAL RESOURCES
+Our cash and cash equivalents were $41,298,000 and $14,867,000 at December 31, Year T and Year T-1, respectively.
+We have $2,549,000 of restricted cash ($758,000 and $1,791,000 classified as current and non-current asset, respectively), of which $310,000 is in 3rd party escrow to be paid in April, Year T+1 as the final payment on our [NAME] purchase (see Note 10 to the consolidated Financial Statements). The $2,239,000 balance is restricted by contract as security on our office lease in [PLACE]. The amount of restricted cash relating to the office lease reduces yearly for five years per the lease agreement. The lease itself expires in Year T+9.
+For the year ended December 31, Year T, net cash used in operations was $2,353,000, compared to net cash used in operations in the same period of Year T-1 of $629,000, an increase of $1,724,000. This increase in cash used by operations resulted primarily from the $13,496,000 increase in our net loss, offset by non-cash charges of: a $2,202,000 for depreciation and amortization, $1,300,000 for the impairment of goodwill, a $3,229,000 increase in allowance for doubtful accounts, a $2,166,000 charge for stock-based compensation, a $347,000 loss on the retirement of assets, a $309,000 loss on equity investments, a $290,000 loss on marketable equity securities, an $886,000 increase in accounts receivable, a $971,000 increase in inventories and a $1,167,000 increase in deposits and other current assets, offset by a $2,738,000 increase in accounts payable and accrued liabilities..
+Cash used in investing activities for the year ended December 31, Year T was $27,261,000, compared to $9,698,000 for the same period of Year T-1. This increase of $17,563,000 was caused primarily by our current plant expansion projects. We invested $11,652,000 in the purchase of property and equipment at several locations, an increase of $6,970,000 over the year ended December 31, Year T-1, including our [NAME] facility which became operational in the second quarter of Year T. We invested $2,169,000 in the acquisition of [ENTITY], and $5,143,000 in our acquisition of certain securities of [ENTITY] We invested $1,500,000 in [ENTITY], a joint venture we formed in the second quarter of Year T. We placed restrictions on $2,239,000 of cash and purchased $2,225,000 of other assets. Additionally, we issued notes receivable to several strategic customers and others totaling $7,828,000 and received payments against outstanding notes receivable of $5,410,000.
+Cash provided from financing activities for the year ended December 31, Year T was $56,045,000, an increase of $34,342,000 over the year ended December 31, Year T-1. The increase is due to a $46,805,000 private placement financing (see below), an increase of $30,871,000 over Year T-1, and proceeds of $9,240,000 from the exercise of common stock options and warrants, an increase of $3,456,000 over Year T-1.
+Our working capital position was $45,863,000 and $23,320,000 as of December 31, and Year T-1, respectively.
+Equity financing:
+On February 15, Year T, we sold an aggregate of 20,000,000 shares of our common stock at a price of $2.50 per share in connection with a private placement for aggregate gross proceeds of $50,000,000 ($46,805,000 after offering expenses). Additionally, the investors were issued warrants to purchase an aggregate of 10,000,000 shares of our common stock at an exercise price of $3.25 per share. An advisor for the financing received a customary 6% cash-fee, based on aggregate gross proceeds received from the investors, reasonable expenses and a warrant to purchase 1,200,000 shares of common stock at an exercise price per share of $3.25. The warrants have a term of five years and are exercisable after August 16, Year T.
+On May 12, Year T-1, we sold an aggregate of 17,560 shares of our Series C Convertible Preferred Stock at a price of $1,000 per share in a private placement transaction. This private placement of securities generated aggregate gross proceeds of approximately $17,560,000 ($15,934,000 net after offering and related expenses). The preferred shares can be converted to shares of our common stock at a conversion rate of approximately 1,176 shares of common stock for each preferred share issued in the transaction. Additionally, the investors were issued warrants to purchase an aggregate of 10,329,412 shares of our common stock at an exercise price of $1.35 per share. The warrants have a term of five years and are immediately exercisable. An advisor for the financing received a customary fee based on aggregate gross proceeds received from the investors and a warrant to purchase 500,000 shares of common stock at an exercise price per share of $1.35 and a term of five years.
+Subsequent expenditures (see Note 20 - Subsequent Events, to the consolidated financial statements):
+In January, Year T+1, through our newly formed subsidiary, [ENTITY], we purchased 51% of the stock of [NAME], an [NAME] company for $10,675,000
+In February Year T+1, we purchased [NAME], a Brazilian company which operates a rice bran oil processing plant, for approximately $14,492,000. Additionally, we agreed to fund as necessary up to $5,300,000 to pay deferred taxes due to the Brazilian government. These deferred taxes are payable over a period of 10 years.
+Purchase commitments:
+In January Year T+1 we signed a letter of intent to purchase a building in [PLACE] for our planned [NAME] stage II processing facility for $8,250,000. We expect to close escrow in March Year T+1. Additionally, we estimate our costs to equip the facility for the production of our products to be $5,000,000. We plan for the facility to be operational in the fourth quarter of Year T+1.
+Domestic Initiatives
+We continued an initiative to expand our [PLACE] plant to increase production capacity to meet the growing market demand for our value-added products made from stabilized [NAME]. We ordered additional equipment and expanded the [NAME] [PLACE] facility. The plant was increased from its initial annual capacity of 900 tons to a capacity of 2,700 tons by the end of the second quarter of Year T.
+We have existing financial liquidity from cash on hand and current cash flow to complete the expansion. Strong market interest in our proprietary stabilized [NAME] derivatives has prompted the need for increased manufacturing capability and is consistent with our goal of meeting growing customer demands and a new awareness of our products’ value. This increase in manufacturing capacity is the most efficient and economical means of boosting capacity as quickly as possible to meet the increasing demands of the marketplace.
+We entered into a raw rice bran supply agreement with [ENTITY], ([NAME]) and completed the construction of a stabilization facility with an annual capacity of 30,000 tons of stabilized rice bran. The agreement quadrupled our previous annual supply of raw rice bran in the United States. In addition, we announced the construction of an additional stabilization facility at Lake Charles, [NAME] that will provide an additional 30,000 tons of annual capacity, which we expect to become operational in the second quarter of Year T+1. We funded these projects from existing capital resources.
+International Initiatives
+On September 13, Year T-2, we entered into an agreement with a [NAME] Republic rice mill whereby the two companies agreed to form a joint venture. The terms of the agreement allows us the option to install equipment to produce annually at least 5,000 metric tons of stabilized rice bran in the [NAME] Republic, or in the alternative to produce the product in the United States and ship the raw ingredients to the [NAME] Republic and package it in final form there. The joint venture will be equally owned by the two companies and will commercially sell stabilized rice bran products through retail and government in the [NAME] Republic and [NAME]. [COMPANY] has shipped product directly rather than utilize the joint venture since the company chose not to build a processing facility in the [NAME] Republic at this time. We are shipping product from the United States facilities to honor obligations in the [NAME] Republic.
+On October 28, Year T-2, we entered into a binding letter of intent with an [NAME] company to determine whether we should enter into a working arrangement that will allow the [NAME] company the right to utilize our proprietary ingredients and value-added processing in their multi-faceted food business, which includes animal feed, poultry and cereals. We are currently servicing this company with product shipped from the United States although we have not entered into a definitive agreement as of March 3, Year T+1, as we chose not to locate facilities in [NAME] at this time.
+On December 19, Year T-1, [COMPANY] began distributing product to thousands of orphans through community- based organizations in [NAME] as part of an extraordinary collaborative effort with [NAME] the Children, Raising [NAME] and The [NAME] Solution Foundation. The mission was to provide direct physical assistance, long-term sustainability and support to many of [NAME]’s two million orphans and vulnerable children. Approximately ten thousand children at the [NAME] Care Center received our product to help improve their overall nutrition. The initial product distribution was made possible through funding raised by The [NAME] Solution Foundation with a purchase and donation of [COMPANY]’s products.
+In June, Year T we began distributing product to thousands of children in [NAME] as part of a humanitarian feeding program sponsored by [NAME] the Children.
+In June Year T, we entered into a joint venture with an [NAME] company to construct [NAME] facilities in Southeast Asia. We expect the first such facility to be operation in the fourth quarter of Year T+1.
+There can be no assurance that these international initiatives will be achieved in part or whole, however management continues its efforts to formalize its relationship within these countries to further its business activities.
+OFF BALANCE SHEET ARRANGEMENTS
+We have not entered into any transactions with unconsolidated entities whereby we have financial guarantees, subordinated retained interests, derivative instruments or other contingent arrangements that expose us to material continuing risks, contingent liabilities, or any other obligation under a variable interest in an unconsolidated entity that provides financing and liquidity support or market risk or credit risk support to the Company.
+CONTRACTUAL OBLIGATIONS
+As part of the normal course of business, the Company incurs certain contractual obligations and commitments which will require future cash payments. The following tables summarize the significant obligations and commitments.
+CRITICAL ACCOUNTING POLICIES
+A summary of our significant accounting policies is included in Note 2, Part II - Item 8, FINANCIAL STATEMENTS. We believe the application of these accounting policies on a consistent basis enables us to provide timely and reliable financial information about our earnings results, financial condition and cash flows.
+The preparation of financial statements in accordance with generally accepted accounting principles requires management to make judgments, estimates and assumptions regarding uncertainties that affect the reported amounts presented and disclosed in the financial statements. Management reviews these estimates and assumptions based on historical experience, changes in business conditions and other relevant factors that they believe to be reasonable under the circumstances. In any given reporting period, actual results could differ from the estimates and assumptions used in preparing our financial statements.
+Critical accounting policies are those that may have a material impact on our financial statements and also require management to exercise significant judgment due to a high degree of uncertainty at the time the estimate is made. Management has disc [...truncated]
+
+### Item 7A Market Risk
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk.
+Our cash and cash equivalents have been maintained only with maturities of 30 days or less. Our short-term investments have interest reset periods of 30 days or less. These financial instruments may be subject to interest rate risk through lost income should interest rates increase during their limited term to maturity or resetting of interest rates. As of December 31, Year T, there was one note payable outstanding which bears interest of 8% and is payable over 4 years (see Note of the consolidated financial statements). Future borrowings, if any, would bear interest at negotiated rates and would be subject to interest rate risk. We do not believe that a hypothetical adverse change of 10% in interest rates would have a material effect on our financial position.
+Item 8.
+
+### Financial Statements and Notes
+Item 14. Principal Accountant Fees and Services
+Our independent public accountant for the last two completed fiscal years ended December 31, Year T and Year T-1, was [NAME] LLP (“[NAME]”). The Audit Committee of our board of directors has not yet selected its principle independent registered public accounting firm to perform the audit of our financial statements for Year T+1. The Audit Committee anticipates the selection will occur at its next scheduled meeting on June 4, Year T+1.
+The following table presents fees for professional services rendered by [NAME] to us for the audit of our annual financial statements for the years ended December 31, Year T and Year T-1, and fees billed for audit-related services, tax services and all other services rendered to us by [NAME] for Year T-1 and Year T. The table also presents fees for professional services rendered by [NAME] (“[NAME]”), our former independent public accountant, for fees billed for audit and audit-related services, tax services and all other services rendered to [COMPANY] by [NAME] for the portion of Year T-1 during which [NAME] served as our independent auditors.
+Audit fees. Audit fees relate to services related to the audit of our financial statements and review of financial statements included in our quarterly reports on Form 10-Q, including review of registration statements filed with the SEC.
+Tax fees. Tax fees include fees for services rendered in connection with preparation of federal, state and foreign tax returns and other filings and tax consultation services.
+All other fees. There were no other fees in Year T and Year T-1.
+Pre-Approval Policies
+Our Audit Committee pre-approves all audit and non-audit services provided by our independent accountants prior to the engagement of the independent accountants for such services. All fees reported under the headings Audit Fees, Audit-Related Fees, Tax Fees and All Other fees above for Year T-1 and Year T were approved by the Audit Committee before the respective services were rendered, which concluded that the provision of such services was compatible with the maintenance of the independence of the firm providing those services in the conduct of its auditing functions.
+PART IV
+Item 15.
+Item 15. Exhibits, Financial Statement Schedules
+(a) Exhibits.
+Exhibit Number
+Exhibit Description
+2.01(1)
+Plan and Agreement of Exchange.
+2.02(2)
+Agreement and Plan of Merger and Reorganization, dated as of April 4, Year T-2, by and among the [COMPANY], The [NAME] Company and [ENTITY]
+2.03(3)
+Asset Purchase Agreement, dated as of September 28, Year T, between [COMPANY] and [ENTITY]
+2.04
+[NAME] Purchase and Sale Agreement, dated January 31, Year T+1, between [COMPANY] and [NAME] Holders of [NAME] De [NAME].
+3.01.1(4)
+Restated and Amended Articles of Incorporation as filed with the Secretary of State of [PLACE] on [NAME], Year T-6.
+3.01.2(5)
+Certificate of Amendment of Articles of Incorporation as filed with the Secretary of State of [PLACE] on August 4, Year T-4.
+3.01.3(6)
+Certificate of Amendment of Articles of Incorporation as filed with the Secretary of State of [PLACE] on October 31, Year T-4.
+3.01.4(5)
+Certificate of Amendment of Articles of Incorporation as filed with the Secretary of State of [PLACE] on September 29, Year T-2.
+3.01.5(7)
+Certificate of Amendment of Articles of Incorporation.
+3.02(8)
+Certificate of Designation of the Rights, Preferences, and Privileges of the Series A Preferred Stock as filed with the Secretary of State of [PLACE] on December 13, Year T-6.
+3.03(9)
+Certificate of Determination, Preferences and Rights of Series B Convertible Preferred Stock as filed with the Secretary of State of [PLACE] on October 4, Year T-2.
+3.04(10)
+Certificate of Determination, Preferences and Rights of Series C Convertible Preferred Stock as filed with the Secretary of State of [PLACE] on May 10, Year T-1.
+3.05.1(11)
+Bylaws of [COMPANY].
+3.05.2(12)
+Amendment of Bylaws of [COMPANY]
+4.01(9)
+Form of warrant issued to subscribers in connection with [COMPANY]’s October Year T-2 private placement.
+4.02(10)
+Form of warrant issued to subscribers in connection with [COMPANY]’s May Year T-1 private placement.
+4.03(13)
+Form of warrant issued to subscribers in connection with [COMPANY]’s February Year T private placement
+10.01(9)
+Securities Purchase Agreement, dated September 28, Year T-2, by and among [COMPANY] and the investors named therein.
+10.02(9)
+Registration Rights Agreement, dated September 28, Year T-2, by and among [COMPANY] and the investors named therein.
+10.03(10)
+Securities Purchase Agreement, dated May 12, Year T-1, by and among [COMPANY] and the investors named therein.
+10.04(10)
+Registration Rights Agreement, dated May 12, Year T-1, by and among [COMPANY] and the investors named therein.
+10.05(13)
+Securities Purchase Agreement, dated February 15, Year T, by and among [COMPANY] and the investors named therein.
+10.06(13)
+Registration Rights Agreement, dated February 15, Year T, by and among [COMPANY] and the investors named therein.
+10.07(14)±
+Private Label Supply Agreement and Strategic [COMPANY] between [COMPANY] and [NAME] Global.
+10.08(15)±
+W.F. Young Distribution Agreement.
+10.10(5)±
+Production Facility Development and [NAME] Supply and Purchase Agreement dated September 13, Year T-2 between [COMPANY] and [ENTITY]
+10.11(5)±
+Assignment dated April 12, Year T-2 from W.[ENTITY] to [COMPANY]
+10.12(5)±
+Distribution Agreement dated April 12, Year T-2 between W.[ENTITY] and [COMPANY]
+10.13(5)
+Manufacturing Agreement dated April 12, Year T-2 between W.[ENTITY] and [COMPANY]
+10.14(7)±
+Limited Liability Company Agreement for [ENTITY]
+10.15+
+Amendment of Limited Liability Company Agreement for [ENTITY]
+10.16(7)±
+Supply Agreement
+10.17(7)±
+License and Distribution Agreement
+10.18+
+Amendment of License and Distribution Agreement
+10.19(7)±
+Equipment Lease Agreement
+10.20(7)
+Form of non-statutory Stock Option Agreement between the Company and the non-employee members of the Board of Directors dated May 1,
+10.21(16)
+Form of Senior Secured Convertible Note of [ENTITY]
+10.22(17)
+Form of securities purchase letter agreement, dated April Year T, by and between [COMPANY] and the holder of notes and/or preferred stock of [ENTITY]
+10.23(17)
+Form of securities purchase letter agreement, dated April Year T, by and between [COMPANY] and the holder of notes and/or preferred stock of [ENTITY]
+10.24(18)
+Letter dated September 10, Year T, from [ENTITY] to [COMPANY].
+10.25
+Stock Purchase Agreement, dated January 24, Year T+1, between [ENTITY], and [ENTITY]
+10.26+
+[NAME] Equipment Lease, dated January 24, Year T+1, between [COMPANY] and [NAME]
+10.27(15)
+Executive Employment Agreement between [COMPANY] and [NAME].
+10.28
+First Amendment to Employment Agreement between [COMPANY] and [NAME].
+10.29(5)
+Executive Employment Agreement between The [NAME] Company and [NAME].
+10.30(5)
+Amendment No. 1 to Employment Agreement between [COMPANY], [NAME] and The [NAME] Company.
+10.31*
+Employment Agreement between [COMPANY] and [NAME].
+10.32(19)*
+Executive Employment Agreement between [COMPANY] and [NAME].
+10.33*
+First Amendment to Employment Agreement between [COMPANY] and [NAME].
+10.34(15)*
+Executive Employment Agreement between [COMPANY] and [NAME].
+10.35(20)*
+[COMPANY] Year T-4 Stock Compensation Plan
+10.36(5)*
+[COMPANY] Year T-2 Equity Incentive Plan
+10.37
+Intentionally Omitted
+10.38
+Intentionally Omitted
+10.39
+Intentionally Omitted
+10.40*
+Stock Option Agreement dated February 8, Year T between [COMPANY] and [NAME].
+10.41
+Intentionally Omitted
+10.42
+Intentionally Omitted
+10.43
+Intentionally Omitted
+10.44(14)
+Warrant Agreement between [COMPANY] and Steven [NAME] dated February 27, Year T-1.
+10.45(21)
+Form of non-statutory Stock Option Agreement between [COMPANY] and the non-employee members of the Board of Directors dated May 23, Year T-1.
+10.46(22)*
+The [NAME] Company Year T-10 Stock Option Plan.
+10.47(23)
+Form of Directors Stock Option Agreement for The [NAME] Company.
+10.48(23)*
+Form of Non-statutory Stock Option Agreement not issued under The [NAME] Company Year T-10 Stock Option Plan, governing options granted to The [NAME] Company employees.
+10.49(24)*
+Form of non-statutory Stock Option Agreement issued under The [NAME] Company Year T-10 Stock Option Plan between The [NAME] Company and The [NAME] Company employees dated October 1, Year T-8.
+10.50(24)*
+Form of non-statutory Stock Option Agreement issued under The [NAME] Company Year T-10 Stock Option Plan between The [NAME] Company and [NAME] Lynch dated November 1, Year T-8. Identical Agreements with Daniel [NAME], Jr. and [NAME].
+10.51(25)
+Form of Board Member Non-statutory Stock Option Agreement issued under The [NAME] Company Year T-10 Stock Option Plan between The [NAME] Company and the Board Members of the [NAME] Company dated February 22, Year T-6, September and 29, Year T-6.
+10.52(26)*
+Form of Non-statutory Stock Option Agreement issued under The [NAME] Company Year T-10 Stock Option Plan between The [NAME] Company and employees dated January 2, Year T-7.
+10.53(27)
+Form of Non-statutory Stock Option Agreement issued September 23, Year T-5 between The [NAME] Company and the members of The [NAME] Company’s Board of Directors.
+10.54(27)
+Form of Non-statutory Stock Option Agreement issued July 1, Year T-3 between The [NAME] Company and Edward [NAME].
+10.55(28)
+Form of Non-statutory Stock Option Agreement issued October 18, Year T-3 between The [NAME] Company and two members of The [NAME] Company Board Directors.
+10.56(29)
+Form of Non-statutory Stock Option Agreement issued under the Year T-10 Stock Option Plan between The [NAME] Company and certain non-employee [NAME] Directors dated March 31, Year T-2.
+10.57(29)*
+Form of Non-statutory Stock Option Agreement issued under the Year T-10 Stock Option Plan between The [NAME] Company and certain employees of [NAME] dated March 31, Year T-2.
+10.58(5)*
+Form of Option Assumption Agreement between [COMPANY] and Option Holders relating to assumed Options granted under The [NAME] Company Year T-10 Stock Option Plan.
+10.59(5)*
+Form of Option Assumption Agreement between [COMPANY] and Option Holders relating to assumed non-plan [NAME] Options.
+10.60(5)
+Form of Option Assumption Agreement between [COMPANY] and former Directors of The [NAME] Company.
+10.61(5)
+Form of Resale Restriction Agreement entered into between [COMPANY] and each of [NAME] and [NAME] E. Lynch.
+10.62(5)
+Form of Resale Restriction Agreement entered into between [COMPANY] and each of James [NAME], Edward [NAME] and Steven [NAME].
+10.63(5)
+Form of Resale Restriction Agreement entered into between [COMPANY] and each of [NAME] and David [NAME].
+21.01
+List of subsidiaries.
+23.1
+Consent of [NAME], Independent Registered Public Accounting Firm.
+23.2
+Consent of [NAME] LLP, Independent Registered Public Accounting Firm.
+24.1
+Power of Attorney (See signature page).
+31.1
+Certification by CEO pursuant to Section 302 of the Sarbanes-Oxley Act of Year T-5.
+31.2
+Certification by CEO pursuant to Section 302 of the Sarbanes-Oxley Act of Year T-5.
+32.1
+Certification by CEO pursuant to Section 906 of the Sarbanes-Oxley Act of Year T-5.
+32.2
+Certification by CFO pursuant to Section 906 of the Sarbanes-Oxley Act of Year T-5.
+±
+Confidential treatment granted as to certain portions.
++
+Confidential treatment requested as to certain portions.
+*
+Indicates a management contract or compensatory plan, contract or arrangement in which any Director or any Executive Officer participates.
+(1)
+incorporated herein by reference to exhibits previously filed on Registrant’s Current Report on Form 8-K, filed on November 19, Year T-6.
+(2)
+incorporated herein by reference to exhibits previously filed on Registrant’s Current Report on Form 8-K, filed on April 4, Year T-2.
+(3)
+incorporated herein by reference to exhibits previously file on registrant’s Current /Report on Form 8-K, filed on October 4, 277.
+(4)
+incorporated herein by reference to exhibits previously filed on Registrant’s Annual Report on Form 10-KSB, filed on April 16, Year T-5.
+(5)
+incorporated herein by reference to exhibits previously filed on Registrant’s Registration Statement on Form [NAME], filed on November 18, Year T-2.
+(6)
+incorporated herein by reference to exhibits previously filed on Registrant’s Quarterly Report on Form 10-[NAME], filed on November 19, Year T-4.
+(7)
+incorporated herein by reference to exhibits previously filed on Registrant’s Quarterly Report on Form 10-Q, filed on August 14, Year T.
+(8)
+incorporated herein by reference to exhibits previously filed on Registrant’s Registration Statement on Form [NAME], filed on June 4, Year T-5.
+(9)
+incorporated herein by reference to exhibits previously filed on Registrant’s Current Report on Form 8-K, filed on October 4, Year T-2.
+(10)
+incorporated herein by reference to exhibits previously filed on Registrant’s Current Report on Form 8-K, filed on May 15, Year T-1.
+(11)
+incorporated herein by reference to exhibits previously filed on Registrant’s Registration Statement on Form [NAME], filed on June 12, Year T-1.
+(12)
+incorporated herein by reference to exhibits previously filed on The [NAME] Company’s Report on Form 10-KSB, filed on March 31, Year T-4.
+(13)
+incorporated herein by reference to exhibits previously filed on Registrant’s Current Report on Form 8-K, filed on February 20, Year T.
+(14)
+incorporated herein by reference to exhibits previously filed on Registrant’s Quarterly Report on Form 10-[NAME], filed on May 15, Year T-1.
+(15)
+incorporated herein by reference to exhibits previously filed on Registrant’s Annual Report on Form 10-KSB, filed on March 31, Year T-2.
+(16)
+incorporated herein by reference to exhibit 4.2 to the Current Report on Form 8-K filed by [ENTITY] on December 19, Year T-4.
+(17)
+incorporated herein by reference to exhibits previously filed on Registrant’s Current Report on Form 8-K, filed on June 1, Year T.
+(18)
+incorporated herein by reference to exhibits previously filed on Amendment No. 1 to Schedule 13D filed by the Registrant on September 12, Year T.
+(19)
+incorporated herein by reference to exhibits previously filed on Registrant’s Annual Report on Form 10-K, filed on April 2, Year T.
+(20)
+incorporated herein by reference to exhibits previously filed on Registrant’s Registration Statement on Form S-8, filed on November 18, Year T-4.
+(21)
+incorporated herein by reference to exhibits previously filed on Registrant’s Quarterly Report on Form 10-[NAME], filed on August 14, Year T-1.
+(22)
+incorporated herein by reference to exhibits previously filed on The [NAME] Company’s Registration Statement Number Statement No. 000-24285, filed on May 18, Year T-9.
+(23)
+incorporated herein by reference to exhibits previously filed on The [NAME] Company’s Registration Statement No. 000-24285, filed on May 18, Year T-9.
+(24)
+incorporated herein by reference to exhibits previously filed on The [NAME] Company’s Report on Form 10-KSB, filed on March 30, Year T-7.
+(25)
+incorporated herein by reference to exhibits previously filed on The [NAME] Company’s Report on Form 10-[NAME], filed on August 10, Year T-6.
+(26)
+incorporated herein by reference to exhibits previously filed on The [NAME] Company’s Report on Form 10-[NAME], filed on August 12, Year T-5.
+(27)
+incorporated herein by reference to exhibits previously filed on The [NAME] Company’s Report on Form 10-[NAME], filed on November 15, Year T-4.
+(28)
+incorporated herein by reference to exhibits previously filed on The [NAME] Company’s Report on Form 10-KSB, filed on March 30, Year T-2.
+(29)
+incorporated herein by reference to exhibits previously filed on The [NAME] Company’s Report on Form 10-[NAME], filed on May 16, Year T-2.
+SIGNATURES
+In accordance with Section 13 or 15 (d) of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+Power of Attorney
+Each person whose signature appears below constitutes and appoints each of [NAME] and [NAME], true and lawful attorney-in-fact, with the power of substitution, for him in any and all capacities, to sign amendments to this Report on Form 10-K, and to file the same, with all exhibits thereto and other documents in connection therewith, with the Securities and Exchange Commission, hereby ratifying and confirming all that said attorneys-in-fact, or his substitute or substitutes, may do or cause to be done by virtue thereof.
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, this report has been signed by the following persons in the capacities and on the dates indicated.
+Signature
+Title
+Date
+Principal Executive Officer:
+/s/ [NAME]
+President, Chief Executive Officer
+March 17, Year T+1
+[NAME]
+and Director
+Principal Financial Officer
+and Principal Accounting
+Officer:
+/s/ [NAME]
+Chief Financial Officer
+March 17, Year T+1
+[NAME]
+Additional Directors:
+/s/ David [NAME]
+Director
+March 17, Year T+1
+David [NAME]
+/s/ [NAME]
+Director
+March 17, Year T+1
+[NAME]
+/s/ James C. [NAME]
+Director
+March 17, Year T+1
+James C. [NAME]
+/s/ Edward L. [NAME]
+Director
+March 17, Year T+1
+Edward L. [NAME]
+/s/ Steven W. [NAME]
+Director
+March 17, Year T+1
+Steven W. [NAME]
+/s/ Kenneth L. [NAME]
+Director
+March 17, Year T+1
+Kenneth L. [NAME]
+Item 8. Financial Statements and Supplementary Data
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+REPORT OF INDEPENDENT REGISTERED
+PUBLIC ACCOUNTING FIRM
+Board of Directors
+[COMPANY] and subsidiaries
+[PLACE]
+We have audited the accompanying consolidated balance sheet of [COMPANY] and subsidiaries (the “Company”) as of December 31, Year T and Year T-1, and the related consolidated statements of operations, comprehensive income (loss), changes in shareholders’ equity, and cash flows for the years then ended. These consolidated financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on these consolidated financial statements based on our audit.
+We conducted our audit in accordance with the standards of the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements. An audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation. We believe that our audit provides a reasonable basis for our opinion.
+In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the consolidated financial position of the Company as of December 31, Year T and Year T-1, and the consolidated results of their operations and their cash flows for the years then ended, in conformity with accounting principles generally accepted in the United States of America.
+We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States), the Company's internal control over financial reporting as of December 31, Year T, based on “criteria established in Internal Control-Integrated Framework” issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). Our report dated March 17, Year T+1 expressed an opinion that the company had not maintained effective internal control over financial reporting as of December 31, Year T, base on “criteria established in Internal Control-Integrated Framework issued by the committee of Sponsoring Organizations of the Treadway commission ([NAME])”.
+/s/ [NAME] LLP
+[NAME] LLP [PLACE]
+March 17, Year T+1
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+ON INTERNAL CONTROL OVER FINANCIAL REPORTING
+The Shareholders and Board of Directors
+[COMPANY], Inc. and [PLACE]
+We have audited [COMPANY] and subsidiaries (the "Company") internal control over financial reporting as of December 31, Year T, based on criteria established in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). The Company's management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting. Our responsibility is to express an opinion on management's assessment and an opinion on the effectiveness of the Company's internal control over financial reporting based on our audit.
+We conducted our audit in accordance with the standards of the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit included obtaining an understanding of internal control over financial reporting, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audit also included erforming such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+A company's internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company's internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the company’s annual or interim financial statements will not be prevented or detected on a timely basis. The following material weaknesses have been identified and included in management’s assessment. Policies were inadequate related to the retention of financial experts providing assistance in financial transactions. Additionally, the Company did not perform timely, comprehensive reviews of financial transactions, the collectibility of accounts receivable or the potential impairment of goodwill. These material weaknesses were considered in determining the nature, timing, and extent of audit tests applied in our audit of the Year T financial statements, and this report does not affect our report dated March 17, Year T+1.
+In our opinion, because of the effect of the material weaknesses described above on the achievement of the objectives of the control criteria, the Company has not maintained effective internal control over financial reporting as of December 31, Year T, based on “criteria established in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO).”
+/s/ [NAME] LLP
+[NAME] LLP [PLACE]
+March 17, Year T+1
+REPORT OF INDEPENDENT REGISTERED
+PUBLIC ACCOUNTING FIRM
+Board of Directors
+[COMPANY] and subsidiaries
+[PLACE]
+We have audited the accompanying consolidated statement of operations, comprehensive loss, changes in shareholders’ equity, and cash flows for year ended December 31, Year T-2. These financial statements are the responsibility of [COMPANY]’s management. Our responsibility is to express an opinion on these consolidated financial statements based on our audits.
+We conducted our audits in accordance with the standards of the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements. An audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation. We believe that our audit provides a reasonable basis for our opinion.
+In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of [COMPANY] as of December 31, Year T-2, and the results of its operations and its cash flows for the one year then ended, in conformity with accounting principles generally accepted in the United States of America.
+/s/ [NAME] www.malone-bailey.com [PLACE]
+March 15, Year T-1
+[COMPANY] AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+The accompanying notes are an integral part of these financials
+[COMPANY] AND SUBSIDIARIES
+CONSOLIDATED STATEMENT OF OPERATIONS
+The accompanying notes are an integral part of these financials
+[COMPANY] AND SUBSIDIARIES
+CONSOLIDATED STATEMENT OF COMPREHENSIVE (LOSS) INCOME
+The accompanying notes are an integral part of these financials
+[COMPANY] AND SUBSIDIARIES
+CONSOLIDATED STATEMENT OF CHANGES IN SHAREHOLDERS’ EQUITY
+The accompanying notes are an integral part of these financials
+CONSOLIDATED STATEMENT OF CHANGES IN SHAREHOLDERS’ EQUITY - (CONTINUED)
+The accompanying notes are an integral part of these financials
+[COMPANY] AND SUBSIDIARIES
+CONSOLIDATED STATEMENT OF CASH FLOWS
+The accompanying notes are an integral part of these financials
+[COMPANY] AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Note 1 - Organization and Line of Business
+General
+We are a health-science company focused on the development and distribution of products based upon the use of stabilized rice bran and proprietary rice bran formulations. [NAME] bran is the outer layer of brown rice which is typically a wasted by-product of the commercial rice industry. These products include food supplements and medical foods which provide health benefits for humans and animals (known as “nutraceuticals”) based on stabilized rice bran, rice bran derivatives and the rice bran oils.
+On October 4, Year T-2, we consummated the acquisition of The [NAME] Company (“[NAME]”) pursuant to the terms of an Agreement and Plan of Merger, dated April 4, Year T-2. [NAME] survived the merger as a wholly-owned subsidiary of [COMPANY]. [NAME] shareholders received .76799 of [COMPANY] common stock for each share of [NAME] common stock. [NAME] shareholders received 28,272,064 shares of [COMPANY] common stock, valued at $29,120,000 and [COMPANY] assumed the outstanding [NAME] options and warrants to purchase 11,810,496 shares [COMPANY] common stock, valued at $11,422,000.
+Due to the acquisition of [NAME], and the subsequent reorganization, [COMPANY] and its subsidiaries are operating as one segment.
+Note 2 - Summary of Significant Accounting Policies
+Principles of Consolidation - The consolidated financial statements include the accounts of [COMPANY] and its wholly-owned subsidiaries, [COMPANY] [ENTITY], [NAME]® [ENTITY], [ENTITY], and our interests in [COMPANY]-[ENTITY] (10%), [ENTITY] (50%), and [ENTITY] (80%), (collectively, the “Company”). Additionally, due to our ownership of certain debt securities of [ENTITY], we have included their results of operations for the period from April 20th, Year T to December 31, Year T and their financial position at December 31, Year T in our financial statements. All significant inter-company accounts and transactions are eliminated in consolidation.
+Revenue Recognition - We derive our revenue primarily from product sales. Product is shipped when an approved purchase order is received. Products shipped by us are generally sold [NAME], with the customer taking title to the product once it leaves our plant via common carrier. At this point, the price to the customer is fixed and determinable, and collectability is reasonably assured. On occasion, we receive purchase orders for multiple product deliveries. In these situations, each delivery is individually evaluated to determine appropriate revenue recognition. Each delivery is generally considered to be a separate unit of accounting for the purposes of revenue recognition and, in all instances, persuasive evidence of an arrangement, deliver [...truncated]
+
+### Item 9 Accountant Changes
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.
+None.
+Item 9A.
+
+### Item 9A Controls and Procedures
+Item 9A. Controls and Procedures.
+Evaluation of Disclosure Controls and Procedures
+Disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934 (the “Exchange Act”)) are designed to ensure that information required to be disclosed in reports filed or submitted under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in Securities and Exchange Commission rules and forms and that such information is accumulated and communicated to management, including the Chief Executive Officer and Chief Financial Officer, to allow timely decisions regarding required disclosures.
+In connection with the preparation of this Annual Report on Form 10-K, our management, with the participation of our Chief Executive Officer and our Chief Financial Officer, carried out an evaluation of the effectiveness of [COMPANY]’s disclosure controls and procedures as of December 31, Year T. In making this evaluation, our management considered the two material weaknesses in our internal controls over financial reporting and the status of their remediation as discussed below. Based on this evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were not effective as of December 31, Year T.
+Notwithstanding the existence of the material weaknesses described below, we concluded that the consolidated financial statements in this Annual Report on Form 10-K present fairly, in all material respects, [COMPANY]’s consolidated financial condition as of December 31, Year T and Year T-1, and consolidated results of its operations and cash flows for the years ended December 31, Year T, Year T-1 and Year T-2, in conformity with U.S. generally accepted accounting principles (“GAAP”).
+Management’s Report on Internal Control Over Financial Reporting
+Management of [COMPANY] is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act. Internal control over financial reporting is a process designed under the supervision of our principal executive and principal financial officers to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with GAAP.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+Under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, we conducted an evaluation of the effectiveness of our internal control over financial reporting as of December 31, Year T based on the criteria established in Internal Control- Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (“COSO”).
+Solely as a result of the material weaknesses described below, our management concluded that as of December 31, Year T we did not maintain effective internal control over financial reporting based on the criteria established in Internal Control- Integrated Framework, issued by COSO.
+As of December 31, Year T, the following material weaknesses in our internal control over financial reporting had not been fully remedied and continued to exist:
+1.
+Our procedures for hiring third-party financial and valuation experts are inadequate. We have a written policy relating to the hiring of third-party financial experts, however, we believe we need to revise this policy to (i) lower the transaction dollar threshold before we need to report to, and seek the approval of, our Board of Directors regarding the qualifications and hiring of financial experts and (ii) require the same approval from the Board of Directors for the engagement of valuation experts as we will require for the hiring of financial experts.
+2.
+We do not have adequate procedures to assure that significant and complex transactions are timely analyzed and reviewed. As a result, significant adjustments to the results of operations have been required at year-end and at the end of last three quarters of Year T prior to filing our 10-K and 10-[NAME] for Year T, including adjustments relating to revenue recognition, valuation of certain receivables, classification of settlement expenses and goodwill impairment.
+The effectiveness of [COMPANY]’s internal control over financial reporting as of December 31, Year T has been audited by [NAME] LLP, an independent registered public accounting firm, as stated in their report, which is included in this Annual Report on Form 10-K.
+Remediation
+[COMPANY] is actively engaged in the development and implementation of a remediation plan to address the material weaknesses in controls and oversight thereof as of December 31, Year T.
+For the material weakness concerning retention of experts, we have developed the following remediation plan:
+1. We have developed a written policy and procedures that document the processes relating to retention of expert service providers for assistance with valuations and significant financial transactions of [COMPANY]. Included in the process is an analysis to verify and document the extent of any past relationships with the service providers and to confirm the lack of apparent conflicts of interest. Since December 31, Year T, we have revised these procedures as follows:
+·
+For transactions or valuations with aggregate amounts ranging from two to five percent of net equity (“Reporting Threshold”), management will report to the Board of Directors the retention and qualifications of selected experts.
+·
+For transactions or valuations with aggregate values greater than five percent of net equity (“Approval Threshold”), management will report to the Board of Directors its recommendation for the retention of experts and seek approval to retain expert service providers.
+Our expert retention policy in effect as of December 31, Year T (i) did not apply to the engagement of experts for the purpose of providing valuation and (ii) maintained a Reporting Threshold of five to ten percent of net equity and an Approval Threshold of over ten percent.
+These percentage thresholds will be monitored and revised as appropriate.
+2. For the material weakness concerning performing timely, comprehensive review of financial transactions, we have developed the following remediation plan that will enhance our current policies and procedures:
+·
+Assess and evaluate the Chief Executive Officer’s authorization thresholds to enter into agreements that has been delegated by the Board of Directors and make appropriate recommendations. Additionally, we will recommended that the Board of Directors expand its documentation requirements and receive analysis from our Chief Financial Officer and Chief Operating Officer when reviewing proposed transactions.
+·
+Continue to enhance and improve month-end and quarter-end closing procedures by having reviewers analyze and monitor financial information in a consistent and thorough manner. We plan to continue to enhance and improve the documentation and review of required information associated with the preparation of our quarterly and annual filings.
+·
+Perform SAB [#] analysis of significant revenue transactions in excess of $100,000 per customer per quarter, or over $250,000 in any one year to assess if collectibility is reasonable assured and to ensure proper period revenue recognition.
+·
+Prepare accounting memos within twenty days after the end of each quarter analyzing our allowance for doubtful accounts for all accounts receivable that exceed ten percent of our total accounts receivable.
+·
+Prepare accounting memos to summarize all significant transactions and the accounting treatment therefore within forty days after the completion of such transactions.
+We recognize that continued improvement in our internal controls is necessary and are committed to continuing our significant investments as necessary to make these improvements in our internal controls over financial reporting.
+Item 9B.
+
+## PRIOR YEAR 10-K (Year T-1)
+
+### Item 1A Risk Factors
+Item 1A.
+RISK FACTORS.
+Investors or potential investors in our stock should carefully consider the risks described below. Our stock price will reflect the performance of our business relative to, among other things, our competition, expectations of securities analysts or investors, and general economic market conditions and industry conditions. One should carefully consider the following factors in connection with any investment in our stock. Our business, financial condition and results of operations could be materially adversely affected if any of the following risks occur. Should any or all of the following risks materialize, the trading price of our stock could decline, and investors could lose all or part of their investment.
+Risks Related to Our Business
+We have a limited operating history and have just generated our first profits since we began operations.
+We began operations in February Year T-7 and incurred losses in each reporting period until Year T-1. Our prospects for financial success are difficult to forecast because we have a relatively limited operating history. Our prospects for financial success must be considered in light of the risks, expenses and difficulties frequently encountered by companies in new, unproven and rapidly evolving markets. Our business could be subject to any or all of the problems, expenses, delays and risks inherent in the establishment of a new business enterprise, including limited capital resources, possible delays in product development, possible cost overruns due to price and cost increases in raw product and manufacturing processes, uncertain market acceptance, and inability to respond effectively to competitive developments and attract, retain and motivate qualified employees. Therefore, there can be no assurance that our business or products will be successful, that we will be able to achieve or maintain profitable operations, or that we will not encounter unforeseen difficulties that may deplete its capital resources more rapidly than anticipated.
+There are significant market risks associated with our business.
+We have formulated our business plan and strategies based on certain assumptions regarding the size of the rice bran market, our anticipated share of this market and the estimated price and acceptance of our products. These assumptions are based on the best estimates of our management; however there can be no assurance that our assessments regarding market size, potential market share attainable by us, the price at which we will be able to sell our products, market acceptance of our products or a variety of other factors will prove to be correct. Any future success may depend upon factors including changes in the dietary supplement industry, governmental regulation, increased levels of competition, including the entry of additional competitors and increased success by existing competitors, changes in general economic conditions, increases in operating costs including costs of production, supplies, personnel, equipment, and reduced margins caused by competitive pressures.
+We depend on limited number of customers.
+During Year T-1, we received approximately 67% of product sales revenue from five customers and approximately 48% of our revenue from one customer. A loss of any of these customers could have a material adverse effect on our revenues and results of operations.
+We rely upon a limited number of product offerings.
+All of our products are based on stabilized rice bran. Although we will market stabilized rice bran as a dietary supplement, as an active food ingredient for inclusion in our products and in other companies' products, and in other ways, a decline in the market demand for our products, as well as the products of other companies utilizing our products, could have a significant adverse impact on us.
+We are dependent upon our marketing efforts.
+We are dependent on our ability to market products to animal food producers, food manufacturers, mass merchandise and health food retailers, and to other companies for use in their products. We must increase the level of awareness of dietary supplements in general and our products in particular. We will be required to devote substantial management and financial resources to these marketing and advertising efforts and there can be no assurance that it will be successful.
+We rely upon an adequate supply of raw rice bran.
+All of our current products depend on our proprietary technology using unstabilized or raw rice bran, which is a by-product from milling paddy rice to white rice. Our ability to manufacture stabilized rice bran raw is currently limited to the production capability of our facility at [NAME] and our single value-added products plant in [PLACE]. Between the [PLACE] plant and the facility at [NAME], we currently are capable of producing just enough finished products to meet current demand. The existing plants do not allow for dramatic expansion of product demand, therefore domestic production capacity is needed. [NAME] incremental demand for [COMPANY] Products, we completed the first phase of an expansion of the [PLACE] facility in Year T-1. We have also entered into a new raw rice bran supply agreement with [NAME] in [PLACE]. The supply agreement led to the construction of a new [NAME] plant in [NAME] which will be operational by the first of April Year T. These facilities plus another [NAME] and value-added plant scheduled to be operational by the end of Year T should meet our production needs for Year T,, but are not anticipated to be sufficient to meet our longer term supply needs. Therefore, we anticipate building new facilities to meet the forecasted demand for our products and envision we will be able to execute on this initiative. In the event we are unable to create additional production capacity to produce more stabilized rice bran products to fulfill our current and future requirements this could materially and adversely affect our business, results from operations, and financial condition.
+We are pursuing other supply sources in the United States and in foreign countries and anticipate being able to secure alternatives and back-up sources of rice bran, although we have not entered into any definitive agreements other than the agreements with [NAME] Cooperative and [PLACE] [NAME]. However, there can be no assurance that we will continue to secure adequate sources of raw rice bran to meet our requirements to produce stabilized rice bran products. Since rice bran has a limited shelf life, the supply of rice bran is affected by the amount of rice planted and harvested each year. If economic or weather conditions adversely affect the amount of rice planted or harvested, the cost of rice bran products that we use may increase. We are not generally able to pass cost increases to our customers and any increase in the cost of stabilized rice bran products would have an adverse effect on our results of operations.
+We face competition.
+Competition in our targeted industries, including nutraceuticals, functional food ingredients, rice bran oils, animal feed supplements and companion pet food ingredients is vigorous, with a large number of businesses engaged in the various industries. Many of our competitors have established reputations for successfully developing and marketing their products, including products that incorporate bran from other cereal grains and other alternative ingredients that are widely recognized as providing similar benefits as rice bran. In addition, many of our competitors have greater financial, managerial, and technical resources than us. If we are not successful in competing in these markets, we may not be able to attain our business objectives.
+Our products could fail to meet applicable regulations which could have a material adverse affect on our financial performance.
+The dietary supplement and cosmetic industries are subject to considerable government regulation, both as to efficacy as well as labeling and advertising. There is no assurance that all of our products and marketing strategies will satisfy all of the applicable regulations of the Dietary Supplement, Health and Education Act, the Food, Drug and Cosmetic Act, the U.S. Food and Drug Administration and/or the U.S. Federal Trade Commission. Failure to meet any applicable regulations would require us to limit the production or marketing of any non-compliant products or advertising, which could subject us to financial or other penalties.
+Our success depends in part on our ability to obtain patents, licenses and other intellectual property rights for our products and technology.
+We have one patent entitled Methods for Treating Joint [NAME], Pain and Loss of Mobility, which covers both humans and mammals. In addition, our subsidiary [NAME] has five United States patents and may decide to file corresponding international applications. [NAME] holds patents to the production of [NAME] and to a micro nutrient enriched rice bran oil process. [NAME] also holds patents to a method to treat high cholesterol, to a method to treat diabetes and to a process for producing Higher Value [NAME] from stabilized rice bran. The process of seeking patent protection may be long and expensive, and there can be no assurance that patents will be issued, that we will be able to protect our technology adequately, or that competition will not be able to develop similar technology.
+There currently are no claims or lawsuits pending or threaten [...truncated]
+
+### Item 3 Legal Proceedings
+Item 3.
+LEGAL PROCEEDINGS.
+As previously disclosed, [COMPANY] commenced a lawsuit on September 8, Year T-1 against [ENTITY], a [ENTITY] (“[NAME]”) in the United States District Court for the Eastern District of [PLACE] Division. The factual basis underlying that case involved a private-placement transaction in which [COMPANY] exchanged 7 million restricted shares of its common stock for 1,272,026 ordinary shares of [NAME] common stock (the “[NAME] Shares”), half of which were immediately saleable by [COMPANY] and half of which were placed in escrow subject to certain conditions. After the commencement of the litigation, the parties entered into a [NAME]/Escrow Agreement, pursuant to which they agreed that the proceeds from [NAME]’s sale of certain [COMPANY] shares, totaling $2.5 million, would be deposited into an escrow account. The matter has now been settled. Pursuant to the settlement, [COMPANY] will receive $1.25 million from the $2.5 million held in escrow ([NAME] will receive the remainder), and [COMPANY] will retain all of the [NAME] Shares.
+Item 4.
+
+### Item 7 MD&A
+Item 7.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OR PLAN OF OPERATION
+Executive Summary
+Year ended December 31, Year T-1 was a busy and exciting year for [COMPANY] and a remarkable period of growth for our company. During the year, we passed several key financial milestones; entered new distribution agreements that underscored the substantial demand for our core product, stabilized rice bran; and marked a number of operating achievements that positioned [COMPANY] for success in Year T and beyond.
+We at [COMPANY]:
+·
+Increased our performance
+·
+[NAME] our revenue targets
+·
+Achieved profitability for the first time in our seven year history.
+We are proud that we were able to set these new benchmarks, which clearly validate our business model and highlight the success of our strategies, to utilize our production capacity more efficiently and to focus on driving sales of high-end derivative products.
+Another important Year T-1 achievement was our expansion of our [PLACE] plant, our facility where we produce our high margin fiber and solubles. During the year, we expanded the [NAME] plant’s capacity by 100 percent, while executing the project on schedule and under budget. Our [NAME] expansion has enabled us to double our annual production capacity of solubles and fiber to 900 tons each, a quantity that will help us to address rising demand for our products within several different market segments.
+In addition, during Year T-1 we expanded our humanitarian efforts teaming with Raising [NAME] the Children and the Government of [NAME], Africa. This program will feed thousands of children and the health progress will be monitored and documented to track the benefits of this nutritional supplement for children.
+Results of Operations
+The following is a detailed discussion of our consolidated financial condition as of December 31, Year T-1 and Year T-2 and the results of operations for fiscal years ended December 31, Year T-1, Year T-2 and Year T-3, which should be read in conjunction with, and is qualified in its entirety by, the consolidated financial statements and notes thereto included elsewhere in this report. The consolidated financial statements (see Part II - Item 8. FINANCIAL STATEMENTS) represents annual results for [COMPANY].
+YEAR ENDED DECEMBER 31, Year T-1 AND DECEMBER 31, Year T-2
+For the year ended December 31, Year T-1, our net income was $1,585,000, or $0.02 per share, compared to a loss of $3,872,000, or $0.10 loss per share, in Year T-2, showing an improvement of $5,457,000. The improvement for the year ended December 31, was primarily due to increased revenue by $12,526,000, offset by increased cost of sales of $6,252,000, resulting in an increase in gross margins of $6,274,000 for Year T-1 compared to Year T-2. The favorable increase of $5,457,000 was primarily due to increased total revenues combined with new product sales and new license and royalty fees. There were positive trends in our infomercial products, domestic animal product lines primarily sold to the equine market and our domestic functional foods and nutraceutical product lines. Assuming the merger with [NAME] was effective for the entire year of Year T-2, the unaudited pro forma condensed combined consolidated net loss for year ended December 31, Year T-2 would have been $7,506,000 ([COMPANY] year ended December 31, Year T-2 net loss $3,567,000, [NAME] year ended December 31, Year T-2 net loss $3,994,000 and $55,000 intercompany adjustment).
+Consolidated revenues for the year ended December 31, Year T-1 were $18,090,000, an increase of $12,526,000, or 225%, from consolidated revenues of $5,564,000 in Year T-2. The increased revenue was a result of increased volume in all categories, including a $5,044,000 increase in the infomercial market, a $2,500,000 increase in the equine market, and a $2,000,000 increase in sales of the nutraceutical products. Also contributing to our revenue increase was license fees, royalties and other income in the amount of $985,000. Assuming the merger with [NAME] was effective for the entire year of Year T-2, the unaudited pro forma condensed combined consolidated revenues for year ended December 31, Year T-2 would have been $8,082,000 ([COMPANY] year ended December 31, Year T-2 consolidated revenues $4,569,000, [NAME] year ended December 31, Year T-2 consolidated revenues $3,838,000 and $325,000 intercompany adjustment).
+Cost of goods sold increased $6,252,000 from $2,878,000 in Year T-2 to $9,130,000 in Year T-1 due primarily to the significant increase in product sold in Year T-1. Gross margins increased $6,274,000 to $8,960,000 in Year T-1, from $2,686,000 in Year T-2. This 233% increase was due to new sales in the infomercial market and increased sales in the equine market and nutraceutical markets. Assuming the merger with [NAME] was effective for the entire year of Year T-2, the unaudited pro forma condensed combined consolidated gross margins for the year ended December 31, Year T-2 would have been $4,351,000 ([COMPANY] year ended December 31, Year T-2 gross margins at $2,046,000 and [NAME] year ended December 31,Year T-2 gross margins at $2,305,000).
+Research and Development (R&D) expenses increased $186,000 in Year T-1 to $377,000 due to increased product development costs.
+Sales, General and Administrative (SG&A) expenses increased $2,170,000 from $3,862,000 in Year T-2 to $6,032,000 in Year T-1. The increase was mostly due to added employee-related, travel, office, commission, and other general operating expenses. Included in SG&A category is stock-based compensation for employees, directors and consultants. Stock-based compensation decreased $142,000 from $868,000 in Year T-2 to $726,000 in Year T-1. Stock-based compensation expenses decreased $420,000 from $1,511,000 in Year T-2 to $1,091,000 in Year T-1. These non-cash charges relate to issuances of common stock and common stock warrants and options in Year T-1 and Year T-2. The higher issuances of restricted stock, options and warrants during Year T-2 was deemed necessary by management to retain and compensate officers, directors, consultants and employees while conserving cash assets that would otherwise have been expended for these purposes.
+Professional fees decreased $123,000 from $1,627,000 in Year T-2 to $1,504,000 in Year T-1. In Year T-1, professional expenses were associated with consultants, accounting, [NAME] 404 compliance, legal, investor relations and stock-based compensation expenses. We incurred investor relations costs of $251,000 in Year T-1 compared to $307,000 in Year T-2, a decrease of $56,000 associated with an investor relations firm and fees associated with SEC filing requirements. Stock-based compensation on stock and warrant issues to consultants for services decreased $278,000 from $643,000 in Year T-2 to $365,000 in Year T-1
+Interest expense decreased by $889,000 to $7,000 in Year T-1 due to the payoff of a note of $2,400,000 at 7% interest compounded quarterly on October 4, Year T-2. Interest expense in Year T-1 primarily consisted of interest on a loan for equipment.
+Income tax expense is reported in selling, general and administrative expenses and consists of $5,000, $2,400 and $2,400 for the years ended December 31, Year T-1, Year T-2 and Year T-3, respectively.
+Deferred taxes arise from temporary differences in the recognition of certain expenses for tax and financial reporting purposes. At December 31, Year T-1 and Year T-2, management determined that realization of these benefits is not assured and has provided a valuation allowance for the entire amount of such benefits. At December 31, Year T-1, net operating loss carryforwards were approximately $25,018,000 for federal tax purposes that expire at various dates from Year T+4 through Year T+13 and $12,230,000 for state tax purposes that expire in Year T+3 through Year T+8.
+The Company has an unrecorded income tax benefit of $14,100,000 resulting from the exercise of options during Year T-1. This benefit can only be recognized if the net operating losses are used in future periods or if net operating losses expire, and will be recorded in equity.
+Utilization of net operating loss carry forwards may be subject to substantial annual limitations due to the “change in ownership” provisions of the Internal Revenue Code of Year T-21, as amended, and similar state regulations. The annual limitation may result in expiration of net operating loss carry forwards before utilization.
+YEAR ENDED DECEMBER 31, Year T-2 AND DECEMBER 31, Year T-3
+Due to the merger of [COMPANY] with [NAME] which occurred in the fourth quarter of Year T-2, the results of operations discussed below may not be comparable to future operations of the combined entity.
+We had a net loss of $3,872,000 for the year ended December 31, Year T-2, or $0.10 loss per share, compared to a net loss of $23,583,000 for Year T-3, or $1.18 loss per share. The net loss reduction of $19,710,000 was primarily due to reduced issuances of common stock, stock option and warrants that result in non-cash expenses, increased total revenues, and new business development in the infomercial market. There were positive trends in our domestic animal product lines primarily sold to the equine market and our domestic functional foods and nutraceutical product lines.
+Consolidated revenues for the year ended December 31, Year T-2 were $5,564,000, an increase of $4,339,000, or 354% on a comparative basis to the year ended December 31, Year T-3. T [...truncated]
+
+### Item 7A Market Risk
+Item 7A.
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+Our cash and cash equivalents have been maintained only with maturities of 30 days or less. Our short-term investments have interest reset periods of 30 days or less. These financial instruments may be subject to interest rate risk through lost income should interest rates increase during their limited term to maturity or resetting of interest rates. As of December 31, Year T-1, there was no long-term debt outstanding. Future borrowings, if any, would bear interest at negotiated rates and would be subject to interest rate risk. We do not believe that a hypothetical adverse change of 10% in interest rates would have a material effect on our financial position.
+Item 8.
+
+### Financial Statements and Notes
+Item 14.
+PRINCIPAL ACCOUNTANT FEES AND SERVICES
+Information with respect to this Item may be found in the section captioned “Principal Accountant Fees and Services” appearing in the Year T Proxy Statement and is incorporated herein by reference.
+PART IV
+Item 15.
+Item 15.
+EXHIBITS, FINANCIAL STATEMENT SCHEDULES
+(a) Exhibits.
+Exhibit
+Number
+Exhibit Description
+2.01(1)
+Plan and Agreement of Exchange.
+2.02(2)
+Agreement and Plan of Merger and Reorganization, dated as of April 4, Year T-2, by and among the [COMPANY], The [NAME] Company and [ENTITY]
+3.01.1(3)
+Restated and Amended Articles of Incorporation as filed with the Secretary of State of [PLACE] on December 13, Year T-6.
+3.01.2(4)
+Certificate of Amendment of Articles of Incorporation as filed with the Secretary of State of [PLACE] on August 4, Year T-4.
+3.01.3(5)
+Certificate of Amendment of Articles of Incorporation as filed with the Secretary of State of [PLACE] on October 31, Year T-4.
+3.01.4(4)
+Certificate of Amendment of Articles of Incorporation as filed with the Secretary of State of [PLACE] on September 29, Year T-2
+3.02(6)
+Certificate of Designation of the Rights, Preferences, and Privileges of the Series A Preferred Stock as filed with the Secretary of State of [PLACE] on December 13, Year T-6.
+3.03(7)
+Certificate of Determination, Preferences and Rights of Series B Convertible Preferred Stock as filed with the Secretary of State of [PLACE] on October 4, Year T-2.
+3.04(8)
+Certificate of Determination, Preferences and Rights of Series C Convertible Preferred Stock as filed with the Secretary of State of [PLACE] on May 10, Year T-1.
+3.05(23)
+Bylaws of [COMPANY].
+4.01(7)
+Form of warrant issued to subscribers in connection with [COMPANY]’s October Year T-2 private placement.
+4.02(8)
+Form of warrant issued to subscribers in connection with [COMPANY]’s May Year T-1 private placement.
+4.03(25)
+Form of warrant issued to subscribers in connection with [COMPANY]’s February Year T private placement
+10.01(9)
+[COMPANY] Year T-4 Stock Compensation Plan
+10.02(4)
+[COMPANY] Year T-2 Equity Incentive Plan
+10.03(7)
+Securities Purchase Agreement, dated September 28, Year T-2, by and among [COMPANY] and the investors named therein.
+10.04(7)
+Registration Rights Agreement, dated September 28, Year T-2, by and among [COMPANY] and the investors named therein.
+10.05(8)
+Securities Purchase Agreement, dated May 12, Year T-1, by and among [COMPANY] and the investors named therein.
+10.06(8)
+Registration Rights Agreement, dated May 12, Year T-1, by and among [COMPANY] and the investors named therein.
+10.07(10)±
+Private Label Supply Agreement and Strategic [COMPANY] between [COMPANY] and [NAME] Global.
+10.08(4)
+Employment Agreement between [COMPANY] and [NAME].
+10.09(4)
+Restricted Stock Agreement between [COMPANY] and [NAME]
+10.10(11)
+Executive Employment Agreement between [COMPANY] and [NAME].
+10.11(11)
+Executive Employment Agreement between [COMPANY] and [NAME].
+10.12(4)
+Executive Employment Agreement between The [NAME] Company and [NAME].
+10.13(4)
+Amendment No. 1 to Employment Agreement between [COMPANY], [NAME] and The [NAME] Company.
+10.14(4)
+Executive Employment Agreement between The [NAME] Company and [NAME] E. Lynch.
+10.15(4)
+Amendment No. 1 to Employment Agreement between [COMPANY], [NAME] E. Lynch and The [NAME] Company.
+10.16(12)
+Form of Affiliate Agreement between certain affiliates of [NAME] and [COMPANY] dated April 4, Year T-2
+10.17(11)±
+W.F. Young Distribution Agreement.
+10.18(11)±
+W.F. Young Technology Agreement.
+10.19(13)
+Stock Purchase Agreement between [COMPANY] and [ENTITY]
+10.20(4)±
+Production Facility Development and [NAME] Supply and Purchase Agreement dated September 13, Year T-2 between [COMPANY] and [ENTITY]
+10.21(4)±
+Assignment dated April 12, Year T-2 from W.[ENTITY] to [COMPANY]
+10.22(4)±
+Distribution Agreement dated April 12, Year T-2 between W.[ENTITY] and [COMPANY]
+10.23(4)
+Manufacturing Agreement dated April 12, Year T-2 between W.[ENTITY] and [COMPANY]
+10.24(4)±
+Supply and Distribution Agreement dated November 4, Year T-2 between [COMPANY] and T. [NAME] Grant.
+10.25(14)
+Commercial Lease and Deposit Receipt between [NAME] Land Company and The [NAME] Company dated December 23, Year T-16.
+10.26(14)
+First Amendment of Lease between [NAME] Land Company and The [NAME] Company dated January 19, Year T-13.
+10.27(14)
+Second Amendment of Lease between [NAME] Land Company and The [NAME] Company dated July 11, Year T-11.
+10.28(14)
+Third Amendment of Lease Agreement between [NAME] Land Company and The [NAME] Company dated February 1, Year T-9.
+10.29(14)
+Lease Agreement between [NAME] Land Company and The [NAME] Company dated July 11, Year T-11.
+10.30(14)
+First Amendment of Lease between [NAME] Land Company and The [NAME] Company dated September Year T-11.
+10.31(14)
+Second Amendment of Lease Agreement between [NAME] Land Company and The [NAME] Company dated February 1, Year T-9.
+10.32(15)
+Agreement on Exclusive Distribution in Europe between The [NAME] Company and [ENTITY] dated October 1, Year T-5.
+10.33(16)±
+[NAME] Processing, Sales, and Marketing Agreement between [NAME] Cooperative and The [NAME] Company dated May 1, Year T-5.
+10.34(17)
+The [NAME] Company Year T-10 Stock Option Plan
+10.35(14)
+Form of Directors Stock Option Agreement for The [NAME] Company.
+10.36(14)
+Form of Non-statutory Stock Option Agreement not issued under The [NAME] Company Year T-10 Stock Option Plan, governing options granted to The [NAME] Company employees.
+10.37(18)
+Form of non-statutory Stock Option Agreement issued under The [NAME] Company Year T-10 Stock Option Plan between The [NAME] Company and The [NAME] Company employees dated October 1, Year T-8.
+10.37(18)
+Form of non-statutory Stock Option Agreement issued under The [NAME] Company Year T-10 Stock Option Plan between The [NAME] Company and [NAME] Lynch dated November 1, Year T-8. Identical Agreements with Daniel [NAME], Jr. and [NAME].
+10.39(19)
+Form of Board Member Non-statutory Stock Option Agreement issued under The [NAME] Company Year T-10 Stock Option Plan between The [NAME] Company and the Board Members of the [NAME] Company dated February 22, Year T-6, September and 29, Year T-6.
+10.40(16)
+Form of Non-statutory Stock Option Agreement issued under The [NAME] Company Year T-10 Stock Option Plan between The [NAME] Company and employees dated January 2, Year T-7.
+10.41(20)
+Form of Non-statutory Stock Option Agreement issued September 23, Year T-5 between The [NAME] Company and the members of The [NAME] Company’s Board of Directors.
+10.42(20)
+Form of Non-statutory Stock Option Agreement issued July 1, Year T-3 between The [NAME] Company and Edward [NAME].
+10.43(21)
+Form of Non-statutory Stock Option Agreement issued October 18, Year T-3 between The [NAME] Company and two members of The [NAME] Company Board Directors.
+10.44(22)
+Form of Non-statutory Stock Option Agreement issued under the Year T-10 Stock Option Plan between The [NAME] Company and certain non-employee [NAME] Directors dated March 31, Year T-2.
+10.45(22)
+Form of Non-statutory Stock Option Agreement issued under the Year T-10 Stock Option Plan between The [NAME] Company and certain employees of [NAME] dated March 31, Year T-2.
+10.46(4)
+Form of Option Assumption Agreement between [COMPANY] and Option Holders relating to assumed Options granted under The [NAME] Company Year T-10 Stock Option Plan.
+10.47(4)
+Form of Option Assumption Agreement between [COMPANY] and Option Holders relating to assumed non-plan [NAME] Options.
+10.48(4)
+Form of Option Assumption Agreement between [COMPANY] and former Directors of The [NAME] Company.
+10.49(4)
+Form of Resale Restriction Agreement entered into between [COMPANY] and each of [NAME] and [NAME] E. Lynch.
+10.50(4)
+Form of Resale Restriction Agreement entered into between [COMPANY] and each of James [NAME], Edward [NAME] and Steven [NAME].
+10.51(4)
+Form of Resale Restriction Agreement entered into between [COMPANY] and each of [NAME] and David [NAME].
+10.52(10)
+Warrant Agreement between [COMPANY] and Steven [NAME] dated February 27, Year T-1.
+10.53(24)
+Form of non-statutory Stock Option Agreement between [COMPANY] and the non-employee members of the Board of Directors dated May 23, Year T-1.
+10.54(25)
+Securities Purchase Agreement, dated February 15, Year T, by and among [COMPANY] and the investors named therein.
+10.55(25)
+Registration Rights Agreement, dated February 15, Year T, by and among [COMPANY] and the investors named therein.
+10.56
+Executive Employment Agreement between [COMPANY] and [NAME].
+21.01
+List of subsidiaries.
+23.1
+Consent of [NAME], Independent Registered Public Accounting Firm.
+23.2
+Consent of [NAME] LLP, Independent Registered Public Accounting Firm.
+24.1
+Power of Attorney (See signature page.)
+31.1
+Certification by CEO pursuant to Section 302 of the Sarbanes-Oxley Act of Year T-5.
+31.2
+Certification by CEO pursuant to Section 302 of the Sarbanes-Oxley Act of Year T-5.
+32.1
+Certification by CEO pursuant to Section 906 of the Sarbanes-Oxley Act of Year T-5.
+32.2
+Certification by CFO pursuant to Section 906 of the Sarbanes-Oxley Act of Year T-5.
+±
+Confidential treatment granted as to certain portions.
+(1)
+incorporated herein by reference to exhibits previously filed on Registrant’s Current Report on Form 8-K, filed on November 19, Year T-6.
+(2)
+incorporated herein by reference to exhibits previously filed on Registrant’s Current Report on Form 8-K, filed on April 4, Year T-2.
+(3)
+incorporated herein by reference to ex [...truncated]
+
+### Item 9 Accountant Changes
+Item 9.
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE.
+None.
+Item 9A.
+
+### Item 9A Controls and Procedures
+Item 9A.
+CONTROLS AND PROCEDURES.
+Disclosure Controls and Procedures.
+We carried out an evaluation, under the supervision and with the participation of management, including our principal executive officer and principal financial officer, of the effectiveness of the design and operation of our disclosure controls and procedures (as defined under Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended) as of the end of the period covered by this annual report. Based upon that evaluation, our principal executive officer and our principal financial officer concluded that, as of December 31, Year T-1, our disclosure controls and procedures were effective to ensure that information required to be disclosed by [COMPANY] in reports filed or submitted under the Exchange Act were timely recorded, processed and reported within the time periods specified in the Securities and Exchange Commission rules and forms.
+Changes in Internal Control Over Financial Reporting.
+There was no change in our internal control over financial reporting that occurred during the period covered by this report that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+Item 9B.

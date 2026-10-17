@@ -1,0 +1,657 @@
+Excerpts from a company's annual report on Form 10-K. The company's name, other entity names, people's names and audit firms are masked; calendar years are replaced by Year T (the fiscal year of this report), Year T-1 (the prior year), and so on.
+
+## CURRENT YEAR 10-K (Year T)
+
+### Item 1A Risk Factors
+(not present in this filing)
+
+### Item 3 Legal Proceedings
+ITEM 3. LEGAL PROCEEDINGS
+[NAME] LAWSUIT
+As previously reported, [COMPANY], S.A., is a party to litigation with [COMPANY] [ENTITY] ("[NAME]"), the licensor of the [NAME] Rose trademark. The licensor has claimed damages of approximately $7.0 million and is seeking termination of the license agreement.
+In October Year T-1, [COMPANY], S.A. received notice of a judgment in favor of [NAME], which awarded damages of approximately $600,000 and which directed [COMPANY], S.A. to turn over its license to [NAME] within six months.
+[COMPANY], S.A. is appealing the judgment as it vigorously and categorically denies the claims of [NAME]. The payment of the judgment has been stayed, and [COMPANY], S.A. was allowed to continue to operate under the license agreement during the appeal process.
+In June Year T, the president of the Court of Appeal granted a petition filed by [NAME] regarding ongoing payments for royalties due to [NAME]. In the same interlocutory judgment, the president of the Court of Appeal rejected [COMPANY], S.A.'s request for the appointment of a new judicial expert. Such request was made to refute the findings of the judicial expert originally appointed by the Commercial Court, which resulted in the $600,000 judgment against [COMPANY], S.A. As a result of these further developments, [COMPANY], S.A. and its special litigation counsel then considered it likely that the judgment would be sustained and therefore, [COMPANY], S.A. recorded a charge against earnings in the second quarter of Year T for $600,000 ($260,000 after taxes and minority interest), the full amount of the judgment.
+In February Year T+1, the Court of Appeal confirmed the [NAME] claim with respect to turning over the license. In addition, the Court named an expert to proceed with additional investigations and required [COMPANY], S.A. to pay $142,000 as an advance against the damages claimed by [NAME].
+[COMPANY], S.A. will continue its appeal as it still denies the claims of [NAME]. We do not believe that such litigation will have any further material adverse effect on our financial condition or operations. As of December 31, Year T, we have fully reserved the unamortized portion of the license agreement.
+ITEM 4.
+
+### Item 7 MD&A
+ITEM 7 . MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATION
+INTRODUCTION
+We are a leading manufacturer and distributor of [COMPANY], cosmetics and personal care products. Innovation and creativity are combined to produce quality products for our customers around the world.
+We operate in the fragrance and cosmetic industry, specializing in prestige perfumes and mass market perfumes and cosmetics:
+o [NAME] products - for each prestige brand, owned or licensed by us, we develop an original concept for the perfume consistent with world market trends.
+o Mass market products - in our United States operations, we design, market and distribute inexpensive [COMPANY] and personal care products, including alternative designer [COMPANY] and mass market cosmetics.
+Year T COMPARED TO Year T-1
+In fiscal [Y2K], we set a new sales record. Net sales for the year ended December 31, Year T increased 17% to $101.6 million, as compared to $87.1 million in Year T-1. At comparable foreign currency exchange rates, net sales actually rose 30% in Year T as compared to Year T-1.
+Our sales growth is attributable to across-the-board increases in both our prestige and mass market product lines. However, the precipitous rise of the US dollar in relation to the French franc has masked our true revenue growth.
+Growth in net sales of prestige products, which was up approximately 17% in Year T, was fueled in part by the tremendous success of the recent launches of our Paul Smith and "[NAME]" fragrance lines. Paul Smith premiered in the United Kingdom in July and is presently being sold in over 450 U.K. doors. Sales ran well ahead of expectations in the initial phase of the roll out. "[NAME]", our newest [NAME] fragrance, was launched worldwide in late September Year T, and initial consumer reaction has been very favorable. Additional [Y2K] launches included our S.T. [NAME] "Signature" line, which continues to perform strongly in the Far East, and "[NAME]" by [NAME], which is very successful in France and South America.
+In addition to expanding the geographic distribution of products we launched in Year T, we have a large new product and brand extension pipeline in the works. We are leveraging the popularity of "[NAME]" by bringing to market a new bath line for men and women, scheduled for introduction later this year. In March Year T+1, Paul Smith [COMPANY] will be launched in Japan where this designer has a large and loyal fashion following and over 200 standing doors. In February Year T+1, we unveiled [NAME] "[NAME]" in the U.S. with
+an exclusive at [NAME] Fifth [NAME] 63 stores, to be followed by European distribution later this spring. Development is going well with [NAME], our second [NAME] license, and we are on target for the initial launch of two new [NAME] [COMPANY] in the fourth quarter of Year T+1.
+Net sales of our mass market products were up 17% for the year ended December 31, Year T, as compared to Year T-1. Sales growth from our wide selection of mass market [COMPANY] continues to exceed our expectations. Our new [NAME] line of cosmetics has also achieved widespread acceptance. We expect sales to continue to grow as our high volume, discount store customers open more stores, and we continue to develop new products for them. We are presently developing a line of health and beauty aids, including shampoos and conditioners.
+Growing sales within existing product lines, new product launches and an active new business development program are how we plan to continue to grow our business in the year Year T+1 and beyond. During the year ended December 31, Year T we signed an exclusive worldwide license agreement with [NAME], a division of [ENTITY] Our first line of [NAME] [COMPANY] is expected to debut in October Year T+1. Also during fiscal Year T, we signed an exclusive worldwide license agreement with [NAME] The Collection to produce and sell men's and women's [COMPANY]. We anticipate that the first [NAME] fragrance line for men and women will be launched either in the last quarter of Year T+1, or in the first quarter of Year T+2. In addition, we are actively pursuing new business opportunities. However, we cannot assure you that any new license or acquisitions will be consummated.
+Gross profit margins increased to 49% of net sales for the year ended December 31, Year T, as compared to 48% in Year T-1. Gross profit margins have continued to increase over the past four years. Part of this improvement is the result of the strength of the US dollar in relation to the Euro, as certain European sales are denominated in US dollars. In addition, our prestige fragrance lines, which have been growing at a faster rate than our mass market lines, generate a higher gross profit margin than our mass market product lines.
+Selling, general and administrative expenses increased to $37.5 million for the year ended December 31, Year T, as compared to $32.0 million in Year T-1 and represented 37% of sales in both Year T and Year T-1.
+In the United States, selling, general and administrative expenses increased to $9.8 million for the year ended December 31, Year T, as compared to $9.1 million in Year T-1, but declined to 31% of net sales in Year T, as compared to 34% of net sales in Year T-1. Our mass market sales do not require extensive advertising and therefore, more of our selling, general and administrative expenses are fixed rather than variable. As a result, the increase in sales has enabled us to spread our fixed costs over a larger net sales base.
+Selling, general and administrative expenses incurred by our French subsidiary, [COMPANY], S.A., increased to $27.7 million for the year ended December 31, Year T, as compared to $22.8 million in Year T-1. As a percentage of sales, selling, general and administrative expenses represented 39% of sales in Year T, as compared to 38% in Year T-1. Promotion and advertising are prerequisites for sales of designer products. We develop a complete marketing and promotional
+plan to support our growing portfolio of prestige fragrance brands and to build upon each brand's awareness.
+As previously reported, [COMPANY], S.A., is a party to litigation with [COMPANY] [ENTITY] ("[NAME]"), the licensor of the [NAME] Rose trademark. The licensor has claimed damages of approximately $7.0 million and is seeking termination of the license agreement.
+In October Year T-1, [COMPANY], S.A. received notice of a judgment in favor of [NAME], which awarded damages of approximately $600,000 and which directed [COMPANY], S.A. to turn over its license to [NAME] within six months.
+[COMPANY], S.A. is appealing the judgment as it vigorously and categorically denies the claims of [NAME]. The payment of the judgment has been stayed, and [COMPANY], S.A. was allowed to continue to operate under the license agreement during the appeal process.
+In June Year T, the president of the Court of Appeal granted a petition filed by [NAME] regarding ongoing payments for royalties due to [NAME]. In the same interlocutory judgment, the president of the Court of Appeal rejected [COMPANY], S.A.'s request for the appointment of a new judicial expert. Such request was made to refute the findings of the judicial expert originally appointed by the Commercial Court, which resulted in the $600,000 judgment against [COMPANY], S.A. As a result of these further developments, [COMPANY], S.A. and its special litigation counsel then considered it likely that the judgment would be sustained and therefore, [COMPANY], S.A. recorded a charge against earnings in the second quarter of Year T for $600,000 ($260,000 after taxes and minority interest), the full amount of the judgment.
+In February Year T+1, the Court of Appeal confirmed the [NAME] claim with respect to turning over the license. In addition, the Court named an expert to proceed with additional investigations and required [COMPANY], S.A. to pay $142,000 as an advance for damages claimed by [NAME].
+[COMPANY], S.A. will continue its appeal as it still denies the claims of [NAME]. We do not believe that such litigation will have any further material adverse effect on our financial condition or operations. As of December 31, Year T, we have fully reserved the unamortized portion of the license agreement.
+During the year ended December 31, Year T we sold marketable securities and realized a gain of $1.4 million ($645,000 after taxes and minority interest). On occasion, we invest excess cash in marketable securities, which are classified as available-for-sale. These funds are available to support current operations or to take advantage of other investment opportunities. At December 31, Year T, we had no remaining marketable security positions.
+Interest expense was $0.4 million for the year ended December 31, Year T, as compared to $0.3 million in Year T-1. We use the credit lines available to us, as needed, to finance our working capital needs.
+We incurred a loss on foreign currency of $0.2 million for both of our last two fiscal years. Occasionally, we enter into foreign currency forward exchange contracts to manage exposure related to certain foreign currency commitments.
+Our effective income tax rate was 42% for the year ended December 31, Year T, as compared to 40% in Year T-1. The effective tax rate for the year ended December 31, Year T includes a $480,000 ($370,000 after minority interest) accrual to cover the potential exposure related to tax audits of [COMPANY], S.A. commenced by the French Tax Authorities. If not for these accruals, the declining tax rates in France would have caused a decline in our overall effective tax rate.
+Net income increased 36% to $6.6 million for the year ended December 31, Year T, as compared to $4.8 million in Year T-1. Net income for the year ended December 31, Year T includes charges of $630,000 and a gain of $645,000, all after taxes and minority interest. The charges represent an accrual for exposure relating to the [NAME] litigation of $260,000 and a potential tax assessment of $370,000. The gain represents a realized gain on sale of marketable securities.
+After giving effect to our 3 for 2 stock split effected in June Year T, diluted earnings per share increased 27% to $0.51 for the year ended December 31, Year T, as compared to $0.40 in Year T-1. Weighted average shares outstanding aggregated 11.7 million for the year ended December 31, Year T, as compared to 11.4 million in Year T-1. On a diluted basis, average shares outstanding was 13.0 million for the year ended December 31, Year T, as compared to 12.2 million in Year T-1. Shares repurchased pursuant to our stock repurchase program, offset shares issued upon exercise of stock options. However, the increase in our stock price has increased the dilutive effect of outstanding stock options, thereby increasing diluted shares outstanding.
+Year T-1 COMPARED TO Year T-2
+Net sales for the year ended December 31, Year T-1 were $87.1 million, as compared to $89.4 million in Year T-2. At comparable foreign currency exchange rates, net sales for the year ended December 31, Year T-1 were virtually unchanged from that of Year T-2.
+These results were in line with management's expectations as no new prestige fragrance launches were scheduled for Year T-1 and we entered the year during a downward trend in our mass market product lines, which resulted from the unsteady economic situation in Eastern Europe, Brazil and other Latin American countries.
+In March Year T-1, we entered into an exclusive license agreement with the [NAME] Company, a division of [ENTITY] ("[NAME]") and a new [NAME] product line was launched in October Year T-1. In addition, in the latter part of Year T-1, the downward trend in our mass market product lines began to reverse. As a result, at comparable foreign currency exchange rates, net sales increased 17% for the three months ended December 31, Year T-1, as compared to the corresponding period of the prior year.
+We are also actively pursuing new license agreements to build upon the strength of our existing portfolio.
+Gross profit margins increased to 48% of net sales for the year ended December 31, Year T-1, as compared to 47% in Year T-2. Gross profit margins have continued to increase over the past three years. Part of the gross profit margin improvement is the result of the strength of the US dollar relative to the Euro, as certain European sales are denominated in US dollars. Our prestige fragrance lines also generate a higher gross profit margin than our mass market product lines and these gross profit margin benefits have offset the negative affect of lower margin mass market product sales and closeout sales.
+Selling, general and administrative expenses declined to $32.0 million for the year ended December 31, Year T-1, as compared to $32.9 million in Year T-2. Selling, general and administrative expenses represented 37% of sales in both Year T-1 and Year T-2.
+In the United States, selling, general and administrative expenses declined 20% to $9.1 million for the year ended December 31, Year T-1, as compared to $11.4 million in Year T-2, and declined to 34% of net sales in Year T-1, as compared to 37% of net sales in Year T-2. As a result of the weakness in domestic mass market product sales experienced in early Year T-1, we instituted extraordinarily tight controls in an effort to keep spending in line with sales.
+Selling, general and administrative expenses incurred by our French subsidiary, [COMPANY], S.A., were $22.8 million for the year ended December 31, Year T-1, as compared to $21.5 million in Year T-2. Some savings has been achieved in distribution and freight costs. However, a reasonable level of advertising is necessary to support our growing portfolio of prestige fragrance brands and to build upon each brand's awareness.
+Interest expense was $0.3 million for the year ended December 31, Year T-1, as compared to $0.5 million in Year T-2. We use the credit lines available to us, as needed, to finance our working capital needs.
+We incurred a loss on foreign currency of $0.2 million for the year ended December 31, Year T-1, as compared to $0.1 million in Year T-2. Occasionally, we enter into foreign currency forward exchange contracts to manage exposure related to certain foreign currency commitments.
+Our effective income tax rate was 40% for the year ended December 31, Year T-1, as compared to 39% in Year T-2. The effective tax rate for Year T-2 reflects the positive effects of the tax benefit to be realized upon the closing of our Brazilian subsidiary.
+Net income increased 5% to $4.8 million for the year ended December 31, Year T-1, as compared to $4.6 million in Year T-2. Earnings per diluted share increased to $0.40 for the year ended December 31, Year T-1, as compared to $0.35 in Year T-2.
+Weighted average shares outstanding aggregated 11.4 million for the year ended December 31, Year T-1, as compared to 13.1 million in Year T-2. On a diluted basis, average shares
+outstanding was 12.2 million for the year ended December 31, Year T-1, as compared to 13.3 million in Year T-2. The declines are the result of our common stock repurchase program.
+LIQUIDITY AND FINANCED RESOURCES
+Our financial position remains very strong as a result of continued profitable operating results. At December 31, Year T, working capital aggregated $57 million and we had a working capital ratio of almost 3 to 1. Cash and marketable securities on hand aggregated $28 million and our net book value was $4.72 per outstanding share as of December 31, Year T. Furthermore, we had only $1.4 million in long-term debt.
+On occasion we use a portion of our cash to make investments in marketable equity securities classified as available-for-sale. These funds are available to support current operations or to take advantage of other investment opportunities. These investments are made to maximize our return on cash. As of December 31, Year T we had no marketable security positions.
+During the year ended December 31, Year T, we continued our stock repurchase program by acquiring 343,600 of our common shares at an average cost of $8.19 per share. We believe that our stock price does not reflect our growth rate, prospects for future growth, the value of our licenses and our worldwide distribution network. In addition, the market capitalization of our 78% ownership interest in [COMPANY], S.A., our publicly traded Paris subsidiary, is in excess of $150 million, which is significantly higher than that of the company as a whole.
+Our short-term financing requirements are expected to be met by available cash at December 31, Year T, cash generated by operations and short-term credit lines provided by domestic and foreign banks. The principal credit facilities for Year T+1 are a $12.0 million unsecured revolving line of credit provided by a domestic commercial bank and approximately $12.0 million in credit lines provided by a consortium of international financial institutions.
+During the year ended December 31, Year T we generated $0.2 million in cash from operating activities, as compared to $12.6 million in Year T-1. At December 31, Year T accounts receivable increased 18%, as compared to December 31, Year T-1, which is in line with our 17% increase in net sales. In addition, inventories rose 30% as a result of a planned buildup to support all of the recent new product launches and to prepare for anticipated revenue growth.
+We believe that funds generated from operations, supplemented by our present cash position and available credit facilities, will provide us with sufficient resources to meet all present and reasonably foreseeable future operating needs.
+In January Year T-1, certain member countries of the European Union established permanent fixed rates between their existing currencies and the European [NAME] common currency, the Euro. The transition period for the introduction of the Euro is scheduled to be completed by January 1, Year T+2. However, we do not expect the introduction of the Euro and the phasing out of other currencies to have a material impact on our consolidated financial statements.
+Inflation rates in the U.S. and foreign countries in which we operate did not have a significant impact on operating results for the year ended December 31, Year T.
+FORWARD LOOKING STATEMENTS
+Statements in this document, which are not historical in nature, are forward-looking statements. Forward-looking statements involve known and unknown risks, uncertainties and other factors that may cause the actual results to be materially different from projected results. Given these risks, uncertainties and other factors, persons are cautioned not to place undue reliance on the forward-looking statements.
+Such factors include effectiveness of sales and marketing efforts and product acceptance by consumers, dependence upon management, competition, currency fluctuation and international tariff and trade barriers, governmental regulation and possible liability for improper comparative advertising or "Trade [NAME]".
+ITEM 7A.
+
+### Item 7A Market Risk
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+GENERAL
+We address certain financial exposures through a controlled program of risk management that primarily consists of the use of derivative financial instruments. We primarily enter into foreign currency forward exchange contracts in order to reduce the effects of fluctuating foreign currency exchange rates. We have entered into one (1) interest rate swap in an attempt to take advantage of low variable interest rates as compared to the fixed rate on our long term debt. We do not engage in the trading of foreign currency forward exchange contracts or interest rate swaps.
+FOREIGN EXCHANGE RISK MANAGEMENT
+We enter into forward exchange contracts to hedge receivables denominated in foreign currencies for periods consistent with our identified exposures. The purpose of the hedging activities is to minimize the effect of foreign exchange rate movements on the receivables and cash flows of [COMPANY], S.A., our French subsidiary, whose functional currency is French francs. All foreign currency contracts are denominated in currencies of major industrial countries and are with large financial institutions, which are rated as strong investment grade. Gains and losses related to qualifying hedges of these exposures are deferred and recognized in operating income when the underlying hedged transaction occurs.
+We believe that our risk of loss as the result of nonperformance by any of such financial institutions is remote and in any event would not be material. The contracts have varying maturities with none exceeding one year. Costs associated with entering into such contracts have not been material to our financial results. At December 31, Year T, we had foreign currency contracts in the form of forward exchange contracts in the amount of approximately $9 million.
+The foreign currencies included in these contracts are principally the U.S. dollar and the British pound.
+INTEREST RATE RISK MANAGEMENT
+We mitigate interest rate risk by continually monitoring interest rates, and then determining whether fixed interest rates should be swapped for floating rate debt, or if floating rate debt should be swapped for fixed rate debt. We have entered into one (1) interest rate swap to take advantage of declining interest rates. At December 31, Year T we had one (1) interest rate swap agreement outstanding to convert $1.4 million of principal fixed rate debt with an interest rate of 4.56% to floating interest rate debt, at the [NAME] rate, over the life of our long term debt due in Year T+5. At December 31, Year T, the [NAME] rate was 4.9%. If interest rates were to rise 1% per annum over the remaining term of the long term debt, then we would incur a loss of $50,000.
+ITEM 8.
+
+### Financial Statements and Notes
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K
+(a)(1) Financial Statements annexed hereto Page No.
+Independent Auditors' Reports
+Consolidated Balance Sheets as at December 31, Year T and December 31, Year T-1
+Consolidated Statements of Income for the Years ended December 31, Year T, December 31, Year T-1 and December 31, Year T-2
+Consolidated Statements of Changes in Shareholders' Equity for the Years ended December 31, Year T, December 31, Year T-1 and December Year T-2
+Consolidated Statements of Cash Flows for the Years ended December 31, Year T, December 31, Year T-1 and December 31, Year T-2
+Notes to Financial Statements
+(a)(2) Financial Statement Schedules annexed hereto:
+Schedule II - Valuation and Qualifying Accounts and Reserves
+Schedules other than those referred to above have been omitted as the conditions requiring their filing are not present or the information has been presented elsewhere in the consolidated financial statements.
+(a)(3) Exhibits
+The following documents heretofore filed with the Commission are incorporated herein by reference to the Company's Current Report on Form 8-K (date of event - January 18, Year T-10), as follows:
+EXHIBIT NO. AND DESCRIPTION
+10.13 License Agreement between the Company and [NAME] dated January 18, Year T-10 (as no. 10.1 therein).
+10.15 Letter of Indemnification from [NAME] to the Company dated January 18, Year T-10 (as no. 10.3 therein)
+10.16 Letter Agreement from [NAME] to the Company regarding foreign license rights dated January 18, Year T-10 (as no. 10.4 therein).
+The following document heretofore filed with the Commission is incorporated herein by reference to the Company's Current Report on Form 8-K (date of event - July 29, Year T-9), as follows:
+EXHIBIT NO. AND DESCRIPTION
+10.24 Agreement and Plan of Reorganization dated July 29, Year T-9 among the Company, [COMPANY] [NAME] and [COMPANY] [NAME] (as No. 10.1 therein)
+The following document heretofore filed with the Commission is incorporated by reference to the Company's Annual Report on Form 10-K for the fiscal year ended December 31, Year T-9:
+EXHIBIT NO. AND DESCRIPTION
+10.25 Employment Agreement between the Company and [COMPANY] [NAME] dated July 29, Year T-9
+The following documents heretofore filed with the Commission is incorporated by reference to the Company's Registration Statement on Form S-1 (No. 33-48811):
+EXHIBIT NO. AND DESCRIPTION
+10.26 Lease for portion of 15th Floor, 551 [PLACE], [PLACE]
+The following documents heretofore filed with the Commission are incorporated by reference to the Company's Annual Report on Form 10-K for the fiscal year ended December 31, Year T-8:
+EXHIBIT NO. AND DESCRIPTION
+4.10 Amendment to Year T-8 Stock Option Plan
+4.11 Year T-7 Stock Option Plan
+The following documents heretofore filed with the Commission are incorporated herein by reference to the Company's Current Report on Form 8-K (date of event - July 15, Year T-7), as follows:
+EXHIBIT NO. AND DESCRIPTION
+10.30 License Agreement dated July 15, Year T-7, among [ENTITY], [COMPANY], S.A. and [COMPANY].(1)
+10.31 License Agreement dated May 7, Year T-7, between [COMPANY]-[ENTITY] and [COMPANY], S.A. (original in French)(1)
+10.32 License Agreement dated May 7, Year T-7, between [COMPANY]-[ENTITY] and [COMPANY], S.A.(translation of French into English)(1)
+10.33 Agreement dated July 14, Year T-7, between [ENTITY] and [COMPANY], S.A.(1)
+10.34 Agreement dated July 16, Year T-7 among [COMPANY], S.A., [COMPANY]., [ENTITY] and [ENTITY]
+10.35 Distribution Agreement dated July 16, Year T-7 among [COMPANY], S.A., [COMPANY]. and [ENTITY](1)
+The following documents heretofore filed with the Commission are incorporated herein by reference to the Company's Current Report on Form 8-K (date of event - February 28, Year T-6), as follows:
+- ---------------------
+(1) Filed in excised form.
+EXHIBIT NO. AND DESCRIPTION
+10.36 [NAME] de [NAME] de Commerce between [COMPANY], S.A. and [NAME] et [COMPANY] de [NAME].[ENTITY] dated February 18, Year T-6 (re: [COMPANY] [NAME])
+10.37 [NAME] de [NAME] de Commerce between [COMPANY], S.A. and [NAME] et [COMPANY] de [NAME].[ENTITY] dated February 18, Year T-6 (re: [COMPANY] [NAME])
+10.38 Agreement (Acquisition) among [COMPANY]., [COMPANY], S.A. and [NAME] et [COMPANY] de [ENTITY] dated February 18, Year T-6
+10.39 [NAME] Agreement among [COMPANY]., [COMPANY], S.A. and [NAME] et [COMPANY] de [NAME].[ENTITY] dated February 18,
+10.40 Commission Agreement among [COMPANY]., [COMPANY], S.A. and [ENTITY] dated February 18, Year T-6
+10.41 [NAME] between [COMPANY], S.A. and [NAME] et [COMPANY] de [NAME].[ENTITY] dated February 18, Year T-6 (re inventory purchase)
+10.42 [NAME] de [NAME] among [NAME] et [COMPANY] de [ENTITY], [NAME] et [COMPANY] de [NAME].[ENTITY], [ENTITY], [COMPANY]. and [COMPANY], S.A. dated February 18, Year T-6 (re security agreement)
+10.43 [NAME] among [NAME] et [COMPANY] de [NAME].[ENTITY], [NAME] et [COMPANY] de [ENTITY], [COMPANY]. and [COMPANY], S.A. and [ENTITY] dated February 18, Year T-6 (re French regulatory requirements)
+10.44 Acquisition Agreement among [COMPANY]., [ENTITY] and [ENTITY] dated March 2, Year T-6
+The following documents heretofore filed with the Commission are incorporated herein by reference to the Company's Form 8 Amendment no. 1 (dated March 14, Year T-6) to the Current Report on Form 8-K (date of event - February 28, Year T-6), as follows:
+EXHIBIT NO. AND DESCRIPTION
+10.46. English translation of exhibit no. 10.36, [NAME] de [NAME] de Commerce between [COMPANY], S.A. and [NAME] et [COMPANY] de [NAME].[ENTITY] dated February 18, Year T-6 (re: [COMPANY] [NAME])
+10.47. English translation of exhibit no. 10.37, [NAME] de [NAME] de Commerce between [COMPANY], S.A. and [NAME] et [COMPANY] de [NAME].[ENTITY] dated February 18, Year T-6 (re: [COMPANY] [NAME])
+10.48. English translation of exhibit no. 10.41, [NAME] between [COMPANY], S.A. and [NAME] et [COMPANY] de [NAME].[ENTITY] dated February 18, Year T-6 (re inventory purchase)
+10.49. English translation of exhibit no. 10.42, [NAME] de [NAME] among [NAME] et [COMPANY] de [ENTITY], [NAME] et [COMPANY] de [NAME].[ENTITY], [ENTITY], [COMPANY]. and [COMPANY], S.A. dated February 18, Year T-6 (re security agreement)
+The following document heretofore filed with the Commission is incorporated herein by reference to the Company's Form 8 Amendment no. 2 (dated March 21, Year T-6) to the Current Report on Form 8-K (date of event - February 28, Year T-6), as follows:
+EXHIBIT NO. AND DESCRIPTION
+10.50. English translation of exhibit no. 10.43, [NAME] among [NAME] et [COMPANY] de [NAME].[ENTITY], [NAME] et [COMPANY] de [ENTITY], [COMPANY]. and [COMPANY], S.A. and [ENTITY] dated February 18, Year T-6 (re French regulatory requirements)
+The following documents heretofore filed with the Commission are incorporated by reference to the Company's Annual Report on Form 10-K for the fiscal year ended December 31, Year T-7:
+EXHIBIT NO. AND DESCRIPTION
+3.3 Articles of Incorporation of [COMPANY] [ENTITY]
+3.3.1 English Translation of Exhibit no. 3.3, Articles of Incorporation of [COMPANY] [ENTITY]
+3.4 Articles of Incorporation of [COMPANY], S.A.
+3.4.1 English Translation of Exhibit no. 3.4, Articles of Incorporation of [COMPANY], S.A.
+4.15 Year T-6 [NAME] Director Stock Option Plan
+10.51 [NAME] dated July 30, Year T-7 (Reorganization Agreement between [COMPANY], S.A. and [ENTITY])
+10.51.1 English translation of Exhibit no. 10.51, [NAME] dated July 30, Year T-7 (Reorganization Agreement between [COMPANY], S.A. and [ENTITY])
+10.52 Lease for portion of 4, [NAME] Point [NAME] dated September 30, Year T-7
+10.52.1 English translation of Exhibit no. 10.52, Lease for portion of 4, [NAME] Point [NAME] dated September 30, Year T-7
+10.53 Lease for portion of 4, [NAME] Point [NAME] dated March 2,
+10.53.1 English translation of Exhibit no. 10.53, Lease for portion of 4, [NAME] Point [NAME] dated March 2, Year T-6
+The following documents heretofore filed with the Commission are incorporated by reference to the Company's Annual Report on Form 10-K for the fiscal year ended December 31, Year T-6:
+4.16 Year T-6 [NAME] Director Supplemental Stock Option Plan (Listed as no. 4.15 therein)
+10.59 Modification of Lease Agreement dated June 17, Year T-6 between Metropolitan Life Insurance Company and [COMPANY].
+The following documents heretofore filed with the Commission are incorporated by reference to the Company's Annual Report on Form 10-K for the fiscal year ended December 31, Year T-5:
+EXHIBIT NO. AND DESCRIPTION
+10.61 Lease for 60 [NAME] Road, South Brunswick, NJ between [NAME] Industrial Complex, a limited partnership, and [COMPANY]. dated July 10, Year T-5
+The following documents heretofore filed with the Commission are incorporated by reference to the Company's Annual Report on Form 10-K for the fiscal year ended December 31, Year T-4:
+EXHIBIT NO. AND DESCRIPTION
+10.65 Asset Repurchase Agreement between [ENTITY] and [COMPANY]. dated March 27, Year T-3
+The following documents heretofore filed with the Commission are incorporated by reference to the Company's Annual Report on Form 10-K for the fiscal year ended December 31, Year T-3:
+EXHIBIT NO. AND DESCRIPTION
+10.67 Second Modification of Lease made as of the 30th day of April, Year T-3 between Metropolitan Life Insurance Company as landlord and [COMPANY]. as tenant.
+10.68 Amendment I to License Agreement dated September 3, Year T-3 between [ENTITY] as [NAME] and [COMPANY]. as Licensee.
+10.69 Exclusive [NAME] Agreement dated June 20, Year T-3 between S.[ENTITY] and [COMPANY] (English translation, excised version)
+The following documents heretofore filed with the Commission are incorporated by reference to the Company's Annual Report on Form 10-K for the fiscal year ended December 31, Year T-2:
+EXHIBIT NO. AND DESCRIPTION
+3.2 Amended and Restated By-laws
+4.17 Year T-3 [NAME] Director Stock Option Plan
+4.18 Year T-1 Stock Option Plan
+10.70 [NAME] Agreement among [ENTITY], [COMPANY], S.A. and [COMPANY]-[COMPANY] [COMPANY], Inc. (excised version)
+10.71 [NAME] Agreement between [NAME], a division of Group [NAME] and [COMPANY], S.A (English translation, excised version)
+The following documents heretofore filed with the Commission are incorporated by reference to the Company's current report on Form 8-K (date of event - November 22, Year T-1):
+EXHIBIT NO. AND DESCRIPTION
+4.2 [NAME] Agreement among [ENTITY], [COMPANY] [NAME] and [COMPANY] [NAME] dated November 22, Year T-1.
+99.1 Stock Purchase Agreement among [ENTITY], [COMPANY] [NAME] and [COMPANY] [NAME] dated November 22, Year T-1.
+The following documents heretofore filed with the Commission are incorporated by reference to the Company's Annual Report on Form 10-K for the fiscal year ended December 31, Year T-1:
+EXHIBIT NO. AND DESCRIPTION
+3.1.4 Amendment to the Company's Restated Certificate of Incorporation, as amended, dated July 13, Year T-1 (listed therein as 3.1(d))
+10.73 [NAME] Confidential Treatment Agreement dated 8 February, Year T
+10.74 [NAME] Amendment dated February, Year T (filed in excised form)
+The following documents heretofore filed with the Commission are incorporated by reference to the Company's current report on Form 8-K/A no. 1 (date of event - 18 May Year T):
+10.76 [NAME] License Agreement [in French]- excised.
+10.76.1 [NAME] License Agreement [English translation]- excised.
+The following document heretofore filed with the Commission is incorporated by reference to the Company's current report on Form 8-K/A no. 1 (date of event - 23 June Year T):
+10.77 [NAME] Agreement for [NAME] [COMPANY], dated June 22, Year T - excised.
+The following document heretofore filed with the Commission is incorporated by reference to the Company's quarterly report on Form 10-Q for the period ending 30 June Year T:
+3.1.5 Amendment to the Company's Restated Certificate of Incorporation, as amended, dated 12 July Year T (listed therein as 3.1(e))
+The following documents are filed herewith:
+EXHIBIT NO. AND DESCRIPTION
+3.1.1 Restated Certificate of Incorporation dated September 3, Year T-13
+3.1.2 Amendment to the Company's Restated Certificate of Incorporation dated July 31, Year T-8
+3.1.3 Amendment to the Company's Restated Certificate of Incorporation dated July 9, Year T-7
+4.19 Year T [NAME] Director Stock Option Plan
+10.78 Revolving Credit Agreement dated June 1, Year T between [NAME] Bank USA and [COMPANY].
+10.79 [NAME] [Lease] for 18 avenue Franklin [NAME], Paris France [French Original]
+10.79.1 [NAME] [Lease] for 18 avenue Franklin [NAME], Paris France [English Translation]
+10.80 Credit [NAME] Letter Agreement dated 22 March Year T+1 - [French Original]
+10.80.1 Credit [NAME] Letter Agreement dated 22 March Year T+1 - [English Translation]
+10.81 [NAME] Bank Letter Agreement dated 4 June Year T-2 - [French Original]
+10.81.1 [NAME] Bank Letter Agreement dated 4 June Year T-2 - [English Translation]
+10.82 [NAME] Letter Agreement one dated 31 July Year T-2 - [French Original]
+10.82.1 [NAME] Letter Agreement one dated 31 July Year T-2 - [English Translation]
+10.83 [NAME] Letter Agreement two dated 31 July Year T-2 - [French Original]
+10.83.1 [NAME] Letter Agreement two dated 31 July Year T-2 - [English Translation]
+10.84 [NAME] Letter Agreement dated 22 December Year T-3 - [French Original]
+10.84.1 [NAME] Letter Agreement dated 22 December Year T-3 - [English Translation]
+10.85 Credit [NAME] de France Letter Agreement dated 19 June Year T-4 - [French Original]
+10.85.1 Credit [NAME] de France Letter Agreement dated 19 June Year T-4 - [English Translation]
+21 List of Subsidiaries
+(b) Reports on Form 8-K: None.
+INDEPENDENT AUDITORS' REPORT
+Board of Directors and Shareholders [COMPANY]. and [PLACE]
+We have audited the accompanying consolidated balance sheets of [COMPANY]. and subsidiaries as of December 31, Year T and Year T-1, and the related consolidated statements of income, changes in shareholders' equity and cash flows for each of the years in the three-year period ended December 31, Year T. These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on these financial statements based on our audits. We did not audit the financial statements of [COMPANY] [ENTITY] and subsidiaries, consolidated subsidiaries of the Company, which statements reflect total assets and net sales constituting 68% and 69% for Year T and 66% and 69% for Year T-1 and net sales constituting 66% for Year T-2. Those statements were audited by other auditors whose reports have been furnished to us, and our opinion, insofar as it relates to the amounts for [COMPANY] [ENTITY] and subsidiaries, is based solely on the reports of the other auditors.
+We conducted our audits in accordance with auditing standards generally accepted in the United States of America. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements. An audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation. We believe that our audits and the reports of the other auditors provide a reasonable basis for our opinion.
+In our opinion, based on our audits and the reports of the other auditors, the financial statements enumerated above present fairly, in all material respects, the consolidated financial position of [COMPANY]. and subsidiaries as of December 31, Year T and Year T-1, and the consolidated results of their operations and their consolidated cash flows for each of the years in the three-year period ended December 31, Year T in conformity with accounting principles generally accepted in the United States of America.
+Our audits referred to above included Schedule II for each of the years in the three-year period ended December 31, Year T. In our opinion, such schedule presents fairly the information set forth therein in accordance with the applicable accounting regulations of the Securities and Exchange Commission.
+Richard A. [NAME] & Company, LLP
+[PLACE] February 28, Year T+1
+With respect to accounts for foreign subsidiaries March 19, Year T+1
+[COMPANY] [ENTITY] AND SUBSIDIARIES -------------------------------------------- INDEPENDENT AUDITORS' REPORT ----------------------------
+We have audited the accompanying consolidated balance sheets of [COMPANY] [ENTITY] and subsidiaries as of December 31, Year T and Year T-1, and the related consolidated statements of income, shareholders' equity, and cash flows for the year ended December 31, Year T, Year T-1 and Year T-2. These consolidated financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on these financial statements based on our audit.
+We conducted our audit in accordance with generally accepted auditing standards in the United States. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement. An audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements. An audit also includes assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation. We believe that our audit provides a reasonable basis for our opinion.
+In our opinion, the consolidated financial statements enumerated above present fairly, in all material respects, the financial position of [COMPANY] [ENTITY] and subsidiaries as of December 31, Year T and Year T-1, and the results of their operations and their cash flows for the years ended December 31, Year T, Year T-1 and Year T-2 in conformity with accounting principles generally accepted in the United States.
+Paris [NAME] DeFense, March 19, Year T+1
+[NAME]
+International
+[NAME]
+[COMPANY]. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS (in thousands except share and per share data)
+DECEMBER 31, -------------------- Year T Year T-1 -------- -------- ASSETS Current assets: Cash and cash equivalents $ 27,599 $ 24,936 Marketable securities (Note B) 4,424 Accounts receivable, net of allowances of $2,067 and $2,095 in Year T and Year T-1, respectively 30,844 26,033 Inventories (Notes A and C) 25,340 19,450 Receivables, other 497 875 Other 1,808 1,169 Deferred tax benefit (Note K) 435 858 -------- --------
+Total current assets 86,523 77,745
+Equipment and leasehold improvements, net (Notes A and D) 3,162 3,126 Other assets 347 508 Trademarks and licenses, net (Notes A, E and L) 4,539 5,844 -------- --------
+$ 94,571 $ 87,223 ======== ========
+LIABILITIES Current liabilities: Loans payable - banks (Note F) $ 2,542 $ 787 Accounts payable 18,224 18,449 Accrued expenses 6,961 4,351 Income taxes payable 1,108 768 -------- --------
+Total current liabilities 28,835 24,355 -------- --------
+Deferred tax liability (Note K) 684 988 -------- --------
+Long-term debt (Note G) 1,417 1,531 -------- --------
+Minority interest 8,574 7,988 -------- --------
+Commitments and contingencies (Notes H and L)
+SHAREHOLDERS' EQUITY (Notes I and L)
+Preferred stock, $.001 par value; authorized 1,000,000 shares; none issued Common stock, $.001 par value; authorized 30,000,000 shares; outstanding 11,676,277 and 11,832,721 shares in Year T and Year T-1, respectively 12 12 Additional paid-in capital 27,728 26,518 Retained earnings 58,669 52,080 Accumulated other comprehensive income (6,574) (4,290) Treasury stock, at cost 5,736,405 and 5,392,805 shares in Year T and Year T-1, respectively (24,774) (21,959) -------- --------
+Total shareholders' equity 55,061 52,361 -------- --------
+$ 94,571 $ 87,223 ======== ========
+SEE NOTES TO FINANCIAL STATEMENTS
+[COMPANY]. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF INCOME (in thousands except share and per share data)
+SEE NOTES TO FINANCIAL STATEMENTS
+[COMPANY]. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS' EQUITY (in thousands except share data)
+SEE NOTES TO FINANCIAL STATEMENTS
+[COMPANY]. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS (in thousands)
+SEE NOTES TO FINANCIAL STATEMENTS
+[COMPANY]. AND SUBSIDIARIES
+NOTES TO FINANCIAL STATEMENTS DECEMBER 31, Year T AND Year T-1 (in thousands except share and per share data)
+NOTE A - THE COMPANY AND ITS SIGNIFICANT ACCOUNTING POLICIES
+[1] BUSINESS OF THE COMPANY:
+The Company is a manufacturer and distributor of prestige brand name [COMPANY] and mass market [COMPANY] and cosmetics.
+[2] BASIS OF PREPARATION:
+The consolidated financial statements include the accounts of [COMPANY]. and its domestic and foreign subsidiaries (the "Company") including a subsidiary whose stock is publicly traded in France. All material intercompany balances and transactions have been eliminated.
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+[3] FOREIGN CURRENCY TRANSLATION:
+For foreign subsidiaries that operate in a foreign currency, assets and liabilities are translated to U.S. dollars at year-end exchange rates. Income and expense items are translated at average rates of exchange prevailing during the year. Gains and losses from translation adjustments are accumulated in a separate component of shareholders' equity. In instances where the financial statements of foreign entities are remeasured into their functional currency (U.S. dollars), the remeasurement adjustment is recorded in operations.
+[4] CASH EQUIVALENTS:
+All highly liquid investments purchased with a maturity of three months or less are considered to be cash equivalents.
+[5] MARKETABLE SECURITIES:
+All marketable securities are classified as available-for-sale and are available to support current operations or to take advantage of other investment opportunities. These securities are stated at fair value based upon market quotes. Unrealized holding gains and losses, net of deferred taxes, are computed on the basis of specific identification and are reported as a separate component of shareholders' equity. Realized gains and losses, and decreases in value, judged to be other than temporary, are included in other charges (income). The cost of securities sold is based on the specific identification method and interest and dividend income is recognized when earned.
+[6] FINANCIAL INSTRUMENTS:
+The carrying amount of accounts receivable, other receivables, accounts payable and accrued expenses approximates fair value due to the short terms to maturity of these instruments. The carrying amount of loans payable and long-term debt approximates fair value as the interest rates on the Company's indebtedness approximate current market rates.
+[COMPANY]. AND SUBSIDIARIES
+NOTES TO FINANCIAL STATEMENTS DECEMBER 31, Year T AND Year T-1 (in thousands except share and per share data)
+NOTE A - THE COMPANY AND ITS SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+[6] FINANCIAL INSTRUMENTS: (CONTINUED)
+The Company occasionally enters into foreign currency forward exchange contracts to manage exposure related to certain foreign currency commitments. Gains and losses on foreign currency transaction hedges are recognized in income and offset the foreign exchange gains and losses on the underlying transactions. Gains and losses of foreign currency firm commitment hedges are deferred and included in the basis of the transactions underlying the commitment. At December 31, Year T, the Company had foreign currency contracts in the form of forward exchange contracts in the amount of approximately $9,000. The currencies included in these contracts are principally the United States dollar and the British pound.
+[7] EURO CONVERSION:
+In January Year T-1, certain member countries of the European Union established permanent fixed rates between their existing currencies and the European [NAME] common currency (the "Euro"). The transition period for the introduction of the Euro is scheduled to phase in over a period ending January 1, Year T+2. The introduction of the Euro and the phasing out of the other currencies should not have a material impact on the presentation of data in the Company's consolidated financial statements.
+[8] INVENTORIES:
+Inventories are stated at the lower of cost (first-in, first-out) or market.
+[9] EQUIPMENT AND LEASEHOLD IMPROVEMENTS:
+Equipment and leasehold improvements are stated at cost less accumulated depreciation and amortization. Depreciation and amortization are provided using the straight-line method and the declining-balance method over the estimated useful asset lives for equipment, which range between three and ten years and the shorter of the lease term or estimated useful asset lives for leasehold improvements.
+[10] TRADEMARKS AND LICENSES:
+Trademarks are stated at cost and are amortized by the straight-line method over 20 years. The cost of licenses acquired is being amortized by the straight-line method over the term of the respective licenses.
+The Company reviews trademarks and licenses for impairment whenever events or changes in circumstances indicate that the carrying amount may not be recoverable.
+[11] REVENUE RECOGNITION:
+Revenue is recognized upon shipment of merchandise as sales are final upon shipment to customers. The Company, at its discretion, permits limited returns of merchandise and establishes allowances for estimated returns based upon historic trends.
+[12] ISSUANCE OF COMMON STOCK OF SUBSIDIARY:
+The difference between the Company's share of the proceeds received by the subsidiary and the carrying amount of the portion of the Company's investment sold is reflected as a gain or loss in the consolidated statements of income.
+[COMPANY]. AND SUBSIDIARIES
+NOTES TO FINANCIAL STATEMENTS DECEMBER 31, Year T AND Year T-1 (in thousands except share and per share data)
+NOTE A - THE COMPANY AND ITS SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+[13] STOCK-BASED COMPENSATION:
+The provisions of Statement of Financial Accounting Standards No. [#], "Accounting for Stock-Based Compensation" ("SFAS No. [#]") allow companies to either expense the estimated fair value of employee stock options or to follow the intrinsic value method set forth in APB Opinion [#], "Accounting for Stock Issued to Employees" ("APB [#]") but to disclose the pro forma effects on net income had the fair value of the option been expensed. The Company has elected to continue to apply APB [#] in accounting for its stock option incentive plans.
+[14] EARNINGS PER SHARE:
+Basic earnings per share are computed using the weighted average number of shares outstanding during each year. Diluted earnings per share are computed using the weighted average number of shares outstanding during each year, plus the incremental shares outstanding assuming the exercise of dilutive stock options.
+[15] RECENT ACCOUNTING PRONOUNCEMENTS:
+The Financial Accounting Standards Board has issued a new standard. Statement of Financial Accounting Standards No. [#] ("SFAS [#]"), accounting for Derivative Instruments and Hedging Activities, which becomes effective for years beginning after June 15, Year T, requires that every derivative instrument be recorded in the balance sheet as either an asset or liability measured at its fair value. The statement requires that changes in the derivative's fair value be recognized in earnings unless specific hedge accounting criteria are met. The Company believes that the effect of adoption of SFAS [#] will not be material to the Company's financial statements.
+NOTE B - MARKETABLE SECURITIES
+Marketable securities represent equity securities classified as available-for-sale. At December 31, Year T-1, such securities had a cost of $3,792 and a gross unrealized gain of $850 ($392 net of taxes of $341 and minority interest of $117), respectively. During the year ended December 31, Year T all marketable securities were sold and a gain of $1,396 was realized. For the year ended December 31, Year T-1, there were no sales of marketable securities and, therefore, no gains or losses were realized.
+NOTE C - INVENTORIES
+DECEMBER 31, ----------------- Year T Year T-1 ------- ------- Raw materials and component parts $ 8,775 $ 8,239 Finished goods 16,565 11,211 ------- -------
+$25,340 $19,450 ======= =======
+[COMPANY]. AND SUBSIDIARIES
+NOTES TO FINANCIAL STATEMENTS DECEMBER 31, Year T AND Year T-1 (in thousands except share and per share data)
+NOTE D - EQUIPMENT AND LEASEHOLD IMPROVEMENTS
+DECEMBER 31, --------------- Year T Year T-1 ------ ------
+Equipment $7,998 $6,667 Leasehold improvements 382 383 ------ ------
+8,380 7,050 Less accumulated depreciation and amortization 5,218 3,924 ------ ------
+$3,162 $3,126 ====== ======
+NOTE E - TRADEMARKS AND LICENSES
+DECEMBER 31, --------------- Year T Year T-1 ------ ------ Trademarks $6,628 $7,013 Licenses 2,577 2,786 ------ ------
+9,205 9,799 Less accumulated amortization 4,666 3,955 ------ ------
+$4,539 $5,844 ====== ======
+NOTE F - LOANS PAYABLE - BANKS
+Loans payable-bank represent borrowings by the Company's foreign subsidiaries under several bank overdraft facilities bearing interest at 0.6% above the [NAME] rate (4.9% and 3.3% at December 31, Year T and Year T-1, respectively). Outstanding amounts totaled $2,542 and $787 at December 31, Year T and Year T-1, respectively.
+NOTE G - LONG-TERM DEBT
+As of December 31, Year T and Year T-1, long-term debt represents borrowings by a foreign subsidiary of $1,417 and $1,531, respectively, due in Year T+4. The debt agreement requires interest payable monthly at 4.56%, however, the Company entered into a Swap agreement with the bank effectively converting the interest to a variable rate equal to the [NAME] rate (4.9% at December 31, Year T).
+[COMPANY]. AND SUBSIDIARIES
+NOTES TO FINANCIAL STATEMENTS DECEMBER 31, Year T AND Year T-1 (in thousands except share and per share data)
+NOTE H - COMMITMENTS
+[1] LEASES:
+The Company leases its office and warehouse facilities under operating leases expiring through Year T+4. Rental expense amounted to $1,263 in Year T, $1,159 in Year T-1 and $1,167 in Year T-2. Minimum future rental payments are as follows:
+Year T+1 $ 1,254 Year T+2 1,133 Year T+3 739 Year T+4 181 ----------
+$ 3,307 ==========
+[2] LICENSE AGREEMENTS:
+The Company is obligated under a number of license agreements for the use of trademarks and rights in connection with the manufacture and sale of its products. In connection therewith, the Company is subject to certain minimum annual royalties as follows:
+Year T+1 $ 1,991 Year T+2 2,362 Year T+3 2,843 Year T+4 4,091 Year T+5 4,366 Thereafter 13,454 ----------
+$ 29,107 ==========
+NOTE I - SHAREHOLDERS' EQUITY
+[1] COMMON STOCK SPLIT:
+On April 27, Year T, the Company's Board of Directors authorized a three-for-two stock split effected in the form of a 50% stock dividend distributed on June 15, Year T to shareholders of record as of June 1, Year T. As a result of the stock split, the accompanying consolidated financial statements reflect an increase in the number of outstanding shares of common stock and the transfer of the par value of these additional shares from paid-in capital. All share and per share amounts have been restated to reflect the retroactive effect of the stock split.
+[2] ISSUANCE OF COMMON STOCK OF SUBSIDIARY:
+During Year T-1, holders of the remaining $200 of convertible debt, originally issued in Year T-6 by [COMPANY], S.A., a subsidiary of the Company, converted their investment into 18,309 shares of capital stock of [COMPANY], S.A. and employees exercising stock options were issued 34,041 shares of capital stock of [COMPANY], S.A. As a result of such issuances, the Company's percentage ownership of [COMPANY], S.A. decreased from approximately 79% to 78% as of December 31, Year T-1.
+During Year T, an additional 5,918 shares of capital stock of [COMPANY], S.A. were issued as a result of employees exercising stock options. At December 31, Year T, the Company's percentage ownership of [COMPANY], S.A. was approximately 78%.
+[COMPANY]. AND SUBSIDIARIES
+NOTES TO FINANCIAL STATEMENTS DECEMBER 31, Year T AND Year T-1 (in thousands except share and per share data)
+NOTE I - SHAREHOLDERS' EQUITY (CONTINUED)
+[2] ISSUANCE OF COMMON STOCK OF SUBSIDIARY: (CONTINUED)
+The difference between the Company's share of the issuance or conversion proceeds and the carrying amount of the portion of the Company's investment sold is reflected as a gain or loss in the consolidated statements of income. Deferred taxes have not been provided because application of available tax savings strategies would eliminate taxes on this transaction.
+[3] STOCK OPTION PLANS:
+The Company maintains a stock option program for key employees, executives and directors. The plans provide for the granting of both nonqualified and incentive options. Options granted under the plans typically vest immediately and are exercisable for a period of five to six years.
+The Company applies APB [#] in accounting for its stock option incentive plans and accordingly recognizes compensation expense for the difference between the fair value of the underlying common stock and the grant price of the option at the date of grant.
+Pro forma information regarding net income and earnings per share is required by SFAS No. [#]. Had compensation cost for the Company's stock option plans been determined based upon the fair value at the grant date, consistent with the methodology prescribed under SFAS No. [#], the Company's net income in Year T, Year T-1 and Year T-2 would have been approximately $6.5, $4.2 and $4.3 million, or $0.50, $0.34 and $0.32 per diluted share, respectively. The weighted average fair values of the options granted during Year T, Year T-1 and Year T-2 are estimated as $1.93, $1.52 and $1.64 per share, respectively, on the date of grant using the Black-Scholes option pricing model with the following assumptions: dividend yield 0%, volatility of 40%, risk-free interest rates at the date of grant, 5.88% in Year T, 5.18% in Year T-1 and 5.40% in Year T-2, and an expected life of the option of two years.
+A summary of the Company's stock option activity, and related information follows:
+Exercise prices for options outstanding as of December 31, Year T ranged from $3.79 to $8.69. The weighted average remaining contractual life of those options is three and a half years.
+At December 31, Year T options for 627,336 shares were available for future grant under the plans.
+[COMPANY]. AND SUBSIDIARIES
+NOTES TO FINANCIAL STATEMENTS DECEMBER 31, Year T AND Year T-1 (in thousands except share and per share data)
+NOTE I - SHAREHOLDERS' EQUITY (CONTINUED)
+[4] TREASURY STOCK:
+The Board of Directors of the Company has authorized a stock repurchase program whereby the Company purchases shares of its stock to be held in treasury. As of December 31, Year T, the Company is authorized to purchase an additional 474,600 treasury shares.
+NOTE J - GEOGRAPHIC AREAS
+Information on the Company's operations by geographical areas is as follows:
+YEAR ENDED DECEMBER 31, ----------------------------------- Year T Year T-1 Year T-2 --------- --------- --------- Net sales: United States $ 31,268 $ 26,826 $ 30,068 Europe 70,434 60,414 58,875 South America 811 [NAME] (120) (100) (366) --------- --------- ---------
+$ 101,582 $ 87,140 $ 89,388 ========= ========= =========
+Net income: United States $ 1,977 $ 1,140 $ 1,503 Europe 4,616 3,788 3,609 South America (4) (100) (530) [NAME] 31 --------- --------- ---------
+$ 6,589 $ 4,828 $ 4,613 ========= ========= =========
+Depreciation and amortization expense: United States $ 632 $ 595 $ 531 Europe 1,730 1,819 864 South America 1 6 --------- --------- ---------
+$ 2,362 $ 2,415 $ 1,401 ========= ========= =========
+Interest income: United States $ 647 $ 408 $ 376 Europe 418 279 409 South America 3 --------- --------- ---------
+$ 1,065 $ 687 $ 788 ========= ========= =========
+[COMPANY]. AND SUBSIDIARIES
+NOTES TO FINANCIAL STATEMENTS DECEMBER 31, Year T AND Year T-1 (in thousands except share and per share data)
+NOTE J - GEOGRAPHIC AREAS (CONTINUED)
+YEAR ENDED DECEMBER 31, -------------------------------- Year T Year T-1 Year T-2 -------- -------- -------- Interest expense: United States $ 38 $ 59 $ 50 Europe 325 274 377 South America 11 44 -------- -------- --------
+$ 363 $ 344 $ 471 ======== ======== ========
+Total assets: United States $ 39,455 $ 39,417 $ 41,330 Europe 64,455 57,677 55,893 South America 16 619 [NAME] (9,028) (9,887) (10,103) -------- -------- --------
+$ 94,882 $ 87,223 $ 87,739 ======== ======== ========
+Additions to long-lived assets: United States $ 86 $ 101 $ 455 Europe 1,494 1,643 1,165 South America 11 -------- -------- --------
+$ 1,580 $ 1,744 $ 1,631 ======== ======== ========
+Total long-lived assets: United States $ 1,973 $ 2,519 $ 3,012 Europe 5,728 6,451 7,686 South America 1 -------- -------- --------
+$ 7,701 $ 8,970 $ 10,699 ======== ======== ========
+United States export sales were approximately $11,000, $9,200 and $10,000 for the years ended December 31, Year T, Year T-1 and Year T-2, respectively. Consolidated net sales for the year ended December 31, Year T by region is as follows:
+North America 32% Western Europe 30% Central and South America 12% Middle East 9% Asia 9% Eastern Europe 7% Other 1%
+[COMPANY]. AND SUBSIDIARIES
+NOTES TO FINANCIAL STATEMENTS DECEMBER 31, Year T AND Year T-1 (in thousands except share and per share data)
+NOTE K - INCOME TAXES
+The components of income before income taxes consist of the following:
+YEAR ENDED DECEMBER 31, --------------------------------- Year T Year T-1 Year T-2 ------- ------- ------- U.S. operations $ 3,096 $ 1,750 $ 2,304 Foreign operations 10,443 8,118 6,806 [NAME] 54 ------- ------- -------
+$13,539 $ 9,868 $ 9,164 ======= ======= =======
+The provision for current and deferred income tax expense (benefit) consists of the following:
+YEAR ENDED DECEMBER 31, --------------------------------- Year T Year T-1 Year T-2 ------- ------- ------- Current: Federal $ 796 $ 311 $ 344 State and local 170 142 105 Foreign 4,189 3,963 2,984 ------- ------- -------
+5,155 4,416 3,433 ------- ------- -------
+Deferred: Federal 172 142 283 State and local (19) 16 70 Foreign 323 (596) (188) ------- ------- -------
+476 (438) 165 ------- ------- -------
+Total income tax expense $ 5,631 $ 3,978 $ 3,598 ======= ======= =======
+Deferred taxes are provided principally for reserves, and certain other expenses that are recognized in different years for financial reporting and income tax purposes. At December 31, Year T, the deferred tax assets consist of approximately $564 relating to accounts receivable and inventory writedowns which are not currently deductible for tax purposes, foreign net operating loss carryforwards and the difference between the book basis and tax basis of fixed assets. At December 31, Year T, the deferred tax liability of $684 relates primarily to the difference between the book basis and tax basis of intangible assets and certain foreign production equipment.
+The Company has provided a valuation allowance of $129, representing the full amount of the deferred tax assets arising from foreign net operating loss carryforwards. No allowance has been provided on the balance of the Company's deferred tax assets, as management believes that it is more likely than not that the asset will be realized in reduction of future taxable income.
+[COMPANY]. AND SUBSIDIARIES
+NOTES TO FINANCIAL STATEMENTS DECEMBER 31, Year T AND Year T-1 (in thousands except share and per share data)
+NOTE K - INCOME TAXES (CONTINUED)
+Differences between the United States federal statutory income tax rate and the effective income tax rate were as follows:
+YEAR ENDED DECEMBER 31, ----------------------- Year T Year T-1 Year T-2 ----- ----- ----- Statutory rates 34.0% 34.0% 34.0% State and local taxes, net of federal benefit 0.7 1.1 1.3 Effect of foreign taxes in excess of U.S. statutory rates 6.9 5.2 4.0 ----- ----- -----
+Effective rates 41.6% 40.3% 39.3% ===== ===== =====
+NOTE L - OTHER MATTERS
+[1] As previously reported, [COMPANY], S.A., the Company's majority owned French subsidiary, is a party to litigation with [COMPANY] [ENTITY] ("[NAME]"), the licensor of the [NAME] Rose trademark. The licensor has claimed damages of approximately $7,000 and is seeking termination of the license agreement.
+In October Year T-1, [COMPANY] S.A. received notice of a judgment in favor of [NAME], which awarded damages of approximately $600 to [NAME], and which directed [COMPANY], S.A. to turn over its license to [NAME] within six months.
+[COMPANY], S.A. is appealing the judgment as it vigorously and categorically denies the claims of [NAME]. The payment of the judgment has been stayed, and [COMPANY], S.A. was allowed to operate under the license agreement during the appeal process.
+In June Year T, the president of the Court of Appeal granted a petition filed by [NAME] regarding ongoing payments for royalties due to [NAME]. In the same interlocutory judgment, the president of the Court of Appeal rejected [COMPANY], S.A.'s request for the appointment of a new judicial expert. Such request was made to refute the findings of the judicial expert originally appointed by the Commercial Court, which resulted in the $600 judgment against [COMPANY], S.A. As a result of these further developments, [COMPANY], S.A. and its special litigation counsel consider it likely that the judgment will be sustained and therefore, in June Year T, has taken a charge against earnings for $600, the full amount of the judgment.
+In February Year T+1, the Court of Appeal confirmed the [NAME] claim with respect to turning over the license. In addition, the Court named an expert to proceed with additional investigations and required [COMPANY], S.A. to pay $142 as an advance for damages claimed by [NAME].
+[COMPANY], S.A. is continuing its appeal as it still denies the claims of [NAME]. Management does not believe that such litigation will have any further material adverse effect on the financial condition or operations of the Company. As of December 31, Year T the Company has fully reserved the unamortized portion of the license agreement.
+[COMPANY]. AND SUBSIDIARIES
+NOTES TO FINANCIAL STATEMENTS DECEMBER 31, Year T AND Year T-1 (in thousands except share and per share data)
+NOTE L - OTHER MATTERS (CONTINUED)
+[2] [COMPANY], S.A. is the subject of tax audits commenced by the French Tax Authorities. Assessments have been issued aggregating $2,300. [COMPANY], S.A. is contesting these assessments. Management and its tax consultants believe they have sound arguments to support their position and that the majority of these assessments will be reversed, and therefore, will not have a material adverse effect on the financial condition or operations of the Company. The Company has reserves of approximately $760, which it presently believes will be its ultimate exposure.
+[3] On November 22, Year T-1, the Chief Executive Officer and the President of the Company entered into and closed a Stock Purchase Agreement with [ENTITY] ("[NAME] Capital"), a wholly-owned subsidiary of [ENTITY] ("[NAME]"). In accordance with the terms of the Stock Purchase Agreement, [NAME] Capital purchased an aggregate of 1,273,800 shares of Common Stock of the Company at $8.00 per share, as follows: 390,000 shares (inclusive of 75,000 shares acquired upon exercise of an outstanding stock option) from each of the Chief Executive Officer and the President of the Company, and an aggregate of 493,800 shares (inclusive of 318,300 shares issued upon exercise of outstanding stock options) from management and employees. As the result of such transaction, the Company received proceeds of approximately $4,200 as the result of the exercise of the outstanding stock options.
+In addition, in return for [NAME] Capital becoming a strategic partner of the Company, [NAME] Capital is to be granted the right to maintain its percentage ownership of the outstanding shares of Common Stock, by receiving an option to purchase shares of the Company's common stock for cash upon issuance of shares to any party other than [NAME] Capital at the price paid by the purchaser, subject to certain exceptions such as the exercise of stock options previously granted and the grant of new stock options up to a certain limit. [NAME] was also granted demand registration rights for all shares of common stock it holds. Finally, [NAME] Capital has agreed to a standstill agreement, which includes a limitation on the amount of shares that [NAME] Capital can hold equal to 25% of the outstanding shares of common stock of the Company.
+In March Year T-1 and May Year T, the Company entered into two Eleven Year License Agreements with [NAME] Company and [ENTITY], divisions of [NAME], respectively. Both agreements have minimum sales and advertising requirements and require the Company to pay royalties as are customary in the industry.
+[COMPANY]. AND SUBSIDIARIES
+NOTES TO FINANCIAL STATEMENTS DECEMBER 31, Year T AND Year T-1 (in thousands except share and per share data)
+SCHEDULE II
+VALUATION AND QUALIFYING ACCOUNTS AND RESERVES (in thousands)
+(a) Write off of bad debts and sales returns.
+(b) Foreign currency translation adjustment.
+SEE NOTES TO FINANCIAL STATEMENTS
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15 (d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+[COMPANY]. By: /s/ [COMPANY] [NAME] --------------- [COMPANY] [NAME], Chief Executive Officer
+Date: 23 March Year T+1
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Registrant and in the capacities and on the dates indicated:
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION [NAME], D.C. 20549
+EXHIBIT INDEX TO REPORT ON FORM 10-K
+(Mark one)
+/X/ Annual Report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 for the fiscal year ended 31 December Year T or
+// Transition Report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 for the transition period from to . --------------
+Commission File No. 0-16469
+[COMPANY]. (Exact name of registrant as specified in its charter)
+The following documents heretofore filed with the Commission are incorporated herein by reference to the Company's Current Report on Form 8-K (date of event - January 18, Year T-10), as follows:
+EXHIBIT NO. AND DESCRIPTION
+10.13 License Agreement between the Company and [NAME] dated January 18, Year T-10 (as no. 10.1 therein).
+10.15 Letter of Indemnification from [NAME] to the Company dated January 18, Year T-10 (as no. 10.3 therein)
+10.16 Letter Agreement from [NAME] to the Company regarding foreign license rights dated January 18, Year T-10 (as no. 10.4 therein).
+The following document heretofore filed with the Commission is incorporated herein by reference to the Company's Current Report on Form 8-K (date of event - July 29, Year T-9), as follows:
+EXHIBIT NO. AND DESCRIPTION
+10.24 Agreement and Plan of Reorganization dated July 29, Year T-9 among the Company, [COMPANY] [NAME] and [COMPANY] [NAME] (as No. 10.1 therein)
+The following document heretofore filed with the Commission is incorporated by reference to the Company's Annual Report on Form 10-K for the fiscal year ended December 31, Year T-9:
+Exhibit No. and Description
+10.25 Employment Agreement between the Company and [COMPANY] [NAME] dated July 29, Year T-9
+The following documents heretofore filed with the Commission is incorporated by reference to the Company's Registration Statement on Form S-1 (No. 33-48811):
+EXHIBIT NO. AND DESCRIPTION
+10.26 Lease for portion of 15th Floor, 551 [PLACE], [PLACE]
+The following documents heretofore filed with the Commission are incorporated by reference to the Company's Annual Report on Form 10-K for the fiscal year ended December 31, Year T-8:
+EXHIBIT NO. AND DESCRIPTION
+4.10 Amendment to Year T-8 Stock Option Plan
+4.11 Year T-7 Stock Option Plan
+The following documents heretofore filed with the Commission are incorporated herein by reference to the Company's Current Report on Form 8-K (date of event - July 15, Year T-7), as follows:
+Exhibit No. and Description
+10.30 License Agreement dated July 15, Year T-7, among [ENTITY], [COMPANY], S.A. and [COMPANY].(1)
+10.31 License Agreement dated May 7, Year T-7, between [COMPANY]-[ENTITY] and [COMPANY], S.A. (original in French)(1)
+10.32 License Agreement dated May 7, Year T-7, between [COMPANY]-[ENTITY] and [COMPANY], S.A.(translation of French into English)(1)
+10.33 Agreement dated July 14, Year T-7, between [ENTITY] and [COMPANY], S.A.1
+10.34 Agreement dated July 16, Year T-7 among [COMPANY], S.A., [COMPANY]., [ENTITY] and [ENTITY]
+10.35 Distribution Agreement dated July 16, Year T-7 among [COMPANY], S.A., [COMPANY]. and [ENTITY](1)
+The following documents heretofore filed with the Commission are incorporated herein by reference to the Company's Current Report on Form 8-K (date of event - February 28, Year T-6), as follows:
+EXHIBIT NO. AND DESCRIPTION
+10.36 [NAME] de [NAME] de Commerce between [COMPANY], S.A. and
+- ----------------- (1) Filed in excised form.
+[NAME] et [COMPANY] de [NAME].[ENTITY] dated February 18, Year T-6 (re: [COMPANY] [NAME])
+10.37 [NAME] de [NAME] de Commerce between [COMPANY], S.A. and [NAME] et [COMPANY] de [NAME].[ENTITY] dated February 18, Year T-6 (re: [COMPANY] [NAME])
+10.38 Agreement (Acquisition) among [COMPANY]., [COMPANY], S.A. and [NAME] et [COMPANY] de [ENTITY] dated February 18, Year T-6
+10.39 [NAME] Agreement among [COMPANY]., [COMPANY], S.A. and [NAME] et [COMPANY] de [NAME].[ENTITY] dated February 18,
+10.40 Commission Agreement among [COMPANY]., [COMPANY], S.A. and [ENTITY] dated February 18, Year T-6
+10.41 [NAME] between [COMPANY], S.A. and [NAME] et [COMPANY] de [NAME].[ENTITY] dated February 18, Year T-6 (re inventory purchase)
+10.42 [NAME] de [NAME] among [NAME] et [COMPANY] de [ENTITY], [NAME] et [COMPANY] de [NAME].[ENTITY], [ENTITY], [COMPANY]. and [COMPANY], S.A. dated February 18, Year T-6 (re security agreement)
+10.43 [NAME] among [NAME] et [COMPANY] de [NAME].[ENTITY], [NAME] et [COMPANY] de [ENTITY], [COMPANY]. and [COMPANY], S.A. and [ENTITY] dated February 18, Year T-6 (re French regulatory requirements)
+10.44 Acquisition Agreement among [COMPANY]., [ENTITY] and [ENTITY] dated March 2, Year T-6
+The following documents heretofore filed with the Commission are incorporated herein by reference to the Company's Form 8 Amendment no. 1 (dated March 14, Year T-6) to the Current Report on Form 8-K (date of event - February 28, Year T-6), as follows:
+EXHIBIT NO. AND DESCRIPTION
+10.46. English translation of exhibit no. 10.36, [NAME] de [NAME] de Commerce between [COMPANY], S.A. and [NAME] et [COMPANY] de [NAME].[ENTITY] dated February 18, Year T-6 (re: [COMPANY] [NAME])
+10.47. English translation of exhibit no. 10.37, [NAME] de [NAME] de Commerce between [COMPANY], S.A. and [NAME] et [COMPANY] de [NAME].[ENTITY] dated February 18, Year T-6 (re: [COMPANY] [NAME])
+10.48. English translation of exhibit no. 10.41, [NAME] between [COMPANY], S.A. and
+[NAME] et [COMPANY] de [NAME].[ENTITY] dated February 18, Year T-6 (re inventory purchase)
+10.49. English translation of exhibit no. 10.42, [NAME] de [NAME] among [NAME] et [COMPANY] de [ENTITY], [NAME] et [COMPANY] de [NAME].[ENTITY], [ENTITY], [COMPANY]. and [COMPANY], S.A. dated February 18, Year T-6 (re security agreement)
+The following document heretofore filed with the Commission is incorporated herein by reference to the Company's Form 8 Amendment no. 2 (dated March 21, Year T-6) to the Current Report on Form 8-K (date of event - February 28, Year T-6), as follows:
+EXHIBIT NO. AND DESCRIPTION
+10.50. English translation of exhibit no. 10.43, [NAME] among [NAME] et [COMPANY] de [NAME].[ENTITY], [NAME] et [COMPANY] de [ENTITY], [COMPANY]. and [COMPANY], S.A. and [ENTITY] dated February 18, Year T-6 (re French regulatory requirements)
+The following documents heretofore filed with the Commission are incorporated by reference to the Company's Annual Report on Form 10-K for the fiscal year ended December 31, Year T-7:
+EXHIBIT NO. AND DESCRIPTION
+3.3 Articles of Incorporation of [COMPANY] [ENTITY]
+3.3.1 English Translation of Exhibit no. 3.3, Articles of Incorporation of [COMPANY] [ENTITY]
+3.4 Articles of Incorporation of [COMPANY], S.A.
+3.4.1 English Translation of Exhibit no. 3.4, Articles of Incorporation of [COMPANY], S.A.
+4.15 Year T-6 [NAME] Director Stock Option Plan
+10.51 [NAME] dated July 30, Year T-7 (Reorganization Agreement between [COMPANY], S.A. and [ENTITY])
+10.51.1 English translation of Exhibit no. 10.51, [NAME] dated July 30, Year T-7 (Reorganization Agreement between [COMPANY], S.A. and [ENTITY])
+10.52 Lease for portion of 4, [NAME] Point [NAME] dated September 30, Year T-7
+10.52.1 English translation of Exhibit no. 10.52, Lease for portion of 4, [NAME] Point [NAME] dated September 30, Year T-7
+10.53 Lease for portion of 4, [NAME] Point [NAME] dated March 2,
+10.53.1 English translation of Exhibit no. 10.53, Lease for portion of 4, [NAME] Point [NAME] dated March 2, Year T-6
+The following documents heretofore filed with the Commission are incorporated by reference to the Company's Annual Report on Form 10-K for the fiscal year ended December 31, Year T-6:
+4.16 Year T-6 [NAME] Director Supplemental Stock Option Plan (Listed as no. 4.15 therein)
+10.59 Modification of Lease Agreement dated June 17, Year T-6 between Metropolitan Life Insurance Company and [COMPANY].
+The following documents heretofore filed with the Commission are incorporated by reference to the Company's Annual Report on Form 10-K for the fiscal year ended December 31, Year T-5:
+EXHIBIT NO. AND DESCRIPTION
+10.61 Lease for 60 [NAME] Road, South Brunswick, NJ between [NAME] Industrial Complex, a limited partnership, and [COMPANY]. dated July 10, Year T-5
+The following documents heretofore filed with the Commission are incorporated by reference to the Company's Annual Report on Form 10-K for the fiscal year ended December 31, Year T-4:
+EXHIBIT NO. AND DESCRIPTION
+10.65 Asset Repurchase Agreement between [ENTITY] and [COMPANY]. dated March 27, Year T-3
+The following documents heretofore filed with the Commission are incorporated by reference to the Company's Annual Report on Form 10-K for the fiscal year ended December 31, Year T-3:
+EXHIBIT NO. AND DESCRIPTION
+10.67 Second Modification of Lease made as of the 30th day of April, Year T-3 between Metropolitan Life Insurance Company as landlord and [COMPANY]. as tenant.
+10.68 Amendment I to License Agreement dated September 3, Year T-3 between [ENTITY] as [NAME] and [COMPANY]. as Licensee.
+10.69 Exclusive [NAME] Agreement dated June 20, Year T-3 between S.[ENTITY] and [COMPANY] (English translation, excised version)
+The following documents heretofore filed with the Commission are incorporated by reference to the Company's Annual Report on Form 10-K for the fiscal year ended December 31, Year T-2:
+EXHIBIT NO. AND DESCRIPTION
+3.2 Amended and Restated By-laws
+4.17 Year T-3 [NAME] Director Stock Option Plan
+4.18 Year T-1 Stock Option Plan
+10.70 [NAME] Agreement among [ENTITY], [COMPANY], S.A. and [COMPANY]-[COMPANY] [COMPANY], Inc. (excised version)
+10.71 [NAME] Agreement between [NAME], a division of Group [NAME] and [COMPANY], S.A (English translation, excised version)
+The following documents heretofore filed with the Commission are incorporated by reference to the Company's current report on Form 8-K (date of event - November 22, Year T-1):
+Exhibit No. and Description
+4.2 [NAME] Agreement among [ENTITY], [COMPANY] [NAME] and [COMPANY] [NAME] dated November 22, Year T-1.
+99.1 Stock Purchase Agreement among [ENTITY], [COMPANY] [NAME] and [COMPANY] [NAME] dated November 22, Year T-1.
+The following documents heretofore filed with the Commission are incorporated by reference to the Company's Annual Report on Form 10-K for the fiscal year ended December 31, Year T-1:
+EXHIBIT NO. AND DESCRIPTION
+3.1.4 Amendment to the Company's Restated Certificate of Incorporation, as amended, dated July 13, Year T-1 (listed therein as 3.1(d))
+10.73 [NAME] Confidential Treatment Agreement dated 8 February, Year T
+10.74 [NAME] Amendment dated February, Year T (filed in excised form)
+The following documents heretofore filed with the Commission are incorporated by reference to the Company's current report on Form 8-K/A no. 1 (date of event - 18 May Year T):
+10.76 [NAME] License Agreement [in French]- excised.
+10.76.1 [NAME] License Agreement [English translation]- excised.
+The following document heretofore filed with the Commission is incorporated by reference to the Company's current report on Form 8-K/A no. 1 (date of event - 23 June Year T):
+10.77 [NAME] Agreement for [NAME] [COMPANY], dated June 22, Year T - excised.
+The following document heretofore filed with the Commission is incorporated by reference to the Company's quarterly report on Form 10-Q for the period ending 30 June Year T:
+3.1.5 Amendment to the Company's Restated Certificate of Incorporation, as amended, dated 12 July Year T (listed therein as 3.1(e))
+The following documents are filed herewith:
+Exhibit No. and Description
+3.1.1 Restated Certificate of Incorporation dated September 3, Year T-13
+3.1.2 Amendment to the Company's Restated Certificate of Incorporation dated July 31, Year T-8
+3.1.3 Amendment to the Company's Restated Certificate of Incorporation dated July 9, Year T-7
+4.19 Year T [NAME] Director Stock Option Plan
+10.78 Revolving Credit Agreement dated June 1, Year T between [NAME] Bank USA and [COMPANY].
+10.79 [NAME] [Lease] for 18 avenue Franklin [NAME], Paris France [French Original]
+10.79.1 [NAME] [Lease] for 18 avenue Franklin [NAME], Paris France [English Translation]
+10.80 Credit [NAME] Letter Agreement dated 22 March Year T+1 - [French Original]
+10.80.1 Credit [NAME] Letter Agreement dated 22 March Year T+1 - [English Translation]
+10.81 [NAME] Bank Letter Agreement dated 4 June Year T-2 - [French Original]
+10.81.1 [NAME] Bank Letter Agreement dated 4 June Year T-2 - [English Translation]
+10.82 [NAME] Letter Agreement one dated 31 July Year T-2 - [French Original]
+10.82.1 [NAME] Letter Agreement one dated 31 July Year T-2 - [English Translation]
+10.83 [NAME] Letter Agreement two dated 31 July Year T-2 - [French Original]
+10.83.1 [NAME] Letter Agreement two dated 31 July Year T-2 - [English Translation]
+10.84 [NAME] Letter Agreement dated 22 December Year T-3 - [French Original]
+10.84.1 [NAME] Letter Agreement dated 22 December Year T-3 - [English Translation]
+10.85 Credit [NAME] de France Letter Agreement dated 19 June Year T-4 - [French Original]
+10.85.1 Credit [NAME] de France Letter Agreement dated 19 June Year T-4 - [English Translation]
+21 List of Subsidiaries
+
+### Item 9 Accountant Changes
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+Not applicable.
+PART III
+ITEM 10.
+
+### Item 9A Controls and Procedures
+(not present in this filing)
+
+## CHANGES FROM THE YEAR T-1 10-K TO THE YEAR T 10-K
+Paragraph-level comparison per section; unchanged paragraphs are omitted.
+
+## Item 1A Risk Factors: similarity to Year T-1 = 0.00 (added 0, removed 0, modified 0, unchanged 0 paragraphs)
+
+## Item 3 Legal Proceedings: similarity to Year T-1 = 0.53 (added 4, removed 3, modified 2, unchanged 0 paragraphs)
+[ADDED in Year T] In June Year T, the president of the Court of Appeal granted a petition filed by [NAME] regarding ongoing payments for royalties due to [NAME]. In the same interlocutory judgment, the president of the Court of Appeal rejected [COMPANY], S.A.'s request for the appointment of a new judicial expert. Such request was made to refute the findings of the judicial expert originally appointed by the Commercial Court, which resulted in the $600,000 judgment against [COMPANY], S.A. As a result of these further developments, [COMPANY], S.A. and its special litigation counsel then considered it likely that the judgment would be sustained and therefore, [COMPANY], S.A. recorded a charge against earnings in the second quarter of Year T for $600,000 ($260,000 after taxes and minority interest), the full amount of the judgment.
+[REMOVED since Year T-1] As previously reported, litigation was commenced against [COMPANY] S.A., our majority owned French subsidiary, regarding the [NAME] Rose fragrance license in the French Commercial Court of Paris in February Year T-3 by the licensor, [COMPANY] [ENTITY] ("[NAME]"). We asserted claims against [NAME] for interference with our distributors. In response, [NAME] then claimed damages of approximately $7 million against us, allegedly for the decreased value of his fragrance brands.
+[REMOVED since Year T-1] In November Year T-1 the French Tax Authorities commenced a tax audit against [COMPANY] S.A., our majority owned French subsidiary, and issued an assessment of approximately $1.1 million. We are contesting this assessment. We and our French tax consultants believe that we have sound arguments to support our position, and believe the majority of the assessment will be reversed. Accordingly, we believe this proceeding will not
+[ADDED in Year T] In February Year T+1, the Court of Appeal confirmed the [NAME] claim with respect to turning over the license. In addition, the Court named an expert to proceed with additional investigations and required [COMPANY], S.A. to pay $142,000 as an advance against the damages claimed by [NAME].
+[ADDED in Year T] As previously reported, [COMPANY], S.A., is a party to litigation with [COMPANY] [ENTITY] ("[NAME]"), the licensor of the [NAME] Rose trademark. The licensor has claimed damages of approximately $7.0 million and is seeking termination of the license agreement.
+[ADDED in Year T] [COMPANY], S.A. is appealing the judgment as it vigorously and categorically denies the claims of [NAME]. The payment of the judgment has been stayed, and [COMPANY], S.A. was allowed to continue to operate under the license agreement during the appeal process.
+[REMOVED since Year T-1] have a material adverse effect on our financial condition or operations. We have set up a reserve of approximately $260,000, which we believe will cover our ultimate exposure in this matter.
+[MODIFIED, similarity 0.58]
+  Year T-1: We appealed the judgment as we vigorously and categorically deny the claims of [NAME], and believe we have meritorious defenses to such claims. Payment of the judgment has been stayed, and we are permitted to continue operating under the license agreement during the appeal process. We have been advised by our special litigation counsel that, in its opinion, it is unlikely that the monetary judgment will be sustained on appeal, or that any final, substantial monetary judgment will be entered against us. We do not believe that such litigation will have any material adverse effect on our financial condition or operations, and we have set up a reserve of $275,000 against the unamortized portion of the license agreement. After such reserve, the remaining unamortized portion of the license is approximately $322,000.
+  Year T:   [COMPANY], S.A. will continue its appeal as it still denies the claims of [NAME]. We do not believe that such litigation will have any further material adverse effect on our financial condition or operations. As of December 31, Year T, we have fully reserved the unamortized portion of the license agreement.
+[MODIFIED, similarity 0.79]
+  Year T-1: In October Year T-1, we received notice of a judgment in favor of [NAME], which awarded damages of approximately $600,000, and which directed us to return the license back to [NAME] within six months.
+  Year T:   In October Year T-1, [COMPANY], S.A. received notice of a judgment in favor of [NAME], which awarded damages of approximately $600,000 and which directed [COMPANY], S.A. to turn over its license to [NAME] within six months.
+
+## Item 7 MD&A: similarity to Year T-1 = 0.73 (added 25, removed 17, modified 15, unchanged 13 paragraphs)
+[REMOVED since Year T-1] Sales generated by the our company's French subsidiary, [COMPANY], S.A., posted strong sales growth with an increase of 15% in Year T-2. At comparable foreign currency exchange rates, sales by [COMPANY], S.A. increased 17% in Year T-2. [COMPANY], S.A.'s licensed and brand name lines increased 35% while its international moderately priced fragrance line decreased 43%. Such increase is primarily the result of expanded distribution of the [NAME] fragrance line as well our new product introduction of "I [NAME] You" by [NAME] and the launch of their new S.T. [NAME] fragrance line. Year T-1 is expected to be a year of continued growth for [COMPANY], S.A., as it prepares for the launch, in early Year T, of its new Paul Smith fragrance line. [COMPANY], S.A. is also preparing new product introductions for its [NAME] line for the [Y2K]. Management is determined to strengthen these brands with continued new product development as well as product line expansion. We are actively pursuing new license agreements to build upon the strength of its existing product lines.
+[ADDED in Year T] Growing sales within existing product lines, new product launches and an active new business development program are how we plan to continue to grow our business in the year Year T+1 and beyond. During the year ended December 31, Year T we signed an exclusive worldwide license agreement with [NAME], a division of [ENTITY] Our first line of [NAME] [COMPANY] is expected to debut in October Year T+1. Also during fiscal Year T, we signed an exclusive worldwide license agreement with [NAME] The Collection to produce and sell men's and women's [COMPANY]. We anticipate that the first [NAME] fragrance line for men and women will be launched either in the last quarter of Year T+1, or in the first quarter of Year T+2. In addition, we are actively pursuing new business opportunities. However, we cannot assure you that any new license or acquisitions will be consummated.
+[ADDED in Year T] In June Year T, the president of the Court of Appeal granted a petition filed by [NAME] regarding ongoing payments for royalties due to [NAME]. In the same interlocutory judgment, the president of the Court of Appeal rejected [COMPANY], S.A.'s request for the appointment of a new judicial expert. Such request was made to refute the findings of the judicial expert originally appointed by the Commercial Court, which resulted in the $600,000 judgment against [COMPANY], S.A. As a result of these further developments, [COMPANY], S.A. and its special litigation counsel then considered it likely that the judgment would be sustained and therefore, [COMPANY], S.A. recorded a charge against earnings in the second quarter of Year T for $600,000 ($260,000 after taxes and minority interest), the full amount of the judgment.
+[ADDED in Year T] Growth in net sales of prestige products, which was up approximately 17% in Year T, was fueled in part by the tremendous success of the recent launches of our Paul Smith and "[NAME]" fragrance lines. Paul Smith premiered in the United Kingdom in July and is presently being sold in over 450 U.K. doors. Sales ran well ahead of expectations in the initial phase of the roll out. "[NAME]", our newest [NAME] fragrance, was launched worldwide in late September Year T, and initial consumer reaction has been very favorable. Additional [Y2K] launches included our S.T. [NAME] "Signature" line, which continues to perform strongly in the Far East, and "[NAME]" by [NAME], which is very successful in France and South America.
+[REMOVED since Year T-1] Our company's effective income tax rate was 39% in Year T-2, as compared to 36% in Year T-3. The Year T-3 rate was favorably impacted by reduction of valuation reserves on deferred tax assets, relating to the utilization of net operating loss carry forwards made available to [COMPANY], S.A. as a result of the Year T-4 sale of the [NAME] a [NAME] trademarks. No such benefit was available for Year T-2. In addition, corporate income tax rates in France have increased from 36% to approximately 43% in the past two years. The effective tax rate for Year T-2 includes an expected tax benefit to be realized as a result of our company's decision to close its Brazilian subsidiary.
+[ADDED in Year T] We operate in the fragrance and cosmetic industry, specializing in prestige perfumes and mass market perfumes and cosmetics:
+[REMOVED since Year T-1] As previously reported, sales generated by the our Brazilian subsidiary, [COMPANY] [COMPANY] [NAME], were $2.0 million in Year T-3 as compared to $3.0 million in Year T-4. This trend has continued, with net sales declining to $0.8 million in Year T-2. In October Year T-2, we determined that was in our best interest to close our Brazilian subsidiary. We believed that the decline in sales reflected the Brazilian mass markets' fear of a possible currency devaluation, which in fact took place in January Year T-1. In view of that less than optimistic Brazilian mass market
+[REMOVED since Year T-1] Gross profit margin increased to 47% of sales in Year T-2, as compared to 46% of sales in Year T-3. Our designer fragrance lines generate a slightly higher gross profit margin than the our other product lines. Sales of the Company's designer line products continue to experience solid growth, and therefore, represent a greater portion of the our overall sales. Our program of "Product Value Analysis" has also enabled us at least to maintain, and in some areas improve our gross profit margin. These cost saving techniques are utilized in all new product introductions.
+[ADDED in Year T] Gross profit margins increased to 49% of net sales for the year ended December 31, Year T, as compared to 48% in Year T-1. Gross profit margins have continued to increase over the past four years. Part of this improvement is the result of the strength of the US dollar in relation to the Euro, as certain European sales are denominated in US dollars. In addition, our prestige fragrance lines, which have been growing at a faster rate than our mass market lines, generate a higher gross profit margin than our mass market product lines.
+[ADDED in Year T] Net sales of our mass market products were up 17% for the year ended December 31, Year T, as compared to Year T-1. Sales growth from our wide selection of mass market [COMPANY] continues to exceed our expectations. Our new [NAME] line of cosmetics has also achieved widespread acceptance. We expect sales to continue to grow as our high volume, discount store customers open more stores, and we continue to develop new products for them. We are presently developing a line of health and beauty aids, including shampoos and conditioners.
+[ADDED in Year T] In the United States, selling, general and administrative expenses increased to $9.8 million for the year ended December 31, Year T, as compared to $9.1 million in Year T-1, but declined to 31% of net sales in Year T, as compared to 34% of net sales in Year T-1. Our mass market sales do not require extensive advertising and therefore, more of our selling, general and administrative expenses are fixed rather than variable. As a result, the increase in sales has enabled us to spread our fixed costs over a larger net sales base.
+[ADDED in Year T] In addition to expanding the geographic distribution of products we launched in Year T, we have a large new product and brand extension pipeline in the works. We are leveraging the popularity of "[NAME]" by bringing to market a new bath line for men and women, scheduled for introduction later this year. In March Year T+1, Paul Smith [COMPANY] will be launched in Japan where this designer has a large and loyal fashion following and over 200 standing doors. In February Year T+1, we unveiled [NAME] "[NAME]" in the U.S. with
+[REMOVED since Year T-1] In Year T-2, the success of the designer fragrance lines was somewhat mitigated by sales declines in the international moderately priced fragrance line referred to above and the domestic Alternative Designer [COMPANY]. Excluding the effect of Year T-3 [NAME] product sales, net sales generated by the our domestic operations decreased 18% in Year T-2. These declines were primarily the result of the economic situation in Eastern Europe and factors leading up to the ultimate closing of the our Brazilian subsidiary.
+[REMOVED since Year T-1] In November Year T-1 we finalized and closed on our strategic alliance with [ENTITY], a wholly-owned subsidiary of [ENTITY] [NAME] Capital had already purchased, in the open market, approximately 10.5% of the outstanding shares of our Company. At the closing, [NAME] Capital increased its equity ownership to approximately 20% by purchasing outstanding shares and shares issued upon exercise of stock options held by management and employees. Our Company received proceeds of
+[REMOVED since Year T-1] Several new projects are planned for the [Y2K] including, the launch of our Paul Smith fragrance line, two new perfume lines under the [NAME] name, as well as two new perfume lines under the S.T. [NAME] name. The improving trend in our mass market product lines, which appears to be continuing into Year T, combined with the potential of our new prestige fragrance launches, makes us very optimistic of the potential for a 20% growth in both sales and earnings for the [Y2K].
+[ADDED in Year T] Our effective income tax rate was 42% for the year ended December 31, Year T, as compared to 40% in Year T-1. The effective tax rate for the year ended December 31, Year T includes a $480,000 ($370,000 after minority interest) accrual to cover the potential exposure related to tax audits of [COMPANY], S.A. commenced by the French Tax Authorities. If not for these accruals, the declining tax rates in France would have caused a decline in our overall effective tax rate.
+[ADDED in Year T] Net income increased 36% to $6.6 million for the year ended December 31, Year T, as compared to $4.8 million in Year T-1. Net income for the year ended December 31, Year T includes charges of $630,000 and a gain of $645,000, all after taxes and minority interest. The charges represent an accrual for exposure relating to the [NAME] litigation of $260,000 and a potential tax assessment of $370,000. The gain represents a realized gain on sale of marketable securities.
+[ADDED in Year T] Selling, general and administrative expenses incurred by our French subsidiary, [COMPANY], S.A., increased to $27.7 million for the year ended December 31, Year T, as compared to $22.8 million in Year T-1. As a percentage of sales, selling, general and administrative expenses represented 39% of sales in Year T, as compared to 38% in Year T-1. Promotion and advertising are prerequisites for sales of designer products. We develop a complete marketing and promotional
+[REMOVED since Year T-1] approximately $5.8 million, including related tax benefits, as a result of the exercise of stock options. We are already experiencing the benefits of this association, with the worlds largest luxury goods manufacturer, as several new business prospects are already under discussion. We are confident that this strategic alliance will bring us new opportunities in licensing and distribution, which can further add to our planned growth in both sales and earnings.
+[ADDED in Year T] During the year ended December 31, Year T we generated $0.2 million in cash from operating activities, as compared to $12.6 million in Year T-1. At December 31, Year T accounts receivable increased 18%, as compared to December 31, Year T-1, which is in line with our 17% increase in net sales. In addition, inventories rose 30% as a result of a planned buildup to support all of the recent new product launches and to prepare for anticipated revenue growth.
+[ADDED in Year T] During the year ended December 31, Year T we sold marketable securities and realized a gain of $1.4 million ($645,000 after taxes and minority interest). On occasion, we invest excess cash in marketable securities, which are classified as available-for-sale. These funds are available to support current operations or to take advantage of other investment opportunities. At December 31, Year T, we had no remaining marketable security positions.
+[REMOVED since Year T-1] confidence level and the heavily regulated Brazilian environment, further direct investment in [NAME] was not warranted. Such closing did not have a material adverse effect on our results from operations. We will continue to sell into the Brazilian market and we have entered into a distribution agreement with a well known Brazilian fragrance distributor, which included the purchase of all existing inventory.
+[REMOVED since Year T-1] Cash provided by operating activities aggregated $12.6 million for the year ended December 31, Year T-1. Cash provided by operating activities continues to be the primary source of funds to finance operating needs, investments in new ventures, as well as to finance our stock repurchase program. During Year T-1, we repurchased 1.2 million shares of our common stock at a total cost of $8.4 million.
+[REMOVED since Year T-1] Net income was $4.6 million or $0.52 per diluted share in Year T-2 as compared to $4.5 million or $0.48 per diluted share in Year T-3. Results for Year T-3 include a nonrecurring charge of $0.8 million, on an after tax basis, relating to the divestiture of the [NAME] license. Excluding the nonrecurring charge, net income was $5.3 million or $0.56 per diluted share in Year T-3.
+[REMOVED since Year T-1] Selling, general and administrative expenses incurred by [COMPANY] increased to $21.5 million or 36.6% of sales in Year T-2 as compared to $18.6 million or 36.5% of sales in Year T-3. Such increase is the result of expenses incurred to support new product introductions, to build upon each brand's awareness, as well as to support [COMPANY], S.A.'s revenue growth.
+[MODIFIED, similarity 0.55]
+  Year T-1: The weighted average shares outstanding declined 6.5% to 8.7 million in Year T-2, as compared to 9.3 million in Year T-3. On a diluted basis, average shares outstanding was 8.9 million in Year T-2 and 9.4 million in Year T-3. Such decline is the result of our ongoing stock buyback program.
+  Year T:   After giving effect to our 3 for 2 stock split effected in June Year T, diluted earnings per share increased 27% to $0.51 for the year ended December 31, Year T, as compared to $0.40 in Year T-1. Weighted average shares outstanding aggregated 11.7 million for the year ended December 31, Year T, as compared to 11.4 million in Year T-1. On a diluted basis, average shares outstanding was 13.0 million for the year ended December 31, Year T, as compared to 12.2 million in Year T-1. Shares repurchased pursuant to our stock repurchase program, offset shares issued upon exercise of stock options. However, the increase in our stock price has increased the dilutive effect of outstanding stock options, thereby increasing diluted shares outstanding.
+[REMOVED since Year T-1] Our company incurred a loss on foreign currency of $0.1 million in Year T-2 as compared to a loss of $0.2 million in Year T-3. Our company, at appropriate times, enters into foreign currency forward exchange contracts as a hedge for short-term [COMPANY] company borrowings, or for receivables to be collected in a foreign currency.
+[ADDED in Year T] Such factors include effectiveness of sales and marketing efforts and product acceptance by consumers, dependence upon management, competition, currency fluctuation and international tariff and trade barriers, governmental regulation and possible liability for improper comparative advertising or "Trade [NAME]".
+[ADDED in Year T] [COMPANY], S.A. will continue its appeal as it still denies the claims of [NAME]. We do not believe that such litigation will have any further material adverse effect on our financial condition or operations. As of December 31, Year T, we have fully reserved the unamortized portion of the license agreement.
+[REMOVED since Year T-1] In the first quarter of Year T-3, we took a pre-tax charge against earnings of $1.3 million to write-off intangible assets and other expenses relating to the divestiture of the [NAME] license. We are confident that such charge is sufficient to cover all potential obligations relating to the [NAME] business.
+[ADDED in Year T] In February Year T+1, the Court of Appeal confirmed the [NAME] claim with respect to turning over the license. In addition, the Court named an expert to proceed with additional investigations and required [COMPANY], S.A. to pay $142,000 as an advance for damages claimed by [NAME].
+[ADDED in Year T] an exclusive at [NAME] Fifth [NAME] 63 stores, to be followed by European distribution later this spring. Development is going well with [NAME], our second [NAME] license, and we are on target for the initial launch of two new [NAME] [COMPANY] in the fourth quarter of Year T+1.
+[ADDED in Year T] In fiscal [Y2K], we set a new sales record. Net sales for the year ended December 31, Year T increased 17% to $101.6 million, as compared to $87.1 million in Year T-1. At comparable foreign currency exchange rates, net sales actually rose 30% in Year T as compared to Year T-1.
+[ADDED in Year T] As previously reported, [COMPANY], S.A., is a party to litigation with [COMPANY] [ENTITY] ("[NAME]"), the licensor of the [NAME] Rose trademark. The licensor has claimed damages of approximately $7.0 million and is seeking termination of the license agreement.
+[ADDED in Year T] [COMPANY], S.A. is appealing the judgment as it vigorously and categorically denies the claims of [NAME]. The payment of the judgment has been stayed, and [COMPANY], S.A. was allowed to continue to operate under the license agreement during the appeal process.
+[REMOVED since Year T-1] Net sales aggregated $89.4 million in Year T-2, as compared to $91.5 million in Year T-3. On April 30, Year T-3, the Company divested its [NAME] nail and lip products license and net sales for Year T-3 includes $3.3 million of [NAME] product sales.
+[MODIFIED, similarity 0.55]
+  Year T-1: In Year T-1, we continued our stock repurchase program by acquiring over 1.2 million of the Company's common shares at an average cost of $6.91 per share. Our 77% owned publicly traded French subsidiary, [COMPANY], S.A., has a current market cap in excess of $130 million, which exceeds that of the Company. Management is of the opinion that the current market price of the Company's common shares understates its real value.
+  Year T:   During the year ended December 31, Year T, we continued our stock repurchase program by acquiring 343,600 of our common shares at an average cost of $8.19 per share. We believe that our stock price does not reflect our growth rate, prospects for future growth, the value of our licenses and our worldwide distribution network. In addition, the market capitalization of our 78% ownership interest in [COMPANY], S.A., our publicly traded Paris subsidiary, is in excess of $150 million, which is significantly higher than that of the company as a whole.
+[ADDED in Year T] We incurred a loss on foreign currency of $0.2 million for both of our last two fiscal years. Occasionally, we enter into foreign currency forward exchange contracts to manage exposure related to certain foreign currency commitments.
+[ADDED in Year T] outstanding was 12.2 million for the year ended December 31, Year T-1, as compared to 13.3 million in Year T-2. The declines are the result of our common stock repurchase program.
+
+## Item 7A Market Risk: similarity to Year T-1 = 0.00 (added 5, removed 0, modified 0, unchanged 0 paragraphs)
+[ADDED in Year T] We mitigate interest rate risk by continually monitoring interest rates, and then determining whether fixed interest rates should be swapped for floating rate debt, or if floating rate debt should be swapped for fixed rate debt. We have entered into one (1) interest rate swap to take advantage of declining interest rates. At December 31, Year T we had one (1) interest rate swap agreement outstanding to convert $1.4 million of principal fixed rate debt with an interest rate of 4.56% to floating interest rate debt, at the [NAME] rate, over the life of our long term debt due in Year T+5. At December 31, Year T, the [NAME] rate was 4.9%. If interest rates were to rise 1% per annum over the remaining term of the long term debt, then we would incur a loss of $50,000.
+[ADDED in Year T] We enter into forward exchange contracts to hedge receivables denominated in foreign currencies for periods consistent with our identified exposures. The purpose of the hedging activities is to minimize the effect of foreign exchange rate movements on the receivables and cash flows of [COMPANY], S.A., our French subsidiary, whose functional currency is French francs. All foreign currency contracts are denominated in currencies of major industrial countries and are with large financial institutions, which are rated as strong investment grade. Gains and losses related to qualifying hedges of these exposures are deferred and recognized in operating income when the underlying hedged transaction occurs.
+[ADDED in Year T] We address certain financial exposures through a controlled program of risk management that primarily consists of the use of derivative financial instruments. We primarily enter into foreign currency forward exchange contracts in order to reduce the effects of fluctuating foreign currency exchange rates. We have entered into one (1) interest rate swap in an attempt to take advantage of low variable interest rates as compared to the fixed rate on our long term debt. We do not engage in the trading of foreign currency forward exchange contracts or interest rate swaps.
+[ADDED in Year T] We believe that our risk of loss as the result of nonperformance by any of such financial institutions is remote and in any event would not be material. The contracts have varying maturities with none exceeding one year. Costs associated with entering into such contracts have not been material to our financial results. At December 31, Year T, we had foreign currency contracts in the form of forward exchange contracts in the amount of approximately $9 million.
+[ADDED in Year T] The foreign currencies included in these contracts are principally the U.S. dollar and the British pound.
+
+## Financial Statements and Notes: similarity to Year T-1 = 0.93 (added 103, removed 16, modified 28, unchanged 123 paragraphs)
+[ADDED in Year T] In June Year T, the president of the Court of Appeal granted a petition filed by [NAME] regarding ongoing payments for royalties due to [NAME]. In the same interlocutory judgment, the president of the Court of Appeal rejected [COMPANY], S.A.'s request for the appointment of a new judicial expert. Such request was made to refute the findings of the judicial expert originally appointed by the Commercial Court, which resulted in the $600 judgment against [COMPANY], S.A. As a result of these further developments, [COMPANY], S.A. and its special litigation counsel consider it likely that the judgment will be sustained and therefore, in June Year T, has taken a charge against earnings for $600, the full amount of the judgment.
+[REMOVED since Year T-1] [1] On March 27, Year T-3, [NAME], the licensor of the [NAME] trademark, entered into an agreement to sell the [NAME] trademarks to [ENTITY] At the request of [ENTITY], the Company agreed to relinquish its [NAME] nail and lip product license. In connection with the transaction, all of the Company's [NAME] inventory was sold to [ENTITY] and certain liabilities were assumed by [ENTITY] These transactions closed simultaneously on April 30, Year T-3. The Company incurred a pre-tax charge of approximately $1,300,000 in the first quarter of Year T-3 due to the write-off of intangible assets and other expenses relating to the relinquishment of the [NAME] license.
+[ADDED in Year T] The Financial Accounting Standards Board has issued a new standard. Statement of Financial Accounting Standards No. [#] ("SFAS [#]"), accounting for Derivative Instruments and Hedging Activities, which becomes effective for years beginning after June 15, Year T, requires that every derivative instrument be recorded in the balance sheet as either an asset or liability measured at its fair value. The statement requires that changes in the derivative's fair value be recognized in earnings unless specific hedge accounting criteria are met. The Company believes that the effect of adoption of SFAS [#] will not be material to the Company's financial statements.
+[ADDED in Year T] On April 27, Year T, the Company's Board of Directors authorized a three-for-two stock split effected in the form of a 50% stock dividend distributed on June 15, Year T to shareholders of record as of June 1, Year T. As a result of the stock split, the accompanying consolidated financial statements reflect an increase in the number of outstanding shares of common stock and the transfer of the par value of these additional shares from paid-in capital. All share and per share amounts have been restated to reflect the retroactive effect of the stock split.
+[ADDED in Year T] Preferred stock, $.001 par value; authorized 1,000,000 shares; none issued Common stock, $.001 par value; authorized 30,000,000 shares; outstanding 11,676,277 and 11,832,721 shares in Year T and Year T-1, respectively 12 12 Additional paid-in capital 27,728 26,518 Retained earnings 58,669 52,080 Accumulated other comprehensive income (6,574) (4,290) Treasury stock, at cost 5,736,405 and 5,392,805 shares in Year T and Year T-1, respectively (24,774) (21,959) -------- --------
+[ADDED in Year T] DECEMBER 31, -------------------- Year T Year T-1 -------- -------- ASSETS Current assets: Cash and cash equivalents $ 27,599 $ 24,936 Marketable securities (Note B) 4,424 Accounts receivable, net of allowances of $2,067 and $2,095 in Year T and Year T-1, respectively 30,844 26,033 Inventories (Notes A and C) 25,340 19,450 Receivables, other 497 875 Other 1,808 1,169 Deferred tax benefit (Note K) 435 858 -------- --------
+[REMOVED since Year T-1] /s/ [COMPANY] [NAME] - -------------- [COMPANY] [NAME] Chairman of the Board of Directors and Chief Executive Officer March 23, Year T /s/ Russell [NAME] - --------------------- Russell [NAME] Chief Financial and Accounting Officer and Director March 23, Year T /s/ [COMPANY] [NAME] - -------------------- [COMPANY] [NAME] Director March 27, Year T
+[REMOVED since Year T-1] At December 31, Year T-2, long-term debt represented borrowings by a foreign subsidiary of $200, due in Year T+4. Pursuant to its terms, during Year T-1, the loan was converted by the holder into shares of the Company's foreign subsidiary at approximately $14 per share. Interest was payable quarterly at 7% per annum. (See Note I[1]).
+
+## Item 9 Accountant Changes: similarity to Year T-1 = 1.00 (added 0, removed 0, modified 0, unchanged 1 paragraphs)
+
+## Item 9A Controls and Procedures: similarity to Year T-1 = 0.00 (added 0, removed 0, modified 0, unchanged 0 paragraphs)

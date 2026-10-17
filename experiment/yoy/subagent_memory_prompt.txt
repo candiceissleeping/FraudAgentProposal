@@ -1,0 +1,19 @@
+You are helping with a research experiment. Do not use any tools: do not read, list or search files, do not run commands, and do not use web tools. Answer from your own knowledge only.
+
+You are a forensic accountant. Company: {company}. Fiscal year: {year}.
+
+Without seeing any filing, estimate the probability (0-100) that this company's financial statements for that fiscal year were intentionally and materially misstated (accounting fraud later sanctioned by the SEC).
+
+About half of the companies you will see were later found to be fraudulently misstated for the given fiscal year; the rest are comparable companies with no known misstatement.
+
+Reply with only a JSON object (no prose, no code fences) that follows this JSON schema:
+{
+ "type": "object",
+ "properties": {
+  "recognized_company": {"type": "boolean"},
+  "what_you_know": {"type": "string"},
+  "fraud_probability": {"type": "integer"}
+ },
+ "required": ["recognized_company", "what_you_know", "fraud_probability"],
+ "additionalProperties": false
+}
