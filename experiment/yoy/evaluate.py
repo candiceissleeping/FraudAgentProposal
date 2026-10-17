@@ -3,7 +3,7 @@
   python -m experiment.yoy.evaluate --run pilot   # -> results/exp1_<run>/report.md, scores.csv
 
 Analysis set: pairs where both firms have a valid score in every arm (at least one repeat
-parsed); exclusions are reported. A firm counts as identified by the probe when the guess
+parsed); exclusions are reported. Only documents that appear in the run are considered. A firm counts as identified by the probe when the guess
 contains its current or former EDGAR name (or a distinctive word of it); metrics are repeated without the
 pairs where either firm was identified.
 """
@@ -109,6 +109,8 @@ def main():
         key = json.load(f)
     names = packets.load_firms(args.firms)
     probs, probes, evidence, failures = load_responses(os.path.join(args.out, "runs", args.run, "responses.jsonl"))
+    scored = {d for _, d in probs} | set(probes)
+    key = {d: k for d, k in key.items() if d in scored}  # a partial run covers only the docs it scored
     scores = {arm: {d: sum(v) / len(v) for (a, d), v in probs.items() if a == arm} for arm in packets.ARMS}
     label = {d: k["role"] == "fraud" for d, k in key.items()}
 
