@@ -5,8 +5,9 @@ SEC asks for a User-Agent with contact details and at most 10 requests/second:
 
   SEC_USER_AGENT="Your Name your@email" python -m experiment.yoy.sic
 
-Results are cached in data/sic.json ({cik: {"sic": "2834", "name": ...}}); reruns
-only fetch missing CIKs. Note: the API returns the firm's *current* SIC code.
+Results are cached in data/sic.json ({cik: {"sic": "2834", "name": ..., "former_names": [...]}});
+reruns only fetch missing CIKs. Note: the API returns the firm's *current* SIC code and name;
+former names (renamed firms) are kept so masking can catch the name used at the time.
 """
 import argparse
 import concurrent.futures
@@ -31,9 +32,10 @@ def load(path=DEFAULT_PATH):
     return {}
 
 
-def fetch(ciks, path=DEFAULT_PATH, user_agent=None):
+def fetch(ciks, path=DEFAULT_PATH, user_agent=None, need_former_names=False):
     cache = load(path)
-    todo = sorted(c for c in set(ciks) if c not in cache)
+    todo = sorted(c for c in set(ciks)
+                  if c not in cache or (need_former_names and "former_names" not in cache[c]))
     if not todo:
         return cache
     user_agent = user_agent or os.environ.get("SEC_USER_AGENT")
@@ -59,10 +61,11 @@ def fetch(ciks, path=DEFAULT_PATH, user_agent=None):
                     raise
             time.sleep(2 ** (attempt + 1))
         if r.status_code == 404:
-            return cik, {"sic": "", "name": ""}
+            return cik, {"sic": "", "name": "", "former_names": []}
         r.raise_for_status()
         d = r.json()
-        return cik, {"sic": d.get("sic") or "", "name": d.get("name") or ""}
+        return cik, {"sic": d.get("sic") or "", "name": d.get("name") or "",
+                     "former_names": [n["name"] for n in d.get("formerNames") or [] if n.get("name")]}
 
     print(f"fetching SIC for {len(todo):,} CIKs ({len(cache):,} cached)", flush=True)
     with concurrent.futures.ThreadPoolExecutor(WORKERS) as pool:

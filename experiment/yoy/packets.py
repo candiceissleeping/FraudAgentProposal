@@ -127,7 +127,7 @@ def main():
     key, features, digests = {}, [], {}
     for doc_id, (p, role) in sorted(zip(ids, docs)):
         cik, t = p[role]["cik"], p["t"]
-        aliases = mask.name_aliases(names.get(cik, {}).get("name", ""))
+        aliases = mask.firm_aliases(names.get(cik, {}))
         current = masked_filing(fetch_sample.load(args.filings, cik, t), t, aliases)
         prior = masked_filing(fetch_sample.load(args.filings, cik, t - 1), t, aliases)
         texts, sims = build(current, prior)

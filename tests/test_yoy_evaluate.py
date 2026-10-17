@@ -28,9 +28,13 @@ class MetricTest(unittest.TestCase):
         self.assertEqual(evaluate.mcnemar_p([1.0, 0.0], [1.0, 0.0])[0], 1.0)
 
     def test_identified(self):
-        self.assertTrue(evaluate.identified({"company_guess": "Probably Enron Corp."}, "ENRON CORP /OR/"))
-        self.assertFalse(evaluate.identified({"company_guess": "A Texas energy trader"}, "ENRON CORP /OR/"))
-        self.assertFalse(evaluate.identified(None, "ENRON CORP /OR/"))
+        enron = {"name": "ENRON CORP /OR/"}
+        self.assertTrue(evaluate.identified({"company_guess": "Probably Enron Corp."}, enron))
+        self.assertFalse(evaluate.identified({"company_guess": "A Texas energy trader"}, enron))
+        self.assertFalse(evaluate.identified(None, enron))
+        renamed = {"name": "SOURCECORP INC", "former_names": ["FYI INC"]}
+        self.assertTrue(evaluate.identified({"company_guess": "F.Y.I. Incorporated"}, renamed) or
+                        evaluate.identified({"company_guess": "FYI Inc"}, renamed))
 
 
 def fake_result(stop_reason, text):

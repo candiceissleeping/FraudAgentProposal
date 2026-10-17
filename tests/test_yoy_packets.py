@@ -44,5 +44,21 @@ class BuildTest(unittest.TestCase):
         self.assertIn("results for Year T and Year T-1", m["section_7"])
 
 
+class MaskTest(unittest.TestCase):
+    def test_former_names_dotted_acronyms_and_state_suffix(self):
+        firm = {"name": "SOURCECORP INC", "former_names": ["FYI INC"]}
+        text = mask.mask('Our mark "F.Y.I. INCORPORATED"; FYI Inc. and SourceCorp grew; fyi readers.', 2001,
+                         mask.firm_aliases(firm))
+        self.assertNotIn("F.Y.I", text)
+        self.assertNotIn("FYI", text)
+        self.assertNotIn("SourceCorp", text)
+        self.assertIn("KVH", mask.name_aliases("KVH INDUSTRIES INC \\DE\\"))
+        self.assertNotIn("NEW", mask.name_aliases("NEW ENGLAND BUSINESS SERVICE INC"))
+
+    def test_generic_words_kept(self):
+        text = mask.mask("The Company and the Group reported results.", 2001, mask.name_aliases("GENERAL GROUP INC"))
+        self.assertEqual(text, "The Company and the Group reported results.")
+
+
 if __name__ == "__main__":
     unittest.main()

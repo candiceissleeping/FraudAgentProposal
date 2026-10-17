@@ -26,26 +26,40 @@ _LEGAL = re.compile(r"[,.]?\s+" + SUFFIXES + r"\b\.?$", re.I)
 _COMMON = {"american", "national", "international", "united", "general", "first", "new", "the", "and",
            "global", "systems", "services", "technologies", "technology", "industries", "financial",
            "communications", "energy", "health", "healthcare", "capital", "resources", "solutions",
-           "group", "holdings", "corp", "inc", "company", "of", "bank", "pharmaceuticals", "software"}
+           "group", "holdings", "corp", "inc", "company", "of", "bank", "pharmaceuticals", "software",
+           "co", "us", "usa", "oil", "gas", "net", "tel", "air", "big", "one", "all", "pan", "old", "west",
+           "east", "bio", "med", "pro", "tri", "nu"}
 
 
 def name_aliases(name):
     """'ENRON CORP /OR/' -> ['ENRON CORP', 'ENRON'] (longest first; matched case-insensitively)."""
-    name = re.sub(r"\s*/.*$", "", name or "").strip()  # EDGAR state suffix like /DE/
+    name = re.sub(r"\s*[/\\].*$", "", name or "").strip()  # EDGAR state suffix like /DE/ or \DE\
     if not name:
         return []
     base = _LEGAL.sub("", name).strip(" ,.")
     forms = {name, base}
     forms |= {w for w in re.findall(r"[A-Za-z][A-Za-z&'\-]{3,}", base) if w.lower() not in _COMMON}
+    first = re.match(r"[A-Za-z]{2,3}\b", base)  # short brand-like first word, e.g. KVH, FYI
+    if first and first.group(0).lower() not in _COMMON:
+        forms.add(first.group(0))
     return sorted({f for f in forms if f}, key=len, reverse=True)
+
+
+def firm_aliases(firm):
+    """Aliases from a firm's current and former EDGAR names, longest first."""
+    names = [firm.get("name", "")] + list(firm.get("former_names", []))
+    return sorted({a for n in names for a in name_aliases(n)}, key=len, reverse=True)
 
 
 def mask(text, t, aliases=()):
     if not text:
         return ""
     for a in aliases:
-        text = re.sub(r"(?<![\w])" + re.escape(a).replace(r"\ ", r"[\s,]+") + r"(?![\w])", "[COMPANY]", text,
-                      flags=re.I)
+        if re.fullmatch(r"[A-Za-z]{2,5}", a):  # short acronym: also match the dotted form, e.g. F.Y.I.
+            pattern = r"\.?".join(map(re.escape, a)) + r"\.?"
+        else:
+            pattern = re.escape(a).replace(r"\ ", r"[\s,]+")
+        text = re.sub(r"(?<![\w.])" + pattern + r"(?![\w])", "[COMPANY]", text, flags=re.I)
     text = _AUDITORS.sub("[AUDITOR]", text)
     text = _PERSON.sub("[PERSON]", text)
     text = _ENTITY.sub(lambda m: m.group(0) if "[COMPANY]" in m.group(0) else "[ENTITY]", text)

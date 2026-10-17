@@ -4,7 +4,7 @@
 
 Analysis set: pairs where both firms have a valid score in every arm (at least one repeat
 parsed); exclusions are reported. A firm counts as identified by the probe when the guess
-contains its EDGAR name (or a distinctive word of it); metrics are repeated without the
+contains its current or former EDGAR name (or a distinctive word of it); metrics are repeated without the
 pairs where either firm was identified.
 """
 import argparse
@@ -90,11 +90,11 @@ def load_responses(path):
     return probs, probes, evidence, failures
 
 
-def identified(probe, name):
+def identified(probe, firm):
     if not probe:
         return False
     guess = probe["company_guess"].lower()
-    return any(a.lower() in guess for a in mask.name_aliases(name))
+    return any(a.lower() in guess for a in mask.firm_aliases(firm))
 
 
 def main():
@@ -126,7 +126,7 @@ def main():
             "B0 keyword score": {d: keyword_score.score_filing(fetch_sample.load(args.filings, k["cik"], k["t"]))["score"]
                                  for d, k in key.items()}}
 
-    ident = {d: identified(probes.get(d), names.get(k["cik"], {}).get("name", "")) for d, k in key.items()}
+    ident = {d: identified(probes.get(d), names.get(k["cik"], {})) for d, k in key.items()}
     year_hit = {d: bool(probes.get(d)) and abs(probes[d]["fiscal_year_guess"] - k["t"]) <= 1 for d, k in key.items()}
     clean = [(f, c) for f, c in pairs if not ident[f] and not ident[c]]
     docs = [d for p in pairs for d in p]
