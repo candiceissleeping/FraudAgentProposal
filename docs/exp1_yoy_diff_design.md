@@ -50,7 +50,7 @@
 |---|---|
 | 用裁罰文件標註**哪幾年**、**哪個科目**有問題 | 用 AAER 標出舞弊年度（firm-year 標籤）與舞弊類型（營收、存貨、費用、準備…） |
 | 跨年度串聯證據的想法 | 就是本實驗的處理組：把 t 年與 t-1 年 10-K 的差異餵給 LLM |
-| 問題層級 recall（R_I） | 作為**次要**指標：LLM 指出的舞弊類型是否與 AAER 描述相符（可解釋性） |
+| 問題層級 recall（R_I） | 原規劃為次要指標；但 Bao et al. 的標籤沒有舞弊科目，**本實驗無法計算**，需另取 CFRM 完整資料 |
 | 「輸入越長、單一 LLM 越差」的發現 | 設計時要控制 token 長度，否則「多給一年」可能因為變長而變差，或因為資訊變多而變好，兩者混在一起 |
 
 ---
@@ -98,7 +98,7 @@
 | **A1 長度對照** | t 年 10-K + t-1 年 10-K **原文**（截到與 A2 差異段落相同 token 數） | 「多給文字」本身有沒有幫助 |
 | **A2 處理組** | t 年 10-K + **結構化年度差異**（t vs t-1） | 本實驗主要假設 |
 | A3 僅差異（次要） | 只有年度差異 | 差異本身含多少訊號 |
-| B0 非 LLM 參考 | 各章節的年度文字相似度（Brown & Tucker 2011；Cohen, Malloy & Nguyen 2020 "Lazy Prices"）+ 既有關鍵字分數，羅吉斯迴歸 | LLM 是否比便宜的文字差異指標更有用 |
+| B0 非 LLM 參考 | ① 年度文字差異度 = 1 − 各章節年度相似度平均（Brown & Tucker 2011；Cohen, Malloy & Nguyen 2020 "Lazy Prices"）；② 既有關鍵字分數。兩者都不需訓練，避免在小樣本上擬合 | LLM 是否比便宜的文字差異指標更有用 |
 
 **關鍵**：A2 和 A1 的輸入長度相同。
 - A2 − A0：加入年度資訊的總效果
@@ -125,7 +125,10 @@
 
 ### 3.4 LLM 設定
 
-- 同一模型跑所有組別；temperature 0；每筆重跑 3 次取平均以降低變異。
+- 同一模型（`claude-opus-5-5`，effort `high`）跑所有組別，經 Message Batches API 送出（`experiment/yoy/run_llm.py`）。
+  此模型不接受 temperature 等取樣參數，因此每份資料包**重跑 3 次取平均**，並可用來估計重跑變異。
+- 不設定拒答時的備援模型：每份文件都必須由同一模型評分；拒答或格式錯誤記錄為無效並在報告中列出。
+- System prompt 說明樣本中約一半是舞弊公司（四組相同）；否則 Accuracy@50 沒有意義。AUC 不受此影響。
 - 建議至少兩個模型（一個閉源、一個開源）檢查結論是否穩定。
 - 輸出固定 JSON：
   ```json
@@ -141,7 +144,8 @@
 
 1. **遮蔽**：公司名、子公司、人名、品牌、會計師事務所名稱；年份改成相對年份（Year T、Year T-1）。
    遮蔽清單由 EDGAR 公司名稱 + NER 自動產生，再人工抽查。
-2. **身分測試**：另外問模型「這是哪一家公司？」。報告認出比例，並在**排除被認出的樣本**後重算主要指標。
+2. **身分測試**：用 A1 資料包（含兩年原文，最容易認出）另外問模型「這是哪一家公司、哪一年？」。
+   猜測中出現該公司 EDGAR 名稱（或其特徵字）即算認出；報告認出比例，並在**排除含被認出公司的配對**後重算主要指標。
 3. **時間**：只用 t 與 t-1 的原始 10-K，不用之後的申報；舞弊組的 t 年 10-K 必須早於 AAER 或公開揭露日期。
 4. **評分者不知道標籤**：LLM 評分與標籤對應在跑完之後才合併。
 
@@ -153,7 +157,7 @@
 | 主要 | ROC-AUC 差（A2 − A1） | 判斷增益來自「差異」還是「多一年文字」 |
 | 次要 | 配對內正確率 | 每組配對中舞弊公司分數較高的比例；組別間用 McNemar 檢定 |
 | 次要 | Accuracy / F1（門檻 50）、PR-AUC、Brier | Accuracy 受門檻與 1:1 比例影響，只作參考；另以 1:4 對照比例報 PR-AUC，較接近真實盛行率 |
-| 可解釋性 | 問題層級 recall（借自 AuditAgent 的 R_I） | 舞弊組中，LLM 指出的 `fraud_types` 是否包含 AAER 記載的類型 |
+| 可解釋性 | 問題層級 recall（借自 AuditAgent 的 R_I） | 標籤缺舞弊科目，本實驗不計算；`fraud_types` 只做描述性統計 |
 | 機制 | 證據來源比例 | A2 判對的案例中，有多少引用來自 `diff` |
 
 **判定規則（事先登錄）**：
@@ -185,6 +189,11 @@ python -m experiment.yoy.labels                  # 下載 AAER 標籤並列出�
 python -m experiment.yoy.index_corpus            # 索引 1993–2020 所有 10-K 的章節長度（約 30 GB 串流，不存全文）
 SEC_USER_AGENT="Name email" python -m experiment.yoy.sic   # 需能連到 data.sec.gov
 python -m experiment.yoy.build_sample            # → config/exp1_sample.json、results/exp1_attrition.md
+python -m experiment.yoy.fetch_sample --pilot    # 抓試點公司 t 與 t-1 的 10-K 全文
+python -m experiment.yoy.packets --pilot         # 遮蔽 + 產生 A0–A3 資料包
+python -m experiment.yoy.run_llm submit --run pilot    # 需 Anthropic API 金鑰
+python -m experiment.yoy.run_llm collect --run pilot
+python -m experiment.yoy.evaluate --run pilot    # → results/exp1_pilot/report.md
 ```
 
 ## 5. 已知限制
