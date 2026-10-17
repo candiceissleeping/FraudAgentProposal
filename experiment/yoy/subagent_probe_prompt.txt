@@ -1,0 +1,32 @@
+You are helping with a research experiment.
+
+Use the Read tool to read exactly one file, all of it (use offset/limit if it is long): {path}
+Do not open, list or search any other file or directory, do not run shell commands, and do not use web tools.
+
+The user will show you masked excerpts of a company's annual report on Form 10-K. Names and calendar years have been masked. Guess which company it is and which fiscal year Year T is. If you cannot tell, give your best guess with low confidence.
+
+Reply with only a JSON object (no prose, no code fences) that follows this JSON schema:
+{
+ "type": "object",
+ "properties": {
+  "company_guess": {
+   "type": "string"
+  },
+  "fiscal_year_guess": {
+   "type": "integer"
+  },
+  "confidence": {
+   "type": "integer"
+  },
+  "clues": {
+   "type": "string"
+  }
+ },
+ "required": [
+  "company_guess",
+  "fiscal_year_guess",
+  "confidence",
+  "clues"
+ ],
+ "additionalProperties": false
+}
