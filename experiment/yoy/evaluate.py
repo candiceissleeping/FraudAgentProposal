@@ -20,7 +20,8 @@ from experiment.yoy import fetch_sample, mask, packets
 
 BOOTSTRAP = 2000
 SEED = 20261017
-COMPARISONS = (("A2", "A0"), ("A2", "A1"), ("A1", "A0"), ("A3", "A0"))
+COMPARISONS = (("A2", "A0"), ("A2", "A1"), ("A1", "A0"), ("A3", "A0"), ("A0", "K0"), ("A2", "K0"))
+# K0 = memory baseline: company name and fiscal year only, no filing text (subagent_memory_prompt.txt)
 
 
 def auc(pos, neg):
@@ -86,7 +87,7 @@ def load_responses(path):
                 failures[(arm, r["status"], r["stop_reason"])] += 1
                 continue
             probs[(arm, doc)].append(max(0, min(100, data["fraud_probability"])))
-            evidence[(arm, doc)].extend(data["evidence"])
+            evidence[(arm, doc)].extend(data.get("evidence", []))
     return probs, probes, evidence, failures
 
 
@@ -111,14 +112,16 @@ def main():
     probs, probes, evidence, failures = load_responses(os.path.join(args.out, "runs", args.run, "responses.jsonl"))
     scored = {d for _, d in probs} | set(probes)
     key = {d: k for d, k in key.items() if d in scored}  # a partial run covers only the docs it scored
-    scores = {arm: {d: sum(v) / len(v) for (a, d), v in probs.items() if a == arm} for arm in packets.ARMS}
+    arms = [a for a in packets.ARMS if any(x == a for x, _ in probs)]
+    arms += sorted({a for a, _ in probs} - set(arms))  # extra arms such as K0
+    scores = {arm: {d: sum(v) / len(v) for (a, d), v in probs.items() if a == arm} for arm in arms}
     label = {d: k["role"] == "fraud" for d, k in key.items()}
 
     by_pair = collections.defaultdict(dict)
     for d, k in key.items():
         by_pair[k["pair_id"]][k["role"]] = d
     all_pairs = [(p["fraud"], p["control"]) for _, p in sorted(by_pair.items())]
-    pairs = [(f, c) for f, c in all_pairs if all(f in scores[a] and c in scores[a] for a in packets.ARMS)]
+    pairs = [(f, c) for f, c in all_pairs if all(f in scores[a] and c in scores[a] for a in arms)]
 
     # non-LLM references: year-over-year dissimilarity and the existing keyword score
     with open(os.path.join(args.out, "features.csv"), encoding="utf-8") as f:
@@ -134,11 +137,11 @@ def main():
     docs = [d for p in pairs for d in p]
 
     L = [f"# 實驗一 {args.run}：結果（自動產生）", "",
-         f"- 配對：{len(all_pairs)} 組；四組皆有有效分數：**{len(pairs)} 組**；排除被認出公司後：{len(clean)} 組",
+         f"- 配對：{len(all_pairs)} 組；所有組別皆有有效分數：**{len(pairs)} 組**；排除被認出公司後：{len(clean)} 組",
          f"- 身分測試：認出公司 {sum(ident.values())}/{len(key)}；猜中年度（±1）{sum(year_hit.values())}/{len(key)}",
          "", "## 主要結果", "",
          "| 組別 | AUC | 配對內正確率 | Accuracy@50 | Brier | AUC（排除被認出） |", "|---|---|---|---|---|---|"]
-    for arm in packets.ARMS:
+    for arm in arms:
         s = scores[arm]
         L.append(f"| {arm} | {pair_auc(pairs, s):.3f} | {sum(within_pair(pairs, s)) / len(pairs):.3f} | "
                  f"{accuracy(docs, s, label):.3f} | {brier(docs, s, label):.3f} | {pair_auc(clean, s):.3f} |")
@@ -147,7 +150,7 @@ def main():
                  f"{pair_auc(clean, s):.3f} |")
     L += ["", "## 組間比較（配對 bootstrap 95% CI；McNemar 為配對內正確與否）", "",
           "| 比較 | ΔAUC | 95% CI | ΔAUC（排除被認出） | McNemar p（只對 / 只錯） |", "|---|---|---|---|---|"]
-    for a, b in COMPARISONS:
+    for a, b in [(a, b) for a, b in COMPARISONS if a in scores and b in scores]:
         d, lo, hi = bootstrap_delta(pairs, scores[a], scores[b])
         dc = pair_auc(clean, scores[a]) - pair_auc(clean, scores[b])
         p, nb, nc = mcnemar_p(within_pair(pairs, scores[a]), within_pair(pairs, scores[b]))
@@ -165,10 +168,10 @@ def main():
         f.write("\n".join(L) + "\n")
     with open(os.path.join(rdir, "scores.csv"), "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
-        w.writerow(["doc_id", "pair_id", "role", "cik", "t", *packets.ARMS, *refs, "identified", "year_guessed"])
+        w.writerow(["doc_id", "pair_id", "role", "cik", "t", *arms, *refs, "identified", "year_guessed"])
         for d, k in sorted(key.items()):
             w.writerow([d, k["pair_id"], k["role"], k["cik"], k["t"],
-                        *[f"{scores[a][d]:.1f}" if d in scores[a] else "" for a in packets.ARMS],
+                        *[f"{scores[a][d]:.1f}" if d in scores[a] else "" for a in arms],
                         *[f"{refs[r][d]:.3f}" for r in refs], int(ident[d]), int(year_hit[d])])
     print("\n".join(L))
 
