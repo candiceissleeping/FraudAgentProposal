@@ -1,0 +1,1593 @@
+{
+ "_comment": "EDGAR name and SIC (data.sec.gov, current values) for every firm in config/exp1_sample.json; used for masking and the identity check",
+ "firms": {
+  "2488": {
+   "name": "ADVANCED MICRO DEVICES INC",
+   "sic": "3674"
+  },
+  "2491": {
+   "name": "BALLY TECHNOLOGIES, INC.",
+   "sic": "7372"
+  },
+  "3116": {
+   "name": "AKORN INC",
+   "sic": "2834"
+  },
+  "3982": {
+   "name": "Allis Chalmers Energy Inc.",
+   "sic": "1389"
+  },
+  "5133": {
+   "name": "AMERICAN GREETINGS CORP",
+   "sic": "2771"
+  },
+  "5272": {
+   "name": "AMERICAN INTERNATIONAL GROUP, INC.",
+   "sic": "6331"
+  },
+  "6284": {
+   "name": "ANALOGIC CORP",
+   "sic": "3825"
+  },
+  "14272": {
+   "name": "BRISTOL MYERS SQUIBB CO",
+   "sic": "2834"
+  },
+  "15615": {
+   "name": "MASTEC INC",
+   "sic": "1623"
+  },
+  "16496": {
+   "name": "CALPROP CORP",
+   "sic": "1531"
+  },
+  "18255": {
+   "name": "CATO CORP",
+   "sic": "5621"
+  },
+  "22252": {
+   "name": "COMARCO INC",
+   "sic": "3663"
+  },
+  "23082": {
+   "name": "COMPUTER SCIENCES CORP",
+   "sic": "7373"
+  },
+  "23111": {
+   "name": "COMPUTER TASK GROUP INC",
+   "sic": "7371"
+  },
+  "26780": {
+   "name": "DANA Inc",
+   "sic": "3714"
+  },
+  "27748": {
+   "name": "DGT Holdings Corp.",
+   "sic": "3679"
+  },
+  "27960": {
+   "name": "QSGI INC.",
+   "sic": "7389"
+  },
+  "28325": {
+   "name": "GRISTEDES FOODS INC",
+   "sic": "5411"
+  },
+  "28823": {
+   "name": "DIEBOLD NIXDORF, Inc",
+   "sic": "3578"
+  },
+  "28871": {
+   "name": "DI GIORGIO CORP",
+   "sic": "5141"
+  },
+  "29534": {
+   "name": "DOLLAR GENERAL CORP",
+   "sic": "5331"
+  },
+  "29915": {
+   "name": "DOW CHEMICAL CO /DE/",
+   "sic": "2821"
+  },
+  "30140": {
+   "name": "LASERCARD CORP",
+   "sic": "3572"
+  },
+  "32870": {
+   "name": "QUIXOTE CORP",
+   "sic": "3089"
+  },
+  "35214": {
+   "name": "FERRO CORP",
+   "sic": "2851"
+  },
+  "40888": {
+   "name": "AEROJET ROCKETDYNE HOLDINGS, INC.",
+   "sic": "3760"
+  },
+  "41133": {
+   "name": "GERBER SCIENTIFIC INC",
+   "sic": "3559"
+  },
+  "42179": {
+   "name": "JG INDUSTRIES INC/IL/",
+   "sic": "5311"
+  },
+  "42228": {
+   "name": "GOLDEN ENTERPRISES INC",
+   "sic": "2090"
+  },
+  "42284": {
+   "name": "WHITEMARK HOMES INC",
+   "sic": "1531"
+  },
+  "46250": {
+   "name": "HAWKINS INC",
+   "sic": "5160"
+  },
+  "49196": {
+   "name": "HUNTINGTON BANCSHARES INC /MD/",
+   "sic": "6021"
+  },
+  "49728": {
+   "name": "IEC ELECTRONICS CORP",
+   "sic": "3672"
+  },
+  "50493": {
+   "name": "INGLES MARKETS INC",
+   "sic": "5411"
+  },
+  "50601": {
+   "name": "INNOVEX INC",
+   "sic": "3679"
+  },
+  "51124": {
+   "name": "AMERICAN BANKNOTE CORP",
+   "sic": "2750"
+  },
+  "53260": {
+   "name": "JAYARK CORP",
+   "sic": "5020"
+  },
+  "59527": {
+   "name": "LINCOLN ELECTRIC HOLDINGS INC",
+   "sic": "3540"
+  },
+  "60714": {
+   "name": "LSB INDUSTRIES, INC.",
+   "sic": "2810"
+  },
+  "60911": {
+   "name": "ADVANCED TECHNICAL PRODUCTS INC",
+   "sic": "3460"
+  },
+  "61339": {
+   "name": "MADISON GAS & ELECTRIC CO",
+   "sic": "4931"
+  },
+  "65914": {
+   "name": "MID STATE RACEWAY INC",
+   "sic": "7948"
+  },
+  "66004": {
+   "name": "MIDDLESEX WATER CO",
+   "sic": "4941"
+  },
+  "71829": {
+   "name": "NPK International Inc.",
+   "sic": "7350"
+  },
+  "72020": {
+   "name": "NICOR INC",
+   "sic": "4924"
+  },
+  "73568": {
+   "name": "OAK INDUSTRIES INC",
+   "sic": "3678"
+  },
+  "73773": {
+   "name": "OI CORP",
+   "sic": "3826"
+  },
+  "73887": {
+   "name": "Bristow Group Inc",
+   "sic": "4522"
+  },
+  "77155": {
+   "name": "PENN TRAFFIC CO",
+   "sic": "5411"
+  },
+  "78814": {
+   "name": "PITNEY BOWES INC /DE/",
+   "sic": "3579"
+  },
+  "92769": {
+   "name": "SPECTRUM CONTROL INC",
+   "sic": "3679"
+  },
+  "96763": {
+   "name": "PULSE ELECTRONICS CORP",
+   "sic": "3679"
+  },
+  "97148": {
+   "name": "TEL OFFSHORE TRUST",
+   "sic": "6792"
+  },
+  "97216": {
+   "name": "TEREX CORP",
+   "sic": "3537"
+  },
+  "98222": {
+   "name": "TIDEWATER INC",
+   "sic": "4400"
+  },
+  "98338": {
+   "name": "TSR INC",
+   "sic": "7371"
+  },
+  "99771": {
+   "name": "TRINITY CAPITAL CORP",
+   "sic": "6021"
+  },
+  "103730": {
+   "name": "VISHAY INTERTECHNOLOGY INC",
+   "sic": "3670"
+  },
+  "103872": {
+   "name": "VOLT INFORMATION SCIENCES, INC.",
+   "sic": "7363"
+  },
+  "108312": {
+   "name": "Woodward, Inc.",
+   "sic": "3620"
+  },
+  "109156": {
+   "name": "ZALE CORP",
+   "sic": "5944"
+  },
+  "109831": {
+   "name": "INAMED CORP",
+   "sic": "3842"
+  },
+  "215219": {
+   "name": "Voyager Learning CO",
+   "sic": "2741"
+  },
+  "216228": {
+   "name": "ITT INC.",
+   "sic": "3561"
+  },
+  "217028": {
+   "name": "AVENTIS INC",
+   "sic": "2834"
+  },
+  "225868": {
+   "name": "ROBOTIC VISION SYSTEMS INC",
+   "sic": "3823"
+  },
+  "278352": {
+   "name": "SYMBOL TECHNOLOGIES INC",
+   "sic": "3577"
+  },
+  "315293": {
+   "name": "Aon plc",
+   "sic": "6411"
+  },
+  "315999": {
+   "name": "NATIONAL TRANSACTION NETWORK INC",
+   "sic": "7373"
+  },
+  "317340": {
+   "name": "MIKROS SYSTEMS CORP",
+   "sic": "3829"
+  },
+  "319815": {
+   "name": "MAXWELL TECHNOLOGIES INC",
+   "sic": "3690"
+  },
+  "320193": {
+   "name": "Apple Inc.",
+   "sic": "3571"
+  },
+  "320431": {
+   "name": "UNIFIED GROCERS, INC.",
+   "sic": "5141"
+  },
+  "351220": {
+   "name": "BFX HOSPITALITY GROUP INC",
+   "sic": "3679"
+  },
+  "352495": {
+   "name": "TELXON CORP",
+   "sic": "3578"
+  },
+  "352949": {
+   "name": "FLEMING COMPANIES INC /OK/",
+   "sic": "5141"
+  },
+  "354908": {
+   "name": "Teledyne FLIR, LLC",
+   "sic": "3812"
+  },
+  "356028": {
+   "name": "CA, INC.",
+   "sic": "7372"
+  },
+  "700733": {
+   "name": "NATIONAL PENN BANCSHARES INC",
+   "sic": "6021"
+  },
+  "701719": {
+   "name": "Envela Corp",
+   "sic": "5944"
+  },
+  "704051": {
+   "name": "LEGG MASON, INC.",
+   "sic": "6282"
+  },
+  "708481": {
+   "name": "WELLS FARGO FINANCIAL INC",
+   "sic": "6141"
+  },
+  "714154": {
+   "name": "COMPAQ COMPUTER CORP",
+   "sic": "3570"
+  },
+  "715072": {
+   "name": "RENASANT CORP",
+   "sic": "6022"
+  },
+  "717306": {
+   "name": "FIRST CHARTER CORP /NC/",
+   "sic": "6021"
+  },
+  "718007": {
+   "name": "DELSITE, INC.",
+   "sic": "2844"
+  },
+  "718909": {
+   "name": "HPSC INC",
+   "sic": "6172"
+  },
+  "719733": {
+   "name": "KEY TRONIC CORP",
+   "sic": "3672"
+  },
+  "720851": {
+   "name": "NESTOR INC",
+   "sic": "7372"
+  },
+  "721371": {
+   "name": "CARDINAL HEALTH INC",
+   "sic": "5122"
+  },
+  "722830": {
+   "name": "IMMUNOMEDICS INC",
+   "sic": "2835"
+  },
+  "723527": {
+   "name": "MCI INC",
+   "sic": "4813"
+  },
+  "725014": {
+   "name": "RAWSON KOENIG INC",
+   "sic": "3713"
+  },
+  "726513": {
+   "name": "TRIBUNE MEDIA CO",
+   "sic": "4833"
+  },
+  "728249": {
+   "name": "INTERPHASE CORP",
+   "sic": "3576"
+  },
+  "730255": {
+   "name": "CalAmp Corp.",
+   "sic": "3663"
+  },
+  "730263": {
+   "name": "THOR INDUSTRIES INC",
+   "sic": "3716"
+  },
+  "735571": {
+   "name": "WARRANTECH CORP",
+   "sic": "7389"
+  },
+  "737955": {
+   "name": "SGI INTERNATIONAL",
+   "sic": "3569"
+  },
+  "740761": {
+   "name": "BUCYRUS INTERNATIONAL INC",
+   "sic": "3532"
+  },
+  "748218": {
+   "name": "POLARIS AIRCRAFT INCOME FUND I",
+   "sic": "7359"
+  },
+  "750901": {
+   "name": "FISCHER IMAGING CORP",
+   "sic": "3844"
+  },
+  "751978": {
+   "name": "VICOR CORP",
+   "sic": "3679"
+  },
+  "753048": {
+   "name": "AXION INTERNATIONAL HOLDINGS, INC.",
+   "sic": "3086"
+  },
+  "754813": {
+   "name": "HealthWarehouse.com, Inc.",
+   "sic": "5912"
+  },
+  "755095": {
+   "name": "PICTURETEL CORP",
+   "sic": "3661"
+  },
+  "760077": {
+   "name": "FIRST LIBERTY FINANCIAL CORP",
+   "sic": "6035"
+  },
+  "764244": {
+   "name": "INTERVOICE INC",
+   "sic": "3661"
+  },
+  "765207": {
+   "name": "First Bancorp, Inc /ME/",
+   "sic": "6021"
+  },
+  "768162": {
+   "name": "LANCER CORP /TX/",
+   "sic": "3585"
+  },
+  "770944": {
+   "name": "BALLY TOTAL FITNESS HOLDING CORP",
+   "sic": "7997"
+  },
+  "773136": {
+   "name": "RAMSAY YOUTH SERVICES INC",
+   "sic": "8060"
+  },
+  "773281": {
+   "name": "PS PARTNERS VI LTD",
+   "sic": "6798"
+  },
+  "779152": {
+   "name": "JACK HENRY & ASSOCIATES INC",
+   "sic": "7373"
+  },
+  "784932": {
+   "name": "SURETY CAPITAL CORP /DE/",
+   "sic": "6021"
+  },
+  "785161": {
+   "name": "Encompass Health Corp",
+   "sic": "8060"
+  },
+  "786947": {
+   "name": "ACURA PHARMACEUTICALS, INC",
+   "sic": "2834"
+  },
+  "790526": {
+   "name": "RadNet, Inc.",
+   "sic": "8071"
+  },
+  "790703": {
+   "name": "TECH DATA CORP",
+   "sic": "5045"
+  },
+  "793526": {
+   "name": "AMNEX INC",
+   "sic": "4899"
+  },
+  "795665": {
+   "name": "METAL MANAGEMENT INC",
+   "sic": "5090"
+  },
+  "796486": {
+   "name": "ADELPHIA COMMUNICATIONS CORP",
+   "sic": "4841"
+  },
+  "798952": {
+   "name": "MSU DEVICES INC",
+   "sic": "3674"
+  },
+  "800240": {
+   "name": "ODP Corp",
+   "sic": "5940"
+  },
+  "802492": {
+   "name": "EA ENGINEERING SCIENCE & TECHNOLOGY INC",
+   "sic": "8711"
+  },
+  "803647": {
+   "name": "VERSAR INC",
+   "sic": "8711"
+  },
+  "807882": {
+   "name": "JACK IN THE BOX INC",
+   "sic": "5812"
+  },
+  "808362": {
+   "name": "Baker Hughes Holdings LLC",
+   "sic": "3533"
+  },
+  "808450": {
+   "name": "NAVISTAR INTERNATIONAL CORP",
+   "sic": "3711"
+  },
+  "811671": {
+   "name": "STERLING FINANCIAL CORP /PA/",
+   "sic": "6021"
+  },
+  "812446": {
+   "name": "ONE PRICE CLOTHING STORES INC",
+   "sic": "5621"
+  },
+  "812708": {
+   "name": "WELLMAN INC",
+   "sic": "2820"
+  },
+  "814580": {
+   "name": "ADVANCED MARKETING SERVICES INC",
+   "sic": "5190"
+  },
+  "815065": {
+   "name": "STERIS CORP",
+   "sic": "3842"
+  },
+  "822663": {
+   "name": "INTERPARFUMS INC",
+   "sic": "2844"
+  },
+  "823094": {
+   "name": "SOTHEBYS",
+   "sic": "7389"
+  },
+  "826154": {
+   "name": "ORRSTOWN FINANCIAL SERVICES INC",
+   "sic": "6022"
+  },
+  "826253": {
+   "name": "AURA SYSTEMS INC",
+   "sic": "3690"
+  },
+  "826773": {
+   "name": "UniTek Global Services, Inc.",
+   "sic": "4812"
+  },
+  "827055": {
+   "name": "POWERCOLD CORP",
+   "sic": "3585"
+  },
+  "831327": {
+   "name": "IMPERIAL SUGAR CO /NEW/",
+   "sic": "2060"
+  },
+  "832175": {
+   "name": "TELESCAN INC",
+   "sic": "7370"
+  },
+  "834408": {
+   "name": "BROOKE CORP",
+   "sic": "6411"
+  },
+  "835012": {
+   "name": "COMMONWEALTH BANKSHARES INC",
+   "sic": "6021"
+  },
+  "835270": {
+   "name": "UNITRONIX CORP",
+   "sic": "7373"
+  },
+  "835541": {
+   "name": "SOLECTRON CORP",
+   "sic": "3672"
+  },
+  "846538": {
+   "name": "ALLOU HEALTH & BEAUTY CARE INC",
+   "sic": "5122"
+  },
+  "846815": {
+   "name": "COLLINS & AIKMAN CORP",
+   "sic": "3714"
+  },
+  "846909": {
+   "name": "ENTERASYS NETWORKS INC /DE/",
+   "sic": "3576"
+  },
+  "849667": {
+   "name": "AMERICAN ITALIAN PASTA CO",
+   "sic": "2090"
+  },
+  "849870": {
+   "name": "PEGASUS AIRCRAFT PARTNERS II L P",
+   "sic": "7359"
+  },
+  "853273": {
+   "name": "BORLAND SOFTWARE CORP",
+   "sic": "7372"
+  },
+  "853665": {
+   "name": "APPLEBEES INTERNATIONAL INC",
+   "sic": "5812"
+  },
+  "853927": {
+   "name": "AMERICAN MEDIA OPERATIONS INC",
+   "sic": "2721"
+  },
+  "854701": {
+   "name": "INTEGRATED SILICON SOLUTION INC",
+   "sic": "3674"
+  },
+  "863157": {
+   "name": "PETSMART INC",
+   "sic": "5990"
+  },
+  "865436": {
+   "name": "WHOLE FOODS MARKET INC",
+   "sic": "5411"
+  },
+  "866535": {
+   "name": "Retail Pro, Inc.",
+   "sic": "7372"
+  },
+  "867058": {
+   "name": "MERCURY INTERACTIVE CORP",
+   "sic": "7372"
+  },
+  "873860": {
+   "name": "ONITY GROUP INC.",
+   "sic": "6162"
+  },
+  "874395": {
+   "name": "PLM EQUIPMENT GROWTH FUND VI",
+   "sic": "7359"
+  },
+  "874841": {
+   "name": "PACIFIC SUNWEAR OF CALIFORNIA INC",
+   "sic": "5600"
+  },
+  "876523": {
+   "name": "EZCORP INC",
+   "sic": "5900"
+  },
+  "878522": {
+   "name": "STEWART ENTERPRISES INC",
+   "sic": "7200"
+  },
+  "880460": {
+   "name": "Perfumania Holdings, Inc.",
+   "sic": "5900"
+  },
+  "880562": {
+   "name": "DAEGIS INC.",
+   "sic": "7372"
+  },
+  "882508": {
+   "name": "QUICKLOGIC Corp",
+   "sic": "3674"
+  },
+  "883983": {
+   "name": "ELEVON INC",
+   "sic": "7372"
+  },
+  "884497": {
+   "name": "MEDQUIST INC",
+   "sic": "7374"
+  },
+  "884624": {
+   "name": "Orthofix Medical Inc.",
+   "sic": "3841"
+  },
+  "884650": {
+   "name": "INFINITE GROUP INC",
+   "sic": "7372"
+  },
+  "884940": {
+   "name": "STEIN MART INC",
+   "sic": "5651"
+  },
+  "885067": {
+   "name": "INTERMEDIA COMMUNICATIONS INC",
+   "sic": "4813"
+  },
+  "887403": {
+   "name": "DAISYTEK INTERNATIONAL CORP /DE/",
+   "sic": "5110"
+  },
+  "887919": {
+   "name": "PREMIER FINANCIAL BANCORP INC",
+   "sic": "6022"
+  },
+  "888335": {
+   "name": "ACCUMED INTERNATIONAL INC",
+   "sic": "2835"
+  },
+  "888919": {
+   "name": "HCC INSURANCE HOLDINGS INC/DE/",
+   "sic": "6331"
+  },
+  "889900": {
+   "name": "PATTERSON UTI ENERGY INC",
+   "sic": "1381"
+  },
+  "890449": {
+   "name": "SOUTHWESTERN LIFE HOLDINGS INC",
+   "sic": "6311"
+  },
+  "890923": {
+   "name": "ZOLTEK COMPANIES INC",
+   "sic": "3620"
+  },
+  "892535": {
+   "name": "TMST, Inc.",
+   "sic": "6798"
+  },
+  "893046": {
+   "name": "RENT WAY INC",
+   "sic": "7359"
+  },
+  "893949": {
+   "name": "Pediatrix Medical Group, Inc.",
+   "sic": "8060"
+  },
+  "894743": {
+   "name": "NEOWARE INC",
+   "sic": "3571"
+  },
+  "895364": {
+   "name": "DUANE READE INC",
+   "sic": "5912"
+  },
+  "895516": {
+   "name": "SPECTRUM GROUP INTERNATIONAL, INC.",
+   "sic": "5094"
+  },
+  "895642": {
+   "name": "ENER1 INC",
+   "sic": "3690"
+  },
+  "902791": {
+   "name": "BARRETT BUSINESS SERVICES INC",
+   "sic": "7363"
+  },
+  "907072": {
+   "name": "CORRPRO COMPANIES INC /OH/",
+   "sic": "8711"
+  },
+  "907166": {
+   "name": "PORTACOM WIRELESS INC/",
+   "sic": "3669"
+  },
+  "909492": {
+   "name": "COLE NATIONAL GROUP INC",
+   "sic": "5945"
+  },
+  "910108": {
+   "name": "LXP Industrial Trust",
+   "sic": "6798"
+  },
+  "910329": {
+   "name": "MEDIFAST INC",
+   "sic": "2090"
+  },
+  "911004": {
+   "name": "FRIEDMANS INC",
+   "sic": "5944"
+  },
+  "911115": {
+   "name": "ATCHISON CASTING CORP",
+   "sic": "3320"
+  },
+  "912154": {
+   "name": "ALLIED LIFE FINANCIAL CORP",
+   "sic": "6311"
+  },
+  "912593": {
+   "name": "SUN COMMUNITIES INC",
+   "sic": "6798"
+  },
+  "912603": {
+   "name": "RADIUS RECYCLING, INC.",
+   "sic": "5090"
+  },
+  "913760": {
+   "name": "StoneX Group Inc.",
+   "sic": "6200"
+  },
+  "913883": {
+   "name": "REPUBLIC ENGINEERED STEELS INC",
+   "sic": "3312"
+  },
+  "914025": {
+   "name": "PLANTRONICS INC /CA/",
+   "sic": "3661"
+  },
+  "914139": {
+   "name": "PARKERVISION INC",
+   "sic": "3663"
+  },
+  "915390": {
+   "name": "ARCH WIRELESS INC",
+   "sic": "4812"
+  },
+  "917470": {
+   "name": "OLYMPIC STEEL INC",
+   "sic": "5051"
+  },
+  "917524": {
+   "name": "TALX CORP",
+   "sic": "7373"
+  },
+  "918111": {
+   "name": "JUST FOR FEET INC",
+   "sic": "5661"
+  },
+  "918647": {
+   "name": "GASONICS INTERNATIONAL CORP",
+   "sic": "3559"
+  },
+  "919623": {
+   "name": "QUINTILES TRANSNATIONAL CORP",
+   "sic": "8731"
+  },
+  "919794": {
+   "name": "ENLIVEN MARKETING TECHNOLOGIES CORP",
+   "sic": "7372"
+  },
+  "919942": {
+   "name": "PETRO STOPPING CENTERS L P",
+   "sic": "5500"
+  },
+  "920033": {
+   "name": "BANK JOS A CLOTHIERS INC /DE/",
+   "sic": "5600"
+  },
+  "920052": {
+   "name": "RENAL CARE GROUP INC",
+   "sic": "8090"
+  },
+  "921549": {
+   "name": "TRICO MARINE SERVICES INC",
+   "sic": "4400"
+  },
+  "922244": {
+   "name": "MAIN STREET BANKS INC /NEW/",
+   "sic": "6029"
+  },
+  "922404": {
+   "name": "ALL STAR GAS CORP",
+   "sic": "5900"
+  },
+  "922814": {
+   "name": "VIRBAC CORP",
+   "sic": "2834"
+  },
+  "923282": {
+   "name": "GEMSTAR TV GUIDE INTERNATIONAL INC",
+   "sic": "2721"
+  },
+  "924515": {
+   "name": "GUIDED THERAPEUTICS INC",
+   "sic": "3845"
+  },
+  "925260": {
+   "name": "TIMES MIRROR CO /NEW/",
+   "sic": "2711"
+  },
+  "927133": {
+   "name": "CYBERGUARD CORP",
+   "sic": "3571"
+  },
+  "928064": {
+   "name": "FEATHERLITE INC",
+   "sic": "3715"
+  },
+  "928395": {
+   "name": "US FOODSERVICE/MD/",
+   "sic": "5141"
+  },
+  "929994": {
+   "name": "ASSISTED LIVING CONCEPTS INC",
+   "sic": "8050"
+  },
+  "933974": {
+   "name": "Azenta, Inc.",
+   "sic": "3559"
+  },
+  "934550": {
+   "name": "SEMITOOL INC",
+   "sic": "3559"
+  },
+  "935802": {
+   "name": "ANICOM INC",
+   "sic": "5063"
+  },
+  "936931": {
+   "name": "SOURCECORP INC",
+   "sic": "7389"
+  },
+  "942124": {
+   "name": "AG ASSOCIATES INC",
+   "sic": "3559"
+  },
+  "945235": {
+   "name": "M & F WORLDWIDE CORP",
+   "sic": "3728"
+  },
+  "1000231": {
+   "name": "HEALTHCARE COM CORP",
+   "sic": "7373"
+  },
+  "1001185": {
+   "name": "IDX SYSTEMS CORP",
+   "sic": "7373"
+  },
+  "1002811": {
+   "name": "KENSEY NASH CORP",
+   "sic": "3841"
+  },
+  "1003114": {
+   "name": "IMPATH INC",
+   "sic": "8071"
+  },
+  "1003464": {
+   "name": "ENDOCARE INC",
+   "sic": "3845"
+  },
+  "1004945": {
+   "name": "LUMENIS LTD",
+   "sic": "5047"
+  },
+  "1005010": {
+   "name": "ARTHROCARE CORP",
+   "sic": "3845"
+  },
+  "1005230": {
+   "name": "CYLINK CORP /CA/",
+   "sic": "3577"
+  },
+  "1007800": {
+   "name": "SIPEX CORP",
+   "sic": "3674"
+  },
+  "1009304": {
+   "name": "I2 TECHNOLOGIES INC",
+   "sic": "7372"
+  },
+  "1009626": {
+   "name": "BROCADE COMMUNICATIONS SYSTEMS INC",
+   "sic": "3576"
+  },
+  "1010788": {
+   "name": "ZOMAX INC /MN/",
+   "sic": "3652"
+  },
+  "1011064": {
+   "name": "SUNRISE SENIOR LIVING INC",
+   "sic": "8050"
+  },
+  "1012480": {
+   "name": "SABRATEK CORP",
+   "sic": "3845"
+  },
+  "1012482": {
+   "name": "NETOPIA INC",
+   "sic": "3576"
+  },
+  "1013243": {
+   "name": "AAIPHARMA INC",
+   "sic": "8734"
+  },
+  "1013788": {
+   "name": "SHOWBOAT MARINA CASINO PARTNERSHIP",
+   "sic": "7900"
+  },
+  "1015399": {
+   "name": "COLOR SPOT NURSERIES INC",
+   "sic": "5190"
+  },
+  "1015610": {
+   "name": "GOLD BANC CORP INC",
+   "sic": "6021"
+  },
+  "1016370": {
+   "name": "GOLDEN BEAR GOLF INC",
+   "sic": "7990"
+  },
+  "1017147": {
+   "name": "INTENSIVA HEALTHCARE CORP",
+   "sic": "8051"
+  },
+  "1017526": {
+   "name": "ACE COMM CORP",
+   "sic": "7373"
+  },
+  "1018833": {
+   "name": "QUADRAMED CORP",
+   "sic": "7371"
+  },
+  "1018946": {
+   "name": "STEINER LEISURE Ltd",
+   "sic": "7200"
+  },
+  "1019376": {
+   "name": "ROADHOUSE GRILL INC",
+   "sic": "5812"
+  },
+  "1019542": {
+   "name": "ATEL CAPITAL EQUIPMENT FUND VII LP",
+   "sic": "7359"
+  },
+  "1019849": {
+   "name": "PENSKE AUTOMOTIVE GROUP, INC.",
+   "sic": "5500"
+  },
+  "1020391": {
+   "name": "ALLIN CORP",
+   "sic": "7373"
+  },
+  "1020416": {
+   "name": "MONSTER WORLDWIDE, INC.",
+   "sic": "7363"
+  },
+  "1020476": {
+   "name": "KROLL INC",
+   "sic": "7381"
+  },
+  "1020616": {
+   "name": "LASON INC",
+   "sic": "7389"
+  },
+  "1020859": {
+   "name": "UNITED NATURAL FOODS INC",
+   "sic": "5141"
+  },
+  "1021097": {
+   "name": "EMERGENT GROUP INC/NY",
+   "sic": "5090"
+  },
+  "1022570": {
+   "name": "CARDIMA INC",
+   "sic": "3842"
+  },
+  "1022832": {
+   "name": "STYLING TECHNOLOGY CORP",
+   "sic": "2844"
+  },
+  "1023519": {
+   "name": "MCSI INC",
+   "sic": "5040"
+  },
+  "1024338": {
+   "name": "CORNERSTONE PROPANE PARTNERS LP",
+   "sic": "5990"
+  },
+  "1024452": {
+   "name": "SMF Energy Liquidating Trust",
+   "sic": "5172"
+  },
+  "1028734": {
+   "name": "COBIZ FINANCIAL INC",
+   "sic": "6021"
+  },
+  "1029336": {
+   "name": "ATRIUM COMPANIES INC",
+   "sic": "3442"
+  },
+  "1030653": {
+   "name": "CURAGEN CORP",
+   "sic": "8731"
+  },
+  "1031107": {
+   "name": "PEREGRINE SYSTEMS INC",
+   "sic": "7372"
+  },
+  "1034088": {
+   "name": "ECLIPSYS CORP",
+   "sic": "7373"
+  },
+  "1035884": {
+   "name": "COMMSCOPE INC",
+   "sic": "3663"
+  },
+  "1036044": {
+   "name": "INVE Technologies, Inc.",
+   "sic": "3577"
+  },
+  "1036188": {
+   "name": "QAD INC",
+   "sic": "7372"
+  },
+  "1038237": {
+   "name": "JLM INDUSTRIES INC",
+   "sic": "5160"
+  },
+  "1039160": {
+   "name": "AEROGEN INC",
+   "sic": "3841"
+  },
+  "1040622": {
+   "name": "MARCAM SOLUTIONS INC",
+   "sic": "7372"
+  },
+  "1040993": {
+   "name": "INTERNATIONAL TOTAL SERVICES INC",
+   "sic": "4581"
+  },
+  "1044167": {
+   "name": "CNTV Entertainment Group, Inc.",
+   "sic": "5045"
+  },
+  "1046501": {
+   "name": "BUCA INC /MN",
+   "sic": "5812"
+  },
+  "1046880": {
+   "name": "CENTRAL EUROPEAN DISTRIBUTION CORP",
+   "sic": "5180"
+  },
+  "1046995": {
+   "name": "EMAGIN CORP",
+   "sic": "3674"
+  },
+  "1048268": {
+   "name": "IES Holdings, Inc.",
+   "sic": "1731"
+  },
+  "1048729": {
+   "name": "DIGITEC 2000 INC",
+   "sic": "4899"
+  },
+  "1050891": {
+   "name": "FFP MARKETING CO INC",
+   "sic": "5500"
+  },
+  "1050915": {
+   "name": "QUANTA SERVICES, INC.",
+   "sic": "1731"
+  },
+  "1051848": {
+   "name": "CSK AUTO CORP",
+   "sic": "5531"
+  },
+  "1052796": {
+   "name": "DRI I INC",
+   "sic": "5912"
+  },
+  "1052958": {
+   "name": "HORIZON MEDICAL PRODUCTS INC",
+   "sic": "5047"
+  },
+  "1057083": {
+   "name": "PC TEL INC",
+   "sic": "3663"
+  },
+  "1057334": {
+   "name": "STARMEDIA NETWORK INC",
+   "sic": "7374"
+  },
+  "1058083": {
+   "name": "IMS HEALTH INC",
+   "sic": "7374"
+  },
+  "1058444": {
+   "name": "SAVVIS, Inc.",
+   "sic": "7389"
+  },
+  "1058986": {
+   "name": "PINNACLE HOLDINGS INC",
+   "sic": "6798"
+  },
+  "1059556": {
+   "name": "MOODYS CORP /DE/",
+   "sic": "7320"
+  },
+  "1060744": {
+   "name": "HORIZON GROUP PROPERTIES INC",
+   "sic": "6798"
+  },
+  "1061580": {
+   "name": "UCBH HOLDINGS INC",
+   "sic": "6022"
+  },
+  "1062273": {
+   "name": "SPENDSMART NETWORKS, INC.",
+   "sic": "5990"
+  },
+  "1062515": {
+   "name": "NATIONSRENT INC",
+   "sic": "7359"
+  },
+  "1063537": {
+   "name": "RiceBran Technologies",
+   "sic": "2040"
+  },
+  "1064435": {
+   "name": "CLUETT AMERICAN CORP",
+   "sic": "5130"
+  },
+  "1065049": {
+   "name": "LEAP WIRELESS INTERNATIONAL INC",
+   "sic": "4812"
+  },
+  "1065152": {
+   "name": "AREMISSOFT CORP /DE/",
+   "sic": "7372"
+  },
+  "1065298": {
+   "name": "SUPERIOR BANCORP",
+   "sic": "6022"
+  },
+  "1065332": {
+   "name": "NIC INC",
+   "sic": "7389"
+  },
+  "1066107": {
+   "name": "EL PASO LLC",
+   "sic": "4922"
+  },
+  "1066194": {
+   "name": "EGAIN Corp",
+   "sic": "7372"
+  },
+  "1068292": {
+   "name": "CLARENT CORP/DE",
+   "sic": "7372"
+  },
+  "1069258": {
+   "name": "KRATOS DEFENSE & SECURITY SOLUTIONS, INC.",
+   "sic": "3760"
+  },
+  "1070380": {
+   "name": "SABA SOFTWARE INC",
+   "sic": "7372"
+  },
+  "1070602": {
+   "name": "CARESIDE INC",
+   "sic": "3841"
+  },
+  "1074767": {
+   "name": "IVILLAGE INC",
+   "sic": "2721"
+  },
+  "1076405": {
+   "name": "PEPSI BOTTLING GROUP INC",
+   "sic": "2080"
+  },
+  "1076930": {
+   "name": "NOVANTA INC",
+   "sic": "3690"
+  },
+  "1080056": {
+   "name": "THESTREET, INC.",
+   "sic": "2711"
+  },
+  "1080627": {
+   "name": "V Media Corp",
+   "sic": "7310"
+  },
+  "1081661": {
+   "name": "EASYLINK SERVICES CORP",
+   "sic": "7389"
+  },
+  "1084408": {
+   "name": "VERITAS SOFTWARE CORP /DE/",
+   "sic": "7372"
+  },
+  "1085621": {
+   "name": "Actua Corp",
+   "sic": "7371"
+  },
+  "1085776": {
+   "name": "LIBERATE TECHNOLOGIES",
+   "sic": "7372"
+  },
+  "1087831": {
+   "name": "PRO AFTER INC",
+   "sic": "7389"
+  },
+  "1088024": {
+   "name": "PROMOTIONS COM INC",
+   "sic": "2721"
+  },
+  "1089857": {
+   "name": "IPSWICH BANCSHARES INC",
+   "sic": "6021"
+  },
+  "1091667": {
+   "name": "CHARTER COMMUNICATIONS, INC. /MO/",
+   "sic": "4841"
+  },
+  "1092492": {
+   "name": "AXESSTEL INC",
+   "sic": "3669"
+  },
+  "1093885": {
+   "name": "SONICWALL INC",
+   "sic": "7389"
+  },
+  "1094561": {
+   "name": "QUOVADX INC",
+   "sic": "7372"
+  },
+  "1095825": {
+   "name": "EBENX INC",
+   "sic": "7370"
+  },
+  "1097297": {
+   "name": "TIPPINGPOINT TECHNOLOGIES INC",
+   "sic": "3571"
+  },
+  "1097313": {
+   "name": "GRANT PRIDECO INC",
+   "sic": "3533"
+  },
+  "1102329": {
+   "name": "WRC MEDIA INC",
+   "sic": "2731"
+  },
+  "1103234": {
+   "name": "MOLDFLOW CORP",
+   "sic": "7372"
+  },
+  "1108109": {
+   "name": "COMMUNITY HEALTH SYSTEMS INC",
+   "sic": "8062"
+  },
+  "1108955": {
+   "name": "SOYO GROUP INC",
+   "sic": "5064"
+  },
+  "1109279": {
+   "name": "TVIA INC",
+   "sic": "3674"
+  },
+  "1111001": {
+   "name": "CORIO INC",
+   "sic": "7371"
+  },
+  "1111345": {
+   "name": "SPEECHWORKS INTERNATIONAL INC",
+   "sic": "7372"
+  },
+  "1111632": {
+   "name": "AVISTAR COMMUNICATIONS CORP",
+   "sic": "3576"
+  },
+  "1114925": {
+   "name": "LANTRONIX INC",
+   "sic": "3576"
+  },
+  "1116463": {
+   "name": "ORASURE TECHNOLOGIES INC",
+   "sic": "3841"
+  },
+  "1120295": {
+   "name": "IXIA",
+   "sic": "3825"
+  },
+  "1121484": {
+   "name": "OIL STATES INTERNATIONAL, INC",
+   "sic": "3533"
+  },
+  "1123541": {
+   "name": "PENSON WORLDWIDE INC",
+   "sic": "6211"
+  },
+  "1123735": {
+   "name": "COMMUNITY FINANCIAL SHARES INC",
+   "sic": "6035"
+  },
+  "1129633": {
+   "name": "PHOENIX COMPANIES INC/DE",
+   "sic": "6311"
+  },
+  "1130950": {
+   "name": "EXCELLIGENCE LEARNING CORP",
+   "sic": "5961"
+  },
+  "1133324": {
+   "name": "INPHONIC INC",
+   "sic": "4899"
+  },
+  "1134203": {
+   "name": "TALEO CORP",
+   "sic": "7372"
+  },
+  "1139570": {
+   "name": "SUBAYE, INC.",
+   "sic": "7374"
+  },
+  "1156375": {
+   "name": "CME GROUP INC.",
+   "sic": "6200"
+  },
+  "1157522": {
+   "name": "ICON INCOME FUND NINE LLC",
+   "sic": "7359"
+  },
+  "1162747": {
+   "name": "Puda Coal, Inc.",
+   "sic": "1221"
+  },
+  "1170605": {
+   "name": "TIERONE CORP",
+   "sic": "6035"
+  },
+  "1171012": {
+   "name": "Uni-Pixel",
+   "sic": "3679"
+  },
+  "1171486": {
+   "name": "NATURAL RESOURCE PARTNERS LP",
+   "sic": "1221"
+  },
+  "1192305": {
+   "name": "LECG CORP",
+   "sic": "8742"
+  },
+  "1220606": {
+   "name": "ICON INCOME FUND TEN LLC",
+   "sic": "7359"
+  },
+  "1260990": {
+   "name": "Oncternal Therapeutics, Inc.",
+   "sic": "2834"
+  },
+  "1267130": {
+   "name": "CABELAS INC",
+   "sic": "5940"
+  },
+  "1267238": {
+   "name": "ASSURANT, INC.",
+   "sic": "6399"
+  },
+  "1274057": {
+   "name": "HOSPIRA INC",
+   "sic": "2834"
+  },
+  "1276591": {
+   "name": "HANSEN MEDICAL INC",
+   "sic": "3842"
+  },
+  "1277151": {
+   "name": "APPLE REIT SIX INC",
+   "sic": "6798"
+  },
+  "1278384": {
+   "name": "NTS REALTY HOLDINGS LP",
+   "sic": "6798"
+  },
+  "1289237": {
+   "name": "U. S. Premium Beef, LLC",
+   "sic": "0200"
+  },
+  "1289848": {
+   "name": "Huron Consulting Group Inc.",
+   "sic": "8742"
+  },
+  "1293413": {
+   "name": "Naugatuck Valley Financial Corp",
+   "sic": "6035"
+  },
+  "1311370": {
+   "name": "Lazard, Inc.",
+   "sic": "6282"
+  },
+  "1312910": {
+   "name": "ICON LEASING FUND ELEVEN, LLC",
+   "sic": "7359"
+  },
+  "1320947": {
+   "name": "Diamond Foods Inc",
+   "sic": "2090"
+  },
+  "1322729": {
+   "name": "CHINA RUNJI CEMENT INC",
+   "sic": "5030"
+  },
+  "1325702": {
+   "name": "MAGNACHIP SEMICONDUCTOR Corp",
+   "sic": "3674"
+  },
+  "1328571": {
+   "name": "NTELOS HOLDINGS CORP.",
+   "sic": "4813"
+  },
+  "1329011": {
+   "name": "Apple REIT Seven, Inc.",
+   "sic": "6798"
+  },
+  "1331427": {
+   "name": "AgFeed Industries, Inc.",
+   "sic": "0200"
+  },
+  "1345715": {
+   "name": "STONELEIGH PARTNERS ACQUISITION CORP.",
+   "sic": "6770"
+  },
+  "1357615": {
+   "name": "KBR, INC.",
+   "sic": "1600"
+  },
+  "1360886": {
+   "name": "OSIRIS THERAPEUTICS, INC.",
+   "sic": "2836"
+  },
+  "1365790": {
+   "name": "GLG Partners, Inc.",
+   "sic": "6282"
+  },
+  "1368055": {
+   "name": "Zinco do Brasil, Inc.",
+   "sic": "8742"
+  },
+  "1372664": {
+   "name": "COMVERGE, INC.",
+   "sic": "3822"
+  },
+  "1377848": {
+   "name": "ICON LEASING FUND TWELVE, LLC",
+   "sic": "7359"
+  },
+  "1381105": {
+   "name": "Plastic2Oil, Inc.",
+   "sic": "5064"
+  },
+  "1387361": {
+   "name": "Apple REIT Eight, Inc.",
+   "sic": "6798"
+  },
+  "1389072": {
+   "name": "HeartWare International, Inc.",
+   "sic": "3841"
+  },
+  "1393612": {
+   "name": "Discover Financial Services",
+   "sic": "6141"
+  },
+  "1394220": {
+   "name": "JOIN Entertainment Holdings, Inc.",
+   "sic": "3569"
+  },
+  "1399067": {
+   "name": "China MediaExpress Holdings, Inc.",
+   "sic": "7310"
+  },
+  "1399315": {
+   "name": "MARSHALL & ILSLEY CORP",
+   "sic": "6022"
+  },
+  "1406574": {
+   "name": "SINOHUB, INC.",
+   "sic": "5065"
+  },
+  "1412212": {
+   "name": "ITRACKR SYSTEMS INC",
+   "sic": "7372"
+  },
+  "1456455": {
+   "name": "PFO Global, Inc.",
+   "sic": "3669"
+  },
+  "1472635": {
+   "name": "CHINA DU KANG CO. LTD.",
+   "sic": "2080"
+  },
+  "1497814": {
+   "name": "ContinuityX Solutions, Inc.",
+   "sic": "8742"
+  },
+  "1516887": {
+   "name": "Wellness Center USA, Inc.",
+   "sic": "2834"
+  },
+  "1517175": {
+   "name": "Chefs' Warehouse, Inc.",
+   "sic": "5141"
+  }
+ }
+}

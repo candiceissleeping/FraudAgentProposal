@@ -16,7 +16,7 @@ import os
 import random
 
 from experiment.edgar_risk import score as keyword_score
-from experiment.yoy import fetch_sample, mask, packets, sic as sic_mod
+from experiment.yoy import fetch_sample, mask, packets
 
 BOOTSTRAP = 2000
 SEED = 20261017
@@ -102,12 +102,12 @@ def main():
     ap.add_argument("--run", required=True)
     ap.add_argument("--out", default=packets.DEFAULT_DIR)
     ap.add_argument("--filings", default=fetch_sample.DEFAULT_DIR)
-    ap.add_argument("--sic", default=sic_mod.DEFAULT_PATH)
+    ap.add_argument("--firms", default=packets.FIRMS_PATH)
     args = ap.parse_args()
 
     with open(os.path.join(args.out, "key.json"), encoding="utf-8") as f:
         key = json.load(f)
-    names = sic_mod.load(args.sic)
+    names = packets.load_firms(args.firms)
     probs, probes, evidence, failures = load_responses(os.path.join(args.out, "runs", args.run, "responses.jsonl"))
     scores = {arm: {d: sum(v) / len(v) for (a, d), v in probs.items() if a == arm} for arm in packets.ARMS}
     label = {d: k["role"] == "fraud" for d, k in key.items()}

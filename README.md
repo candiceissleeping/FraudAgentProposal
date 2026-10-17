@@ -19,6 +19,15 @@ GE 原本在名單中，但其 FY2016 10-K 在資料集中為空（年報以引�
 - 第二輪（遮蔽名稱 + 預先登錄規則，5 組同產業配對）：[`results/blind_review.md`](results/blind_review.md)
   - 流程：`blind_rubric.md` → `python -m experiment.edgar_risk.blind` → `blind_scores.md` → `--unblind`
 - 實驗一設計（跨年度 10-K 差異是否提升 LLM 舞弊偵測，AAER 標籤）：[`docs/exp1_yoy_diff_design.md`](docs/exp1_yoy_diff_design.md)
+  - 樣本：`config/exp1_sample.json`（199 組配對，含 30 組試點）；流失表 `results/exp1_attrition.md`
+  - 跑試點（需 `pip install anthropic` 與環境變數 `ANTHROPIC_API_KEY`）：
+    ```bash
+    python -m experiment.yoy.fetch_sample --pilot   # 約 10–20 分鐘
+    python -m experiment.yoy.packets --pilot        # 會比對 results/exp1_packets_pilot.sha256，不一致即停止
+    python -m experiment.yoy.run_llm submit --run pilot
+    python -m experiment.yoy.run_llm collect --run pilot
+    python -m experiment.yoy.evaluate --run pilot   # → results/exp1_pilot/
+    ```
 
 ## 流程
 1. **抓資料** `python -m experiment.edgar_risk.fetch`
