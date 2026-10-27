@@ -54,6 +54,13 @@ def auc(pos, neg):
     return wins / (len(pos) * len(neg))
 
 
+def auc_ci(pos, neg, n=2000, seed=0):
+    """Bootstrap 95% interval: resample treatments and controls separately."""
+    rng = random.Random(seed)
+    vals = sorted(auc([rng.choice(pos) for _ in pos], [rng.choice(neg) for _ in neg]) for _ in range(n))
+    return vals[int(0.025 * n)], vals[int(0.975 * n) - 1]
+
+
 def draw():
     pairs = json.load(open(POOL, encoding="utf-8"))["pairs"]
     valid = []
@@ -102,11 +109,17 @@ def unblind():
         k, h = key[pid], human.get(pid, {"rubric_total": "-", "holistic": "-", "recognized_as": "-"})
         print(f"{pid:<4} {k['group']:<9} {k['name']:<28} {k['year']:<5} {kw[pid]:>5} {h['rubric_total']:>6} "
               f"{h['holistic']:>8}  {h['recognized_as']}")
-    for label, get in [("keyword", lambda p: kw[p]), ("rubric", lambda p: float(human[p]["rubric_total"])),
-                       ("holistic", lambda p: float(human[p]["holistic"]))]:
+    methods = [("keyword", lambda p: kw[p])]
+    if all(p in human for p in key):
+        methods += [("rubric", lambda p: float(human[p]["rubric_total"])), ("holistic", lambda p: float(human[p]["holistic"]))]
+    for label, get in methods:
         pos = [get(p) for p in key if key[p]["group"] == "treatment"]
         neg = [get(p) for p in key if key[p]["group"] == "control"]
-        print(f"AUC {label:<9} {auc(pos, neg):.2f}   treatment mean {sum(pos)/len(pos):.1f}  control mean {sum(neg)/len(neg):.1f}")
+        lo, hi = auc_ci(pos, neg)
+        print(f"AUC {label:<9} {auc(pos, neg):.2f} (95% CI {lo:.2f}-{hi:.2f})   "
+              f"treatment mean {sum(pos)/len(pos):.1f}  control mean {sum(neg)/len(neg):.1f}")
+    if not all(p in human for p in key):
+        return
     correct = sum(1 for p in key if human[p]["recognized_as"].strip().lower() not in ("", "no", "none", "-")
                   and human[p]["recognized_as"].split(" ")[0].lower() in key[p]["name"].lower())
     print(f"recognized correctly: {correct}/{len(key)}")

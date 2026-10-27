@@ -2,7 +2,7 @@
 import unittest
 
 from experiment.edgar_risk.redact import make_redactor
-from experiment.edgar_risk.round3 import auc
+from experiment.edgar_risk.round3 import auc, auc_ci
 
 REF = ("the company recorded revenue and related party transactions with the family. "
        "revenue recognition during the year, the committee, investigation, receivables, advances, partnership. ") * 3
@@ -44,6 +44,8 @@ class RedactTest(unittest.TestCase):
     def test_auc(self):
         self.assertEqual(auc([3, 4], [1, 2]), 1.0)
         self.assertEqual(auc([1], [1]), 0.5)
+        lo, hi = auc_ci([3, 4, 5], [1, 2, 6])
+        self.assertTrue(0 <= lo <= auc([3, 4, 5], [1, 2, 6]) <= hi <= 1)
 
 
 if __name__ == "__main__":
