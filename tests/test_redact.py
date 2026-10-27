@@ -28,6 +28,19 @@ class RedactTest(unittest.TestCase):
         self.assertIn("$2,000", self.r("a fee of $2,000 in 2002"))
         self.assertIn("Y+1", self.r("a fee of $2,000 in 2002"))
 
+    def test_urls_and_emails_masked(self):
+        out = self.r("See www.bwauto.com, https://ir.example.net/x or email ir@acme-corp.com for the company report.")
+        for leak in ("bwauto", "example", "acme-corp"):
+            self.assertNotIn(leak, out)
+        self.assertIn("[URL]", out)
+
+    def test_packet_headings_not_redacted(self):
+        from experiment.edgar_risk.blind import build_packet
+        p = build_packet("Q01", {"year": 2001, "section_3": "Acme was sued in Colorado."}, [], redactor=self.r)
+        self.assertIn("## Item 3 Legal Proceedings", p)
+        self.assertIn("## Query: Related-party transactions", p)
+        self.assertNotIn("Colorado", p)
+
     def test_auc(self):
         self.assertEqual(auc([3, 4], [1, 2]), 1.0)
         self.assertEqual(auc([1], [1]), 0.5)

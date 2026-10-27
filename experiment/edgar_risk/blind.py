@@ -67,16 +67,18 @@ def build_packet(pid, filing, aliases, redactor=None, queries=None):
     year = "Y0 (years shown relative to the fiscal year)" if redactor else filing.get("year")
     lines = [f"# Packet {pid}", "", f"Fiscal year: {year}  ",
              "Sections present: " + ", ".join(k for k, v in filing.items() if k.startswith("section_") and (v or "").strip()), ""]
+    # with a redactor, only filing text is redacted, never the packet's own headings
+    ev = redactor or (lambda t: t)
     for sec, title, n in FIXED_SECTIONS:
         t = re.sub(r"\s+", " ", filing.get(sec) or "").strip()
-        lines += [f"## {title}", "", f"> {t[:n] or '(empty)'}", ""]
+        lines += [f"## {title}", "", f"> {ev(t[:n]) or '(empty)'}", ""]
     for title, pat in (queries or QUERIES):
         lines += [f"## Query: {title}", ""]
         hits = passages(filing, pat)
-        lines += [f"- [{s}] ...{p}..." for s, p in hits] if hits else ["- (no matches)"]
+        lines += [f"- [{s}] ...{ev(p)}..." for s, p in hits] if hits else ["- (no matches)"]
         lines.append("")
     text = "\n".join(lines)
-    return redactor(text) if redactor else redact(text, aliases)
+    return text if redactor else redact(text, aliases)
 
 
 def pick(companies, data_dir):

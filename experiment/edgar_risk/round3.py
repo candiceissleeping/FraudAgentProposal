@@ -1,12 +1,14 @@
-"""Round 3: random draw from a candidate pool, strong redaction, scores committed before unblinding.
+"""Rounds 3-4: candidate pool, strong redaction, scores committed before unblinding.
 
-  python -m experiment.edgar_risk.round3 draw      # validate pool, draw 5 pairs, build packets + keyword scores
+  python -m experiment.edgar_risk.round3 draw      # round 3: validate pool, draw 5 pairs, build packets
   python -m experiment.edgar_risk.round3 unblind   # reveal key and compute AUC for each method
+  python -m experiment.edgar_risk.round3 draw --round 4     # round 4: every valid pair, no sampling
 
 `draw` prints only counts, never names: the scorer knows the pool but not which
 pairs were drawn. The key is sealed in data/round3/_key.json (git-ignored).
 """
 import argparse
+import collections
 import csv
 import json
 import os
@@ -15,11 +17,12 @@ import random
 from . import blind, score
 from .redact import make_redactor
 
-POOL = "config/round3_pool.json"
-DATA = "data/round3"
-OUT = "results/round3"
+ROUNDS = {  # pool, data dir, output dir, pairs to draw (None = all valid pairs), packet prefix
+    3: ("config/round3_pool.json", "data/round3", "results/round3", 5, "R"),
+    4: ("config/round4_pool.json", "data/round4", "results/round4", None, "Q"),
+}
+POOL, DATA, OUT, N_PAIRS, PREFIX = ROUNDS[3]
 KEY = os.path.join(DATA, "_key.json")
-N_PAIRS = 5
 MIN_CHARS, MIN_NAME_HITS = 5000, 3
 
 # Round-3 queries = round-2 queries + two items added to the pre-registered rubric v2
@@ -59,18 +62,20 @@ def draw():
         if t and c:
             valid.append((p, t, c))
     print(f"valid pairs: {len(valid)}/{len(pairs)}")
-    if len(valid) < N_PAIRS:
+    by_ind = collections.Counter(p["industry"] for p, _, _ in valid)
+    print("valid pairs per industry:", dict(sorted(by_ind.items())))
+    if N_PAIRS and len(valid) < N_PAIRS:
         raise SystemExit(f"need {N_PAIRS} valid pairs")
     rng = random.SystemRandom()
     chosen = []
-    for p, t, c in rng.sample(valid, N_PAIRS):
+    for p, t, c in (rng.sample(valid, N_PAIRS) if N_PAIRS else valid):
         chosen += [(p, "treatment", t), (p, "control", c)]
     rng.shuffle(chosen)
 
     os.makedirs(os.path.join(OUT, "packets"), exist_ok=True)
     key, rows = {}, []
     for i, (pair, role, filing) in enumerate(chosen, 1):
-        pid, company, year = f"R{i:02d}", pair[role], pair["year"]
+        pid, company, year = f"{PREFIX}{i:02d}", pair[role], pair["year"]
         redactor = make_redactor(company["aliases"] + [company["name"]], year, _text(filing))
         with open(os.path.join(OUT, "packets", f"{pid}.md"), "w", encoding="utf-8") as f:
             f.write(blind.build_packet(pid, filing, [], redactor=redactor, queries=QUERIES))
@@ -94,7 +99,7 @@ def unblind():
     human = {r["packet"]: r for r in csv.DictReader(open(os.path.join(OUT, "scores.csv")))}
     print(f"{'pkt':<4} {'group':<9} {'company':<28} {'yr':<5} {'kw':>5} {'rubric':>6} {'holistic':>8}  guess")
     for pid in sorted(key):
-        k, h = key[pid], human[pid]
+        k, h = key[pid], human.get(pid, {"rubric_total": "-", "holistic": "-", "recognized_as": "-"})
         print(f"{pid:<4} {k['group']:<9} {k['name']:<28} {k['year']:<5} {kw[pid]:>5} {h['rubric_total']:>6} "
               f"{h['holistic']:>8}  {h['recognized_as']}")
     for label, get in [("keyword", lambda p: kw[p]), ("rubric", lambda p: float(human[p]["rubric_total"])),
@@ -110,7 +115,11 @@ def unblind():
 def main():
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("action", choices=["draw", "unblind"])
+    ap.add_argument("--round", type=int, default=3, choices=sorted(ROUNDS))
     args = ap.parse_args()
+    global POOL, DATA, OUT, N_PAIRS, PREFIX, KEY
+    POOL, DATA, OUT, N_PAIRS, PREFIX = ROUNDS[args.round]
+    KEY = os.path.join(DATA, "_key.json")
     draw() if args.action == "draw" else unblind()
 
 

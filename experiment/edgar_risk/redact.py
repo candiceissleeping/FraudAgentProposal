@@ -6,7 +6,8 @@ and absolute years.
 
 A capitalised word counts as a common word, and is kept, when its lowercase
 form appears in the filing's own text (e.g. "Revenue" vs "revenue"). Proper
-nouns rarely appear in lowercase, so they are replaced by [NAME]. Years
+nouns rarely appear in lowercase, so they are replaced by [NAME]. URLs and
+e-mail addresses become [URL]. Years
 become relative to the fiscal year: 2001 -> Y0, 2000 -> Y-1.
 """
 import collections
@@ -30,6 +31,7 @@ KEEP = {
     "Medicare", "Medicaid", "Level", "Q1", "Q2", "Q3", "Q4", "N/A", "NA", "Inc.'s", "ITEM", "PART", "NOTE",
 }
 TOKEN = re.compile(r"(?<![\w\[])([A-Z][A-Za-z0-9&'.\-]*[A-Za-z0-9]|[A-Z])(?![\w\]])")
+URL = re.compile(r"(?i)\b(?:https?://|www\.)\S+|\b[\w.+-]+@[\w-]+(?:\.[\w-]+)+\b|\b[\w-]+\.(?:com|net|org|biz|info|us)\b")
 YEAR = re.compile(r"(?<![\d$.,])(19[6-9]\d|20[0-3]\d)(?!\d|,\d{3}|%)")
 
 
@@ -57,6 +59,7 @@ def make_redactor(aliases, fiscal_year, reference_text):
         return "Y0" if d == 0 else f"Y{d:+d}"
 
     def redact(text):
+        text = URL.sub("[URL]", text)  # websites and e-mail domains identify the filer
         for rx in alias_rx:
             text = rx.sub("[COMPANY]", text)
         out, last = [], 0
