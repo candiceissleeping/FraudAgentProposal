@@ -1,0 +1,21 @@
+round,company,cik,fiscal_year,group,keyword_score,human_score,human_method,aaer_label,aaer_note
+1,Enron Corp,1024401,2000,treatment,28.4,80,analyst (open read),1,SEC enforcement incl. CFO Fastow
+1,WorldCom Inc,723527,2001,treatment,38.3,65,analyst (open read),1,SEC accounting fraud charges 2002-03
+1,HealthSouth Corp,785161,2001,treatment,36.7,60,analyst (open read),1,SEC accounting fraud charges 2003
+1,Lehman Brothers Holdings,806085,2007,treatment,35.0,60,analyst (open read),0,SEC declined to bring charges (Repo 105)
+1,Valeant Pharmaceuticals,885590,2014,treatment,66.7,60,analyst (open read),1,SEC settlement 2020
+1,Kraft Heinz Co,1637459,2017,treatment,68.3,55,analyst (open read),1,SEC settlement 2021
+1,Microsoft Corp,789019,2019,control,25.0,15,analyst (open read),?,2019 FCPA order (Hungary) - not financial-reporting fraud; AAER listing unverified
+1,Costco Wholesale,909832,2019,control,48.3,30,analyst (open read),0,
+1,Johnson & Johnson,200406,2019,control,30.0,35,analyst (open read),0,No accounting AAER for this period (earlier 2011 FCPA case)
+1,Apple Inc,320193,2019,control,11.7,10,analyst (open read),0,
+2,Adelphia Communications,796486,2000,treatment,15.0,28,pre-registered rubric (masked),1,SEC fraud charges vs company and Rigas family 2002
+2,Comcast Corp,22301,2000,control,3.3,0,pre-registered rubric (masked),0,
+2,Qwest Communications,1037949,2001,treatment,63.3,45,pre-registered rubric (masked),1,SEC fraud charges 2004-05
+2,CenturyTel,18926,2001,control,25.0,3,pre-registered rubric (masked),0,
+2,Diamond Foods,1320947,2011,treatment,21.6,15,pre-registered rubric (masked),1,SEC charges 2014
+2,J.M. Smucker,91419,2011,control,0.0,0,pre-registered rubric (masked),0,
+2,Hertz Global Holdings,1364479,2013,treatment,36.7,20,pre-registered rubric (masked),1,SEC settlement 2018
+2,United Rentals,1067701,2013,control,21.7,5,pre-registered rubric (masked),0*,*Earlier AAER (2008) for 2000-2002 accounting; none for FY2013
+2,MiMedx Group,1376339,2016,treatment,53.3,35,pre-registered rubric (masked),1,SEC charges 2019
+2,Edwards Lifesciences,1099800,2016,control,25.0,3,pre-registered rubric (masked),0,
