@@ -1,0 +1,11 @@
+packet,A,B,C,D,E,rubric_total,holistic,recognized_as
+R01,0,0,0,13,0,13,8,Walgreen
+R02,15,0,0,3,0,18,30,Delphi
+R03,0,0,0,3,0,3,10,Danaher
+R04,0,15,15,15,0,45,55,Tyco
+R05,0,15,5,8,0,28,35,Under Armour
+R06,0,0,0,8,0,8,15,Motorola
+R07,0,10,10,8,10,38,60,Lucent
+R08,30,0,5,8,0,43,70,Rite Aid
+R09,0,0,0,3,0,3,8,BorgWarner
+R10,0,0,0,0,0,0,5,Columbia
