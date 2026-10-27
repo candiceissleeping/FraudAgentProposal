@@ -1,0 +1,72 @@
+{
+  "R01": {
+    "name": "Walgreen Co",
+    "cik": "104207",
+    "year": 1999,
+    "industry": "drugstores",
+    "group": "control"
+  },
+  "R02": {
+    "name": "Delphi Corp",
+    "cik": "1072342",
+    "year": 2003,
+    "industry": "auto parts",
+    "group": "treatment"
+  },
+  "R03": {
+    "name": "Danaher",
+    "cik": "313616",
+    "year": 2001,
+    "industry": "industrial conglomerate",
+    "group": "control"
+  },
+  "R04": {
+    "name": "Tyco International",
+    "cik": "833444",
+    "year": 2001,
+    "industry": "industrial conglomerate",
+    "group": "treatment"
+  },
+  "R05": {
+    "name": "Under Armour",
+    "cik": "1336917",
+    "year": 2016,
+    "industry": "athletic apparel",
+    "group": "treatment"
+  },
+  "R06": {
+    "name": "Motorola",
+    "cik": "68505",
+    "year": 2000,
+    "industry": "telecom equipment",
+    "group": "control"
+  },
+  "R07": {
+    "name": "Lucent Technologies",
+    "cik": "1006240",
+    "year": 2000,
+    "industry": "telecom equipment",
+    "group": "treatment"
+  },
+  "R08": {
+    "name": "Rite Aid",
+    "cik": "84129",
+    "year": 1999,
+    "industry": "drugstores",
+    "group": "treatment"
+  },
+  "R09": {
+    "name": "BorgWarner",
+    "cik": "908255",
+    "year": 2003,
+    "industry": "auto parts",
+    "group": "control"
+  },
+  "R10": {
+    "name": "Columbia Sportswear",
+    "cik": "1050797",
+    "year": 2016,
+    "industry": "athletic apparel",
+    "group": "control"
+  }
+}
