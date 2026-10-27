@@ -62,19 +62,21 @@ def passages(filing, pattern, n=PER_QUERY):
     return [(sec, w) for _, _, sec, w in cands[:n]]
 
 
-def build_packet(pid, filing, aliases):
-    year = filing.get("year")
+def build_packet(pid, filing, aliases, redactor=None, queries=None):
+    """redactor: optional text -> text function (round 3); default redacts aliases only (round 2)."""
+    year = "Y0 (years shown relative to the fiscal year)" if redactor else filing.get("year")
     lines = [f"# Packet {pid}", "", f"Fiscal year: {year}  ",
              "Sections present: " + ", ".join(k for k, v in filing.items() if k.startswith("section_") and (v or "").strip()), ""]
     for sec, title, n in FIXED_SECTIONS:
         t = re.sub(r"\s+", " ", filing.get(sec) or "").strip()
         lines += [f"## {title}", "", f"> {t[:n] or '(empty)'}", ""]
-    for title, pat in QUERIES:
+    for title, pat in (queries or QUERIES):
         lines += [f"## Query: {title}", ""]
         hits = passages(filing, pat)
         lines += [f"- [{s}] ...{p}..." for s, p in hits] if hits else ["- (no matches)"]
         lines.append("")
-    return redact("\n".join(lines), aliases)
+    text = "\n".join(lines)
+    return redactor(text) if redactor else redact(text, aliases)
 
 
 def pick(companies, data_dir):
