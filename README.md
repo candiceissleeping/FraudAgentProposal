@@ -20,7 +20,10 @@ GE 原本在名單中，但其 FY2016 10-K 在資料集中為空（年報以引�
   - 流程：`blind_rubric.md` → `python -m experiment.edgar_risk.blind` → `blind_scores.md` → `--unblind`
 - 第三輪（候選名單隨機抽樣 + 強化遮蔽 + 揭盲前提交三種分數）：[`results/round3/review.md`](results/round3/review.md)
   - 流程：`config/round3_pool.json` + `results/round3/rubric_v2.md` → `python -m experiment.edgar_risk.round3 draw` → `scores.csv` → `round3 unblind`
-- 全部 30 家總表：`results/summary_table.csv`
+- 第四輪（36 組配對、每產業 ≥3 組、遮蔽加上網址 / 電子郵件）：[`results/round4/review.md`](results/round4/review.md)
+  - 關鍵字 AUC 0.56、規則 v2 0.66、整體判斷 0.78（受辨識污染，62/72 被認出）
+  - 流程：`config/round4_pool.json` + `results/round4/protocol.md` → `round3 draw --round 4` → `scores.csv` → `round3 unblind --round 4` → `round4_sensitivity`
+- 全部 102 份總表：`results/summary_table.csv`
 
 ## 流程
 1. **抓資料** `python -m experiment.edgar_risk.fetch`

@@ -1,0 +1,33 @@
+
+## All filings (n=72: 36 treatment)
+AUC keyword   0.56 (95% CI 0.42-0.69)
+AUC rubric    0.66 (95% CI 0.53-0.78)
+AUC holistic  0.78 (95% CI 0.67-0.88)
+
+## Excluding post-disclosure pairs (AIG, ITT, Navistar) (n=66: 33 treatment)
+AUC keyword   0.52 (95% CI 0.39-0.67)
+AUC rubric    0.62 (95% CI 0.49-0.76)
+AUC holistic  0.76 (95% CI 0.63-0.87)
+
+## Also excluding Super Micro pair (n=64: 32 treatment)
+AUC keyword   0.51 (95% CI 0.37-0.66)
+AUC rubric    0.61 (95% CI 0.47-0.75)
+AUC holistic  0.74 (95% CI 0.62-0.86)
+
+## Within-pair comparison (36 complete pairs): treatment > control / tie / lower
+keyword   20 / 2 / 14
+rubric    23 / 4 / 9
+holistic  28 / 1 / 7
+
+## Per industry (holistic AUC; small n, descriptive only)
+auto parts             pairs~3  holistic AUC 0.94  rubric AUC 0.61
+consumer               pairs~2  holistic AUC 0.50  rubric AUC 0.25
+energy                 pairs~4  holistic AUC 0.81  rubric AUC 0.78
+financial              pairs~3  holistic AUC 0.61  rubric AUC 0.56
+healthcare             pairs~3  holistic AUC 0.44  rubric AUC 0.11
+media                  pairs~3  holistic AUC 0.72  rubric AUC 0.61
+retail                 pairs~3  holistic AUC 1.00  rubric AUC 0.89
+services               pairs~3  holistic AUC 1.00  rubric AUC 1.00
+software               pairs~4  holistic AUC 0.78  rubric AUC 0.91
+tech hardware          pairs~5  holistic AUC 0.86  rubric AUC 0.60
+transportation         pairs~3  holistic AUC 1.00  rubric AUC 1.00

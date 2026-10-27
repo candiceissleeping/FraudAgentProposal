@@ -1,0 +1,506 @@
+{
+  "Q01": {
+    "name": "Roadrunner Transportation",
+    "cik": "1440024",
+    "year": 2015,
+    "industry": "transportation",
+    "group": "treatment"
+  },
+  "Q02": {
+    "name": "Activision",
+    "cik": "718877",
+    "year": 2000,
+    "industry": "software",
+    "group": "control"
+  },
+  "Q03": {
+    "name": "Dollar General",
+    "cik": "29534",
+    "year": 2000,
+    "industry": "retail",
+    "group": "treatment"
+  },
+  "Q04": {
+    "name": "Lear Corp",
+    "cik": "842162",
+    "year": 2003,
+    "industry": "auto parts",
+    "group": "control"
+  },
+  "Q05": {
+    "name": "Celadon Group",
+    "cik": "865941",
+    "year": 2016,
+    "industry": "transportation",
+    "group": "treatment"
+  },
+  "Q06": {
+    "name": "Saks Inc",
+    "cik": "812900",
+    "year": 2004,
+    "industry": "retail",
+    "group": "treatment"
+  },
+  "Q07": {
+    "name": "Visteon",
+    "cik": "1111335",
+    "year": 2003,
+    "industry": "auto parts",
+    "group": "treatment"
+  },
+  "Q08": {
+    "name": "DeVry",
+    "cik": "730464",
+    "year": 2013,
+    "industry": "services",
+    "group": "control"
+  },
+  "Q09": {
+    "name": "Tenet Healthcare",
+    "cik": "70318",
+    "year": 2002,
+    "industry": "healthcare",
+    "group": "treatment"
+  },
+  "Q10": {
+    "name": "Symbol Technologies",
+    "cik": "278352",
+    "year": 2001,
+    "industry": "tech hardware",
+    "group": "treatment"
+  },
+  "Q11": {
+    "name": "Aetna",
+    "cik": "1122304",
+    "year": 2005,
+    "industry": "healthcare",
+    "group": "control"
+  },
+  "Q12": {
+    "name": "Target Corp",
+    "cik": "27419",
+    "year": 2001,
+    "industry": "retail",
+    "group": "control"
+  },
+  "Q13": {
+    "name": "Computer Associates",
+    "cik": "356028",
+    "year": 2001,
+    "industry": "software",
+    "group": "treatment"
+  },
+  "Q14": {
+    "name": "Chubb Corp",
+    "cik": "20171",
+    "year": 2004,
+    "industry": "financial",
+    "group": "control"
+  },
+  "Q15": {
+    "name": "UnitedHealth Group",
+    "cik": "731766",
+    "year": 2005,
+    "industry": "healthcare",
+    "group": "treatment"
+  },
+  "Q16": {
+    "name": "CMS Energy",
+    "cik": "811156",
+    "year": 2001,
+    "industry": "energy",
+    "group": "treatment"
+  },
+  "Q17": {
+    "name": "Halliburton",
+    "cik": "45012",
+    "year": 1998,
+    "industry": "energy",
+    "group": "treatment"
+  },
+  "Q18": {
+    "name": "PACCAR",
+    "cik": "75362",
+    "year": 2004,
+    "industry": "transportation",
+    "group": "control"
+  },
+  "Q19": {
+    "name": "Dillard's",
+    "cik": "28917",
+    "year": 2004,
+    "industry": "retail",
+    "group": "control"
+  },
+  "Q20": {
+    "name": "McKesson",
+    "cik": "927653",
+    "year": 2003,
+    "industry": "healthcare",
+    "group": "control"
+  },
+  "Q21": {
+    "name": "Universal Health Services",
+    "cik": "352915",
+    "year": 2002,
+    "industry": "healthcare",
+    "group": "control"
+  },
+  "Q22": {
+    "name": "Goodyear Tire",
+    "cik": "42582",
+    "year": 2002,
+    "industry": "auto parts",
+    "group": "treatment"
+  },
+  "Q23": {
+    "name": "ITT Educational Services",
+    "cik": "922475",
+    "year": 2013,
+    "industry": "services",
+    "group": "treatment"
+  },
+  "Q24": {
+    "name": "American International Group",
+    "cik": "5272",
+    "year": 2004,
+    "industry": "financial",
+    "group": "treatment"
+  },
+  "Q25": {
+    "name": "Weatherford International",
+    "cik": "1453090",
+    "year": 2009,
+    "industry": "energy",
+    "group": "treatment"
+  },
+  "Q26": {
+    "name": "BMC Software",
+    "cik": "835729",
+    "year": 2001,
+    "industry": "software",
+    "group": "control"
+  },
+  "Q27": {
+    "name": "Viacom",
+    "cik": "813828",
+    "year": 2001,
+    "industry": "media",
+    "group": "control"
+  },
+  "Q28": {
+    "name": "Navistar International",
+    "cik": "808450",
+    "year": 2004,
+    "industry": "transportation",
+    "group": "treatment"
+  },
+  "Q29": {
+    "name": "Dell Inc",
+    "cik": "826083",
+    "year": 2006,
+    "industry": "tech hardware",
+    "group": "treatment"
+  },
+  "Q30": {
+    "name": "Schlumberger",
+    "cik": "87347",
+    "year": 1998,
+    "industry": "energy",
+    "group": "control"
+  },
+  "Q31": {
+    "name": "Charter Communications",
+    "cik": "1091667",
+    "year": 2001,
+    "industry": "media",
+    "group": "treatment"
+  },
+  "Q32": {
+    "name": "Compuware",
+    "cik": "859014",
+    "year": 2001,
+    "industry": "software",
+    "group": "control"
+  },
+  "Q33": {
+    "name": "Fannie Mae",
+    "cik": "310522",
+    "year": 2003,
+    "industry": "financial",
+    "group": "treatment"
+  },
+  "Q34": {
+    "name": "Dominion Resources",
+    "cik": "715957",
+    "year": 2001,
+    "industry": "energy",
+    "group": "control"
+  },
+  "Q35": {
+    "name": "Family Dollar",
+    "cik": "34408",
+    "year": 2000,
+    "industry": "retail",
+    "group": "control"
+  },
+  "Q36": {
+    "name": "Panera Bread",
+    "cik": "724606",
+    "year": 2004,
+    "industry": "consumer",
+    "group": "control"
+  },
+  "Q37": {
+    "name": "Unisys",
+    "cik": "746838",
+    "year": 2010,
+    "industry": "services",
+    "group": "control"
+  },
+  "Q38": {
+    "name": "Super Micro Computer",
+    "cik": "1375365",
+    "year": 2016,
+    "industry": "tech hardware",
+    "group": "treatment"
+  },
+  "Q39": {
+    "name": "Hub Group",
+    "cik": "940942",
+    "year": 2015,
+    "industry": "transportation",
+    "group": "control"
+  },
+  "Q40": {
+    "name": "Computer Sciences",
+    "cik": "23082",
+    "year": 2010,
+    "industry": "services",
+    "group": "treatment"
+  },
+  "Q41": {
+    "name": "Diebold",
+    "cik": "28823",
+    "year": 2005,
+    "industry": "tech hardware",
+    "group": "treatment"
+  },
+  "Q42": {
+    "name": "Krispy Kreme",
+    "cik": "1100270",
+    "year": 2004,
+    "industry": "consumer",
+    "group": "treatment"
+  },
+  "Q43": {
+    "name": "Werner Enterprises",
+    "cik": "793074",
+    "year": 2016,
+    "industry": "transportation",
+    "group": "control"
+  },
+  "Q44": {
+    "name": "Monster Worldwide",
+    "cik": "1020416",
+    "year": 2005,
+    "industry": "services",
+    "group": "treatment"
+  },
+  "Q45": {
+    "name": "Black & Decker",
+    "cik": "12355",
+    "year": 1997,
+    "industry": "consumer",
+    "group": "control"
+  },
+  "Q46": {
+    "name": "Interpublic Group",
+    "cik": "51644",
+    "year": 2001,
+    "industry": "media",
+    "group": "treatment"
+  },
+  "Q47": {
+    "name": "NCR Corp",
+    "cik": "70866",
+    "year": 2005,
+    "industry": "tech hardware",
+    "group": "control"
+  },
+  "Q48": {
+    "name": "MicroStrategy",
+    "cik": "1050446",
+    "year": 1998,
+    "industry": "software",
+    "group": "treatment"
+  },
+  "Q49": {
+    "name": "Cardinal Health",
+    "cik": "721371",
+    "year": 2003,
+    "industry": "healthcare",
+    "group": "treatment"
+  },
+  "Q50": {
+    "name": "Take-Two Interactive",
+    "cik": "946581",
+    "year": 2000,
+    "industry": "software",
+    "group": "treatment"
+  },
+  "Q51": {
+    "name": "Dana Corp",
+    "cik": "26780",
+    "year": 2004,
+    "industry": "auto parts",
+    "group": "treatment"
+  },
+  "Q52": {
+    "name": "Omnicom",
+    "cik": "29989",
+    "year": 2001,
+    "industry": "media",
+    "group": "control"
+  },
+  "Q53": {
+    "name": "Cablevision",
+    "cik": "1053112",
+    "year": 2001,
+    "industry": "media",
+    "group": "control"
+  },
+  "Q54": {
+    "name": "Kmart",
+    "cik": "56824",
+    "year": 2001,
+    "industry": "retail",
+    "group": "treatment"
+  },
+  "Q55": {
+    "name": "Zebra Technologies",
+    "cik": "877212",
+    "year": 2001,
+    "industry": "tech hardware",
+    "group": "control"
+  },
+  "Q56": {
+    "name": "AOL Time Warner",
+    "cik": "1105705",
+    "year": 2001,
+    "industry": "media",
+    "group": "treatment"
+  },
+  "Q57": {
+    "name": "ArvinMeritor",
+    "cik": "1113256",
+    "year": 2004,
+    "industry": "auto parts",
+    "group": "control"
+  },
+  "Q58": {
+    "name": "Peregrine Systems",
+    "cik": "1031107",
+    "year": 2001,
+    "industry": "software",
+    "group": "treatment"
+  },
+  "Q59": {
+    "name": "Pitney Bowes",
+    "cik": "78814",
+    "year": 1999,
+    "industry": "tech hardware",
+    "group": "control"
+  },
+  "Q60": {
+    "name": "Cooper Tire",
+    "cik": "24491",
+    "year": 2002,
+    "industry": "auto parts",
+    "group": "control"
+  },
+  "Q61": {
+    "name": "Xerox Corp",
+    "cik": "108772",
+    "year": 1999,
+    "industry": "tech hardware",
+    "group": "treatment"
+  },
+  "Q62": {
+    "name": "Dynegy",
+    "cik": "1105055",
+    "year": 2001,
+    "industry": "energy",
+    "group": "treatment"
+  },
+  "Q63": {
+    "name": "Robert Half",
+    "cik": "315213",
+    "year": 2005,
+    "industry": "services",
+    "group": "control"
+  },
+  "Q64": {
+    "name": "Cinergy",
+    "cik": "899652",
+    "year": 2001,
+    "industry": "energy",
+    "group": "control"
+  },
+  "Q65": {
+    "name": "Sybase",
+    "cik": "768262",
+    "year": 1998,
+    "industry": "software",
+    "group": "control"
+  },
+  "Q66": {
+    "name": "SLM Corp",
+    "cik": "1032033",
+    "year": 2003,
+    "industry": "financial",
+    "group": "control"
+  },
+  "Q67": {
+    "name": "Baker Hughes",
+    "cik": "808362",
+    "year": 2009,
+    "industry": "energy",
+    "group": "control"
+  },
+  "Q68": {
+    "name": "Popular Inc",
+    "cik": "763901",
+    "year": 2004,
+    "industry": "financial",
+    "group": "control"
+  },
+  "Q69": {
+    "name": "Sunbeam Corp",
+    "cik": "3662",
+    "year": 1997,
+    "industry": "consumer",
+    "group": "treatment"
+  },
+  "Q70": {
+    "name": "Hewlett-Packard",
+    "cik": "47217",
+    "year": 2006,
+    "industry": "tech hardware",
+    "group": "control"
+  },
+  "Q71": {
+    "name": "NetApp",
+    "cik": "1002047",
+    "year": 2016,
+    "industry": "tech hardware",
+    "group": "control"
+  },
+  "Q72": {
+    "name": "Doral Financial",
+    "cik": "840889",
+    "year": 2004,
+    "industry": "financial",
+    "group": "treatment"
+  }
+}

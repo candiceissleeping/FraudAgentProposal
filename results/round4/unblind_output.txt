@@ -1,0 +1,77 @@
+pkt  group     company                      yr       kw rubric holistic  guess
+Q01  treatment Roadrunner Transportation    2015   18.3     13       25  Roadrunner
+Q02  control   Activision                   2000   21.6      0       10  Activision
+Q03  treatment Dollar General               2000    0.0     10       25  Dollar General
+Q04  control   Lear Corp                    2003   50.0     18       15  Lear
+Q05  treatment Celadon Group                2016   21.7     45       65  Celadon
+Q06  treatment Saks Inc                     2004   25.0     25       30  Saks
+Q07  treatment Visteon                      2003   18.3     20       30  Visteon
+Q08  control   DeVry                        2013   28.3     15       25  DeVry
+Q09  treatment Tenet Healthcare             2002    0.0     10       20  Tenet
+Q10  treatment Symbol Technologies          2001   16.7     20       30  Symbol Technologies
+Q11  control   Aetna                        2005   15.0     13       15  Aetna
+Q12  control   Target Corp                  2001    0.0      0        5  Target
+Q13  treatment Computer Associates          2001   11.7     18       40  Computer Associates
+Q14  control   Chubb Corp                   2004   46.7     25       20  Chubb
+Q15  treatment UnitedHealth Group           2005   46.7      0       10  UnitedHealth
+Q16  treatment CMS Energy                   2001   45.0     38       60  CMS Energy
+Q17  treatment Halliburton                  1998   35.0      3       15  Halliburton
+Q18  control   PACCAR                       2004    0.0      0       10  no
+Q19  control   Dillard's                    2004   15.0      5       10  Dillard's
+Q20  control   McKesson                     2003   83.3     45       45  McKesson
+Q21  control   Universal Health Services    2002   33.3     48       40  Universal Health Services
+Q22  treatment Goodyear Tire                2002   31.7     13       35  Goodyear
+Q23  treatment ITT Educational Services     2013   93.3     80       90  ITT Educational
+Q24  treatment American International Group 2004  100.0     95       95  AIG
+Q25  treatment Weatherford International    2009   30.0     40       50  Weatherford
+Q26  control   BMC Software                 2001   15.0      5       20  BMC Software
+Q27  control   Viacom                       2001   31.7      8       15  Viacom
+Q28  treatment Navistar International       2004   58.4     63       65  Navistar
+Q29  treatment Dell Inc                     2006   15.0      0       15  Dell
+Q30  control   Schlumberger                 1998   11.7      0        5  Schlumberger
+Q31  treatment Charter Communications       2001   20.0     30       45  Charter
+Q32  control   Compuware                    2001    8.4      0       10  Compuware
+Q33  treatment Fannie Mae                   2003   55.0     28       45  Fannie Mae
+Q34  control   Dominion Resources           2001   10.0     13       20  Dominion Resources
+Q35  control   Family Dollar                2000    0.0      0        5  Family Dollar
+Q36  control   Panera Bread                 2004   40.0     25       25  Panera
+Q37  control   Unisys                       2010    1.7      0       10  unknown
+Q38  treatment Super Micro Computer         2016   38.3     55       65  Super Micro Computer
+Q39  control   Hub Group                    2015    5.0      8       15  Hub Group
+Q40  treatment Computer Sciences            2010   38.4     28       40  Computer Sciences
+Q41  treatment Diebold                      2005   26.6     28       55  Diebold
+Q42  treatment Krispy Kreme                 2004    1.7      0        5  unknown
+Q43  control   Werner Enterprises           2016   21.7     10       10  Heartland Express
+Q44  treatment Monster Worldwide            2005   25.0     20       40  Monster Worldwide
+Q45  control   Black & Decker               1997   43.3     13       20  Black & Decker
+Q46  treatment Interpublic Group            2001    6.7      5       15  unknown
+Q47  control   NCR Corp                     2005   25.0     23       25  NCR
+Q48  treatment MicroStrategy                1998    8.3      5       15  unknown software IPO
+Q49  treatment Cardinal Health              2003   50.0     40       50  Cardinal Health
+Q50  treatment Take-Two Interactive         2000    6.6     25       35  Take-Two Interactive
+Q51  treatment Dana Corp                    2004   43.3     28       45  Dana
+Q52  control   Omnicom                      2001   20.0     15       25  Omnicom
+Q53  control   Cablevision                  2001   21.7     30       40  Cablevision
+Q54  treatment Kmart                        2001    1.7      3       15  Kmart
+Q55  control   Zebra Technologies           2001   11.7     20       20  Zebra Technologies
+Q56  treatment AOL Time Warner              2001   63.3     38       50  AOL Time Warner
+Q57  control   ArvinMeritor                 2004   35.0     28       30  ArvinMeritor
+Q58  treatment Peregrine Systems            2001   11.7     25       45  Peregrine Systems
+Q59  control   Pitney Bowes                 1999   21.7     10       15  Pitney Bowes
+Q60  control   Cooper Tire                  2002   28.2      8       15  Cooper Tire
+Q61  treatment Xerox Corp                   1999   23.3     18       40  Xerox
+Q62  treatment Dynegy                       2001   56.7     58       65  Dynegy
+Q63  control   Robert Half                  2005    5.0      3        5  Robert Half
+Q64  control   Cinergy                      2001   53.4     38       35  Cinergy
+Q65  control   Sybase                       1998    6.7      8       40  unknown tech company
+Q66  control   SLM Corp                     2003   58.3     55       45  SLM (Sallie Mae)
+Q67  control   Baker Hughes                 2009   50.0     20       35  Willbros / FCPA company
+Q68  control   Popular Inc                  2004   10.0     10       20  unknown bank holding co
+Q69  treatment Sunbeam Corp                 1997   30.0     20       55  Sunbeam
+Q70  control   Hewlett-Packard              2006   46.7     20       25  Hewlett-Packard
+Q71  control   NetApp                       2016   20.0      5        5  unknown large tech
+Q72  treatment Doral Financial              2004    6.7      0       15  Doral Financial
+AUC keyword   0.56 (95% CI 0.42-0.69)   treatment mean 30.0  control mean 24.9
+AUC rubric    0.66 (95% CI 0.53-0.78)   treatment mean 26.3  control mean 15.1
+AUC holistic  0.78 (95% CI 0.67-0.88)   treatment mean 40.0  control mean 20.3
+recognized correctly: 61/72
