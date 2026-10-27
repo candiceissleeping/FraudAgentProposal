@@ -1,0 +1,73 @@
+packet,A,B,C,D,E,rubric_total,holistic,recognized_as
+Q01,0,0,10,3,0,13,25,Roadrunner
+Q02,0,0,0,0,0,0,10,Activision
+Q03,5,5,0,0,0,10,25,Dollar General
+Q04,5,10,0,3,0,18,15,Lear
+Q05,0,20,15,0,10,45,65,Celadon
+Q06,0,15,0,10,0,25,30,Saks
+Q07,0,10,0,0,10,20,30,Visteon
+Q08,0,0,0,15,0,15,25,DeVry
+Q09,0,0,0,10,0,10,20,Tenet
+Q10,5,0,0,15,0,20,30,Symbol Technologies
+Q11,0,0,0,13,0,13,15,Aetna
+Q12,0,0,0,0,0,0,5,Target
+Q13,0,0,10,8,0,18,40,Computer Associates
+Q14,0,0,10,15,0,25,20,Chubb
+Q15,0,0,0,0,0,0,10,UnitedHealth
+Q16,15,10,10,3,0,38,60,CMS Energy
+Q17,0,0,0,3,0,3,15,Halliburton
+Q18,0,0,0,0,0,0,10,no
+Q19,0,5,0,0,0,5,10,Dillard's
+Q20,15,15,0,15,0,45,45,McKesson
+Q21,0,25,10,13,0,48,40,Universal Health Services
+Q22,0,0,0,3,10,13,35,Goodyear
+Q23,30,10,15,15,10,80,90,ITT Educational
+Q24,40,15,15,15,10,95,95,AIG
+Q25,20,0,10,10,0,40,50,Weatherford
+Q26,0,0,0,5,0,5,20,BMC Software
+Q27,0,5,0,3,0,8,15,Viacom
+Q28,30,25,5,3,0,63,65,Navistar
+Q29,0,0,0,0,0,0,15,Dell
+Q30,0,0,0,0,0,0,5,Schlumberger
+Q31,0,15,5,0,10,30,45,Charter
+Q32,0,0,0,0,0,0,10,Compuware
+Q33,5,0,20,3,0,28,45,Fannie Mae
+Q34,0,0,10,3,0,13,20,Dominion Resources
+Q35,0,0,0,0,0,0,5,Family Dollar
+Q36,15,5,5,0,0,25,25,Panera
+Q37,0,0,0,0,0,0,10,unknown
+Q38,30,20,5,0,0,55,65,Super Micro Computer
+Q39,0,5,0,3,0,8,15,Hub Group
+Q40,5,0,15,8,0,28,40,Computer Sciences
+Q41,15,0,5,8,0,28,55,Diebold
+Q42,0,0,0,0,0,0,5,unknown
+Q43,0,10,0,0,0,10,10,Heartland Express
+Q44,0,15,5,0,0,20,40,Monster Worldwide
+Q45,0,0,0,13,0,13,20,Black & Decker
+Q46,0,0,5,0,0,5,15,unknown
+Q47,5,0,15,3,0,23,25,NCR
+Q48,0,5,0,0,0,5,15,unknown software IPO
+Q49,0,10,15,15,0,40,50,Cardinal Health
+Q50,0,10,10,0,5,25,35,Take-Two Interactive
+Q51,0,10,5,3,10,28,45,Dana
+Q52,0,5,10,0,0,15,25,Omnicom
+Q53,0,25,0,0,5,30,40,Cablevision
+Q54,0,0,0,3,0,3,15,Kmart
+Q55,0,15,5,0,0,20,20,Zebra Technologies
+Q56,0,20,15,3,0,38,50,AOL Time Warner
+Q57,0,10,10,3,5,28,30,ArvinMeritor
+Q58,0,0,15,5,5,25,45,Peregrine Systems
+Q59,0,0,0,10,0,10,15,Pitney Bowes
+Q60,0,0,0,3,5,8,15,Cooper Tire
+Q61,0,5,0,3,10,18,40,Xerox
+Q62,0,20,15,13,10,58,65,Dynegy
+Q63,0,0,0,3,0,3,5,Robert Half
+Q64,0,10,10,13,5,38,35,Cinergy
+Q65,0,0,0,8,0,8,40,unknown tech company
+Q66,15,10,20,10,0,55,45,SLM (Sallie Mae)
+Q67,5,0,5,10,0,20,35,Willbros / FCPA company
+Q68,0,0,0,10,0,10,20,unknown bank holding co
+Q69,0,0,15,0,5,20,55,Sunbeam
+Q70,0,0,10,10,0,20,25,Hewlett-Packard
+Q71,0,0,5,0,0,5,5,unknown large tech
+Q72,0,0,0,0,0,0,15,Doral Financial
