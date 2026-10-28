@@ -23,6 +23,9 @@ GE 原本在名單中，但其 FY2016 10-K 在資料集中為空（年報以引�
 - 第四輪（36 組配對、每產業 ≥3 組、遮蔽加上網址 / 電子郵件）：[`results/round4/review.md`](results/round4/review.md)
   - 關鍵字 AUC 0.56、規則 v2 0.66、整體判斷 0.78（受辨識污染，62/72 被認出）
   - 流程：`config/round4_pool.json` + `results/round4/protocol.md` → `round3 draw --round 4` → `scores.csv` → `round3 unblind --round 4` → `round4_sensitivity`
+- 第五輪（加入財務數字特徵 Beneish M / Dechow F，與報表一致性檢查 C；同第四輪 72 份）：[`results/round5/review.md`](results/round5/review.md)
+  - M 0.61、F 0.57、C 0.53、T+F+C 0.59；三個預先登錄假設都不成立。M 前 10 名中 8 家是問題公司
+  - 流程：`results/round5/protocol.md` → SEC 原始申報檔 → `raw_values.tsv`（人工讀值）→ `round5 features` → `check_review.tsv`（人工判定）→ `round5 evaluate`
 - 全部 102 份總表：`results/summary_table.csv`
 
 ## 流程
