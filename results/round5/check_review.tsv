@@ -1,0 +1,136 @@
+pid	check	verdict	reason
+Q01	IV-1 rev	extraction_error	sentence amount is the change; the level 1,995.0 matches
+Q02	IV-1 rev	extraction_error	sentence is publishing-segment revenue
+Q03	II-3	explained	5-for-4 split transfer (26,573) and repurchase excess (-49,646) charged to retained earnings in equity statement
+Q04	II-4	explained	receivables sold under securitization and FX translation change balance-sheet AR outside CF line
+Q04	IV-1 rev	extraction_error	sentence cites 1998 revenue level, not the current year
+Q05	III-1 ta	explained	early adoption of ASU 2015-17 reclassified ~7M deferred tax assets
+Q06	II-4	explained	sale of proprietary credit-card receivables removes AR outside CF working-capital line
+Q07	III-1 cfo	explained	Y0 10-K reclassifies prior-year amounts including related cash flow amounts (GECC arrangement)
+Q08	II-3	explained	dividends declared differ from dividends paid; CF figure used as input
+Q08	II-4	explained	provision for uncollectibles shown as separate CF line; held-for-sale receivables reclassified
+Q08	III-1 rev	explained	business held for sale presented as discontinued operations in Y0 10-K
+Q08	III-1 ar	explained	business held for sale presented as discontinued operations in Y0 10-K
+Q09	I-6 Y0	extraction_error	diluted shares captured in thousands while NI in millions (fixed in raw_values)
+Q09	I-6 Y-1	extraction_error	diluted shares captured in thousands while NI in millions (fixed in raw_values)
+Q09	II-4	explained	CF AR line is before provision for doubtful accounts, which is shown separately
+Q10	II-4	explained	receivables acquired in business acquisition
+Q10	II-5	explained	inventory writedown charge shown as separate CF item
+Q12	II-3	explained	share repurchase excess over par charged to retained earnings
+Q13	IV-1 rev	extraction_error	sentence amount is the change in revenue, not the level
+Q14	IV-1 rev	extraction_error	sentence is about realized investment gains, not revenue
+Q15	IV-1 rev	extraction_error	sentence amount is the change; the level 45.4B matches
+Q15	IV-1 ni	extraction_error	sentence is a hypothetical sensitivity, not net income
+Q16	III-1 rev	explained	Y0 10-K reclassifies prior-year amounts (net presentation of energy trades)
+Q16	III-1 ta	explained	labelled reclassification of prior-year amounts in Y0 10-K
+Q17	II-3	explained	Dresser pooling: conforming fiscal years and treasury share cancellation in retained earnings
+Q17	II-4	explained	pooling of interests with Dresser combines receivables outside CF line
+Q17	III-1 rev	explained	prior years restated for Dresser pooling of interests
+Q17	III-1 ni	explained	prior years restated for Dresser pooling of interests
+Q17	III-1 ta	explained	prior years restated for Dresser pooling of interests
+Q17	III-1 eq	explained	prior years restated for Dresser pooling of interests
+Q17	III-1 cfo	explained	prior years restated for Dresser pooling of interests
+Q18	II-3	explained	dividends declared (incl. special dividend) differ from cash dividends paid used as input
+Q18	III-1 cfo	explained	Note B: lending activities reclassified from investing to operating cash flows
+Q19	III-1 ar	extraction_error	gross vs net receivables; difference equals the 49,755 allowance
+Q20	III-1 cfo	explained	discontinued operations re-presented under SFAS 144
+Q21	I-6 Y0	explained	diluted EPS uses if-converted method for convertible debentures (interest add-back)
+Q21	I-6 Y-1	explained	diluted EPS uses if-converted method for convertible debentures (interest add-back)
+Q21	III-1 ta	fail	Y-1 total assets revised +54.0 with no restatement or reclassification disclosure found
+Q21	III-1 cfo	fail	Y-1 operating cash flow revised -14.6 with no disclosure found
+Q22	III-1 ta	fail	Y-1 total assets revised +270.5 with no restatement label found in Y0 10-K
+Q22	III-1 cfo	fail	Y-1 operating cash flow revised +46.8 with no disclosure found
+Q22	IV-1 rev	extraction_error	sentence amount is a currency-translation effect
+Q23	II-4	explained	CF AR change is before bad-debt provision shown separately
+Q23	III-1 ni	explained	prior year labelled as restated in Y0 10-K
+Q23	III-1 eq	explained	prior year labelled as restated in Y0 10-K
+Q23	III-1 cfo	explained	prior year labelled as restated in Y0 10-K
+Q23	III-1 ar	explained	prior year labelled as restated in Y0 10-K
+Q23	IV-1 rev	extraction_error	sentence amount is the change; level 1,072.3 matches
+Q24	III-1 rev	explained	prior year labelled as restated in Y0 10-K
+Q24	III-1 ni	explained	prior year labelled as restated in Y0 10-K
+Q24	III-1 ta	explained	prior year labelled as restated in Y0 10-K
+Q24	III-1 eq	explained	prior year labelled as restated in Y0 10-K
+Q24	III-1 ar	explained	prior year labelled as restated in Y0 10-K
+Q24	IV-1 ni	extraction_error	sentence is about loss-reserve increase
+Q25	IV-1 rev	extraction_error	sentence amount is the change in revenue
+Q26	II-3	fail	retained earnings 91.8 below roll-forward; no explanation found in filing text
+Q28	I-6 Y0	explained	diluted EPS uses if-converted method for convertible notes
+Q28	II-4	explained	CF receivables line covers a broader receivables definition (finance receivables)
+Q28	III-1 rev	explained	prior year labelled as restated in Y0 10-K
+Q28	III-1 ni	explained	prior year labelled as restated in Y0 10-K
+Q28	III-1 eq	explained	prior year labelled as restated in Y0 10-K
+Q28	III-1 ar	explained	prior year labelled as restated in Y0 10-K
+Q29	III-1 ar	explained	financing receivables separately classified; prior items reclassified to conform
+Q29	IV-1 rev	extraction_error	sentence amount is investment proceeds / share repurchases
+Q29	IV-1 ni	extraction_error	program took operating income 4.3B; net income 3.6B in the same sentence matches
+Q30	II-2 Y0	explained	balance-sheet line is cash and short-term investments; CF reconciles cash only
+Q30	II-2 Y-1	explained	balance-sheet line is cash and short-term investments; CF reconciles cash only
+Q30	III-1 rev	explained	Camco merger pooling of interests; prior years combined
+Q30	III-1 ni	explained	Camco merger pooling of interests; prior years combined
+Q30	III-1 ta	explained	Camco merger pooling of interests; prior years combined
+Q30	III-1 eq	explained	Camco merger pooling of interests; prior years combined
+Q30	III-1 cfo	explained	Camco merger pooling of interests; prior years combined
+Q30	IV-1 rev	extraction_error	sentence is Camco subsidiary revenue
+Q31	IV-1 rev	extraction_error	sentence is revenue of acquired systems
+Q31	IV-1 ni	extraction_error	sentence amount is the change; level 1,177.7 loss matches
+Q32	II-4	explained	long-term installment receivables move between current and non-current outside CF line
+Q32	IV-1 rev	extraction_error	sentence is mainframe product revenue
+Q33	I-6 Y-1	explained	EPS computed on income after preferred stock dividends
+Q36	III-1 rev	explained	prior years labelled as restated (lease accounting)
+Q36	III-1 ta	explained	prior years labelled as restated (lease accounting)
+Q36	III-1 eq	explained	prior years labelled as restated (lease accounting)
+Q36	III-1 cfo	explained	prior years labelled as restated (lease accounting)
+Q36	IV-1 ni	extraction_error	sentence amount is the change; level 38.6 matches
+Q37	II-1 Y0	explained	CF starts from income including noncontrolling interests (5.2)
+Q37	II-1 Y-1	explained	CF starts from income including noncontrolling interests (3.7)
+Q37	III-1 rev	explained	divested business presented as discontinued operations
+Q37	III-1 ar	explained	divested business presented as discontinued operations
+Q39	IV-1 rev	extraction_error	sentence is Mode segment revenue
+Q40	IV-1 rev	extraction_error	sentence amount is the change in revenue
+Q40	IV-1 ni	extraction_error	834 is net income before noncontrolling interests; attributable 817 used
+Q41	III-1 rev	explained	business presented as discontinued operations in Y0 10-K
+Q41	III-1 eq	fail	Y-1 equity revised -11.6 (retained earnings) with no restatement label
+Q43	III-1 ta	explained	ASU 2015-17 deferred tax reclassification
+Q43	IV-1 rev	extraction_error	sentence is fuel-surcharge revenue
+Q44	III-1 rev	explained	discontinued operations re-presented
+Q45	II-4	explained	receivables sold under sale program
+Q46	I-4 Y-1	explained	separate CF line: deconsolidation of subsidiary (-29.1)
+Q46	II-4	explained	FX translation and pooling-related receivables
+Q46	III-1 rev	explained	True North pooling of interests; prior years restated
+Q46	III-1 ni	explained	True North pooling of interests; prior years restated
+Q46	III-1 ta	explained	True North pooling of interests; prior years restated
+Q46	III-1 eq	explained	True North pooling of interests; prior years restated
+Q46	III-1 cfo	explained	True North pooling of interests; prior years restated
+Q48	II-3	extraction_error	dividend input is cash repayment of S-corp dividend notes declared earlier; S-corp termination entries not captured
+Q51	I-5 Y0	explained	CF line: net change in cash of discontinued operations
+Q53	I-1 Y0	extraction_error	mezzanine preferred and minority interests not captured
+Q53	I-1 Y-1	extraction_error	mezzanine preferred and minority interests not captured
+Q54	I-6 Y0	fail	NI / diluted shares -0.505 vs reported -0.48; gap not explained in filing
+Q54	I-6 Y-1	explained	if-converted method for trust convertible preferred
+Q54	II-5	explained	strategic charge inventory writedown shown as separate CF item
+Q57	II-4	explained	receivables securitization
+Q57	III-1 rev	explained	prior years restated for LIFO-to-FIFO change and discontinued operations
+Q57	III-1 ni	explained	prior years restated for LIFO-to-FIFO change and discontinued operations
+Q57	III-1 ta	explained	prior years restated for LIFO-to-FIFO change and discontinued operations
+Q57	III-1 eq	explained	prior years restated for LIFO-to-FIFO change and discontinued operations
+Q57	III-1 cfo	explained	prior years restated for LIFO-to-FIFO change and discontinued operations
+Q58	III-1 cfo	explained	labelled reclassification: stock-option tax benefit 10,595 moved into CFO
+Q59	III-1 rev	explained	sold subsidiary presented as discontinued operations
+Q59	III-1 cfo	explained	sold subsidiary presented as discontinued operations
+Q61	I-4 Y0	explained	CF adds cash provided by discontinued operations
+Q61	I-4 Y-1	explained	CF adds cash provided by discontinued operations
+Q62	II-4	fail	CF AR change 1,547 vs balance-sheet implied 1,172; no explanation found
+Q63	II-3	explained	repurchase excess over par charged to retained earnings
+Q63	II-4	explained	CF AR change is before provision shown separately
+Q66	II-3	explained	treasury stock retirement charged to retained earnings
+Q66	IV-1 rev	extraction_error	sentence is debt-management segment revenue
+Q68	II-3	explained	stock dividend (July 2004) transferred from retained earnings
+Q69	I-6 Y0	extraction_error	shares captured in thousands and EPS captured from continuing operations; fixed to millions and net diluted EPS
+Q69	I-6 Y-1	extraction_error	shares captured in thousands and EPS captured from continuing operations; fixed to millions and net diluted EPS
+Q70	II-3	explained	share repurchases charged to retained earnings
+Q70	IV-1 ni	extraction_error	sentence amount is operating cash flow
+Q71	II-3	explained	repurchases in excess of paid-in capital charged to retained earnings / accumulated deficit
+Q71	IV-1 rev	extraction_error	sentence is deferred revenue change
+Q72	II-2 Y0	explained	CF cash includes money-market investments (2,470,786)
+Q72	II-2 Y-1	explained	CF cash includes money-market investments

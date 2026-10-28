@@ -1,0 +1,22 @@
+Q05 III-1 ta: Y-1 total assets 1,175,689 (Y-1 10-K) vs 1,168,606 (Y0 10-K); Y0 10-K says early adoption of ASU 2015-17 reclassified ~$7M current deferred tax assets against LT deferred tax liabilities for fiscal 2015 -> explained
+Q08 III-1 rev/ar: Y0 10-K presents a business held for sale as discontinued operations (separate held-for-sale asset lines, loss from discontinued operations) -> 2012 revenue and AR re-presented -> explained
+Q08 II-2: CF end cash 197,144 = BS cash 196,576 + cash of discontinued operations 568 (shown on CF) -> explained
+Q16 III-1 ta: 2000 total assets 15,851 in FY2000 10-K vs 17,251 in FY2001 10-K (+8.8%). FY2001 10-K: "CMS Energy has reclassified certain prior year amounts for comparative purposes" (generic) and restated 2001 quarters to net presentation of round-trip energy trades -> labelled reclassification, counted as explained (already-explained revision) per protocol; magnitude noted
+Q17 III-1 all: FY1998 10-K restates prior years for the Dresser pooling of interests (auditor report + statements) -> explained
+Q18 III-1 cfo: 2003 CFO 818.7 -> 778.3; Note B: lending activities on new trucks reclassified from investing to operating cash flows after SEC staff concerns -> explained
+Q29 III-1 ar: FY2005 AR 4,414 (FY2005 10-K) vs 3,563 (FY2006 10-K); FY2006 10-K separately classifies financing receivables (985) and states items were reclassified to conform -> explained
+Q30 III-1 all: Camco merger accounted for as pooling of interests, statements prepared as if combined from the earliest period -> explained
+Q30 II-2: BS line is "cash and short-term investments"; CF reconciles cash only -> explained
+Q37 III-1 rev/ar: FY2010 10-K presents a divested business as discontinued operations (income from discontinued operations, assets of discontinued operations line) -> 2009 revenue and AR re-presented -> explained
+Q36 III-1 all: FY2004 10-K labels prior years "as restated" (lease accounting restatement) -> explained (labelled restatement)
+Q23/Q24/Q28 III-1: labelled restatements / revisions in the Y0 10-K -> explained (labelled)
+Q46 III-1 all: True North acquisition accounted for as a pooling of interests in 2001 -> prior years restated -> explained
+Q46 I-4 Y-1: 2000 change in cash includes "deconsolidation of subsidiary" (-29.1) shown as a separate CF line -> explained
+Q51 I-5: CF shows "net change in cash of discontinued operations" (+4/-2) between net change and ending cash -> explained
+Q58 III-1 cfo: FY2000 CFO 47,016 -> 57,611 (+10,595 = FY2000 stock option tax benefit); 10-K: "Certain amounts for prior years have been reclassified to conform" -> labelled reclassification, explained
+Q57 III-1 all: FY2004 10-K retroactively restated for LIFO-to-FIFO change and discontinued operations -> explained
+Q59 III-1 rev/cfo: FY1999 10-K presents a sold subsidiary as discontinued operations (net assets of discontinued operations; loss on sale) -> 1998 revenue and CFO re-presented -> explained
+Q61 I-5: CF adds "cash provided by discontinued operations" (28/178) to continuing-operations cash flow -> explained
+Q72 II-2: CF cash and cash equivalents (2,535,726) = cash and due from banks (64,940) + money market investments (2,470,786) -> explained
+Q72 II-3: retained earnings roll-forward differs by the annual transfer to "legal surplus" (Puerto Rico banking law; legal surplus line rose 8,806) -> explained
+Q68 note: Y-1 values taken from period-end balances (the 5-year table's "average balances" block was not used)

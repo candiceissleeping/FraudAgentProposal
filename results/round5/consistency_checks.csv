@@ -1,0 +1,1924 @@
+pid,check,value_a,value_b,diff,status,detail
+Q01,I-1 Y0,1326.125,1326.125,0.0,pass,total assets vs total liabilities and equity
+Q01,I-3 Y0,,,,untestable,no gross-profit line
+Q01,I-4 Y0,-2.681,-2.681,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q01,I-5 Y0,8.664,8.664,0.0,pass,beginning cash + change vs ending cash
+Q01,I-6 Y0,1.2316,1.23,0.0016,pass,net income / diluted shares vs diluted EPS
+Q01,II-1 Y0,48.0,48.0,0.0,pass,income statement vs cash-flow starting income
+Q01,II-2 Y0,8.664,8.664,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q01,I-1 Y-1,1257.82,1257.82,0.0,pass,total assets vs total liabilities and equity
+Q01,I-3 Y-1,,,,untestable,no gross-profit line
+Q01,I-4 Y-1,5.907,5.907,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q01,I-5 Y-1,11.345,11.345,-0.0,pass,beginning cash + change vs ending cash
+Q01,I-6 Y-1,1.3239,1.32,0.0039,pass,net income / diluted shares vs diluted EPS
+Q01,II-1 Y-1,51.974,51.974,0.0,pass,income statement vs cash-flow starting income
+Q01,II-2 Y-1,11.345,11.345,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q01,II-3,215.671,215.671,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q01,II-4,12.203,13.984,-1.781,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q01,II-5,,,,untestable,missing inv or ch_inv
+Q01,II-6 rev,1995.019,1995.019,0.0,pass,sum of quarterly rev vs annual
+Q01,II-6 ni,48.0,48.0,0.0,pass,sum of quarterly ni vs annual
+Q01,III-1 rev,1872.816,1872.816,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q01,III-1 ni,51.974,51.974,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q01,III-1 ta,1257.82,1257.82,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q01,III-1 eq,558.775,558.775,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q01,III-1 cfo,40.63,40.63,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q01,III-1 ar,284.379,284.379,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q01,IV-1 rev,122.2,1995.019,-1872.819,fail,"Year Ended December 31, 2015 Compared to Year Ended December 31, 2014
+Revenues
+Consolidated revenues increased by $122.2 million, or 6.5%, to $1,995.0 million in 2015 from $1,872.8 million in 2014, primarily due to organic growth in excess of soft demand and a decrease in fuel surcharge revenues."
+Q01,IV-1 ni,48.0,48.0,0.0,pass,"Net Income Available to Common Stockholders
+Net income available to common stockholders was $48.0 million in 2015 compared with $52.0 million in 2014."
+Q02,I-1 Y0,309.737,309.737,0.0,pass,total assets vs total liabilities and equity
+Q02,I-3 Y0,,,,untestable,no gross-profit line
+Q02,I-4 Y0,16.948,16.948,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q02,I-5 Y0,49.985,49.985,0.0,pass,beginning cash + change vs ending cash
+Q02,I-6 Y0,-1.3806,-1.38,-0.0006,pass,net income / diluted shares vs diluted EPS
+Q02,II-1 Y0,-34.088,-34.088,0.0,pass,income statement vs cash-flow starting income
+Q02,II-2 Y0,49.985,49.985,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q02,I-1 Y-1,283.345,283.345,0.0,pass,total assets vs total liabilities and equity
+Q02,I-3 Y-1,,,,untestable,no gross-profit line
+Q02,I-4 Y-1,-41.282,-41.282,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q02,I-5 Y-1,33.037,33.037,0.0,pass,beginning cash + change vs ending cash
+Q02,I-6 Y-1,0.6222,0.62,0.0022,pass,net income / diluted shares vs diluted EPS
+Q02,II-1 Y-1,14.891,14.891,0.0,pass,income statement vs cash-flow starting income
+Q02,II-2 Y-1,33.037,33.037,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q02,II-3,-8.361,-8.361,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q02,II-4,9.433,9.9,-0.467,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q02,II-5,-9.522,-7.342,-2.18,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q02,II-6 rev,572.205,572.205,0.0,pass,sum of quarterly rev vs annual
+Q02,II-6 ni,-34.088,-34.088,0.0,pass,sum of quarterly ni vs annual
+Q02,III-1 rev,,,,untestable,no prior-year 10-K value
+Q02,III-1 ni,,,,untestable,no prior-year 10-K value
+Q02,III-1 ta,,,,untestable,no prior-year 10-K value
+Q02,III-1 eq,,,,untestable,no prior-year 10-K value
+Q02,III-1 cfo,,,,untestable,no prior-year 10-K value
+Q02,III-1 ar,,,,untestable,no prior-year 10-K value
+Q02,IV-1 rev,205.5,572.205,-366.705,fail,"Publishing net revenues for the year ended March 31, 2000 increased 93.0% from $205.5 million to $396.7 million."
+Q03,I-1 Y0,1450.941,1450.941,0.0,pass,total assets vs total liabilities and equity
+Q03,I-3 Y0,1097.791,1097.791,-0.0,pass,revenue - cost of sales vs gross profit
+Q03,I-4 Y0,36.495,36.495,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q03,I-5 Y0,58.789,58.789,0.0,pass,beginning cash + change vs ending cash
+Q03,I-6 Y0,0.814,0.81,0.004,pass,net income / diluted shares vs diluted EPS
+Q03,II-1 Y0,219.427,219.427,0.0,pass,income statement vs cash-flow starting income
+Q03,II-2 Y0,58.789,58.789,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q03,I-1 Y-1,1211.784,1211.784,0.0,pass,total assets vs total liabilities and equity
+Q03,I-3 Y-1,905.877,905.877,-0.0,pass,revenue - cost of sales vs gross profit
+Q03,I-4 Y-1,15.166,15.166,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q03,I-5 Y-1,22.294,22.294,0.0,pass,beginning cash + change vs ending cash
+Q03,I-6 Y-1,0.6782,0.68,-0.0018,pass,net income / diluted shares vs diluted EPS
+Q03,II-1 Y-1,182.033,182.033,0.0,pass,income statement vs cash-flow starting income
+Q03,II-2 Y-1,22.294,22.294,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q03,II-3,587.64,537.994,49.646,fail,RE(t-1) + NI - dividends vs RE(t)
+Q03,II-4,,,,untestable,missing ar or ch_ar
+Q03,II-5,-173.993,-173.993,-0.0,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q03,II-6 rev,3887.964,3887.964,0.0,pass,sum of quarterly rev vs annual
+Q03,II-6 ni,219.427,219.427,0.0,pass,sum of quarterly ni vs annual
+Q03,III-1 rev,3220.989,3220.989,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q03,III-1 ni,182.033,182.033,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q03,III-1 ta,1211.784,1211.784,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q03,III-1 eq,725.761,725.761,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q03,III-1 cfo,218.61,218.61,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q03,III-1 ar,,,,untestable,no prior-year 10-K value
+Q03,IV-1,,,,untestable,no matching sentence
+Q04,I-1 Y0,8571.0,8571.0,0.0,pass,total assets vs total liabilities and equity
+Q04,I-3 Y0,,,,untestable,no gross-profit line
+Q04,I-4 Y0,77.6,77.6,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q04,I-5 Y0,169.3,169.3,0.0,pass,beginning cash + change vs ending cash
+Q04,I-6 Y0,,,,untestable,shares or EPS not recorded
+Q04,II-1 Y0,380.5,380.5,0.0,pass,income statement vs cash-flow starting income
+Q04,II-2 Y0,169.3,169.3,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q04,I-1 Y-1,7483.0,7483.0,0.0,pass,total assets vs total liabilities and equity
+Q04,I-3 Y-1,,,,untestable,no gross-profit line
+Q04,I-4 Y-1,4.1,4.1,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q04,I-5 Y-1,91.7,91.7,-0.0,pass,beginning cash + change vs ending cash
+Q04,I-6 Y-1,,,,untestable,shares or EPS not recorded
+Q04,II-1 Y-1,13.0,13.0,0.0,pass,income statement vs cash-flow starting income
+Q04,II-2 Y-1,91.7,91.7,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q04,II-3,1456.3,1441.8,14.5,pass,RE(t-1) + NI - dividends vs RE(t)
+Q04,II-4,-692.3,-196.5,-495.8,fail,-change in balance-sheet ar vs cash-flow ch_ar
+Q04,II-5,-60.5,-27.4,-33.1,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q04,II-6 rev,15746.7,15746.7,0.0,pass,sum of quarterly rev vs annual
+Q04,II-6 ni,380.5,380.5,0.0,pass,sum of quarterly ni vs annual
+Q04,III-1 rev,14424.6,14424.6,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q04,III-1 ni,13.0,13.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q04,III-1 ta,7483.0,7483.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q04,III-1 eq,1662.3,1662.3,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q04,III-1 cfo,545.1,545.1,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q04,III-1 ar,1508.0,1508.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q04,IV-1 rev,9100.0,15746.7,-6646.7,fail,"Our net sales have grown from $9.1 billion for the year ended December 31, 1998 to $15.7 billion for the year ended December 31, 2003."
+Q04,IV-1 ni,381.0,380.5,0.5,pass,"Net income was $381 million, or $5.55 per diluted share, for the year ended December 31, 2003, as compared to $13 million, or $0.19 per diluted share, for the year ended December 31, 2002."
+Q05,I-1 Y0,1103.29,1103.29,0.0,pass,total assets vs total liabilities and equity
+Q05,I-3 Y0,,,,untestable,no gross-profit line
+Q05,I-4 Y0,-15.622,-15.622,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q05,I-5 Y0,9.077,9.077,0.0,pass,beginning cash + change vs ending cash
+Q05,I-6 Y0,0.8847,0.88,0.0047,pass,net income / diluted shares vs diluted EPS
+Q05,II-1 Y0,24.844,24.844,0.0,pass,income statement vs cash-flow starting income
+Q05,II-2 Y0,9.077,9.077,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q05,I-1 Y-1,1168.606,1168.606,0.0,pass,total assets vs total liabilities and equity
+Q05,I-3 Y-1,,,,untestable,no gross-profit line
+Q05,I-4 Y-1,9.191,9.191,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q05,I-5 Y-1,24.699,24.699,0.0,pass,beginning cash + change vs ending cash
+Q05,I-6 Y-1,1.5209,1.52,0.0009,pass,net income / diluted shares vs diluted EPS
+Q05,II-1 Y-1,37.217,37.217,0.0,pass,income statement vs cash-flow starting income
+Q05,II-2 Y-1,24.699,24.699,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q05,II-3,218.056,218.056,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q05,II-4,-3.68,0.165,-3.845,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q05,II-5,,,,untestable,missing inv or ch_inv
+Q05,II-6 rev,1065.356,1065.356,0.0,pass,sum of quarterly rev vs annual
+Q05,II-6 ni,24.844,24.844,0.0,pass,sum of quarterly ni vs annual
+Q05,III-1 rev,900.756,900.756,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q05,III-1 ni,37.217,37.217,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q05,III-1 ta,1168.606,1175.689,-7.083,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q05,III-1 eq,366.343,366.343,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q05,III-1 cfo,44.565,44.565,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q05,III-1 ar,130.892,130.892,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q05,IV-1 rev,1070.0,1065.356,4.644,pass,"Management's Discussion and Analysis of Financial Condition and Results of Operations
+Recent Results and Fiscal Year-End Financial Condition
+For the fiscal year ended June 30, 2016, total revenue increased 18.3%, to $1.07 billion from $900.8 million during fiscal 2015."
+Q05,IV-1 ni,24.8,24.844,-0.044,pass,"We generated net income of $24.8 million, or $0.88 per diluted share, for fiscal 2016 compared with net income of $37.2 million, or $1.52 per diluted share, for fiscal 2015."
+Q06,I-1 Y0,4654.869,4654.869,0.0,pass,total assets vs total liabilities and equity
+Q06,I-3 Y0,2292.333,2292.333,0.0,pass,revenue - cost of sales vs gross profit
+Q06,I-4 Y0,156.266,156.266,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q06,I-5 Y0,365.834,365.834,0.0,pass,beginning cash + change vs ending cash
+Q06,I-6 Y0,0.5795,0.58,-0.0005,pass,net income / diluted shares vs diluted EPS
+Q06,II-1 Y0,82.827,82.827,0.0,pass,income statement vs cash-flow starting income
+Q06,II-2 Y0,365.834,365.834,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q06,I-1 Y-1,4579.356,4579.356,0.0,pass,total assets vs total liabilities and equity
+Q06,I-3 Y-1,2195.62,2195.62,0.0,pass,revenue - cost of sales vs gross profit
+Q06,I-4 Y-1,110.466,110.466,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q06,I-5 Y-1,209.568,209.568,0.0,pass,beginning cash + change vs ending cash
+Q06,I-6 Y-1,0.1653,0.17,-0.0047,pass,net income / diluted shares vs diluted EPS
+Q06,II-1 Y-1,24.244,24.244,0.0,pass,income statement vs cash-flow starting income
+Q06,II-2 Y-1,209.568,209.568,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q06,II-3,273.67,273.67,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q06,II-4,267.062,-42.68,309.742,fail,-change in balance-sheet ar vs cash-flow ch_ar
+Q06,II-5,-144.608,-143.054,-1.554,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q06,II-6 rev,6055.055,6055.055,0.0,pass,sum of quarterly rev vs annual
+Q06,II-6 ni,82.827,82.827,0.0,pass,sum of quarterly ni vs annual
+Q06,III-1 rev,5911.122,5911.122,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q06,III-1 ni,24.244,24.244,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q06,III-1 ta,4579.356,4579.356,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q06,III-1 eq,2267.272,2267.272,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q06,III-1 cfo,276.301,276.301,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q06,III-1 ar,,,,untestable,no prior-year 10-K value
+Q06,IV-1,,,,untestable,no matching sentence
+Q07,I-1 Y0,10964.0,10964.0,0.0,pass,total assets vs total liabilities and equity
+Q07,I-3 Y0,,,,untestable,no gross-profit line
+Q07,I-4 Y0,-251.0,-251.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q07,I-5 Y0,953.0,953.0,0.0,pass,beginning cash + change vs ending cash
+Q07,I-6 Y0,,,,untestable,shares or EPS not recorded
+Q07,II-1 Y0,,,,untestable,no cash-flow starting income
+Q07,II-2 Y0,953.0,953.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q07,I-1 Y-1,11170.0,11170.0,0.0,pass,total assets vs total liabilities and equity
+Q07,I-3 Y-1,,,,untestable,no gross-profit line
+Q07,I-4 Y-1,180.0,180.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q07,I-5 Y-1,1204.0,1204.0,0.0,pass,beginning cash + change vs ending cash
+Q07,I-6 Y-1,,,,untestable,shares or EPS not recorded
+Q07,II-1 Y-1,,,,untestable,no cash-flow starting income
+Q07,II-2 Y-1,1204.0,1204.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q07,II-3,-1522.0,-1521.0,-1.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q07,II-4,,,,untestable,missing ar or ch_ar
+Q07,II-5,,,,untestable,missing inv or ch_inv
+Q07,II-6 rev,,,,untestable,no quarterly table
+Q07,II-6 ni,,,,untestable,no quarterly table
+Q07,III-1 rev,18395.0,18395.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q07,III-1 ni,-352.0,-352.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q07,III-1 ta,11170.0,11170.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q07,III-1 eq,2978.0,2978.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q07,III-1 cfo,1101.0,1146.0,-45.0,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q07,III-1 ar,2229.0,2229.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q07,IV-1 rev,17700.0,17660.0,40.0,pass,Our 2003 sales of $17.7 billion were down 4% from 2002.
+Q07,IV-1 ni,1200.0,-1213.0,-13.0,pass,"A number of factors contributed to a 2003 net loss of $1.2 billion, declining further from a 2002 net loss of $352 million."
+Q08,I-1 Y0,1857.018,1857.018,0.0,pass,total assets vs total liabilities and equity
+Q08,I-3 Y0,,,,untestable,no gross-profit line
+Q08,I-4 Y0,23.068,23.068,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q08,I-5 Y0,197.144,197.144,0.0,pass,beginning cash + change vs ending cash
+Q08,I-6 Y0,,,,untestable,shares or EPS not recorded
+Q08,II-1 Y0,108.84,108.84,0.0,pass,income statement vs cash-flow starting income
+Q08,II-2 Y0,197.144,196.576,0.568,pass,cash-flow ending cash vs balance-sheet cash
+Q08,I-1 Y-1,1842.537,1842.537,0.0,pass,total assets vs total liabilities and equity
+Q08,I-3 Y-1,,,,untestable,no gross-profit line
+Q08,I-4 Y-1,-273.069,-273.069,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q08,I-5 Y-1,174.076,174.076,-0.0,pass,beginning cash + change vs ending cash
+Q08,I-6 Y-1,,,,untestable,shares or EPS not recorded
+Q08,II-1 Y-1,142.381,142.381,0.0,pass,income statement vs cash-flow starting income
+Q08,II-2 Y-1,174.076,173.984,0.092,pass,cash-flow ending cash vs balance-sheet cash
+Q08,II-3,1564.245,1575.009,-10.764,fail,RE(t-1) + NI - dividends vs RE(t)
+Q08,II-4,-46.732,-124.448,77.716,fail,-change in balance-sheet ar vs cash-flow ch_ar
+Q08,II-5,,,,untestable,missing inv or ch_inv
+Q08,II-6 rev,1964.375,1964.375,0.0,pass,sum of quarterly rev vs annual
+Q08,II-6 ni,106.786,106.786,0.0,pass,sum of quarterly ni vs annual
+Q08,III-1 rev,2071.783,2089.781,-17.998,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q08,III-1 ni,141.565,141.565,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q08,III-1 ta,1842.537,1838.616,3.921,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q08,III-1 eq,1356.393,1356.393,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q08,III-1 cfo,277.422,277.422,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q08,III-1 ar,93.046,113.911,-20.865,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q08,IV-1 rev,1964.4,1964.375,0.025,pass,"REVENUES
+Total consolidated revenues for fiscal year 2013 of $1,964.4 million decreased $107.4 million, or 5.2%, as compared to last year."
+Q09,I-1 Y0,13814.0,13814.0,0.0,pass,total assets vs total liabilities and equity
+Q09,I-3 Y0,,,,untestable,no gross-profit line
+Q09,I-4 Y0,-24.0,-24.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q09,I-5 Y0,38.0,38.0,0.0,pass,beginning cash + change vs ending cash
+Q09,I-6 Y0,1.5609,1.56,0.0009,pass,net income / diluted shares vs diluted EPS
+Q09,II-1 Y0,785.0,785.0,0.0,pass,income statement vs cash-flow starting income
+Q09,II-2 Y0,38.0,38.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q09,I-1 Y-1,12995.0,12995.0,0.0,pass,total assets vs total liabilities and equity
+Q09,I-3 Y-1,,,,untestable,no gross-profit line
+Q09,I-4 Y-1,-73.0,-73.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q09,I-5 Y-1,62.0,62.0,0.0,pass,beginning cash + change vs ending cash
+Q09,I-6 Y-1,1.3103,1.31,0.0003,pass,net income / diluted shares vs diluted EPS
+Q09,II-1 Y-1,643.0,643.0,0.0,pass,income statement vs cash-flow starting income
+Q09,II-2 Y-1,62.0,62.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q09,II-3,3055.0,3055.0,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q09,II-4,-39.0,-1075.0,1036.0,fail,-change in balance-sheet ar vs cash-flow ch_ar
+Q09,II-5,,,,untestable,missing inv or ch_inv
+Q09,II-6 rev,,,,untestable,no quarterly table
+Q09,II-6 ni,,,,untestable,no quarterly table
+Q09,III-1 rev,12053.0,12053.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q09,III-1 ni,643.0,643.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q09,III-1 ta,12995.0,12995.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q09,III-1 eq,5079.0,5079.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q09,III-1 cfo,1818.0,1818.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q09,III-1 ar,2386.0,2386.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q09,IV-1,,,,untestable,no matching sentence
+Q10,I-1 Y0,1892.674,1892.674,0.0,pass,total assets vs total liabilities and equity
+Q10,I-3 Y0,394.117,394.117,0.0,pass,revenue - cost of sales vs gross profit
+Q10,I-4 Y0,17.556,17.556,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q10,I-5 Y0,80.967,80.967,0.0,pass,beginning cash + change vs ending cash
+Q10,I-6 Y0,-0.2371,-0.24,0.0029,pass,net income / diluted shares vs diluted EPS
+Q10,II-1 Y0,-53.907,-53.907,0.0,pass,income statement vs cash-flow starting income
+Q10,II-2 Y0,80.967,80.967,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q10,I-1 Y-1,2093.199,2093.199,0.0,pass,total assets vs total liabilities and equity
+Q10,I-3 Y-1,460.353,460.353,-0.0,pass,revenue - cost of sales vs gross profit
+Q10,I-4 Y-1,33.283,33.283,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q10,I-5 Y-1,63.411,63.411,0.0,pass,beginning cash + change vs ending cash
+Q10,I-6 Y-1,-0.3341,-0.33,-0.0041,pass,net income / diluted shares vs diluted EPS
+Q10,II-1 Y-1,-68.966,-68.966,0.0,pass,income statement vs cash-flow starting income
+Q10,II-2 Y-1,63.411,63.411,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q10,II-3,350.393,350.393,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q10,II-4,146.33,124.276,22.054,fail,-change in balance-sheet ar vs cash-flow ch_ar
+Q10,II-5,-25.511,-150.943,125.432,fail,-change in balance-sheet inv vs cash-flow ch_inv
+Q10,II-6 rev,1452.697,1452.697,0.0,pass,sum of quarterly rev vs annual
+Q10,II-6 ni,-53.907,-53.907,0.0,pass,sum of quarterly ni vs annual
+Q10,III-1 rev,1449.49,1449.49,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q10,III-1 ni,-68.966,-68.966,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q10,III-1 ta,2093.199,2093.199,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q10,III-1 eq,1201.696,1201.696,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q10,III-1 cfo,-50.534,-50.534,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q10,III-1 ar,,,,untestable,no prior-year 10-K value
+Q10,IV-1,,,,untestable,no matching sentence
+Q11,I-1 Y0,44364.6,44364.6,0.0,pass,total assets vs total liabilities and equity
+Q11,I-3 Y0,,,,untestable,no gross-profit line
+Q11,I-4 Y0,-203.4,-203.4,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q11,I-5 Y0,1192.6,1192.6,0.0,pass,beginning cash + change vs ending cash
+Q11,I-6 Y0,,,,untestable,shares or EPS not recorded
+Q11,II-1 Y0,1634.5,1634.5,0.0,pass,income statement vs cash-flow starting income
+Q11,II-2 Y0,1192.6,1192.6,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q11,I-1 Y-1,42133.7,42133.7,0.0,pass,total assets vs total liabilities and equity
+Q11,I-3 Y-1,,,,untestable,no gross-profit line
+Q11,I-4 Y-1,-37.4,-37.4,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q11,I-5 Y-1,1396.0,1396.0,0.0,pass,beginning cash + change vs ending cash
+Q11,I-6 Y-1,,,,untestable,shares or EPS not recorded
+Q11,II-1 Y-1,2245.1,2245.1,0.0,pass,income statement vs cash-flow starting income
+Q11,II-2 Y-1,1396.0,1396.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q11,II-3,8169.5,8169.5,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q11,II-4,-145.8,-95.6,-50.2,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q11,II-5,,,,untestable,missing inv or ch_inv
+Q11,II-6 rev,22491.9,22491.9,-0.0,pass,sum of quarterly rev vs annual
+Q11,II-6 ni,1634.5,1634.5,0.0,pass,sum of quarterly ni vs annual
+Q11,III-1 rev,19904.1,19904.1,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q11,III-1 ni,2245.1,2245.1,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q11,III-1 ta,42133.7,42133.7,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q11,III-1 eq,9081.4,9081.4,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q11,III-1 cfo,,,,untestable,no prior-year 10-K value
+Q11,III-1 ar,,,,untestable,no prior-year 10-K value
+Q11,IV-1,,,,untestable,no matching sentence
+Q12,I-1 Y0,19490.0,19490.0,0.0,pass,total assets vs total liabilities and equity
+Q12,I-3 Y0,,,,untestable,no gross-profit line
+Q12,I-4 Y0,136.0,136.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q12,I-5 Y0,356.0,356.0,0.0,pass,beginning cash + change vs ending cash
+Q12,I-6 Y0,1.3844,1.38,0.0044,pass,net income / diluted shares vs diluted EPS
+Q12,II-1 Y0,1264.0,1264.0,0.0,pass,income statement vs cash-flow starting income
+Q12,II-2 Y0,356.0,356.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q12,I-1 Y-1,17143.0,17143.0,0.0,pass,total assets vs total liabilities and equity
+Q12,I-3 Y-1,,,,untestable,no gross-profit line
+Q12,I-4 Y-1,-35.0,-35.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q12,I-5 Y-1,220.0,220.0,0.0,pass,beginning cash + change vs ending cash
+Q12,I-6 Y-1,1.2284,1.23,-0.0016,pass,net income / diluted shares vs diluted EPS
+Q12,II-1 Y-1,1185.0,1185.0,0.0,pass,income statement vs cash-flow starting income
+Q12,II-2 Y-1,220.0,220.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q12,II-3,6130.0,5542.0,588.0,fail,RE(t-1) + NI - dividends vs RE(t)
+Q12,II-4,-217.0,-217.0,0.0,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q12,II-5,-450.0,-450.0,0.0,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q12,II-6 rev,36903.0,36903.0,0.0,pass,sum of quarterly rev vs annual
+Q12,II-6 ni,1264.0,1264.0,0.0,pass,sum of quarterly ni vs annual
+Q12,III-1 rev,33702.0,33702.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q12,III-1 ni,1144.0,1144.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q12,III-1 ta,17143.0,17143.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q12,III-1 eq,5862.0,5862.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q12,III-1 cfo,,,,untestable,no prior-year 10-K value
+Q12,III-1 ar,,,,untestable,no prior-year 10-K value
+Q12,IV-1,,,,untestable,no matching sentence
+Q13,I-1 Y0,14143.0,14143.0,0.0,pass,total assets vs total liabilities and equity
+Q13,I-3 Y0,,,,untestable,no gross-profit line
+Q13,I-4 Y0,,,,untestable,cash-flow sections incomplete
+Q13,I-5 Y0,763.0,763.0,0.0,pass,beginning cash + change vs ending cash
+Q13,I-6 Y0,-1.0155,-1.02,0.0045,pass,net income / diluted shares vs diluted EPS
+Q13,II-1 Y0,-591.0,-591.0,0.0,pass,income statement vs cash-flow starting income
+Q13,II-2 Y0,763.0,763.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q13,I-1 Y-1,17493.0,17493.0,0.0,pass,total assets vs total liabilities and equity
+Q13,I-3 Y-1,,,,untestable,no gross-profit line
+Q13,I-4 Y-1,,,,untestable,cash-flow sections incomplete
+Q13,I-5 Y-1,1307.0,1307.0,0.0,pass,beginning cash + change vs ending cash
+Q13,I-6 Y-1,1.2496,1.25,-0.0004,pass,net income / diluted shares vs diluted EPS
+Q13,II-1 Y-1,696.0,696.0,0.0,pass,income statement vs cash-flow starting income
+Q13,II-2 Y-1,1307.0,1307.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q13,II-3,3483.0,3483.0,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q13,II-4,553.0,418.0,135.0,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q13,II-5,,,,untestable,missing inv or ch_inv
+Q13,II-6 rev,,,,untestable,no quarterly table
+Q13,II-6 ni,,,,untestable,no quarterly table
+Q13,III-1 rev,6103.0,6103.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q13,III-1 ni,696.0,696.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q13,III-1 ta,17493.0,17493.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q13,III-1 eq,7037.0,7037.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q13,III-1 cfo,1566.0,1566.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q13,III-1 ar,2175.0,2175.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q13,IV-1 rev,1900.0,4198.0,-2298.0,fail,"Fiscal Year 2001
+Total revenue for the fiscal year ended March 31, 2001 decreased 31%, or $1.90 billion, over fiscal year 2000."
+Q13,IV-1 ni,591.0,-591.0,0.0,pass,"Net loss for the year ended March 31, 2001 was $591 million, a decrease of $1.29 billion over fiscal year 2000."
+Q14,I-1 Y0,44260.3,44260.3,0.0,pass,total assets vs total liabilities and equity
+Q14,I-3 Y0,,,,untestable,no gross-profit line
+Q14,I-4 Y0,-10.5,-10.5,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q14,I-5 Y0,41.7,41.7,0.0,pass,beginning cash + change vs ending cash
+Q14,I-6 Y0,,,,untestable,shares or EPS not recorded
+Q14,II-1 Y0,1548.4,1548.4,0.0,pass,income statement vs cash-flow starting income
+Q14,II-2 Y0,41.7,41.7,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q14,I-1 Y-1,38360.6,38360.6,0.0,pass,total assets vs total liabilities and equity
+Q14,I-3 Y-1,,,,untestable,no gross-profit line
+Q14,I-4 Y-1,10.3,10.3,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q14,I-5 Y-1,52.2,52.2,0.0,pass,beginning cash + change vs ending cash
+Q14,I-6 Y-1,,,,untestable,shares or EPS not recorded
+Q14,II-1 Y-1,808.8,808.8,0.0,pass,income statement vs cash-flow starting income
+Q14,II-2 Y-1,52.2,52.2,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q14,II-3,8126.4,8119.1,7.3,pass,RE(t-1) + NI - dividends vs RE(t)
+Q14,II-4,-148.4,-148.4,-0.0,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q14,II-5,,,,untestable,missing inv or ch_inv
+Q14,II-6 rev,,,,untestable,no quarterly table
+Q14,II-6 ni,,,,untestable,no quarterly table
+Q14,III-1 rev,11394.0,11394.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q14,III-1 ni,808.8,808.8,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q14,III-1 ta,38360.6,38360.6,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q14,III-1 eq,8522.0,8522.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q14,III-1 cfo,3363.8,3363.8,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q14,III-1 ar,,,,untestable,no prior-year 10-K value
+Q14,IV-1 rev,155.0,13177.2,-13022.2,fail,"REALIZED INVESTMENT GAINS AND LOSSES
+Net investment gains realized were as follows:
+Of the net realized gains on sales of equity securities, $155 million, $35 million and $9 million in 2004, 2003 and 2002, respectively, related to our share of gains recognized by investment partnerships in which we "
+Q14,IV-1 ni,1548.0,1548.4,-0.4,pass,"•
+Net income was $1,548 million in 2004 compared with $809 million in 2003 and $223 million in 2002."
+Q15,I-1 Y0,41374.0,41374.0,0.0,pass,total assets vs total liabilities and equity
+Q15,I-3 Y0,,,,untestable,no gross-profit line
+Q15,I-4 Y0,1430.0,1430.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q15,I-5 Y0,5421.0,5421.0,0.0,pass,beginning cash + change vs ending cash
+Q15,I-6 Y0,2.4812,2.48,0.0012,pass,net income / diluted shares vs diluted EPS
+Q15,II-1 Y0,3300.0,3300.0,0.0,pass,income statement vs cash-flow starting income
+Q15,II-2 Y0,5421.0,5421.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q15,I-1 Y-1,27879.0,27879.0,0.0,pass,total assets vs total liabilities and equity
+Q15,I-3 Y-1,,,,untestable,no gross-profit line
+Q15,I-4 Y-1,1729.0,1729.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q15,I-5 Y-1,3991.0,3991.0,0.0,pass,beginning cash + change vs ending cash
+Q15,I-6 Y-1,1.9748,1.97,0.0048,pass,net income / diluted shares vs diluted EPS
+Q15,II-1 Y-1,2587.0,2587.0,0.0,pass,income statement vs cash-flow starting income
+Q15,II-2 Y-1,3991.0,3991.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q15,II-3,10765.0,10765.0,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q15,II-4,-384.0,-83.0,-301.0,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q15,II-5,,,,untestable,missing inv or ch_inv
+Q15,II-6 rev,45365.0,45365.0,0.0,pass,sum of quarterly rev vs annual
+Q15,II-6 ni,3300.0,3300.0,0.0,pass,sum of quarterly ni vs annual
+Q15,III-1 rev,37218.0,37218.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q15,III-1 ni,2587.0,2587.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q15,III-1 ta,27879.0,27879.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q15,III-1 eq,10717.0,10717.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q15,III-1 cfo,4135.0,4135.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q15,III-1 ar,906.0,906.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q15,IV-1 rev,8100.0,45365.0,-37265.0,fail,"Consolidated revenues in 2005 increased by $8.1 billion, or 22%, to $45.4 billion."
+Q15,IV-1 ni,130.0,3300.0,-3170.0,fail,"For example, if medical costs increased by 1% without a proportional change in related revenues for UnitedHealthcare’s commercial insured products, our annual net earnings for 2005 would have been reduced by approximately $130 million."
+Q16,I-1 Y0,17102.0,17102.0,0.0,pass,total assets vs total liabilities and equity
+Q16,I-3 Y0,,,,untestable,no gross-profit line
+Q16,I-4 Y0,7.0,7.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q16,I-5 Y0,189.0,189.0,0.0,pass,beginning cash + change vs ending cash
+Q16,I-6 Y0,,,,untestable,shares or EPS not recorded
+Q16,II-1 Y0,-545.0,-545.0,0.0,pass,income statement vs cash-flow starting income
+Q16,II-2 Y0,189.0,189.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q16,I-1 Y-1,17251.0,17251.0,0.0,pass,total assets vs total liabilities and equity
+Q16,I-3 Y-1,,,,untestable,no gross-profit line
+Q16,I-4 Y-1,50.0,50.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q16,I-5 Y-1,182.0,182.0,0.0,pass,beginning cash + change vs ending cash
+Q16,I-6 Y-1,,,,untestable,shares or EPS not recorded
+Q16,II-1 Y-1,36.0,36.0,0.0,pass,income statement vs cash-flow starting income
+Q16,II-2 Y-1,182.0,182.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q16,II-3,,,,untestable,missing retained earnings or dividends
+Q16,II-4,76.0,68.0,8.0,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q16,II-5,-346.0,-353.0,7.0,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q16,II-6 rev,,,,untestable,no quarterly table
+Q16,II-6 ni,,,,untestable,no quarterly table
+Q16,III-1 rev,8739.0,8998.0,-259.0,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q16,III-1 ni,36.0,36.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q16,III-1 ta,17251.0,15851.0,1400.0,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q16,III-1 eq,,,,untestable,no prior-year 10-K value
+Q16,III-1 cfo,453.0,453.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q16,III-1 ar,,,,untestable,no prior-year 10-K value
+Q16,IV-1,,,,untestable,no matching sentence
+Q17,I-1 Y0,11112.0,11112.0,0.0,pass,total assets vs total liabilities and equity
+Q17,I-3 Y0,,,,untestable,no gross-profit line
+Q17,I-4 Y0,-143.7,-143.7,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q17,I-5 Y0,202.6,202.6,0.0,pass,beginning cash + change vs ending cash
+Q17,I-6 Y0,-0.0335,-0.03,-0.0035,pass,net income / diluted shares vs diluted EPS
+Q17,II-1 Y0,-14.7,-14.7,0.0,pass,income statement vs cash-flow starting income
+Q17,II-2 Y0,202.6,202.6,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q17,I-1 Y-1,10701.8,10701.8,0.0,pass,total assets vs total liabilities and equity
+Q17,I-3 Y-1,,,,untestable,no gross-profit line
+Q17,I-4 Y-1,-61.9,-61.9,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q17,I-5 Y-1,384.1,384.1,0.0,pass,beginning cash + change vs ending cash
+Q17,I-6 Y-1,1.7712,1.77,0.0012,pass,net income / diluted shares vs diluted EPS
+Q17,II-1 Y-1,772.4,772.4,0.0,pass,income statement vs cash-flow starting income
+Q17,II-2 Y-1,384.1,384.1,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q17,II-3,3294.5,3236.0,58.5,fail,RE(t-1) + NI - dividends vs RE(t)
+Q17,II-4,-472.8,-279.9,-192.9,fail,-change in balance-sheet ar vs cash-flow ch_ar
+Q17,II-5,-2.6,-66.3,63.7,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q17,II-6 rev,17353.1,17353.1,0.0,pass,sum of quarterly rev vs annual
+Q17,II-6 ni,-14.7,-14.7,-0.0,pass,sum of quarterly ni vs annual
+Q17,III-1 rev,16276.5,8818.6,7457.9,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q17,III-1 ni,772.4,454.4,318.0,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q17,III-1 ta,10701.8,5603.0,5098.8,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q17,III-1 eq,4316.9,2584.7,1732.2,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q17,III-1 cfo,833.1,548.2,284.9,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q17,III-1 ar,,,,untestable,no prior-year 10-K value
+Q17,IV-1,,,,untestable,no matching sentence
+Q18,I-1 Y0,12228.0,12228.0,0.0,pass,total assets vs liabilities + minority + equity
+Q18,I-3 Y0,,,,untestable,no gross-profit line
+Q18,I-4 Y0,267.7,267.7,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q18,I-5 Y0,1614.7,1614.7,0.0,pass,beginning cash + change vs ending cash
+Q18,I-6 Y0,5.1611,5.16,0.0011,pass,net income / diluted shares vs diluted EPS
+Q18,II-1 Y0,906.8,906.8,0.0,pass,income statement vs cash-flow starting income
+Q18,II-2 Y0,1614.7,1614.7,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q18,I-1 Y-1,9939.6,9939.6,0.0,pass,total assets vs liabilities + minority + equity
+Q18,I-3 Y-1,,,,untestable,no gross-profit line
+Q18,I-4 Y-1,574.0,574.0,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q18,I-5 Y-1,1347.0,1347.0,0.0,pass,beginning cash + change vs ending cash
+Q18,I-6 Y-1,2.9898,2.99,-0.0002,pass,net income / diluted shares vs diluted EPS
+Q18,II-1 Y-1,526.5,526.5,0.0,pass,income statement vs cash-flow starting income
+Q18,II-2 Y-1,1347.0,1347.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q18,II-3,3035.1,2826.9,208.2,fail,RE(t-1) + NI - dividends vs RE(t)
+Q18,II-4,-59.6,-53.0,-6.6,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q18,II-5,-161.1,-142.1,-19.0,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q18,II-6 rev,,,,untestable,no quarterly table
+Q18,II-6 ni,906.8,906.8,0.0,pass,sum of quarterly ni vs annual
+Q18,III-1 rev,8194.9,8194.9,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q18,III-1 ni,526.5,526.5,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q18,III-1 ta,,,,untestable,no prior-year 10-K value
+Q18,III-1 eq,3246.4,3246.4,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q18,III-1 cfo,778.3,818.7,-40.4,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q18,III-1 ar,479.1,479.1,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q18,IV-1,,,,untestable,no matching sentence
+Q19,I-1 Y0,6411.097,6411.097,0.0,pass,total assets vs total liabilities and equity
+Q19,I-3 Y0,,,,untestable,no gross-profit line
+Q19,I-4 Y0,18.517,18.517,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q19,I-5 Y0,160.873,160.873,0.0,pass,beginning cash + change vs ending cash
+Q19,I-6 Y0,,,,untestable,shares or EPS not recorded
+Q19,II-1 Y0,9.344,9.344,0.0,pass,income statement vs cash-flow starting income
+Q19,II-2 Y0,160.873,160.873,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q19,I-1 Y-1,6675.932,6675.932,0.0,pass,total assets vs total liabilities and equity
+Q19,I-3 Y-1,,,,untestable,no gross-profit line
+Q19,I-4 Y-1,-10.604,-10.604,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q19,I-5 Y-1,142.356,142.356,0.0,pass,beginning cash + change vs ending cash
+Q19,I-6 Y-1,,,,untestable,shares or EPS not recorded
+Q19,II-1 Y-1,-398.405,-398.405,0.0,pass,income statement vs cash-flow starting income
+Q19,II-2 Y-1,142.356,142.356,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q19,II-3,2201.623,2201.623,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q19,II-4,146.591,110.936,35.655,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q19,II-5,-38.069,-38.069,0.0,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q19,II-6 rev,7598.934,7598.934,0.0,pass,sum of quarterly rev vs annual
+Q19,II-6 ni,9.344,9.344,-0.0,pass,sum of quarterly ni vs annual
+Q19,III-1 rev,7910.996,7910.996,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q19,III-1 ni,-398.405,-398.405,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q19,III-1 ta,6675.932,6675.932,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q19,III-1 eq,2264.196,2264.196,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q19,III-1 cfo,356.942,356.942,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q19,III-1 ar,1338.08,1387.835,-49.755,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q19,IV-1,,,,untestable,no matching sentence
+Q20,I-1 Y0,14353.4,14353.4,0.0,pass,total assets vs total liabilities and equity
+Q20,I-3 Y0,3102.5,3102.5,0.0,pass,revenue - cost of sales vs gross profit
+Q20,I-4 Y0,-35.8,-35.8,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q20,I-5 Y0,522.0,522.0,0.0,pass,beginning cash + change vs ending cash
+Q20,I-6 Y0,1.8588,1.88,-0.0212,pass,net income / diluted shares vs diluted EPS
+Q20,II-1 Y0,562.1,562.1,0.0,pass,income statement vs cash-flow starting income
+Q20,II-2 Y0,522.0,522.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q20,I-1 Y-1,13325.9,13325.9,0.0,pass,total assets vs total liabilities and equity
+Q20,I-3 Y-1,2788.5,2788.5,0.0,pass,revenue - cost of sales vs gross profit
+Q20,I-4 Y-1,124.3,124.3,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q20,I-5 Y-1,557.8,557.8,0.0,pass,beginning cash + change vs ending cash
+Q20,I-6 Y-1,1.4042,1.43,-0.0258,pass,net income / diluted shares vs diluted EPS
+Q20,II-1 Y-1,421.8,421.8,0.0,pass,income statement vs cash-flow starting income
+Q20,II-2 Y-1,557.8,557.8,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q20,II-3,2842.9,2843.3,-0.4,pass,RE(t-1) + NI - dividends vs RE(t)
+Q20,II-4,-596.6,-641.6,45.0,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q20,II-5,-11.0,13.4,-24.4,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q20,II-6 rev,57120.8,57120.8,0.0,pass,sum of quarterly rev vs annual
+Q20,II-6 ni,,,,untestable,no quarterly table
+Q20,III-1 rev,49988.1,50006.0,-17.9,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q20,III-1 ni,418.6,418.6,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q20,III-1 ta,13325.9,13324.0,1.9,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q20,III-1 eq,3940.1,3940.1,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q20,III-1 cfo,326.2,329.3,-3.1,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q20,III-1 ar,3998.1,4001.5,-3.4,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q20,IV-1,,,,untestable,no matching sentence
+Q21,I-1 Y0,,,,untestable,total-assets row not independently reported
+Q21,I-3 Y0,,,,untestable,no gross-profit line
+Q21,I-4 Y0,-5.098,-5.098,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q21,I-5 Y0,17.75,17.75,0.0,pass,beginning cash + change vs ending cash
+Q21,I-6 Y0,2.6144,2.74,-0.1256,fail,net income / diluted shares vs diluted EPS
+Q21,II-1 Y0,175.361,175.361,0.0,pass,income statement vs cash-flow starting income
+Q21,II-2 Y0,17.75,17.75,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q21,I-1 Y-1,,,,untestable,total-assets row not independently reported
+Q21,I-3 Y-1,,,,untestable,no gross-profit line
+Q21,I-4 Y-1,12.303,12.303,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q21,I-5 Y-1,22.848,22.848,0.0,pass,beginning cash + change vs ending cash
+Q21,I-6 Y-1,1.4838,1.6,-0.1162,fail,net income / diluted shares vs diluted EPS
+Q21,II-1 Y-1,99.742,99.742,0.0,pass,income statement vs cash-flow starting income
+Q21,II-2 Y-1,22.848,22.848,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q21,II-3,851.425,851.425,-0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q21,II-4,-56.68,-34.987,-21.693,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q21,II-5,,,,untestable,missing inv or ch_inv
+Q21,II-6 rev,3258.898,3258.898,0.0,pass,sum of quarterly rev vs annual
+Q21,II-6 ni,175.361,175.361,0.0,pass,sum of quarterly ni vs annual
+Q21,III-1 rev,2840.491,2840.491,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q21,III-1 ni,99.742,99.742,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q21,III-1 ta,2168.589,2114.584,54.005,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q21,III-1 eq,,,,untestable,no prior-year 10-K value
+Q21,III-1 cfo,297.543,312.187,-14.644,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q21,III-1 ar,418.083,418.083,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q21,IV-1 rev,3260.0,3258.898,1.102,pass,"Results of Operations
+Net revenues increased 15% to $3.26 billion in 2002 as compared to 2001 and 27% to $2.84 billion in 2001 as compared to 2000."
+Q21,IV-1 ni,175.4,175.361,0.039,pass,"Below is a reconciliation of consolidated operating income to consolidated income before income taxes and the extraordinary charge, recorded in 2001:
+Net income was $175.4 million in 2002 as compared to $99.7 million in 2001."
+Q22,I-1 Y0,13146.6,13146.6,0.0,pass,total assets vs total liabilities and equity
+Q22,I-3 Y0,,,,untestable,no gross-profit line
+Q22,I-4 Y0,-36.4,-36.4,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q22,I-5 Y0,923.0,923.0,0.0,pass,beginning cash + change vs ending cash
+Q22,I-6 Y0,-6.6208,-6.62,-0.0008,pass,net income / diluted shares vs diluted EPS
+Q22,II-1 Y0,-1105.8,-1105.8,0.0,pass,income statement vs cash-flow starting income
+Q22,II-2 Y0,923.0,923.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q22,I-1 Y-1,13783.4,13783.4,0.0,pass,total assets vs total liabilities and equity
+Q22,I-3 Y-1,,,,untestable,no gross-profit line
+Q22,I-4 Y-1,706.5,706.5,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q22,I-5 Y-1,959.4,959.4,0.0,pass,beginning cash + change vs ending cash
+Q22,I-6 Y-1,-1.2728,-1.27,-0.0028,pass,net income / diluted shares vs diluted EPS
+Q22,II-1 Y-1,-203.6,-203.6,0.0,pass,income statement vs cash-flow starting income
+Q22,II-2 Y-1,959.4,959.4,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q22,II-3,2000.9,2007.1,-6.2,pass,RE(t-1) + NI - dividends vs RE(t)
+Q22,II-4,15.6,60.2,-44.6,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q22,II-5,9.3,84.9,-75.6,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q22,II-6 rev,13850.0,13850.0,0.0,pass,sum of quarterly rev vs annual
+Q22,II-6 ni,-1105.8,-1105.8,0.0,pass,sum of quarterly ni vs annual
+Q22,III-1 rev,14147.2,14147.2,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q22,III-1 ni,-203.6,-203.6,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q22,III-1 ta,13783.4,13512.9,270.5,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q22,III-1 eq,2864.0,2864.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q22,III-1 cfo,1313.3,1266.5,46.8,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q22,III-1 ar,,,,untestable,no prior-year 10-K value
+Q22,IV-1 rev,227.0,13850.0,-13623.0,fail,"Revenues in 2002 were adversely impacted by approximately $227 million due to the effects of currency translation, particularly in Argentina, Brazil, Venezuela and Mexico."
+Q23,I-1 Y0,806.851,806.851,0.0,pass,total assets vs total liabilities and equity
+Q23,I-3 Y0,,,,untestable,no gross-profit line
+Q23,I-4 Y0,-27.694,-27.694,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q23,I-5 Y0,215.771,215.771,0.0,pass,beginning cash + change vs ending cash
+Q23,I-6 Y0,-1.1543,-1.15,-0.0043,pass,net income / diluted shares vs diluted EPS
+Q23,II-1 Y0,-27.024,-27.024,0.0,pass,income statement vs cash-flow starting income
+Q23,II-2 Y0,215.771,215.771,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q23,I-1 Y-1,675.204,675.204,0.0,pass,total assets vs total liabilities and equity
+Q23,I-3 Y-1,,,,untestable,no gross-profit line
+Q23,I-4 Y-1,19.616,19.616,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q23,I-5 Y-1,243.465,243.465,0.0,pass,beginning cash + change vs ending cash
+Q23,I-6 Y-1,5.7907,5.79,0.0007,pass,net income / diluted shares vs diluted EPS
+Q23,II-1 Y-1,138.97,138.97,0.0,pass,income statement vs cash-flow starting income
+Q23,II-2 Y-1,243.465,243.465,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q23,II-3,940.449,940.449,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q23,II-4,-20.602,-87.225,66.623,fail,-change in balance-sheet ar vs cash-flow ch_ar
+Q23,II-5,,,,untestable,missing inv or ch_inv
+Q23,II-6 rev,,,,untestable,no quarterly table
+Q23,II-6 ni,,,,untestable,no quarterly table
+Q23,III-1 rev,1286.633,1287.209,-0.576,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q23,III-1 ni,138.97,140.465,-1.495,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q23,III-1 ta,675.204,672.23,2.974,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q23,III-1 eq,125.765,126.954,-1.189,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q23,III-1 cfo,107.621,105.354,2.267,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q23,III-1 ar,78.928,77.313,1.615,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q23,IV-1 rev,214.3,1072.311,-858.011,fail,"Revenue decreased $214.3 million, or 16.7%, to $1,072.3 million in the year ended December 31, 2013 compared to $1,286.6 million in the year ended December 31, 2012."
+Q24,I-1 Y0,798660.0,798660.0,0.0,pass,total assets vs total liabilities and equity
+Q24,I-3 Y0,,,,untestable,no gross-profit line
+Q24,I-4 Y0,1087.0,1087.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q24,I-5 Y0,2009.0,2009.0,0.0,pass,beginning cash + change vs ending cash
+Q24,I-6 Y0,3.6902,3.69,0.0002,pass,net income / diluted shares vs diluted EPS
+Q24,II-1 Y0,9731.0,9731.0,0.0,pass,income statement vs cash-flow starting income
+Q24,II-2 Y0,2009.0,2009.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q24,I-1 Y-1,674153.0,674153.0,0.0,pass,total assets vs total liabilities and equity
+Q24,I-3 Y-1,,,,untestable,no gross-profit line
+Q24,I-4 Y-1,-243.0,-243.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q24,I-5 Y-1,922.0,922.0,0.0,pass,beginning cash + change vs ending cash
+Q24,I-6 Y-1,3.0372,3.04,-0.0028,pass,net income / diluted shares vs diluted EPS
+Q24,II-1 Y-1,8009.0,8009.0,0.0,pass,income statement vs cash-flow starting income
+Q24,II-2 Y-1,922.0,922.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q24,II-3,64393.0,64393.0,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q24,II-4,,,,untestable,missing ar or ch_ar
+Q24,II-5,,,,untestable,missing inv or ch_inv
+Q24,II-6 rev,,,,untestable,no quarterly table
+Q24,II-6 ni,,,,untestable,no quarterly table
+Q24,III-1 rev,79446.0,81303.0,-1857.0,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q24,III-1 ni,8009.0,9274.0,-1265.0,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q24,III-1 ta,674153.0,678346.0,-4193.0,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q24,III-1 eq,70030.0,71253.0,-1223.0,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q24,III-1 cfo,,,,untestable,no prior-year 10-K value
+Q24,III-1 ar,13189.0,14166.0,-977.0,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q24,IV-1 ni,11010.0,9731.0,1279.0,fail,"At December 31, 2004, General Insurance net loss reserves increased $11.01 billion from the prior year end to $47.7 billion."
+Q25,I-1 Y0,18866.183,18866.183,0.0,pass,total assets vs total liabilities and equity
+Q25,I-3 Y0,,,,untestable,no gross-profit line
+Q25,I-4 Y0,14.121,14.121,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q25,I-5 Y0,252.519,252.519,0.0,pass,beginning cash + change vs ending cash
+Q25,I-6 Y0,0.3508,0.35,0.0008,pass,net income / diluted shares vs diluted EPS
+Q25,II-1 Y0,279.925,279.925,0.0,pass,income statement vs cash-flow starting income
+Q25,II-2 Y0,252.519,252.519,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q25,I-1 Y-1,16476.513,16476.513,0.0,pass,total assets vs total liabilities and equity
+Q25,I-3 Y-1,,,,untestable,no gross-profit line
+Q25,I-4 Y-1,67.684,67.684,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q25,I-5 Y-1,238.398,238.398,0.0,pass,beginning cash + change vs ending cash
+Q25,I-6 Y-1,1.9954,1.99,0.0054,pass,net income / diluted shares vs diluted EPS
+Q25,II-1 Y-1,1427.425,1427.425,0.0,pass,income statement vs cash-flow starting income
+Q25,II-2 Y-1,238.398,238.398,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q25,II-3,4817.101,4817.101,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q25,II-4,-62.028,100.205,-162.233,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q25,II-5,-151.42,-46.03,-105.39,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q25,II-6 rev,,,,untestable,no quarterly table
+Q25,II-6 ni,,,,untestable,no quarterly table
+Q25,III-1 rev,,,,untestable,no prior-year 10-K value
+Q25,III-1 ni,,,,untestable,no prior-year 10-K value
+Q25,III-1 ta,,,,untestable,no prior-year 10-K value
+Q25,III-1 eq,,,,untestable,no prior-year 10-K value
+Q25,III-1 cfo,,,,untestable,no prior-year 10-K value
+Q25,III-1 ar,,,,untestable,no prior-year 10-K value
+Q25,IV-1 rev,774.0,8826.933,-8052.933,fail,"Revenues
+The following chart contains consolidated revenues by product line for 2009, 2008 and 2007:
+Consolidated revenues decreased $774 million, or 8%, in 2009 as compared to 2008 against a 30% decrease in rig count activity."
+Q26,I-1 Y0,,,,untestable,total-assets row not independently reported
+Q26,I-3 Y0,,,,untestable,no gross-profit line
+Q26,I-4 Y0,-6.4,-6.4,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q26,I-5 Y0,146.0,146.0,0.0,pass,beginning cash + change vs ending cash
+Q26,I-6 Y0,0.1679,0.17,-0.0021,pass,net income / diluted shares vs diluted EPS
+Q26,II-1 Y0,42.4,42.4,0.0,pass,income statement vs cash-flow starting income
+Q26,II-2 Y0,146.0,146.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q26,I-1 Y-1,,,,untestable,total-assets row not independently reported
+Q26,I-3 Y-1,,,,untestable,no gross-profit line
+Q26,I-4 Y-1,-195.5,-195.5,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q26,I-5 Y-1,152.4,152.4,-0.0,pass,beginning cash + change vs ending cash
+Q26,I-6 Y-1,0.9585,0.96,-0.0015,pass,net income / diluted shares vs diluted EPS
+Q26,II-1 Y-1,242.5,242.5,0.0,pass,income statement vs cash-flow starting income
+Q26,II-2 Y-1,152.4,152.4,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q26,II-3,1428.0,1336.2,91.8,fail,RE(t-1) + NI - dividends vs RE(t)
+Q26,II-4,26.1,36.3,-10.2,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q26,II-5,,,,untestable,missing inv or ch_inv
+Q26,II-6 rev,,,,untestable,no quarterly table
+Q26,II-6 ni,,,,untestable,no quarterly table
+Q26,III-1 rev,1719.2,1719.2,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q26,III-1 ni,242.5,242.5,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q26,III-1 ta,2962.1,2962.1,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q26,III-1 eq,1780.9,1780.9,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q26,III-1 cfo,,,,untestable,no prior-year 10-K value
+Q26,III-1 ar,,,,untestable,no prior-year 10-K value
+Q26,IV-1,,,,untestable,no matching sentence
+Q27,I-1 Y0,90809.9,90809.9,0.0,pass,total assets vs total liabilities and equity
+Q27,I-3 Y0,,,,untestable,no gross-profit line
+Q27,I-4 Y0,-207.1,-207.1,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q27,I-5 Y0,727.4,727.4,0.0,pass,beginning cash + change vs ending cash
+Q27,I-6 Y0,-0.1291,-0.13,0.0009,pass,net income / diluted shares vs diluted EPS
+Q27,II-1 Y0,-223.5,-223.5,0.0,pass,income statement vs cash-flow starting income
+Q27,II-2 Y0,727.4,727.4,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q27,I-1 Y-1,82646.1,82646.1,0.0,pass,total assets vs total liabilities and equity
+Q27,I-3 Y-1,,,,untestable,no gross-profit line
+Q27,I-4 Y-1,253.7,253.7,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q27,I-5 Y-1,934.5,934.5,0.0,pass,beginning cash + change vs ending cash
+Q27,I-6 Y-1,-0.666,-0.67,0.004,pass,net income / diluted shares vs diluted EPS
+Q27,II-1 Y-1,-816.1,-816.1,0.0,pass,income statement vs cash-flow starting income
+Q27,II-2 Y-1,934.5,934.5,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q27,II-3,1208.3,1208.3,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q27,II-4,382.3,391.3,-9.0,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q27,II-5,,,,untestable,missing inv or ch_inv
+Q27,II-6 rev,23222.8,23222.8,0.0,pass,sum of quarterly rev vs annual
+Q27,II-6 ni,-223.5,-223.5,0.0,pass,sum of quarterly ni vs annual
+Q27,III-1 rev,20043.7,20043.7,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q27,III-1 ni,-816.1,-816.1,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q27,III-1 ta,82646.1,82646.1,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q27,III-1 eq,47966.9,47966.9,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q27,III-1 cfo,,,,untestable,no prior-year 10-K value
+Q27,III-1 ar,,,,untestable,no prior-year 10-K value
+Q27,IV-1 rev,23200.0,23222.8,-22.8,pass,"RESULTS OF OPERATIONS 2001 VERSUS 2000
+On a reported basis, revenues increased 16% to $23.2 billion for the year ended December 31, 2001 from $20.0 billion for 2000."
+Q27,IV-1 ni,223.5,-223.5,0.0,pass,"Net Earnings (Loss)
+For the reasons described above, the Company reported a net loss of $223.5 million for 2001 as compared with net loss of $816.1 million for 2000."
+Q28,I-1 Y0,7592.0,7592.0,0.0,pass,total assets vs total liabilities and equity
+Q28,I-3 Y0,,,,untestable,no gross-profit line
+Q28,I-4 Y0,138.0,138.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q28,I-5 Y0,605.0,605.0,0.0,pass,beginning cash + change vs ending cash
+Q28,I-6 Y0,3.0836,3.2,-0.1164,fail,net income / diluted shares vs diluted EPS
+Q28,II-1 Y0,247.0,247.0,0.0,pass,income statement vs cash-flow starting income
+Q28,II-2 Y0,605.0,605.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q28,I-1 Y-1,6929.0,6929.0,0.0,pass,total assets vs total liabilities and equity
+Q28,I-3 Y-1,,,,untestable,no gross-profit line
+Q28,I-4 Y-1,-168.0,-168.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q28,I-5 Y-1,467.0,467.0,0.0,pass,beginning cash + change vs ending cash
+Q28,I-6 Y-1,-0.3088,-0.31,0.0012,pass,net income / diluted shares vs diluted EPS
+Q28,II-1 Y-1,-21.0,-21.0,0.0,pass,income statement vs cash-flow starting income
+Q28,II-2 Y-1,467.0,467.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q28,II-3,-586.0,-604.0,18.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q28,II-4,-283.0,-417.0,134.0,fail,-change in balance-sheet ar vs cash-flow ch_ar
+Q28,II-5,-198.0,-194.0,-4.0,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q28,II-6 rev,,,,untestable,no quarterly table
+Q28,II-6 ni,,,,untestable,no quarterly table
+Q28,III-1 rev,7585.0,7340.0,245.0,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q28,III-1 ni,-21.0,-18.0,-3.0,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q28,III-1 ta,6929.0,6900.0,29.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q28,III-1 eq,292.0,310.0,-18.0,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q28,III-1 cfo,,,,untestable,no prior-year 10-K value
+Q28,III-1 ar,932.0,869.0,63.0,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q28,IV-1,,,,untestable,no matching sentence
+Q29,I-1 Y0,23109.0,23109.0,0.0,pass,total assets vs total liabilities and equity
+Q29,I-3 Y0,9950.0,9950.0,0.0,pass,revenue - cost of sales vs gross profit
+Q29,I-4 Y0,2295.0,2295.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q29,I-5 Y0,7042.0,7042.0,0.0,pass,beginning cash + change vs ending cash
+Q29,I-6 Y0,1.4586,1.46,-0.0014,pass,net income / diluted shares vs diluted EPS
+Q29,II-1 Y0,3572.0,3572.0,0.0,pass,income statement vs cash-flow starting income
+Q29,II-2 Y0,7042.0,7042.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q29,I-1 Y-1,23215.0,23215.0,0.0,pass,total assets vs total liabilities and equity
+Q29,I-3 Y-1,9015.0,9015.0,0.0,pass,revenue - cost of sales vs gross profit
+Q29,I-4 Y-1,430.0,430.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q29,I-5 Y-1,4747.0,4747.0,0.0,pass,beginning cash + change vs ending cash
+Q29,I-6 Y-1,1.185,1.18,0.005,pass,net income / diluted shares vs diluted EPS
+Q29,II-1 Y-1,3043.0,3043.0,0.0,pass,income statement vs cash-flow starting income
+Q29,II-2 Y-1,4747.0,4747.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q29,II-3,12746.0,12746.0,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q29,II-4,-526.0,-652.0,126.0,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q29,II-5,-117.0,-119.0,2.0,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q29,II-6 rev,55908.0,55908.0,0.0,pass,sum of quarterly rev vs annual
+Q29,II-6 ni,3572.0,3572.0,0.0,pass,sum of quarterly ni vs annual
+Q29,III-1 rev,49205.0,49205.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q29,III-1 ni,3043.0,3043.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q29,III-1 ta,23215.0,23215.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q29,III-1 eq,6485.0,6485.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q29,III-1 cfo,5310.0,5310.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q29,III-1 ar,3563.0,4414.0,-851.0,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q29,IV-1 rev,7200.0,55908.0,-48708.0,fail,"In fiscal 2006, we re-invested a lower amount of proceeds from maturities and sales of investments to build liquidity for share repurchases, which totaled $7.2 billion for fiscal 2006 as compared to $4.2 billion during the same period last year."
+Q29,IV-1 ni,4300.0,3572.0,728.0,fail,"Our focus on balancing growth and profitability resulted in record operating and net income of $4.3 billion and $3.6 billion for fiscal 2006, respectively."
+Q30,I-1 Y0,16077.929,16077.929,0.0,pass,total assets vs total liabilities and equity
+Q30,I-3 Y0,,,,untestable,no gross-profit line
+Q30,I-4 Y0,-42.074,-42.074,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q30,I-5 Y0,105.321,105.321,0.0,pass,beginning cash + change vs ending cash
+Q30,I-6 Y0,1.8051,1.81,-0.0049,pass,net income / diluted shares vs diluted EPS
+Q30,II-1 Y0,1014.199,1014.199,0.0,pass,income statement vs cash-flow starting income
+Q30,II-2 Y0,105.321,3956.694,-3851.373,fail,cash-flow ending cash vs balance-sheet cash
+Q30,I-1 Y-1,13185.881,13185.881,0.0,pass,total assets vs total liabilities and equity
+Q30,I-3 Y-1,,,,untestable,no gross-profit line
+Q30,I-4 Y-1,-9.725,-9.725,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q30,I-5 Y-1,147.395,147.395,0.0,pass,beginning cash + change vs ending cash
+Q30,I-6 Y-1,2.4739,2.47,0.0039,pass,net income / diluted shares vs diluted EPS
+Q30,II-1 Y-1,1384.549,1384.549,0.0,pass,income statement vs cash-flow starting income
+Q30,II-2 Y-1,147.395,1818.332,-1670.937,fail,cash-flow ending cash vs balance-sheet cash
+Q30,II-3,8891.462,8882.455,9.007,pass,RE(t-1) + NI - dividends vs RE(t)
+Q30,II-4,28.94,-20.507,49.447,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q30,II-5,-32.59,-122.622,90.032,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q30,II-6 rev,,,,untestable,no quarterly table
+Q30,II-6 ni,,,,untestable,no quarterly table
+Q30,III-1 rev,11543.431,10648.0,895.431,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q30,III-1 ni,1384.549,1295.697,88.852,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q30,III-1 ta,13185.881,12097.0,1088.881,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q30,III-1 eq,7381.169,6695.0,686.169,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q30,III-1 cfo,1860.527,1707.993,152.534,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q30,III-1 ar,,,,untestable,no prior-year 10-K value
+Q30,IV-1 rev,948.0,11815.553,-10867.553,fail,"Camco - -----
+Camco achieved record revenue in 1998 of $948 million, 4% higher than the prior year, despite an overall decline in drilling and completion activity."
+Q31,I-1 Y0,24961.824,24961.824,0.0,pass,total assets vs total liabilities and equity
+Q31,I-3 Y0,,,,untestable,no gross-profit line
+Q31,I-4 Y0,-129.023,-129.023,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q31,I-5 Y0,1.679,1.679,0.0,pass,beginning cash + change vs ending cash
+Q31,I-6 Y0,-4.3683,-4.37,0.0017,pass,net income / diluted shares vs diluted EPS
+Q31,II-1 Y0,-1177.677,-1177.677,0.0,pass,income statement vs cash-flow starting income
+Q31,II-2 Y0,1.679,1.679,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q31,I-1 Y-1,23043.566,23043.566,0.0,pass,total assets vs total liabilities and equity
+Q31,I-3 Y-1,,,,untestable,no gross-profit line
+Q31,I-4 Y-1,-3.004,-3.004,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q31,I-5 Y-1,130.702,130.702,0.0,pass,beginning cash + change vs ending cash
+Q31,I-6 Y-1,-3.6715,-3.67,-0.0015,pass,net income / diluted shares vs diluted EPS
+Q31,II-1 Y-1,-828.65,-828.65,0.0,pass,income statement vs cash-flow starting income
+Q31,II-2 Y-1,130.702,130.702,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q31,II-3,-2073.527,-2073.527,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q31,II-4,-72.837,-70.261,-2.576,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q31,II-5,,,,untestable,missing inv or ch_inv
+Q31,II-6 rev,3953.132,3953.132,0.0,pass,sum of quarterly rev vs annual
+Q31,II-6 ni,-1177.677,-1177.677,0.0,pass,sum of quarterly ni vs annual
+Q31,III-1 rev,3249.222,3249.222,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q31,III-1 ni,-828.65,-828.65,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q31,III-1 ta,23043.566,23043.566,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q31,III-1 eq,3123.204,3123.204,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q31,III-1 cfo,1131.21,1131.21,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q31,III-1 ar,,,,untestable,no prior-year 10-K value
+Q31,IV-1 rev,332.7,3953.132,-3620.432,fail,"For the year ended December 31, 2001, including the period prior to our acquisition, these systems had revenues of $332.7 million."
+Q31,IV-1 ni,349.0,-1177.677,-828.677,fail,"Net loss increased by $349.0 million from $828.7 million in 2000 to $1,177.7 million in 2001 as a result of the combination of factors described above."
+Q32,I-1 Y0,2279.374,2279.374,0.0,pass,total assets vs total liabilities and equity
+Q32,I-3 Y0,,,,untestable,no gross-profit line
+Q32,I-4 Y0,22.86,22.86,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q32,I-5 Y0,53.34,53.34,0.0,pass,beginning cash + change vs ending cash
+Q32,I-6 Y0,0.3194,0.32,-0.0006,pass,net income / diluted shares vs diluted EPS
+Q32,II-1 Y0,119.083,119.083,0.0,pass,income statement vs cash-flow starting income
+Q32,II-2 Y0,53.34,53.34,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q32,I-1 Y-1,2415.907,2415.907,0.0,pass,total assets vs total liabilities and equity
+Q32,I-3 Y-1,,,,untestable,no gross-profit line
+Q32,I-4 Y-1,-162.648,-162.648,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q32,I-5 Y-1,30.48,30.48,0.0,pass,beginning cash + change vs ending cash
+Q32,I-6 Y-1,0.915,0.91,0.005,pass,net income / diluted shares vs diluted EPS
+Q32,II-1 Y-1,351.976,351.976,0.0,pass,income statement vs cash-flow starting income
+Q32,II-2 Y-1,30.48,30.48,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q32,II-3,774.059,774.059,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q32,II-4,23.083,67.799,-44.716,fail,-change in balance-sheet ar vs cash-flow ch_ar
+Q32,II-5,,,,untestable,missing inv or ch_inv
+Q32,II-6 rev,2010.05,2010.05,0.0,pass,sum of quarterly rev vs annual
+Q32,II-6 ni,119.083,119.083,0.0,pass,sum of quarterly ni vs annual
+Q32,III-1 rev,2230.628,2230.628,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q32,III-1 ni,351.976,351.976,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q32,III-1 ta,2415.907,2415.907,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q32,III-1 eq,1203.872,1203.872,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q32,III-1 cfo,165.399,165.399,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q32,III-1 ar,,,,untestable,no prior-year 10-K value
+Q32,IV-1 rev,268.5,2010.05,-1741.55,fail,S/390 product revenue (mainframe revenue) decreased $268.5 million or 26.0% during fiscal 2001 and increased $201.0 million or 24.2% during fiscal 2000.
+Q33,I-1 Y0,1009569.0,1009569.0,0.0,pass,total assets vs total liabilities and equity
+Q33,I-3 Y0,,,,untestable,no gross-profit line
+Q33,I-4 Y0,-295.0,-295.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q33,I-5 Y0,1415.0,1415.0,0.0,pass,beginning cash + change vs ending cash
+Q33,I-6 Y0,8.0581,7.91,0.1481,pass,net income / diluted shares vs diluted EPS
+Q33,II-1 Y0,7905.0,7905.0,0.0,pass,income statement vs cash-flow starting income
+Q33,II-2 Y0,1415.0,1415.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q33,I-1 Y-1,887515.0,887515.0,0.0,pass,total assets vs total liabilities and equity
+Q33,I-3 Y-1,,,,untestable,no gross-profit line
+Q33,I-4 Y-1,192.0,192.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q33,I-5 Y-1,1710.0,1710.0,0.0,pass,beginning cash + change vs ending cash
+Q33,I-6 Y-1,4.6329,4.52,0.1129,fail,net income / diluted shares vs diluted EPS
+Q33,II-1 Y-1,4619.0,4619.0,0.0,pass,income statement vs cash-flow starting income
+Q33,II-2 Y-1,1710.0,1710.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q33,II-3,37290.0,35496.0,1794.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q33,II-4,,,,untestable,missing ar or ch_ar
+Q33,II-5,,,,untestable,missing inv or ch_inv
+Q33,II-6 rev,,,,untestable,no quarterly table
+Q33,II-6 ni,7905.0,7905.0,0.0,pass,sum of quarterly ni vs annual
+Q33,III-1 rev,,,,untestable,no prior-year 10-K value
+Q33,III-1 ni,4619.0,4619.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q33,III-1 ta,887515.0,887515.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q33,III-1 eq,16288.0,16288.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q33,III-1 cfo,,,,untestable,no prior-year 10-K value
+Q33,III-1 ar,,,,untestable,no prior-year 10-K value
+Q33,IV-1,,,,untestable,no matching sentence
+Q34,I-1 Y0,34369.0,34369.0,0.0,pass,total assets vs total liabilities and equity
+Q34,I-3 Y0,,,,untestable,no gross-profit line
+Q34,I-4 Y0,126.0,126.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q34,I-5 Y0,486.0,486.0,0.0,pass,beginning cash + change vs ending cash
+Q34,I-6 Y0,,,,untestable,shares or EPS not recorded
+Q34,II-1 Y0,544.0,544.0,0.0,pass,income statement vs cash-flow starting income
+Q34,II-2 Y0,486.0,486.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q34,I-1 Y-1,29297.0,29297.0,0.0,pass,total assets vs total liabilities and equity
+Q34,I-3 Y-1,,,,untestable,no gross-profit line
+Q34,I-4 Y-1,80.0,80.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q34,I-5 Y-1,360.0,360.0,0.0,pass,beginning cash + change vs ending cash
+Q34,I-6 Y-1,,,,untestable,shares or EPS not recorded
+Q34,II-1 Y-1,436.0,436.0,0.0,pass,income statement vs cash-flow starting income
+Q34,II-2 Y-1,360.0,360.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q34,II-3,923.0,922.0,1.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q34,II-4,522.0,463.0,59.0,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q34,II-5,-250.0,-170.0,-80.0,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q34,II-6 rev,,,,untestable,no quarterly table
+Q34,II-6 ni,544.0,544.0,0.0,pass,sum of quarterly ni vs annual
+Q34,III-1 rev,9246.0,9260.0,-14.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q34,III-1 ni,436.0,436.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q34,III-1 ta,29297.0,29348.0,-51.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q34,III-1 eq,7000.0,6992.0,8.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q34,III-1 cfo,1343.0,1343.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q34,III-1 ar,,,,untestable,no prior-year 10-K value
+Q34,IV-1,,,,untestable,no matching sentence
+Q35,I-1 Y0,1243.7144,1243.7144,0.0,pass,total assets vs total liabilities and equity
+Q35,I-3 Y0,,,,untestable,no gross-profit line
+Q35,I-4 Y0,-51.7434,-51.7434,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q35,I-5 Y0,43.558,43.558,0.0,pass,beginning cash + change vs ending cash
+Q35,I-6 Y0,,,,untestable,shares or EPS not recorded
+Q35,II-1 Y0,172.0172,172.0172,0.0,pass,income statement vs cash-flow starting income
+Q35,II-2 Y0,43.558,43.558,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q35,I-1 Y-1,1095.2516,1095.2516,0.0,pass,total assets vs total liabilities and equity
+Q35,I-3 Y-1,,,,untestable,no gross-profit line
+Q35,I-4 Y-1,-38.9193,-38.9193,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q35,I-5 Y-1,95.3014,95.3014,0.0,pass,beginning cash + change vs ending cash
+Q35,I-6 Y-1,,,,untestable,shares or EPS not recorded
+Q35,II-1 Y-1,140.0793,140.0793,0.0,pass,income statement vs cash-flow starting income
+Q35,II-2 Y-1,95.3014,95.3014,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q35,II-3,796.8146,796.0395,0.7751,pass,RE(t-1) + NI - dividends vs RE(t)
+Q35,II-4,,,,untestable,missing ar or ch_ar
+Q35,II-5,-75.8336,-75.8336,0.0,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q35,II-6 rev,3132.639,3132.6391,-0.0001,pass,sum of quarterly rev vs annual
+Q35,II-6 ni,172.017,172.0172,-0.0002,pass,sum of quarterly ni vs annual
+Q35,III-1 rev,2751.1814,2751.1814,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q35,III-1 ni,140.0793,140.0793,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q35,III-1 ta,1095.2516,1095.2516,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q35,III-1 eq,690.6511,690.6511,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q35,III-1 cfo,,,,untestable,no prior-year 10-K value
+Q35,III-1 ar,,,,untestable,no prior-year 10-K value
+Q35,IV-1,,,,untestable,no matching sentence
+Q36,I-1 Y0,324.672,324.672,0.0,pass,total assets vs total liabilities and equity
+Q36,I-3 Y0,,,,untestable,no gross-profit line
+Q36,I-4 Y0,-12.763,-12.763,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q36,I-5 Y0,29.639,29.639,0.0,pass,beginning cash + change vs ending cash
+Q36,I-6 Y0,1.2539,1.25,0.0039,pass,net income / diluted shares vs diluted EPS
+Q36,II-1 Y0,38.58,38.58,0.0,pass,income statement vs cash-flow starting income
+Q36,II-2 Y0,29.639,29.639,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q36,I-1 Y-1,256.835,256.835,0.0,pass,total assets vs total liabilities and equity
+Q36,I-3 Y-1,,,,untestable,no gross-profit line
+Q36,I-4 Y-1,12.478,12.478,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q36,I-5 Y-1,42.402,42.402,0.0,pass,beginning cash + change vs ending cash
+Q36,I-6 Y-1,1.0002,1.0,0.0002,pass,net income / diluted shares vs diluted EPS
+Q36,II-1 Y-1,30.43,30.43,0.0,pass,income statement vs cash-flow starting income
+Q36,II-2 Y-1,42.402,42.402,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q36,II-3,111.29,111.29,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q36,II-4,-4.862,-4.85,-0.012,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q36,II-5,-1.048,-1.055,0.007,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q36,II-6 rev,479.139,479.139,0.0,pass,sum of quarterly rev vs annual
+Q36,II-6 ni,38.58,38.58,0.0,pass,sum of quarterly ni vs annual
+Q36,III-1 rev,363.702,355.886,7.816,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q36,III-1 ni,30.43,30.409,0.021,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q36,III-1 ta,256.835,245.943,10.892,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q36,III-1 eq,193.805,195.937,-2.132,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q36,III-1 cfo,73.102,68.528,4.574,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q36,III-1 ar,,,,untestable,no prior-year 10-K value
+Q36,IV-1 rev,479.1,479.139,-0.039,pass,"Fiscal Year 2004 Compared to Fiscal Year 2003 (as restated)
+Results of Operations
+Revenues
+Total Company revenues for the fifty-two weeks ended December 25, 2004 increased 31.7% to $479.1 million compared to $363.7 million for the fifty-two weeks ended December 27, 2003."
+Q36,IV-1 ni,8.2,38.58,-30.38,fail,"Net Income
+Net income for the fifty-two weeks ended December 25, 2004 increased $8.2 million, or 27.0%, to $38.6 million, or $1.25 per diluted share, compared to net income of $30.4 million (as restated), or $1.00 per diluted share (as restated), for the fifty-two weeks ended December 27, 2003."
+Q37,I-1 Y0,3020.9,3020.9,0.0,pass,total assets vs total liabilities and equity
+Q37,I-3 Y0,,,,untestable,no gross-profit line
+Q37,I-4 Y0,180.7,180.7,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q37,I-5 Y0,828.3,828.3,0.0,pass,beginning cash + change vs ending cash
+Q37,I-6 Y0,,,,untestable,shares or EPS not recorded
+Q37,II-1 Y0,158.9,164.1,-5.2,fail,income statement vs cash-flow starting income
+Q37,II-2 Y0,828.3,828.3,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q37,I-1 Y-1,2956.9,2956.9,0.0,pass,total assets vs total liabilities and equity
+Q37,I-3 Y-1,,,,untestable,no gross-profit line
+Q37,I-4 Y-1,103.6,103.6,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q37,I-5 Y-1,647.6,647.6,0.0,pass,beginning cash + change vs ending cash
+Q37,I-6 Y-1,,,,untestable,shares or EPS not recorded
+Q37,II-1 Y-1,172.2,175.9,-3.7,fail,income statement vs cash-flow starting income
+Q37,II-2 Y-1,647.6,647.6,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q37,II-3,-2170.6,-2170.6,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q37,II-4,-22.3,-31.9,9.6,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q37,II-5,11.6,12.4,-0.8,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q37,II-6 rev,4019.6,4019.6,0.0,pass,sum of quarterly rev vs annual
+Q37,II-6 ni,236.1,236.1,0.0,pass,sum of quarterly ni vs annual
+Q37,III-1 rev,4385.7,4597.7,-212.0,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q37,III-1 ni,189.3,189.3,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q37,III-1 ta,2956.9,2956.9,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q37,III-1 eq,,,,untestable,no prior-year 10-K value
+Q37,III-1 cfo,396.8,396.8,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q37,III-1 ar,767.4,790.7,-23.3,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q37,IV-1,,,,untestable,no matching sentence
+Q38,I-1 Y0,1165.6,1165.6,0.0,pass,total assets vs total liabilities and equity
+Q38,I-3 Y0,331.525,331.525,-0.0,pass,revenue - cost of sales vs gross profit
+Q38,I-4 Y0,85.522,85.522,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q38,I-5 Y0,180.964,180.964,0.0,pass,beginning cash + change vs ending cash
+Q38,I-6 Y0,1.3894,1.39,-0.0006,pass,net income / diluted shares vs diluted EPS
+Q38,II-1 Y0,72.021,72.021,0.0,pass,income statement vs cash-flow starting income
+Q38,II-2 Y0,180.964,180.964,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q38,I-1 Y-1,1089.809,1089.809,0.0,pass,total assets vs total liabilities and equity
+Q38,I-3 Y-1,320.231,320.231,0.0,pass,revenue - cost of sales vs gross profit
+Q38,I-4 Y-1,-1.43,-1.43,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q38,I-5 Y-1,95.442,95.442,-0.0,pass,beginning cash + change vs ending cash
+Q38,I-6 Y-1,2.0334,2.03,0.0034,pass,net income / diluted shares vs diluted EPS
+Q38,II-1 Y-1,101.863,101.863,0.0,pass,income statement vs cash-flow starting income
+Q38,II-2 Y-1,95.442,95.442,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q38,II-3,445.971,445.971,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q38,II-4,33.653,32.375,1.278,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q38,II-5,14.513,5.2,9.313,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q38,II-6 rev,2215.573,2215.573,0.0,pass,sum of quarterly rev vs annual
+Q38,II-6 ni,72.021,72.021,0.0,pass,sum of quarterly ni vs annual
+Q38,III-1 rev,1991.155,1991.155,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q38,III-1 ni,101.863,101.863,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q38,III-1 ta,1089.809,1089.809,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q38,III-1 eq,618.921,619.085,-0.164,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q38,III-1 cfo,,,,untestable,no prior-year 10-K value
+Q38,III-1 ar,322.594,322.594,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q38,IV-1 rev,2215.6,2215.573,0.027,pass,"For fiscal years 2016, 2015 and 2014, our net sales were $2,215.6 million, $1,991.2 million and $1,467.2 million, respectively."
+Q38,IV-1 ni,72.0,72.021,-0.021,pass,"For fiscal years 2016, 2015 and 2014, our net income was $72.0 million, $101.9 million and $54.2 million, respectively."
+Q39,I-1 Y0,1301.146,1301.146,0.0,pass,total assets vs total liabilities and equity
+Q39,I-3 Y0,412.695,412.695,0.0,pass,revenue - cost of sales vs gross profit
+Q39,I-4 Y0,97.98,97.98,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q39,I-5 Y0,207.749,207.749,0.0,pass,beginning cash + change vs ending cash
+Q39,I-6 Y0,1.9726,1.97,0.0026,pass,net income / diluted shares vs diluted EPS
+Q39,II-1 Y0,70.949,70.949,0.0,pass,income statement vs cash-flow starting income
+Q39,II-2 Y0,207.749,207.749,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q39,I-1 Y-1,1212.127,1212.127,0.0,pass,total assets vs total liabilities and equity
+Q39,I-3 Y-1,370.435,370.435,-0.0,pass,revenue - cost of sales vs gross profit
+Q39,I-4 Y-1,40.805,40.805,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q39,I-5 Y-1,109.769,109.769,0.0,pass,beginning cash + change vs ending cash
+Q39,I-6 Y-1,1.4036,1.4,0.0036,pass,net income / diluted shares vs diluted EPS
+Q39,II-1 Y-1,51.558,51.558,0.0,pass,income statement vs cash-flow starting income
+Q39,II-2 Y-1,109.769,109.769,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q39,II-3,660.758,660.758,-0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q39,II-4,36.358,36.373,-0.015,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q39,II-5,,,,untestable,missing inv or ch_inv
+Q39,II-6 rev,3525.595,3525.595,0.0,pass,sum of quarterly rev vs annual
+Q39,II-6 ni,70.949,70.949,0.0,pass,sum of quarterly ni vs annual
+Q39,III-1 rev,3571.126,3571.126,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q39,III-1 ni,51.558,51.558,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q39,III-1 ta,1212.127,1212.127,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q39,III-1 eq,600.784,600.784,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q39,III-1 cfo,,,,untestable,no prior-year 10-K value
+Q39,III-1 ar,426.689,426.689,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q39,IV-1 rev,928.7,3525.595,-2596.895,fail,Mode’s revenue decreased 0.3% to $928.7 million in 2015 from $931.1 million in 2014.
+Q39,IV-1 ni,70.9,70.949,-0.049,pass,"Net Income
+Net income increased to $70.9 million in 2015 from $51.6 million in 2014 due primarily to increased margin, partially offset by higher operating expenses and higher income tax expense."
+Q40,I-1 Y0,16455.0,16455.0,0.0,pass,total assets vs total liabilities and equity
+Q40,I-3 Y0,,,,untestable,no gross-profit line
+Q40,I-4 Y0,487.0,487.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q40,I-5 Y0,2784.0,2784.0,0.0,pass,beginning cash + change vs ending cash
+Q40,I-6 Y0,,,,untestable,shares or EPS not recorded
+Q40,II-1 Y0,834.0,834.0,0.0,pass,income statement vs cash-flow starting income
+Q40,II-2 Y0,2784.0,2784.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q40,I-1 Y-1,15619.0,15619.0,0.0,pass,total assets vs total liabilities and equity
+Q40,I-3 Y-1,,,,untestable,no gross-profit line
+Q40,I-4 Y-1,1598.0,1598.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q40,I-5 Y-1,2297.0,2297.0,0.0,pass,beginning cash + change vs ending cash
+Q40,I-6 Y-1,,,,untestable,shares or EPS not recorded
+Q40,II-1 Y-1,1123.0,1123.0,0.0,pass,income statement vs cash-flow starting income
+Q40,II-2 Y-1,2297.0,2297.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q40,II-3,5710.0,5709.0,1.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q40,II-4,-63.0,70.0,-133.0,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q40,II-5,,,,untestable,missing inv or ch_inv
+Q40,II-6 rev,16128.0,16128.0,0.0,pass,sum of quarterly rev vs annual
+Q40,II-6 ni,817.0,817.0,0.0,pass,sum of quarterly ni vs annual
+Q40,III-1 rev,16740.0,16739.9,0.1,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q40,III-1 ni,1115.0,1115.2,-0.2,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q40,III-1 ta,15619.0,15618.7,0.3,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q40,III-1 eq,5510.0,5509.9,0.1,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q40,III-1 cfo,1986.0,1986.4,-0.4,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q40,III-1 ar,3786.0,3786.4,-0.4,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q40,IV-1 rev,612.0,16128.0,-15516.0,fail,"Key operating results for fiscal 2010 include:
+▪
+Revenues decreased $612 million or 3.7%, while decreasing 3.8% on a constant currency basis."
+Q40,IV-1 ni,834.0,817.0,17.0,fail,"▪
+Net income of $834 million was down $289 million or 25.7% due to a $370 million change in taxes on income from a $166 million benefit in fiscal 2009 to a $204 million expense in fiscal 2010."
+Q41,I-1 Y0,,,,untestable,total-assets row not independently reported
+Q41,I-3 Y0,,,,untestable,no gross-profit line
+Q41,I-4 Y0,23.855,23.855,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q41,I-5 Y0,207.9,207.9,0.0,pass,beginning cash + change vs ending cash
+Q41,I-6 Y0,1.3633,1.36,0.0033,pass,net income / diluted shares vs diluted EPS
+Q41,II-1 Y0,96.746,96.746,0.0,pass,income statement vs cash-flow starting income
+Q41,II-2 Y0,207.9,207.9,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q41,I-1 Y-1,,,,untestable,total-assets row not independently reported
+Q41,I-3 Y-1,,,,untestable,no gross-profit line
+Q41,I-4 Y-1,14.094,14.094,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q41,I-5 Y-1,184.045,184.045,-0.0,pass,beginning cash + change vs ending cash
+Q41,I-6 Y-1,2.5339,2.53,0.0039,pass,net income / diluted shares vs diluted EPS
+Q41,II-1 Y-1,183.797,183.797,0.0,pass,income statement vs cash-flow starting income
+Q41,II-2 Y-1,184.045,184.045,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q41,II-3,1140.468,1140.468,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q41,II-4,-92.703,-97.075,4.372,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q41,II-5,-19.321,-23.558,4.237,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q41,II-6 rev,,,,untestable,no quarterly table
+Q41,II-6 ni,,,,untestable,no quarterly table
+Q41,III-1 rev,2357.108,2380.91,-23.802,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q41,III-1 ni,183.797,183.957,-0.16,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q41,III-1 ta,2135.552,2135.552,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q41,III-1 eq,1248.908,1260.475,-11.567,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q41,III-1 cfo,232.648,232.648,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q41,III-1 ar,583.658,583.658,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q41,IV-1,,,,untestable,no matching sentence
+Q42,I-1 Y0,660.664,660.664,0.0,pass,total assets vs total liabilities and equity
+Q42,I-3 Y0,,,,untestable,no gross-profit line
+Q42,I-4 Y0,-11.174,-11.174,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q42,I-5 Y0,21.029,21.029,0.0,pass,beginning cash + change vs ending cash
+Q42,I-6 Y0,,,,untestable,shares or EPS not recorded
+Q42,II-1 Y0,57.087,57.087,0.0,pass,income statement vs cash-flow starting income
+Q42,II-2 Y0,21.029,21.029,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q42,I-1 Y-1,410.487,410.487,0.0,pass,total assets vs total liabilities and equity
+Q42,I-3 Y-1,,,,untestable,no gross-profit line
+Q42,I-4 Y-1,10.299,10.299,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q42,I-5 Y-1,32.203,32.203,0.0,pass,beginning cash + change vs ending cash
+Q42,I-6 Y-1,,,,untestable,shares or EPS not recorded
+Q42,II-1 Y-1,33.478,33.478,0.0,pass,income statement vs cash-flow starting income
+Q42,II-2 Y-1,32.203,32.203,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q42,II-3,159.49,159.49,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q42,II-4,-21.889,-17.629,-4.26,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q42,II-5,-4.499,-3.804,-0.695,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q42,II-6 rev,,,,untestable,no quarterly table
+Q42,II-6 ni,,,,untestable,no quarterly table
+Q42,III-1 rev,491.549,491.549,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q42,III-1 ni,33.478,33.478,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q42,III-1 ta,410.487,410.487,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q42,III-1 eq,273.352,273.352,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q42,III-1 cfo,51.036,51.036,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q42,III-1 ar,,,,untestable,no prior-year 10-K value
+Q42,IV-1,,,,untestable,no matching sentence
+Q43,I-1 Y0,1793.003,1793.003,0.0,pass,total assets vs total liabilities and equity
+Q43,I-3 Y0,,,,untestable,no gross-profit line
+Q43,I-4 Y0,-14.871,-14.871,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q43,I-5 Y0,16.962,16.962,0.0,pass,beginning cash + change vs ending cash
+Q43,I-6 Y0,1.093,1.09,0.003,pass,net income / diluted shares vs diluted EPS
+Q43,II-1 Y0,79.129,79.129,0.0,pass,income statement vs cash-flow starting income
+Q43,II-2 Y0,16.962,16.962,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q43,I-1 Y-1,1585.647,1585.647,0.0,pass,total assets vs total liabilities and equity
+Q43,I-3 Y-1,,,,untestable,no gross-profit line
+Q43,I-4 Y-1,9.229,9.229,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q43,I-5 Y-1,31.833,31.833,-0.0,pass,beginning cash + change vs ending cash
+Q43,I-6 Y-1,1.7051,1.71,-0.0049,pass,net income / diluted shares vs diluted EPS
+Q43,II-1 Y-1,123.714,123.714,0.0,pass,income statement vs cash-flow starting income
+Q43,II-2 Y-1,31.833,31.833,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q43,II-3,1084.806,1084.796,0.01,pass,RE(t-1) + NI - dividends vs RE(t)
+Q43,II-4,-8.276,-10.349,2.073,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q43,II-5,,,,untestable,missing inv or ch_inv
+Q43,II-6 rev,2008.991,2008.991,0.0,pass,sum of quarterly rev vs annual
+Q43,II-6 ni,79.129,79.129,0.0,pass,sum of quarterly ni vs annual
+Q43,III-1 rev,2093.529,2093.529,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q43,III-1 ni,123.714,123.714,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q43,III-1 ta,1585.647,1613.684,-28.037,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q43,III-1 eq,935.654,935.654,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q43,III-1 cfo,370.392,370.392,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q43,III-1 ar,268.264,268.264,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q43,IV-1 rev,155.3,2008.991,-1853.691,fail,These revenues decreased 26.9% to $155.3 million in 2016 from $212.5 million in 2015 because of lower average fuel prices in 2016.
+Q44,I-1 Y0,1678.715,1678.715,0.0,pass,total assets vs total liabilities and equity
+Q44,I-3 Y0,,,,untestable,no gross-profit line
+Q44,I-4 Y0,-1.514,-1.514,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q44,I-5 Y0,196.597,196.597,-0.0,pass,beginning cash + change vs ending cash
+Q44,I-6 Y0,0.8592,0.86,-0.0008,pass,net income / diluted shares vs diluted EPS
+Q44,II-1 Y0,107.432,107.432,0.0,pass,income statement vs cash-flow starting income
+Q44,II-2 Y0,196.597,196.597,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q44,I-1 Y-1,1543.613,1543.613,0.0,pass,total assets vs total liabilities and equity
+Q44,I-3 Y-1,,,,untestable,no gross-profit line
+Q44,I-4 Y-1,55.856,55.856,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q44,I-5 Y-1,198.111,198.111,0.0,pass,beginning cash + change vs ending cash
+Q44,I-6 Y-1,0.6088,0.61,-0.0012,pass,net income / diluted shares vs diluted EPS
+Q44,II-1 Y-1,73.104,73.104,0.0,pass,income statement vs cash-flow starting income
+Q44,II-2 Y-1,198.111,198.111,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q44,II-3,-379.308,-379.308,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q44,II-4,-73.909,-79.135,5.226,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q44,II-5,,,,untestable,missing inv or ch_inv
+Q44,II-6 rev,986.917,986.917,0.0,pass,sum of quarterly rev vs annual
+Q44,II-6 ni,107.432,107.432,0.0,pass,sum of quarterly ni vs annual
+Q44,III-1 rev,756.131,845.519,-89.388,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q44,III-1 ni,73.104,73.104,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q44,III-1 ta,1543.613,1543.613,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q44,III-1 eq,755.514,755.514,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q44,III-1 cfo,,,,untestable,no prior-year 10-K value
+Q44,III-1 ar,,,,untestable,no prior-year 10-K value
+Q44,IV-1,,,,untestable,no matching sentence
+Q45,I-1 Y0,,,,untestable,total-assets row not independently reported
+Q45,I-3 Y0,,,,untestable,no gross-profit line
+Q45,I-4 Y0,105.0,105.0,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q45,I-5 Y0,246.8,246.8,0.0,pass,beginning cash + change vs ending cash
+Q45,I-6 Y0,,,,untestable,shares or EPS not recorded
+Q45,II-1 Y0,227.2,227.2,0.0,pass,income statement vs cash-flow starting income
+Q45,II-2 Y0,246.8,246.8,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q45,I-1 Y-1,,,,untestable,total-assets row not independently reported
+Q45,I-3 Y-1,,,,untestable,no gross-profit line
+Q45,I-4 Y-1,10.2,10.2,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q45,I-5 Y-1,141.8,141.8,-0.0,pass,beginning cash + change vs ending cash
+Q45,I-6 Y-1,,,,untestable,shares or EPS not recorded
+Q45,II-1 Y-1,229.6,229.6,0.0,pass,income statement vs cash-flow starting income
+Q45,II-2 Y-1,141.8,141.8,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q45,II-3,562.0,562.0,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q45,II-4,-259.0,-85.1,-173.9,fail,-change in balance-sheet ar vs cash-flow ch_ar
+Q45,II-5,-26.9,-63.7,36.8,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q45,II-6 rev,4940.5,4940.5,0.0,pass,sum of quarterly rev vs annual
+Q45,II-6 ni,227.2,227.2,0.0,pass,sum of quarterly ni vs annual
+Q45,III-1 rev,4914.4,4914.4,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q45,III-1 ni,229.6,229.6,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q45,III-1 ta,5153.5,5153.5,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q45,III-1 eq,1632.4,1632.4,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q45,III-1 cfo,433.0,433.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q45,III-1 ar,672.4,672.4,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q45,IV-1,,,,untestable,no matching sentence
+Q46,I-1 Y0,11514.7,11514.7,0.0,pass,total assets vs total liabilities and equity
+Q46,I-3 Y0,,,,untestable,no gross-profit line
+Q46,I-4 Y0,90.6,90.6,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q46,I-5 Y0,935.2,935.2,0.0,pass,beginning cash + change vs ending cash
+Q46,I-6 Y0,-1.3694,-1.37,0.0006,pass,net income / diluted shares vs diluted EPS
+Q46,II-1 Y0,-505.3,-505.3,0.0,pass,income statement vs cash-flow starting income
+Q46,II-2 Y0,935.2,935.2,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q46,I-1 Y-1,12362.0,12362.0,0.0,pass,total assets vs total liabilities and equity
+Q46,I-3 Y-1,,,,untestable,no gross-profit line
+Q46,I-4 Y-1,-273.6,-302.7,29.1,fail,CFO+CFI+CFF+FX vs net change in cash
+Q46,I-5 Y-1,844.6,844.6,-0.0,pass,beginning cash + change vs ending cash
+Q46,I-6 Y-1,1.1341,1.14,-0.0059,pass,net income / diluted shares vs diluted EPS
+Q46,II-1 Y-1,420.3,420.3,0.0,pass,income statement vs cash-flow starting income
+Q46,II-2 Y-1,844.6,844.6,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q46,II-3,1017.8,1011.2,6.6,pass,RE(t-1) + NI - dividends vs RE(t)
+Q46,II-4,955.2,780.6,174.6,fail,-change in balance-sheet ar vs cash-flow ch_ar
+Q46,II-5,,,,untestable,missing inv or ch_inv
+Q46,II-6 rev,6726.8,6726.8,0.0,pass,sum of quarterly rev vs annual
+Q46,II-6 ni,-505.3,-505.3,0.0,pass,sum of quarterly ni vs annual
+Q46,III-1 rev,7182.7,5625.845,1556.855,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q46,III-1 ni,420.3,358.658,61.642,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q46,III-1 ta,12362.0,10238.222,2123.778,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q46,III-1 eq,2482.4,2046.356,436.044,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q46,III-1 cfo,607.2,300.179,307.021,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q46,III-1 ar,,,,untestable,no prior-year 10-K value
+Q46,IV-1,,,,untestable,no matching sentence
+Q47,I-1 Y0,5287.0,5287.0,0.0,pass,total assets vs total liabilities and equity
+Q47,I-3 Y0,,,,untestable,no gross-profit line
+Q47,I-4 Y0,60.0,60.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q47,I-5 Y0,810.0,810.0,0.0,pass,beginning cash + change vs ending cash
+Q47,I-6 Y0,2.7975,2.8,-0.0025,pass,net income / diluted shares vs diluted EPS
+Q47,II-1 Y0,529.0,529.0,0.0,pass,income statement vs cash-flow starting income
+Q47,II-2 Y0,810.0,810.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q47,I-1 Y-1,5554.0,5554.0,0.0,pass,total assets vs total liabilities and equity
+Q47,I-3 Y-1,,,,untestable,no gross-profit line
+Q47,I-4 Y-1,111.0,111.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q47,I-5 Y-1,750.0,750.0,0.0,pass,beginning cash + change vs ending cash
+Q47,I-6 Y-1,1.5144,1.51,0.0044,pass,net income / diluted shares vs diluted EPS
+Q47,II-1 Y-1,290.0,290.0,0.0,pass,income statement vs cash-flow starting income
+Q47,II-2 Y-1,750.0,750.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q47,II-3,1518.0,1518.0,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q47,II-4,-1.0,5.0,-6.0,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q47,II-5,-6.0,-6.0,0.0,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q47,II-6 rev,6028.0,6028.0,0.0,pass,sum of quarterly rev vs annual
+Q47,II-6 ni,529.0,529.0,0.0,pass,sum of quarterly ni vs annual
+Q47,III-1 rev,5984.0,5984.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q47,III-1 ni,290.0,290.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q47,III-1 ta,5554.0,5554.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q47,III-1 eq,2086.0,2086.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q47,III-1 cfo,436.0,436.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q47,III-1 ar,1304.0,1304.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q47,IV-1,,,,untestable,no matching sentence
+Q48,I-1 Y0,82.689,82.689,0.0,pass,total assets vs total liabilities and equity
+Q48,I-3 Y0,86.649,86.649,0.0,pass,revenue - cost of sales vs gross profit
+Q48,I-4 Y0,23.985,23.985,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q48,I-5 Y0,27.491,27.491,0.0,pass,beginning cash + change vs ending cash
+Q48,I-6 Y0,0.16,0.16,0.0,pass,net income / diluted shares vs diluted EPS
+Q48,II-1 Y0,6.178,6.178,0.0,pass,income statement vs cash-flow starting income
+Q48,II-2 Y0,27.491,27.491,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q48,I-1 Y-1,30.065,30.065,0.0,pass,total assets vs total liabilities and equity
+Q48,I-3 Y-1,42.441,42.441,0.0,pass,revenue - cost of sales vs gross profit
+Q48,I-4 Y-1,1.82,1.82,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q48,I-5 Y-1,3.506,3.506,0.0,pass,beginning cash + change vs ending cash
+Q48,I-6 Y-1,0.0037,0.0,0.0037,pass,net income / diluted shares vs diluted EPS
+Q48,II-1 Y-1,0.121,0.121,0.0,pass,income statement vs cash-flow starting income
+Q48,II-2 Y-1,3.506,3.506,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q48,II-3,0.544,5.229,-4.685,fail,RE(t-1) + NI - dividends vs RE(t)
+Q48,II-4,-16.969,-17.525,0.556,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q48,II-5,,,,untestable,missing inv or ch_inv
+Q48,II-6 rev,,,,untestable,no quarterly table
+Q48,II-6 ni,,,,untestable,no quarterly table
+Q48,III-1 rev,,,,untestable,no prior-year 10-K value
+Q48,III-1 ni,,,,untestable,no prior-year 10-K value
+Q48,III-1 ta,,,,untestable,no prior-year 10-K value
+Q48,III-1 eq,,,,untestable,no prior-year 10-K value
+Q48,III-1 cfo,,,,untestable,no prior-year 10-K value
+Q48,III-1 ar,,,,untestable,no prior-year 10-K value
+Q48,IV-1 rev,106.4,106.43,-0.03,pass,"Total revenues increased to $106.4 million for the year ended December 31, 1998 from $53.6 million in the year ended December 31, 1997, representing an increase of 98.5%."
+Q49,I-1 Y0,,,,untestable,missing items
+Q49,I-3 Y0,,,,untestable,no gross-profit line
+Q49,I-4 Y0,342.0,342.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q49,I-5 Y0,1724.0,1724.0,0.0,pass,beginning cash + change vs ending cash
+Q49,I-6 Y0,3.0992,3.1,-0.0008,pass,net income / diluted shares vs diluted EPS
+Q49,II-1 Y0,1411.9,1411.9,0.0,pass,income statement vs cash-flow starting income
+Q49,II-2 Y0,1724.0,1724.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q49,I-1 Y-1,,,,untestable,missing items
+Q49,I-3 Y-1,,,,untestable,no gross-profit line
+Q49,I-4 Y-1,447.9,447.9,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q49,I-5 Y-1,1382.0,1382.0,0.0,pass,beginning cash + change vs ending cash
+Q49,I-6 Y-1,2.2966,2.3,-0.0034,pass,net income / diluted shares vs diluted EPS
+Q49,II-1 Y-1,1126.3,1126.3,0.0,pass,income statement vs cash-flow starting income
+Q49,II-2 Y-1,1382.0,1382.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q49,II-3,6517.1,6517.3,-0.2,pass,RE(t-1) + NI - dividends vs RE(t)
+Q49,II-4,-489.0,-414.8,-74.2,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q49,II-5,-262.3,-234.4,-27.9,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q49,II-6 rev,56737.0,56737.0,0.0,pass,sum of quarterly rev vs annual
+Q49,II-6 ni,1405.8,1405.8,0.0,pass,sum of quarterly ni vs annual
+Q49,III-1 rev,51135.7,51135.7,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q49,III-1 ni,1056.2,1056.2,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q49,III-1 ta,16438.0,16438.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q49,III-1 eq,6393.0,6393.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q49,III-1 cfo,983.9,983.9,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q49,III-1 ar,2295.4,2295.4,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q49,IV-1,,,,untestable,no matching sentence
+Q50,I-1 Y0,351.641,351.641,0.0,pass,total assets vs total liabilities and equity
+Q50,I-3 Y0,139.21,139.21,0.0,pass,revenue - cost of sales vs gross profit
+Q50,I-4 Y0,-5.129,-5.129,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q50,I-5 Y0,5.245,5.245,0.0,pass,beginning cash + change vs ending cash
+Q50,I-6 Y0,,,,untestable,shares or EPS not recorded
+Q50,II-1 Y0,24.963,24.963,0.0,pass,income statement vs cash-flow starting income
+Q50,II-2 Y0,5.245,5.245,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q50,I-1 Y-1,231.712,231.712,0.0,pass,total assets vs total liabilities and equity
+Q50,I-3 Y-1,90.81,90.81,0.0,pass,revenue - cost of sales vs gross profit
+Q50,I-4 Y-1,7.611,7.611,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q50,I-5 Y-1,10.374,10.374,-0.0,pass,beginning cash + change vs ending cash
+Q50,I-6 Y-1,,,,untestable,shares or EPS not recorded
+Q50,II-1 Y-1,16.332,16.332,0.0,pass,income statement vs cash-flow starting income
+Q50,II-2 Y-1,10.374,10.374,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q50,II-3,43.365,43.365,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q50,II-4,-27.078,-28.052,0.974,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q50,II-5,-3.622,-3.631,0.009,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q50,II-6 rev,387.006,387.006,-0.0,pass,sum of quarterly rev vs annual
+Q50,II-6 ni,24.963,24.963,0.0,pass,sum of quarterly ni vs annual
+Q50,III-1 rev,305.932,305.9319,0.0001,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q50,III-1 ni,16.332,16.3321,-0.0001,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q50,III-1 ta,231.712,232.7164,-1.0044,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q50,III-1 eq,85.103,85.1029,0.0001,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q50,III-1 cfo,-16.748,-16.7457,-0.0023,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q50,III-1 ar,,,,untestable,no prior-year 10-K value
+Q50,IV-1,,,,untestable,no matching sentence
+Q51,I-1 Y0,9047.0,9047.0,0.0,pass,total assets vs total liabilities and equity
+Q51,I-3 Y0,,,,untestable,no gross-profit line
+Q51,I-4 Y0,-101.0,-101.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q51,I-5 Y0,630.0,634.0,-4.0,fail,beginning cash + change vs ending cash
+Q51,I-6 Y0,0.543,0.54,0.003,pass,net income / diluted shares vs diluted EPS
+Q51,II-1 Y0,82.0,82.0,0.0,pass,income statement vs cash-flow starting income
+Q51,II-2 Y0,634.0,634.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q51,I-1 Y-1,9617.0,9617.0,0.0,pass,total assets vs total liabilities and equity
+Q51,I-3 Y-1,,,,untestable,no gross-profit line
+Q51,I-4 Y-1,162.0,162.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q51,I-5 Y-1,733.0,731.0,2.0,pass,beginning cash + change vs ending cash
+Q51,I-6 Y-1,1.4899,1.49,-0.0001,pass,net income / diluted shares vs diluted EPS
+Q51,II-1 Y-1,222.0,222.0,0.0,pass,income statement vs cash-flow starting income
+Q51,II-2 Y-1,731.0,731.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q51,II-3,2500.0,2500.0,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q51,II-4,-336.0,-261.0,-75.0,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q51,II-5,-164.0,-173.0,9.0,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q51,II-6 rev,9056.0,9056.0,0.0,pass,sum of quarterly rev vs annual
+Q51,II-6 ni,82.0,82.0,0.0,pass,sum of quarterly ni vs annual
+Q51,III-1 rev,7918.0,7918.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q51,III-1 ni,222.0,222.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q51,III-1 ta,9617.0,9617.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q51,III-1 eq,2050.0,2050.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q51,III-1 cfo,335.0,335.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q51,III-1 ar,,,,untestable,no prior-year 10-K value
+Q51,IV-1,,,,untestable,no matching sentence
+Q52,I-1 Y0,,,,untestable,total-assets row not independently reported
+Q52,I-3 Y0,,,,untestable,no gross-profit line
+Q52,I-4 Y0,-44.666,-44.666,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q52,I-5 Y0,472.151,472.151,0.0,pass,beginning cash + change vs ending cash
+Q52,I-6 Y0,,,,untestable,shares or EPS not recorded
+Q52,II-1 Y0,503.142,503.142,0.0,pass,income statement vs cash-flow starting income
+Q52,II-2 Y0,472.151,472.151,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q52,I-1 Y-1,,,,untestable,total-assets row not independently reported
+Q52,I-3 Y-1,,,,untestable,no gross-profit line
+Q52,I-4 Y-1,-59.61,-59.61,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q52,I-5 Y-1,516.817,516.817,0.0,pass,beginning cash + change vs ending cash
+Q52,I-6 Y-1,,,,untestable,shares or EPS not recorded
+Q52,II-1 Y-1,498.795,498.795,0.0,pass,income statement vs cash-flow starting income
+Q52,II-2 Y-1,516.817,516.817,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q52,II-3,1626.034,1619.874,6.16,pass,RE(t-1) + NI - dividends vs RE(t)
+Q52,II-4,136.392,200.836,-64.444,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q52,II-5,,,,untestable,missing inv or ch_inv
+Q52,II-6 rev,,,,untestable,no quarterly table
+Q52,II-6 ni,,,,untestable,no quarterly table
+Q52,III-1 rev,6154.23,6154.23,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q52,III-1 ni,498.795,498.795,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q52,III-1 ta,9853.707,9891.499,-37.792,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q52,III-1 eq,1548.477,1548.477,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q52,III-1 cfo,685.879,685.879,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q52,III-1 ar,,,,untestable,no prior-year 10-K value
+Q52,IV-1,,,,untestable,no matching sentence
+Q53,I-1 Y0,8273.29,6141.011,2132.279,fail,total assets vs liabilities + minority + equity
+Q53,I-3 Y0,,,,untestable,no gross-profit line
+Q53,I-4 Y0,-24.725,-24.725,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q53,I-5 Y0,37.94,37.94,0.0,pass,beginning cash + change vs ending cash
+Q53,I-6 Y0,,,,untestable,shares or EPS not recorded
+Q53,II-1 Y0,229.253,229.253,0.0,pass,income statement vs cash-flow starting income
+Q53,II-2 Y0,37.94,37.94,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q53,I-1 Y-1,7130.308,5133.214,1997.094,fail,total assets vs liabilities + minority + equity
+Q53,I-3 Y-1,,,,untestable,no gross-profit line
+Q53,I-4 Y-1,-111.161,-111.161,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q53,I-5 Y-1,62.665,62.665,-0.0,pass,beginning cash + change vs ending cash
+Q53,I-6 Y-1,,,,untestable,shares or EPS not recorded
+Q53,II-1 Y-1,-800.607,-800.607,0.0,pass,income statement vs cash-flow starting income
+Q53,II-2 Y-1,62.665,62.665,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q53,II-3,-3571.049,-3571.049,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q53,II-4,,,,untestable,missing ar or ch_ar
+Q53,II-5,,,,untestable,missing inv or ch_inv
+Q53,II-6 rev,4411.048,4411.048,0.0,pass,sum of quarterly rev vs annual
+Q53,II-6 ni,229.253,229.253,0.0,pass,sum of quarterly ni vs annual
+Q53,III-1 rev,3942.985,3942.985,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q53,III-1 ni,-800.607,-800.607,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q53,III-1 ta,7130.308,7130.308,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q53,III-1 eq,,,,untestable,no prior-year 10-K value
+Q53,III-1 cfo,,,,untestable,no prior-year 10-K value
+Q53,III-1 ar,,,,untestable,no prior-year 10-K value
+Q53,IV-1,,,,untestable,no matching sentence
+Q54,I-1 Y0,14630.0,14630.0,0.0,pass,total assets vs total liabilities and equity
+Q54,I-3 Y0,7370.0,7370.0,0.0,pass,revenue - cost of sales vs gross profit
+Q54,I-4 Y0,57.0,57.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q54,I-5 Y0,401.0,401.0,0.0,pass,beginning cash + change vs ending cash
+Q54,I-6 Y0,-0.5054,-0.48,-0.0254,fail,net income / diluted shares vs diluted EPS
+Q54,II-1 Y0,-244.0,-244.0,0.0,pass,income statement vs cash-flow starting income
+Q54,II-2 Y0,401.0,401.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q54,I-1 Y-1,15104.0,15104.0,0.0,pass,total assets vs total liabilities and equity
+Q54,I-3 Y-1,7814.0,7814.0,0.0,pass,revenue - cost of sales vs gross profit
+Q54,I-4 Y-1,-366.0,-366.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q54,I-5 Y-1,344.0,344.0,0.0,pass,beginning cash + change vs ending cash
+Q54,I-6 Y-1,0.7175,0.81,-0.0925,fail,net income / diluted shares vs diluted EPS
+Q54,II-1 Y-1,633.0,633.0,0.0,pass,income statement vs cash-flow starting income
+Q54,II-2 Y-1,344.0,344.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q54,II-3,4024.0,4018.0,6.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q54,II-4,,,,untestable,missing ar or ch_ar
+Q54,II-5,689.0,324.0,365.0,fail,-change in balance-sheet inv vs cash-flow ch_inv
+Q54,II-6 rev,37028.0,37028.0,0.0,pass,sum of quarterly rev vs annual
+Q54,II-6 ni,-244.0,-244.0,0.0,pass,sum of quarterly ni vs annual
+Q54,III-1 rev,35925.0,35925.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q54,III-1 ni,403.0,403.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q54,III-1 ta,15104.0,15104.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q54,III-1 eq,,,,untestable,no prior-year 10-K value
+Q54,III-1 cfo,1004.0,1004.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q54,III-1 ar,,,,untestable,no prior-year 10-K value
+Q54,IV-1,,,,untestable,no matching sentence
+Q55,I-1 Y0,479.556,479.556,0.0,pass,total assets vs total liabilities and equity
+Q55,I-3 Y0,209.893,209.893,-0.0,pass,revenue - cost of sales vs gross profit
+Q55,I-4 Y0,12.552,12.552,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q55,I-5 Y0,26.328,26.328,0.0,pass,beginning cash + change vs ending cash
+Q55,I-6 Y0,1.9925,1.99,0.0025,pass,net income / diluted shares vs diluted EPS
+Q55,II-1 Y0,61.529,61.529,0.0,pass,income statement vs cash-flow starting income
+Q55,II-2 Y0,26.328,26.328,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q55,I-1 Y-1,418.896,418.896,0.0,pass,total assets vs total liabilities and equity
+Q55,I-3 Y-1,232.428,232.428,0.0,pass,revenue - cost of sales vs gross profit
+Q55,I-4 Y-1,-15.041,-15.041,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q55,I-5 Y-1,13.776,13.776,0.0,pass,beginning cash + change vs ending cash
+Q55,I-6 Y-1,2.2989,2.3,-0.0011,pass,net income / diluted shares vs diluted EPS
+Q55,II-1 Y-1,71.622,71.622,0.0,pass,income statement vs cash-flow starting income
+Q55,II-2 Y-1,13.776,13.776,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q55,II-3,422.555,422.555,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q55,II-4,16.781,16.223,0.558,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q55,II-5,16.929,17.284,-0.355,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q55,II-6 rev,450.008,450.008,0.0,pass,sum of quarterly rev vs annual
+Q55,II-6 ni,61.529,61.529,-0.0,pass,sum of quarterly ni vs annual
+Q55,III-1 rev,481.569,481.569,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q55,III-1 ni,71.622,71.622,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q55,III-1 ta,418.896,418.896,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q55,III-1 eq,371.288,371.288,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q55,III-1 cfo,,,,untestable,no prior-year 10-K value
+Q55,III-1 ar,,,,untestable,no prior-year 10-K value
+Q55,IV-1,,,,untestable,no matching sentence
+Q56,I-1 Y0,208559.0,208559.0,0.0,pass,total assets vs total liabilities and equity
+Q56,I-3 Y0,,,,untestable,no gross-profit line
+Q56,I-4 Y0,-1891.0,-1891.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q56,I-5 Y0,719.0,719.0,0.0,pass,beginning cash + change vs ending cash
+Q56,I-6 Y0,,,,untestable,shares or EPS not recorded
+Q56,II-1 Y0,-4921.0,-4921.0,0.0,pass,income statement vs cash-flow starting income
+Q56,II-2 Y0,719.0,719.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q56,I-1 Y-1,,,,untestable,missing items
+Q56,I-3 Y-1,,,,untestable,no gross-profit line
+Q56,I-4 Y-1,,,,untestable,cash-flow sections incomplete
+Q56,I-5 Y-1,,,,untestable,missing cash roll-forward
+Q56,I-6 Y-1,,,,untestable,shares or EPS not recorded
+Q56,II-1 Y-1,,,,untestable,no cash-flow starting income
+Q56,II-2 Y-1,,,,untestable,missing cash
+Q56,II-3,-3194.0,-3194.0,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q56,II-4,,,,untestable,missing ar or ch_ar
+Q56,II-5,,,,untestable,missing inv or ch_inv
+Q56,II-6 rev,38234.0,38234.0,0.0,pass,sum of quarterly rev vs annual
+Q56,II-6 ni,-4921.0,-4921.0,0.0,pass,sum of quarterly ni vs annual
+Q56,III-1 rev,,,,untestable,no prior-year 10-K value
+Q56,III-1 ni,,,,untestable,no prior-year 10-K value
+Q56,III-1 ta,,,,untestable,no prior-year 10-K value
+Q56,III-1 eq,,,,untestable,no prior-year 10-K value
+Q56,III-1 cfo,,,,untestable,no prior-year 10-K value
+Q56,III-1 ar,,,,untestable,no prior-year 10-K value
+Q56,IV-1,,,,untestable,no matching sentence
+Q57,I-1 Y0,5639.0,5639.0,0.0,pass,total assets vs total liabilities and equity
+Q57,I-3 Y0,667.0,667.0,0.0,pass,revenue - cost of sales vs gross profit
+Q57,I-4 Y0,29.0,29.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q57,I-5 Y0,132.0,132.0,0.0,pass,beginning cash + change vs ending cash
+Q57,I-6 Y0,-0.6122,-0.61,-0.0022,pass,net income / diluted shares vs diluted EPS
+Q57,II-1 Y0,127.0,127.0,0.0,pass,income statement vs cash-flow starting income
+Q57,II-2 Y0,132.0,132.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q57,I-1 Y-1,5448.0,5448.0,0.0,pass,total assets vs total liabilities and equity
+Q57,I-3 Y-1,591.0,591.0,0.0,pass,revenue - cost of sales vs gross profit
+Q57,I-4 Y-1,47.0,47.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q57,I-5 Y-1,103.0,103.0,0.0,pass,beginning cash + change vs ending cash
+Q57,I-6 Y-1,1.9588,1.96,-0.0012,pass,net income / diluted shares vs diluted EPS
+Q57,II-1 Y-1,100.0,100.0,0.0,pass,income statement vs cash-flow starting income
+Q57,II-2 Y-1,103.0,103.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q57,II-3,595.0,595.0,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q57,II-4,-270.0,-70.0,-200.0,fail,-change in balance-sheet ar vs cash-flow ch_ar
+Q57,II-5,-62.0,-59.0,-3.0,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q57,II-6 rev,8033.0,8033.0,0.0,pass,sum of quarterly rev vs annual
+Q57,II-6 ni,-42.0,-42.0,0.0,pass,sum of quarterly ni vs annual
+Q57,III-1 rev,6723.0,7788.0,-1065.0,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q57,III-1 ni,133.0,136.0,-3.0,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q57,III-1 ta,5448.0,5253.0,195.0,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q57,III-1 eq,925.0,899.0,26.0,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q57,III-1 cfo,274.0,255.0,19.0,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q57,III-1 ar,,,,untestable,no prior-year 10-K value
+Q57,IV-1 rev,8000.0,8033.0,-33.0,pass,"A summary of our results for fiscal 2004 is as follows:
+- Sales were $8.0 billion, up from $6.7 billion in fiscal 2003."
+Q57,IV-1 ni,42.0,-42.0,0.0,pass,"NET LOSS for fiscal 2004 was $42 million, or $0.61 per diluted share, compared to net income of $133 million, or $1.96 per diluted share, in the prior year."
+Q58,I-1 Y0,,,,untestable,total-assets row not independently reported
+Q58,I-3 Y0,,,,untestable,no gross-profit line
+Q58,I-4 Y0,253.147,253.147,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q58,I-5 Y0,286.658,286.658,0.0,pass,beginning cash + change vs ending cash
+Q58,I-6 Y0,-6.1557,-6.16,0.0043,pass,net income / diluted shares vs diluted EPS
+Q58,II-1 Y0,-852.241,-852.241,0.0,pass,income statement vs cash-flow starting income
+Q58,II-2 Y0,286.658,286.658,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q58,I-1 Y-1,,,,untestable,total-assets row not independently reported
+Q58,I-3 Y-1,,,,untestable,no gross-profit line
+Q58,I-4 Y-1,11.966,11.966,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q58,I-5 Y-1,33.511,33.511,0.0,pass,beginning cash + change vs ending cash
+Q58,I-6 Y-1,-0.245,-0.24,-0.005,pass,net income / diluted shares vs diluted EPS
+Q58,II-1 Y-1,-25.07,-25.07,0.0,pass,income statement vs cash-flow starting income
+Q58,II-2 Y-1,33.511,33.511,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q58,II-3,-917.104,-917.104,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q58,II-4,-110.432,-100.474,-9.958,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q58,II-5,,,,untestable,missing inv or ch_inv
+Q58,II-6 rev,,,,untestable,no quarterly table
+Q58,II-6 ni,,,,untestable,no quarterly table
+Q58,III-1 rev,253.3,253.3,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q58,III-1 ni,-25.07,-25.07,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q58,III-1 ta,523.43,523.43,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q58,III-1 eq,411.85,411.85,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q58,III-1 cfo,57.611,47.016,10.595,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q58,III-1 ar,,,,untestable,no prior-year 10-K value
+Q58,IV-1 rev,564.7,564.683,0.017,pass,"Total revenues were $564.7 million, $253.3 million and $138.1 million for fiscal year end 2001, 2000 and 1999, respectively, representing period-to-period increases of 123% and 83% for the fiscal 2001 and 2000 periods, respectively."
+Q59,I-1 Y0,8222.672,8222.672,0.0,pass,total assets vs total liabilities and equity
+Q59,I-3 Y0,,,,untestable,no gross-profit line
+Q59,I-4 Y0,128.586,128.586,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q59,I-5 Y0,254.27,254.27,0.0,pass,beginning cash + change vs ending cash
+Q59,I-6 Y0,,,,untestable,shares or EPS not recorded
+Q59,II-1 Y0,636.212,636.212,0.0,pass,income statement vs cash-flow starting income
+Q59,II-2 Y0,254.27,254.27,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q59,I-1 Y-1,7661.039,7661.039,0.0,pass,total assets vs total liabilities and equity
+Q59,I-3 Y-1,,,,untestable,no gross-profit line
+Q59,I-4 Y-1,-11.389,-11.389,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q59,I-5 Y-1,125.684,125.684,0.0,pass,beginning cash + change vs ending cash
+Q59,I-6 Y-1,,,,untestable,shares or EPS not recorded
+Q59,II-1 Y-1,576.394,576.394,0.0,pass,income statement vs cash-flow starting income
+Q59,II-2 Y-1,125.684,125.684,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q59,II-3,3437.185,3437.185,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q59,II-4,-49.818,-47.737,-2.081,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q59,II-5,9.282,11.341,-2.059,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q59,II-6 rev,4432.0,4432.608,-0.608,pass,sum of quarterly rev vs annual
+Q59,II-6 ni,636.0,636.212,-0.212,pass,sum of quarterly ni vs annual
+Q59,III-1 rev,4090.915,4220.517,-129.602,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q59,III-1 ni,576.394,576.394,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q59,III-1 ta,7661.039,7661.039,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q59,III-1 eq,1648.002,1648.002,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q59,III-1 cfo,772.028,767.118,4.91,fail,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q59,III-1 ar,382.406,382.406,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q59,IV-1,,,,untestable,no matching sentence
+Q60,I-1 Y0,,,,untestable,total-assets row not independently reported
+Q60,I-3 Y0,490.2,490.2,-0.0,pass,revenue - cost of sales vs gross profit
+Q60,I-4 Y0,-27.087,-27.087,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q60,I-5 Y0,44.748,44.748,0.0,pass,beginning cash + change vs ending cash
+Q60,I-6 Y0,,,,untestable,shares or EPS not recorded
+Q60,II-1 Y0,111.845,111.845,0.0,pass,income statement vs cash-flow starting income
+Q60,II-2 Y0,44.748,44.748,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q60,I-1 Y-1,,,,untestable,total-assets row not independently reported
+Q60,I-3 Y-1,430.01,430.01,0.0,pass,revenue - cost of sales vs gross profit
+Q60,I-4 Y-1,26.04,26.04,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q60,I-5 Y-1,71.835,71.835,0.0,pass,beginning cash + change vs ending cash
+Q60,I-6 Y-1,,,,untestable,shares or EPS not recorded
+Q60,II-1 Y-1,18.166,18.166,0.0,pass,income statement vs cash-flow starting income
+Q60,II-2 Y-1,71.835,71.835,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q60,II-3,1184.115,1184.115,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q60,II-4,36.301,28.909,7.392,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q60,II-5,25.837,32.482,-6.645,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q60,II-6 rev,3329.957,3329.957,0.0,pass,sum of quarterly rev vs annual
+Q60,II-6 ni,111.845,111.845,0.0,pass,sum of quarterly ni vs annual
+Q60,III-1 rev,3154.702,3154.702,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q60,III-1 ni,18.166,18.166,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q60,III-1 ta,,,,untestable,no prior-year 10-K value
+Q60,III-1 eq,910.24,910.24,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q60,III-1 cfo,269.148,269.148,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q60,III-1 ar,497.18,497.18,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q60,IV-1 rev,3300.0,3329.957,-29.957,pass,"Consolidated Results of Operations
+Consolidated net sales in 2002 were $3.3 billion, an increase of $100 million, or 5.6 percent, from $3.2 billion in 2001."
+Q61,I-1 Y0,28814.0,28814.0,0.0,pass,total assets vs total liabilities and equity
+Q61,I-3 Y0,,,,untestable,no gross-profit line
+Q61,I-4 Y0,19.0,47.0,-28.0,fail,CFO+CFI+CFF+FX vs net change in cash
+Q61,I-5 Y0,126.0,126.0,0.0,pass,beginning cash + change vs ending cash
+Q61,I-6 Y0,,,,untestable,shares or EPS not recorded
+Q61,II-1 Y0,1424.0,1424.0,0.0,pass,income statement vs cash-flow starting income
+Q61,II-2 Y0,126.0,126.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q61,I-1 Y-1,30024.0,30024.0,0.0,pass,total assets vs total liabilities and equity
+Q61,I-3 Y-1,,,,untestable,no gross-profit line
+Q61,I-4 Y-1,-174.0,4.0,-178.0,fail,CFO+CFI+CFF+FX vs net change in cash
+Q61,I-5 Y-1,79.0,79.0,0.0,pass,beginning cash + change vs ending cash
+Q61,I-6 Y-1,,,,untestable,shares or EPS not recorded
+Q61,II-1 Y-1,585.0,585.0,0.0,pass,income statement vs cash-flow starting income
+Q61,II-2 Y-1,79.0,79.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q61,II-3,,,,untestable,missing retained earnings or dividends
+Q61,II-4,49.0,-94.0,143.0,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q61,II-5,308.0,68.0,240.0,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q61,II-6 rev,19228.0,19228.0,0.0,pass,sum of quarterly rev vs annual
+Q61,II-6 ni,1424.0,1424.0,0.0,pass,sum of quarterly ni vs annual
+Q61,III-1 rev,19447.0,19449.0,-2.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q61,III-1 ni,395.0,395.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q61,III-1 ta,30024.0,30024.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q61,III-1 eq,,,,untestable,no prior-year 10-K value
+Q61,III-1 cfo,,,,untestable,no prior-year 10-K value
+Q61,III-1 ar,2671.0,2671.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q61,IV-1,,,,untestable,no matching sentence
+Q62,I-1 Y0,19659.0,19659.0,0.0,pass,total assets vs total liabilities and equity
+Q62,I-3 Y0,,,,untestable,no gross-profit line
+Q62,I-4 Y0,112.0,112.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q62,I-5 Y0,144.0,144.0,0.0,pass,beginning cash + change vs ending cash
+Q62,I-6 Y0,,,,untestable,shares or EPS not recorded
+Q62,II-1 Y0,652.0,652.0,0.0,pass,income statement vs cash-flow starting income
+Q62,II-2 Y0,144.0,144.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q62,I-1 Y-1,17805.0,17805.0,0.0,pass,total assets vs total liabilities and equity
+Q62,I-3 Y-1,,,,untestable,no gross-profit line
+Q62,I-4 Y-1,-13.0,-13.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q62,I-5 Y-1,32.0,32.0,0.0,pass,beginning cash + change vs ending cash
+Q62,I-6 Y-1,,,,untestable,shares or EPS not recorded
+Q62,II-1 Y-1,446.0,446.0,0.0,pass,income statement vs cash-flow starting income
+Q62,II-2 Y-1,32.0,32.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q62,II-3,1375.0,1375.0,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q62,II-4,1172.0,1547.0,-375.0,fail,-change in balance-sheet ar vs cash-flow ch_ar
+Q62,II-5,-122.0,-3.0,-119.0,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q62,II-6 rev,40877.0,40877.0,0.0,pass,sum of quarterly rev vs annual
+Q62,II-6 ni,652.0,652.0,0.0,pass,sum of quarterly ni vs annual
+Q62,III-1 rev,27938.0,27938.389,-0.389,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q62,III-1 ni,446.0,445.86,0.14,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q62,III-1 ta,17805.0,17804.93,0.07,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q62,III-1 eq,4076.0,4076.335,-0.335,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q62,III-1 cfo,,,,untestable,no prior-year 10-K value
+Q62,III-1 ar,,,,untestable,no prior-year 10-K value
+Q62,IV-1 rev,40900.0,40877.0,23.0,pass,"Revenues in each of the three years in the period ended December 31, 2001 totaled $40.9 billion, $27.9 billion and $15.4 billion, respectively."
+Q62,IV-1 ni,652.0,652.0,0.0,pass,"THREE YEARS ENDED DECEMBER 31, 2001
+For the year ended December 31, 2001, the Company realized net income of $652 million."
+Q63,I-1 Y0,1318.686,1318.686,0.0,pass,total assets vs total liabilities and equity
+Q63,I-3 Y0,1373.049,1373.049,-0.0,pass,revenue - cost of sales vs gross profit
+Q63,I-4 Y0,113.075,113.075,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q63,I-5 Y0,458.358,458.358,0.0,pass,beginning cash + change vs ending cash
+Q63,I-6 Y0,1.3641,1.36,0.0041,pass,net income / diluted shares vs diluted EPS
+Q63,II-1 Y0,237.87,237.87,0.0,pass,income statement vs cash-flow starting income
+Q63,II-2 Y0,458.358,458.358,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q63,I-1 Y-1,1198.657,1198.657,0.0,pass,total assets vs total liabilities and equity
+Q63,I-3 Y-1,1056.302,1056.302,-0.0,pass,revenue - cost of sales vs gross profit
+Q63,I-4 Y-1,58.781,58.781,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q63,I-5 Y-1,345.283,345.283,0.0,pass,beginning cash + change vs ending cash
+Q63,I-6 Y-1,0.795,0.79,0.005,pass,net income / diluted shares vs diluted EPS
+Q63,II-1 Y-1,140.604,140.604,0.0,pass,income statement vs cash-flow starting income
+Q63,II-2 Y-1,345.283,345.283,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q63,II-3,430.829,156.05,274.779,fail,RE(t-1) + NI - dividends vs RE(t)
+Q63,II-4,-59.619,-76.897,17.278,fail,-change in balance-sheet ar vs cash-flow ch_ar
+Q63,II-5,,,,untestable,missing inv or ch_inv
+Q63,II-6 rev,,,,untestable,no quarterly table
+Q63,II-6 ni,237.87,237.87,0.0,pass,sum of quarterly ni vs annual
+Q63,III-1 rev,,,,untestable,no prior-year 10-K value
+Q63,III-1 ni,140.604,140.604,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q63,III-1 ta,1198.657,1198.657,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q63,III-1 eq,911.87,911.87,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q63,III-1 cfo,161.833,161.833,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q63,III-1 ar,391.641,391.641,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q63,IV-1 rev,2600.0,3338.439,-738.439,pass,"Results of Operations for the Three Years Ended December 31, 2005
+Temporary and consultant staffing services revenues were $2.6 billion, $2.2 billion and $1.7 billion for the years ended December 31, 2005, 2004 and 2003, respectively, increasing by 21% and 25% in 2005 and 2004, respectively."
+Q63,IV-1 ni,238.0,237.87,0.13,pass,"Operating activities-Net cash provided by operating activities for the year ended December 31, 2005 was composed of net income of $238 million adjusted for non-cash items of $122 million, and net cash used for changes in working capital of $32 million."
+Q64,I-1 Y0,12299.813,12299.813,0.0,pass,total assets vs total liabilities and equity
+Q64,I-3 Y0,,,,untestable,no gross-profit line
+Q64,I-4 Y0,18.013,18.013,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q64,I-5 Y0,111.067,111.067,0.0,pass,beginning cash + change vs ending cash
+Q64,I-6 Y0,2.7797,2.75,0.0297,pass,net income / diluted shares vs diluted EPS
+Q64,II-1 Y0,442.279,442.279,0.0,pass,income statement vs cash-flow starting income
+Q64,II-2 Y0,111.067,111.067,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q64,I-1 Y-1,12329.728,12329.728,0.0,pass,total assets vs total liabilities and equity
+Q64,I-3 Y-1,,,,untestable,no gross-profit line
+Q64,I-4 Y-1,11.135,11.135,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q64,I-5 Y-1,93.054,93.054,0.0,pass,beginning cash + change vs ending cash
+Q64,I-6 Y-1,2.5133,2.5,0.0133,pass,net income / diluted shares vs diluted EPS
+Q64,II-1 Y-1,399.466,399.466,0.0,pass,income statement vs cash-flow starting income
+Q64,II-2 Y-1,93.054,93.054,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q64,II-3,1335.103,1337.135,-2.032,pass,RE(t-1) + NI - dividends vs RE(t)
+Q64,II-4,500.188,492.183,8.005,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q64,II-5,-81.472,-81.465,-0.007,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q64,II-6 rev,,,,untestable,no quarterly table
+Q64,II-6 ni,,,,untestable,no quarterly table
+Q64,III-1 rev,8421.964,8421.964,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q64,III-1 ni,399.466,399.466,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q64,III-1 ta,12329.728,12330.0,-0.272,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q64,III-1 eq,,,,untestable,no prior-year 10-K value
+Q64,III-1 cfo,,,,untestable,no prior-year 10-K value
+Q64,III-1 ar,1623.402,1623.402,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q64,IV-1,,,,untestable,no matching sentence
+Q65,I-1 Y0,696.604,696.604,0.0,pass,total assets vs total liabilities and equity
+Q65,I-3 Y0,,,,untestable,no gross-profit line
+Q65,I-4 Y0,35.789,35.789,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q65,I-5 Y0,224.665,224.665,0.0,pass,beginning cash + change vs ending cash
+Q65,I-6 Y0,-1.1512,-1.15,-0.0012,pass,net income / diluted shares vs diluted EPS
+Q65,II-1 Y0,-93.128,-93.128,0.0,pass,income statement vs cash-flow starting income
+Q65,II-2 Y0,224.665,224.665,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q65,I-1 Y-1,781.625,781.625,0.0,pass,total assets vs total liabilities and equity
+Q65,I-3 Y-1,,,,untestable,no gross-profit line
+Q65,I-4 Y-1,32.08,32.08,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q65,I-5 Y-1,188.876,188.876,-0.0,pass,beginning cash + change vs ending cash
+Q65,I-6 Y-1,-0.7034,-0.7,-0.0034,pass,net income / diluted shares vs diluted EPS
+Q65,II-1 Y-1,-55.424,-55.424,0.0,pass,income statement vs cash-flow starting income
+Q65,II-2 Y-1,188.876,188.876,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q65,II-3,-102.471,-102.471,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q65,II-4,5.108,6.61,-1.502,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q65,II-5,,,,untestable,missing inv or ch_inv
+Q65,II-6 rev,867.469,867.469,0.0,pass,sum of quarterly rev vs annual
+Q65,II-6 ni,,,,untestable,no quarterly table
+Q65,III-1 rev,903.937,903.937,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q65,III-1 ni,-55.424,-55.424,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q65,III-1 ta,781.625,781.625,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q65,III-1 eq,371.515,371.515,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q65,III-1 cfo,74.181,74.2,-0.019,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q65,III-1 ar,204.411,204.411,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q65,IV-1,,,,untestable,no matching sentence
+Q66,I-1 Y0,64610.651,64610.651,0.0,pass,total assets vs total liabilities and equity
+Q66,I-3 Y0,,,,untestable,no gross-profit line
+Q66,I-4 Y0,1165.778,1165.778,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q66,I-5 Y0,1652.47,1652.47,0.0,pass,beginning cash + change vs ending cash
+Q66,I-6 Y0,3.3098,3.29,0.0198,pass,net income / diluted shares vs diluted EPS
+Q66,II-1 Y0,1533.56,1533.56,0.0,pass,income statement vs cash-flow starting income
+Q66,II-2 Y0,1652.47,1652.47,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q66,I-1 Y-1,53175.005,53175.005,0.0,pass,total assets vs total liabilities and equity
+Q66,I-3 Y-1,,,,untestable,no gross-profit line
+Q66,I-4 Y-1,-0.306,-0.306,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q66,I-5 Y-1,486.692,486.692,0.0,pass,beginning cash + change vs ending cash
+Q66,I-6 Y-1,1.669,1.64,0.029,pass,net income / diluted shares vs diluted EPS
+Q66,II-1 Y-1,791.996,791.996,0.0,pass,income statement vs cash-flow starting income
+Q66,II-2 Y-1,486.692,486.692,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q66,II-3,3973.403,941.284,3032.119,fail,RE(t-1) + NI - dividends vs RE(t)
+Q66,II-4,,,,untestable,missing ar or ch_ar
+Q66,II-5,,,,untestable,missing inv or ch_inv
+Q66,II-6 rev,,,,untestable,no quarterly table
+Q66,II-6 ni,,,,untestable,no quarterly table
+Q66,III-1 rev,,,,untestable,no prior-year 10-K value
+Q66,III-1 ni,791.996,791.996,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q66,III-1 ta,53175.005,53175.005,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q66,III-1 eq,1997.95,1997.95,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q66,III-1 cfo,,,,untestable,no prior-year 10-K value
+Q66,III-1 ar,,,,untestable,no prior-year 10-K value
+Q66,IV-1 rev,259.0,4160.226,-3901.226,fail,"In total, the debt management businesses generated gross revenue of $259 million in 2003, an increase of 39 percent from the $186 million earned in 2002, and guarantor servicing fees increased by 21 percent to $128 million in 2003 versus $106 million in 2002."
+Q67,I-1 Y0,11439.0,11439.0,0.0,pass,total assets vs total liabilities and equity
+Q67,I-3 Y0,,,,untestable,no gross-profit line
+Q67,I-4 Y0,-360.0,-360.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q67,I-5 Y0,1595.0,1595.0,0.0,pass,beginning cash + change vs ending cash
+Q67,I-6 Y0,1.3537,1.36,-0.0063,pass,net income / diluted shares vs diluted EPS
+Q67,II-1 Y0,421.0,421.0,0.0,pass,income statement vs cash-flow starting income
+Q67,II-2 Y0,1595.0,1595.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q67,I-1 Y-1,11861.0,11861.0,0.0,pass,total assets vs total liabilities and equity
+Q67,I-3 Y-1,,,,untestable,no gross-profit line
+Q67,I-4 Y-1,901.0,901.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q67,I-5 Y-1,1955.0,1955.0,0.0,pass,beginning cash + change vs ending cash
+Q67,I-6 Y-1,5.2913,5.3,-0.0087,pass,net income / diluted shares vs diluted EPS
+Q67,II-1 Y-1,1635.0,1635.0,0.0,pass,income statement vs cash-flow starting income
+Q67,II-2 Y-1,1955.0,1955.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q67,II-3,6512.0,6512.0,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q67,II-4,428.0,399.0,29.0,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q67,II-5,185.0,240.0,-55.0,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q67,II-6 rev,9664.0,9664.0,0.0,pass,sum of quarterly rev vs annual
+Q67,II-6 ni,421.0,421.0,0.0,pass,sum of quarterly ni vs annual
+Q67,III-1 rev,11864.0,11864.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q67,III-1 ni,1635.0,1635.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q67,III-1 ta,11861.0,11861.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q67,III-1 eq,6807.0,6807.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q67,III-1 cfo,1614.0,1614.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q67,III-1 ar,2759.0,2759.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q67,IV-1 rev,9660.0,9664.0,-4.0,pass,"For 2009 we generated revenues of $9.66 billion, which is down $2.20 billion or 19% compared to 2008 and compared to a 31% decrease in the worldwide average rig count for the same time period."
+Q67,IV-1 ni,421.0,421.0,0.0,pass,Net income for 2009 was $421 million compared to $1.64 billion in 2008.
+Q68,I-1 Y0,,,,untestable,missing items
+Q68,I-3 Y0,,,,untestable,no gross-profit line
+Q68,I-4 Y0,28.369,28.369,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q68,I-5 Y0,716.459,716.459,0.0,pass,beginning cash + change vs ending cash
+Q68,I-6 Y0,,,,untestable,shares or EPS not recorded
+Q68,II-1 Y0,489.908,489.908,0.0,pass,income statement vs cash-flow starting income
+Q68,II-2 Y0,,,,untestable,missing cash
+Q68,I-1 Y-1,,,,untestable,missing items
+Q68,I-3 Y-1,,,,untestable,no gross-profit line
+Q68,I-4 Y-1,35.534,35.534,-0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q68,I-5 Y-1,688.09,688.09,0.0,pass,beginning cash + change vs ending cash
+Q68,I-6 Y-1,,,,untestable,shares or EPS not recorded
+Q68,II-1 Y-1,470.915,470.915,0.0,pass,income statement vs cash-flow starting income
+Q68,II-2 Y-1,,,,untestable,missing cash
+Q68,II-3,1922.832,1129.793,793.039,fail,RE(t-1) + NI - dividends vs RE(t)
+Q68,II-4,,,,untestable,missing ar or ch_ar
+Q68,II-5,,,,untestable,missing inv or ch_inv
+Q68,II-6 rev,,,,untestable,no quarterly table
+Q68,II-6 ni,,,,untestable,no quarterly table
+Q68,III-1 rev,,,,untestable,no prior-year 10-K value
+Q68,III-1 ni,470.915,470.915,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q68,III-1 ta,36434.715,36434.715,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q68,III-1 eq,2754.417,2754.417,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q68,III-1 cfo,,,,untestable,no prior-year 10-K value
+Q68,III-1 ar,,,,untestable,no prior-year 10-K value
+Q68,IV-1,,,,untestable,no matching sentence
+Q69,I-1 Y0,,,,untestable,total-assets row not independently reported
+Q69,I-3 Y0,,,,untestable,no gross-profit line
+Q69,I-4 Y0,40.852,40.852,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q69,I-5 Y0,52.378,52.378,0.0,pass,beginning cash + change vs ending cash
+Q69,I-6 Y0,1.2499,1.25,-0.0001,pass,net income / diluted shares vs diluted EPS
+Q69,II-1 Y0,109.415,109.415,0.0,pass,income statement vs cash-flow starting income
+Q69,II-2 Y0,52.378,52.378,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q69,I-1 Y-1,,,,untestable,total-assets row not independently reported
+Q69,I-3 Y-1,,,,untestable,no gross-profit line
+Q69,I-4 Y-1,-16.747,-16.747,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q69,I-5 Y-1,11.526,11.526,0.0,pass,beginning cash + change vs ending cash
+Q69,I-6 Y-1,-2.7526,-2.75,-0.0026,pass,net income / diluted shares vs diluted EPS
+Q69,II-1 Y-1,-228.262,-228.262,0.0,pass,income statement vs cash-flow starting income
+Q69,II-2 Y-1,11.526,11.526,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q69,II-3,141.134,141.134,0.0,pass,RE(t-1) + NI - dividends vs RE(t)
+Q69,II-4,-82.112,-84.576,2.464,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q69,II-5,-93.928,-100.81,6.882,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q69,II-6 rev,1168.2,1168.182,0.018,pass,sum of quarterly rev vs annual
+Q69,II-6 ni,109.4,109.415,-0.015,pass,sum of quarterly ni vs annual
+Q69,III-1 rev,984.236,984.236,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q69,III-1 ni,-228.262,-228.262,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q69,III-1 ta,1072.709,1072.7,0.009,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q69,III-1 eq,395.252,395.252,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q69,III-1 cfo,14.163,14.163,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q69,III-1 ar,213.438,213.438,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q69,IV-1 rev,1168.2,1168.182,0.018,pass,"Net sales from continuing operations for 1997 were $1,168.2 million, an increase of $183.9 million or 18.7% over 1996."
+Q70,I-1 Y0,81981.0,81981.0,0.0,pass,total assets vs total liabilities and equity
+Q70,I-3 Y0,,,,untestable,no gross-profit line
+Q70,I-4 Y0,2489.0,2489.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q70,I-5 Y0,16400.0,16400.0,0.0,pass,beginning cash + change vs ending cash
+Q70,I-6 Y0,2.1732,2.18,-0.0068,pass,net income / diluted shares vs diluted EPS
+Q70,II-1 Y0,6198.0,6198.0,0.0,pass,income statement vs cash-flow starting income
+Q70,II-2 Y0,16400.0,16400.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q70,I-1 Y-1,77317.0,77317.0,0.0,pass,total assets vs total liabilities and equity
+Q70,I-3 Y-1,,,,untestable,no gross-profit line
+Q70,I-4 Y-1,1248.0,1248.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q70,I-5 Y-1,13911.0,13911.0,0.0,pass,beginning cash + change vs ending cash
+Q70,I-6 Y-1,0.8243,0.82,0.0043,pass,net income / diluted shares vs diluted EPS
+Q70,II-1 Y-1,2398.0,2398.0,0.0,pass,income statement vs cash-flow starting income
+Q70,II-2 Y-1,13911.0,13911.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q70,II-3,21983.0,20729.0,1254.0,fail,RE(t-1) + NI - dividends vs RE(t)
+Q70,II-4,-970.0,-882.0,-88.0,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q70,II-5,-873.0,-1109.0,236.0,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q70,II-6 rev,91658.0,91658.0,0.0,pass,sum of quarterly rev vs annual
+Q70,II-6 ni,6198.0,6198.0,0.0,pass,sum of quarterly ni vs annual
+Q70,III-1 rev,86696.0,86696.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q70,III-1 ni,2398.0,2398.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q70,III-1 ta,77317.0,77317.0,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q70,III-1 eq,,,,untestable,no prior-year 10-K value
+Q70,III-1 cfo,,,,untestable,no prior-year 10-K value
+Q70,III-1 ar,,,,untestable,no prior-year 10-K value
+Q70,IV-1 ni,11400.0,6198.0,5202.0,fail,Net earnings in fiscal 2006 helped generate $11.4 billion in cash from operating activities.
+Q71,I-1 Y0,10037.0,10037.0,0.0,pass,total assets vs total liabilities and equity
+Q71,I-3 Y0,3373.0,3373.0,0.0,pass,revenue - cost of sales vs gross profit
+Q71,I-4 Y0,946.0,946.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q71,I-5 Y0,2868.0,2868.0,0.0,pass,beginning cash + change vs ending cash
+Q71,I-6 Y0,0.771,0.77,0.001,pass,net income / diluted shares vs diluted EPS
+Q71,II-1 Y0,229.0,229.0,0.0,pass,income statement vs cash-flow starting income
+Q71,II-2 Y0,2868.0,2868.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q71,I-1 Y-1,9401.0,9401.0,0.0,pass,total assets vs total liabilities and equity
+Q71,I-3 Y-1,3833.0,3833.0,0.0,pass,revenue - cost of sales vs gross profit
+Q71,I-4 Y-1,-369.0,-369.0,0.0,pass,CFO+CFI+CFF+FX vs net change in cash
+Q71,I-5 Y-1,1922.0,1922.0,0.0,pass,beginning cash + change vs ending cash
+Q71,I-6 Y-1,1.7445,1.75,-0.0055,pass,net income / diluted shares vs diluted EPS
+Q71,II-1 Y-1,560.0,560.0,0.0,pass,income statement vs cash-flow starting income
+Q71,II-2 Y-1,1922.0,1922.0,0.0,pass,cash-flow ending cash vs balance-sheet cash
+Q71,II-3,72.0,0.0,72.0,fail,RE(t-1) + NI - dividends vs RE(t)
+Q71,II-4,-34.0,-16.0,-18.0,pass,-change in balance-sheet ar vs cash-flow ch_ar
+Q71,II-5,48.0,49.0,-1.0,pass,-change in balance-sheet inv vs cash-flow ch_inv
+Q71,II-6 rev,5546.0,5546.0,0.0,pass,sum of quarterly rev vs annual
+Q71,II-6 ni,229.0,229.0,0.0,pass,sum of quarterly ni vs annual
+Q71,III-1 rev,6123.0,6122.7,0.3,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q71,III-1 ni,560.0,559.9,0.1,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q71,III-1 ta,9401.0,9401.2,-0.2,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q71,III-1 eq,3414.0,3414.1,-0.1,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q71,III-1 cfo,1268.0,1268.1,-0.1,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q71,III-1 ar,779.0,778.9,0.1,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q71,IV-1 rev,188.0,5546.0,-5358.0,fail,"·
+Deferred revenue and financed unearned services revenue: Total deferred revenue and financed unearned services revenue increased $188 million, or 6%, in fiscal 2016 compared to fiscal 2015 primarily due to higher software and hardware maintenance contract renewals."
+Q71,IV-1 ni,229.0,229.0,0.0,pass,"Cash Flows from Operating Activities
+During fiscal 2016, we generated cash from operating activities of $974 million, reflecting net income of $229 million, adjusted by non-cash depreciation and amortization of $279 million, stock-based compensation of $260 million, partially offset by adjustments f"
+Q72,I-1 Y0,15102.401,15102.401,0.0,pass,total assets vs total liabilities and equity
+Q72,I-3 Y0,,,,untestable,no gross-profit line
+Q72,I-4 Y0,,,,untestable,cash-flow sections incomplete
+Q72,I-5 Y0,2535.726,2535.726,0.0,pass,beginning cash + change vs ending cash
+Q72,I-6 Y0,,,,untestable,shares or EPS not recorded
+Q72,II-1 Y0,,,,untestable,no cash-flow starting income
+Q72,II-2 Y0,2535.726,64.94,2470.786,fail,cash-flow ending cash vs balance-sheet cash
+Q72,I-1 Y-1,10393.996,10393.996,0.0,pass,total assets vs total liabilities and equity
+Q72,I-3 Y-1,,,,untestable,no gross-profit line
+Q72,I-4 Y-1,,,,untestable,cash-flow sections incomplete
+Q72,I-5 Y-1,954.722,954.722,0.0,pass,beginning cash + change vs ending cash
+Q72,I-6 Y-1,,,,untestable,shares or EPS not recorded
+Q72,II-1 Y-1,,,,untestable,no cash-flow starting income
+Q72,II-2 Y-1,954.722,84.713,870.009,fail,cash-flow ending cash vs balance-sheet cash
+Q72,II-3,1196.1,1187.294,8.806,pass,RE(t-1) + NI - dividends vs RE(t)
+Q72,II-4,,,,untestable,missing ar or ch_ar
+Q72,II-5,,,,untestable,missing inv or ch_inv
+Q72,II-6 rev,,,,untestable,no quarterly table
+Q72,II-6 ni,489.625,489.625,0.0,pass,sum of quarterly ni vs annual
+Q72,III-1 rev,,,,untestable,no prior-year 10-K value
+Q72,III-1 ni,321.299,321.299,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q72,III-1 ta,10393.996,10393.996,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q72,III-1 eq,1592.44,1592.44,0.0,pass,Y-1 figure in Y0 10-K vs Y-1 10-K as filed
+Q72,III-1 cfo,,,,untestable,no prior-year 10-K value
+Q72,III-1 ar,,,,untestable,no prior-year 10-K value
+Q72,IV-1,,,,untestable,no matching sentence

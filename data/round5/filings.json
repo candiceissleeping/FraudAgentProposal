@@ -1,0 +1,1638 @@
+{
+ "Q01": {
+  "name": "Roadrunner Transportation",
+  "cik": "1440024",
+  "year": 2015,
+  "industry": "transportation",
+  "group": "treatment",
+  "filings": {
+   "2015": {
+    "form": "10-K",
+    "acc": "0001440024-16-000049",
+    "filed": "2016-03-01",
+    "period": "2015-12-31",
+    "doc": "rrts-20151231x10k.htm"
+   },
+   "2014": {
+    "form": "10-K",
+    "acc": "0001440024-15-000008",
+    "filed": "2015-03-02",
+    "period": "2014-12-31",
+    "doc": "rrts-20141231x10k.htm"
+   }
+  }
+ },
+ "Q02": {
+  "name": "Activision",
+  "cik": "718877",
+  "year": 2000,
+  "industry": "software",
+  "group": "control",
+  "filings": {
+   "2000": {
+    "form": "10-K",
+    "acc": "0000912057-00-030433",
+    "filed": "2000-06-29",
+    "period": "2000-03-31",
+    "doc": "a10-k.txt"
+   },
+   "1999": {
+    "form": "10-K",
+    "acc": "0001047469-99-025826",
+    "filed": "1999-06-29",
+    "period": "1999-03-31",
+    "doc": ""
+   }
+  }
+ },
+ "Q03": {
+  "name": "Dollar General",
+  "cik": "29534",
+  "year": 2000,
+  "industry": "retail",
+  "group": "treatment",
+  "filings": {
+   "2000": {
+    "form": "10-K",
+    "acc": "0000914317-00-000307",
+    "filed": "2000-04-27",
+    "period": "2000-01-28",
+    "doc": ""
+   },
+   "1999": {
+    "form": "10-K",
+    "acc": "0000914317-99-000239",
+    "filed": "1999-04-26",
+    "period": "1999-01-29",
+    "doc": ""
+   }
+  }
+ },
+ "Q04": {
+  "name": "Lear Corp",
+  "cik": "842162",
+  "year": 2003,
+  "industry": "auto parts",
+  "group": "control",
+  "filings": {
+   "2003": {
+    "form": "10-K",
+    "acc": "0000950124-04-000921",
+    "filed": "2004-03-15",
+    "period": "2003-12-31",
+    "doc": "k82537e10vk.htm"
+   },
+   "2002": {
+    "form": "10-K",
+    "acc": "0000950124-03-000793",
+    "filed": "2003-03-21",
+    "period": "2002-12-31",
+    "doc": "k74351e10vk.htm"
+   }
+  }
+ },
+ "Q05": {
+  "name": "Celadon Group",
+  "cik": "865941",
+  "year": 2016,
+  "industry": "transportation",
+  "group": "treatment",
+  "filings": {
+   "2016": {
+    "form": "10-K",
+    "acc": "0001008886-16-000363",
+    "filed": "2016-09-13",
+    "period": "2016-06-30",
+    "doc": "form10k.htm"
+   },
+   "2015": {
+    "form": "10-K",
+    "acc": "0001008886-15-000210",
+    "filed": "2015-09-10",
+    "period": "2015-06-30",
+    "doc": "form10k.htm"
+   }
+  }
+ },
+ "Q06": {
+  "name": "Saks Inc",
+  "cik": "812900",
+  "year": 2004,
+  "industry": "retail",
+  "group": "treatment",
+  "filings": {
+   "2004": {
+    "form": "10-K",
+    "acc": "0001193125-04-062258",
+    "filed": "2004-04-14",
+    "period": "2004-01-31",
+    "doc": "d10k.htm"
+   },
+   "2003": {
+    "form": "10-K",
+    "acc": "0000931763-03-001253",
+    "filed": "2003-04-30",
+    "period": "2003-02-01",
+    "doc": "d10k.htm"
+   }
+  }
+ },
+ "Q07": {
+  "name": "Visteon",
+  "cik": "1111335",
+  "year": 2003,
+  "industry": "auto parts",
+  "group": "treatment",
+  "filings": {
+   "2003": {
+    "form": "10-K",
+    "acc": "0000950124-04-000444",
+    "filed": "2004-02-13",
+    "period": "2003-12-31",
+    "doc": "k82535e10vk.htm"
+   },
+   "2002": {
+    "form": "10-K",
+    "acc": "0000950124-03-000355",
+    "filed": "2003-02-14",
+    "period": "2002-12-31",
+    "doc": "k74415e10vk.htm"
+   }
+  }
+ },
+ "Q08": {
+  "name": "DeVry",
+  "cik": "730464",
+  "year": 2013,
+  "industry": "services",
+  "group": "control",
+  "filings": {
+   "2013": {
+    "form": "10-K",
+    "acc": "0001144204-13-048520",
+    "filed": "2013-08-29",
+    "period": "2013-06-30",
+    "doc": "v352578_10k.htm"
+   },
+   "2012": {
+    "form": "10-K",
+    "acc": "0001193125-12-372041",
+    "filed": "2012-08-28",
+    "period": "2012-06-30",
+    "doc": "d365898d10k.htm"
+   }
+  }
+ },
+ "Q09": {
+  "name": "Tenet Healthcare",
+  "cik": "70318",
+  "year": 2002,
+  "industry": "healthcare",
+  "group": "treatment",
+  "filings": {
+   "2002": {
+    "form": "10-K",
+    "acc": "0000897101-02-000564",
+    "filed": "2002-08-14",
+    "period": "2002-05-31",
+    "doc": "tenet023722_10k.htm"
+   },
+   "2001": {
+    "form": "10-K405",
+    "acc": "0000912057-01-529717",
+    "filed": "2001-08-21",
+    "period": "2001-05-31",
+    "doc": "a2056090z10-k405.htm"
+   }
+  }
+ },
+ "Q10": {
+  "name": "Symbol Technologies",
+  "cik": "278352",
+  "year": 2001,
+  "industry": "tech hardware",
+  "group": "treatment",
+  "filings": {
+   "2001": {
+    "form": "10-K",
+    "acc": "0000278352-02-000007",
+    "filed": "2002-03-26",
+    "period": "2001-12-31",
+    "doc": "final10k2001.txt"
+   },
+   "2000": {
+    "form": "10-K",
+    "acc": "0000278352-01-000006",
+    "filed": "2001-03-30",
+    "period": "2000-12-31",
+    "doc": "0001.txt"
+   }
+  }
+ },
+ "Q11": {
+  "name": "Aetna",
+  "cik": "1122304",
+  "year": 2005,
+  "industry": "healthcare",
+  "group": "control",
+  "filings": {
+   "2005": {
+    "form": "10-K",
+    "acc": "0000950123-06-002414",
+    "filed": "2006-03-01",
+    "period": "2005-12-31",
+    "doc": "y17660e10vk.htm"
+   },
+   "2004": {
+    "form": "10-K",
+    "acc": "0000950123-05-002487",
+    "filed": "2005-03-01",
+    "period": "2004-12-31",
+    "doc": "y05912e10vk.htm"
+   }
+  }
+ },
+ "Q12": {
+  "name": "Target Corp",
+  "cik": "27419",
+  "year": 2001,
+  "industry": "retail",
+  "group": "control",
+  "filings": {
+   "2001": {
+    "form": "10-K",
+    "acc": "0000912057-01-508754",
+    "filed": "2001-04-16",
+    "period": "2001-02-03",
+    "doc": "a2040678z10-k.htm"
+   },
+   "2000": {
+    "form": "10-K",
+    "acc": "0000912057-00-017053",
+    "filed": "2000-04-10",
+    "period": "2000-01-29",
+    "doc": "0000912057-00-017053-d1.html"
+   }
+  }
+ },
+ "Q13": {
+  "name": "Computer Associates",
+  "cik": "356028",
+  "year": 2001,
+  "industry": "software",
+  "group": "treatment",
+  "filings": {
+   "2001": {
+    "form": "10-K",
+    "acc": "0000356028-01-500018",
+    "filed": "2001-06-08",
+    "period": "2001-03-31",
+    "doc": "ca10k-fy2001.htm"
+   },
+   "2000": {
+    "form": "10-K",
+    "acc": "0000356028-00-000020",
+    "filed": "2000-06-09",
+    "period": "2000-03-31",
+    "doc": "0001.txt"
+   }
+  }
+ },
+ "Q14": {
+  "name": "Chubb Corp",
+  "cik": "20171",
+  "year": 2004,
+  "industry": "financial",
+  "group": "control",
+  "filings": {
+   "2004": {
+    "form": "10-K",
+    "acc": "0000950123-05-003142",
+    "filed": "2005-03-15",
+    "period": "2004-12-31",
+    "doc": "y98123e10vk.htm"
+   },
+   "2003": {
+    "form": "10-K",
+    "acc": "0000950123-04-003193",
+    "filed": "2004-03-11",
+    "period": "2003-12-31",
+    "doc": "y87394e10vk.htm"
+   }
+  }
+ },
+ "Q15": {
+  "name": "UnitedHealth Group",
+  "cik": "731766",
+  "year": 2005,
+  "industry": "healthcare",
+  "group": "treatment",
+  "filings": {
+   "2005": {
+    "form": "10-K",
+    "acc": "0001193125-06-038949",
+    "filed": "2006-02-24",
+    "period": "2005-12-31",
+    "doc": "d10k.htm"
+   },
+   "2004": {
+    "form": "10-K",
+    "acc": "0001193125-05-039947",
+    "filed": "2005-03-01",
+    "period": "2004-12-31",
+    "doc": "d10k.htm"
+   }
+  }
+ },
+ "Q16": {
+  "name": "CMS Energy",
+  "cik": "811156",
+  "year": 2001,
+  "industry": "energy",
+  "group": "treatment",
+  "filings": {
+   "2001": {
+    "form": "10-K",
+    "acc": "0000950124-02-001143",
+    "filed": "2002-03-29",
+    "period": "2001-12-31",
+    "doc": "k67879e10-k.txt"
+   },
+   "2000": {
+    "form": "10-K",
+    "acc": "0000950124-01-001548",
+    "filed": "2001-03-23",
+    "period": "2000-12-31",
+    "doc": "k60932e10-k.txt"
+   }
+  }
+ },
+ "Q17": {
+  "name": "Halliburton",
+  "cik": "45012",
+  "year": 1998,
+  "industry": "energy",
+  "group": "treatment",
+  "filings": {
+   "1998": {
+    "form": "10-K",
+    "acc": "0000045012-99-000005",
+    "filed": "1999-03-23",
+    "period": "1998-12-31",
+    "doc": ""
+   },
+   "1997": {
+    "form": "10-K",
+    "acc": "0000045012-98-000008",
+    "filed": "1998-02-24",
+    "period": "1997-12-31",
+    "doc": ""
+   }
+  }
+ },
+ "Q18": {
+  "name": "PACCAR",
+  "cik": "75362",
+  "year": 2004,
+  "industry": "transportation",
+  "group": "control",
+  "filings": {
+   "2004": {
+    "form": "10-K",
+    "acc": "0001104659-05-009484",
+    "filed": "2005-03-04",
+    "period": "2004-12-31",
+    "doc": "a05-1783_110k.htm"
+   },
+   "2003": {
+    "form": "10-K",
+    "acc": "0001104659-04-007210",
+    "filed": "2004-03-12",
+    "period": "2003-12-31",
+    "doc": "ba_10k.htm"
+   }
+  }
+ },
+ "Q19": {
+  "name": "Dillard's",
+  "cik": "28917",
+  "year": 2004,
+  "industry": "retail",
+  "group": "control",
+  "filings": {
+   "2004": {
+    "form": "10-K",
+    "acc": "0000028917-04-000028",
+    "filed": "2004-04-13",
+    "period": "2004-01-31",
+    "doc": "f10k_013104.htm"
+   },
+   "2003": {
+    "form": "10-K",
+    "acc": "0000028917-03-000046",
+    "filed": "2003-04-10",
+    "period": "2003-02-01",
+    "doc": "f10k_020103.htm"
+   }
+  }
+ },
+ "Q20": {
+  "name": "McKesson",
+  "cik": "927653",
+  "year": 2003,
+  "industry": "healthcare",
+  "group": "control",
+  "filings": {
+   "2003": {
+    "form": "10-K",
+    "acc": "0000950149-03-001297",
+    "filed": "2003-06-06",
+    "period": "2003-03-31",
+    "doc": "f90251e10vk.htm"
+   },
+   "2002": {
+    "form": "10-K",
+    "acc": "0000950149-02-001196",
+    "filed": "2002-06-12",
+    "period": "2002-03-31",
+    "doc": "f82011e10vk.htm"
+   }
+  }
+ },
+ "Q21": {
+  "name": "Universal Health Services",
+  "cik": "352915",
+  "year": 2002,
+  "industry": "healthcare",
+  "group": "control",
+  "filings": {
+   "2002": {
+    "form": "10-K",
+    "acc": "0000931763-03-000570",
+    "filed": "2003-03-19",
+    "period": "2002-12-31",
+    "doc": "d10k.htm"
+   },
+   "2001": {
+    "form": "10-K",
+    "acc": "0000928385-02-001053",
+    "filed": "2002-03-26",
+    "period": "2001-12-31",
+    "doc": "d10k.txt"
+   }
+  }
+ },
+ "Q22": {
+  "name": "Goodyear Tire",
+  "cik": "42582",
+  "year": 2002,
+  "industry": "auto parts",
+  "group": "treatment",
+  "filings": {
+   "2002": {
+    "form": "10-K",
+    "acc": "0000950152-03-003920",
+    "filed": "2003-04-03",
+    "period": "2002-12-31",
+    "doc": "l99117ae10vk.htm"
+   },
+   "2001": {
+    "form": "10-K",
+    "acc": "0000950152-02-001645",
+    "filed": "2002-03-11",
+    "period": "2001-12-31",
+    "doc": "l92979ae10-k.htm"
+   }
+  }
+ },
+ "Q23": {
+  "name": "ITT Educational Services",
+  "cik": "922475",
+  "year": 2013,
+  "industry": "services",
+  "group": "treatment",
+  "filings": {
+   "2013": {
+    "form": "10-K",
+    "acc": "0001193125-14-373244",
+    "filed": "2014-10-16",
+    "period": "2013-12-31",
+    "doc": "d656177d10k.htm"
+   },
+   "2012": {
+    "form": "10-K",
+    "acc": "0001193125-13-071683",
+    "filed": "2013-02-22",
+    "period": "2012-12-31",
+    "doc": "d444611d10k.htm"
+   }
+  }
+ },
+ "Q24": {
+  "name": "American International Group",
+  "cik": "5272",
+  "year": 2004,
+  "industry": "financial",
+  "group": "treatment",
+  "filings": {
+   "2004": {
+    "form": "10-K",
+    "acc": "0000950123-05-006884",
+    "filed": "2005-05-31",
+    "period": "2004-12-31",
+    "doc": "y03319e10vk.htm"
+   },
+   "2003": {
+    "form": "10-K",
+    "acc": "0000950123-04-003302",
+    "filed": "2004-03-15",
+    "period": "2003-12-31",
+    "doc": "y92059e10vk.htm"
+   }
+  }
+ },
+ "Q25": {
+  "name": "Weatherford International",
+  "cik": "1453090",
+  "year": 2009,
+  "industry": "energy",
+  "group": "treatment",
+  "filings": {
+   "2009": {
+    "form": "10-K",
+    "acc": "0000950123-10-019083",
+    "filed": "2010-03-01",
+    "period": "2009-12-31",
+    "doc": "h69758e10vk.htm"
+   }
+  }
+ },
+ "Q26": {
+  "name": "BMC Software",
+  "cik": "835729",
+  "year": 2001,
+  "industry": "software",
+  "group": "control",
+  "filings": {
+   "2001": {
+    "form": "10-K",
+    "acc": "0000950129-01-501355",
+    "filed": "2001-06-14",
+    "period": "2001-03-31",
+    "doc": "h88181e10-k.txt"
+   },
+   "2000": {
+    "form": "10-K",
+    "acc": "0000950129-00-003504",
+    "filed": "2000-06-29",
+    "period": "2000-03-31",
+    "doc": "e10-k.txt"
+   }
+  }
+ },
+ "Q27": {
+  "name": "Viacom",
+  "cik": "813828",
+  "year": 2001,
+  "industry": "media",
+  "group": "control",
+  "filings": {
+   "2001": {
+    "form": "10-K405",
+    "acc": "0000912057-02-012516",
+    "filed": "2002-03-29",
+    "period": "2001-12-31",
+    "doc": "a2073981z10-k405.htm"
+   },
+   "2000": {
+    "form": "10-K",
+    "acc": "0000950130-01-500372",
+    "filed": "2001-03-28",
+    "period": "2000-12-31",
+    "doc": "d10k.txt"
+   }
+  }
+ },
+ "Q28": {
+  "name": "Navistar International",
+  "cik": "808450",
+  "year": 2004,
+  "industry": "transportation",
+  "group": "treatment",
+  "filings": {
+   "2004": {
+    "form": "10-K",
+    "acc": "0000808450-05-000025",
+    "filed": "2005-02-15",
+    "period": "2004-10-31",
+    "doc": "form10k-103104.htm"
+   },
+   "2003": {
+    "form": "10-K",
+    "acc": "0000950137-03-006419",
+    "filed": "2003-12-19",
+    "period": "2003-10-31",
+    "doc": "c81586e10vk.htm"
+   }
+  }
+ },
+ "Q29": {
+  "name": "Dell Inc",
+  "cik": "826083",
+  "year": 2006,
+  "industry": "tech hardware",
+  "group": "treatment",
+  "filings": {
+   "2006": {
+    "form": "10-K",
+    "acc": "0000950134-06-005149",
+    "filed": "2006-03-15",
+    "period": "2006-02-03",
+    "doc": "d33857e10vk.htm"
+   },
+   "2005": {
+    "form": "10-K",
+    "acc": "0000950134-05-004423",
+    "filed": "2005-03-08",
+    "period": "2005-01-28",
+    "doc": "d22995e10vk.htm"
+   }
+  }
+ },
+ "Q30": {
+  "name": "Schlumberger",
+  "cik": "87347",
+  "year": 1998,
+  "industry": "energy",
+  "group": "control",
+  "filings": {
+   "1998": {
+    "form": "10-K405",
+    "acc": "0000950130-99-001807",
+    "filed": "1999-03-30",
+    "period": "1998-12-31",
+    "doc": ""
+   },
+   "1997": {
+    "form": "10-K405",
+    "acc": "0000950130-98-001558",
+    "filed": "1998-03-30",
+    "period": "1997-12-31",
+    "doc": ""
+   }
+  }
+ },
+ "Q31": {
+  "name": "Charter Communications",
+  "cik": "1091667",
+  "year": 2001,
+  "industry": "media",
+  "group": "treatment",
+  "filings": {
+   "2001": {
+    "form": "10-K405",
+    "acc": "0000950123-02-003204",
+    "filed": "2002-03-29",
+    "period": "2001-12-31",
+    "doc": "y58890e10-k405.htm"
+   },
+   "2000": {
+    "form": "10-K",
+    "acc": "0000950123-01-002038",
+    "filed": "2001-03-06",
+    "period": "2000-12-31",
+    "doc": "y44579tke10-k.txt"
+   }
+  }
+ },
+ "Q32": {
+  "name": "Compuware",
+  "cik": "859014",
+  "year": 2001,
+  "industry": "software",
+  "group": "control",
+  "filings": {
+   "2001": {
+    "form": "10-K",
+    "acc": "0000950124-01-502149",
+    "filed": "2001-06-27",
+    "period": "2001-03-31",
+    "doc": "k63445e10-k.txt"
+   },
+   "2000": {
+    "form": "10-K",
+    "acc": "0000950124-00-003878",
+    "filed": "2000-06-26",
+    "period": "2000-03-31",
+    "doc": "e10-k.txt"
+   }
+  }
+ },
+ "Q33": {
+  "name": "Fannie Mae",
+  "cik": "310522",
+  "year": 2003,
+  "industry": "financial",
+  "group": "treatment",
+  "filings": {
+   "2003": {
+    "form": "10-K",
+    "acc": "0000950133-04-000928",
+    "filed": "2004-03-15",
+    "period": "2003-12-31",
+    "doc": "w92188e10vk.htm"
+   },
+   "2002": {
+    "form": "10-K",
+    "acc": "0000950133-03-001151",
+    "filed": "2003-03-31",
+    "period": "2002-12-31",
+    "doc": "w84239e10vk.htm"
+   }
+  }
+ },
+ "Q34": {
+  "name": "Dominion Resources",
+  "cik": "715957",
+  "year": 2001,
+  "industry": "energy",
+  "group": "control",
+  "filings": {
+   "2001": {
+    "form": "10-K",
+    "acc": "0000916641-02-000388",
+    "filed": "2002-03-11",
+    "period": "2001-12-31",
+    "doc": "d10k.htm"
+   },
+   "2000": {
+    "form": "10-K405",
+    "acc": "0000916641-01-000361",
+    "filed": "2001-03-20",
+    "period": "2000-12-31",
+    "doc": "0001.txt"
+   }
+  }
+ },
+ "Q35": {
+  "name": "Family Dollar",
+  "cik": "34408",
+  "year": 2000,
+  "industry": "retail",
+  "group": "control",
+  "filings": {
+   "2000": {
+    "form": "10-K",
+    "acc": "0000034408-00-000013",
+    "filed": "2000-11-22",
+    "period": "2000-08-26",
+    "doc": "0001.txt"
+   },
+   "1999": {
+    "form": "10-K",
+    "acc": "0000034408-99-000013",
+    "filed": "1999-11-24",
+    "period": "1999-08-28",
+    "doc": ""
+   }
+  }
+ },
+ "Q36": {
+  "name": "Panera Bread",
+  "cik": "724606",
+  "year": 2004,
+  "industry": "consumer",
+  "group": "control",
+  "filings": {
+   "2004": {
+    "form": "10-K",
+    "acc": "0000950137-05-003157",
+    "filed": "2005-03-17",
+    "period": "2004-12-25",
+    "doc": "c93048e10vk.htm"
+   },
+   "2003": {
+    "form": "10-K",
+    "acc": "0000950137-04-001723",
+    "filed": "2004-03-11",
+    "period": "2003-12-27",
+    "doc": "c83394e10vk.htm"
+   }
+  }
+ },
+ "Q37": {
+  "name": "Unisys",
+  "cik": "746838",
+  "year": 2010,
+  "industry": "services",
+  "group": "control",
+  "filings": {
+   "2010": {
+    "form": "10-K",
+    "acc": "0001193125-11-041209",
+    "filed": "2011-02-22",
+    "period": "2010-12-31",
+    "doc": "d10k.htm"
+   },
+   "2009": {
+    "form": "10-K",
+    "acc": "0001193125-10-038558",
+    "filed": "2010-02-24",
+    "period": "2009-12-31",
+    "doc": "d10k.htm"
+   }
+  }
+ },
+ "Q38": {
+  "name": "Super Micro Computer",
+  "cik": "1375365",
+  "year": 2016,
+  "industry": "tech hardware",
+  "group": "treatment",
+  "filings": {
+   "2016": {
+    "form": "10-K",
+    "acc": "0001628280-16-019274",
+    "filed": "2016-08-26",
+    "period": "2016-06-30",
+    "doc": "smci-2016630x10k.htm"
+   },
+   "2015": {
+    "form": "10-K",
+    "acc": "0001628280-15-007025",
+    "filed": "2015-09-10",
+    "period": "2015-06-30",
+    "doc": "smci-2015630x10k.htm"
+   }
+  }
+ },
+ "Q39": {
+  "name": "Hub Group",
+  "cik": "940942",
+  "year": 2015,
+  "industry": "transportation",
+  "group": "control",
+  "filings": {
+   "2015": {
+    "form": "10-K",
+    "acc": "0001564590-16-013549",
+    "filed": "2016-02-26",
+    "period": "2015-12-31",
+    "doc": "hubg-10k_20151231.htm"
+   },
+   "2014": {
+    "form": "10-K",
+    "acc": "0001564590-15-001071",
+    "filed": "2015-02-27",
+    "period": "2014-12-31",
+    "doc": "hubg-10k_20141231.htm"
+   }
+  }
+ },
+ "Q40": {
+  "name": "Computer Sciences",
+  "cik": "23082",
+  "year": 2010,
+  "industry": "services",
+  "group": "treatment",
+  "filings": {
+   "2010": {
+    "form": "10-K",
+    "acc": "0000023082-10-000036",
+    "filed": "2010-05-21",
+    "period": "2010-04-02",
+    "doc": "form10k.htm"
+   },
+   "2009": {
+    "form": "10-K",
+    "acc": "0000023082-09-000023",
+    "filed": "2009-05-29",
+    "period": "2009-04-03",
+    "doc": "form_10-k.htm"
+   }
+  }
+ },
+ "Q41": {
+  "name": "Diebold",
+  "cik": "28823",
+  "year": 2005,
+  "industry": "tech hardware",
+  "group": "treatment",
+  "filings": {
+   "2005": {
+    "form": "10-K",
+    "acc": "0000950152-06-002066",
+    "filed": "2006-03-14",
+    "period": "2005-12-31",
+    "doc": "l17975ae10vk.htm"
+   },
+   "2004": {
+    "form": "10-K",
+    "acc": "0000950152-05-001857",
+    "filed": "2005-03-08",
+    "period": "2004-12-31",
+    "doc": "l12512ae10vk.htm"
+   }
+  }
+ },
+ "Q42": {
+  "name": "Krispy Kreme",
+  "cik": "1100270",
+  "year": 2004,
+  "industry": "consumer",
+  "group": "treatment",
+  "filings": {
+   "2004": {
+    "form": "10-K",
+    "acc": "0000950144-04-003990",
+    "filed": "2004-04-16",
+    "period": "2004-02-01",
+    "doc": "g88377ke10vk.htm"
+   },
+   "2003": {
+    "form": "10-K",
+    "acc": "0000950144-03-006062",
+    "filed": "2003-05-02",
+    "period": "2003-02-02",
+    "doc": "g82317e10vk.htm"
+   }
+  }
+ },
+ "Q43": {
+  "name": "Werner Enterprises",
+  "cik": "793074",
+  "year": 2016,
+  "industry": "transportation",
+  "group": "control",
+  "filings": {
+   "2016": {
+    "form": "10-K",
+    "acc": "0000793074-17-000016",
+    "filed": "2017-02-23",
+    "period": "2016-12-31",
+    "doc": "wern-20161231x10k.htm"
+   },
+   "2015": {
+    "form": "10-K",
+    "acc": "0000793074-16-000060",
+    "filed": "2016-02-26",
+    "period": "2015-12-31",
+    "doc": "wern-20151231x10k.htm"
+   }
+  }
+ },
+ "Q44": {
+  "name": "Monster Worldwide",
+  "cik": "1020416",
+  "year": 2005,
+  "industry": "services",
+  "group": "treatment",
+  "filings": {
+   "2005": {
+    "form": "10-K",
+    "acc": "0001047469-06-002102",
+    "filed": "2006-02-16",
+    "period": "2005-12-31",
+    "doc": "a2167555z10-k.htm"
+   },
+   "2004": {
+    "form": "10-K",
+    "acc": "0001047469-05-005443",
+    "filed": "2005-03-04",
+    "period": "2004-12-31",
+    "doc": "a2152896z10-k.htm"
+   }
+  }
+ },
+ "Q45": {
+  "name": "Black & Decker",
+  "cik": "12355",
+  "year": 1997,
+  "industry": "consumer",
+  "group": "control",
+  "filings": {
+   "1997": {
+    "form": "10-K405",
+    "acc": "0000012355-98-000008",
+    "filed": "1998-02-19",
+    "period": "1997-12-31",
+    "doc": ""
+   },
+   "1996": {
+    "form": "10-K",
+    "acc": "0000012355-97-000005",
+    "filed": "1997-02-27",
+    "period": "1996-12-31",
+    "doc": ""
+   }
+  }
+ },
+ "Q46": {
+  "name": "Interpublic Group",
+  "cik": "51644",
+  "year": 2001,
+  "industry": "media",
+  "group": "treatment",
+  "filings": {
+   "2001": {
+    "form": "10-K",
+    "acc": "0000051644-02-000010",
+    "filed": "2002-04-01",
+    "period": "2001-12-31",
+    "doc": "ipg_form10k-2001.htm"
+   },
+   "2000": {
+    "form": "10-K",
+    "acc": "0000051644-01-000011",
+    "filed": "2001-03-30",
+    "period": "2000-12-31",
+    "doc": "0001.txt"
+   }
+  }
+ },
+ "Q47": {
+  "name": "NCR Corp",
+  "cik": "70866",
+  "year": 2005,
+  "industry": "tech hardware",
+  "group": "control",
+  "filings": {
+   "2005": {
+    "form": "10-K",
+    "acc": "0001193125-06-051223",
+    "filed": "2006-03-10",
+    "period": "2005-12-31",
+    "doc": "d10k.htm"
+   },
+   "2004": {
+    "form": "10-K",
+    "acc": "0001193125-05-043533",
+    "filed": "2005-03-07",
+    "period": "2004-12-31",
+    "doc": "d10k.htm"
+   }
+  }
+ },
+ "Q48": {
+  "name": "MicroStrategy",
+  "cik": "1050446",
+  "year": 1998,
+  "industry": "software",
+  "group": "treatment",
+  "filings": {
+   "1998": {
+    "form": "10-K",
+    "acc": "0000928385-99-000941",
+    "filed": "1999-03-25",
+    "period": "1998-12-31",
+    "doc": ""
+   }
+  }
+ },
+ "Q49": {
+  "name": "Cardinal Health",
+  "cik": "721371",
+  "year": 2003,
+  "industry": "healthcare",
+  "group": "treatment",
+  "filings": {
+   "2003": {
+    "form": "10-K",
+    "acc": "0000950152-03-008493",
+    "filed": "2003-09-29",
+    "period": "2003-06-30",
+    "doc": "l03213ae10vk.txt"
+   },
+   "2002": {
+    "form": "10-K",
+    "acc": "0000950152-02-007264",
+    "filed": "2002-09-30",
+    "period": "2002-06-30",
+    "doc": "l95974ae10vk.txt"
+   }
+  }
+ },
+ "Q50": {
+  "name": "Take-Two Interactive",
+  "cik": "946581",
+  "year": 2000,
+  "industry": "software",
+  "group": "treatment",
+  "filings": {
+   "2000": {
+    "form": "10-K",
+    "acc": "0001125282-01-000221",
+    "filed": "2001-01-29",
+    "period": "2000-10-31",
+    "doc": "0001.txt"
+   },
+   "1999": {
+    "form": "10-K",
+    "acc": "0000891554-00-000145",
+    "filed": "2000-01-27",
+    "period": "1999-10-31",
+    "doc": ""
+   }
+  }
+ },
+ "Q51": {
+  "name": "Dana Corp",
+  "cik": "26780",
+  "year": 2004,
+  "industry": "auto parts",
+  "group": "treatment",
+  "filings": {
+   "2004": {
+    "form": "10-K",
+    "acc": "0000950152-05-001912",
+    "filed": "2005-03-09",
+    "period": "2004-12-31",
+    "doc": "l11933ae10vk.htm"
+   },
+   "2003": {
+    "form": "10-K",
+    "acc": "0000950152-04-001384",
+    "filed": "2004-02-25",
+    "period": "2003-12-31",
+    "doc": "l05571ae10vk.htm"
+   }
+  }
+ },
+ "Q52": {
+  "name": "Omnicom",
+  "cik": "29989",
+  "year": 2001,
+  "industry": "media",
+  "group": "control",
+  "filings": {
+   "2001": {
+    "form": "10-K",
+    "acc": "0000891092-02-000433",
+    "filed": "2002-03-28",
+    "period": "2001-12-31",
+    "doc": "e13177_10-k.txt"
+   },
+   "2000": {
+    "form": "10-K",
+    "acc": "0000891092-01-000449",
+    "filed": "2001-03-27",
+    "period": "2000-12-31",
+    "doc": "0001.txt"
+   }
+  }
+ },
+ "Q53": {
+  "name": "Cablevision",
+  "cik": "1053112",
+  "year": 2001,
+  "industry": "media",
+  "group": "control",
+  "filings": {
+   "2001": {
+    "form": "10-K",
+    "acc": "0000912057-01-505942",
+    "filed": "2001-03-30",
+    "period": "2001-01-30",
+    "doc": "a2043230z10-k.txt"
+   },
+   "2000": {
+    "form": "10-K",
+    "acc": "0001005477-00-002727",
+    "filed": "2000-03-30",
+    "period": "1999-12-31",
+    "doc": "",
+    "note": "corrected: SEC reportDate for FY2000 10-K is mislabeled 2001-01-30"
+   }
+  }
+ },
+ "Q54": {
+  "name": "Kmart",
+  "cik": "56824",
+  "year": 2001,
+  "industry": "retail",
+  "group": "treatment",
+  "filings": {
+   "2001": {
+    "form": "10-K405",
+    "acc": "0000950124-01-001450",
+    "filed": "2001-03-22",
+    "period": "2001-01-31",
+    "doc": "k60961e10-k405.txt"
+   },
+   "2000": {
+    "form": "10-K",
+    "acc": "0000950124-00-002311",
+    "filed": "2000-04-19",
+    "period": "2000-01-26",
+    "doc": ""
+   }
+  }
+ },
+ "Q55": {
+  "name": "Zebra Technologies",
+  "cik": "877212",
+  "year": 2001,
+  "industry": "tech hardware",
+  "group": "control",
+  "filings": {
+   "2001": {
+    "form": "10-K405",
+    "acc": "0000912057-02-011604",
+    "filed": "2002-03-26",
+    "period": "2001-12-31",
+    "doc": "a2074627z10-k405.htm"
+   },
+   "2000": {
+    "form": "10-K",
+    "acc": "0000912057-01-007823",
+    "filed": "2001-03-20",
+    "period": "2000-12-31",
+    "doc": "a2042180z10-k.txt"
+   }
+  }
+ },
+ "Q56": {
+  "name": "AOL Time Warner",
+  "cik": "1105705",
+  "year": 2001,
+  "industry": "media",
+  "group": "treatment",
+  "filings": {
+   "2001": {
+    "form": "10-K405",
+    "acc": "0000950130-02-001845",
+    "filed": "2002-03-25",
+    "period": "2001-12-31",
+    "doc": "d10k405.htm"
+   }
+  }
+ },
+ "Q57": {
+  "name": "ArvinMeritor",
+  "cik": "1113256",
+  "year": 2004,
+  "industry": "auto parts",
+  "group": "control",
+  "filings": {
+   "2004": {
+    "form": "10-K",
+    "acc": "0000950123-04-014830",
+    "filed": "2004-12-16",
+    "period": "2004-10-03",
+    "doc": "y69553e10vk.txt"
+   },
+   "2003": {
+    "form": "10-K",
+    "acc": "0000950123-03-013967",
+    "filed": "2003-12-19",
+    "period": "2003-09-28",
+    "doc": "y92432e10vk.txt"
+   }
+  }
+ },
+ "Q58": {
+  "name": "Peregrine Systems",
+  "cik": "1031107",
+  "year": 2001,
+  "industry": "software",
+  "group": "treatment",
+  "filings": {
+   "2001": {
+    "form": "10-K",
+    "acc": "0000912057-01-522215",
+    "filed": "2001-06-29",
+    "period": "2001-03-31",
+    "doc": "a2053058z10-k.txt"
+   },
+   "2000": {
+    "form": "10-K",
+    "acc": "0000912057-00-022938",
+    "filed": "2000-05-10",
+    "period": "2000-03-31",
+    "doc": ""
+   }
+  }
+ },
+ "Q59": {
+  "name": "Pitney Bowes",
+  "cik": "78814",
+  "year": 1999,
+  "industry": "tech hardware",
+  "group": "control",
+  "filings": {
+   "1999": {
+    "form": "10-K405",
+    "acc": "0000950130-00-001780",
+    "filed": "2000-03-30",
+    "period": "1999-12-31",
+    "doc": ""
+   },
+   "1998": {
+    "form": "10-K",
+    "acc": "0000950130-99-001811",
+    "filed": "1999-03-30",
+    "period": "1998-12-31",
+    "doc": ""
+   }
+  }
+ },
+ "Q60": {
+  "name": "Cooper Tire",
+  "cik": "24491",
+  "year": 2002,
+  "industry": "auto parts",
+  "group": "control",
+  "filings": {
+   "2002": {
+    "form": "10-K",
+    "acc": "0000950152-03-002921",
+    "filed": "2003-03-14",
+    "period": "2002-12-31",
+    "doc": "l98078ae10vk.htm"
+   },
+   "2001": {
+    "form": "10-K405",
+    "acc": "0000950152-02-001903",
+    "filed": "2002-03-18",
+    "period": "2001-12-31",
+    "doc": "l93051ae10-k405.htm"
+   }
+  }
+ },
+ "Q61": {
+  "name": "Xerox Corp",
+  "cik": "108772",
+  "year": 1999,
+  "industry": "tech hardware",
+  "group": "treatment",
+  "filings": {
+   "1999": {
+    "form": "10-K",
+    "acc": "0000108772-00-000012",
+    "filed": "2000-03-27",
+    "period": "1999-12-31",
+    "doc": ""
+   },
+   "1998": {
+    "form": "10-K",
+    "acc": "0000108772-99-000009",
+    "filed": "1999-03-22",
+    "period": "1998-12-31",
+    "doc": ""
+   }
+  }
+ },
+ "Q62": {
+  "name": "Dynegy",
+  "cik": "1105055",
+  "year": 2001,
+  "industry": "energy",
+  "group": "treatment",
+  "filings": {
+   "2001": {
+    "form": "10-K405",
+    "acc": "0000912057-02-011000",
+    "filed": "2002-03-22",
+    "period": "2001-12-31",
+    "doc": "a2073961z10-k405.txt"
+   },
+   "2000": {
+    "form": "10-K405",
+    "acc": "0000912057-01-503730",
+    "filed": "2001-03-15",
+    "period": "2000-12-31",
+    "doc": "a2041408z10-k405.txt"
+   }
+  }
+ },
+ "Q63": {
+  "name": "Robert Half",
+  "cik": "315213",
+  "year": 2005,
+  "industry": "services",
+  "group": "control",
+  "filings": {
+   "2005": {
+    "form": "10-K",
+    "acc": "0001193125-06-046180",
+    "filed": "2006-03-06",
+    "period": "2005-12-31",
+    "doc": "d10k.htm"
+   },
+   "2004": {
+    "form": "10-K",
+    "acc": "0001193125-05-035210",
+    "filed": "2005-02-23",
+    "period": "2004-12-31",
+    "doc": "d10k.htm"
+   }
+  }
+ },
+ "Q64": {
+  "name": "Cinergy",
+  "cik": "899652",
+  "year": 2001,
+  "industry": "energy",
+  "group": "control",
+  "filings": {
+   "2001": {
+    "form": "10-K405",
+    "acc": "0000912057-02-008167",
+    "filed": "2002-02-28",
+    "period": "2001-12-31",
+    "doc": "a2071671z10-k405.htm"
+   },
+   "2000": {
+    "form": "10-K",
+    "acc": "0000912057-01-006738",
+    "filed": "2001-02-27",
+    "period": "2000-12-31",
+    "doc": "a2039505z10-k.htm"
+   }
+  }
+ },
+ "Q65": {
+  "name": "Sybase",
+  "cik": "768262",
+  "year": 1998,
+  "industry": "software",
+  "group": "control",
+  "filings": {
+   "1998": {
+    "form": "10-K405",
+    "acc": "0000950149-99-000563",
+    "filed": "1999-03-30",
+    "period": "1998-12-31",
+    "doc": ""
+   },
+   "1997": {
+    "form": "10-K",
+    "acc": "0000950149-98-000600",
+    "filed": "1998-03-31",
+    "period": "1997-12-31",
+    "doc": ""
+   }
+  }
+ },
+ "Q66": {
+  "name": "SLM Corp",
+  "cik": "1032033",
+  "year": 2003,
+  "industry": "financial",
+  "group": "control",
+  "filings": {
+   "2003": {
+    "form": "10-K",
+    "acc": "0000912057-04-000312",
+    "filed": "2004-03-15",
+    "period": "2003-12-31",
+    "doc": "a2130702z10-k.htm"
+   },
+   "2002": {
+    "form": "10-K",
+    "acc": "0001047469-03-010569",
+    "filed": "2003-03-27",
+    "period": "2002-12-31",
+    "doc": "a2105032z10-k.htm"
+   }
+  }
+ },
+ "Q67": {
+  "name": "Baker Hughes",
+  "cik": "808362",
+  "year": 2009,
+  "industry": "energy",
+  "group": "control",
+  "filings": {
+   "2009": {
+    "form": "10-K",
+    "acc": "0000950123-10-017258",
+    "filed": "2010-02-26",
+    "period": "2009-12-31",
+    "doc": "h69014e10vk.htm"
+   },
+   "2008": {
+    "form": "10-K",
+    "acc": "0000950129-09-000672",
+    "filed": "2009-02-27",
+    "period": "2008-12-31",
+    "doc": "h65827e10vk.htm"
+   }
+  }
+ },
+ "Q68": {
+  "name": "Popular Inc",
+  "cik": "763901",
+  "year": 2004,
+  "industry": "financial",
+  "group": "control",
+  "filings": {
+   "2004": {
+    "form": "10-K",
+    "acc": "0000950144-05-002592",
+    "filed": "2005-03-16",
+    "period": "2004-12-31",
+    "doc": "g93551e10vk.htm"
+   },
+   "2003": {
+    "form": "10-K",
+    "acc": "0000950144-04-002527",
+    "filed": "2004-03-15",
+    "period": "2003-12-31",
+    "doc": "g87633e10vk.htm"
+   }
+  }
+ },
+ "Q69": {
+  "name": "Sunbeam Corp",
+  "cik": "3662",
+  "year": 1997,
+  "industry": "consumer",
+  "group": "treatment",
+  "filings": {
+   "1997": {
+    "form": "10-K405",
+    "acc": "0000950170-98-000413",
+    "filed": "1998-03-06",
+    "period": "1997-12-28",
+    "doc": ""
+   },
+   "1996": {
+    "form": "10-K",
+    "acc": "0000950170-97-000353",
+    "filed": "1997-03-31",
+    "period": "1996-12-29",
+    "doc": ""
+   }
+  }
+ },
+ "Q70": {
+  "name": "Hewlett-Packard",
+  "cik": "47217",
+  "year": 2006,
+  "industry": "tech hardware",
+  "group": "control",
+  "filings": {
+   "2006": {
+    "form": "10-K",
+    "acc": "0001047469-06-015253",
+    "filed": "2006-12-22",
+    "period": "2006-10-31",
+    "doc": "a2174889z10-k.htm"
+   },
+   "2005": {
+    "form": "10-K",
+    "acc": "0001047469-05-028479",
+    "filed": "2005-12-21",
+    "period": "2005-10-31",
+    "doc": "a2165549z10-k.htm"
+   }
+  }
+ },
+ "Q71": {
+  "name": "NetApp",
+  "cik": "1002047",
+  "year": 2016,
+  "industry": "tech hardware",
+  "group": "control",
+  "filings": {
+   "2016": {
+    "form": "10-K",
+    "acc": "0001564590-16-020754",
+    "filed": "2016-06-22",
+    "period": "2016-04-29",
+    "doc": "ntap-10k_20160429.htm"
+   },
+   "2015": {
+    "form": "10-K",
+    "acc": "0001564590-15-005051",
+    "filed": "2015-06-12",
+    "period": "2015-04-24",
+    "doc": "ntap-10k_20150424.htm"
+   }
+  }
+ },
+ "Q72": {
+  "name": "Doral Financial",
+  "cik": "840889",
+  "year": 2004,
+  "industry": "financial",
+  "group": "treatment",
+  "filings": {
+   "2004": {
+    "form": "10-K",
+    "acc": "0001282695-05-000029",
+    "filed": "2005-03-15",
+    "period": "2004-12-31",
+    "doc": "e55733_10-k.htm"
+   },
+   "2003": {
+    "form": "10-K",
+    "acc": "0000950144-04-002326",
+    "filed": "2004-03-11",
+    "period": "2003-12-31",
+    "doc": "g87353e10vk.htm"
+   }
+  }
+ }
+}
