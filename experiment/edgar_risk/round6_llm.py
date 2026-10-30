@@ -14,7 +14,12 @@ Usage
   python -m experiment.edgar_risk.round6_llm score               # verifies quotes, writes llm_scores.csv
   python -m experiment.edgar_risk.round6_llm evaluate            # joins labels; run only after score is committed
 
-Credentials: the SDK reads ANTHROPIC_API_KEY (or an `ant auth login` profile) from the environment.
+Add `--provider openai --model <id>` to run the same prompts through the OpenAI Batch API
+(Chat Completions with a strict JSON schema). Results from different models are different methods;
+batches.json records which provider and model produced each output.
+
+Credentials come from the environment: ANTHROPIC_API_KEY (or an `ant auth login` profile) for Anthropic,
+OPENAI_API_KEY for OpenAI. Never write a key into a file in this repository.
 """
 import argparse
 import csv
@@ -26,6 +31,7 @@ import os
 import random
 import re
 import sys
+import tempfile
 from collections import defaultdict
 
 from .round3 import auc, auc_ci
@@ -246,6 +252,20 @@ def params(pid, kind, model):
     }
 
 
+def openai_body(pid, kind, model):
+    """The same request for the OpenAI Chat Completions endpoint (packet first, so the prefix can be cached)."""
+    task = REVIEW_TASK if kind == "review" else IDENTIFY_TASK
+    return {
+        "model": model,
+        "messages": [{"role": "system", "content": SYSTEM},
+                     {"role": "user", "content": load_packet(pid) + "\n\n" + task}],
+        "response_format": {"type": "json_schema", "json_schema": {
+            "name": kind, "strict": True, "schema": REVIEW_SCHEMA if kind == "review" else IDENTIFY_SCHEMA}},
+        "reasoning_effort": "high" if kind == "review" else "low",
+        "max_completion_tokens": 64000 if kind == "review" else 4000,
+    }
+
+
 def request_ids(pids, runs):
     return [f"{p}-review-{r}" for p in pids for r in range(1, runs + 1)] + [f"{p}-identify" for p in pids]
 
@@ -258,7 +278,24 @@ def _client():
     return anthropic, anthropic.Anthropic()
 
 
+def _openai():
+    try:
+        import openai
+    except ImportError:
+        sys.exit("pip install -U openai")
+    return openai, openai.OpenAI(timeout=1800)
+
+
 def count(args):
+    if args.provider == "openai":
+        # no token-count endpoint is used here; ~3.5 characters per token for filings with many numbers
+        total = 0
+        for pid in packet_ids(args.limit, args.only):
+            n = int(len(load_packet(pid)) / 3.5)
+            total += n
+            print(pid, n, "(estimate)")
+        print("estimated input tokens per review run:", total, "- check the model's context window")
+        return
     _, client = _client()
     total = 0
     for pid in packet_ids(args.limit, args.only):
@@ -269,24 +306,51 @@ def count(args):
     print("input tokens per review run:", total)
 
 
+def _log_batch(entry):
+    log = json.load(open(BATCHES)) if os.path.exists(BATCHES) else []
+    log.append(entry)
+    os.makedirs(OUT, exist_ok=True)
+    json.dump(log, open(BATCHES, "w"), indent=1)
+
+
 def submit(args):
-    _, client = _client()
     pids = packet_ids(args.limit, args.only)
+    if args.provider == "openai":
+        if not args.model or args.model == MODEL:
+            sys.exit("give the OpenAI model id with --model")
+        _, client = _openai()
+        with tempfile.NamedTemporaryFile("w", suffix=".jsonl", delete=False, encoding="utf-8") as fh:
+            for cid in request_ids(pids, args.runs):
+                pid, kind = cid.split("-")[:2]
+                fh.write(json.dumps({"custom_id": cid, "method": "POST", "url": "/v1/chat/completions",
+                                     "body": openai_body(pid, kind, args.model)}) + "\n")
+        size = os.path.getsize(fh.name)
+        if size > 200 * 2 ** 20:
+            sys.exit(f"batch file is {size >> 20} MB (limit 200 MB); submit in parts with --only")
+        up = client.files.create(file=open(fh.name, "rb"), purpose="batch")
+        os.unlink(fh.name)
+        batch = client.batches.create(input_file_id=up.id, endpoint="/v1/chat/completions", completion_window="24h")
+        _log_batch({"provider": "openai", "id": batch.id, "model": args.model, "runs": args.runs, "pids": pids})
+        print(f"batch {batch.id}: {len(pids) * (args.runs + 1)} requests ({len(pids)} packets x {args.runs} review runs + identify)")
+        return
+    _, client = _client()
     reqs = []
     for cid in request_ids(pids, args.runs):
         pid, kind = cid.split("-")[:2]
         reqs.append({"custom_id": cid, "params": params(pid, kind, args.model)})
     batch = client.messages.batches.create(requests=reqs)
-    log = json.load(open(BATCHES)) if os.path.exists(BATCHES) else []
-    log.append({"id": batch.id, "model": args.model, "runs": args.runs, "n": len(reqs), "pids": pids})
-    os.makedirs(OUT, exist_ok=True)
-    json.dump(log, open(BATCHES, "w"), indent=1)
+    _log_batch({"provider": "anthropic", "id": batch.id, "model": args.model, "runs": args.runs, "pids": pids})
     print(f"batch {batch.id}: {len(reqs)} requests ({len(pids)} packets x {args.runs} review runs + identify)")
 
 
 def status(args):
-    _, client = _client()
     for b in json.load(open(BATCHES)):
+        if b.get("provider") == "openai":
+            r = _openai()[1].batches.retrieve(b["id"])
+            c = r.request_counts
+            print(b["id"], r.status, f"completed={c.completed} failed={c.failed} total={c.total}" if c else "")
+            continue
+        client = _client()[1]
         r = client.messages.batches.retrieve(b["id"])
         c = r.request_counts
         print(b["id"], r.processing_status, f"succeeded={c.succeeded} errored={c.errored} processing={c.processing} "
@@ -303,9 +367,46 @@ def _save(cid, message=None, error=None, model=None):
     json.dump(rec, open(f"{RAW_OUT}/{cid}.json", "w"), indent=1)
 
 
+def _save_openai(cid, body, model):
+    """Store a Chat Completions response in the same layout as an Anthropic one."""
+    ch = body["choices"][0]
+    msg = ch["message"]
+    stop = {"stop": "end_turn", "length": "max_tokens"}.get(ch.get("finish_reason"), ch.get("finish_reason"))
+    if msg.get("refusal"):
+        stop = "refusal"
+    os.makedirs(RAW_OUT, exist_ok=True)
+    json.dump({"custom_id": cid, "requested_model": model, "error": None, "model": body.get("model"),
+               "stop_reason": stop, "usage": body.get("usage"), "text": msg.get("content") or ""},
+              open(f"{RAW_OUT}/{cid}.json", "w"), indent=1)
+
+
+def _collect_openai(b):
+    _, client = _openai()
+    r = client.batches.retrieve(b["id"])
+    if r.status not in ("completed", "expired", "cancelled", "failed"):
+        print(b["id"], r.status, "- not finished yet")
+        return
+    if r.output_file_id:
+        for line in client.files.content(r.output_file_id).text.splitlines():
+            res = json.loads(line)
+            resp = res.get("response") or {}
+            if resp.get("status_code") == 200 and resp.get("body"):
+                _save_openai(res["custom_id"], resp["body"], b["model"])
+            else:
+                _save(res["custom_id"], error=json.dumps(res.get("error") or resp)[:500], model=b["model"])
+    if r.error_file_id:
+        for line in client.files.content(r.error_file_id).text.splitlines():
+            res = json.loads(line)
+            if not _usable(res["custom_id"]):
+                _save(res["custom_id"], error=json.dumps(res.get("error") or res.get("response"))[:500], model=b["model"])
+
+
 def collect(args):
-    _, client = _client()
     for b in json.load(open(BATCHES)):
+        if b.get("provider") == "openai":
+            _collect_openai(b)
+            continue
+        client = _client()[1]
         r = client.messages.batches.retrieve(b["id"])
         if r.processing_status != "ended":
             print(b["id"], "not finished yet")
@@ -330,7 +431,6 @@ def _usable(cid):
 
 def retry(args):
     """Sequential, streaming re-run of anything missing or not ended normally, with server-side refusal fallback."""
-    anthropic, client = _client()
     log = json.load(open(BATCHES))
     for b in log:
         for cid in request_ids(b["pids"], b["runs"]):
@@ -338,6 +438,18 @@ def retry(args):
                 continue
             pid, kind = cid.split("-")[:2]
             print("retry", cid)
+            if b.get("provider") == "openai":
+                openai, oc = _openai()
+                try:
+                    _save_openai(cid, oc.chat.completions.create(**openai_body(pid, kind, b["model"])).model_dump(), b["model"])
+                except openai.RateLimitError:
+                    sys.exit("rate limited - run retry again later")
+                except openai.APIStatusError as e:
+                    _save(cid, error=f"{e.status_code} {e.message}", model=b["model"])
+                except openai.APIConnectionError as e:
+                    print("connection error:", e)
+                continue
+            anthropic, client = _client()
             try:
                 with client.beta.messages.stream(**params(pid, kind, b["model"]),
                                                  betas=["server-side-fallback-2026-07-01"],
@@ -558,6 +670,7 @@ def evaluate(args):
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("action", choices=["build", "count", "submit", "status", "collect", "retry", "score", "evaluate"])
+    ap.add_argument("--provider", choices=["anthropic", "openai"], default="anthropic")
     ap.add_argument("--model", default=MODEL)
     ap.add_argument("--runs", type=int, default=2, help="independent review runs per packet")
     ap.add_argument("--limit", type=int, help="only the first N packets (pilot)")

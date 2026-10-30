@@ -29,6 +29,7 @@
 
 ## 4. 模型與請求
 - 預設模型 `claude-opus-5-5`，使用 Message Batches API。可以用 `--model` 更換，實際使用的模型記錄在 `results/round6/batches.json`
+- 也可以改用 OpenAI：加上 `--provider openai --model <模型 ID>`，走 OpenAI Batch API（Chat Completions，JSON schema strict 模式），提示詞完全相同。不同模型視為不同的方法，結果分開報告，不能和 Claude 的結果混在一起平均
 - 每份資料包發出三個請求：
   - `review` × 2：兩次獨立判斷矛盾，effort high，輸出用 JSON schema 限制
   - `identify` × 1：另外一個請求，只問「這是哪家公司」，effort low。用途是量化辨識污染；這個問題不會出現在 review 請求裡，以免引導模型去回想公司
@@ -113,6 +114,8 @@ git add results/round6 && git commit -m "Round 6: LLM review outputs" && git pus
 python -m experiment.edgar_risk.round6_llm evaluate
 ```
 
+- 改用 OpenAI 時，每個指令都加上 `--provider openai`，`submit` 另外要加 `--model <模型 ID>`；金鑰放在 `OPENAI_API_KEY`
+  - `count` 只用字元數估算 token（約 3.5 個字元 = 1 token），送出前請確認模型的 context window 放得下最大的資料包（約 35 萬 token）
 - 不要把 API key 寫進任何檔案或提交到 git
 - 費用估算（Opus 5.5、Batch 半價、兩次 review 加一次 identify）：
   - 輸入約 9M token × 3 個請求，約 50 美元
