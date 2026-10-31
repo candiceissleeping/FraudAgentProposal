@@ -350,17 +350,23 @@ def _batches():
 
 
 def status(args):
-    for b in _batches():
+    log = _batches()
+    for b in log:
         if b.get("provider") == "openai":
             r = _openai()[1].batches.retrieve(b["id"])
             c = r.request_counts
             print(b["id"], r.status, f"completed={c.completed} failed={c.failed} total={c.total}" if c else "")
+            if r.status == "failed":
+                b["failed"] = True  # rejected before any request ran; retry must not re-send it one by one
+                for e in (r.errors.data if r.errors and r.errors.data else []):
+                    print("   error:", e.code, "-", e.message, f"(line {e.line})" if e.line else "")
             continue
         client = _client()[1]
         r = client.messages.batches.retrieve(b["id"])
         c = r.request_counts
         print(b["id"], r.processing_status, f"succeeded={c.succeeded} errored={c.errored} processing={c.processing} "
               f"expired={c.expired} canceled={c.canceled}")
+    json.dump(log, open(BATCHES, "w"), indent=1)
 
 
 def _save(cid, message=None, error=None, model=None):
@@ -438,6 +444,8 @@ def _usable(cid):
 def retry(args):
     """Sequential, streaming re-run of anything missing or not ended normally, with server-side refusal fallback."""
     for b in _batches():
+        if b.get("failed"):
+            continue  # whole batch was rejected; fix the cause and submit again instead
         for cid in request_ids(b["pids"], b["runs"]):
             if _usable(cid):
                 continue
