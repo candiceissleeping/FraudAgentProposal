@@ -8,6 +8,7 @@ Usage
   python -m experiment.edgar_risk.round6_llm build              # needs data/round5/raw (not in git)
   python -m experiment.edgar_risk.round6_llm count  [--limit N]  # token count of each packet (free)
   python -m experiment.edgar_risk.round6_llm submit [--limit N] [--runs 2] [--model ...]
+  python -m experiment.edgar_risk.round6_llm run --provider openai --model ...   # chunks under the queue limit, waits
   python -m experiment.edgar_risk.round6_llm status
   python -m experiment.edgar_risk.round6_llm collect             # writes results/round6/llm_raw/*.json
   python -m experiment.edgar_risk.round6_llm retry               # re-runs missing / failed requests one by one
@@ -313,25 +314,31 @@ def _log_batch(entry):
     json.dump(log, open(BATCHES, "w"), indent=1)
 
 
+def _submit_openai(pids, model, runs):
+    _, client = _openai()
+    with tempfile.NamedTemporaryFile("w", suffix=".jsonl", delete=False, encoding="utf-8") as fh:
+        for cid in request_ids(pids, runs):
+            pid, kind = cid.split("-")[:2]
+            fh.write(json.dumps({"custom_id": cid, "method": "POST", "url": "/v1/chat/completions",
+                                 "body": openai_body(pid, kind, model)}) + "\n")
+    size = os.path.getsize(fh.name)
+    if size > 200 * 2 ** 20:
+        sys.exit(f"batch file is {size >> 20} MB (limit 200 MB); submit in parts with --only")
+    up = client.files.create(file=open(fh.name, "rb"), purpose="batch")
+    os.unlink(fh.name)
+    batch = client.batches.create(input_file_id=up.id, endpoint="/v1/chat/completions", completion_window="24h")
+    entry = {"provider": "openai", "id": batch.id, "model": model, "runs": runs, "pids": pids}
+    _log_batch(entry)
+    print(f"batch {batch.id}: {len(pids) * (runs + 1)} requests ({len(pids)} packets x {runs} review runs + identify)")
+    return entry
+
+
 def submit(args):
     pids = packet_ids(args.limit, args.only)
     if args.provider == "openai":
         if not args.model or args.model == MODEL:
             sys.exit("give the OpenAI model id with --model")
-        _, client = _openai()
-        with tempfile.NamedTemporaryFile("w", suffix=".jsonl", delete=False, encoding="utf-8") as fh:
-            for cid in request_ids(pids, args.runs):
-                pid, kind = cid.split("-")[:2]
-                fh.write(json.dumps({"custom_id": cid, "method": "POST", "url": "/v1/chat/completions",
-                                     "body": openai_body(pid, kind, args.model)}) + "\n")
-        size = os.path.getsize(fh.name)
-        if size > 200 * 2 ** 20:
-            sys.exit(f"batch file is {size >> 20} MB (limit 200 MB); submit in parts with --only")
-        up = client.files.create(file=open(fh.name, "rb"), purpose="batch")
-        os.unlink(fh.name)
-        batch = client.batches.create(input_file_id=up.id, endpoint="/v1/chat/completions", completion_window="24h")
-        _log_batch({"provider": "openai", "id": batch.id, "model": args.model, "runs": args.runs, "pids": pids})
-        print(f"batch {batch.id}: {len(pids) * (args.runs + 1)} requests ({len(pids)} packets x {args.runs} review runs + identify)")
+        _submit_openai(pids, args.model, args.runs)
         return
     _, client = _client()
     reqs = []
@@ -341,6 +348,56 @@ def submit(args):
     batch = client.messages.batches.create(requests=reqs)
     _log_batch({"provider": "anthropic", "id": batch.id, "model": args.model, "runs": args.runs, "pids": pids})
     print(f"batch {batch.id}: {len(reqs)} requests ({len(pids)} packets x {args.runs} review runs + identify)")
+
+
+def run_openai(args):
+    """Submit in chunks that fit the organisation's enqueued-token limit, one at a time, until every packet is done.
+
+    Safe to stop (Ctrl-C) and start again: packets that already have usable results are skipped.
+    """
+    import time
+    if not args.model or args.model == MODEL:
+        sys.exit("give the OpenAI model id with --model")
+    _, client = _openai()
+    est = lambda pid: int(len(load_packet(pid)) / 3.5) * (args.runs + 1)  # conservative: actual was ~10% lower
+    done = lambda pid: all(_usable(c) for c in request_ids([pid], args.runs))
+    todo = [p for p in packet_ids(args.limit, args.only) if not done(p)]
+    print(f"{len(todo)} packets to run; chunk budget {args.budget:,} estimated tokens")
+    while todo:
+        chunk, tot = [], 0
+        for p in todo:
+            if not chunk or tot + est(p) <= args.budget:
+                chunk.append(p)
+                tot += est(p)
+        if tot > args.budget:
+            print(f"warning: {chunk[0]} alone is ~{tot:,} tokens, above the budget; trying it anyway")
+        print(time.strftime("%H:%M"), f"submitting {' '.join(chunk)} (~{tot:,} tokens)")
+        b = _submit_openai(chunk, args.model, args.runs)
+        while True:
+            time.sleep(120)
+            r = client.batches.retrieve(b["id"])
+            c = r.request_counts
+            print(time.strftime("%H:%M"), r.status, f"{c.completed}/{c.total}" if c else "", flush=True)
+            if r.status in ("completed", "expired", "cancelled", "failed"):
+                break
+        if r.status == "failed":
+            log = _batches()
+            log[-1]["failed"] = True
+            json.dump(log, open(BATCHES, "w"), indent=1)
+            msgs = [f"{e.code}: {e.message}" for e in (r.errors.data if r.errors and r.errors.data else [])]
+            print("batch rejected:", "; ".join(msgs))
+            if any("token_limit" in m for m in msgs):
+                args.budget = int(args.budget * 0.8)
+                print(f"waiting 10 minutes for the queue to empty, then trying a smaller chunk ({args.budget:,})")
+                time.sleep(600)
+                continue
+            sys.exit("stopping - send this message to the analyst")
+        _collect_openai(b)
+        left_over = [p for p in chunk if not done(p)]
+        if left_over:
+            print("not complete in this chunk (run `retry` at the end):", " ".join(left_over))
+        todo = [p for p in todo if p not in chunk]
+    print("all chunks submitted and collected; now run: retry, then score")
 
 
 def _batches():
@@ -682,15 +739,16 @@ def evaluate(args):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("action", choices=["build", "count", "submit", "status", "collect", "retry", "score", "evaluate"])
+    ap.add_argument("action", choices=["build", "count", "submit", "run", "status", "collect", "retry", "score", "evaluate"])
     ap.add_argument("--provider", choices=["anthropic", "openai"], default="anthropic")
     ap.add_argument("--model", default=MODEL)
     ap.add_argument("--runs", type=int, default=2, help="independent review runs per packet")
     ap.add_argument("--limit", type=int, help="only the first N packets (pilot)")
     ap.add_argument("--only", nargs="*", help="only these packet ids, e.g. Q01 Q02")
+    ap.add_argument("--budget", type=int, default=1_200_000, help="run: estimated input tokens per chunk")
     args = ap.parse_args()
     {"build": lambda a: build(), "count": count, "submit": submit, "status": status, "collect": collect,
-     "retry": retry, "score": score, "evaluate": evaluate}[args.action](args)
+     "retry": retry, "run": run_openai, "score": score, "evaluate": evaluate}[args.action](args)
 
 
 if __name__ == "__main__":
