@@ -372,7 +372,11 @@ def run_openai(args):
         if tot > args.budget:
             print(f"warning: {chunk[0]} alone is ~{tot:,} tokens, above the budget; trying it anyway")
         print(time.strftime("%H:%M"), f"submitting {' '.join(chunk)} (~{tot:,} tokens)")
-        b = _submit_openai(chunk, args.model, args.runs)
+        try:
+            b = _submit_openai(chunk, args.model, args.runs)
+        except Exception as e:  # e.g. 400 "Billing hard limit has been reached"
+            sys.exit(f"OpenAI refused the batch: {e}\nNothing in this chunk was sent. Fix the cause (billing / limits), "
+                     "then run the same command again - finished packets are skipped.")
         while True:
             time.sleep(120)
             r = client.batches.retrieve(b["id"])
