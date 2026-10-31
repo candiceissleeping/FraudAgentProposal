@@ -343,8 +343,14 @@ def submit(args):
     print(f"batch {batch.id}: {len(reqs)} requests ({len(pids)} packets x {args.runs} review runs + identify)")
 
 
+def _batches():
+    if not os.path.exists(BATCHES):
+        sys.exit("no batch submitted yet (results/round6/batches.json is missing) - run submit first")
+    return json.load(open(BATCHES))
+
+
 def status(args):
-    for b in json.load(open(BATCHES)):
+    for b in _batches():
         if b.get("provider") == "openai":
             r = _openai()[1].batches.retrieve(b["id"])
             c = r.request_counts
@@ -402,7 +408,7 @@ def _collect_openai(b):
 
 
 def collect(args):
-    for b in json.load(open(BATCHES)):
+    for b in _batches():
         if b.get("provider") == "openai":
             _collect_openai(b)
             continue
@@ -431,8 +437,7 @@ def _usable(cid):
 
 def retry(args):
     """Sequential, streaming re-run of anything missing or not ended normally, with server-side refusal fallback."""
-    log = json.load(open(BATCHES))
-    for b in log:
+    for b in _batches():
         for cid in request_ids(b["pids"], b["runs"]):
             if _usable(cid):
                 continue
