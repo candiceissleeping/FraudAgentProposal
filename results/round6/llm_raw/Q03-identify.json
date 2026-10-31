@@ -1,0 +1,23 @@
+{
+ "custom_id": "Q03-identify",
+ "requested_model": "gpt-5.5",
+ "error": null,
+ "model": "gpt-5.5-2026-04-23",
+ "stop_reason": "end_turn",
+ "usage": {
+  "prompt_tokens": 30893,
+  "completion_tokens": 39,
+  "total_tokens": 30932,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "audio_tokens": 0
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "audio_tokens": 0,
+   "accepted_prediction_tokens": 0,
+   "rejected_prediction_tokens": 0
+  }
+ },
+ "text": "{\"company_guess\":\"Dollar General Corporation\",\"fiscal_year_guess\":\"Fiscal 1999 (year ended January 28, 2000)\",\"confidence\":99}"
+}

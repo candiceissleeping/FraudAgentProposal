@@ -1,0 +1,23 @@
+{
+ "custom_id": "Q01-review-1",
+ "requested_model": "gpt-5.5",
+ "error": null,
+ "model": "gpt-5.5-2026-04-23",
+ "stop_reason": "end_turn",
+ "usage": {
+  "prompt_tokens": 59101,
+  "completion_tokens": 21309,
+  "total_tokens": 80410,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "audio_tokens": 0
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 19961,
+   "audio_tokens": 0,
+   "accepted_prediction_tokens": 0,
+   "rejected_prediction_tokens": 0
+  }
+ },
+ "text": "{\"findings\":[{\"category\":\"A5_mdna_vs_numbers\",\"description\":\"The MD&A contractual obligations table allocates capital lease payments differently from the detailed capital lease maturity schedule. Note 6 implies 1-3 Years should be Y+2 plus Y+3, or $5.632 million, and 3-5 Years should be Y+4 plus Y+5, or $1.936 million. The MD&A table instead puts $7.364 million in 1-3 Years and only $0.204 million in 3-5 Years. The total matches, but the timing buckets do not.\",\"doc_a\":\"A\",\"quote_a\":\"Payments Due by Period (1)\\nTotal  Less [NAME] Year  1-3 Years  3-5 Years  More [NAME] Years\\n[NAME] debt  $439,399  $15,000  $30,000  $394,399  $\u2014\\nInterest expense  49,985  15,380  30,760  3,845  \u2014\\nCapital leases  13,306  5,717  7,364  204  21\",\"amount_a\":\"Capital leases: $7,364 in 1-3 Years; $204 in 3-5 Years\",\"doc_b\":\"A\",\"quote_b\":\"Year Ending:\\nY+1  $5,717\\nY+2  3,284\\nY+3  2,348\\nY+4  1,732\\nY+5  204\\n[NAME]  21\\nTotal minimum lease payments  13,306\",\"amount_b\":\"Y+2 $3,284; Y+3 $2,348; Y+4 $1,732; Y+5 $204\",\"explained\":false,\"explanation_quote\":\"\",\"severity\":\"medium\"},{\"category\":\"A5_mdna_vs_numbers\",\"description\":\"The consolidated revenue discussion says the $122.2 million revenue increase was primarily due to organic growth, but the segment discussion says the largest segment's $176.5 million increase was primarily due to acquisitions, with acquisition revenue of $215.7 million\u2014greater than the entire consolidated increase.\",\"doc_a\":\"A\",\"quote_a\":\"Consolidated revenues increased by\\n$122.2 million\\n, or\\n6.5%\\n, to\\n$1,995.0 million\\nin\\nY0\\nfrom\\n$1,872.8 million\\nin\\nY-1\\n, primarily due to organic growth in excess of soft demand and a decrease in fuel surcharge revenues.\",\"amount_a\":\"Consolidated revenue increase $122.2 million; stated primarily due to organic growth\",\"doc_b\":\"A\",\"quote_b\":\"[NAME] revenues increased by\\n$176.5 million\\n, or\\n17.7%\\n, to\\n$1,175.6 million\\nin\\nY0\\nfrom\\n$999.1 million\\nin\\nY-1\\n, primarily as a result of our acquisitions of [NAME] Logistics, [NAME], [COMPANY], and [NAME], which accounted for an aggregate of\\n$215.7 million\\nyear-over-year.\",\"amount_b\":\"Segment revenue increase $176.5 million; acquisitions accounted for $215.7 million\",\"explained\":false,\"explanation_quote\":\"\",\"severity\":\"medium\"},{\"category\":\"A4_prior_year_changed\",\"description\":\"The current-year filing changed the purchase price allocation for the prior-year acquisitions, including property and equipment and goodwill. This appears explained by the prior-year filing\u2019s statement that the Y-1 purchase accounting was not final for goodwill, deferred taxes, and certain long-term assets.\",\"doc_a\":\"A\",\"quote_a\":\"Y-1 Acquisitions  Y-2 Acquisitions\\nAccounts receivable  $68,128  $27,731\\nOther current assets  7,442  922\\nProperty and equipment  29,892  14,392\\nGoodwill  155,006  77,652\",\"amount_a\":\"Y-1 acquisitions: property and equipment $29,892; goodwill $155,006\",\"doc_b\":\"B\",\"quote_b\":\"Y-1 Acquisitions  Y-2 Acquisitions  Y-3 Acquisitions\\nAccounts receivable  $68,128  $27,731  $15,175\\nOther current assets  7,660  922  1,240\\nProperty and equipment  31,153  14,392  32,387\\nGoodwill  151,924\",\"amount_b\":\"Y-1 acquisitions: property and equipment $31,153; goodwill $151,924\",\"explained\":true,\"explanation_quote\":\"Purchase accounting is considered final for the Y-1 acquisitions except for deferred taxes, goodwill, and with respect to certain long-term asset valuations as final information was not available as of\\nDecember 31, Y-1\\n.\",\"severity\":\"low\"}],\"overall_rating\":22,\"summary\":\"The primary financial statements largely tie. The main unexplained issues are a timing-bucket inconsistency for capital lease obligations and an MD&A revenue explanation that describes consolidated growth as organic while the segment discussion attributes the largest increase to acquisitions. A prior-year acquisition allocation change is present but explained by preliminary purchase accounting.\"}"
+}

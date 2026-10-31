@@ -1,0 +1,14 @@
+[
+ {
+  "provider": "openai",
+  "id": "batch_6ae4c6febc44819082f97baca2a9090b",
+  "model": "gpt-5.5",
+  "runs": 2,
+  "pids": [
+   "Q01",
+   "Q02",
+   "Q03",
+   "Q04"
+  ]
+ }
+]
