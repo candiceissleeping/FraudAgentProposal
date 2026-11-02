@@ -9,3 +9,5 @@ data/round9/companyfacts/
 data/round9/submissions/
 data/round9/frames/
 data/round9/idx/
+data/round9/8k_items.tsv*
+data/round9/scan.log
