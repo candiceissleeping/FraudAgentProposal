@@ -4,3 +4,8 @@ __pycache__/
 data/round5/raw/
 data/round7/companyfacts/
 data/round8/redacted/*.txt
+data/round9/redacted/*.txt
+data/round9/companyfacts/
+data/round9/submissions/
+data/round9/frames/
+data/round9/idx/
