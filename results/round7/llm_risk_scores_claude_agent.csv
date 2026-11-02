@@ -15,3 +15,4 @@ P07T,1,82,True,"CPI Aerostructures, Inc. FY2018 10-K",True,fresh Claude agent in
 P07C,1,18,True,Ducommun Incorporated FY2018 10-K,False,fresh Claude agent in the cloud session (no access to labels or this conversation),same prompt as RISK_TASK; whole unredacted 10-K read with the Read tool
 P08T,1,72,True,"GTT Communications, Inc. FY2019 10-K",True,fresh Claude agent in the cloud session (no access to labels or this conversation),same prompt as RISK_TASK; whole unredacted 10-K read with the Read tool
 P08C,1,14,True,"Consolidated Communications Holdings, Inc. FY2019 10-K",False,fresh Claude agent in the cloud session (no access to labels or this conversation),same prompt as RISK_TASK; whole unredacted 10-K read with the Read tool
+P09C,1,18,True,"Thermon Group Holdings, Inc. FY ended March 31, 2020",False,fresh Claude agent in the cloud session (no access to labels or this conversation),same prompt as RISK_TASK; whole unredacted 10-K read with the Read tool
