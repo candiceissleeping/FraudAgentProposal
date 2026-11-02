@@ -19,3 +19,23 @@ L0,report_17,R10T,RTI Surgical,treatment,55,true,RTI Surgical Inc.,98,true
 L0,report_18,R10C,Exactech,control,12,true,Exactech Inc.,99,false
 L0,report_19,R09C,Enfusion,control,12,true,Enfusion Inc.,98,false
 L0,report_20,R08T,HF Foods,treatment,68,true,HF Foods Group Inc.,97,true
+L3c,report_01,R02T,Tandy Leather,treatment,68,true,Tandy Leather Factory Inc.,92,true
+L3c,report_02,R05C,BWX Technologies,control,8,true,BWX Technologies Inc.,90,false
+L3c,report_03,R08T,HF Foods,treatment,62,true,HF Foods Group Inc.,88,true
+L3c,report_04,R10T,RTI Surgical,treatment,38,true,RTI Surgical Inc.,85,true
+L3c,report_05,R01C,Agilysys,control,8,true,Agilysys Inc.,90,false
+L3c,report_06,R06T,Manitex,treatment,72,true,Manitex International Inc.,85,true
+L3c,report_07,R07T,Sequential Brands,treatment,42,true,Sequential Brands Group Inc.,90,true
+L3c,report_08,R07C,lululemon,control,7,true,lululemon athletica inc.,93,false
+L3c,report_09,R02C,Rocky Brands,control,8,true,Rocky Brands Inc.,85,false
+L3c,report_10,R09C,Enfusion,control,18,true,Enfusion Inc.,85,false
+L3c,report_11,R10C,Exactech,control,8,true,Exactech Inc.,85,false
+L3c,report_12,R04C,Orion Energy Systems,control,25,true,Orion Energy Systems Inc.,85,false
+L3c,report_13,R03C,Differential Brands,control,25,true,Differential Brands Group Inc.,85,false
+L3c,report_14,R01T,Pareteum,treatment,88,true,Pareteum Corporation,92,true
+L3c,report_15,R04T,Revolution Lighting,treatment,55,true,Revolution Lighting Technologies Inc.,80,true
+L3c,report_16,R03T,Apex Global Brands,treatment,30,true,Cherokee Inc. (later Apex Global Brands),85,false
+L3c,report_17,R06C,Axcelis,control,24,true,Axcelis Technologies Inc.,95,false
+L3c,report_18,R09T,Lottery.com,treatment,88,true,Lottery.com Inc.,92,true
+L3c,report_19,R05T,Power Solutions Intl,treatment,80,true,Power Solutions International Inc.,92,true
+L3c,report_20,R08C,Coffee Holding,control,20,true,Coffee Holding Co. Inc.,90,false
