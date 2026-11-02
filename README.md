@@ -27,6 +27,11 @@ GE 原本在名單中，但其 FY2016 10-K 在資料集中為空（年報以引�
   - M 0.61、F 0.57、C 0.53、T+F+C 0.59；三個預先登錄假設都不成立。M 前 10 名中 8 家是問題公司
   - 流程：`results/round5/protocol.md` → SEC 原始申報檔 → `raw_values.tsv`（人工讀值）→ `round5 features` → `check_review.tsv`（人工判定）→ `round5 evaluate`
 - 全部 102 份總表：`results/summary_table.csv`
+- 第八輪（去除記憶污染：事實卡瓶頸 + 辨識探針 + 名稱開關 + 內容擾動）：[`results/round8/review.md`](results/round8/review.md)
+  - 只給公司名稱（不給年報）AUC 0.88；事實卡（無名稱）0.67；評分者 0/28 認出、0/28 知道結果；內容擾動 14/14 方向正確
+  - 但給候選名單時事實卡可被配對（26/28，粗化後 18/28），必須做時間外測試
+  - 流程：`results/round8/protocol.md` → `python -m experiment.edgar_risk.round8 build` → 抽取 agent → `verify` → `cards` → 判斷 agent → `evaluate`
+- **提案（含第九輪時間外驗證設計）：[`PROPOSAL.md`](PROPOSAL.md)**
 
 ## 流程
 1. **抓資料** `python -m experiment.edgar_risk.fetch`
