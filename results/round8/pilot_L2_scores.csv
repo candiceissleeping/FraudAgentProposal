@@ -1,0 +1,11 @@
+report,pid,company,group,b_score,l2_score,recognised,company_name_guess,recognition_confidence,knows_later_problems,filename_leak
+report_05,P01T,Latch,treatment,62,72,true,"Latch, Inc. (FY2021)",90,true,false
+report_07,P01C,AerSale,control,20,18,true,"AerSale Corporation (FY2021)",85,false,partial (period only)
+report_04,P02T,Archer-Daniels-Midland,treatment,25,22,true,"Archer-Daniels-Midland Company (FY2022)",95,true,false
+report_03,P02C,Bunge,control,8,8,true,"Bunge Limited (FY2022)",95,false,false
+report_08,P03T,Ammo,treatment,70,50,true,"AMMO, Inc. (FY2023)",92,true,false
+report_09,P03C,National Presto,control,12,8,true,"National Presto Industries (FY2022)",95,false,true
+report_06,P04T,Adamis,treatment,45,40,true,"Adamis Pharmaceuticals (FY2020)",92,true,true
+report_10,P04C,PDS Biotechnology,control,12,22,true,"PDS Biotechnology Corp (FY2020)",85,false,false
+report_02,P05T,Becton Dickinson,treatment,25,18,true,"Becton, Dickinson and Company (FY2019)",97,true,true
+report_01,P05C,Boston Scientific,control,12,8,true,"Boston Scientific Corporation (FY2019)",95,false,false
