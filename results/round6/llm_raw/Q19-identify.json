@@ -1,0 +1,23 @@
+{
+ "custom_id": "Q19-identify",
+ "requested_model": "gpt-5.5",
+ "error": null,
+ "model": "gpt-5.5-2026-04-23",
+ "stop_reason": "end_turn",
+ "usage": {
+  "prompt_tokens": 57057,
+  "completion_tokens": 239,
+  "total_tokens": 57296,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "audio_tokens": 0
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 192,
+   "audio_tokens": 0,
+   "accepted_prediction_tokens": 0,
+   "rejected_prediction_tokens": 0
+  }
+ },
+ "text": "{\"company_guess\":\"Dillard's, Inc.\",\"fiscal_year_guess\":\"Fiscal 2003 (year ended January 31, 2004)\",\"confidence\":99}"
+}

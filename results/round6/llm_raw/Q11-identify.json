@@ -1,0 +1,23 @@
+{
+ "custom_id": "Q11-identify",
+ "requested_model": "gpt-5.5",
+ "error": null,
+ "model": "gpt-5.5-2026-04-23",
+ "stop_reason": "end_turn",
+ "usage": {
+  "prompt_tokens": 176261,
+  "completion_tokens": 498,
+  "total_tokens": 176759,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "audio_tokens": 0
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 466,
+   "audio_tokens": 0,
+   "accepted_prediction_tokens": 0,
+   "rejected_prediction_tokens": 0
+  }
+ },
+ "text": "{\"company_guess\":\"Aetna Inc.\",\"fiscal_year_guess\":\"2005\",\"confidence\":98}"
+}

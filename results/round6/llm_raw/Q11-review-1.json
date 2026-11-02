@@ -1,0 +1,23 @@
+{
+ "custom_id": "Q11-review-1",
+ "requested_model": "gpt-5.5",
+ "error": null,
+ "model": "gpt-5.5-2026-04-23",
+ "stop_reason": "end_turn",
+ "usage": {
+  "prompt_tokens": 176961,
+  "completion_tokens": 20949,
+  "total_tokens": 197910,
+  "prompt_tokens_details": {
+   "cached_tokens": 130304,
+   "audio_tokens": 0
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 20163,
+   "audio_tokens": 0,
+   "accepted_prediction_tokens": 0,
+   "rejected_prediction_tokens": 0
+  }
+ },
+ "text": "{\"findings\":[{\"category\":\"A3_notes_vs_statements\",\"description\":\"Document A's balance sheet caption says 1.4 billion common shares were authorized at December 31, Y0, but the same filing says the Y0 stock-split amendment increased authorized common shares to 1.5 billion on March 11, Y0, before year-end.\",\"doc_a\":\"A\",\"quote_a\":\"Common stock and additional paid-in capital ($.01 par value, 1.4 billion shares authorized, 566.5 million shares issued and outstanding in Y0; 732.5 million shares authorized, 586.0 million shares issued and outstanding in Y-1)\",\"amount_a\":\"1.4 billion shares authorized\",\"doc_b\":\"A\",\"quote_b\":\"This amendment increased the number of authorized common shares of the Company to 1.5 billion shares on March 11, Y0.\",\"amount_b\":\"1.5 billion shares\",\"explained\":false,\"explanation_quote\":\"\",\"severity\":\"low\"},{\"category\":\"A4_prior_year_changed\",\"description\":\"The statutory net income and statutory surplus/capital-and-surplus figures for prior years changed materially from Document B to Document A. For the overlapping Y-1 and Y-2 years, Document A reports higher amounts, with no specific restatement or reclassification explanation tied to this table.\",\"doc_a\":\"A\",\"quote_a\":\"Statutory net income  $1,568.3  $1,276.6  $1,084.5\\nStatutory capital and surplus  4,547.3  4,001.6  3,902.2\",\"amount_a\":\"Y-1 statutory net income $1,276.6; Y-1 statutory capital and surplus $4,001.6\",\"doc_b\":\"B\",\"quote_b\":\"Statutory net income  $1,221.4  $1,047.3  $689.2\\nStatutory surplus  3,847.1  3,806.0  3,606.7\",\"amount_b\":\"Y-1 statutory net income $1,221.4; Y-1 statutory surplus $3,847.1\",\"explained\":false,\"explanation_quote\":\"\",\"severity\":\"medium\"}],\"overall_rating\":20,\"summary\":\"The core GAAP statements generally reconcile, but I found two unexplained inconsistencies: an authorized-share count conflict inside Document A and a material change in prior-year statutory regulatory figures between the prior and current filings. These issues affect note/equity disclosures rather than the main income, cash flow, asset, or equity totals.\"}"
+}

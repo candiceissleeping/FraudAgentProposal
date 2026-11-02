@@ -1,0 +1,23 @@
+{
+ "custom_id": "Q14-identify",
+ "requested_model": "gpt-5.5",
+ "error": null,
+ "model": "gpt-5.5-2026-04-23",
+ "stop_reason": "end_turn",
+ "usage": {
+  "prompt_tokens": 111089,
+  "completion_tokens": 235,
+  "total_tokens": 111324,
+  "prompt_tokens_details": {
+   "cached_tokens": 110848,
+   "audio_tokens": 0
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 202,
+   "audio_tokens": 0,
+   "accepted_prediction_tokens": 0,
+   "rejected_prediction_tokens": 0
+  }
+ },
+ "text": "{\"company_guess\":\"The Chubb Corporation\",\"fiscal_year_guess\":\"2004\",\"confidence\":98}"
+}

@@ -1,0 +1,23 @@
+{
+ "custom_id": "Q14-review-1",
+ "requested_model": "gpt-5.5",
+ "error": null,
+ "model": "gpt-5.5-2026-04-23",
+ "stop_reason": "end_turn",
+ "usage": {
+  "prompt_tokens": 111789,
+  "completion_tokens": 14896,
+  "total_tokens": 126685,
+  "prompt_tokens_details": {
+   "cached_tokens": 111360,
+   "audio_tokens": 0
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 14336,
+   "audio_tokens": 0,
+   "accepted_prediction_tokens": 0,
+   "rejected_prediction_tokens": 0
+  }
+ },
+ "text": "{\"findings\":[{\"category\":\"A4_prior_year_changed\",\"description\":\"Document A changes the previously reported rent expense for the same prior years. For Y-1, total rent expense is shown as $112.6 million in Document A versus $124.7 million in Document B; for Y-2, $106.9 million versus $111.6 million. The difference is in office facilities expense, while equipment expense is unchanged. I did not find a specific explanation for this change.\",\"doc_a\":\"A\",\"quote_a\":\"[NAME] expense was as follows:\\nYears Ended\\nDecember 31\\nY0  Y-1  Y-2\\n(in millions)\\nOffice facilities  $97.3  $93.2  $89.9\\nEquipment  16.4  19.4  17.0\\n$113.7  $112.6  $106.9\",\"amount_a\":\"$112.6 (Y-1); $106.9 (Y-2)\",\"doc_b\":\"B\",\"quote_b\":\"[NAME] expense was as follows:\\nYears Ended\\nDecember 31\\nY-1  Y-2  Y-3\\n(in millions)\\nOffice facilities  $105.3  $94.6  $82.3\\nEquipment  19.4  17.0  15.5\\n$124.7  $111.6  $97.8\",\"amount_b\":\"$124.7 (Y-1); $111.6 (Y-2)\",\"explained\":false,\"explanation_quote\":\"\",\"severity\":\"low\"}],\"overall_rating\":5,\"summary\":\"The financial statements are largely consistent. I found one unexplained prior-year change in a lease/rent expense note, but it is a secondary disclosure and small relative to the company\u2019s overall results.\"}"
+}

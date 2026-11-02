@@ -1,0 +1,23 @@
+{
+ "custom_id": "Q13-review-1",
+ "requested_model": "gpt-5.5",
+ "error": null,
+ "model": "gpt-5.5-2026-04-23",
+ "stop_reason": "end_turn",
+ "usage": {
+  "prompt_tokens": 71023,
+  "completion_tokens": 16915,
+  "total_tokens": 87938,
+  "prompt_tokens_details": {
+   "cached_tokens": 70912,
+   "audio_tokens": 0
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 15867,
+   "audio_tokens": 0,
+   "accepted_prediction_tokens": 0,
+   "rejected_prediction_tokens": 0
+  }
+ },
+ "text": "{\"findings\":[{\"category\":\"A4_prior_year_changed\",\"description\":\"Document A changes the prior-year Note 2 unaudited pro forma combined results. For the same Y-1 and Y-2 pro forma revenue amounts, Document A reports materially different pro forma net income/loss than Document B.\",\"doc_a\":\"A\",\"quote_a\":\"Revenue Net income (loss) Basic earnings (loss) per share Shares used in computation Diluted earnings (loss) per share Shares used in computation  $$$7,082 362 .62 586 .60 604  $$$6,374 (237 (.40 592 (.40 592)))\",\"amount_a\":\"Y-1 net income $362 million; Y-2 net loss $(237) million\",\"doc_b\":\"B\",\"quote_b\":\"Net revenue  7,082  6,374\\nNet loss  (59)  (50)\\nBasic loss per share  $(.10)  $(.08)\\nShares used in computation  586  592\",\"amount_b\":\"Y-1 net loss $(59) million; Y-2 net loss $(50) million\",\"explained\":true,\"explanation_quote\":\"as adjusted within the allocation period\",\"severity\":\"medium\"},{\"category\":\"A4_prior_year_changed\",\"description\":\"Document A also changes the prior-year Note 2 unaudited pro forma combined results excluding special charges. Revenue is unchanged, but net income and EPS differ from the prior 10-K.\",\"doc_a\":\"A\",\"quote_a\":\"Revenue Net income Basic earnings per share Shares used in computation Diluted earnings per share Shares used in computation  $$$7,082 1,344 2.29 586 2.23 604  $$$6,374 706 1.19 592 1.16 609\",\"amount_a\":\"Y-1 net income $1,344 million; Y-2 net income $706 million; diluted EPS $2.23 and $1.16\",\"doc_b\":\"B\",\"quote_b\":\"Net revenue  7,082  6,374\\nNet income  1,412  893\\nBasic earnings per share  $2.41  $1.51\\nShares used in computation  586  592\",\"amount_b\":\"Y-1 net income $1,412 million; Y-2 net income $893 million; basic EPS $2.41 and $1.51\",\"explained\":true,\"explanation_quote\":\"as adjusted within the allocation period\",\"severity\":\"medium\"},{\"category\":\"A4_prior_year_changed\",\"description\":\"Document A revises the prior-year acquisition purchase price allocations for Sterling and [NAME]. The total purchase prices are unchanged, but deferred taxes and other assets differ from Document B.\",\"doc_a\":\"A\",\"quote_a\":\"Cash and cash equivalents Deferred income taxes, net Other assets, net In-process research and development Purchased software products Goodwill and other intangibles(1) Purchase Price  $$476 (377 109 150 1,532 2,177 4,067)\",\"amount_a\":\"Sterling deferred income taxes $(377) million; other assets $109 million; goodwill and other intangibles $2,177 million\",\"doc_b\":\"B\",\"quote_b\":\"Cash and cash equivalents  $476  $57\\nDeferred income taxes, net  (338)  -\\nOther assets, net  69  95\\nIn-process research and development  150  645\",\"amount_b\":\"Sterling deferred income taxes $(338) million; other assets $69 million; goodwill and other intangibles $2,178 million\",\"explained\":true,\"explanation_quote\":\"as adjusted within the allocation period\",\"severity\":\"low\"}],\"overall_rating\":10,\"summary\":\"The primary financial statements, selected financial data, quarterly data, and major MD&A figures generally reconcile. The notable inconsistencies are prior-year pro forma and acquisition-allocation amounts that changed from Document B to Document A. Document A flags these as adjusted within the acquisition allocation period, so they are not strong unexplained contradictions, but the pro forma net income changes are material enough to note.\"}"
+}

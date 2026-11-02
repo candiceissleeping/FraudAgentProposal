@@ -1,0 +1,23 @@
+{
+ "custom_id": "Q10-identify",
+ "requested_model": "gpt-5.5",
+ "error": null,
+ "model": "gpt-5.5-2026-04-23",
+ "stop_reason": "end_turn",
+ "usage": {
+  "prompt_tokens": 176769,
+  "completion_tokens": 210,
+  "total_tokens": 176979,
+  "prompt_tokens_details": {
+   "cached_tokens": 176384,
+   "audio_tokens": 0
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 177,
+   "audio_tokens": 0,
+   "accepted_prediction_tokens": 0,
+   "rejected_prediction_tokens": 0
+  }
+ },
+ "text": "{\"company_guess\":\"Symbol Technologies, Inc.\",\"fiscal_year_guess\":\"2001\",\"confidence\":98}"
+}

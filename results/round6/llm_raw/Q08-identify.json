@@ -1,0 +1,23 @@
+{
+ "custom_id": "Q08-identify",
+ "requested_model": "gpt-5.5",
+ "error": null,
+ "model": "gpt-5.5-2026-04-23",
+ "stop_reason": "end_turn",
+ "usage": {
+  "prompt_tokens": 133676,
+  "completion_tokens": 126,
+  "total_tokens": 133802,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "audio_tokens": 0
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 93,
+   "audio_tokens": 0,
+   "accepted_prediction_tokens": 0,
+   "rejected_prediction_tokens": 0
+  }
+ },
+ "text": "{\"company_guess\":\"DeVry Inc.\",\"fiscal_year_guess\":\"2013\",\"confidence\":98}"
+}

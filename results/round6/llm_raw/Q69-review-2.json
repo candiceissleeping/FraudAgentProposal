@@ -1,0 +1,23 @@
+{
+ "custom_id": "Q69-review-2",
+ "requested_model": "gpt-5.5",
+ "error": null,
+ "model": "gpt-5.5-2026-04-23",
+ "stop_reason": "end_turn",
+ "usage": {
+  "prompt_tokens": 12805,
+  "completion_tokens": 12679,
+  "total_tokens": 25484,
+  "prompt_tokens_details": {
+   "cached_tokens": 12544,
+   "audio_tokens": 0
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 11774,
+   "audio_tokens": 0,
+   "accepted_prediction_tokens": 0,
+   "rejected_prediction_tokens": 0
+  }
+ },
+ "text": "{\"findings\":[{\"category\":\"A4_prior_year_changed\",\"description\":\"The current-year selected financial data shows a different Y-1 SG&A expense and operating loss than the prior-year 10-K, while net sales, cost of goods sold, and restructuring costs for that year are unchanged. No restatement or reclassification explanation is provided in the excerpts.\",\"doc_a\":\"A\",\"quote_a\":\"expense  131.1  214.0  137.5  128.9  119.3\\nRestructuring, impairment and other costs  --  154.8  --  --  --\\nOperating earnings (loss)  $199.4  $(285.2)  $70.3  $151.0  $134.0\",\"amount_a\":\"Y-1 SG&A $214.0 million; Y-1 operating loss $(285.2) million\",\"doc_b\":\"B\",\"quote_b\":\"expense  121.5  119.3  128.9  137.5  216.1\\nRestructuring, impairment and other costs  -  -  -  -  154.8\\nOperating earnings (loss)  $102.8  $134.0  $151.0  $70.3  $(287.3)\",\"amount_b\":\"Y-1 SG&A $216.1 million; Y-1 operating loss $(287.3) million\",\"explained\":false,\"explanation_quote\":\"\",\"severity\":\"medium\"},{\"category\":\"A6_inconsistent_statements\",\"description\":\"Within Document A, the same Y-1 SG&A ratio excluding special charges is stated two different ways.\",\"doc_a\":\"A\",\"quote_a\":\"resulted in [NAME] decreasing as a percentage of sales from 17.4% in Y-1 (excluding the impact of special charges) to 11.2% for Y0.\",\"amount_a\":\"17.4% of sales\",\"doc_b\":\"A\",\"quote_b\":\"Selling, general and administrative (\\\"[NAME]\\\") expenses, excluding the impact of special charges described above, were 17.6% of sales in Y-1\",\"amount_b\":\"17.6% of sales\",\"explained\":false,\"explanation_quote\":\"\",\"severity\":\"medium\"},{\"category\":\"A4_prior_year_changed\",\"description\":\"The discussion of the $12.0 million media advertising campaign changed the fiscal period from fourth quarter Y0 in the prior-year 10-K to fourth quarter Y-1 in the current-year 10-K. The filing gives no explanation; the prior-year wording is also inconsistent with its discussion of Y-1 SG&A spending.\",\"doc_a\":\"A\",\"quote_a\":\"In addition, a $12.0 million fourth quarter Y-1 media advertising campaign and one-time expenditures for market research, new packaging, and other growth plan initiatives resulted in higher than normal\",\"amount_a\":\"$12.0 million; fourth quarter Y-1\",\"doc_b\":\"B\",\"quote_b\":\"In addition, a $12.0 million fourth quarter Y0 media advertising campaign and one-time expenditures for market research, new packaging, and other growth plan initiatives resulted in higher than normal\",\"amount_b\":\"$12.0 million; fourth quarter Y0\",\"explained\":false,\"explanation_quote\":\"\",\"severity\":\"low\"}],\"overall_rating\":20,\"summary\":\"The excerpts are mostly consistent, but there is an unexplained change in the prior-year SG&A expense and operating loss, and the current filing retains inconsistent SG&A percentage discussion for Y-1. These issues are above the rounding threshold but do not affect reported net loss in the excerpts, so the reliability concern is limited rather than severe.\"}"
+}

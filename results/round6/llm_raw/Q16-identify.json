@@ -1,0 +1,23 @@
+{
+ "custom_id": "Q16-identify",
+ "requested_model": "gpt-5.5",
+ "error": null,
+ "model": "gpt-5.5-2026-04-23",
+ "stop_reason": "end_turn",
+ "usage": {
+  "prompt_tokens": 319855,
+  "completion_tokens": 314,
+  "total_tokens": 320169,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "audio_tokens": 0
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 262,
+   "audio_tokens": 0,
+   "accepted_prediction_tokens": 0,
+   "rejected_prediction_tokens": 0
+  }
+ },
+ "text": "{\"company_guess\":\"CMS Energy Corporation (combined Form 10-K also filed by Consumers Energy Company and Panhandle Eastern Pipe Line Company)\",\"fiscal_year_guess\":\"2001\",\"confidence\":99}"
+}

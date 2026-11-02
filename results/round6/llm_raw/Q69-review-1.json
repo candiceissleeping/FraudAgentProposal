@@ -1,0 +1,23 @@
+{
+ "custom_id": "Q69-review-1",
+ "requested_model": "gpt-5.5",
+ "error": null,
+ "model": "gpt-5.5-2026-04-23",
+ "stop_reason": "end_turn",
+ "usage": {
+  "prompt_tokens": 12805,
+  "completion_tokens": 14940,
+  "total_tokens": 27745,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "audio_tokens": 0
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 13825,
+   "audio_tokens": 0,
+   "accepted_prediction_tokens": 0,
+   "rejected_prediction_tokens": 0
+  }
+ },
+ "text": "{\"findings\":[{\"category\":\"A4_prior_year_changed\",\"description\":\"The current-year filing (Document A) changes the prior-year Y-1 selected financial data for SG&A expense and operating loss compared with the prior-year filing (Document B). Net sales, cost of goods sold, and restructuring costs are unchanged, so the $2.1 million difference flows through operating loss with no explanation in the provided text.\",\"doc_a\":\"A\",\"quote_a\":\"Selling, general and administrative\\nexpense  131.1  214.0  137.5  128.9  119.3\\nRestructuring, impairment and other costs  --  154.8  --  --  --\\nOperating earnings (loss)  $199.4  $(285.2)  $70.3\",\"amount_a\":\"$214.0; $(285.2)\",\"doc_b\":\"B\",\"quote_b\":\"Selling, general and administrative\\nexpense  121.5  119.3  128.9  137.5  216.1\\nRestructuring, impairment and other costs  -  -  -  -  154.8\\nOperating earnings (loss)  $102.8  $134.0  $151.0  $70.3  $(287.3)\",\"amount_b\":\"$216.1; $(287.3)\",\"explained\":false,\"explanation_quote\":\"\",\"severity\":\"medium\"},{\"category\":\"A6_inconsistent_statements\",\"description\":\"Document A gives two different Y-1 SG&A percentages excluding special charges: 17.4% in the Y0 comparison and 17.6% in the Y-1 comparison. Both passages describe SG&A excluding special charges as a percentage of sales for Y-1.\",\"doc_a\":\"A\",\"quote_a\":\"resulted in [NAME] decreasing as a percentage of sales from 17.4% in Y-1\\n(excluding the impact of special charges) to 11.2% for Y0.\",\"amount_a\":\"17.4%\",\"doc_b\":\"A\",\"quote_b\":\"Selling, general and administrative (\\\"[NAME]\\\") expenses, excluding the\\nimpact of special charges described above, were 17.6% of sales in Y-1\",\"amount_b\":\"17.6%\",\"explained\":false,\"explanation_quote\":\"\",\"severity\":\"medium\"},{\"category\":\"A6_inconsistent_statements\",\"description\":\"Document A states that non-core businesses and product lines, including decorative bedding, were divested in Y0, but later says decorative bedding was divested in December Y-1.\",\"doc_a\":\"A\",\"quote_a\":\"Product categories and businesses determined to be\\nnon-core were divested in Y0, including the Company's furniture business and\\nits time and temperature, decorative bedding and [NAME]/registered trademark/\\nand [NAME]/registered trademark/ scale product lines.\",\"amount_a\":\"Y0\",\"doc_b\":\"A\",\"quote_b\":\"lower sales of bedding products which declined 9.0% from Y-2, primarily as\\nresult of lower decorative bedding sales (divested in December Y-1).\",\"amount_b\":\"December Y-1\",\"explained\":false,\"explanation_quote\":\"\",\"severity\":\"low\"},{\"category\":\"A4_prior_year_changed\",\"description\":\"For the same Y-1 SG&A discussion, Document A says the $12.0 million media advertising campaign occurred in fourth quarter Y-1, while Document B says fourth quarter Y0. Document B\u2019s wording would place the campaign after the Y-1 period whose SG&A it is explaining.\",\"doc_a\":\"A\",\"quote_a\":\"In addition, a $12.0 million fourth quarter Y-1 media\\nadvertising campaign and one-time expenditures for market research, new\\npackaging,\",\"amount_a\":\"$12.0 million fourth quarter Y-1\",\"doc_b\":\"B\",\"quote_b\":\"In addition, a $12.0 million fourth quarter Y0 media advertising\\ncampaign and one-time expenditures for market research, new packaging,\",\"amount_b\":\"$12.0 million fourth quarter Y0\",\"explained\":false,\"explanation_quote\":\"\",\"severity\":\"low\"}],\"overall_rating\":20,\"summary\":\"The filing is largely arithmetically consistent, but there are several unexplained inconsistencies. The most substantive is the current-year filing changing prior-year SG&A expense and operating loss by $2.1 million without an explanation. Related MD&A percentages for prior-year SG&A also conflict. The remaining issues are narrative/date inconsistencies around divestiture timing and a $12.0 million advertising campaign.\"}"
+}

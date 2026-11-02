@@ -1,0 +1,23 @@
+{
+ "custom_id": "Q18-review-2",
+ "requested_model": "gpt-5.5",
+ "error": null,
+ "model": "gpt-5.5-2026-04-23",
+ "stop_reason": "end_turn",
+ "usage": {
+  "prompt_tokens": 61020,
+  "completion_tokens": 22239,
+  "total_tokens": 83259,
+  "prompt_tokens_details": {
+   "cached_tokens": 60672,
+   "audio_tokens": 0
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 20984,
+   "audio_tokens": 0,
+   "accepted_prediction_tokens": 0,
+   "rejected_prediction_tokens": 0
+  }
+ },
+ "text": "{\"findings\":[{\"category\":\"A6_inconsistent_statements\",\"description\":\"Document A says issuer equity-security purchases are not applicable, but the cash-flow statement reports a treasury stock purchase during Y0.\",\"doc_a\":\"A\",\"quote_a\":\"(c)\\nPurchases of Equity Securities by the [NAME]\\nNot applicable\",\"amount_a\":\"Not applicable\",\"doc_b\":\"A\",\"quote_b\":\"FINANCING ACTIVITIES:\\nCash dividends paid  (270.9)  (171.9)  (123.0)\\nPurchase of treasury stock  (107.7)\",\"amount_b\":\"$107.7\",\"explained\":false,\"explanation_quote\":\"\",\"severity\":\"medium\"},{\"category\":\"A6_inconsistent_statements\",\"description\":\"Document B's MD&A commitments table classifies all equipment acquisition commitments as within one year, while the commitments note schedules the same total into later years Y+1 through Y+3.\",\"doc_a\":\"B\",\"quote_a\":\"Within One Year  More than One Year  Total\\nLetters of credit  $34.8  $.3  $35.1\\nLoan guarantees  1.8  12.5  14.3\\nLoan and lease commitments  178.4  178.4\\nEquipment acquisition commitments  53.4  53.4\",\"amount_a\":\"$53.4 within one year\",\"doc_b\":\"B\",\"quote_b\":\"The Company is committed, under specific circumstances, to purchase equipment at a cost of $30.4 in Y+1, $14.9 in Y+2 and $8.1 in Y+3.\",\"amount_b\":\"$30.4 in Y+1, $14.9 in Y+2 and $8.1 in Y+3\",\"explained\":false,\"explanation_quote\":\"\",\"severity\":\"medium\"},{\"category\":\"A4_prior_year_changed\",\"description\":\"Document A changes the Y-2 cash paid for income taxes from the amount reported for the same year in Document B.\",\"doc_a\":\"A\",\"quote_a\":\"Cash\\npaid for income taxes was $418.7, $246.0 and $114.6 in Y0, Y-1 and Y-2.\",\"amount_a\":\"$114.6 in Y-2\",\"doc_b\":\"B\",\"quote_b\":\"Cash\\npaid for income taxes was $246.0, $111.6 and $43.0 in Y-1, Y-2 and Y-3,\\nrespectively.\",\"amount_b\":\"$111.6 in Y-2\",\"explained\":false,\"explanation_quote\":\"\",\"severity\":\"medium\"},{\"category\":\"A4_prior_year_changed\",\"description\":\"Document A changes prior-year operating cash flow amounts from those reported in Document B; the filing explains this as a cash-flow presentation reclassification.\",\"doc_a\":\"A\",\"quote_a\":\"Net Cash Provided by Operating Activities  891.0  778.3  588.1\",\"amount_a\":\"$778.3 in Y-1; $588.1 in Y-2\",\"doc_b\":\"B\",\"quote_b\":\"Net Cash Provided by Operating Activities  818.7  795.4  625.7\",\"amount_b\":\"$818.7 in Y-1; $795.4 in Y-2\",\"explained\":true,\"explanation_quote\":\"Prior year cash flows were reclassified to conform to the current year presentation. The change had no impact on the Company\u2019s net income, total cash flows or the cash and liquidity position of the Company.\",\"severity\":\"high\"},{\"category\":\"A4_prior_year_changed\",\"description\":\"Document A changes prior-year investing cash flow totals from those reported in Document B; the filing explains this as the same cash-flow presentation reclassification.\",\"doc_a\":\"A\",\"quote_a\":\"Net Cash Used in Investing Activities  (1,206.1)  (198.9)  (385.7)\",\"amount_a\":\"$(198.9) in Y-1; $(385.7) in Y-2\",\"doc_b\":\"B\",\"quote_b\":\"Net Cash (Used in) Provided by Investing Activities  (239.3)  (593.0)  75.1\",\"amount_b\":\"$(239.3) in Y-1; $(593.0) in Y-2\",\"explained\":true,\"explanation_quote\":\"The statements of cash flows for Y-1 and Y-2 have been reclassified consistent with the Y0 presentation\",\"severity\":\"high\"}],\"overall_rating\":18,\"summary\":\"The core income statement, balance sheet, equity roll-forward, and most notes reconcile well. The largest prior-year cash-flow changes are explicitly explained as reclassifications. Unexplained issues remain in the issuer-purchase disclosure versus treasury stock purchases, the timing of Document B equipment acquisition commitments, and a changed Y-2 cash income-tax-paid disclosure.\"}"
+}

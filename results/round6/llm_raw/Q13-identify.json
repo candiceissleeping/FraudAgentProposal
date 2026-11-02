@@ -1,0 +1,23 @@
+{
+ "custom_id": "Q13-identify",
+ "requested_model": "gpt-5.5",
+ "error": null,
+ "model": "gpt-5.5-2026-04-23",
+ "stop_reason": "end_turn",
+ "usage": {
+  "prompt_tokens": 70323,
+  "completion_tokens": 275,
+  "total_tokens": 70598,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "audio_tokens": 0
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 232,
+   "audio_tokens": 0,
+   "accepted_prediction_tokens": 0,
+   "rejected_prediction_tokens": 0
+  }
+ },
+ "text": "{\"company_guess\":\"Computer Associates International, Inc.\",\"fiscal_year_guess\":\"fiscal year ended March 31, 2001\",\"confidence\":99}"
+}

@@ -1,0 +1,23 @@
+{
+ "custom_id": "Q10-review-2",
+ "requested_model": "gpt-5.5",
+ "error": null,
+ "model": "gpt-5.5-2026-04-23",
+ "stop_reason": "end_turn",
+ "usage": {
+  "prompt_tokens": 177469,
+  "completion_tokens": 18955,
+  "total_tokens": 196424,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "audio_tokens": 0
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 17735,
+   "audio_tokens": 0,
+   "accepted_prediction_tokens": 0,
+   "rejected_prediction_tokens": 0
+  }
+ },
+ "text": "{\"findings\":[{\"category\":\"A3_notes_vs_statements\",\"description\":\"In Document A, the face statement and selected data show the Y-1 EPS as a loss, but the EPS reconciliation note presents the same Y-1 per-share amount without parentheses, i.e., as positive.\",\"doc_a\":\"A\",\"quote_a\":\"Basic  ($0.24)  ($0.33)  $0.59\\nDiluted  ($0.24)  ($0.33)  $0.55\",\"amount_a\":\"($0.33)\",\"doc_b\":\"A\",\"quote_b\":\"stockholders  ($53,907)227,392 ($0.24) ($68,966)206,444  $0.33  $116,364 198,732 $0.59\",\"amount_b\":\"$0.33\",\"explained\":false,\"explanation_quote\":\"\",\"severity\":\"medium\"},{\"category\":\"A6_inconsistent_statements\",\"description\":\"Document A\u2019s executive retirement plan table does not reconcile on its face: it reports a Y0 benefit obligation of $12.094 million but a funded status of negative $17.350 million. No plan assets or other reconciling item is shown in the quoted table lines.\",\"doc_a\":\"A\",\"quote_a\":\"Benefit obligation at end of year  $12,094  $10,964  $10,381\",\"amount_a\":\"$12,094\",\"doc_b\":\"A\",\"quote_b\":\"Funded status  ($17,350)  ($17,483)($13,730)\\nUnrecognized actuarial loss  4,718  5,981  2,719\",\"amount_b\":\"($17,350)\",\"explained\":false,\"explanation_quote\":\"\",\"severity\":\"medium\"},{\"category\":\"A6_inconsistent_statements\",\"description\":\"Document A\u2019s audit report is dated February 13, Y+1, but the audited notes include a litigation update dated March 25, Y+1, with no dual dating or other explanation in the audit report.\",\"doc_a\":\"A\",\"quote_a\":\"/s/ [NAME]\\nNew [NAME], New [NAME]\\nFebruary 13, Y+1\",\"amount_a\":\"February 13, Y+1\",\"doc_b\":\"A\",\"quote_b\":\"On March 25, Y+1, the Court ruled on the\\npending motions.\",\"amount_b\":\"March 25, Y+1\",\"explained\":false,\"explanation_quote\":\"\",\"severity\":\"medium\"},{\"category\":\"A6_inconsistent_statements\",\"description\":\"Document B has the same kind of dating inconsistency: the audit report is dated February 20, Y0, dual-dated only as to Note 20 on February 26, Y0, but another audited note includes a March 9, Y0 event.\",\"doc_a\":\"B\",\"quote_a\":\"/s/ [NAME]\\nNew [NAME], New [NAME]\\nFebruary 20, Y0 (February 26, Y0 as to Note 20)\",\"amount_a\":\"February 20, Y0 (February 26, Y0 as to Note 20)\",\"doc_b\":\"B\",\"quote_b\":\"By letter dated March 9, Y0, the Division of Enforcement of the\\nCommission informed [NAME] that it had made a preliminary\\ndetermination\",\"amount_b\":\"March 9, Y0\",\"explained\":false,\"explanation_quote\":\"\",\"severity\":\"medium\"},{\"category\":\"A4_prior_year_changed\",\"description\":\"The Y-1 geographic identifiable asset allocations changed between the prior-year filing and the current-year filing, although total assets stayed the same. Document A gives a generic reclassification explanation.\",\"doc_a\":\"A\",\"quote_a\":\"Identifiable assets  $1,380,287  $281,008  $69,617  $362,287  $2,093,199\",\"amount_a\":\"$1,380,287 / $281,008 / $69,617 / $362,287\",\"doc_b\":\"B\",\"quote_b\":\"Identifiable assets  $1,482,683  $196,643  $53,021  $360,852  $2,093,199\",\"amount_b\":\"$1,482,683 / $196,643 / $53,021 / $360,852\",\"explained\":true,\"explanation_quote\":\"Certain reclassifications have been made to prior consolidated\\nfinancial statements to conform with current presentations.\",\"severity\":\"low\"}],\"overall_rating\":32,\"summary\":\"Most primary financial statement totals and roll-forwards appear internally consistent. The notable unexplained issues are an EPS sign error in Document A\u2019s EPS reconciliation, an executive retirement plan table that does not reconcile on its face, and audit-report dating inconsistencies where notes contain later events without corresponding dual dating. One prior-year segment allocation change is explained as a reclassification.\"}"
+}
