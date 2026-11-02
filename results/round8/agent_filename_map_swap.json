@@ -1,0 +1,182 @@
+{
+ "report_01": {
+  "content": "P03T",
+  "condition": "swap",
+  "named": "P03C",
+  "content_group": "treatment"
+ },
+ "report_02": {
+  "content": "P01T",
+  "condition": "real",
+  "named": "P01T",
+  "content_group": "treatment"
+ },
+ "report_03": {
+  "content": "P05T",
+  "condition": "real",
+  "named": "P05T",
+  "content_group": "treatment"
+ },
+ "report_04": {
+  "content": "P03C",
+  "condition": "none",
+  "named": null,
+  "content_group": "control"
+ },
+ "report_05": {
+  "content": "P05T",
+  "condition": "swap",
+  "named": "P05C",
+  "content_group": "treatment"
+ },
+ "report_06": {
+  "content": "P04C",
+  "condition": "none",
+  "named": null,
+  "content_group": "control"
+ },
+ "report_07": {
+  "content": "P03T",
+  "condition": "real",
+  "named": "P03T",
+  "content_group": "treatment"
+ },
+ "report_08": {
+  "content": "P03C",
+  "condition": "swap",
+  "named": "P03T",
+  "content_group": "control"
+ },
+ "report_09": {
+  "content": "P01T",
+  "condition": "none",
+  "named": null,
+  "content_group": "treatment"
+ },
+ "report_10": {
+  "content": "P04T",
+  "condition": "real",
+  "named": "P04T",
+  "content_group": "treatment"
+ },
+ "report_11": {
+  "content": "P04T",
+  "condition": "swap",
+  "named": "P04C",
+  "content_group": "treatment"
+ },
+ "report_12": {
+  "content": "P01T",
+  "condition": "swap",
+  "named": "P01C",
+  "content_group": "treatment"
+ },
+ "report_13": {
+  "content": "P02C",
+  "condition": "none",
+  "named": null,
+  "content_group": "control"
+ },
+ "report_14": {
+  "content": "P01C",
+  "condition": "swap",
+  "named": "P01T",
+  "content_group": "control"
+ },
+ "report_15": {
+  "content": "P05C",
+  "condition": "swap",
+  "named": "P05T",
+  "content_group": "control"
+ },
+ "report_16": {
+  "content": "P02T",
+  "condition": "none",
+  "named": null,
+  "content_group": "treatment"
+ },
+ "report_17": {
+  "content": "P05T",
+  "condition": "none",
+  "named": null,
+  "content_group": "treatment"
+ },
+ "report_18": {
+  "content": "P02C",
+  "condition": "real",
+  "named": "P02C",
+  "content_group": "control"
+ },
+ "report_19": {
+  "content": "P05C",
+  "condition": "real",
+  "named": "P05C",
+  "content_group": "control"
+ },
+ "report_20": {
+  "content": "P05C",
+  "condition": "none",
+  "named": null,
+  "content_group": "control"
+ },
+ "report_21": {
+  "content": "P04C",
+  "condition": "swap",
+  "named": "P04T",
+  "content_group": "control"
+ },
+ "report_22": {
+  "content": "P04T",
+  "condition": "none",
+  "named": null,
+  "content_group": "treatment"
+ },
+ "report_23": {
+  "content": "P03C",
+  "condition": "real",
+  "named": "P03C",
+  "content_group": "control"
+ },
+ "report_24": {
+  "content": "P02T",
+  "condition": "real",
+  "named": "P02T",
+  "content_group": "treatment"
+ },
+ "report_25": {
+  "content": "P02T",
+  "condition": "swap",
+  "named": "P02C",
+  "content_group": "treatment"
+ },
+ "report_26": {
+  "content": "P02C",
+  "condition": "swap",
+  "named": "P02T",
+  "content_group": "control"
+ },
+ "report_27": {
+  "content": "P03T",
+  "condition": "none",
+  "named": null,
+  "content_group": "treatment"
+ },
+ "report_28": {
+  "content": "P04C",
+  "condition": "real",
+  "named": "P04C",
+  "content_group": "control"
+ },
+ "report_29": {
+  "content": "P01C",
+  "condition": "real",
+  "named": "P01C",
+  "content_group": "control"
+ },
+ "report_30": {
+  "content": "P01C",
+  "condition": "none",
+  "named": null,
+  "content_group": "control"
+ }
+}

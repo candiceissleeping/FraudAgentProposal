@@ -59,6 +59,31 @@ RISK_TASK_L3B = RISK_TASK_L3.replace(
     "business-segment and business-unit names are replaced by [SEGMENT_n] / [UNIT_n], days of the month are removed "
     "from dates,")
 
+DISPLAY = {"P01T": "Latch, Inc.", "P01C": "AerSale Corporation", "P02T": "Archer-Daniels-Midland Company",
+           "P02C": "Bunge Limited", "P03T": "AMMO, Inc.", "P03C": "National Presto Industries, Inc.",
+           "P04T": "Adamis Pharmaceuticals Corporation", "P04C": "PDS Biotechnology Corporation",
+           "P05T": "Becton, Dickinson and Company", "P05C": "Boston Scientific Corporation"}
+
+RISK_TASK_NAMED = """The document above is the annual report on Form 10-K of {name}. It has been prepared for a research study:
+the names of people, places, other companies and other identifiers are replaced by placeholders such as [NAME_3] or
+[PERSON_1] (the same placeholder always means the same thing within this document); years are shown relative to the
+fiscal year of the report (Y0 = this fiscal year, Y-1 = the year before); and every monetary amount has been
+multiplied by one undisclosed constant and every share count by another, so per-share amounts change by their ratio;
+ratios, growth rates, sums and per-share identities (income / shares) are preserved but absolute sizes and per-share
+figures are not (differences of about 1 in a total are rounding). Only some sections of the report are included (risk
+factors, legal proceedings, MD&A, financial statements and notes, controls); the business description has been removed
+and replaced by a one-line summary, business-segment and business-unit names are replaced by [SEGMENT_n] / [UNIT_n],
+days of the month are removed from dates, and sentences that describe the company's market position or history have
+been removed.
+
+Rate the risk that this company's financial statements in this filing are materially misstated, through fraud
+or serious accounting errors, on a scale of 0 to 100 (0 = no concern, 100 = almost certainly misstated).
+
+Base the score on this filing. Then answer two short questions separately: do you know of later accounting problems,
+restatements or SEC enforcement involving this company and filing period? And is the content of this document
+consistent with what you know about {name}?"""
+
+
 # Strings the L2-pilot agents actually used to recognise the company (verified present in the pilot packets).
 REGRESSION = {"P01C": ["20211231"], "P02T": ["1ADM", "Oilseeds", "Nutrition", "Carbohydrate Solutions"],
               "P02C": ["1818"], "P03T": ["90,870,094", "Marketplace"], "P03C": ["npk", "Housewares", "Small Appliance"],
@@ -237,16 +262,46 @@ def agent_files(args):
     print(json.dumps(mapping, indent=1))
 
 
+def swap_files(args):
+    """Identity-swap test (protocol section 10): each L3c packet x {real name, partner's name, no name}."""
+    pids = _pids(args.pids)
+    jobs = []
+    for pid in pids:
+        partner = pid[:3] + ("C" if pid.endswith("T") else "T")
+        for cond, named in (("real", pid), ("swap", partner), ("none", None)):
+            jobs.append((pid, cond, named))
+    random.Random(SEED + 10).shuffle(jobs)
+    os.makedirs(args.out, exist_ok=True)
+    mapping, prompts = {}, {}
+    for i, (pid, cond, named) in enumerate(jobs, 1):
+        with gzip.open(f"{DATA}/packets/L3c/{pid}.txt.gz", "rt", encoding="utf-8") as fh:
+            text = fh.read()
+        if named:
+            name = DISPLAY[named]
+            text = f"Company: {name} — Annual report on Form 10-K\n\n" + text.replace("[COMPANY]", name).replace(
+                "[TICKER]", name)
+            prompts[f"report_{i:02d}"] = RISK_TASK_NAMED.format(name=name)
+        else:
+            prompts[f"report_{i:02d}"] = RISK_TASK_L3B
+        open(f"{args.out}/report_{i:02d}.txt", "w").write(text)
+        mapping[f"report_{i:02d}"] = {"content": pid, "condition": cond, "named": named,
+                                      "content_group": "treatment" if pid.endswith("T") else "control"}
+    json.dump(mapping, open(f"{OUT}/agent_filename_map_swap.json", "w"), indent=1)
+    json.dump(prompts, open(f"{args.out}/prompts.json", "w"), indent=1)
+    print(len(jobs), "files")
+
+
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("cmd", choices=["identifiers", "build", "audit", "agent-files"])
+    ap.add_argument("cmd", choices=["identifiers", "build", "audit", "agent-files", "swap-files"])
     ap.add_argument("--pids", default="")
     ap.add_argument("--out", default="")
     ap.add_argument("--level", default="L2", choices=["L2", "L3", "L2b", "L3b", "L2c", "L3c"])
     ap.add_argument("--tag", default="b", help="with --v3: packet suffix (b = scored L3b; c = v3.1 scaling fixes)")
     ap.add_argument("--v3", action="store_true", help="rule version 3: share-count factor j, dates, unit names")
     a = ap.parse_args()
-    {"identifiers": identifiers, "build": build, "audit": audit, "agent-files": agent_files}[a.cmd](a)
+    {"identifiers": identifiers, "build": build, "audit": audit, "agent-files": agent_files,
+     "swap-files": swap_files}[a.cmd](a)
 
 
 if __name__ == "__main__":
