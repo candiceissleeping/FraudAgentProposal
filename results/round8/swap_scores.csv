@@ -28,3 +28,4 @@ report_25,P02T,treatment,swap,P02C,15,true,no,Archer-Daniels-Midland,
 report_26,P02C,control,swap,P02T,8,false,no,Bunge Limited,
 report_22,P04T,treatment,none,,60,true,,,Adamis Pharmaceuticals (85)
 report_29,P01C,control,real,P01C,15,false,yes,,
+report_28,P04C,control,real,P04C,12,false,yes,,
