@@ -31,6 +31,7 @@ DATA = "data/round9"
 OUT = "results/round9"
 AAER = f"{DATA}/aaer_index_2022_2026.json"
 SEED = 9
+REQUIRE_PRIOR = True   # round 7 needed Y-1 for features; round 10 uses only Y0 (and the index has no FY2014 10-Ks)
 
 
 def _ua():
@@ -83,15 +84,17 @@ def controls(args):
                 continue
             prior = [x for x in by_cik[r["cik"]] if x["form"] == "10-K"
                      and 330 <= (round7._date(r["period"]) - round7._date(x["period"])).days <= 400]
-            if not prior or not assets.get(str(r["cik"]), 0) > 0:
+            if (REQUIRE_PRIOR and not prior) or not assets.get(str(r["cik"]), 0) > 0:
                 continue
-            pool.append((r, prior[0]))
-        for digits in (4, 3, 2):
+            pool.append((r, prior[0] if prior else {"adsh": None, "period": None}))
+        for digits in (4, 3, 2, 0):   # 0 = no industry match at all (fallback: closest size in any industry)
             same = [(r, pr) for r, pr in pool if r["sic"][:digits] == sic[:digits]]
-            if len(same) >= 3 or digits == 2:
+            if len(same) >= 3 or (digits == 2 and same) or digits == 0:
                 same.sort(key=lambda x: abs(math.log(assets[x[0]["cik"]] / ta)))
                 (r, pr), level = same[0], digits
                 break
+        if level == 0:
+            print(f"  {c['name']}: no same-industry control with a prior 10-K and XBRL assets; size-only fallback")
         used.add(r["cik"])
         out.append({"case": c["name"], "case_cik": c["cik"], "case_sic": t["sic"], "match_sic": sic, "case_assets": ta,
                     "control": r["name"], "control_cik": int(r["cik"]), "control_sic": r["sic"], "sic_digits": level,
@@ -108,9 +111,10 @@ def _pairs():
     rows = []
     for i, ctl in enumerate(json.load(open(f"{OUT}/controls.json")), 1):
         c = cases[ctl["case"]]
-        rows.append((f"S{i:02d}T", c["name"], c["cik"], c["y0_acc"], c["y0_period"], "treatment", ctl["case_sic"],
+        pre = "S" if SEED == 9 else "R"
+        rows.append((f"{pre}{i:02d}T", c["name"], c["cik"], c["y0_acc"], c["y0_period"], "treatment", ctl["case_sic"],
                      ctl["case_assets"]))
-        rows.append((f"S{i:02d}C", ctl["control"], ctl["control_cik"], ctl["y0_acc"], ctl["y0_period"], "control",
+        rows.append((f"{pre}{i:02d}C", ctl["control"], ctl["control_cik"], ctl["y0_acc"], ctl["y0_period"], "control",
                      ctl["control_sic"], ctl["control_assets"]))
     return rows
 

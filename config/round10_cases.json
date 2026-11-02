@@ -1,0 +1,122 @@
+[
+ {
+  "name": "Pareteum",
+  "cik": 1084384,
+  "action": "SEC order 33-10975 (2021-09): 2018 revenue overstated (restated 2020-12: $32.4M -> $20.3M)",
+  "y0_acc": "0001144204-19-014694",
+  "y0_period": "2018-12-31",
+  "y1_acc": "0001144204-18-018243",
+  "y1_period": "2017-12-31",
+  "match_sic": null,
+  "y0_filed": "20190318",
+  "sic": "7373"
+ },
+ {
+  "name": "Tandy Leather Factory",
+  "cik": 909724,
+  "action": "AAER-4228 (2021-07): inventory and cost of sales misstated, multi-year restatement",
+  "y0_acc": "0000909724-19-000004",
+  "y0_period": "2018-12-31",
+  "y1_acc": "0000909724-18-000005",
+  "y1_period": "2017-12-31",
+  "match_sic": null,
+  "y0_filed": "20190308",
+  "sic": "3100"
+ },
+ {
+  "name": "Apex Global Brands",
+  "cik": 844161,
+  "action": "AAER-4199 (2020-12): trademark impairments not recognised, Jan 2017-Apr 2018",
+  "y0_acc": "0001558370-18-003099",
+  "y0_period": "2018-01-31",
+  "y1_acc": "0001558370-17-004412",
+  "y1_period": "2017-01-31",
+  "match_sic": null,
+  "y0_filed": "20180419",
+  "sic": "2330"
+ },
+ {
+  "name": "Revolution Lighting",
+  "cik": 917523,
+  "action": "AAER-4170 (2020-09): revenue inflated 2014-2018",
+  "y0_acc": "0001193125-18-074202",
+  "y0_period": "2017-12-31",
+  "y1_acc": "0001193125-17-075617",
+  "y1_period": "2016-12-31",
+  "match_sic": null,
+  "y0_filed": "20180308",
+  "sic": "3640"
+ },
+ {
+  "name": "Power Solutions International",
+  "cik": 1137091,
+  "action": "AAER-4169 (2020-09): revenue inflated 2014 Q4-2016",
+  "y0_acc": "0001193125-16-482422",
+  "y0_period": "2015-12-31",
+  "y1_acc": null,
+  "y1_period": null,
+  "match_sic": null,
+  "y0_filed": "20160226",
+  "sic": "3510"
+ },
+ {
+  "name": "Manitex International",
+  "cik": 1302028,
+  "action": "AAER-4177 (2020-09): accounting fraud through related-party transactions 2013-2017",
+  "y0_acc": "0001564590-17-003903",
+  "y0_period": "2016-12-31",
+  "y1_acc": "0001564590-16-014447",
+  "y1_period": "2015-12-31",
+  "match_sic": null,
+  "y0_filed": "20170310",
+  "sic": "3559"
+ },
+ {
+  "name": "Sequential Brands",
+  "cik": 1648428,
+  "action": "AAER-4277 (2021-12): goodwill impairment not recognised 2016-2017",
+  "y0_acc": "0001144204-17-014553",
+  "y0_period": "2016-12-31",
+  "y1_acc": "0001144204-16-087905",
+  "y1_period": "2015-12-31",
+  "match_sic": null,
+  "y0_filed": "20170314",
+  "sic": "2300"
+ },
+ {
+  "name": "HF Foods Group",
+  "cik": 1680873,
+  "action": "AAER-4506 (2024-06): fictitious credit line to hide liabilities, related-party misappropriation 2018-2020",
+  "y0_acc": "0001437749-19-006198",
+  "y0_period": "2018-12-31",
+  "y1_acc": "0001615774-18-002196",
+  "y1_period": "2017-12-31",
+  "match_sic": null,
+  "y0_filed": "20190401",
+  "sic": "5140"
+ },
+ {
+  "name": "Lottery.com",
+  "cik": 1673481,
+  "action": "LR-26464 (2026-01): 2021 revenue overstated >300%",
+  "y0_acc": "0001213900-22-017159",
+  "y0_period": "2021-12-31",
+  "y1_acc": "0001213900-21-018775",
+  "y1_period": "2020-12-31",
+  "match_sic": null,
+  "y0_filed": "20220401",
+  "sic": "7372"
+ },
+ {
+  "name": "RTI Surgical",
+  "cik": 1100441,
+  "action": "AAER-4318 (2022-08): revenue pulled forward by early shipments 2015 Q1-2016 Q2",
+  "y0_acc": "0001193125-16-495394",
+  "y0_period": "2015-12-31",
+  "y1_acc": null,
+  "y1_period": null,
+  "match_sic": null,
+  "y0_filed": "20160307",
+  "sic": "3842"
+ }
+]
