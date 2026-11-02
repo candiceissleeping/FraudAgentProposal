@@ -280,6 +280,74 @@ def cards(args):
     print("cards written:", len(cmap), "perturbed:", len(pert))
 
 
+# ---- 8b: coarsened card (pre-registered after G1b failed, before any 8b agent ran) ----
+BINS = {  # ratio key -> list of (upper bound inclusive, label); last label for values above all bounds
+    "DSRI": [(1.0, "normal (<=1.0)"), (1.46, "elevated (1.0-1.46)"), (None, "high (>1.46)")],
+    "GMI": [(1.0, "margin stable or improving"), (1.19, "margin declining"), (None, "margin declining sharply")],
+    "AQI": [(1.0, "normal"), (1.25, "elevated"), (None, "high")],
+    "SGI": [(0.95, "sales declining"), (1.4, "sales growth moderate"), (None, "sales growth high (>40%)")],
+    "DEPI": [(1.0, "depreciation rate stable or rising"), (1.27, "depreciation slowing"), (None, "depreciation slowing sharply")],
+    "SGAI": [(1.05, "normal"), (None, "SG&A rising faster than sales")],
+    "LVGI": [(1.1, "leverage stable or falling"), (None, "leverage rising")],
+    "TATA": [(0.0, "accruals negative"), (0.03, "accruals low positive"), (None, "accruals high positive")],
+    "soft_assets": [(0.5, "low (<50%)"), (0.75, "medium (50-75%)"), (None, "high (>75%)")],
+    "ar_growth_minus_sales_growth": [(0.0, "receivables growing slower than sales"), (0.1, "receivables growing slightly faster"),
+                                     (None, "receivables growing much faster than sales (>10 pts)")],
+    "ch_roa": [(-0.05, "ROA falling"), (0.05, "ROA stable"), (None, "ROA rising")],
+}
+
+
+def _bin(key, v):
+    if v in ("", None):
+        return "n/a"
+    v = float(v)
+    for hi, label in BINS[key]:
+        if hi is None or v <= hi:
+            return label
+    return "n/a"
+
+
+def card_c_text(code, facts, raw):
+    lines = [f"FACT CARD {code}", "", "Disclosure facts (extracted from the annual report; every value verified against the text):"]
+    for fid, key, desc, allowed in FIELDS:
+        if fid == "F23":
+            continue
+        v = facts.get(fid, "not_found")
+        if fid in ("F12", "F13") and isinstance(v, (int, float)):
+            v = "<10%" if v < 10 else "10-25%" if v < 25 else "25-50%" if v < 50 else ">50%"
+        v = ", ".join(v) if isinstance(v, list) else v
+        lines.append(f"  {fid} {key}: {v}")
+    lines += ["", "Financial signals (from as-filed XBRL, current vs prior year; categories only):"]
+    names = {"DSRI": "R01 days sales in receivables", "GMI": "R02 gross margin", "AQI": "R03 asset quality index",
+             "SGI": "R04 sales growth", "DEPI": "R05 depreciation", "SGAI": "R06 SG&A", "LVGI": "R07 leverage",
+             "TATA": "R08 total accruals", "soft_assets": "R13 soft assets share",
+             "ar_growth_minus_sales_growth": "R18 receivables vs sales growth", "ch_roa": "R15 change in ROA"}
+    for key, label in names.items():
+        lines.append(f"  {label}: {_bin(key, raw.get(key))}")
+    m, f, c = raw.get("M"), raw.get("F"), raw.get("cfo_to_ni")
+    lines.append(f"  R09 Beneish M-score: {'n/a' if m in ('', None) else ('above -1.78 threshold' if float(m) > -1.78 else 'below threshold')}")
+    lines.append(f"  R17 Dechow F-score: {'n/a' if f in ('', None) else ('above 1.0 threshold' if float(f) > 1.0 else 'below threshold')}")
+    lines.append(f"  R19 operating cash flow vs net income: {'n/a' if c in ('', None) else ('opposite signs' if float(c) < 0 else 'cash flow well below income (<0.8x)' if float(c) < 0.8 else 'cash flow at or above income')}")
+    lines.append(f"  R16 securities issued: {'yes' if raw.get('issue') in ('1.0', '1') else 'no' if raw.get('issue') in ('0.0', '0') else 'n/a'}")
+    return "\n".join(lines) + "\n"
+
+
+def cards_c(args):
+    cmap = code_map()
+    facts = json.load(open(f"{OUT}/facts_verified.json"))
+    raw = {r["pid"]: r for r in csv.DictReader(open("results/round7/financial_features.csv"))}
+    rows = {r[0]: r for r in _pairs()}
+    for pid, code in cmap.items():
+        open(f"{DATA}/cards/{code}_C0.txt", "w").write(card_c_text(code, facts[code], raw[pid]))
+    codes = sorted(cmap.values())
+    names = sorted(rows[pid][1] for pid in rows)
+    allc = "\n\n".join(open(f"{DATA}/cards/{c}_C0.txt").read() for c in codes)
+    open(f"{DATA}/cards/probe_closed_C.txt", "w").write(
+        "CANDIDATE COMPANIES (each fact card below belongs to exactly one of these, fiscal years 2017-2023):\n"
+        + "\n".join(f"- {n}" for n in names) + "\n\n" + allc)
+    print("coarse cards written:", len(cmap))
+
+
 def _read_scores(path, col="risk_score"):
     if not os.path.exists(path):
         return {}
@@ -527,9 +595,9 @@ def _is_treat_name(name, rows):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("cmd", choices=["build", "verify", "cards", "evaluate"])
+    ap.add_argument("cmd", choices=["build", "verify", "cards", "cards_c", "evaluate"])
     args = ap.parse_args()
-    {"build": build, "verify": verify, "cards": cards, "evaluate": evaluate}[args.cmd](args)
+    {"build": build, "verify": verify, "cards": cards, "cards_c": cards_c, "evaluate": evaluate}[args.cmd](args)
 
 
 if __name__ == "__main__":

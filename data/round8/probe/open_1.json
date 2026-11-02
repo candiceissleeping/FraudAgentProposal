@@ -1,0 +1,16 @@
+{
+  "R8-22": {"guesses": [], "fiscal_year_guess": "", "confidence": 0, "basis": "Generic manufacturer with inventory CAM, segment change and negative CFO/NI; no distinctive identifiers."},
+  "R8-21": {"guesses": [], "fiscal_year_guess": "", "confidence": 0, "basis": "Over-time revenue manufacturer with 17% customer; too generic to identify."},
+  "R8-01": {"guesses": [], "fiscal_year_guess": "", "confidence": 2, "basis": "Tiny non-accelerated utility/telecom/transport filer with going concern, auditor change and a reported auditor disagreement; distinctive pattern but no specific company recalled."},
+  "R8-14": {"guesses": [], "fiscal_year_guess": "", "confidence": 0, "basis": "Leverage jump (LVGI 3.41) with flat sales; no distinctive identifiers."},
+  "R8-24": {"guesses": [], "fiscal_year_guess": "", "confidence": 1, "basis": "Likely recent IPO/non-accelerated manufacturer with revenue material weakness, class action, debt-funded acquisition; no specific match recalled."},
+  "R8-12": {"guesses": [], "fiscal_year_guess": "", "confidence": 0, "basis": "Clean, ordinary manufacturer profile; nothing identifying."},
+  "R8-10": {"guesses": [], "fiscal_year_guess": "", "confidence": 1, "basis": "28% largest customer plus government investigation suggests a pharma/medical maker selling via a major wholesaler, but too generic."},
+  "R8-11": {"guesses": [], "fiscal_year_guess": "", "confidence": 1, "basis": "Goodwill/reserves/tax CAMs, government investigation and executive change hint at a large pharma/med-device firm; not identifiable."},
+  "R8-15": {"guesses": [], "fiscal_year_guess": "", "confidence": 0, "basis": "Voluntary accounting change, 23% customer, 31% sales growth; no specific match."},
+  "R8-18": {"guesses": ["Mattel", "Tupperware Brands", "Diebold Nixdorf"], "fiscal_year_guess": "2019", "confidence": 8, "basis": "Tax-area material weakness with adverse ICFR opinion, restatement, class action, executive change and covenant amendment resembles Mattel's 2019 tax restatement or Tupperware's 2022 restatement; acquisition plus leverage spike does not fit cleanly."},
+  "R8-25": {"guesses": [], "fiscal_year_guess": "", "confidence": 0, "basis": "34% sales growth, class action, executive change, 42% receivables concentration; no specific match."},
+  "R8-16": {"guesses": ["Yellow Corporation", "Spirit Airlines", "Gogo"], "fiscal_year_guess": "2021", "confidence": 4, "basis": "Transportation/communications firm with interim CFO, class action, covenant amendment, goodwill and tax CAMs and net loss; speculative pattern match only."},
+  "R8-13": {"guesses": [], "fiscal_year_guess": "", "confidence": 1, "basis": "Acquisition plus business-combination/tax CAMs, government investigation and return-rights reserves suggests a pharma/med-tech company; not identifiable."},
+  "R8-08": {"guesses": [], "fiscal_year_guess": "", "confidence": 0, "basis": "Small pre-revenue/non-accelerated mining or oil and gas filer with related-party dealings and an acquisition; no identifiers."}
+}

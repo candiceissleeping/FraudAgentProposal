@@ -1,0 +1,16 @@
+{
+  "R8-28": {"guesses": [], "fiscal_year_guess": "", "confidence": 0, "basis": "Generic financial firm with financial-close MW, adverse ICFR and restatement; no distinguishing detail"},
+  "R8-04": {"guesses": ["Kaival Brands Innovations Group", "Alta Equipment Group"], "fiscal_year_guess": "2021", "confidence": 3, "basis": "Wholesale distributor public via SPAC/reverse merger, restatement plus ITGC MW (possibly SPAC-warrant era), sales up 2.3x, 12% customer; weak match"},
+  "R8-19": {"guesses": [], "fiscal_year_guess": "", "confidence": 0, "basis": "Small distressed manufacturer (going concern, auditor change, restatement, large losses); too generic"},
+  "R8-09": {"guesses": [], "fiscal_year_guess": "", "confidence": 0, "basis": "Pre-revenue manufacturer recently public via SPAC/reverse merger; many candidates"},
+  "R8-17": {"guesses": [], "fiscal_year_guess": "", "confidence": 0, "basis": "Accelerated-filer manufacturer with sharply improving gross margin and capital raise; no unique facts"},
+  "R8-02": {"guesses": [], "fiscal_year_guess": "", "confidence": 0, "basis": "Clean utility/communications company with near-zero net income; generic"},
+  "R8-27": {"guesses": [], "fiscal_year_guess": "", "confidence": 0, "basis": "Manufacturer with exec change, inventory CAM, immaterial revision; generic"},
+  "R8-23": {"guesses": [], "fiscal_year_guess": "", "confidence": 0, "basis": "Manufacturer with auditor change, major acquisition, BC/goodwill/revenue CAMs; generic"},
+  "R8-20": {"guesses": [], "fiscal_year_guess": "", "confidence": 0, "basis": "Wholesale SPAC-era company with over-time revenue and 14% customer; no strong candidate"},
+  "R8-07": {"guesses": [], "fiscal_year_guess": "", "confidence": 0, "basis": "Small oil and gas producer with one purchaser at 96% of revenue; common pattern"},
+  "R8-26": {"guesses": ["CPI Aerostructures", "Babcock & Wilcox Enterprises", "Broadwind"], "fiscal_year_guess": "2019", "confidence": 15, "basis": "Manufacturer with over-time revenue and contract assets, revenue-recognition MW with adverse ICFR and restatement, covenant waiver, acquisition (CPI Aero restated over-time contract revenue in 2020 and bought WMI in late 2018)"},
+  "R8-06": {"guesses": [], "fiscal_year_guess": "", "confidence": 0, "basis": "Clean financial firm with no distinguishing facts"},
+  "R8-05": {"guesses": [], "fiscal_year_guess": "", "confidence": 0, "basis": "Manufacturer with financial-close MW and adverse ICFR, sales down 20%, segment change; generic"},
+  "R8-03": {"guesses": ["Charge Enterprises", "iQSTEL", "American Virtual Cloud Technologies"], "fiscal_year_guess": "2020", "confidence": 5, "basis": "Telecom/transport firm newly public via reverse merger/SPAC, revenue up ~74x on an acquisition, auditor change with reported disagreement, MW, exec change, 36% customer"}
+}
