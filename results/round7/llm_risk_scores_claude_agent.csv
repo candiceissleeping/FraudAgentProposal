@@ -3,3 +3,4 @@ P01C,1,20,True,AerSale Corporation (ASLE) FY2021 10-K,False,fresh Claude agent i
 P01T,1,62,True,"Latch, Inc. (LTCH) FY2021 10-K",True,fresh Claude agent in the cloud session (no access to labels or this conversation),same prompt as RISK_TASK; whole unredacted 10-K read with the Read tool
 P02T,1,25,True,Archer-Daniels-Midland Company (ADM) FY2022 10-K,True,fresh Claude agent in the cloud session (no access to labels or this conversation),same prompt as RISK_TASK; whole unredacted 10-K read with the Read tool
 P02C,1,8,True,Bunge Limited FY2022 10-K,False,fresh Claude agent in the cloud session (no access to labels or this conversation),same prompt as RISK_TASK; whole unredacted 10-K read with the Read tool
+P03C,1,12,True,"National Presto Industries, Inc. (NPK) FY2022 10-K",False,fresh Claude agent in the cloud session (no access to labels or this conversation),same prompt as RISK_TASK; whole unredacted 10-K read with the Read tool
