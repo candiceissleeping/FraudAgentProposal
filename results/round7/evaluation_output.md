@@ -7,6 +7,7 @@
 | C consistency (program) | 14/14 | 0.57 | 0.36-0.78 |
 | CFO/NI (lower = riskier) | 14/14 | 0.44 | 0.24-0.67 |
 | Accruals TATA | 14/14 | 0.42 | 0.21-0.64 |
+| B LLM risk score (Claude agent) | 14/14 | 0.90 | 0.73-1.00 |
 
 ## Within-pair (treatment higher / tie / lower / not computable)
 - M Beneish: 4 / 0 / 6 / 4
@@ -14,6 +15,13 @@
 - C consistency (program): 8 / 1 / 5 / 0
 - CFO/NI (lower = riskier): 6 / 0 / 8 / 0
 - Accruals TATA: 4 / 0 / 10 / 0
+- B LLM risk score (Claude agent): 13 / 0 / 1 / 0
+
+## B LLM risk score (Claude agent): recognition
+- recognised the company: 28/28
+- treatment: says it knows of later accounting problems 13/14
+- control: says it knows of later accounting problems 0/14
+- filings where it does not claim later knowledge: treatment 1, control 14, AUC 0.04 (treatment scores [7.0])
 
 ## Threshold flags
 - M Beneish > -1.78, treatment: 2/11
