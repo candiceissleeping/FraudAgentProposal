@@ -1,0 +1,731 @@
+[
+ {
+  "case": {
+   "name": "FutureTech II Acquisition Corp.",
+   "cik": "1889450",
+   "sic": "2836",
+   "event_acc": "0001493152-26-032525",
+   "event_date": "20260708",
+   "y0_acc": "0001641172-25-003384",
+   "y0_period": "20241231",
+   "y0_doc": "form10-k.htm",
+   "y1_acc": "0001493152-24-013334",
+   "y1_period": "20231231"
+  },
+  "control": {
+   "name": "WINDTREE THERAPEUTICS INC /DE/",
+   "cik": "946486",
+   "sic": "2836",
+   "digits": 4,
+   "y0_acc": "0001437749-25-012093",
+   "y0_period": "20241231",
+   "y0_doc": "wint20241231_10k.htm",
+   "y1_acc": "0001437749-24-012210",
+   "y1_period": "20231231",
+   "assets_ratio": 0.991,
+   "pool": 146
+  }
+ },
+ {
+  "case": {
+   "name": "BayFirst Financial Corp.",
+   "cik": "1649739",
+   "sic": "6022",
+   "event_acc": "0001649739-26-000041",
+   "event_date": "20260715",
+   "y0_acc": "0001649739-26-000014",
+   "y0_period": "20251231",
+   "y0_doc": "bafn-20251231.htm",
+   "y1_acc": "0001649739-25-000106",
+   "y1_period": "20241231"
+  },
+  "control": {
+   "name": "Skyline Bankshares, Inc.",
+   "cik": "1657642",
+   "sic": "6022",
+   "digits": 4,
+   "y0_acc": "0001437749-26-009154",
+   "y0_period": "20251231",
+   "y0_doc": "pkkw20251231_10k.htm",
+   "y1_acc": "0001437749-25-009335",
+   "y1_period": "20241231",
+   "assets_ratio": 0.999,
+   "pool": 174
+  }
+ },
+ {
+  "case": {
+   "name": "HIGH WIRE NETWORKS, INC.",
+   "cik": "1413891",
+   "sic": "4813",
+   "event_acc": "0001683168-26-005550",
+   "event_date": "20260715",
+   "y0_acc": "0001213900-25-026353",
+   "y0_period": "20241231",
+   "y0_doc": "ea0236028-10k_highwire.htm",
+   "y1_acc": "0001213900-24-034533",
+   "y1_period": "20231231"
+  },
+  "control": {
+   "name": "KonaTel, Inc.",
+   "cik": "845819",
+   "sic": "4899",
+   "digits": 2,
+   "y0_acc": "0001515971-25-000041",
+   "y0_period": "20241231",
+   "y0_doc": "ktel10k123124.htm",
+   "y1_acc": "0001515971-24-000035",
+   "y1_period": "20231231",
+   "assets_ratio": 0.972,
+   "pool": 76
+  }
+ },
+ {
+  "case": {
+   "name": "Trans American Aquaculture, Inc",
+   "cik": "1990446",
+   "sic": "0200",
+   "event_acc": "0001683168-26-005614",
+   "event_date": "20260717",
+   "y0_acc": "0001683168-25-005173",
+   "y0_period": "20241231",
+   "y0_doc": "transamaqua_i10k-123124.htm",
+   "y1_acc": "0001683168-24-004606",
+   "y1_period": "20231231"
+  },
+  "control": {
+   "name": "U. S. Premium Beef, LLC",
+   "cik": "1289237",
+   "sic": "0200",
+   "digits": 2,
+   "y0_acc": "0001683168-25-001583",
+   "y0_period": "20241228",
+   "y0_doc": "uspb_i10k-122824.htm",
+   "y1_acc": "0001683168-24-001407",
+   "y1_period": "20231230",
+   "assets_ratio": 253.308,
+   "pool": 2
+  }
+ },
+ {
+  "case": {
+   "name": "American Resources Corp",
+   "cik": "1590715",
+   "sic": "1220",
+   "event_acc": "0001477932-26-004477",
+   "event_date": "20260724",
+   "y0_acc": "0001477932-26-003317",
+   "y0_period": "20251231",
+   "y0_doc": "arec_10k.htm",
+   "y1_acc": "0001477932-25-003940",
+   "y1_period": "20241231"
+  },
+  "control": {
+   "name": "NACCO INDUSTRIES INC",
+   "cik": "789933",
+   "sic": "1221",
+   "digits": 2,
+   "y0_acc": "0000789933-26-000070",
+   "y0_period": "20251231",
+   "y0_doc": "nacco-20251231.htm",
+   "y1_acc": "0000789933-25-000006",
+   "y1_period": "20241231",
+   "assets_ratio": 3.915,
+   "pool": 9
+  }
+ },
+ {
+  "case": {
+   "name": "New ERA Energy & Digital, Inc.",
+   "cik": "2028336",
+   "sic": "1311",
+   "event_acc": "0001213900-26-083411",
+   "event_date": "20260730",
+   "y0_acc": "0001213900-26-026501",
+   "y0_period": "20251231",
+   "y0_doc": "ea0276741-10k_newera.htm",
+   "y1_acc": "0001410578-25-000590",
+   "y1_period": "20241231"
+  },
+  "control": {
+   "name": "Trio Petroleum Corp",
+   "cik": "1898766",
+   "sic": "1311",
+   "digits": 4,
+   "y0_acc": "0001493152-26-002848",
+   "y0_period": "20251031",
+   "y0_doc": "form10-k.htm",
+   "y1_acc": "0001493152-25-002760",
+   "y1_period": "20241031",
+   "assets_ratio": 1.002,
+   "pool": 71
+  }
+ },
+ {
+  "case": {
+   "name": "Securetech Innovations, Inc.",
+   "cik": "1703157",
+   "sic": "3714",
+   "event_acc": "0001017386-26-000096",
+   "event_date": "20260805",
+   "y0_acc": "0001017386-26-000016",
+   "y0_period": "20251231",
+   "y0_doc": "scth_form10k2025.htm",
+   "y1_acc": "0001017386-25-000028",
+   "y1_period": "20241231"
+  },
+  "control": {
+   "name": "Worksport Ltd",
+   "cik": "1096275",
+   "sic": "3714",
+   "digits": 4,
+   "y0_acc": "0001493152-26-012945",
+   "y0_period": "20251231",
+   "y0_doc": "form10-k.htm",
+   "y1_acc": "0001641172-25-000850",
+   "y1_period": "20241231",
+   "assets_ratio": 1.601,
+   "pool": 33
+  }
+ },
+ {
+  "case": {
+   "name": "CREDITRISKMONITOR COM INC",
+   "cik": "315958",
+   "sic": "7320",
+   "event_acc": "0001140361-26-031633",
+   "event_date": "20260806",
+   "y0_acc": "0001140361-26-010883",
+   "y0_period": "20251231",
+   "y0_doc": "ef20060689_10k.htm",
+   "y1_acc": "0001140361-25-009647",
+   "y1_period": "20241231"
+  },
+  "control": {
+   "name": "OMNIQ Corp.",
+   "cik": "278165",
+   "sic": "7373",
+   "digits": 2,
+   "y0_acc": "0001493152-26-016891",
+   "y0_period": "20251231",
+   "y0_doc": "form10-k.htm",
+   "y1_acc": "0001641172-25-001813",
+   "y1_period": "20241231",
+   "assets_ratio": 0.995,
+   "pool": 551
+  }
+ },
+ {
+  "case": {
+   "name": "OLENOX INDUSTRIES INC.",
+   "cik": "1023994",
+   "sic": "5030",
+   "event_acc": "0001213900-26-086226",
+   "event_date": "20260806",
+   "y0_acc": "0001213900-26-073749",
+   "y0_period": "20251231",
+   "y0_doc": "ea0295463-10k_olenox.htm",
+   "y1_acc": "0001213900-25-026495",
+   "y1_period": "20241231"
+  },
+  "control": {
+   "name": "Greenwave Technology Solutions, Inc.",
+   "cik": "1589149",
+   "sic": "5051",
+   "digits": 2,
+   "y0_acc": "0001493152-26-028562",
+   "y0_period": "20251231",
+   "y0_doc": "form10-k.htm",
+   "y1_acc": "0001641172-25-004803",
+   "y1_period": "20241231",
+   "assets_ratio": 1.531,
+   "pool": 57
+  }
+ },
+ {
+  "case": {
+   "name": "Northann Corp.",
+   "cik": "1923780",
+   "sic": "3089",
+   "event_acc": "0001575872-26-000562",
+   "event_date": "20260810",
+   "y0_acc": "0001575872-26-000245",
+   "y0_period": "20251231",
+   "y0_doc": "ncl120_10k.htm",
+   "y1_acc": "0001575872-25-000433",
+   "y1_period": "20241231"
+  },
+  "control": {
+   "name": "YUNHONG GREEN CTI LTD.",
+   "cik": "1042187",
+   "sic": "3060",
+   "digits": 2,
+   "y0_acc": "0001493152-26-012156",
+   "y0_period": "20251231",
+   "y0_doc": "form10-k.htm",
+   "y1_acc": "0001641172-25-004622",
+   "y1_period": "20241231",
+   "assets_ratio": 1.099,
+   "pool": 19
+  }
+ },
+ {
+  "case": {
+   "name": "Capstone Holding Corp.",
+   "cik": "887151",
+   "sic": "5030",
+   "event_acc": "0001437749-26-027149",
+   "event_date": "20260812",
+   "y0_acc": "0001437749-26-012459",
+   "y0_period": "20251231",
+   "y0_doc": "caps20251225_10k.htm",
+   "y1_acc": "0001213900-25-026436",
+   "y1_period": "20241231"
+  },
+  "control": {
+   "name": "Greenlane Holdings, Inc.",
+   "cik": "1743745",
+   "sic": "5099",
+   "digits": 2,
+   "y0_acc": "0001493152-26-014263",
+   "y0_period": "20251231",
+   "y0_doc": "form10-k.htm",
+   "y1_acc": "0001493152-25-011057",
+   "y1_period": "20241231",
+   "assets_ratio": 1.458,
+   "pool": 56
+  }
+ },
+ {
+  "case": {
+   "name": "Pelthos Therapeutics Inc.",
+   "cik": "1919246",
+   "sic": "2836",
+   "event_acc": "0001919246-26-000110",
+   "event_date": "20260813",
+   "y0_acc": "0001919246-26-000013",
+   "y0_period": "20251231",
+   "y0_doc": "pths-20251231.htm",
+   "y1_acc": "0001753926-25-000503",
+   "y1_period": "20241231"
+  },
+  "control": {
+   "name": "Artiva Biotherapeutics, Inc.",
+   "cik": "1817241",
+   "sic": "2836",
+   "digits": 4,
+   "y0_acc": "0001193125-26-100135",
+   "y0_period": "20251231",
+   "y0_doc": "artv-20251231.htm",
+   "y1_acc": "0000950170-25-043837",
+   "y1_period": "20241231",
+   "assets_ratio": 1.004,
+   "pool": 149
+  }
+ },
+ {
+  "case": {
+   "name": "HCW Biologics Inc.",
+   "cik": "1828673",
+   "sic": "2834",
+   "event_acc": "0001493152-26-038240",
+   "event_date": "20260814",
+   "y0_acc": "0001193125-26-134934",
+   "y0_period": "20251231",
+   "y0_doc": "hcwb-20251231.htm",
+   "y1_acc": "0000950170-25-046724",
+   "y1_period": "20241231"
+  },
+  "control": {
+   "name": "KIORA PHARMACEUTICALS INC",
+   "cik": "1372514",
+   "sic": "2834",
+   "digits": 4,
+   "y0_acc": "0001372514-26-000024",
+   "y0_period": "20251231",
+   "y0_doc": "kprx-20251231.htm",
+   "y1_acc": "0001372514-25-000012",
+   "y1_period": "20241231",
+   "assets_ratio": 0.989,
+   "pool": 462
+  }
+ },
+ {
+  "case": {
+   "name": "Netcapital Inc.",
+   "cik": "1414767",
+   "sic": "6199",
+   "event_acc": "0001493152-26-038853",
+   "event_date": "20260818",
+   "y0_acc": "0001641172-25-023248",
+   "y0_period": "20250430",
+   "y0_doc": "form10-k.htm",
+   "y1_acc": "0001493152-24-029454",
+   "y1_period": "20240430"
+  },
+  "control": {
+   "name": "Marygold Companies, Inc.",
+   "cik": "1005101",
+   "sic": "6199",
+   "digits": 4,
+   "y0_acc": "0001493152-25-014286",
+   "y0_period": "20250630",
+   "y0_doc": "form10-k.htm",
+   "y1_acc": "0001493152-24-037019",
+   "y1_period": "20240630",
+   "assets_ratio": 1.07,
+   "pool": 91
+  }
+ },
+ {
+  "case": {
+   "name": "SOLESENCE, INC.",
+   "cik": "883107",
+   "sic": "2844",
+   "event_acc": "0001171843-26-005702",
+   "event_date": "20260821",
+   "y0_acc": "0001999371-26-007345",
+   "y0_period": "20251231",
+   "y0_doc": "slsn-10k_123125.htm",
+   "y1_acc": "0001999371-25-003471",
+   "y1_period": "20241231"
+  },
+  "control": {
+   "name": "BONK, INC.",
+   "cik": "1760903",
+   "sic": "2844",
+   "digits": 4,
+   "y0_acc": "0001493152-26-014015",
+   "y0_period": "20251231",
+   "y0_doc": "form10-k.htm",
+   "y1_acc": "0001641172-25-001259",
+   "y1_period": "20241231",
+   "assets_ratio": 0.881,
+   "pool": 13
+  }
+ },
+ {
+  "case": {
+   "name": "Brownie's Marine Group, Inc",
+   "cik": "1166708",
+   "sic": "3949",
+   "event_acc": "0001493152-26-039804",
+   "event_date": "20260824",
+   "y0_acc": "0001493152-26-016204",
+   "y0_period": "20251231",
+   "y0_doc": "form10-k.htm",
+   "y1_acc": "0001641172-25-015177",
+   "y1_period": "20241231"
+  },
+  "control": {
+   "name": "Newton Golf Company, Inc.",
+   "cik": "1934245",
+   "sic": "3949",
+   "digits": 4,
+   "y0_acc": "0001493152-26-014164",
+   "y0_period": "20251231",
+   "y0_doc": "form10-k.htm",
+   "y1_acc": "0001641172-25-002840",
+   "y1_period": "20241231",
+   "assets_ratio": 0.632,
+   "pool": 12
+  }
+ },
+ {
+  "case": {
+   "name": "SDR Drone, Inc.",
+   "cik": "1331421",
+   "sic": "3721",
+   "event_acc": "0001493152-26-041986",
+   "event_date": "20260909",
+   "y0_acc": "0001493152-26-019213",
+   "y0_period": "20251231",
+   "y0_doc": "form10-k.htm",
+   "y1_acc": "0001641172-25-000860",
+   "y1_period": "20241231"
+  },
+  "control": {
+   "name": "DUKE Robotics Corp.",
+   "cik": "1638911",
+   "sic": "3721",
+   "digits": 4,
+   "y0_acc": "0001213900-26-026927",
+   "y0_period": "20251231",
+   "y0_doc": "ea0279194-10k_duke.htm",
+   "y1_acc": "0001213900-25-025286",
+   "y1_period": "20241231",
+   "assets_ratio": 369.308,
+   "pool": 12
+  }
+ },
+ {
+  "case": {
+   "name": "Nuburu, Inc.",
+   "cik": "1814215",
+   "sic": "3690",
+   "event_acc": "0001193125-26-393238",
+   "event_date": "20260916",
+   "y0_acc": "0001193125-26-134922",
+   "y0_period": "20251231",
+   "y0_doc": "buru-20251231.htm",
+   "y1_acc": "0000950170-25-054321",
+   "y1_period": "20241231"
+  },
+  "control": {
+   "name": "ESS Tech, Inc.",
+   "cik": "1819438",
+   "sic": "3690",
+   "digits": 4,
+   "y0_acc": "0001819438-26-000012",
+   "y0_period": "20251231",
+   "y0_doc": "ghw-20251231.htm",
+   "y1_acc": "0001628280-25-015649",
+   "y1_period": "20241231",
+   "assets_ratio": 1.027,
+   "pool": 36
+  }
+ },
+ {
+  "case": {
+   "name": "Optimum Communications, Inc.",
+   "cik": "1702780",
+   "sic": "4841",
+   "event_acc": "0001702780-26-000057",
+   "event_date": "20260921",
+   "y0_acc": "0001702780-26-000013",
+   "y0_period": "20251231",
+   "y0_doc": "optu-20251231.htm",
+   "y1_acc": "0001628280-25-005486",
+   "y1_period": "20241231"
+  },
+  "control": {
+   "name": "Liberty Global Ltd.",
+   "cik": "1570585",
+   "sic": "4841",
+   "digits": 4,
+   "y0_acc": "0001570585-26-000014",
+   "y0_period": "20251231",
+   "y0_doc": "lbtya-20251231.htm",
+   "y1_acc": "0001570585-25-000021",
+   "y1_period": "20241231",
+   "assets_ratio": 0.736,
+   "pool": 13
+  }
+ },
+ {
+  "case": {
+   "name": "GlobalTech Corp",
+   "cik": "1938338",
+   "sic": "4813",
+   "event_acc": "0001477932-26-006021",
+   "event_date": "20261002",
+   "y0_acc": "0001477932-26-001802",
+   "y0_period": "20251231",
+   "y0_doc": "global_10k.htm",
+   "y1_acc": "0001477932-25-002102",
+   "y1_period": "20241231"
+  },
+  "control": {
+   "name": "Crexendo, Inc.",
+   "cik": "1075736",
+   "sic": "4813",
+   "digits": 4,
+   "y0_acc": "0001654954-26-001848",
+   "y0_period": "20251231",
+   "y0_doc": "cxdo_10k.htm",
+   "y1_acc": "0001654954-25-002287",
+   "y1_period": "20241231",
+   "assets_ratio": 0.773,
+   "pool": 13
+  }
+ },
+ {
+  "case": {
+   "name": "Sports Entertainment Gaming Global Corp",
+   "cik": "1673481",
+   "sic": "7372",
+   "event_acc": "0001493152-26-046278",
+   "event_date": "20261008",
+   "y0_acc": "0001493152-26-032786",
+   "y0_period": "20251231",
+   "y0_doc": "form10-k.htm",
+   "y1_acc": "0001641172-25-005487",
+   "y1_period": "20241231"
+  },
+  "control": {
+   "name": "PIXELWORKS, INC",
+   "cik": "1040161",
+   "sic": "7372",
+   "digits": 4,
+   "y0_acc": "0001040161-26-000019",
+   "y0_period": "20251231",
+   "y0_doc": "pxlw-20251231.htm",
+   "y1_acc": "0001040161-25-000010",
+   "y1_period": "20241231",
+   "assets_ratio": 0.969,
+   "pool": 201
+  }
+ },
+ {
+  "case": {
+   "name": "EON Resources Inc.",
+   "cik": "1842556",
+   "sic": "1311",
+   "event_acc": "0001213900-26-108614",
+   "event_date": "20261013",
+   "y0_acc": "0001213900-26-103762",
+   "y0_period": "20251231",
+   "y0_doc": "ea0285266-10k_eon.htm",
+   "y1_acc": "0001213900-25-032248",
+   "y1_period": "20241231"
+  },
+  "control": {
+   "name": "BLUE DOLPHIN ENERGY CO",
+   "cik": "793306",
+   "sic": "1311",
+   "digits": 4,
+   "y0_acc": "0001437749-26-010712",
+   "y0_period": "20251231",
+   "y0_doc": "bdco20251231_10k.htm",
+   "y1_acc": "0001437749-25-010478",
+   "y1_period": "20241231",
+   "assets_ratio": 1.095,
+   "pool": 70
+  }
+ },
+ {
+  "case": {
+   "name": "Globaltek Ventures, Inc.",
+   "cik": "1530185",
+   "sic": "3714",
+   "event_acc": "0001376474-26-000649",
+   "event_date": "20261015",
+   "y0_acc": "0001213900-26-044162",
+   "y0_period": "20251231",
+   "y0_doc": "ea0286450-10k_ameritek.htm",
+   "y1_acc": "0001376474-25-000312",
+   "y1_period": "20241231"
+  },
+  "control": {
+   "name": "Omnitek Engineering Corp",
+   "cik": "1404804",
+   "sic": "3714",
+   "digits": 4,
+   "y0_acc": "0001096906-26-000551",
+   "y0_period": "20251231",
+   "y0_doc": "omtk-20251231_10k.htm",
+   "y1_acc": "0001096906-25-000515",
+   "y1_period": "20241231",
+   "assets_ratio": 1.514,
+   "pool": 32
+  }
+ },
+ {
+  "case": {
+   "name": "GoPro, Inc.",
+   "cik": "1500435",
+   "sic": "3861",
+   "event_acc": "0001500435-26-000064",
+   "event_date": "20261016",
+   "y0_acc": "0001500435-26-000006",
+   "y0_period": "20251231",
+   "y0_doc": "gpro-20251231.htm",
+   "y1_acc": "0001628280-25-013046",
+   "y1_period": "20241231"
+  },
+  "control": {
+   "name": "IMAX CORP",
+   "cik": "921582",
+   "sic": "3861",
+   "digits": 4,
+   "y0_acc": "0001628280-26-011770",
+   "y0_period": "20251231",
+   "y0_doc": "imax-20251231.htm",
+   "y1_acc": "0000921582-25-000008",
+   "y1_period": "20241231",
+   "assets_ratio": 2.089,
+   "pool": 4
+  }
+ },
+ {
+  "case": {
+   "name": "High Roller Technologies, Inc.",
+   "cik": "1947210",
+   "sic": "7900",
+   "event_acc": "0001753926-26-001958",
+   "event_date": "20261016",
+   "y0_acc": "0001753926-26-000462",
+   "y0_period": "20251231",
+   "y0_doc": "rolr-20251231.htm",
+   "y1_acc": "0001437749-25-008652",
+   "y1_period": "20241231"
+  },
+  "control": {
+   "name": "Galaxy Gaming, Inc.",
+   "cik": "13156",
+   "sic": "7900",
+   "digits": 4,
+   "y0_acc": "0001193125-26-129503",
+   "y0_period": "20251231",
+   "y0_doc": "glxz-20251231.htm",
+   "y1_acc": "0000950170-25-043370",
+   "y1_period": "20241231",
+   "assets_ratio": 1.485,
+   "pool": 18
+  }
+ },
+ {
+  "case": {
+   "name": "Datavault AI Inc.",
+   "cik": "1682149",
+   "sic": "7389",
+   "event_acc": "0001104659-26-118772",
+   "event_date": "20261026",
+   "y0_acc": "0001104659-26-031280",
+   "y0_period": "20251231",
+   "y0_doc": "dvlt-20251231x10k.htm",
+   "y1_acc": "0001410578-25-000600",
+   "y1_period": "20241231"
+  },
+  "control": {
+   "name": "Paysign, Inc.",
+   "cik": "1496443",
+   "sic": "7389",
+   "digits": 4,
+   "y0_acc": "0001683168-26-002180",
+   "y0_period": "20251231",
+   "y0_doc": "paysign_i10k-123125.htm",
+   "y1_acc": "0001683168-25-001888",
+   "y1_period": "20241231",
+   "assets_ratio": 1.006,
+   "pool": 87
+  }
+ },
+ {
+  "case": {
+   "name": "Panamera Holdings Corp",
+   "cik": "1620749",
+   "sic": "8742",
+   "event_acc": "0001640334-26-001688",
+   "event_date": "20261026",
+   "y0_acc": "0001640334-25-002212",
+   "y0_period": "20250731",
+   "y0_doc": "pnht_10k.htm",
+   "y1_acc": "0001640334-25-000065",
+   "y1_period": "20240731"
+  },
+  "control": {
+   "name": "Protopia Global Holdings Inc.",
+   "cik": "1959585",
+   "sic": "8742",
+   "digits": 4,
+   "y0_acc": "0001829126-25-007685",
+   "y0_period": "20250630",
+   "y0_doc": "protopia_10k.htm",
+   "y1_acc": "0001829126-24-006807",
+   "y1_period": "20240630",
+   "assets_ratio": 1.148,
+   "pool": 34
+  }
+ }
+]

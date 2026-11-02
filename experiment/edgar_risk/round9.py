@@ -156,13 +156,17 @@ def controls(args):
         if not a0:
             print("no assets for", c["name"])
             continue
-        pool = []
+        # revision (before any scoring): widen the SIC level when the closest same-industry firm is >3x off in size
+        pool, digits = [], 4
         for digits in (4, 3, 2):
-            pool = [k for k, s in sic_of.items() if s[:digits] == c["sic"][:digits] and k not in flagged
-                    and k != c["cik"] and k not in used and str(int(k)) in assets]
-            if len(pool) >= 3:
+            lvl = [k for k, s in sic_of.items() if s[:digits] == c["sic"][:digits] and k not in flagged
+                   and k != c["cik"] and k not in used and assets.get(str(int(k)), 0) > 0]
+            lvl.sort(key=lambda k: abs(math.log(assets[str(int(k))] / a0)))
+            if len(lvl) >= 3 and abs(math.log(assets[str(int(lvl[0]))] / a0)) <= math.log(3):
+                pool = lvl
                 break
-        pool.sort(key=lambda k: abs(math.log(assets[str(int(k))] / a0)))
+            if len(lvl) > len(pool) or (lvl and pool and abs(math.log(assets[str(int(lvl[0]))] / a0)) < abs(math.log(assets[str(int(pool[0]))] / a0))):
+                pool = lvl
         chosen = None
         for k in pool[:15]:
             ks, s = tenks(k)
