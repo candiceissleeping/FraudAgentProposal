@@ -19,3 +19,5 @@ report_17,P05T,treatment,none,,25,true,,,Becton Dickinson (92)
 report_18,P02C,control,real,P02C,6,false,yes,,
 report_19,P05C,control,real,P05C,8,false,yes,,
 report_20,P05C,control,none,,10,false,,,Boston Scientific (92)
+report_30,P01C,control,none,,15,false,,,AerSale Corporation (85)
+report_23,P03C,control,real,P03C,8,false,yes,,
