@@ -25,3 +25,4 @@ report_21,P04C,control,swap,P04T,12,true(named co.),no,PDS Biotechnology,
 report_27,P03T,treatment,none,,55,true,,,AMMO Inc. (85)
 report_24,P02T,treatment,real,P02T,30,true,yes,,
 report_25,P02T,treatment,swap,P02C,15,true,no,Archer-Daniels-Midland,
+report_26,P02C,control,swap,P02T,8,false,no,Bunge Limited,
