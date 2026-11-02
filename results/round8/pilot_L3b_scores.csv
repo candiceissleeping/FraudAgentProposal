@@ -1,0 +1,11 @@
+report,pid,company,group,b_score,l2_score,l3_score,l3b_score,l3b_recognised,l3b_guess,l3b_confidence,l3b_guess_correct,l3b_knows_later_problems
+report_05,P01T,Latch,treatment,62,72,30,72,true,"Latch, Inc. (FY2021)",85,true,true
+report_07,P01C,AerSale,control,20,18,22,22,true,"AerSale Corporation (FY2021)",85,true,false
+report_04,P02T,Archer-Daniels-Midland,treatment,25,22,25,22,true,"Archer-Daniels-Midland Company (FY2022)",93,true,true
+report_06,P02C,Bunge,control,8,8,8,8,true,"Bunge Limited (FY2022)",92,true,false
+report_09,P03T,Ammo,treatment,70,50,58,55,true,"AMMO, Inc. (FY2023)",85,true,true
+report_08,P03C,National Presto,control,12,8,8,10,true,"National Presto Industries (FY2022)",85,true,false
+report_03,P04T,Adamis,treatment,45,40,40,55,true,"Adamis Pharmaceuticals (FY2020)",85,true,true
+report_10,P04C,PDS Biotechnology,control,12,22,20,14,true,"PDS Biotechnology Corp (FY2020)",85,true,false
+report_01,P05T,Becton Dickinson,treatment,25,18,22,22,true,"Becton, Dickinson and Company (FY2019)",92,true,true
+report_02,P05C,Boston Scientific,control,12,8,10,10,true,"Boston Scientific Corporation (FY2019)",92,true,false
