@@ -1,0 +1,21 @@
+report,content,content_group,condition,named,risk_score,knows_later_problems,consistent_with_named,model_says_actually,recognised_guess_if_none
+report_01,P03T,treatment,swap,P03C,62,true,no,AMMO Inc.,
+report_02,P01T,treatment,real,P01T,62,true,yes,,
+report_03,P05T,treatment,real,P05T,30,true,yes,,
+report_04,P03C,control,none,,8,false,,,National Presto Industries (85)
+report_05,P05T,treatment,swap,P05C,15,true,no,Becton Dickinson,
+report_06,P04C,control,none,,12,false,,,PDS Biotechnology (85)
+report_07,P03T,treatment,real,P03T,58,true,yes,,
+report_08,P03C,control,swap,P03T,8,false,no,National Presto Industries,
+report_09,P01T,treatment,none,,24,false,,,SmartRent (85) WRONG
+report_10,P04T,treatment,real,P04T,38,true,yes,,
+report_11,P04T,treatment,swap,P04C,40,true,no,Adamis Pharmaceuticals,
+report_12,P01T,treatment,swap,P01C,75,true,no,Latch Inc.,
+report_13,P02C,control,none,,10,false,,,Bunge Limited (92)
+report_14,P01C,control,swap,P01T,10,false,no,AerSale Corporation,
+report_15,P05C,control,swap,P05T,8,false,no,Boston Scientific,
+report_16,P02T,treatment,none,,30,true,,,Archer-Daniels-Midland (95)
+report_17,P05T,treatment,none,,25,true,,,Becton Dickinson (92)
+report_18,P02C,control,real,P02C,6,false,yes,,
+report_19,P05C,control,real,P05C,8,false,yes,,
+report_20,P05C,control,none,,10,false,,,Boston Scientific (92)
