@@ -1,0 +1,164 @@
+{
+ "R9-21": {
+  "guesses": [],
+  "fiscal_year_guess": "",
+  "confidence": 0,
+  "basis": "Generic small-cap manufacturer with going concern, segregation-of-duties weakness and related parties; no unique identifiers."
+ },
+ "R9-09": {
+  "guesses": [],
+  "fiscal_year_guess": "",
+  "confidence": 0,
+  "basis": "Post-SPAC/reverse-merger pre-revenue manufacturer with going concern, restatement and covenant waiver; many fit this profile."
+ },
+ "R9-37": {
+  "guesses": [],
+  "fiscal_year_guess": "",
+  "confidence": 0,
+  "basis": "Pre-revenue manufacturer (likely biotech/pharma shell) with no red flags; no identifiers."
+ },
+ "R9-27": {
+  "guesses": [],
+  "fiscal_year_guess": "",
+  "confidence": 0,
+  "basis": "Distressed wholesale company with auditor disagreement and government investigation; distinctive but no name-level identifiers."
+ },
+ "R9-10": {
+  "guesses": [],
+  "fiscal_year_guess": "",
+  "confidence": 0,
+  "basis": "Transport/communications firm with over-time revenue, revenue CAM, non-GAAP and a government investigation; too generic."
+ },
+ "R9-34": {
+  "guesses": [],
+  "fiscal_year_guess": "",
+  "confidence": 0,
+  "basis": "Near-zero-revenue manufacturer with huge sales growth and acquisition; micro-cap, no identifiers."
+ },
+ "R9-45": {
+  "guesses": [],
+  "fiscal_year_guess": "",
+  "confidence": 0,
+  "basis": "Small oil & gas firm with a single purchaser (100%) and acquisition; common pattern."
+ },
+ "R9-42": {
+  "guesses": [],
+  "fiscal_year_guess": "",
+  "confidence": 0,
+  "basis": "Small manufacturer with going concern and goodwill CAM; no identifiers."
+ },
+ "R9-03": {
+  "guesses": [],
+  "fiscal_year_guess": "",
+  "confidence": 0,
+  "basis": "Pre-revenue shell-like manufacturer with going concern; no identifiers."
+ },
+ "R9-38": {
+  "guesses": [],
+  "fiscal_year_guess": "",
+  "confidence": 0,
+  "basis": "No financial data; going-concern micro-cap with interim CFO; no identifiers."
+ },
+ "R9-19": {
+  "guesses": [],
+  "fiscal_year_guess": "",
+  "confidence": 0,
+  "basis": "Pre-revenue mining explorer with covenant issues; many candidates."
+ },
+ "R9-30": {
+  "guesses": [],
+  "fiscal_year_guess": "",
+  "confidence": 0,
+  "basis": "Post-SPAC mining/energy company with restatement and acquisition; insufficient detail."
+ },
+ "R9-41": {
+  "guesses": [],
+  "fiscal_year_guess": "",
+  "confidence": 0,
+  "basis": "Accelerated filer manufacturer with contract assets, revenue CAM, segment change; generic."
+ },
+ "R9-26": {
+  "guesses": [],
+  "fiscal_year_guess": "",
+  "confidence": 0,
+  "basis": "Services company with financial close weakness and acquisition; generic."
+ },
+ "R9-05": {
+  "guesses": [],
+  "fiscal_year_guess": "",
+  "confidence": 0,
+  "basis": "Manufacturer with going concern and large sales growth; generic."
+ },
+ "R9-13": {
+  "guesses": [],
+  "fiscal_year_guess": "",
+  "confidence": 0,
+  "basis": "Manufacturer with a single customer (100%) and related parties; possibly a captive supplier, unidentifiable."
+ },
+ "R9-49": {
+  "guesses": [],
+  "fiscal_year_guess": "",
+  "confidence": 0,
+  "basis": "Small wholesale distributor with acquisition and goodwill CAM; generic."
+ },
+ "R9-07": {
+  "guesses": [],
+  "fiscal_year_guess": "",
+  "confidence": 0,
+  "basis": "Manufacturer with distributor return rights, 12% customer, revenue CAM; generic."
+ },
+ "R9-24": {
+  "guesses": [],
+  "fiscal_year_guess": "",
+  "confidence": 0,
+  "basis": "Services firm with 19% customer and class action; generic."
+ },
+ "R9-52": {
+  "guesses": [],
+  "fiscal_year_guess": "",
+  "confidence": 0,
+  "basis": "Manufacturer with 35% customer, acquisition, CEO change; generic."
+ },
+ "R9-50": {
+  "guesses": [],
+  "fiscal_year_guess": "",
+  "confidence": 0,
+  "basis": "Small manufacturer with acquisition and revenue CAM; generic."
+ },
+ "R9-01": {
+  "guesses": [],
+  "fiscal_year_guess": "",
+  "confidence": 0,
+  "basis": "Pre-revenue manufacturer with goodwill CAM; generic."
+ },
+ "R9-18": {
+  "guesses": [],
+  "fiscal_year_guess": "",
+  "confidence": 0,
+  "basis": "Small transport/communications firm with going concern and acquisition; generic."
+ },
+ "R9-11": {
+  "guesses": [],
+  "fiscal_year_guess": "",
+  "confidence": 0,
+  "basis": "Services firm with acquisition and business-combination CAM; generic."
+ },
+ "R9-04": {
+  "guesses": [],
+  "fiscal_year_guess": "",
+  "confidence": 0,
+  "basis": "Going-concern shell-like manufacturer with restatement; generic."
+ },
+ "R9-22": {
+  "guesses": [],
+  "fiscal_year_guess": "",
+  "confidence": 0,
+  "basis": "Pre-revenue manufacturer with class action and acquisition; generic."
+ },
+ "R9-46": {
+  "guesses": [],
+  "fiscal_year_guess": "",
+  "confidence": 0,
+  "basis": "Agriculture firm with government investigation, no revenue data; generic."
+ }
+}

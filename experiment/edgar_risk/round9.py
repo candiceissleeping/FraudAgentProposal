@@ -464,16 +464,44 @@ def evaluate(args):
                 rep.append(f"| {c} | {info['kind']} | {', '.join(info['changed']) or '（無）'} | {j0[c]:.0f} | {j0[c] + d:.0f} | {d:+.0f} | {'是' if ok else '否'} |")
         ds.sort()
         rep.append(f"\n方向正確 {good}/{len(ds)}；|Δ| 中位數 {ds[len(ds) // 2] if ds else float('nan'):.0f}")
+    # Supplementary (not pre-registered): does J0 add information beyond the name-only prior (MEM)?
+    memsc = {c: float(m["risk_score"]) for c, m in mem.items()}
+    pairs = json.load(open(f"{OUT}/pairs.json"))
+    tc = [(cmap[f"P{i:02d}T"], cmap[f"P{i:02d}C"], p["control"].get("assets_ratio")) for i, p in enumerate(pairs, 1)]
+    rep += ["", "## 補充分析（非預先登錄）", ""]
+    size_ok = set()
+    for a, b, r in tc:
+        if r and 1 / 3 <= float(r) <= 3:
+            size_ok |= {a, b}
+    rep.append("| 條件 | AUC | 95% CI | 組內勝 / 平 / 負 | n（問題+對照） |")
+    rep.append("|---|---|---|---|---|")
+    rep.append(line("J0，只看規模差 ≤ 3 倍的配對", j0, lambda c: c in size_ok))
+    mem_wrong = set()
+    for a, b, _ in tc:
+        if a in memsc and b in memsc and memsc[a] <= memsc[b]:
+            mem_wrong |= {a, b}
+    rep.append(line("J0，只看 MEM 排錯或平手的配對", j0, lambda c: c in mem_wrong))
+    both = [c for c in j0 if c in memsc]
+    x = [memsc[c] for c in both]; y = [j0[c] for c in both]
+    mx, my = sum(x) / len(x), sum(y) / len(y)
+    beta = sum((a - mx) * (b - my) for a, b in zip(x, y)) / sum((a - mx) ** 2 for a in x)
+    resid = {c: j0[c] - (my + beta * (memsc[c] - mx)) for c in both}
+    rep.append(line("J0 扣除 MEM 線性部分後的殘差", resid))
+    rep.append("")
+    rep.append(f"- J0 與 MEM 的 Spearman ρ（54 張卡）= {round8.spearman(x, y):.2f}；J0 對 MEM 的斜率 = {beta:.2f}")
+    rep.append(f"- 規模差 > 3 倍的配對：{[(name_of[a], f'{float(r):.3g}x') for a, b, r in tc if r and not 1 / 3 <= float(r) <= 3]}")
     rep += ["", "## 逐卡", "", "| 卡 | 組 | 公司 | MEM | MEM 知道 | J0 | J1 | F | 4.02 涵蓋 Y0 |", "|---|---|---|---|---|---|---|---|---|"]
     fsc = feat("F")
+
+    def fmt(d, c, spec=".0f"):
+        return format(d[c], spec) if c in d else ""
+
     for c in sorted(inv):
         p = inv[c]
         cv = cov.get(rows[p][2], {}).get("covers_y0", "") if p.endswith("T") else ""
-        m = mem.get(c, {})
-        rep.append(f"| {c} | {'問題' if is_t[c] else '對照'} | {name_of[c]} | {m.get('risk_score', '')} | {'是' if c in known else ''} | "
-                   f"{j0.get(c, ''):.0f} | " if c in j0 else f"| {c} | {'問題' if is_t[c] else '對照'} | {name_of[c]} | {m.get('risk_score', '')} | {'是' if c in known else ''} | | ")
-        rep[-1] += f"{j1[c]:.0f} | " if c in j1 else " | "
-        rep[-1] += f"{fsc[c]:.2f} | {cv} |" if c in fsc else f" | {cv} |"
+        cells = [c, "問題" if is_t[c] else "對照", name_of[c], mem.get(c, {}).get("risk_score", ""),
+                 "是" if c in known else "", fmt(j0, c), fmt(j1, c), fmt(fsc, c, ".2f"), cv]
+        rep.append("| " + " | ".join(str(x) for x in cells) + " |")
     open(f"{OUT}/evaluation.md", "w").write("\n".join(rep) + "\n")
     print("\n".join(rep))
 

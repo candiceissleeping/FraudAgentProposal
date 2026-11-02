@@ -31,7 +31,11 @@ GE 原本在名單中，但其 FY2016 10-K 在資料集中為空（年報以引�
   - 只給公司名稱（不給年報）AUC 0.88；事實卡（無名稱）0.67；評分者 0/28 認出、0/28 知道結果；內容擾動 14/14 方向正確
   - 但給候選名單時事實卡可被配對（26/28，粗化後 18/28），必須做時間外測試
   - 流程：`results/round8/protocol.md` → `python -m experiment.edgar_risk.round8 build` → 抽取 agent → `verify` → `cards` → 判斷 agent → `evaluate`
-- **提案（含第九輪時間外驗證設計）：[`PROPOSAL.md`](PROPOSAL.md)**
+- 第九輪（時間外驗證：模型訓練截止後才公開的 8-K Item 4.02，27 對）：[`results/round9/review.md`](results/round9/review.md)
+  - 模型 0/54 知道結果；事實卡 J0 AUC 0.77（0.64–0.89）；加名稱不再提升（記憶效應 +3.6，CI 含 0）；內容擾動 12/12
+  - 只給名稱仍有 0.71（公司類型先驗，非結果記憶）；J0 扣除此先驗後殘差 0.65
+  - 流程：`results/round9/protocol.md` → `round9_scan` → `round9 cases / controls / build / xbrl` → 抽取 agent → `verify` → `cards` → 判斷 agent → `evaluate`
+- **提案：[`PROPOSAL.md`](PROPOSAL.md)**
 
 ## 流程
 1. **抓資料** `python -m experiment.edgar_risk.fetch`
