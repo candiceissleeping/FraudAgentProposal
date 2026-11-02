@@ -126,3 +126,13 @@ Item 1A 風險因素、Item 1B 未解決的 SEC 意見、Item 3 法律訴訟、I
   - **L3 新增**：部門名稱 → `[SEGMENT_n]`（取「… segment(s)」前出現 ≥ 2 次的大寫片語），並遮蔽其中具辨識性的單字（`Oilseeds`、`Rhythm`）；段落邊界在原文上判定，再以標記帶到遮蔽後的文字；Item 8 只有交互參照時，保留 Item 15/16 中從查核報告或資產負債表開始的財務報表
   - L3 試跑漏洞回歸：剩 `Compounding`（P04T，FDA 用語 Pharmaceutical Compounding）與 `Interventional`（P05C，醫材通用類別 Interventional Cardiology），判定為一般產業用語，不再遮蔽
   - L3 評分：第 1–5 組 10 份，每份新開 agent，提示詞 `round8.RISK_TASK_L3`（L2 版本加註刪除段落與部門代號），檔名對應表 `agent_filename_map_L3.json`（與 L2 不同的隨機順序）
+- 2026-11-02，**L3 試跑後、L3b 評分前的修訂（第 3 版規則，資料包 `L2b` / `L3b`；已評分的 `L2` / `L3` 不重建）**。依 `pilot_L3_results.md` 的發現：
+  - **每股金額**：股數另乘第二個係數 j（`key_j.json`，與 k 的比值至少差 25%），每股金額乘 k/j，金額仍乘 k。淨利 ÷ 股數 = EPS、股價 × 股數 = 市值、所有加總仍成立，但 EPS 不再等於真實數字（例：ADM 7.71 → 15.72、Bunge 10.51 → 3.83）。股數的判定：列名為 shares / weighted average / outstanding、只有 ≤ 3 欄整數、不含 $ 或 cost / value / amount 等字；以及內文「N shares」。這些數值（≥ 5 位、非整千）在權益變動表等混合列中也以數值比對套用 j
+  - **日期**：去掉日（「June 4, Y0」→「June Y0」）
+  - **公司名稱尾巴**：「[COMPANY] and Company」→「[COMPANY]」
+  - **事業單位名稱**：「… unit / division / business / franchise」前出現 ≥ 2 次的多字大寫片語 → `[UNIT_n]`（整個片語，不拆字）
+  - **證券票面利率**：「8.75% Series A Preferred」「Preferred Stock 8.75%」→ `[RATE]%`；**產品代號**「[COMPANY]0101」→ `[PRODUCT_n]`
+  - L3 資料包缺漏修正：National Presto 的報表標題含不可見字元（BOM），L3 只保留了報表之後的查核報告，**L3 試跑的 P03C 少了財務報表與附註**；L3b 已修正（80k → 144k 字元）
+  - 同數字處理不一致：10 份中只剩 P04C 一個數字（9,683 同時是股數與另一個金額），整千的數值不比對也不列入
+  - L3 試跑 agent 引用的線索在 L3b 中的檢查：實際 EPS、精確日期、「and Company」、BD / BSX 的事業單位名稱、ADM 部門字、票面利率皆為 0；保留的是業務內容本身（藥品類型 naloxone / epinephrine、503B、variable rate demand notes、小寫品牌 ecobee）
+  - L3b 評分：同 10 份，新開 agent，提示詞 `round8.RISK_TASK_L3B`，檔名對應表 `agent_filename_map_L3b.json`

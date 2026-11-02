@@ -20,7 +20,7 @@ import subprocess
 import time
 
 from .redact_v2 import (L2Redactor, drop_descriptive, l3_select, l3_stub, leak_audit, mark_sections, mask_segments,
-                        person_names, segment_names, top_caps, unmark)
+                        mask_units, person_names, segment_names, top_caps, unit_names, unmark)
 from .round7 import _pairs
 
 SRC = "data/round7/packets"
@@ -49,6 +49,15 @@ RISK_TASK_L3 = RISK_TASK_L2.replace(
     "legal proceedings, MD&A, financial statements and notes, controls); the business description has been removed "
     "and replaced by a one-line summary, business-segment names are replaced by [SEGMENT_n], and sentences that "
     "describe the company's market position or history have been removed.")
+
+RISK_TASK_L3B = RISK_TASK_L3.replace(
+    "every monetary\namount has been multiplied by one undisclosed constant, so ratios, growth rates and sums are preserved but absolute\nsizes are not",
+    "every monetary\namount has been multiplied by one undisclosed constant and every share count by another, so per-share amounts\n"
+    "change by their ratio; ratios, growth rates, sums and per-share identities (income / shares) are preserved but\n"
+    "absolute sizes and per-share figures are not").replace(
+    "business-segment names are replaced by [SEGMENT_n],",
+    "business-segment and business-unit names are replaced by [SEGMENT_n] / [UNIT_n], days of the month are removed "
+    "from dates,")
 
 # Strings the L2-pilot agents actually used to recognise the company (verified present in the pilot packets).
 REGRESSION = {"P01C": ["20211231"], "P02T": ["1ADM", "Oilseeds", "Nutrition", "Carbohydrate Solutions"],
@@ -116,6 +125,18 @@ def identifiers(args):
         print(pid, info[pid]["name"], len(ident["people"]), "people", flush=True)
 
 
+def _keys_j():
+    """Rule v3: a second factor for share counts, drawn so that per-share amounts move by at least 25% (|ln k/j| >= ln 1.25)."""
+    k, rng, out = _keys(), random.Random(SEED + 100), {}
+    for pid in sorted(k):
+        while True:
+            j = round(math.exp(rng.uniform(math.log(0.5), math.log(2))), 4)
+            if abs(math.log(k[pid] / j)) >= math.log(1.25):
+                break
+        out[pid] = j
+    return out
+
+
 def _keys():
     """One scaling factor per packet, log-uniform on [0.5, 2], fixed seed, drawn for all 28 at once."""
     rng = random.Random(SEED)
@@ -129,28 +150,35 @@ def _write(level, pid, text):
 
 
 def build(args):
+    """Rule v2 -> packets L2 / L3 (already scored in the pilots); rule v3 (--v3) -> L2b / L3b."""
     keys = _keys()
     json.dump(keys, open(f"{DATA}/key.json", "w"), indent=1)
+    jkeys = _keys_j() if args.v3 else {}
+    if args.v3:
+        json.dump(jkeys, open(f"{DATA}/key_j.json", "w"), indent=1)
+    suffix = "b" if args.v3 else ""
     info, assets = _info(), _assets()
     stats = {}
     for pid in _pids(args.pids):
         ident = json.load(open(f"{DATA}/identifiers/{pid}.json"))
         text = _src(pid)
-        red = L2Redactor(ident, int(info[pid]["period"][:4]), keys[pid], text)
+        red = L2Redactor(ident, int(info[pid]["period"][:4]), keys[pid], text, j=jkeys.get(pid))
         marked = red.l2(mark_sections(text))     # sections found on the original text, see mark_sections
         l2 = unmark(marked)
-        _write("L2", pid, l2)
+        _write("L2" + suffix, pid, l2)
         body, kept = l3_select(marked)
         segs = segment_names(l2)
+        units = unit_names(l2, segs) if args.v3 else []
+        body = mask_units(body, units) if args.v3 else body
         body = mask_segments(body, segs)
         body, dropped = drop_descriptive(body)
         l3 = l3_stub(info[pid]["sic"], assets[pid], info[pid]["period"]) + "\n\n" + body
-        _write("L3", pid, l3)
+        _write("L3" + suffix, pid, l3)
         stats[pid] = {"chars_L0": len(text), "chars_L2": len(l2), "chars_L3": len(l3), "items_kept": kept,
-                      "segments": len(segs), "sentences_dropped": dropped,
-                      "inconsistent_numbers": len(red.inconsistent_numbers())}
+                      "segments": len(segs), "units": len(units), "sentences_dropped": dropped,
+                      "inconsistent_numbers": len(red.inconsistent_numbers()), "share_values": len(red.share_values)}
         print(pid, stats[pid], flush=True)
-    json.dump(stats, open(f"{OUT}/build_stats.json", "w"), indent=1)
+    json.dump(stats, open(f"{OUT}/build_stats{'_v3' if args.v3 else ''}.json", "w"), indent=1)
 
 
 def _first_total_assets(text):
@@ -164,8 +192,9 @@ def _first_total_assets(text):
 
 def audit(args):
     keys = json.load(open(f"{DATA}/key.json"))
-    stats = json.load(open(f"{OUT}/build_stats.json")) if os.path.exists(f"{OUT}/build_stats.json") else {}
     lv = args.level
+    sf = f"{OUT}/build_stats{'_v3' if lv.endswith('b') else ''}.json"
+    stats = json.load(open(sf)) if os.path.exists(sf) else {}
     lines = [f"# 第八輪 {lv} 遮蔽檢查（程式輸出）", "",
              "| 資料包 | 殘留識別碼 | 試跑漏洞回歸（應為 0） | 同數字處理不一致 | Total assets：遮蔽後 ÷ L0 | k |",
              "|---|---|---|---|---|---|"]
@@ -192,7 +221,7 @@ def agent_files(args):
     """Copy L2 packets to neutral names (random order) outside the repository, for blind scoring agents."""
     pids = _pids(args.pids)
     order = pids[:]
-    random.Random(SEED + 1 + (args.level != "L2")).shuffle(order)   # different order per level
+    random.Random(SEED + 1 + {"L2": 0, "L3": 1, "L2b": 2, "L3b": 3}[args.level]).shuffle(order)   # new order per level
     os.makedirs(args.out, exist_ok=True)
     mapping = {}
     for i, pid in enumerate(order, 1):
@@ -209,7 +238,8 @@ def main():
     ap.add_argument("cmd", choices=["identifiers", "build", "audit", "agent-files"])
     ap.add_argument("--pids", default="")
     ap.add_argument("--out", default="")
-    ap.add_argument("--level", default="L2", choices=["L2", "L3"])
+    ap.add_argument("--level", default="L2", choices=["L2", "L3", "L2b", "L3b"])
+    ap.add_argument("--v3", action="store_true", help="rule version 3: share-count factor j, dates, unit names")
     a = ap.parse_args()
     {"identifiers": identifiers, "build": build, "audit": audit, "agent-files": agent_files}[a.cmd](a)
 

@@ -63,13 +63,23 @@ PROSE_NUM = re.compile(r"(?P<pre>\$\s?\(?\s?)?(?<![\w.])(?P<num>\d[\d,]*(?:\.\d+
                        r"(?P<post>\s*(?:million|billion|thousand|trillion)\b|\s+(?:full[- ]time\s+|part[- ]time\s+)?"
                        rf"(?:{COUNT_WORDS})\b)?", re.I)
 PER_SHARE_AFTER = re.compile(r"^\s*(?:per|a|each)\s+(?:common\s+|ordinary\s+|diluted\s+|basic\s+)?(?:share|unit)", re.I)
-PER_SHARE_BEFORE = re.compile(r"(?:price|par value|per share)[^.$]{0,25}$", re.I)
+PER_SHARE_BEFORE = re.compile(r"(?:price|par value|per share|\bEPS\b|earnings per|dividends? of)[^.$]{0,25}$", re.I)
+SHARE_ROW = re.compile(r"(?i)\bshares?\b(?!.*\bper\b)|weighted[- ]average(?! (?:exercise|grant|remaining|fair))|"
+                       r"\boutstanding\b")
+SHARE_ROW_NOT = re.compile(r"(?i)\bcost\b|value|amount|proceeds|consideration|capital|paid|purchase|dividend|"
+                           r"compensation|expense|income|loss|earnings|\$")
+COUPON = re.compile(r"\b\d{1,2}(?:\.\d{1,4})?%(?=\s+(?:Series|Senior|Subordinated|Notes?|Cumulative|Convertible|Perpetual|"
+                    r"Preferred|Debentures?|Bonds?|Mandatory|Exchangeable|Redeemable|Fixed|Sustainability|Green)\b)")
+COUPON_AFTER = re.compile(r"\b((?:Stock|Shares|Notes|Debentures|Preferred|Bonds)\s)\d{1,2}\.\d{1,4}%")
+PRODUCT = re.compile(r"\[COMPANY\]-?(\d{2,5}[A-Z]?)\b")
+DAY = re.compile(r"\b(January|February|March|April|May|June|July|August|September|October|November|December|"
+                 r"Jan\.|Feb\.|Mar\.|Apr\.|Jun\.|Jul\.|Aug\.|Sept?\.|Oct\.|Nov\.|Dec\.)\s+\d{1,2}(?:st|nd|rd|th)?\b,?")
 PER_SHARE_LABEL = re.compile(r"(?i)per (?:common |ordinary |diluted |basic )?share|per unit|price per|par value|"
                              r"(?:share|stock|exercise|strike|offering|closing|market|conversion) price|"
                              r"dividends? (?:declared|paid) per")
 SKIP_ROW2 = re.compile(r"(?i)%\s*$|\(%\)|as a % of|percent|\bratio\b|basis points|useful li(?:fe|ves)|\bdays\b|"
                        r"\bmonths?\b|\(?in years\)?|\byears\)|life \(years|term \(years|remaining (?:life|term)|volatility|"
-                       r"\byield\b|\brates?\b(?!\s*(?:swap|contract|derivative|hedge|lock|cap|floor))")
+                       r"\byield\b|(?<!\[)\brates?\b(?!\s*(?:swap|contract|derivative|hedge|lock|cap|floor))")
 FILE_NO = re.compile(r"\b(?:000|001|002|333|811|814|028)-\d{4,6}\b")
 EIN = re.compile(r"\b\d{2}-\d{7}\b")
 PHONE = re.compile(r"(?:\+?1[\s.\-]?)?\(?\b\d{3}\)?[\s.\-]\d{3}[\s.\-]\d{4}\b")
@@ -157,8 +167,10 @@ def _sig2(n):
 
 
 class L2Redactor:
-    def __init__(self, ident, fiscal_year, k, reference_text):
+    def __init__(self, ident, fiscal_year, k, reference_text, j=None):
         self.k, self.fy = k, fiscal_year
+        self.j = j or k          # j == k keeps per-share amounts unchanged (rule version 2)
+        self.share_values = set()
         self.lower = _common_words(reference_text)
         self.subs = []   # (compiled regex, placeholder)
         for p in name_patterns(ident.get("names", []), reference_text):
@@ -196,7 +208,8 @@ class L2Redactor:
     def _identifiers(self, text):
         for rx, ph in self.subs:
             text = rx.sub(ph, text)
-        return text
+        # "Becton, Dickinson and Company" -> "[COMPANY] and Company" -> "[COMPANY]"
+        return re.sub(r"\[COMPANY\],?\s+(?:and|&)\s+(?:Company|Co\.?)(?![a-z])", "[COMPANY]", text)
 
     @staticmethod
     def _patterns(text):
@@ -276,45 +289,100 @@ class L2Redactor:
     def _years(self, text):
         return YEAR2.sub(lambda m: self._rel(m.group(1)), text)
 
-    # Scaling rule (protocol rev. 2): EVERY quantity is multiplied by k -- money, share counts, other counts --
-    # except per-share amounts, percentages, ratios, rates and durations. Then net income / shares = EPS still
-    # holds, and the same number is treated the same way wherever it appears.
+    # Scaling rule (protocol rev. 3): money x k, share counts x j, per-share amounts x k/j; percentages, ratios,
+    # rates and durations untouched. Every identity (net income / shares = EPS, price x shares = market value, sums)
+    # still holds, but neither absolute amounts nor EPS match the real filing. A first pass collects the values that
+    # are share counts, so the same count gets j wherever it appears (equity statements mix share and dollar columns).
     def _note(self, num, how):
         if len(re.sub(r"\D", "", num.split(".")[0])) >= 4:
             self.decisions.setdefault(num, set()).add(how)
 
-    def _scale(self, num):
-        self._note(num, "scaled")
-        return _fmt(num, float(num.replace(",", "")) * self.k)
+    def _scale(self, num, kind="k"):
+        self._note(num, kind)
+        v = float(num.replace(",", ""))
+        if kind == "ps":
+            v *= self.k / self.j
+            dec = max(len(num.split(".")[1]) if "." in num else 0, 2)
+            while v and round(v, dec) == 0 and dec < 6:
+                dec += 1
+            return f"{v:,.{dec}f}"
+        return _fmt(num, v * (self.j if kind == "j" else self.k))
+
+    @staticmethod
+    def _digits(num):
+        return re.sub(r"\D", "", num.split(".")[0])
+
+    def _row_cells(self, line):
+        cells = re.split(r"(\s{2,}|\s*\|\s*)", line)
+        texts = cells[0::2]
+        label = texts[0].strip() if texts and not CELL_NUM.match(texts[0].strip()) else ""
+        nums = [CELL_NUM.match(t.strip()) for t in texts[1:]]
+        return cells, texts, label, [m.group(2) for m in nums if m]
+
+    def _row_kind(self, line, header):
+        """'ps' (per share), 'j' (share counts), 'skip' (%, rates, durations) or '' (decide per cell)."""
+        cells, texts, label, nums = self._row_cells(line)
+        if not label:
+            return ""
+        plain = re.sub(r"[^a-z ]", "", label.lower()).strip()
+        decimals = bool(nums) and all("." in n for n in nums)
+        integers = bool(nums) and not any("." in n for n in nums)
+        bd = plain in {"basic", "diluted", "basic and diluted", "basic earnings", "diluted earnings"}
+        h = header.lower()
+        if decimals and (PER_SHARE_LABEL.search(label) or (bd and "per" in h and "share" in h)):
+            return "ps"
+        if SKIP_ROW2.search(label):
+            return "skip"
+        filled = [t for t in texts[1:] if t.strip(" \u200b")]   # numbers and dashes (equity statements: many columns)
+        if (integers and "$" not in line and len(filled) <= 3 and not SHARE_ROW_NOT.search(label)
+                and (SHARE_ROW.search(label) or (bd and "share" in h))):
+            return "j"
+        return ""
+
+    def _collect_shares(self, text):
+        header = ""
+        for ln in text.split("\n"):
+            if self._is_row(ln):
+                if self._row_kind(ln, header) == "j":
+                    self.share_values |= {self._digits(n) for n in self._row_cells(ln)[3] if len(self._digits(n)) >= 5}
+            else:
+                for m in re.finditer(r"(\d{1,3}(?:,\d{3}){1,})\s+(?:shares|common shares|ordinary shares)\b", ln):
+                    self.share_values.add(self._digits(m.group(1)))
+                if len(ln) < 200:
+                    header = ln
+
+    @staticmethod
+    def _round(d):
+        return d.endswith("000")
+
+    def _kind_of(self, num):
+        d = self._digits(num)
+        # round values (1,000,000) are often both a share count and an unrelated dollar amount: not matched by value
+        return "j" if len(d) >= 5 and not self._round(d) and d in self.share_values else "k"
 
     def _scale_prose(self, line):
         def sub(m):
             pre, num, post = m.group("pre"), m.group("num"), m.group("post")
-            if not pre and not post:
-                return m.group(0)
-            if pre and not post and (PER_SHARE_AFTER.match(line[m.end():m.end() + 30])
+            after = line[m.end():m.end() + 30]
+            if pre and not post and (PER_SHARE_AFTER.match(after)
                                      or PER_SHARE_BEFORE.search(line[max(0, m.start() - 40):m.start()])):
-                self._note(num, "kept")
+                return pre + self._scale(num, "ps")
+            if post and re.search(r"shares", post, re.I) or (post and re.match(r"\s+(?:common\s+|ordinary\s+)?shares",
+                                                                              after, re.I)):
+                return (pre or "") + self._scale(num, "j") + post
+            if not pre and not post:
+                if self._kind_of(num) == "j":
+                    return self._scale(num, "j")
                 return m.group(0)
-            return (pre or "") + self._scale(num) + (post or "")
+            return (pre or "") + self._scale(num, "k") + (post or "")
         return PROSE_NUM.sub(sub, line)
 
     def _scale_row(self, line, header):
-        cells = re.split(r"(\s{2,}|\s*\|\s*)", line)
-        texts = cells[0::2]
-        label = texts[0].strip() if texts and not CELL_NUM.match(texts[0].strip()) else ""
-        plain = re.sub(r"[^a-z ]", "", label.lower()).strip()
-        nums = [CELL_NUM.match(t.strip()) for t in texts[1:]]
-        nums = [m.group(2) for m in nums if m]
-        decimals = bool(nums) and all("." in n for n in nums)   # 2.92 / (0.81): per-share; 7,081: a share count
-        per_share = decimals and (bool(PER_SHARE_LABEL.search(label)) or (
-            plain in {"basic", "diluted", "basic and diluted", "basic earnings", "diluted earnings"}
-            and "per" in header.lower() and "share" in header.lower()))
-        if label and (per_share or SKIP_ROW2.search(label)):
-            for t in texts[1:]:
-                m = CELL_NUM.match(t.strip())
-                if m:
-                    self._note(m.group(2), "kept")
+        kind = self._row_kind(line, header)
+        cells, texts, label, nums = self._row_cells(line)
+        if kind == "skip":
+            for n in nums:
+                self._note(n, "kept")
             return line
         rng = {i for i, t in enumerate(texts) if t.strip().lower() == "to"}
         near = {j - 1 for j in rng} | {j + 1 for j in rng}
@@ -323,26 +391,32 @@ class L2Redactor:
             m = CELL_NUM.match(st)
             if not m or i in near or re.fullmatch(r"\(\d\)", st):
                 continue
-            texts[i] = t.replace(st, m.group(1) + self._scale(m.group(2)) + m.group(3))
+            if not kind and "." in m.group(2) and (PER_SHARE_LABEL.search(label) or re.search(r"\bEPS\b", label)):
+                k = "ps"            # mixed row: "Net earnings and reported EPS  $4,340  $7.71"
+            else:
+                k = kind or ("k" if "$" in st else self._kind_of(m.group(2)))
+            texts[i] = t.replace(st, m.group(1) + self._scale(m.group(2), k) + m.group(3))
         cells[0::2] = texts
         return "".join(cells)
 
+    @staticmethod
+    def _is_row(ln):
+        return (len(ln) < 400 and re.search(r"\s{2,}|\|", ln) is not None and
+                re.search(r"(?:^|\s{2,}|\|)\s*\(?\$?\s?\(?\d[\d,]*(?:\.\d+)?\)?(?=\s{2,}|\s*\||\s*$)", ln) is not None)
+
     def _amounts(self, text):
-        lines = text.split("\n")
-        header = ""
-        out = []
-        prev = ""
-        for ln in lines:
+        self._collect_shares(text)
+        header, prev, out = "", "", []
+        for ln in text.split("\n"):
             m = CELL_NUM.match(ln.strip())
-            if m and (prev.rstrip().endswith(("$", "$(")) or len(re.sub(r"\D", "", m.group(2).split(".")[0])) >= 4):
+            if m and (prev.rstrip().endswith(("$", "$(")) or len(self._digits(m.group(2))) >= 4):
                 # a number alone on a line: inline-XBRL breaks put "$" at the end of the line above
-                out.append(ln.replace(m.group(2), self._scale(m.group(2))))
+                kind = "k" if prev.rstrip().endswith(("$", "$(")) else self._kind_of(m.group(2))
+                out.append(ln.replace(m.group(2), self._scale(m.group(2), kind)))
                 prev = ln
                 continue
             prev = ln
-            row = (len(ln) < 400 and re.search(r"\s{2,}|\|", ln) is not None and
-                   re.search(r"(?:^|\s{2,}|\|)\s*\(?\$?\s?\(?\d[\d,]*(?:\.\d+)?\)?(?=\s{2,}|\s*\||\s*$)", ln) is not None)
-            if row:
+            if self._is_row(ln):
                 out.append(self._scale_row(ln, header))
             else:
                 out.append(self._scale_prose(ln))
@@ -351,7 +425,9 @@ class L2Redactor:
         return "\n".join(out)
 
     def inconsistent_numbers(self):
-        return sorted(n for n, d in self.decisions.items() if len(d) > 1)
+        """Numbers given two different factors. Round values (multiples of 1,000) are left out: there the same
+        figure is usually two different quantities (1,000,000 shares and $1,000,000)."""
+        return sorted(n for n, d in self.decisions.items() if len(d) > 1 and not self._round(self._digits(n)))
 
     # ---------------------------------------------------------------- public
     def l2(self, text):
@@ -362,6 +438,10 @@ class L2Redactor:
         text = self._proper_nouns(text)
         text = ZIP.sub(lambda m: m.group(1) + m.group(2) + "[ID]", text)   # "[NAME_7] 07932" after the state is masked
         text = self._years(text)
+        text = DAY.sub(lambda m: m.group(1), text)   # rule v3: "June 4, Y0" -> "June Y0" (exact dates identify events)
+        text = COUPON_AFTER.sub(r"\1[RATE]%", COUPON.sub("[RATE]%", text))   # "8.75% Series A Preferred": a security's coupon identifies it
+        products = {}
+        text = PRODUCT.sub(lambda m: f"[PRODUCT_{products.setdefault(m.group(1), len(products) + 1)}]", text)
         return self._amounts(text)
 
 
@@ -460,7 +540,8 @@ def split_items(text):
 
 L3_KEEP = {"1a", "1b", "3", "7", "7a", "8", "9", "9a", "9b"}
 FIN_START = re.compile(r"(?i)^\s*(report of independent registered public accounting firm|index to (?:consolidated )?"
-                       r"financial statements|(?:consolidated )?balance sheets?\s*$|(?:we )?have audited the accompanying)")
+                       r"financial statements|(?:consolidated )?balance sheets?\s*$|(?:consolidated )?statements? of (?:comprehensive )?"
+                       r"(?:income|earnings|operations)\s*$|(?:we )?have audited the accompanying)")
 DESCRIPTIVE = re.compile(
     r"(?i)\b(?:we|the company|\[company\])\s+(?:is|are)\s+(?:a|an|the|one of)\b|headquarter|principal executive offices|"
     r"\b(?:the|a)\s+(?:leading|largest|premier|foremost)\b|\b(?:the|a)\s+(?:only|sole)\s+(?:company|provider|"
@@ -473,7 +554,12 @@ SEG_PHRASE = re.compile(r"((?:[A-Z][\w’'&/\-]*|\[[A-Z_0-9]+\])(?:\s+(?:and|&|o
 SEG_GENERIC = {"the", "our", "each", "other", "all", "all other", "total", "reportable", "operating", "business", "two",
                "three", "four", "five", "one", "its", "this", "that", "these", "corporate", "geographic", "single",
                "same", "prior", "segment", "consolidated", "revenue", "revenues", "net", "and", "of", "in", "by",
-               "for", "a", "an", "y0", "company", "[company]", "remaining", "new", "both", "such", "every", "which"}
+               "for", "a", "an", "y0", "company", "[company]", "remaining", "new", "both", "such", "every", "which",
+               "company’s", "company's", "[company]’s", "[company]'s", "core", "key", "certain", "acquired", "legacy",
+               "existing", "principal", "primary", "major", "significant", "small", "large", "domestic", "foreign",
+               "adjusted", "segment’s", "segment's"}
+UNIT_PHRASE = re.compile(r"((?:[A-Z][\w’'&/\-]*|\[[A-Z_0-9]+\])(?:\s+(?:and|&|of|[A-Z][\w’'&/\-]*|\[[A-Z_0-9]+\])){0,5})"
+                         r"\s+(?:business units?|units?|divisions?|franchises?|reporting units?|businesses|business)\b")
 SIC2 = {"13": "Oil and gas extraction", "20": "Food and kindred products", "28": "Chemicals and allied products",
         "34": "Fabricated metal products", "35": "Industrial and commercial machinery and computer equipment",
         "36": "Electronic and other electrical equipment", "37": "Transportation equipment",
@@ -499,6 +585,26 @@ def segment_names(text):
 SEG_WORD_KEEP = {"Services", "Solutions", "Products", "Systems", "Group", "Other", "Corporate", "Business", "Segment",
                  "Total", "International", "Global", "North", "South", "East", "West", "America", "Americas", "Europe",
                  "Asia", "Pacific", "Consumer", "Commercial", "Industrial", "Specialty", "Retail", "Wholesale"}
+
+
+def unit_names(text, segments=()):
+    """Business-unit / division names ('Medication Delivery Solutions unit', 'Interventional Medicine business'):
+    capitalised multi-word phrases before unit/division/business at least twice. Masked as whole phrases only."""
+    import collections
+    c = collections.Counter()
+    for m in UNIT_PHRASE.finditer(text):
+        words = m.group(1).split()
+        while words and words[0].lower() in SEG_GENERIC:
+            words.pop(0)
+        if len(words) >= 2 and not all(w.startswith("[") for w in words) and words[-1].lower() not in SEG_GENERIC:
+            c[" ".join(words)] += 1
+    return sorted([p for p, n in c.items() if n >= 2 and p not in segments], key=len, reverse=True)
+
+
+def mask_units(text, units, start=1):
+    for i, p in enumerate(units, start):
+        text = re.sub(rf"(?<![\w\[]){re.escape(p)}(?![\w\]])", f"[UNIT_{i}]", text)
+    return text
 
 
 def mask_segments(text, names):
@@ -565,7 +671,7 @@ def l3_select(marked):
     item8 = "".join(b for k, b in secs if k == "8")
     if len(item8) < 5000:
         later = "\n".join(b for k, b in secs if k in ("15", "16")).split("\n")
-        start = next((i for i, ln in enumerate(later) if FIN_START.match(ln)), None)
+        start = next((i for i, ln in enumerate(later) if FIN_START.match(ln.strip(" \ufeff\u200b\xa0"))), None)
         if start is not None:
             keep.append("\n".join(later[start:]))
             kept.append("FS-from-15/16")

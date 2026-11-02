@@ -37,7 +37,7 @@ class L2Test(unittest.TestCase):
 
     def test_years_relative(self):
         out = self.r.l2("For the fiscal year ended December 31, 2022 compared with 2021 and FY23; ASU 2016-02 applies.")
-        self.assertIn("December 31, Y0", out)
+        self.assertIn("December Y0", out)   # rule v3: day of month removed
         self.assertIn("Y-1", out)
         self.assertIn("Y+1", out)
         self.assertIn("ASU [no.]", out)
@@ -71,7 +71,7 @@ class L2Test(unittest.TestCase):
         self.assertIn("at end of year  $3,000  $2,400", out)
         self.assertIn("par value  3,200  3,000", out)
         self.assertIn("Total purchase price  $3,400", out)
-        self.assertIn("Notes due Y+1  2,008  1,980", out)
+        self.assertIn("% Notes due Y+1  2,008  1,980", out)
         self.assertEqual(self.r.inconsistent_numbers(), [])
 
     def test_prose_money_and_counts_scaled(self):
@@ -85,6 +85,33 @@ class L2Test(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class TwoFactorTest(unittest.TestCase):
+    """Rule v3: money x k, share counts x j, per-share x k/j -- identities hold, EPS no longer matches the filing."""
+    def setUp(self):
+        self.r = L2Redactor(IDENT, 2022, 2.0, REF, j=0.5)
+
+    def test_eps_identity_preserved(self):
+        out = self.r.l2("(In thousands, except per share data)\nNet earnings  $20,000  $10,000\n"
+                        "Weighted average shares outstanding  10,123,456  10,000,000\n"
+                        "Net earnings per share  $2.00  $1.00\n"
+                        "Balance  10,123,456  $10,000  $500,000\n"
+                        "We had 10,123,456 shares outstanding and paid a dividend of $0.50 per share.")
+        self.assertIn("Net earnings  $40,000  $20,000", out)                      # x k
+        self.assertIn("outstanding  5,061,728  5,000,000", out)                   # x j
+        self.assertIn("per share  $8.00  $4.00", out)                             # x k/j: 40,000k / 5,000,000
+        self.assertIn("  5,061,728  $20,000  $1,000,000", out)   # share column in a mixed row, found by value
+        self.assertIn("5,061,728 shares", out)
+        self.assertIn("$2.00 per share", out)
+        self.assertEqual(self.r.inconsistent_numbers(), [])
+
+    def test_company_tail_and_dates(self):
+        r = L2Redactor({"names": ["BECTON DICKINSON & CO"]}, 2019, 2.0,
+                       "Becton, Dickinson and Company sells. the closing occurred.")
+        out = r.l2("Becton, Dickinson and Company closed the deal on December 29, 2017.")
+        self.assertNotIn("and Company", out)
+        self.assertIn("December Y-2", out)
 
 
 class L3Test(unittest.TestCase):
