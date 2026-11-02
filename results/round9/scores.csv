@@ -10,3 +10,4 @@ L3c,report_01,S02T,Kubient,treatment,72,true,Kubient Inc.,85,true
 L3c,report_03,S01C,Marygold Companies,control,12,true,The Marygold Companies,85,false
 L3c,report_05,S03T,C-Bond Systems,treatment,25,true,C-Bond Systems,80,false
 L3c,report_06,S02C,Streamline Health Solutions,control,27,true,Streamline Health Solutions,85,false
+L3c,report_02,S01T,Netcapital,treatment,62,true,Netcapital Inc.,88,false (vague write-downs)
