@@ -21,3 +21,4 @@ P10C,1,7,True,"Provident Financial Holdings, Inc. FY ended June 30, 2020",False,
 P10T,1,75,True,"Malvern Bancorp, Inc. FY ended September 30, 2020",True,fresh Claude agent in the cloud session (no access to labels or this conversation),same prompt as RISK_TASK; whole unredacted 10-K read with the Read tool
 P11T,1,72,True,"USA Technologies, Inc. FY2017 10-K",True,fresh Claude agent in the cloud session (no access to labels or this conversation),same prompt as RISK_TASK; whole unredacted 10-K read with the Read tool
 P11C,1,12,True,"Mitek Systems, Inc. FY ended Sept 30, 2017",False,fresh Claude agent in the cloud session (no access to labels or this conversation),same prompt as RISK_TASK; whole unredacted 10-K read with the Read tool
+P12T,1,75,True,"SAExploration Holdings, Inc. FY2018 10-K",True,fresh Claude agent in the cloud session (no access to labels or this conversation),same prompt as RISK_TASK; whole unredacted 10-K read with the Read tool
