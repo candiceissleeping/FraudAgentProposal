@@ -385,6 +385,11 @@ def evaluate(args):
         "CFO/NI (lower = riskier)": {p: neg(feats[p]["cfo_to_ni"]) for p in key},
         "Accruals TATA": {p: num(feats[p]["TATA"]) for p in key},
     }
+    if os.path.exists(f"{OUT}/llm_risk_scores.csv"):  # baseline B: whole 10-K, one question (round7_llm)
+        runs = defaultdict(list)
+        for r in csv.DictReader(open(f"{OUT}/llm_risk_scores.csv")):
+            runs[r["pid"]].append(float(r["risk_score"]))
+        meth["B LLM risk score (whole 10-K)"] = {p: (sum(runs[p]) / len(runs[p]) if runs[p] else None) for p in key}
     lines = ["# Round 7 pilot evaluation (14 recent AAER cases vs matched controls)", "",
              "| Method | n (treat/ctrl) | AUC | 95% CI |", "|---|---|---|---|"]
     for m, v in meth.items():
@@ -403,6 +408,11 @@ def evaluate(args):
             else:
                 w, t, l = w + (a > b), t + (a == b), l + (a < b)
         lines.append(f"- {m}: {w} / {t} / {l} / {na}")
+    if "B LLM risk score (whole 10-K)" in meth:
+        rec = {r["pid"]: r for r in csv.DictReader(open(f"{OUT}/llm_risk_scores.csv"))}
+        lines += ["", "## Baseline B: recognition",
+                  f"- recognised the company: {sum(r['recognised'] == 'True' for r in rec.values())}/{len(rec)}",
+                  f"- says it knows of later accounting problems: {sum(r['knows_later_problems'] == 'True' for r in rec.values())}/{len(rec)}"]
     lines += ["", "## Threshold flags"]
     for m, thr in (("M Beneish", -1.78), ("F Dechow", 1.0), ("C consistency (program)", 0.0)):
         for grp in ("treatment", "control"):

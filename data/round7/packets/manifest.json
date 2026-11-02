@@ -1,0 +1,142 @@
+{
+ "P01T": {
+  "accession": "0001826000-22-000020",
+  "chars": 420301,
+  "sha256": "9fe21d9814886dd8a60ca1236cb561ba97c8e1aff58055c2e3d385444cac5ba0"
+ },
+ "P01C": {
+  "accession": "0001558370-22-003617",
+  "chars": 338998,
+  "sha256": "1f4cd9e1bbcbdaabf59d0c3c297c8a06aa5b9cad47c0f9683896038c017f9b70"
+ },
+ "P02T": {
+  "accession": "0000007084-23-000010",
+  "chars": 359454,
+  "sha256": "61b16b4fa9e6a6597f93cf5a44b94c4dd53929acfb153df36285cb3946639c09"
+ },
+ "P02C": {
+  "accession": "0001144519-23-000010",
+  "chars": 560662,
+  "sha256": "628e651d6620926634c926caa14ef6cf0251038590e2454048aad9a2bcd7d9eb"
+ },
+ "P03T": {
+  "accession": "0001493152-23-021280",
+  "chars": 315257,
+  "sha256": "9933b23f21e857c815ac773af71517fe570c59c957e1ee527a537be504e18ade"
+ },
+ "P03C": {
+  "accession": "0001437749-23-006380",
+  "chars": 194768,
+  "sha256": "50808f6f3b177339c5d5c7f766ca9b8d69b0799ae50a52dbf1da552f7b31c996"
+ },
+ "P04T": {
+  "accession": "0001387131-21-004529",
+  "chars": 596805,
+  "sha256": "b30e5fd94ca79bfbd45dfbb75d01fbbbbc764f577c524080870f28a18a91b2ab"
+ },
+ "P04C": {
+  "accession": "0001140361-21-009142",
+  "chars": 431658,
+  "sha256": "74b0bdcb877fc9b1f9e1601d1a9d52b269ee9cf086bff5996b3dc4e618240705"
+ },
+ "P05T": {
+  "accession": "0000010795-19-000044",
+  "chars": 359111,
+  "sha256": "92c35bfc819fe8848f78ad5d67784e559ce87d4b6ce87af016ea598c8db082bb"
+ },
+ "P05C": {
+  "accession": "0000885725-20-000012",
+  "chars": 540916,
+  "sha256": "e1d4ef91056ef59e3ac17e6527ecc6b0e2c8650e603034fc9ece22e9b929a20b"
+ },
+ "P06T": {
+  "accession": "0001144204-19-017205",
+  "chars": 484139,
+  "sha256": "ffeb8ca32efdc21b81985f3ff432c70358971ed97f0d14ebd30caf8e5ec9ee4a"
+ },
+ "P06C": {
+  "accession": "0001493152-21-000653",
+  "chars": 575957,
+  "sha256": "c76ec5e053b62c8c44a328ccb268766358bf017f99c9817b9719ddc167412ab4"
+ },
+ "P07T": {
+  "accession": "0001387131-19-002402",
+  "chars": 175221,
+  "sha256": "f8a5e59946b31eb1de3c1b388876a7890218ffc7a6f89b2b897cdb2b056c3a39"
+ },
+ "P07C": {
+  "accession": "0001628280-19-002279",
+  "chars": 294753,
+  "sha256": "982e3cfcf09713ef08f130ef8a12c7aaf48cac5505d6c0fc6b5d2b3b4cd9ef2e"
+ },
+ "P08T": {
+  "accession": "0001315255-20-000029",
+  "chars": 346558,
+  "sha256": "81ac49b86559945b614907d3580002b490b102a43f2d53df2b077b26fd391ae4"
+ },
+ "P08C": {
+  "accession": "0001558370-20-001763",
+  "chars": 599809,
+  "sha256": "eefa6cddb8f6966f546dbd89e55c2c23ed4f9b340ec8488bd203a853cbaa7885"
+ },
+ "P09T": {
+  "accession": "0001558370-20-002267",
+  "chars": 405180,
+  "sha256": "b2b3a8b9ffc3ba9d60442e7f4c3965cf62b01edf4dc878ed7dad2f5d24a8012b"
+ },
+ "P09C": {
+  "accession": "0001489096-20-000088",
+  "chars": 364334,
+  "sha256": "00c9db0c8f1d8e7d9140dfa0cab8a916cb9225ff1f8183159011abff49ccc062"
+ },
+ "P10T": {
+  "accession": "0001564590-21-003221",
+  "chars": 492398,
+  "sha256": "2d5e817b9c2649ff4e690673ca22f2d4469d6456dd74a6c4affc3d7c11b3a4c3"
+ },
+ "P10C": {
+  "accession": "0000939057-20-000363",
+  "chars": 515638,
+  "sha256": "12b6b31a19a9f0b219dc98d70c88d80b43b290af7b0a226e04ca25849dcbbed9"
+ },
+ "P11T": {
+  "accession": "0001558370-17-006780",
+  "chars": 351149,
+  "sha256": "5971bf46a9506118bc46fe157cca0f634cb12c1b18e89110279b6a0477056d08"
+ },
+ "P11C": {
+  "accession": "0000807863-17-000080",
+  "chars": 253716,
+  "sha256": "5499019aa343232509023c27640227f9e3c92f3530cdeb7adcc8cefa5a63d810"
+ },
+ "P12T": {
+  "accession": "0001564590-19-009158",
+  "chars": 264904,
+  "sha256": "9a13f01e171f0f6a88ae13c123e23b5937f434e21d820a775fde399b54f9ab05"
+ },
+ "P12C": {
+  "accession": "0001564590-19-009372",
+  "chars": 357436,
+  "sha256": "26c0f3cabf916d29400f59244ed0f0eac7ab0fa38082bfb0679f4bb6d9e403be"
+ },
+ "P13T": {
+  "accession": "0001604643-18-000015",
+  "chars": 498349,
+  "sha256": "3ab2c3621b07762315735b22707a2dccd2d541df40a9014c33e09015d38f0198"
+ },
+ "P13C": {
+  "accession": "0001650962-19-000054",
+  "chars": 480703,
+  "sha256": "15748f3cc214ef5ce78493a9209cc6b2a668d7f8be7ff6a8cdf29509f35c2a54"
+ },
+ "P14T": {
+  "accession": "0000355811-18-000009",
+  "chars": 227035,
+  "sha256": "7144b01d16d59b8233dd93962a61ded8f8daac926a6c719b624ad3bfb395dff2"
+ },
+ "P14C": {
+  "accession": "0001111335-18-000004",
+  "chars": 373836,
+  "sha256": "a3b94c068f85d2869b0391d01618f480615f36aefda49e6c7646b7feec4c8775"
+ }
+}

@@ -115,3 +115,13 @@
     - 固定資產含融資租賃使用權資產的版本；長期負債 LongTermDebtAndCapitalLeaseObligations；權益含非控制權益的版本
     - 現金流量三大類的 ContinuingOperations 版本；應收變動 IncreaseDecreaseInReceivables、IncreaseDecreaseInAccountsAndNotesReceivable
   - 只看了各項目「有沒有值」，沒有看任何分數
+
+## 8. 基準方法 B：把整份 10-K 直接交給 LLM 打風險分數（使用者新增，送出 API 之前登錄）
+- 目的：最簡單的 LLM 對照基準，看「什麼都不設計，直接問」能得到多少
+- 輸入：28 家公司 Y0 的 10-K 主文件加 EX-13，轉成純文字，**不遮蔽**公司名稱，也不刪段落；只去掉 inline XBRL 的隱藏標頭（`data/round7/packets/`，SHA-256 記錄在 `manifest.json`）
+- 提示詞：`round7_llm.py` 的 `RISK_TASK`
+  - 要求模型依這份 10-K，給出「財報有重大錯報（舞弊或嚴重會計錯誤）」的風險分數 0–100，並列出主要理由
+  - 另外回答：是否認得這家公司、是否知道這個期間後來有會計問題、重編或 SEC 執法
+- 模型：使用者本機的 OpenAI gpt-5.5，effort high，Batch API；每份 1 次（`--runs 1`），預算允許時可加跑第 2 次
+- 指標：風險分數的 AUC、組內勝負，與 M、F、C 並列
+- **預期限制**：不遮蔽名稱，模型很可能認得公司，並知道後來的 SEC 案件。分數會混入事後知識，所以這是「上限參考」，不是方法的真實能力。另外依「是否知道後來有問題」分組描述

@@ -329,7 +329,7 @@ def _submit_openai(pids, model, runs):
     batch = client.batches.create(input_file_id=up.id, endpoint="/v1/chat/completions", completion_window="24h")
     entry = {"provider": "openai", "id": batch.id, "model": model, "runs": runs, "pids": pids}
     _log_batch(entry)
-    print(f"batch {batch.id}: {len(pids) * (runs + 1)} requests ({len(pids)} packets x {runs} review runs + identify)")
+    print(f"batch {batch.id}: {len(request_ids(pids, runs))} requests for {len(pids)} packets")
     return entry
 
 
