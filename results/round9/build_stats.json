@@ -1,0 +1,137 @@
+{
+ "S01T": {
+  "name": "Netcapital",
+  "group": "treatment",
+  "chars_L0": 304467,
+  "chars_L3c": 214923,
+  "items_kept": [
+   "1a",
+   "1b",
+   "3",
+   "7",
+   "7a",
+   "8",
+   "9",
+   "9a",
+   "9b",
+   "FS-from-15/16"
+  ],
+  "segments": 0,
+  "units": 0,
+  "sentences_dropped": 8,
+  "inconsistent_numbers": 5,
+  "people": 6
+ },
+ "S01C": {
+  "name": "MARYGOLD COMPANIES, INC.",
+  "group": "control",
+  "chars_L0": 213328,
+  "chars_L3c": 143757,
+  "items_kept": [
+   "1a",
+   "1b",
+   "3",
+   "7",
+   "7a",
+   "8",
+   "9",
+   "9a",
+   "9b"
+  ],
+  "segments": 0,
+  "units": 0,
+  "sentences_dropped": 17,
+  "inconsistent_numbers": 0,
+  "people": 8
+ },
+ "S02T": {
+  "name": "Kubient",
+  "group": "treatment",
+  "chars_L0": 310320,
+  "chars_L3c": 141956,
+  "items_kept": [
+   "1a",
+   "1b",
+   "3",
+   "7",
+   "7a",
+   "8",
+   "9",
+   "9a",
+   "9b"
+  ],
+  "segments": 0,
+  "units": 0,
+  "sentences_dropped": 11,
+  "inconsistent_numbers": 4,
+  "people": 8
+ },
+ "S02C": {
+  "name": "STREAMLINE HEALTH SOLUTIONS INC.",
+  "group": "control",
+  "chars_L0": 267836,
+  "chars_L3c": 217291,
+  "items_kept": [
+   "1a",
+   "1b",
+   "3",
+   "7",
+   "7a",
+   "8",
+   "9",
+   "9a",
+   "9b"
+  ],
+  "segments": 0,
+  "units": 0,
+  "sentences_dropped": 2,
+  "inconsistent_numbers": 0,
+  "people": 4
+ },
+ "S03T": {
+  "name": "C-Bond Systems",
+  "group": "treatment",
+  "chars_L0": 335613,
+  "chars_L3c": 249990,
+  "items_kept": [
+   "1a",
+   "1b",
+   "3",
+   "7",
+   "7a",
+   "8",
+   "9",
+   "9a",
+   "9b",
+   "FS-from-15/16"
+  ],
+  "segments": 0,
+  "units": 0,
+  "sentences_dropped": 10,
+  "inconsistent_numbers": 3,
+  "people": 3
+ },
+ "S03C": {
+  "name": "ENERTECK CORP",
+  "group": "control",
+  "chars_L0": 172639,
+  "chars_L3c": 104270,
+  "items_kept": [
+   "1a",
+   "1b",
+   "3",
+   "7",
+   "7a",
+   "8",
+   "9",
+   "9a",
+   "9b",
+   "FS-from-15/16"
+  ],
+  "segments": 0,
+  "units": 0,
+  "sentences_dropped": 8,
+  "inconsistent_numbers": 1,
+  "people": 5
+ }
+}
