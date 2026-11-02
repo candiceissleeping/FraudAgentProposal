@@ -11,3 +11,4 @@ P05T,1,25,True,"Becton, Dickinson and Company (BD) FY2019 10-K",True,fresh Claud
 P05C,1,12,True,Boston Scientific Corporation FY2019 10-K,False,fresh Claude agent in the cloud session (no access to labels or this conversation),same prompt as RISK_TASK; whole unredacted 10-K read with the Read tool
 P06T,1,78,True,"Ideanomics, Inc. FY2018 10-K",True,fresh Claude agent in the cloud session (no access to labels or this conversation),same prompt as RISK_TASK; whole unredacted 10-K read with the Read tool
 P06C,1,38,True,"TheMaven, Inc. FY2018 10-K",False,fresh Claude agent in the cloud session (no access to labels or this conversation),same prompt as RISK_TASK; whole unredacted 10-K read with the Read tool
+P07T,1,82,True,"CPI Aerostructures, Inc. FY2018 10-K",True,fresh Claude agent in the cloud session (no access to labels or this conversation),same prompt as RISK_TASK; whole unredacted 10-K read with the Read tool
