@@ -120,7 +120,7 @@ def _aaer_names():
     for r in json.load(open(AAER)):
         for part in re.split(r",| and |;|\(", r["name"]):
             c = _core(part)
-            if len(c) >= 4:
+            if len(c) >= 2:  # short cores such as "3m" must still be excluded
                 names.add(c)
     return names
 
@@ -154,6 +154,8 @@ def controls(args):
         p0 = _date(t["period"])
         assets = _frame_assets(t["period"])
         ta = assets.get(str(c["cik"]))
+        if not ta:
+            sys.exit(f"{c['name']}: total assets not in the XBRL frame for {t['period']}")
         pool = []
         for r in idx:
             if r["cik"] in treated or r["cik"] in used or r["form"] != "10-K":
@@ -163,7 +165,7 @@ def controls(args):
             if _core(r["name"]) in aaer:
                 continue
             prior = [x for x in by_cik[r["cik"]] if x["form"] == "10-K" and 330 <= (_date(r["period"]) - _date(x["period"])).days <= 400]
-            if not prior or str(r["cik"]) not in assets:
+            if not prior or not assets.get(str(r["cik"]), 0) > 0:
                 continue
             pool.append((r, prior[0]))
         chosen, level = None, None
