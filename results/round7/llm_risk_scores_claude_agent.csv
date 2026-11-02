@@ -24,3 +24,4 @@ P11C,1,12,True,"Mitek Systems, Inc. FY ended Sept 30, 2017",False,fresh Claude a
 P12T,1,75,True,"SAExploration Holdings, Inc. FY2018 10-K",True,fresh Claude agent in the cloud session (no access to labels or this conversation),same prompt as RISK_TASK; whole unredacted 10-K read with the Read tool
 P12C,1,27,True,TransAtlantic Petroleum Ltd. FY2018 10-K,False,fresh Claude agent in the cloud session (no access to labels or this conversation),same prompt as RISK_TASK; whole unredacted 10-K read with the Read tool
 P13T,1,58,True,"Evoqua Water Technologies Corp. FY ended Sept 30, 2018",True,fresh Claude agent in the cloud session (no access to labels or this conversation),same prompt as RISK_TASK; whole unredacted 10-K read with the Read tool
+P13C,1,45,True,"Welbilt, Inc. FY2018 10-K",False,fresh Claude agent in the cloud session (no access to labels or this conversation),same prompt as RISK_TASK; whole unredacted 10-K read with the Read tool
