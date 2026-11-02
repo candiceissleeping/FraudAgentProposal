@@ -156,7 +156,7 @@ def build(args):
     jkeys = _keys_j() if args.v3 else {}
     if args.v3:
         json.dump(jkeys, open(f"{DATA}/key_j.json", "w"), indent=1)
-    suffix = "b" if args.v3 else ""
+    suffix = args.tag if args.v3 else ""
     info, assets = _info(), _assets()
     stats = {}
     for pid in _pids(args.pids):
@@ -178,7 +178,11 @@ def build(args):
                       "segments": len(segs), "units": len(units), "sentences_dropped": dropped,
                       "inconsistent_numbers": len(red.inconsistent_numbers()), "share_values": len(red.share_values)}
         print(pid, stats[pid], flush=True)
-    json.dump(stats, open(f"{OUT}/build_stats{'_v3' if args.v3 else ''}.json", "w"), indent=1)
+    json.dump(stats, open(f"{OUT}/build_stats{_stats_tag(suffix)}.json", "w"), indent=1)
+
+
+def _stats_tag(tag):
+    return "" if not tag else "_v3" if tag == "b" else f"_v3{tag}"
 
 
 def _first_total_assets(text):
@@ -193,7 +197,7 @@ def _first_total_assets(text):
 def audit(args):
     keys = json.load(open(f"{DATA}/key.json"))
     lv = args.level
-    sf = f"{OUT}/build_stats{'_v3' if lv.endswith('b') else ''}.json"
+    sf = f"{OUT}/build_stats{_stats_tag(lv[2:])}.json"
     stats = json.load(open(sf)) if os.path.exists(sf) else {}
     lines = [f"# 第八輪 {lv} 遮蔽檢查（程式輸出）", "",
              "| 資料包 | 殘留識別碼 | 試跑漏洞回歸（應為 0） | 同數字處理不一致 | Total assets：遮蔽後 ÷ L0 | k |",
@@ -221,7 +225,7 @@ def agent_files(args):
     """Copy L2 packets to neutral names (random order) outside the repository, for blind scoring agents."""
     pids = _pids(args.pids)
     order = pids[:]
-    random.Random(SEED + 1 + {"L2": 0, "L3": 1, "L2b": 2, "L3b": 3}[args.level]).shuffle(order)   # new order per level
+    random.Random(SEED + 1 + {"L2": 0, "L3": 1, "L2b": 2, "L3b": 3, "L2c": 4, "L3c": 5}[args.level]).shuffle(order)   # new order per level
     os.makedirs(args.out, exist_ok=True)
     mapping = {}
     for i, pid in enumerate(order, 1):
@@ -238,7 +242,8 @@ def main():
     ap.add_argument("cmd", choices=["identifiers", "build", "audit", "agent-files"])
     ap.add_argument("--pids", default="")
     ap.add_argument("--out", default="")
-    ap.add_argument("--level", default="L2", choices=["L2", "L3", "L2b", "L3b"])
+    ap.add_argument("--level", default="L2", choices=["L2", "L3", "L2b", "L3b", "L2c", "L3c"])
+    ap.add_argument("--tag", default="b", help="with --v3: packet suffix (b = scored L3b; c = v3.1 scaling fixes)")
     ap.add_argument("--v3", action="store_true", help="rule version 3: share-count factor j, dates, unit names")
     a = ap.parse_args()
     {"identifiers": identifiers, "build": build, "audit": audit, "agent-files": agent_files}[a.cmd](a)

@@ -106,6 +106,18 @@ class TwoFactorTest(unittest.TestCase):
         self.assertIn("$2.00 per share", out)
         self.assertEqual(self.r.inconsistent_numbers(), [])
 
+    def test_l3b_artifacts_fixed(self):
+        # the three fake inconsistencies scoring agents found in L3b
+        out = self.r.l2("Earnings per common share—diluted\nNet earnings  $10.51  $13.64\n"
+                        "the earnings per share for the year was revised from $\n7.85\nand $\n7.39\n"
+                        "Common stock, $0.001 par value, 22,261,619 shares issued and outstanding  7,346  1,742\n"
+                        "Balance  22,261,619  $7,346")
+        self.assertIn("Net earnings  $42.04  $54.56", out)   # per share: x k/j = 4
+        self.assertIn("\n31.40\n", out)                       # standalone EPS in prose: x 4
+        self.assertIn("11,130,810 shares issued", out)         # numbers inside a row label: shares x j
+        self.assertIn("]  11,130,810  $14,692", out)
+        self.assertEqual(self.r.inconsistent_numbers(), [])
+
     def test_company_tail_and_dates(self):
         r = L2Redactor({"names": ["BECTON DICKINSON & CO"]}, 2019, 2.0,
                        "Becton, Dickinson and Company sells. the closing occurred.")

@@ -62,10 +62,12 @@ COUNT_WORDS = (r"shares|employees|associates|team members|stores|locations|resta
 PROSE_NUM = re.compile(r"(?P<pre>\$\s?\(?\s?)?(?<![\w.])(?P<num>\d[\d,]*(?:\.\d+)?)"
                        r"(?P<post>\s*(?:million|billion|thousand|trillion)\b|\s+(?:full[- ]time\s+|part[- ]time\s+)?"
                        rf"(?:{COUNT_WORDS})\b)?", re.I)
-PER_SHARE_AFTER = re.compile(r"^\s*(?:per|a|each)\s+(?:common\s+|ordinary\s+|diluted\s+|basic\s+)?(?:share|unit)", re.I)
+PER_SHARE_AFTER = re.compile(r"^\s*(?:par value|(?:per|a|each)\s+(?:common\s+|ordinary\s+|diluted\s+|basic\s+)?"
+                             r"(?:share|unit))", re.I)
 PER_SHARE_BEFORE = re.compile(r"(?:price|par value|per share|\bEPS\b|earnings per|dividends? of)[^.$]{0,25}$", re.I)
 SHARE_ROW = re.compile(r"(?i)\bshares?\b(?!.*\bper\b)|weighted[- ]average(?! (?:exercise|grant|remaining|fair))|"
                        r"\boutstanding\b")
+PS_HEADER = re.compile(r"(?i)^(?!.*except).*\b(?:per (?:common |ordinary )?share|earnings per)")
 SHARE_ROW_NOT = re.compile(r"(?i)\bcost\b|value|amount|proceeds|consideration|capital|paid|purchase|dividend|"
                            r"compensation|expense|income|loss|earnings|\$")
 COUPON = re.compile(r"\b\d{1,2}(?:\.\d{1,4})?%(?=\s+(?:Series|Senior|Subordinated|Notes?|Cumulative|Convertible|Perpetual|"
@@ -329,8 +331,8 @@ class L2Redactor:
         integers = bool(nums) and not any("." in n for n in nums)
         bd = plain in {"basic", "diluted", "basic and diluted", "basic earnings", "diluted earnings"}
         h = header.lower()
-        if decimals and (PER_SHARE_LABEL.search(label) or (bd and "per" in h and "share" in h)):
-            return "ps"
+        if decimals and (PER_SHARE_LABEL.search(label) or (bd and "per" in h and "share" in h) or PS_HEADER.search(header)):
+            return "ps"   # incl. "Earnings per common share—diluted" on the line above "Net income attributable to ..."
         if SKIP_ROW2.search(label):
             return "skip"
         filled = [t for t in texts[1:] if t.strip(" \u200b")]   # numbers and dashes (equity statements: many columns)
@@ -345,8 +347,11 @@ class L2Redactor:
             if self._is_row(ln):
                 if self._row_kind(ln, header) == "j":
                     self.share_values |= {self._digits(n) for n in self._row_cells(ln)[3] if len(self._digits(n)) >= 5}
+                label = self._row_cells(ln)[2]
+                for m in re.finditer(r"(\d{1,3}(?:,\d{3}){1,})\s+(?:shares|common shares|ordinary shares)\b", label, re.I):
+                    self.share_values.add(self._digits(m.group(1)))
             else:
-                for m in re.finditer(r"(\d{1,3}(?:,\d{3}){1,})\s+(?:shares|common shares|ordinary shares)\b", ln):
+                for m in re.finditer(r"(\d{1,3}(?:,\d{3}){1,})\s+(?:shares|common shares|ordinary shares)\b", ln, re.I):
                     self.share_values.add(self._digits(m.group(1)))
                 if len(ln) < 200:
                     header = ln
@@ -384,12 +389,14 @@ class L2Redactor:
             for n in nums:
                 self._note(n, "kept")
             return line
+        if label:   # "Common stock, $0.00033 par value, ... 22,261,619 shares issued ...  7,346": numbers in the label too
+            texts[0] = self._scale_prose(texts[0])
         rng = {i for i, t in enumerate(texts) if t.strip().lower() == "to"}
         near = {j - 1 for j in rng} | {j + 1 for j in rng}
         for i, t in enumerate(texts):
             st = t.strip()
             m = CELL_NUM.match(st)
-            if not m or i in near or re.fullmatch(r"\(\d\)", st):
+            if i == 0 and label or not m or i in near or re.fullmatch(r"\(\d\)", st):
                 continue
             if not kind and "." in m.group(2) and (PER_SHARE_LABEL.search(label) or re.search(r"\bEPS\b", label)):
                 k = "ps"            # mixed row: "Net earnings and reported EPS  $4,340  $7.71"
@@ -406,16 +413,23 @@ class L2Redactor:
 
     def _amounts(self, text):
         self._collect_shares(text)
-        header, prev, out = "", "", []
+        header, prev, out, recent = "", "", [], []
         for ln in text.split("\n"):
             m = CELL_NUM.match(ln.strip())
             if m and (prev.rstrip().endswith(("$", "$(")) or len(self._digits(m.group(2))) >= 4):
                 # a number alone on a line: inline-XBRL breaks put "$" at the end of the line above
-                kind = "k" if prev.rstrip().endswith(("$", "$(")) else self._kind_of(m.group(2))
+                if prev.rstrip().endswith(("$", "$(")):
+                    ctx = " ".join(recent)[-300:]
+                    kind = "ps" if "." in m.group(2) and re.search(r"(?i)per (?:common |diluted |basic )?share|\bEPS\b|"
+                                                                  r"earnings per", ctx) else "k"
+                else:
+                    kind = self._kind_of(m.group(2))
                 out.append(ln.replace(m.group(2), self._scale(m.group(2), kind)))
                 prev = ln
+                recent = (recent + [ln])[-4:]
                 continue
             prev = ln
+            recent = (recent + [ln])[-4:]
             if self._is_row(ln):
                 out.append(self._scale_row(ln, header))
             else:
