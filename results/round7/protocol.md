@@ -105,3 +105,13 @@
 - XBRL 標籤因公司而異。取不到的項目會讓 M、F 缺值；缺值規則與第五輪相同
 - 小型公司（Ammo、Adamis、SAExploration、CPI Aero）的 XBRL 品質可能較差
 - AAER 列出的錯報不一定落在 Y0 年報的所有數字上，例如 ADM 只錯報部門利潤
+
+## 7. 修訂紀錄
+- 2026-11-02（計算任何特徵之前）：
+  - 對照組程式修正兩個錯誤：名稱很短的 AAER 公司（例如「3M」）原本沒有被排除；總資產為 0 的公司會讓程式出錯
+  - XBRL 擷取後檢查各項目的覆蓋率，發現不少公司使用其他標籤，於是加入備用標籤：
+    - 營收 SalesRevenueGoodsNet、SalesRevenueServicesNet；成本 CostOfGoodsAndServiceExcludingDepreciation…；折舊 DepreciationAmortizationAndAccretionNet
+    - EPS 與股數的 BasicAndDiluted 版本；現金 Cash、CashAndDueFromBanks；應收 ReceivablesNetCurrent、AccountsNotesAndLoansReceivableNetCurrent
+    - 固定資產含融資租賃使用權資產的版本；長期負債 LongTermDebtAndCapitalLeaseObligations；權益含非控制權益的版本
+    - 現金流量三大類的 ContinuingOperations 版本；應收變動 IncreaseDecreaseInReceivables、IncreaseDecreaseInAccountsAndNotesReceivable
+  - 只看了各項目「有沒有值」，沒有看任何分數
