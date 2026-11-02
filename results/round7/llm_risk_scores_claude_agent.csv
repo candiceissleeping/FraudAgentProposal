@@ -9,3 +9,4 @@ P04C,1,12,True,PDS Biotechnology Corporation FY2020 10-K,False,fresh Claude agen
 P04T,1,45,True,Adamis Pharmaceuticals Corporation (ADMP) FY2020 10-K,True,fresh Claude agent in the cloud session (no access to labels or this conversation),same prompt as RISK_TASK; whole unredacted 10-K read with the Read tool
 P05T,1,25,True,"Becton, Dickinson and Company (BD) FY2019 10-K",True,fresh Claude agent in the cloud session (no access to labels or this conversation),same prompt as RISK_TASK; whole unredacted 10-K read with the Read tool
 P05C,1,12,True,Boston Scientific Corporation FY2019 10-K,False,fresh Claude agent in the cloud session (no access to labels or this conversation),same prompt as RISK_TASK; whole unredacted 10-K read with the Read tool
+P06T,1,78,True,"Ideanomics, Inc. FY2018 10-K",True,fresh Claude agent in the cloud session (no access to labels or this conversation),same prompt as RISK_TASK; whole unredacted 10-K read with the Read tool
