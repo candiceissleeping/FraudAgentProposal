@@ -1,0 +1,122 @@
+{
+ "R8-01": {
+  "kind": "neutralised",
+  "changed": {
+   "F01": "no",
+   "F02": "na",
+   "F04": "no",
+   "F05": "no",
+   "F06": "no",
+   "F11": "no",
+   "F14": "no"
+  }
+ },
+ "R8-04": {
+  "kind": "neutralised",
+  "changed": {
+   "F01": "no",
+   "F02": "na",
+   "F07": "none"
+  }
+ },
+ "R8-05": {
+  "kind": "neutralised",
+  "changed": {
+   "F01": "no",
+   "F02": "na",
+   "F03": "unqualified"
+  }
+ },
+ "R8-08": {
+  "kind": "neutralised",
+  "changed": {
+   "F11": "no"
+  }
+ },
+ "R8-11": {
+  "kind": "neutralised",
+  "changed": {
+   "F14": "no",
+   "F18": "no"
+  }
+ },
+ "R8-12": {
+  "kind": "neutralised",
+  "changed": {
+   "F11": "no",
+   "F14": "no"
+  }
+ },
+ "R8-16": {
+  "kind": "neutralised",
+  "changed": {
+   "F14": "no",
+   "F15": "no",
+   "F17": "no",
+   "F19": "no"
+  }
+ },
+ "R8-02": {
+  "kind": "red_flags_added",
+  "changed": {
+   "F01": "yes",
+   "F02": "revenue",
+   "F16": "yes",
+   "F14": "yes",
+   "F03": "adverse"
+  }
+ },
+ "R8-03": {
+  "kind": "red_flags_added",
+  "changed": {
+   "F02": "revenue",
+   "F16": "yes"
+  }
+ },
+ "R8-06": {
+  "kind": "red_flags_added",
+  "changed": {
+   "F01": "yes",
+   "F02": "revenue",
+   "F16": "yes",
+   "F14": "yes"
+  }
+ },
+ "R8-07": {
+  "kind": "red_flags_added",
+  "changed": {
+   "F01": "yes",
+   "F02": "revenue",
+   "F16": "yes"
+  }
+ },
+ "R8-09": {
+  "kind": "red_flags_added",
+  "changed": {
+   "F01": "yes",
+   "F02": "revenue",
+   "F16": "yes",
+   "F14": "yes"
+  }
+ },
+ "R8-10": {
+  "kind": "red_flags_added",
+  "changed": {
+   "F01": "yes",
+   "F02": "revenue",
+   "F16": "yes",
+   "F14": "yes",
+   "F03": "adverse"
+  }
+ },
+ "R8-13": {
+  "kind": "red_flags_added",
+  "changed": {
+   "F01": "yes",
+   "F02": "revenue",
+   "F16": "yes",
+   "F14": "yes",
+   "F03": "adverse"
+  }
+ }
+}

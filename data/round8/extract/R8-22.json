@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "no",
+  "quote": "management concluded that [COMPANY] Limited's internal control over financial reporting was effective as of the end of the fiscal year covered by this annual report."
+ },
+ "F02": {
+  "value": "na",
+  "quote": ""
+ },
+ "F03": {
+  "value": "unqualified",
+  "quote": "expressed an unqualified opinion on the Company's internal control over financial reporting."
+ },
+ "F04": {
+  "value": "no",
+  "quote": ""
+ },
+ "F05": {
+  "value": "no",
+  "quote": "We have served as the Company's auditor since Y-20."
+ },
+ "F06": {
+  "value": "no",
+  "quote": ""
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "no",
+  "quote": "the Company recognizes revenue in the Agribusiness segment from ocean freight and port services over time, as the related services are performed. Performance obligations are typically completed within a fiscal quarter"
+ },
+ "F09": {
+  "value": "no",
+  "quote": "any unearned revenue or accrued revenues are not material."
+ },
+ "F10": {
+  "value": "no",
+  "quote": "Product returns and refunds are not material."
+ },
+ "F11": {
+  "value": "no",
+  "quote": "[COMPANY] believes all transaction values to be similar to those that would be conducted with third parties."
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "no",
+  "quote": "has served as Chief Executive Officer since January Y-3 ... has served as Chief Financial Officer since joining [COMPANY] in May Y-3."
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": ""
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "no",
+  "quote": "We were in compliance with these covenants as of December 31, Y0."
+ },
+ "F20": {
+  "value": "yes",
+  "quote": "Form of Performance-Based Restricted Stock Unit-Target EPS Award Agreement under the [COMPANY] Limited Y-13 Equity Incentive Plan"
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "On July 26, Y0, and later amended on October 7, Y0, [COMPANY] entered into an unsecured $750 million delayed draw term loan"
+ },
+ "F22": {
+  "value": "no",
+  "quote": ""
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "inventory"
+  ],
+  "quote": "Readily Marketable Inventories and Physically Settled Forward Purchase and Sale Contracts - Refer to Notes 1 and 16 to the financial statements"
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "yes",
+  "quote": "Cash provided by (used for) operating activities, adjusted is a non-[NAME]. GAAP financial measure ... Total Segment EBIT was $2,331 million, a decrease of $330 million"
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "yes",
+  "quote": "Effective January 1, Y0, we changed our methodology for reporting volumetric data for our reportable segments to simplify and more closely align our volume reporting with our primary income-generating activities."
+ }
+}

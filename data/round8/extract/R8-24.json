@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "yes",
+  "quote": "Management has concluded that the Company’s internal control over financial reporting was not effective as of September 30, Y0 due to the existence of the material weakness described below."
+ },
+ "F02": {
+  "value": "revenue",
+  "quote": "control deficiencies were identified within the Company’s revenue recognition and recording process."
+ },
+ "F03": {
+  "value": "not_required",
+  "quote": "The Company is not required to have, nor were we engaged to perform an audit of its internal control over financial reporting."
+ },
+ "F04": {
+  "value": "no",
+  "quote": ""
+ },
+ "F05": {
+  "value": "no",
+  "quote": "We have served as the Company’s auditor since Y-5."
+ },
+ "F06": {
+  "value": "no",
+  "quote": ""
+ },
+ "F07": {
+  "value": "none",
+  "quote": "Management notes that the material weakness in our internal controls did not result in any reported misstatements to the financial statements, and there were no changes to previously released financial results."
+ },
+ "F08": {
+  "value": "yes",
+  "quote": "The Company historically recognized revenue for some of its contracts on a percentage-of-completion basis, which represented approximately ... 21% ... of its Consolidated net sales for the year ended"
+ },
+ "F09": {
+  "value": "yes",
+  "quote": "Cost and earnings in excess of billings on uncompleted contracts  69,147  66,814"
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "no",
+  "quote": "The Company had sales to this customer of ... $3,603"
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": "no customer accounted for more than ... of net sales or net accounts receivable."
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": "no customer accounted for more than ... of net sales or net accounts receivable."
+ },
+ "F14": {
+  "value": "no",
+  "quote": ""
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "yes",
+  "quote": "filed a class action lawsuit in the [NAME]. District Court for the [NAME] District of New [NAME] alleging that the Company and senior management violated federal securities laws"
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "no",
+  "quote": ", we were in compliance with the covenants contained in the senior secured credit facilities."
+ },
+ "F20": {
+  "value": "no",
+  "quote": ""
+ },
+ "F21": {
+  "value": "yes",
+  "quote": ".  On November 6, Y-1, the Company completed its initial public offering (“IPO”), pursuant to which an aggregate of ... Pursuant to the [NAME] Amendment, among other things, [NAME] III borrowed an additional"
+ },
+ "F22": {
+  "value": "yes",
+  "quote": "During the year ended September 30, Y0, the Company completed four acquisitions"
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "none_or_na"
+  ],
+  "quote": ""
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "yes",
+  "quote": "Adjusted EBITDA is one of the primary metrics used by management to evaluate the financial performance of our business."
+ },
+ "F27": {
+  "value": "no",
+  "quote": "expenses incurred by the Company related to the write-off of obsolete inventory as part of the migration of an operational business unit to a new enterprise resource planning (“[NAME]”) system ($2.6 million in Y0, all reflected in Cost of sales)."
+ },
+ "F28": {
+  "value": "yes",
+  "quote": "Effective October 1, Y0, we reorganized our business from a three-segment structure to a two-segment operating model designed to better serve the needs of our customers worldwide."
+ }
+}

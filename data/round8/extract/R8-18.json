@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "yes",
+  "quote": "the Company's internal control over financial reporting was not effective as a result of the material weaknesses described below."
+ },
+ "F02": {
+  "value": "tax",
+  "quote": "We did not design and maintain effective internal controls over the accounting for income taxes."
+ },
+ "F03": {
+  "value": "adverse",
+  "quote": "the Company did not maintain, in all material respects, effective internal control over financial reporting as of December 31, Y0"
+ },
+ "F04": {
+  "value": "no",
+  "quote": ""
+ },
+ "F05": {
+  "value": "no",
+  "quote": "We have served as the Company's auditor since Y-3."
+ },
+ "F06": {
+  "value": "no",
+  "quote": ""
+ },
+ "F07": {
+  "value": "restatement",
+  "quote": "the restatement of our consolidated financial statements for the year ended December 31, Y-2, the revision of our consolidated financial statements for the years ended December 31, Y-1 and Y-3"
+ },
+ "F08": {
+  "value": "no",
+  "quote": "For the majority of foodservice equipment and aftermarket parts and support, the transfer of control and revenue recognition materializes when the products are shipped from the manufacturing facility or the service is provided to the customer."
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "yes",
+  "quote": "The Company sells primarily through distributors and dealers (\"direct customers\") ... Customers have the right to return eligible equipment and parts."
+ },
+ "F11": {
+  "value": "no",
+  "quote": "The Company does not enter into transactions with related parties to purchase and/or sell goods or services in the ordinary course of business."
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": "No single direct customer represented 10.0% or greater of the Company's net sales for the years ended"
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "yes",
+  "quote": "on October 25, Y0 our Board of Directors (the \"Board\") appointed [NAME] as President and Chief Executive Officer which was effective November 21, Y0"
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "yes",
+  "quote": "On December 13, Y0, a purported securities class action lawsuit was filed in the [NAME]. District Court for the [NAME] District of [NAME] against us and certain of our current and former executive officers."
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "yes",
+  "quote": "On February 2, Y0, the Company entered into Amendment No. 4 (the \"Fourth Amendment\") to the Y-2 Credit Agreement, which increased the Consolidated Total Leverage Ratio for each of the quarters ended"
+ },
+ "F20": {
+  "value": "no",
+  "quote": ""
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "we entered into Amendment No. 6 (the \"[NAME] Amendment\") to the Y-2 Credit Agreement, which (i) replaced and refinanced all amounts outstanding and committed under the Y-2 Credit Agreement"
+ },
+ "F22": {
+  "value": "yes",
+  "quote": "we acquired [NAME] International Holding [NAME] (\"[NAME]\" or \"[NAME] Acquisition\"), a wholly-owned subsidiary of [NAME]"
+ },
+ "F23": {
+  "value": "no",
+  "quote": "The Board has not authorized or paid a dividend since we became an independent public company on March 4, Y-2"
+ },
+ "F24": {
+  "value": [
+   "none_or_na"
+  ],
+  "quote": ""
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "yes",
+  "quote": "We use certain non-GAAP financial measures discussed below to evaluate our results of operations, financial condition and liquidity."
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "no",
+  "quote": ""
+ }
+}

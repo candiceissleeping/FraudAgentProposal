@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "yes",
+  "quote": "As of September 30, Y0, based on management’s assessment, the Company’s internal control over financial reporting was not effective due to the fact that there are material weaknesses."
+ },
+ "F02": {
+  "value": "financial_close_or_reporting",
+  "quote": "management also identified a material weakness related to the annual and quarterly financial reporting process associated with the assessment of certain information relating to [NAME] modified loans"
+ },
+ "F03": {
+  "value": "adverse",
+  "quote": "the Company did not maintain, in all material respects, effective internal control over financial reporting as of September 30, Y0"
+ },
+ "F04": {
+  "value": "no",
+  "quote": ""
+ },
+ "F05": {
+  "value": "no",
+  "quote": "We have served as the Company's auditor since Y-2."
+ },
+ "F06": {
+  "value": "no",
+  "quote": ""
+ },
+ "F07": {
+  "value": "restatement",
+  "quote": "the Company has restated its Y-1 consolidated financial statements to correct misstatements."
+ },
+ "F08": {
+  "value": "no",
+  "quote": ""
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "no",
+  "quote": "All loans to such persons were made, and will be made, on substantially the same terms, including interest rates and collateral, as those prevailing at the time for comparable loans with persons not related to the Company or the Bank."
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "no",
+  "quote": ""
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": ""
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "no",
+  "quote": ""
+ },
+ "F20": {
+  "value": "yes",
+  "quote": "The last fiscal year’s performance metrics included return on assets, return on equity, net income before tax, loan growth, non-performing assets"
+ },
+ "F21": {
+  "value": "no",
+  "quote": "Net proceeds from issuance of common stock  —  23,344"
+ },
+ "F22": {
+  "value": "no",
+  "quote": ""
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "none_or_na"
+  ],
+  "quote": ""
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "no",
+  "quote": "reportable segment, “Community Banking.” All of the Company’s activities are interrelated"
+ }
+}
