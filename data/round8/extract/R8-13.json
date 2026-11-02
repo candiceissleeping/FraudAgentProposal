@@ -1,0 +1,117 @@
+{
+ "F01": {
+  "value": "no",
+  "quote": "our internal control over financial reporting is effective at a reasonable assurance level based on these criteria."
+ },
+ "F02": {
+  "value": "na",
+  "quote": ""
+ },
+ "F03": {
+  "value": "unqualified",
+  "quote": "maintained, in all material respects, effective internal control over financial reporting as of December 31, Y0, based on the [NAME] criteria."
+ },
+ "F04": {
+  "value": "no",
+  "quote": ""
+ },
+ "F05": {
+  "value": "no",
+  "quote": "We have served as the Company’s auditor since Y-27."
+ },
+ "F06": {
+  "value": "no",
+  "quote": "ITEM 9. CHANGES [NAME] WITH [NAME] ACCOUNTING [NAME] FINANCIAL DISCLOSURE ... None."
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "no",
+  "quote": "Transfer of control is evidenced upon passage of title and risk of loss to the customer unless we are required to provide additional services."
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "yes",
+  "quote": "We recognize revenue from consignment arrangements based on product usage, or implant, which indicates that the sale is complete."
+ },
+ "F11": {
+  "value": "no",
+  "quote": ""
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": "no single customer accounted for more than ten percent of our net sales in"
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "no",
+  "quote": ""
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": "On September 20, Y0, the case was dismissed with prejudice."
+ },
+ "F18": {
+  "value": "yes",
+  "quote": "On May 5, Y-5, we were served with a subpoena from the [NAME]. Department of Health and Human Services, Office of the [NAME] General."
+ },
+ "F19": {
+  "value": "no",
+  "quote": "we were in compliance with all the required covenants related to our debt obligations."
+ },
+ "F20": {
+  "value": "no",
+  "quote": ""
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "following the February Y0 senior notes offering as well as the Euro bond offering in November Y0."
+ },
+ "F22": {
+  "value": "yes",
+  "quote": "The most significant of these was the acquisition of all outstanding equity of [NAME], plc. for consideration of approximately $3.62 billion, net of cash acquired."
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "business_combination",
+   "tax"
+  ],
+  "quote": "Business Combinations ... Income Taxes - [NAME] transfer of a license for intellectual property"
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "yes",
+  "quote": "Management uses these supplemental non-GAAP financial measures to evaluate performance period over period"
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "yes",
+  "quote": "Following the closing of the [NAME] acquisition in the third quarter of Y0, [NAME] was added as an eighth operating segment."
+ }
+}

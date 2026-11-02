@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "no",
+  "quote": "management has concluded that the Company’s internal control over financial reporting is effective"
+ },
+ "F02": {
+  "value": "na",
+  "quote": ""
+ },
+ "F03": {
+  "value": "unqualified",
+  "quote": "In our opinion, [COMPANY] Corporation and subsidiaries (the Company) maintained, in all material respects, effective internal control over financial reporting as of December 31, Y0"
+ },
+ "F04": {
+  "value": "no",
+  "quote": ""
+ },
+ "F05": {
+  "value": "no",
+  "quote": "We have served as the Company’s auditor since Y-5."
+ },
+ "F06": {
+  "value": "no",
+  "quote": ""
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "no",
+  "quote": "The Company records revenue when persuasive evidence of an arrangement exists, delivery occurs or services are rendered"
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "no",
+  "quote": ""
+ },
+ "F12": {
+  "value": 28,
+  "quote": "are the Company's largest customers and in Y0 accounted for sales of approximately ... 28%"
+ },
+ "F13": {
+  "value": 14,
+  "quote": "The Company's credit risk with any individual customer does not exceed ten percent of total accounts receivable except for [NAME] and its affiliates represent ... 14%"
+ },
+ "F14": {
+  "value": "no",
+  "quote": "has been [COMPANY]’s Executive Vice President and Chief Financial Officer since October Y-1."
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": ""
+ },
+ "F18": {
+  "value": "yes",
+  "quote": "[NAME] is currently reviewing the results of the Company’s investigation. Following that review, [NAME] may conclude that the disclosed sales resulted in violations of [NAME]. economic sanctions laws and warrant the imposition of civil penalties"
+ },
+ "F19": {
+  "value": "no",
+  "quote": "As of December 31, Y0, the Company was in compliance with all its debt covenants."
+ },
+ "F20": {
+  "value": "no",
+  "quote": "The number of [NAME] that will vest is based on the Company's achievement of a pre-established relative total shareholder return goal"
+ },
+ "F21": {
+  "value": "no",
+  "quote": ""
+ },
+ "F22": {
+  "value": "no",
+  "quote": ""
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "none_or_na"
+  ],
+  "quote": ""
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "yes",
+  "quote": "Core business financial results continue to improve with Adjusted EBITDA margin for electronics of 11.8% in Y0 compared with 11.1% in the same period of Y-1."
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "no",
+  "quote": ""
+ }
+}

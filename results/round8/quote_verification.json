@@ -1,0 +1,72 @@
+{
+ "R8-01": {
+  "claims": 16,
+  "quote_failures": 0,
+  "failed_fields": []
+ },
+ "R8-05": {
+  "claims": 13,
+  "quote_failures": 0,
+  "failed_fields": []
+ },
+ "R8-06": {
+  "claims": 8,
+  "quote_failures": 0,
+  "failed_fields": []
+ },
+ "R8-07": {
+  "claims": 11,
+  "quote_failures": 0,
+  "failed_fields": []
+ },
+ "R8-08": {
+  "claims": 11,
+  "quote_failures": 0,
+  "failed_fields": []
+ },
+ "R8-09": {
+  "claims": 9,
+  "quote_failures": 0,
+  "failed_fields": []
+ },
+ "R8-10": {
+  "claims": 11,
+  "quote_failures": 0,
+  "failed_fields": []
+ },
+ "R8-11": {
+  "claims": 11,
+  "quote_failures": 0,
+  "failed_fields": []
+ },
+ "R8-12": {
+  "claims": 13,
+  "quote_failures": 0,
+  "failed_fields": []
+ },
+ "R8-13": {
+  "claims": 14,
+  "quote_failures": 0,
+  "failed_fields": []
+ },
+ "R8-14": {
+  "claims": 14,
+  "quote_failures": 0,
+  "failed_fields": []
+ },
+ "R8-15": {
+  "claims": 9,
+  "quote_failures": 0,
+  "failed_fields": []
+ },
+ "R8-16": {
+  "claims": 13,
+  "quote_failures": 0,
+  "failed_fields": []
+ },
+ "R8-19": {
+  "claims": 13,
+  "quote_failures": 0,
+  "failed_fields": []
+ }
+}

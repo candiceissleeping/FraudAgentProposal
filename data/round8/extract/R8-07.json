@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "no",
+  "quote": "Based on its evaluation, our management concluded that our internal control over financial reporting was effective as of December 31, Y0."
+ },
+ "F02": {
+  "value": "na",
+  "quote": ""
+ },
+ "F03": {
+  "value": "not_required",
+  "quote": "The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting."
+ },
+ "F04": {
+  "value": "no",
+  "quote": ""
+ },
+ "F05": {
+  "value": "yes",
+  "quote": "We have served as the Company’s auditor since Y0."
+ },
+ "F06": {
+  "value": "no",
+  "quote": "Item 9. Changes in and [NAME] with [NAME] on Accounting and Financial Disclosure ... None."
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "no",
+  "quote": "All of our revenues from contracts with customers represent products transferred at the point in time control is transferred to the customer"
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "yes",
+  "quote": "there are a number of significant related party transactions with the primary shareholder of the Company.  This shareholder is the Company's chief executive officer and chairman of the board of directors."
+ },
+ "F12": {
+  "value": 96.4,
+  "quote": "During Y0, we sold $68.2 million of oil to [NAME], representing 96.4%"
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "yes",
+  "quote": "has served as our chief accounting officer and principal accounting and principal financial officer since January Y+1."
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": "We might become involved in securities class action litigation in the future."
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "no",
+  "quote": "At December 31, Y0, we had $9.0 million outstanding under the Y0 Term Loan and no availability, and we were in compliance with the covenants in the Y0 Term Loan"
+ },
+ "F20": {
+  "value": "no",
+  "quote": ""
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "On May 28, Y0, [NAME] entered into a $10.0 million term loan (the “Y0 Term Loan”) with [NAME] under the Credit Agreement."
+ },
+ "F22": {
+  "value": "no",
+  "quote": ""
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "none_or_na"
+  ],
+  "quote": ""
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "no",
+  "quote": ""
+ }
+}

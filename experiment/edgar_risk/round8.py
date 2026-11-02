@@ -84,6 +84,7 @@ NEUTRAL = {"F01": "no", "F02": "na", "F04": "no", "F05": "no", "F06": "no", "F07
            "F15": "no", "F16": "no", "F17": "no", "F18": "no", "F19": "no"}
 ADDED = {"F01": "yes", "F02": "revenue", "F16": "yes", "F14": "yes"}
 # single-word name forms that are ordinary English words: only redacted case-sensitively
+NEGATIVE = {"no", "none", "na", "none_or_na"}
 GENERIC = {"consolidated", "national", "boston", "usa", "plug", "provident", "ammo", "latch", "cpi"}
 
 
@@ -163,6 +164,10 @@ def verify(args):
                 val = [v for v in val if v in allowed] if allowed != "number" else val
             if val in ("not_found", "not_disclosed", None, "", []):
                 out[fid] = "not_found"
+                continue
+            neg = set(val) <= NEGATIVE if isinstance(val, list) else val in NEGATIVE
+            if not quote.strip() and neg:     # "no" inferred from silence (extract prompt rule 4)
+                out[fid] = sorted(val) if isinstance(val, list) else val
                 continue
             n_claims += 1
             pieces = [p for p in re.split(r"\s*(?:\.\.\.|…)\s*", quote) if p.strip()]
@@ -313,7 +318,50 @@ def poisson_binomial_tail(ps, k):
     return sum(dist[k:])
 
 
+def collect():
+    """Agent JSON outputs -> CSV files used by evaluate."""
+    import glob
+    for cond in ("J0", "J1", "J2", "PX"):
+        files = sorted(glob.glob(f"{DATA}/judge/{cond}/R8-*.json"))
+        if not files:
+            continue
+        with open(f"{OUT}/scores_{cond}.csv", "w", newline="") as fh:
+            w = csv.writer(fh)
+            w.writerow(["code", "risk_score", "recognised", "guess", "knows_later_problems", "reasons"])
+            for p in files:
+                d = json.load(open(p))
+                w.writerow([os.path.basename(p)[:-5], d["risk_score"], str(d.get("recognised")).lower() == "true",
+                            d.get("guess", ""), d.get("knows_later_problems"), " || ".join(d.get("reasons", []))])
+    cmap = code_map()
+    rows = {r[0]: r for r in _pairs()}
+    if os.path.exists(f"{DATA}/probe/memory.json"):
+        mem = json.load(open(f"{DATA}/probe/memory.json"))
+        with open(f"{OUT}/scores_MEM.csv", "w", newline="") as fh:
+            w = csv.writer(fh)
+            w.writerow(["pid", "company", "risk_score", "knows_later_problems", "basis"])
+            for m in mem:
+                pid = next(p for p in rows if m["company"].startswith(rows[p][1]))
+                w.writerow([pid, rows[pid][1], m["risk_score"], m.get("knows_later_problems"), m.get("basis", "")])
+    opens = {}
+    for p in sorted(glob.glob(f"{DATA}/probe/open_*.json")):
+        opens.update(json.load(open(p)))
+    if opens:
+        with open(f"{OUT}/probe_open.csv", "w", newline="") as fh:
+            w = csv.writer(fh)
+            w.writerow(["code", "guesses", "fiscal_year_guess", "confidence", "basis"])
+            for c, d in sorted(opens.items()):
+                w.writerow([c, "|".join(d.get("guesses", [])), d.get("fiscal_year_guess", ""), d.get("confidence", ""), d.get("basis", "")])
+    if os.path.exists(f"{DATA}/probe/closed.json"):
+        cl = json.load(open(f"{DATA}/probe/closed.json"))
+        with open(f"{OUT}/probe_closed.csv", "w", newline="") as fh:
+            w = csv.writer(fh)
+            w.writerow(["code", "assigned", "confidence", "basis"])
+            for c, d in sorted(cl.items()):
+                w.writerow([c, d.get("assigned", ""), d.get("confidence", ""), d.get("basis", "")])
+
+
 def evaluate(args):
+    collect()
     cmap = code_map()
     inv = {c: p for p, c in cmap.items()}
     rows = {r[0]: r for r in _pairs()}

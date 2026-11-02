@@ -1,0 +1,117 @@
+{
+ "F01": {
+  "value": "yes",
+  "quote": "This control deficiency has been assessed\nas a material weakness as of December 31, Y0."
+ },
+ "F02": {
+  "value": "financial_close_or_reporting",
+  "quote": "we did not have sufficient technical resources to appropriately\nidentify errors relating to the both the accounting evaluation for financial instruments and the accuracy of the inputs and assumptions"
+ },
+ "F03": {
+  "value": "not_required",
+  "quote": "This\nReport does not include an attestation report of our registered public accounting firm regarding internal control over financial\nreporting."
+ },
+ "F04": {
+  "value": "yes",
+  "quote": "the Company has suffered recurring losses from operations\nand has a net capital deficiency that raise substantial doubt about its ability to continue as a going concern."
+ },
+ "F05": {
+  "value": "yes",
+  "quote": "have served as the Company's auditor since Y0."
+ },
+ "F06": {
+  "value": "no",
+  "quote": ""
+ },
+ "F07": {
+  "value": "restatement",
+  "quote": "As a result of the above, the Company has restated its unaudited condensed consolidated financial statements for the Affected Periods."
+ },
+ "F08": {
+  "value": "no",
+  "quote": "revenue arrangements consist of a single performance obligation which is satisfied at the point in time when goods are delivered to the customer."
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "no",
+  "quote": ""
+ },
+ "F12": {
+  "value": 11,
+  "quote": "Customer [NAME]  11%  17%"
+ },
+ "F13": {
+  "value": 48,
+  "quote": "Customer [NAME]  48%  —"
+ },
+ "F14": {
+  "value": "no",
+  "quote": ""
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": ""
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "no",
+  "quote": ""
+ },
+ "F20": {
+  "value": "no",
+  "quote": ""
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "In September\nY0, we completed an underwritten public offering of 18,548,386 shares of common stock, resulting in estimated net proceeds of approximately\n$10.7 million."
+ },
+ "F22": {
+  "value": "no",
+  "quote": ""
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "goodwill_or_intangibles",
+   "other"
+  ],
+  "quote": "We identified the determination of the fair value of goodwill for the Compounded Pharmaceutical reporting unit as a critical audit matter. ... We identified the valuation of the long-lived assets for the construction in progress – equipment asset group as a critical audit\nmatter."
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "yes",
+  "quote": "which was partially offset by an increase of approximately $1,200,000 of charges for obsolete inventory."
+ },
+ "F28": {
+  "value": "yes",
+  "quote": "Commencing April 1, Y0, our management, including the chief executive officer, who is our chief operating decision maker (“[NAME]”), began managing our operations as operating in\ntwo\nbusiness segments"
+ }
+}

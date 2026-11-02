@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "yes",
+  "quote": "our management concluded that our internal control over financial reporting was ... As a result we deemed these to be material weaknesses."
+ },
+ "F02": {
+  "value": "financial_close_or_reporting",
+  "quote": "records, information technology systems, and had ineffective controls over our period end financial disclosure and reporting"
+ },
+ "F03": {
+  "value": "not_required",
+  "quote": "Annual Report does not include an attestation report of our registered public accounting firm regarding internal control over"
+ },
+ "F04": {
+  "value": "no",
+  "quote": "conditions and events considered in the aggregate, do not raise substantial doubt about our ability to continue as a going concern"
+ },
+ "F05": {
+  "value": "yes",
+  "quote": "On September 28, Y0, our Board dismissed [NAME] as its independent ... January 9, Y+1, our Board engaged [NAME] (“[NAME]”) as its new independent registered public accounting firm."
+ },
+ "F06": {
+  "value": "yes",
+  "quote": "there were no reportable events of the type described in Item 304(a)(1)(v) ... except with respect to the material weaknesses in our internal control over financial reporting as discussed"
+ },
+ "F07": {
+  "value": "none",
+  "quote": "no material misstatement of our historical financial statements was identified"
+ },
+ "F08": {
+  "value": "no",
+  "quote": "Over time  85,246  14,218"
+ },
+ "F09": {
+  "value": "no",
+  "quote": "[NAME] contract assets (contract fulfillment costs)  -  17,056  17,056  -  14,147  14,147"
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "yes",
+  "quote": "beneficially owns more than 10% of the shares of the Company’s common stock, $1,000,000 by the Company’s then Chief"
+ },
+ "F12": {
+  "value": 35.5,
+  "quote": "Customer 1  35.5  %  -"
+ },
+ "F13": {
+  "value": 16.8,
+  "quote": "Customer 1  16.8  %  -"
+ },
+ "F14": {
+  "value": "yes",
+  "quote": "(1)  On August 26, Y+2, [NAME] replaced [NAME] as our Chief Executive Officer and as a director. ... May 3, Y+1, the Company announced the appointment of [NAME] as the Company’s Chief Financial Officer."
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": "to any pending or threatened legal proceedings that we believe would reasonably be expected to have a material adverse effect"
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "no",
+  "quote": ""
+ },
+ "F20": {
+  "value": "yes",
+  "quote": "set at a maximum of $30,000 to be calculated as follows: a bonus payment of up to $15,000 based on certain revenue goals for us"
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "On August 10, Y0, the Company closed on ... for aggregate gross proceeds of $19,399,250"
+ },
+ "F22": {
+  "value": "yes",
+  "quote": "On December 12, Y0, we acquired all the outstanding shares of [NAME] Media pursuant to the [NAME] Media Merger Agreements. ... Payments for acquisition of businesses, net of cash  (18,035,356)  -"
+ },
+ "F23": {
+  "value": "yes",
+  "quote": "On November 4, Y-2, the parties consummated a recapitalization pursuant to the Share"
+ },
+ "F24": {
+  "value": [
+   "none_or_na"
+  ],
+  "quote": ""
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "no",
+  "quote": ""
+ }
+}

@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "no",
+  "quote": "management has concluded that the Company maintained effective internal control over financial reporting as of December 31, Y0"
+ },
+ "F02": {
+  "value": "na",
+  "quote": ""
+ },
+ "F03": {
+  "value": "unqualified",
+  "quote": "Also in our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, Y0"
+ },
+ "F04": {
+  "value": "no",
+  "quote": ""
+ },
+ "F05": {
+  "value": "no",
+  "quote": "We have served as the Company’s auditor since Y-18."
+ },
+ "F06": {
+  "value": "no",
+  "quote": "Changes in and [NAME] with [NAME] on Accounting and Financial Disclosure ... None."
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "no",
+  "quote": "The allocated transaction price related to fuel cell systems and spare parts is recognized as revenue at a point in time which usually occurs at shipment (and occasionally upon delivery)."
+ },
+ "F09": {
+  "value": "yes",
+  "quote": "Contract assets  13,251  3,328"
+ },
+ "F10": {
+  "value": "no",
+  "quote": "The Company does not include a right of return on its products other than rights related to standard warranty provisions that permit repair or replacement of defective goods."
+ },
+ "F11": {
+  "value": "no",
+  "quote": ""
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "no",
+  "quote": ""
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": ""
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "no",
+  "quote": "As of December 31, Y0, the Company is in compliance with all the covenants."
+ },
+ "F20": {
+  "value": "no",
+  "quote": ""
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "In December Y0, the Company sold 46 million shares of common stock at a public price of $2.75 per share for net proceeds of approximately $120.4 million."
+ },
+ "F22": {
+  "value": "no",
+  "quote": ""
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "none_or_na"
+  ],
+  "quote": ""
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "no",
+  "quote": "We manage our business as a single operating segment"
+ }
+}
