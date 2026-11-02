@@ -22,3 +22,4 @@ report_20,P05C,control,none,,10,false,,,Boston Scientific (92)
 report_30,P01C,control,none,,15,false,,,AerSale Corporation (85)
 report_23,P03C,control,real,P03C,8,false,yes,,
 report_21,P04C,control,swap,P04T,12,true(named co.),no,PDS Biotechnology,
+report_27,P03T,treatment,none,,55,true,,,AMMO Inc. (85)
