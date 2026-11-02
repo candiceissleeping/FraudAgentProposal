@@ -389,7 +389,7 @@ def poisson_binomial_tail(ps, k):
 def collect():
     """Agent JSON outputs -> CSV files used by evaluate."""
     import glob
-    for cond in ("J0", "J1", "J2", "PX"):
+    for cond in ("J0", "J1", "J2", "PX", "C0"):
         files = sorted(glob.glob(f"{DATA}/judge/{cond}/R8-*.json"))
         if not files:
             continue
@@ -419,9 +419,11 @@ def collect():
             w.writerow(["code", "guesses", "fiscal_year_guess", "confidence", "basis"])
             for c, d in sorted(opens.items()):
                 w.writerow([c, "|".join(d.get("guesses", [])), d.get("fiscal_year_guess", ""), d.get("confidence", ""), d.get("basis", "")])
-    if os.path.exists(f"{DATA}/probe/closed.json"):
-        cl = json.load(open(f"{DATA}/probe/closed.json"))
-        with open(f"{OUT}/probe_closed.csv", "w", newline="") as fh:
+    for src, dst in (("closed", "probe_closed"), ("closed_C", "probe_closed_C")):
+        if not os.path.exists(f"{DATA}/probe/{src}.json"):
+            continue
+        cl = json.load(open(f"{DATA}/probe/{src}.json"))
+        with open(f"{OUT}/{dst}.csv", "w", newline="") as fh:
             w = csv.writer(fh)
             w.writerow(["code", "assigned", "confidence", "basis"])
             for c, d in sorted(cl.items()):
@@ -445,6 +447,7 @@ def evaluate(args):
     j1, _ = get("J1")
     j2, _ = get("J2")
     px, _ = get("PX")
+    c0, c0raw = get("C0")
     mem = {}
     if os.path.exists(f"{OUT}/scores_MEM.csv"):
         for r in csv.DictReader(open(f"{OUT}/scores_MEM.csv")):
@@ -468,7 +471,7 @@ def evaluate(args):
 
     rep += ["## 成效", "", "| 條件 | AUC | 95% CI | 組內勝 / 平 / 負 | n |", "|---|---|---|---|---|"]
     rep += [auc_line("J0 事實卡（無名稱）", j0), auc_line("J1 事實卡 + 真實名稱", j1), auc_line("J2 事實卡 + 對調名稱", j2),
-            auc_line("MEM 只有名稱（純記憶）", mem)]
+            auc_line("MEM 只有名稱（純記憶）", mem), auc_line("8b J0-C 粗化事實卡（無名稱）", c0)]
     r7 = {}
     for r in csv.DictReader(open("results/round7/llm_risk_scores_claude_agent.csv")):
         r7[cmap[r["pid"]]] = float(r["risk_score"])
@@ -506,6 +509,16 @@ def evaluate(args):
         rep.append(f"  - 指派到正確的配對（本身或配對公司）：{pair_ok}/{len(pc)}")
         both = sum(1 for r in pc if is_t[r["code"]] == _is_treat_name(r["assigned"], rows))
         rep.append(f"  - 指派的名稱與卡片「同為問題公司 / 同為對照公司」：{both}/{len(pc)}")
+    if os.path.exists(f"{OUT}/probe_closed_C.csv"):
+        pc = list(csv.DictReader(open(f"{OUT}/probe_closed_C.csv")))
+        hits = [r["code"] for r in pc if _name_hit(r["assigned"], name_of[r["code"]])]
+        p_val = poisson_binomial_tail([1 / 28] * len(pc), len(hits))
+        both = sum(1 for r in pc if is_t[r["code"]] == _is_treat_name(r["assigned"], rows))
+        rep.append(f"- 8b 粗化卡封閉式辨識正確：{len(hits)}/{len(pc)}（隨機期望 1.0，單尾 p = {p_val:.3f}）{hits}")
+        rep.append(f"  - 指派的名稱與卡片同組（問題／對照）：{both}/{len(pc)}")
+    if c0raw:
+        knows = sum(r.get("knows_later_problems", "").lower() == "true" for r in c0raw.values())
+        rep.append(f"- 8b J0-C 自述知道後來有問題：{knows}/{len(c0raw)}")
     # G2a
     if j0raw:
         n_r = n_ok = 0
@@ -558,10 +571,10 @@ def evaluate(args):
         dc = [j2[c] - j0[c] for c in j2 if c in j0 and not is_t[c]]
         rep.append(f"- 對調名稱 J2 − J0：問題公司的卡（標上對照名稱）平均 {sum(dt) / len(dt):+.1f}，對照公司的卡（標上問題公司名稱）平均 {sum(dc) / len(dc):+.1f}")
     # per-card table
-    rep += ["", "## 逐卡", "", "| 卡 | 組 | 公司 | B 第七輪 | MEM | J0 | J1 | J2 |", "|---|---|---|---|---|---|---|---|"]
+    rep += ["", "## 逐卡", "", "| 卡 | 組 | 公司 | B 第七輪 | MEM | J0 | J1 | J2 | J0-C |", "|---|---|---|---|---|---|---|---|---|"]
     for c in sorted(inv):
         f = lambda s: f"{s[c]:.0f}" if c in s else ""
-        rep.append(f"| {c} | {'問題' if is_t[c] else '對照'} | {name_of[c]} | {f(r7)} | {f(mem)} | {f(j0)} | {f(j1)} | {f(j2)} |")
+        rep.append(f"| {c} | {'問題' if is_t[c] else '對照'} | {name_of[c]} | {f(r7)} | {f(mem)} | {f(j0)} | {f(j1)} | {f(j2)} | {f(c0)} |")
     open(f"{OUT}/evaluation.md", "w").write("\n".join(rep) + "\n")
     print("\n".join(rep))
 
