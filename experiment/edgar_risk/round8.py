@@ -19,7 +19,8 @@ import re
 import subprocess
 import time
 
-from .redact_v2 import L2Redactor, leak_audit, person_names, top_caps
+from .redact_v2 import (L2Redactor, drop_descriptive, l3_select, l3_stub, leak_audit, mark_sections, mask_segments,
+                        person_names, segment_names, top_caps, unmark)
 from .round7 import _pairs
 
 SRC = "data/round7/packets"
@@ -40,6 +41,27 @@ or serious accounting errors, on a scale of 0 to 100 (0 = no concern, 100 = almo
 
 Base the score on this filing. Then answer two short questions separately: do you recognise the company, and do
 you know of later accounting problems, restatements or SEC enforcement involving this filing period?"""
+
+
+RISK_TASK_L3 = RISK_TASK_L2.replace(
+    "(differences of about 1 in a total are rounding).",
+    "(differences of about 1 in a total are rounding). Only some sections of the report are included (risk factors, "
+    "legal proceedings, MD&A, financial statements and notes, controls); the business description has been removed "
+    "and replaced by a one-line summary, business-segment names are replaced by [SEGMENT_n], and sentences that "
+    "describe the company's market position or history have been removed.")
+
+# Strings the L2-pilot agents actually used to recognise the company (verified present in the pilot packets).
+REGRESSION = {"P01C": ["20211231"], "P02T": ["1ADM", "Oilseeds", "Nutrition", "Carbohydrate Solutions"],
+              "P02C": ["1818"], "P03T": ["90,870,094", "Marketplace"], "P03C": ["npk", "Housewares", "Small Appliance"],
+              "P04T": ["admp", "Compounding"], "P04C": ["Versamune", "07932"], "P05T": [" BD ", "bdx"],
+              "P05C": ["683-4000", "Interventional", "Rhythm"]}
+
+
+def _assets():
+    out = {}
+    for i, c in enumerate(json.load(open("results/round7/controls.json")), 1):
+        out[f"P{i:02d}T"], out[f"P{i:02d}C"] = c["case_assets"], c["control_assets"]
+    return out
 
 
 def _pids(arg):
@@ -100,19 +122,35 @@ def _keys():
     return {pid: round(math.exp(rng.uniform(math.log(0.5), math.log(2))), 4) for pid in sorted(_info())}
 
 
+def _write(level, pid, text):
+    os.makedirs(f"{DATA}/packets/{level}", exist_ok=True)
+    with gzip.open(f"{DATA}/packets/{level}/{pid}.txt.gz", "wt", encoding="utf-8") as fh:
+        fh.write(text)
+
+
 def build(args):
-    os.makedirs(f"{DATA}/packets/L2", exist_ok=True)
     keys = _keys()
     json.dump(keys, open(f"{DATA}/key.json", "w"), indent=1)
-    info = _info()
+    info, assets = _info(), _assets()
+    stats = {}
     for pid in _pids(args.pids):
         ident = json.load(open(f"{DATA}/identifiers/{pid}.json"))
         text = _src(pid)
         red = L2Redactor(ident, int(info[pid]["period"][:4]), keys[pid], text)
-        out = red.l2(text)
-        with gzip.open(f"{DATA}/packets/L2/{pid}.txt.gz", "wt", encoding="utf-8") as fh:
-            fh.write(out)
-        print(pid, len(text), "->", len(out), "entities", len(red.entities), flush=True)
+        marked = red.l2(mark_sections(text))     # sections found on the original text, see mark_sections
+        l2 = unmark(marked)
+        _write("L2", pid, l2)
+        body, kept = l3_select(marked)
+        segs = segment_names(l2)
+        body = mask_segments(body, segs)
+        body, dropped = drop_descriptive(body)
+        l3 = l3_stub(info[pid]["sic"], assets[pid], info[pid]["period"]) + "\n\n" + body
+        _write("L3", pid, l3)
+        stats[pid] = {"chars_L0": len(text), "chars_L2": len(l2), "chars_L3": len(l3), "items_kept": kept,
+                      "segments": len(segs), "sentences_dropped": dropped,
+                      "inconsistent_numbers": len(red.inconsistent_numbers())}
+        print(pid, stats[pid], flush=True)
+    json.dump(stats, open(f"{OUT}/build_stats.json", "w"), indent=1)
 
 
 def _first_total_assets(text):
@@ -126,24 +164,27 @@ def _first_total_assets(text):
 
 def audit(args):
     keys = json.load(open(f"{DATA}/key.json"))
-    lines = ["# 第八輪 L2 遮蔽檢查（程式輸出）", "",
-             "| 資料包 | 殘留識別碼 | Total assets：L2 ÷ L0 | k | 誤差 |", "|---|---|---|---|---|"]
+    stats = json.load(open(f"{OUT}/build_stats.json")) if os.path.exists(f"{OUT}/build_stats.json") else {}
+    lv = args.level
+    lines = [f"# 第八輪 {lv} 遮蔽檢查（程式輸出）", "",
+             "| 資料包 | 殘留識別碼 | 試跑漏洞回歸（應為 0） | 同數字處理不一致 | Total assets：遮蔽後 ÷ L0 | k |",
+             "|---|---|---|---|---|---|"]
     caps = []
     for pid in _pids(args.pids):
         ident = json.load(open(f"{DATA}/identifiers/{pid}.json"))
-        with gzip.open(f"{DATA}/packets/L2/{pid}.txt.gz", "rt", encoding="utf-8") as fh:
-            l2 = fh.read()
-        hits = leak_audit(l2, ident)
-        a0, a2 = _first_total_assets(_src(pid)), _first_total_assets(l2)
-        ratio = a2 / a0 if a0 and a2 else None
-        err = f"{abs(ratio / keys[pid] - 1):.2%}" if ratio else "—"
+        with gzip.open(f"{DATA}/packets/{lv}/{pid}.txt.gz", "rt", encoding="utf-8") as fh:
+            red = fh.read()
+        hits = leak_audit(red, ident)
+        reg = {s_: red.count(s_) for s_ in REGRESSION.get(pid, []) if red.count(s_)}
+        a0, a2 = _first_total_assets(_src(pid)), _first_total_assets(red)
+        ratio = f"{a2 / a0:.4f}" if a0 and a2 else "—"
         lines.append(f"| {pid} | {', '.join(f'{k}×{v}' for k, v in hits.items()) or '0'} | "
-                     f"{ratio:.4f} | {keys[pid]} | {err} |" if ratio else
-                     f"| {pid} | {', '.join(f'{k}×{v}' for k, v in hits.items()) or '0'} | — | {keys[pid]} | — |")
-        caps.append(f"- {pid}: " + ", ".join(f"{t}({c})" for t, c in top_caps(l2, 50)))
+                     f"{', '.join(f'{k}×{v}' for k, v in reg.items()) or '0'} | "
+                     f"{stats.get(pid, {}).get('inconsistent_numbers', '—')} | {ratio} | {keys[pid]} |")
+        caps.append(f"- {pid}: " + ", ".join(f"{t}({c})" for t, c in top_caps(red, 50)))
     lines += ["", "## 未遮蔽大寫詞（各前 50 名，供人工檢查漏網的專有名詞）", ""] + caps
     os.makedirs(OUT, exist_ok=True)
-    open(f"{OUT}/audit_L2_pilot.md", "w").write("\n".join(lines) + "\n")
+    open(f"{OUT}/audit_{lv}.md", "w").write("\n".join(lines) + "\n")
     print("\n".join(lines[:4 + len(_pids(args.pids))]))
 
 
@@ -151,14 +192,15 @@ def agent_files(args):
     """Copy L2 packets to neutral names (random order) outside the repository, for blind scoring agents."""
     pids = _pids(args.pids)
     order = pids[:]
-    random.Random(SEED + 1).shuffle(order)
+    random.Random(SEED + 1 + (args.level != "L2")).shuffle(order)   # different order per level
     os.makedirs(args.out, exist_ok=True)
     mapping = {}
     for i, pid in enumerate(order, 1):
-        with gzip.open(f"{DATA}/packets/L2/{pid}.txt.gz", "rt", encoding="utf-8") as fh:
+        with gzip.open(f"{DATA}/packets/{args.level}/{pid}.txt.gz", "rt", encoding="utf-8") as fh:
             open(f"{args.out}/report_{i:02d}.txt", "w").write(fh.read())
         mapping[f"report_{i:02d}"] = pid
-    json.dump(mapping, open(f"{OUT}/agent_filename_map.json", "w"), indent=1)
+    name = "agent_filename_map.json" if args.level == "L2" else f"agent_filename_map_{args.level}.json"
+    json.dump(mapping, open(f"{OUT}/{name}", "w"), indent=1)
     print(json.dumps(mapping, indent=1))
 
 
@@ -167,6 +209,7 @@ def main():
     ap.add_argument("cmd", choices=["identifiers", "build", "audit", "agent-files"])
     ap.add_argument("--pids", default="")
     ap.add_argument("--out", default="")
+    ap.add_argument("--level", default="L2", choices=["L2", "L3"])
     a = ap.parse_args()
     {"identifiers": identifiers, "build": build, "audit": audit, "agent-files": agent_files}[a.cmd](a)
 

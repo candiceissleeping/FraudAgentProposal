@@ -118,3 +118,11 @@ Item 1A 風險因素、Item 1B 未解決的 SEC 意見、Item 3 法律訴訟、I
   - 規則修正（建包後、評分前，依殘留檢查）：(1) 檔名 `adm-20221231.htm` 洩漏代號 → 檔名格式改為 `[ID]`，3 字母以上代號不分大小寫；(2) `10-K` 的 K、全大寫標題中的 AND / TO / OR 被誤遮 → 保留；(3) `FY23` 先於專有名詞轉換
   - 殘留掃描結果（`audit_L2_pilot.md`）：識別碼殘留只剩一般單字（曾用名中的 Acquisitions、Pharmaceuticals、Biotechnology、NATIONAL 等），金額縮放誤差 0.00%
   - **已知漏洞（L2 本來就不處理，記錄給 L3）**：部門與產品名稱是一般單字，未被遮蔽，但組合起來足以認出公司，例如 Oilseeds / Nutrition / Carbohydrate Solutions、Housewares / Small Appliance / Defense / Safety、Rhythm / Interventional、Marketplace + Ammunition。L3 需要新增「部門名稱 → `[SEGMENT_n]`」
+- 2026-11-02，**L2 試跑後、L3 評分前的修訂（第 2 版規則）**。依 `pilot_L2_results.md` 的發現：
+  - **縮放規則改為「所有數量都乘 k」**：金額、股數、其他計數（員工數等）都乘 k；只有每股金額（數值必須帶小數，例如 2.92）、百分比、比率、利率、期間不乘。理由：第 1 版排除規則（列名含 year / per share / par value / price / %）把同一個數字在不同表格處理得不一致，製造了假的不一致。取消 4.6 節「計數取兩位有效數字」
+  - 新增檢查：**同一個原始數字（≥ 4 位）若有時縮放、有時沒有，就列出**；10 份全部為 0
+  - 單獨一行的數字（inline XBRL 斷行使 `$` 在上一行）也縮放
+  - 遮蔽補強：所有檔名（`*.htm` 等）→ `[FILE]`；3 字母以上代號在接數字時也遮蔽（`1ADM`、`bdx2019`）；公司名稱縮寫（`BD`、`ADM`，在年報中出現 ≥ 3 次才算）→ `[COMPANY]`；年份規則擴大到 1800–2039；7 碼電話；州名後的郵遞區號；「名稱 + Inc / LLC / Corp」視為實體名稱（替代無法取得的 Exhibit 21）
+  - **L3 新增**：部門名稱 → `[SEGMENT_n]`（取「… segment(s)」前出現 ≥ 2 次的大寫片語），並遮蔽其中具辨識性的單字（`Oilseeds`、`Rhythm`）；段落邊界在原文上判定，再以標記帶到遮蔽後的文字；Item 8 只有交互參照時，保留 Item 15/16 中從查核報告或資產負債表開始的財務報表
+  - L3 試跑漏洞回歸：剩 `Compounding`（P04T，FDA 用語 Pharmaceutical Compounding）與 `Interventional`（P05C，醫材通用類別 Interventional Cardiology），判定為一般產業用語，不再遮蔽
+  - L3 評分：第 1–5 組 10 份，每份新開 agent，提示詞 `round8.RISK_TASK_L3`（L2 版本加註刪除段落與部門代號），檔名對應表 `agent_filename_map_L3.json`（與 L2 不同的隨機順序）
