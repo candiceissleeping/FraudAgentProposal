@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "no",
+  "quote": "Management determined that our internal controls over financial reporting were effective for the twelve months ended December 31, Y0."
+ },
+ "F02": {
+  "value": "na",
+  "quote": ""
+ },
+ "F03": {
+  "value": "not_required",
+  "quote": "The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting."
+ },
+ "F04": {
+  "value": "no",
+  "quote": "The Company has concluded that its plans, as described in Note 1, alleviate the substantial doubt related to its ability to continue as a going concern."
+ },
+ "F05": {
+  "value": "no",
+  "quote": ""
+ },
+ "F06": {
+  "value": "no",
+  "quote": ""
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "no",
+  "quote": ""
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "yes",
+  "quote": "The Company is party to several transactions with related parties, including but not limited to, agreements for management of the operating facility, sale of jet fuel to [NAME], and various credit facilities provided to the Company by [NAME]."
+ },
+ "F12": {
+  "value": 36.1,
+  "quote": "[NAME] accounted for 36.1% and 30.8% of our total revenue from operations for the"
+ },
+ "F13": {
+  "value": 93.5,
+  "quote": "[NAME] represented $ ... 7.8 ... million and $ ... Accounts receivable  276  713 ... Accounts receivable, related party  8,068  5,247"
+ },
+ "F14": {
+  "value": "no",
+  "quote": ""
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": ""
+ },
+ "F18": {
+  "value": "yes",
+  "quote": "In August Y-1, [NAME] received a civil penalty referral letter from [NAME] for failing to timely remove its [NAME] junction platform offshore in federal waters."
+ },
+ "F19": {
+  "value": "yes",
+  "quote": "As of December 31, Y0 and the filing date of this report, certain of our bank debt to [NAME] was in default related to a financial covenant violation"
+ },
+ "F20": {
+  "value": "no",
+  "quote": "[NAME]’s remuneration is provided by [NAME] under the Fourth Amended and Restated Operating Agreement."
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "million draw under the Second Amended and Restated Affiliate [NAME] Credit Agreement offset by loan payments. We continue to engage with potential lenders to obtain additional funding to refinance and restructure debt"
+ },
+ "F22": {
+  "value": "no",
+  "quote": ""
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "other"
+  ],
+  "quote": "We identified the evaluation of the Company’s identification of related parties and related party transactions as a critical audit matter. ... We identified the Company’s ability to continue as a going concern as a critical audit matter."
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "yes",
+  "quote": "Consolidated EBITDA in Y0 totaled $1.3 million compared to ($1.5) million in Y-1, representing a increase of $2.8 million."
+ },
+ "F27": {
+  "value": "yes",
+  "quote": "We incurred an inventory impairment expense of $ ... 7.1 ... million and $ ... 8.3"
+ },
+ "F28": {
+  "value": "no",
+  "quote": ""
+ }
+}

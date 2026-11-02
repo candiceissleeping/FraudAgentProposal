@@ -1,0 +1,121 @@
+{
+ "R9-03": {
+  "kind": "neutralised",
+  "changed": {
+   "F01": "no",
+   "F02": "na",
+   "F04": "no",
+   "F11": "no"
+  }
+ },
+ "R9-04": {
+  "kind": "neutralised",
+  "changed": {
+   "F01": "no",
+   "F02": "na",
+   "F04": "no",
+   "F05": "no",
+   "F07": "none",
+   "F11": "no",
+   "F14": "no"
+  }
+ },
+ "R9-07": {
+  "kind": "neutralised",
+  "changed": {
+   "F11": "no",
+   "F19": "no"
+  }
+ },
+ "R9-08": {
+  "kind": "neutralised",
+  "changed": {
+   "F01": "no",
+   "F02": "na",
+   "F04": "no",
+   "F05": "no",
+   "F11": "no",
+   "F19": "no"
+  }
+ },
+ "R9-09": {
+  "kind": "neutralised",
+  "changed": {
+   "F01": "no",
+   "F02": "na",
+   "F04": "no",
+   "F07": "none",
+   "F11": "no",
+   "F14": "no",
+   "F19": "no"
+  }
+ },
+ "R9-12": {
+  "kind": "neutralised",
+  "changed": {
+   "F01": "no",
+   "F02": "na",
+   "F04": "no",
+   "F05": "no",
+   "F07": "none",
+   "F11": "no",
+   "F14": "no",
+   "F16": "no",
+   "F17": "no",
+   "F18": "no",
+   "F19": "no"
+  }
+ },
+ "R9-01": {
+  "kind": "red_flags_added",
+  "changed": {
+   "F01": "yes",
+   "F02": "revenue",
+   "F16": "yes",
+   "F14": "yes"
+  }
+ },
+ "R9-02": {
+  "kind": "red_flags_added",
+  "changed": {
+   "F01": "yes",
+   "F02": "revenue",
+   "F16": "yes",
+   "F14": "yes"
+  }
+ },
+ "R9-05": {
+  "kind": "red_flags_added",
+  "changed": {
+   "F01": "yes",
+   "F02": "revenue",
+   "F16": "yes"
+  }
+ },
+ "R9-06": {
+  "kind": "red_flags_added",
+  "changed": {
+   "F02": "revenue",
+   "F16": "yes",
+   "F14": "yes"
+  }
+ },
+ "R9-10": {
+  "kind": "red_flags_added",
+  "changed": {
+   "F01": "yes",
+   "F02": "revenue",
+   "F16": "yes",
+   "F14": "yes"
+  }
+ },
+ "R9-11": {
+  "kind": "red_flags_added",
+  "changed": {
+   "F01": "yes",
+   "F02": "revenue",
+   "F16": "yes",
+   "F14": "yes"
+  }
+ }
+}

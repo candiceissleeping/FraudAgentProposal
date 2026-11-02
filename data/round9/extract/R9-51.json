@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "yes",
+  "quote": "management has determined that these circumstances constitute a material weakness."
+ },
+ "F02": {
+  "value": "staffing_or_segregation_of_duties",
+  "quote": "we may still lack the ability to have adequate segregation of duties in the financial statement preparation"
+ },
+ "F03": {
+  "value": "not_required",
+  "quote": "The Company is not required to have, nor were we engaged"
+ },
+ "F04": {
+  "value": "yes",
+  "quote": "These conditions raise substantial doubt about our ability to continue as a going concern."
+ },
+ "F05": {
+  "value": "yes",
+  "quote": "On December 6, Y-1, the Company dismissed Grant"
+ },
+ "F06": {
+  "value": "no",
+  "quote": "This change in independent registered public accounting firm was not the result of any disagreement with Grant [NAME]."
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "no",
+  "quote": "The Company recognized revenue at a point in time when control"
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "yes",
+  "quote": "[NAME] Properties is controlled by [NAME], a former director ... interest earned on a note issued by the Company to [NAME] Properties on October 23,"
+ },
+ "F12": {
+  "value": 100,
+  "quote": "[NAME] separate purchaser accounted ... for all the natural gas and [NAME] revenues for the years ended December 31, Y0 and Y-1."
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "yes",
+  "quote": "(1)  Effective June 1, Y0, [NAME] resigned his position as Chief Financial Officer and [NAME] became the Interim Chief Financial Officer."
+ },
+ "F15": {
+  "value": "yes",
+  "quote": "our Chief Executive Officer (serving as Interim Chief Financial Officer) concluded that our disclosure controls and procedures were not"
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": ""
+ },
+ "F18": {
+  "value": "yes",
+  "quote": "On December 23, Y0, the State of [COMPANY] Mexico ... that we engaged in a fraudulent scheme to acquire oil and gas wells in the State of [COMPANY] Mexico and discharge associated environmental"
+ },
+ "F19": {
+  "value": "yes",
+  "quote": "which, among other things, provides that the Company may elect to defer the principal portion of the monthly payments that are due to ... As a concession has been granted, the agreements were accounted for as a troubled"
+ },
+ "F20": {
+  "value": "no",
+  "quote": ""
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "for the year ended December 31, Y0, primarily related to proceeds from proceeds from the convertible note and issuance of common stock"
+ },
+ "F22": {
+  "value": "no",
+  "quote": ""
+ },
+ "F23": {
+  "value": "yes",
+  "quote": "[NAME] Acquisition V Co. consummated an initial public offering, ... Company completed its business combination (the “Business Combination”) with [COMPANY] [NAME] Helium Corp., a [NAME] corporation, pursuant"
+ },
+ "F24": {
+  "value": [
+   "none_or_na"
+  ],
+  "quote": ""
+ },
+ "F25": {
+  "value": "yes",
+  "quote": "Change in estimates  9,901,340 ... shortened considerably, therefore resulting in a large change in [NAME] estimates."
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "no",
+  "quote": ""
+ }
+}

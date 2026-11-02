@@ -1,0 +1,1483 @@
+FACT CARD R9-29
+Sector: Manufacturing
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: no
+  F02 material_weakness_area: na
+  F03 icfr_auditor_opinion: not_required
+  F04 going_concern: yes
+  F05 auditor_change_within_2y: no
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: none
+  F08 revenue_over_time_major: no
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: no
+  F11 related_party_transactions_material: yes
+  F12 largest_customer_pct_revenue: not_found
+  F13 largest_customer_pct_receivables: not_found
+  F14 ceo_or_cfo_change_in_year: yes
+  F15 interim_or_acting_cfo: no
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: no
+  F18 other_government_investigation: no
+  F19 covenant_breach_waiver_or_amendment: no
+  F20 incentive_pay_tied_to_revenue_or_eps: no
+  F21 capital_raise_in_year_or_planned: yes
+  F22 major_acquisition_in_year: yes
+  F23 public_via_spac_or_reverse_merger_3y: no
+  F24 critical_audit_matter_topics: goodwill_or_intangibles, other
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: no
+  F27 inventory_writedown_significant: no
+  F28 segment_or_reporting_change: no
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): n/a
+  R02 GMI (Gross margin index): n/a
+  R03 AQI (Asset quality index): 1.09
+  R04 SGI (Sales growth index): n/a
+  R05 DEPI (Depreciation index): 0.72
+  R06 SGAI (SG&A index): n/a
+  R07 LVGI (Leverage index): 1.66
+  R08 TATA (Total accruals to total assets): 0.49
+  R09 M (Beneish M-score (threshold -1.78)): n/a
+  R10 rsst_acc (RSST accruals): 0.45
+  R11 ch_rec (Change in receivables / avg assets): n/a
+  R12 ch_inv (Change in inventory / avg assets): 0.0
+  R13 soft_assets (Soft assets share): 0.93
+  R14 ch_cs (Change in cash sales): n/a
+  R15 ch_roa (Change in ROA): 0.52
+  R16 issue (Securities issued (1/0)): 1.0
+  R17 F (Dechow F-score (threshold 1.0)): 1.57
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): n/a
+  R19 cfo_to_ni (Operating cash flow / net income): 8.62
+
+
+FACT CARD R9-40
+Sector: Wholesale trade
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: yes
+  F02 material_weakness_area: financial_close_or_reporting
+  F03 icfr_auditor_opinion: not_required
+  F04 going_concern: yes
+  F05 auditor_change_within_2y: yes
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: none
+  F08 revenue_over_time_major: yes
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: no
+  F11 related_party_transactions_material: yes
+  F12 largest_customer_pct_revenue: not_found
+  F13 largest_customer_pct_receivables: not_found
+  F14 ceo_or_cfo_change_in_year: yes
+  F15 interim_or_acting_cfo: no
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: no
+  F18 other_government_investigation: no
+  F19 covenant_breach_waiver_or_amendment: yes
+  F20 incentive_pay_tied_to_revenue_or_eps: yes
+  F21 capital_raise_in_year_or_planned: yes
+  F22 major_acquisition_in_year: yes
+  F23 public_via_spac_or_reverse_merger_3y: no
+  F24 critical_audit_matter_topics: business_combination, goodwill_or_intangibles, reserves_or_estimates
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: no
+  F27 inventory_writedown_significant: no
+  F28 segment_or_reporting_change: yes
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): 5.07
+  R02 GMI (Gross margin index): 0.03
+  R03 AQI (Asset quality index): 5.32
+  R04 SGI (Sales growth index): 0.59
+  R05 DEPI (Depreciation index): 1.27
+  R06 SGAI (SG&A index): n/a
+  R07 LVGI (Leverage index): 0.43
+  R08 TATA (Total accruals to total assets): -0.3
+  R09 M (Beneish M-score (threshold -1.78)): 0.92
+  R10 rsst_acc (RSST accruals): -0.52
+  R11 ch_rec (Change in receivables / avg assets): 0.01
+  R12 ch_inv (Change in inventory / avg assets): -0.01
+  R13 soft_assets (Soft assets share): 0.87
+  R14 ch_cs (Change in cash sales): -0.46
+  R15 ch_roa (Change in ROA): 0.56
+  R16 issue (Securities issued (1/0)): 1.0
+  R17 F (Dechow F-score (threshold 1.0)): 0.58
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): 2.41
+  R19 cfo_to_ni (Operating cash flow / net income): 0.42
+
+
+FACT CARD R9-43
+Sector: Finance, insurance and real estate
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: no
+  F02 material_weakness_area: na
+  F03 icfr_auditor_opinion: not_required
+  F04 going_concern: no
+  F05 auditor_change_within_2y: no
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: none
+  F08 revenue_over_time_major: no
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: no
+  F11 related_party_transactions_material: no
+  F12 largest_customer_pct_revenue: not_found
+  F13 largest_customer_pct_receivables: not_found
+  F14 ceo_or_cfo_change_in_year: no
+  F15 interim_or_acting_cfo: no
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: no
+  F18 other_government_investigation: no
+  F19 covenant_breach_waiver_or_amendment: yes
+  F20 incentive_pay_tied_to_revenue_or_eps: no
+  F21 capital_raise_in_year_or_planned: no
+  F22 major_acquisition_in_year: no
+  F23 public_via_spac_or_reverse_merger_3y: no
+  F24 critical_audit_matter_topics: none_or_na
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: no
+  F27 inventory_writedown_significant: no
+  F28 segment_or_reporting_change: no
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): n/a
+  R02 GMI (Gross margin index): n/a
+  R03 AQI (Asset quality index): n/a
+  R04 SGI (Sales growth index): n/a
+  R05 DEPI (Depreciation index): 1.05
+  R06 SGAI (SG&A index): n/a
+  R07 LVGI (Leverage index): n/a
+  R08 TATA (Total accruals to total assets): -0.24
+  R09 M (Beneish M-score (threshold -1.78)): n/a
+  R10 rsst_acc (RSST accruals): -0.24
+  R11 ch_rec (Change in receivables / avg assets): n/a
+  R12 ch_inv (Change in inventory / avg assets): 0.0
+  R13 soft_assets (Soft assets share): 0.82
+  R14 ch_cs (Change in cash sales): n/a
+  R15 ch_roa (Change in ROA): -0.03
+  R16 issue (Securities issued (1/0)): 1.0
+  R17 F (Dechow F-score (threshold 1.0)): n/a
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): n/a
+  R19 cfo_to_ni (Operating cash flow / net income): -12.44
+
+
+FACT CARD R9-17
+Sector: Finance, insurance and real estate
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: no
+  F02 material_weakness_area: na
+  F03 icfr_auditor_opinion: not_required
+  F04 going_concern: no
+  F05 auditor_change_within_2y: no
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: none
+  F08 revenue_over_time_major: no
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: no
+  F11 related_party_transactions_material: yes
+  F12 largest_customer_pct_revenue: 30
+  F13 largest_customer_pct_receivables: 30
+  F14 ceo_or_cfo_change_in_year: no
+  F15 interim_or_acting_cfo: no
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: yes
+  F18 other_government_investigation: no
+  F19 covenant_breach_waiver_or_amendment: no
+  F20 incentive_pay_tied_to_revenue_or_eps: no
+  F21 capital_raise_in_year_or_planned: yes
+  F22 major_acquisition_in_year: no
+  F23 public_via_spac_or_reverse_merger_3y: no
+  F24 critical_audit_matter_topics: reserves_or_estimates
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: no
+  F27 inventory_writedown_significant: no
+  F28 segment_or_reporting_change: no
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): 0.96
+  R02 GMI (Gross margin index): 1.01
+  R03 AQI (Asset quality index): 1.49
+  R04 SGI (Sales growth index): 0.92
+  R05 DEPI (Depreciation index): 0.92
+  R06 SGAI (SG&A index): n/a
+  R07 LVGI (Leverage index): 1.37
+  R08 TATA (Total accruals to total assets): -0.08
+  R09 M (Beneish M-score (threshold -1.78)): n/a
+  R10 rsst_acc (RSST accruals): -0.08
+  R11 ch_rec (Change in receivables / avg assets): -0.01
+  R12 ch_inv (Change in inventory / avg assets): -0.01
+  R13 soft_assets (Soft assets share): 0.8
+  R14 ch_cs (Change in cash sales): -0.08
+  R15 ch_roa (Change in ROA): -0.06
+  R16 issue (Securities issued (1/0)): 1.0
+  R17 F (Dechow F-score (threshold 1.0)): n/a
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): -0.04
+  R19 cfo_to_ni (Operating cash flow / net income): 0.57
+
+
+FACT CARD R9-06
+Sector: Services
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: yes
+  F02 material_weakness_area: staffing_or_segregation_of_duties
+  F03 icfr_auditor_opinion: not_required
+  F04 going_concern: yes
+  F05 auditor_change_within_2y: yes
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: none
+  F08 revenue_over_time_major: no
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: no
+  F11 related_party_transactions_material: yes
+  F12 largest_customer_pct_revenue: not_found
+  F13 largest_customer_pct_receivables: not_found
+  F14 ceo_or_cfo_change_in_year: no
+  F15 interim_or_acting_cfo: no
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: no
+  F18 other_government_investigation: no
+  F19 covenant_breach_waiver_or_amendment: no
+  F20 incentive_pay_tied_to_revenue_or_eps: no
+  F21 capital_raise_in_year_or_planned: yes
+  F22 major_acquisition_in_year: no
+  F23 public_via_spac_or_reverse_merger_3y: no
+  F24 critical_audit_matter_topics: none_or_na
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: no
+  F27 inventory_writedown_significant: no
+  F28 segment_or_reporting_change: no
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): n/a
+  R02 GMI (Gross margin index): n/a
+  R03 AQI (Asset quality index): n/a
+  R04 SGI (Sales growth index): n/a
+  R05 DEPI (Depreciation index): n/a
+  R06 SGAI (SG&A index): n/a
+  R07 LVGI (Leverage index): 0.71
+  R08 TATA (Total accruals to total assets): 0.09
+  R09 M (Beneish M-score (threshold -1.78)): n/a
+  R10 rsst_acc (RSST accruals): 0.09
+  R11 ch_rec (Change in receivables / avg assets): n/a
+  R12 ch_inv (Change in inventory / avg assets): 0.0
+  R13 soft_assets (Soft assets share): 0.99
+  R14 ch_cs (Change in cash sales): n/a
+  R15 ch_roa (Change in ROA): 0.0
+  R16 issue (Securities issued (1/0)): 0.0
+  R17 F (Dechow F-score (threshold 1.0)): 0.78
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): n/a
+  R19 cfo_to_ni (Operating cash flow / net income): 1.16
+
+
+FACT CARD R9-20
+Sector: Manufacturing
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: no
+  F02 material_weakness_area: na
+  F03 icfr_auditor_opinion: not_required
+  F04 going_concern: yes
+  F05 auditor_change_within_2y: no
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: none
+  F08 revenue_over_time_major: no
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: no
+  F11 related_party_transactions_material: yes
+  F12 largest_customer_pct_revenue: 148
+  F13 largest_customer_pct_receivables: not_found
+  F14 ceo_or_cfo_change_in_year: no
+  F15 interim_or_acting_cfo: no
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: no
+  F18 other_government_investigation: no
+  F19 covenant_breach_waiver_or_amendment: no
+  F20 incentive_pay_tied_to_revenue_or_eps: no
+  F21 capital_raise_in_year_or_planned: yes
+  F22 major_acquisition_in_year: no
+  F23 public_via_spac_or_reverse_merger_3y: no
+  F24 critical_audit_matter_topics: other
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: no
+  F27 inventory_writedown_significant: yes
+  F28 segment_or_reporting_change: no
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): 0.24
+  R02 GMI (Gross margin index): 0.41
+  R03 AQI (Asset quality index): 1.37
+  R04 SGI (Sales growth index): 0.25
+  R05 DEPI (Depreciation index): 0.75
+  R06 SGAI (SG&A index): n/a
+  R07 LVGI (Leverage index): 1.29
+  R08 TATA (Total accruals to total assets): -0.26
+  R09 M (Beneish M-score (threshold -1.78)): -5.33
+  R10 rsst_acc (RSST accruals): -0.21
+  R11 ch_rec (Change in receivables / avg assets): -0.0
+  R12 ch_inv (Change in inventory / avg assets): -0.09
+  R13 soft_assets (Soft assets share): 0.35
+  R14 ch_cs (Change in cash sales): -0.78
+  R15 ch_roa (Change in ROA): -0.23
+  R16 issue (Securities issued (1/0)): 0.0
+  R17 F (Dechow F-score (threshold 1.0)): 0.17
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): -0.19
+  R19 cfo_to_ni (Operating cash flow / net income): 0.79
+
+
+FACT CARD R9-02
+Sector: Transportation, communications and utilities
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: no
+  F02 material_weakness_area: na
+  F03 icfr_auditor_opinion: not_required
+  F04 going_concern: yes
+  F05 auditor_change_within_2y: no
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: none
+  F08 revenue_over_time_major: no
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: yes
+  F11 related_party_transactions_material: yes
+  F12 largest_customer_pct_revenue: 34
+  F13 largest_customer_pct_receivables: 68
+  F14 ceo_or_cfo_change_in_year: no
+  F15 interim_or_acting_cfo: no
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: no
+  F18 other_government_investigation: yes
+  F19 covenant_breach_waiver_or_amendment: no
+  F20 incentive_pay_tied_to_revenue_or_eps: no
+  F21 capital_raise_in_year_or_planned: yes
+  F22 major_acquisition_in_year: no
+  F23 public_via_spac_or_reverse_merger_3y: no
+  F24 critical_audit_matter_topics: other
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: no
+  F27 inventory_writedown_significant: no
+  F28 segment_or_reporting_change: yes
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): 1.2
+  R02 GMI (Gross margin index): 0.84
+  R03 AQI (Asset quality index): 0.56
+  R04 SGI (Sales growth index): 0.85
+  R05 DEPI (Depreciation index): 0.9
+  R06 SGAI (SG&A index): n/a
+  R07 LVGI (Leverage index): 0.31
+  R08 TATA (Total accruals to total assets): 1.6
+  R09 M (Beneish M-score (threshold -1.78)): 5.0
+  R10 rsst_acc (RSST accruals): 1.68
+  R11 ch_rec (Change in receivables / avg assets): 0.01
+  R12 ch_inv (Change in inventory / avg assets): -0.21
+  R13 soft_assets (Soft assets share): 0.68
+  R14 ch_cs (Change in cash sales): -0.15
+  R15 ch_roa (Change in ROA): 1.66
+  R16 issue (Securities issued (1/0)): 0.0
+  R17 F (Dechow F-score (threshold 1.0)): 0.24
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): 0.17
+  R19 cfo_to_ni (Operating cash flow / net income): -0.89
+
+
+FACT CARD R9-36
+Sector: Manufacturing
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: yes
+  F02 material_weakness_area: staffing_or_segregation_of_duties
+  F03 icfr_auditor_opinion: not_required
+  F04 going_concern: yes
+  F05 auditor_change_within_2y: no
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: immaterial_revision
+  F08 revenue_over_time_major: no
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: no
+  F11 related_party_transactions_material: yes
+  F12 largest_customer_pct_revenue: not_found
+  F13 largest_customer_pct_receivables: not_found
+  F14 ceo_or_cfo_change_in_year: no
+  F15 interim_or_acting_cfo: no
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: no
+  F18 other_government_investigation: no
+  F19 covenant_breach_waiver_or_amendment: no
+  F20 incentive_pay_tied_to_revenue_or_eps: no
+  F21 capital_raise_in_year_or_planned: yes
+  F22 major_acquisition_in_year: no
+  F23 public_via_spac_or_reverse_merger_3y: no
+  F24 critical_audit_matter_topics: inventory
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: no
+  F27 inventory_writedown_significant: yes
+  F28 segment_or_reporting_change: no
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): 0.26
+  R02 GMI (Gross margin index): 1.18
+  R03 AQI (Asset quality index): 0.56
+  R04 SGI (Sales growth index): 1.42
+  R05 DEPI (Depreciation index): 0.62
+  R06 SGAI (SG&A index): n/a
+  R07 LVGI (Leverage index): 1.1
+  R08 TATA (Total accruals to total assets): 0.69
+  R09 M (Beneish M-score (threshold -1.78)): 0.27
+  R10 rsst_acc (RSST accruals): 0.55
+  R11 ch_rec (Change in receivables / avg assets): -0.01
+  R12 ch_inv (Change in inventory / avg assets): 0.03
+  R13 soft_assets (Soft assets share): 0.97
+  R14 ch_cs (Change in cash sales): 0.43
+  R15 ch_roa (Change in ROA): 0.46
+  R16 issue (Securities issued (1/0)): 0.0
+  R17 F (Dechow F-score (threshold 1.0)): 0.76
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): -1.05
+  R19 cfo_to_ni (Operating cash flow / net income): -0.89
+
+
+FACT CARD R9-44
+Sector: Transportation, communications and utilities
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: yes
+  F02 material_weakness_area: staffing_or_segregation_of_duties
+  F03 icfr_auditor_opinion: not_required
+  F04 going_concern: yes
+  F05 auditor_change_within_2y: no
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: none
+  F08 revenue_over_time_major: no
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: no
+  F11 related_party_transactions_material: yes
+  F12 largest_customer_pct_revenue: not_found
+  F13 largest_customer_pct_receivables: not_found
+  F14 ceo_or_cfo_change_in_year: no
+  F15 interim_or_acting_cfo: no
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: no
+  F18 other_government_investigation: no
+  F19 covenant_breach_waiver_or_amendment: yes
+  F20 incentive_pay_tied_to_revenue_or_eps: yes
+  F21 capital_raise_in_year_or_planned: yes
+  F22 major_acquisition_in_year: no
+  F23 public_via_spac_or_reverse_merger_3y: no
+  F24 critical_audit_matter_topics: goodwill_or_intangibles
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: no
+  F27 inventory_writedown_significant: no
+  F28 segment_or_reporting_change: yes
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): 1.02
+  R02 GMI (Gross margin index): 1.16
+  R03 AQI (Asset quality index): 0.99
+  R04 SGI (Sales growth index): 1.21
+  R05 DEPI (Depreciation index): 0.9
+  R06 SGAI (SG&A index): n/a
+  R07 LVGI (Leverage index): 1.11
+  R08 TATA (Total accruals to total assets): 0.99
+  R09 M (Beneish M-score (threshold -1.78)): 2.41
+  R10 rsst_acc (RSST accruals): 0.69
+  R11 ch_rec (Change in receivables / avg assets): 0.02
+  R12 ch_inv (Change in inventory / avg assets): 0.0
+  R13 soft_assets (Soft assets share): 0.83
+  R14 ch_cs (Change in cash sales): -0.19
+  R15 ch_roa (Change in ROA): 0.62
+  R16 issue (Securities issued (1/0)): 1.0
+  R17 F (Dechow F-score (threshold 1.0)): 1.42
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): 0.03
+  R19 cfo_to_ni (Operating cash flow / net income): 15.92
+
+
+FACT CARD R9-32
+Sector: Manufacturing
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: no
+  F02 material_weakness_area: na
+  F03 icfr_auditor_opinion: not_required
+  F04 going_concern: yes
+  F05 auditor_change_within_2y: no
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: none
+  F08 revenue_over_time_major: yes
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: no
+  F11 related_party_transactions_material: yes
+  F12 largest_customer_pct_revenue: not_found
+  F13 largest_customer_pct_receivables: not_found
+  F14 ceo_or_cfo_change_in_year: no
+  F15 interim_or_acting_cfo: no
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: no
+  F18 other_government_investigation: no
+  F19 covenant_breach_waiver_or_amendment: no
+  F20 incentive_pay_tied_to_revenue_or_eps: no
+  F21 capital_raise_in_year_or_planned: yes
+  F22 major_acquisition_in_year: no
+  F23 public_via_spac_or_reverse_merger_3y: no
+  F24 critical_audit_matter_topics: other
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: no
+  F27 inventory_writedown_significant: no
+  F28 segment_or_reporting_change: no
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): 0.32
+  R02 GMI (Gross margin index): 0.72
+  R03 AQI (Asset quality index): 0.9
+  R04 SGI (Sales growth index): 3.49
+  R05 DEPI (Depreciation index): n/a
+  R06 SGAI (SG&A index): n/a
+  R07 LVGI (Leverage index): 2.85
+  R08 TATA (Total accruals to total assets): -0.34
+  R09 M (Beneish M-score (threshold -1.78)): -3.29
+  R10 rsst_acc (RSST accruals): -0.3
+  R11 ch_rec (Change in receivables / avg assets): 0.0
+  R12 ch_inv (Change in inventory / avg assets): 0.0
+  R13 soft_assets (Soft assets share): 0.23
+  R14 ch_cs (Change in cash sales): 2.45
+  R15 ch_roa (Change in ROA): -0.38
+  R16 issue (Securities issued (1/0)): 1.0
+  R17 F (Dechow F-score (threshold 1.0)): 0.76
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): -2.38
+  R19 cfo_to_ni (Operating cash flow / net income): 0.65
+
+
+FACT CARD R9-15
+Sector: Finance, insurance and real estate
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: yes
+  F02 material_weakness_area: financial_close_or_reporting
+  F03 icfr_auditor_opinion: not_required
+  F04 going_concern: yes
+  F05 auditor_change_within_2y: no
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: none
+  F08 revenue_over_time_major: no
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: no
+  F11 related_party_transactions_material: yes
+  F12 largest_customer_pct_revenue: 20
+  F13 largest_customer_pct_receivables: not_found
+  F14 ceo_or_cfo_change_in_year: no
+  F15 interim_or_acting_cfo: no
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: no
+  F18 other_government_investigation: no
+  F19 covenant_breach_waiver_or_amendment: no
+  F20 incentive_pay_tied_to_revenue_or_eps: no
+  F21 capital_raise_in_year_or_planned: yes
+  F22 major_acquisition_in_year: no
+  F23 public_via_spac_or_reverse_merger_3y: no
+  F24 critical_audit_matter_topics: other
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: no
+  F27 inventory_writedown_significant: no
+  F28 segment_or_reporting_change: no
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): 3.32
+  R02 GMI (Gross margin index): 1.03
+  R03 AQI (Asset quality index): n/a
+  R04 SGI (Sales growth index): 0.18
+  R05 DEPI (Depreciation index): n/a
+  R06 SGAI (SG&A index): n/a
+  R07 LVGI (Leverage index): 3.3
+  R08 TATA (Total accruals to total assets): -1.1
+  R09 M (Beneish M-score (threshold -1.78)): n/a
+  R10 rsst_acc (RSST accruals): -0.74
+  R11 ch_rec (Change in receivables / avg assets): -0.0
+  R12 ch_inv (Change in inventory / avg assets): 0.0
+  R13 soft_assets (Soft assets share): 1.0
+  R14 ch_cs (Change in cash sales): -0.85
+  R15 ch_roa (Change in ROA): -0.79
+  R16 issue (Securities issued (1/0)): 1.0
+  R17 F (Dechow F-score (threshold 1.0)): n/a
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): 0.41
+  R19 cfo_to_ni (Operating cash flow / net income): 0.19
+
+
+FACT CARD R9-53
+Sector: Wholesale trade
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: yes
+  F02 material_weakness_area: staffing_or_segregation_of_duties
+  F03 icfr_auditor_opinion: not_required
+  F04 going_concern: yes
+  F05 auditor_change_within_2y: no
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: none
+  F08 revenue_over_time_major: no
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: no
+  F11 related_party_transactions_material: yes
+  F12 largest_customer_pct_revenue: 26
+  F13 largest_customer_pct_receivables: 14
+  F14 ceo_or_cfo_change_in_year: yes
+  F15 interim_or_acting_cfo: yes
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: no
+  F18 other_government_investigation: no
+  F19 covenant_breach_waiver_or_amendment: no
+  F20 incentive_pay_tied_to_revenue_or_eps: yes
+  F21 capital_raise_in_year_or_planned: yes
+  F22 major_acquisition_in_year: no
+  F23 public_via_spac_or_reverse_merger_3y: no
+  F24 critical_audit_matter_topics: none_or_na
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: no
+  F27 inventory_writedown_significant: no
+  F28 segment_or_reporting_change: no
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): 0.64
+  R02 GMI (Gross margin index): 1.53
+  R03 AQI (Asset quality index): 0.92
+  R04 SGI (Sales growth index): 1.4
+  R05 DEPI (Depreciation index): 0.84
+  R06 SGAI (SG&A index): n/a
+  R07 LVGI (Leverage index): 1.57
+  R08 TATA (Total accruals to total assets): -0.28
+  R09 M (Beneish M-score (threshold -1.78)): -3.74
+  R10 rsst_acc (RSST accruals): -0.26
+  R11 ch_rec (Change in receivables / avg assets): -0.0
+  R12 ch_inv (Change in inventory / avg assets): -0.01
+  R13 soft_assets (Soft assets share): 0.33
+  R14 ch_cs (Change in cash sales): 0.43
+  R15 ch_roa (Change in ROA): 0.07
+  R16 issue (Securities issued (1/0)): 0.0
+  R17 F (Dechow F-score (threshold 1.0)): 0.16
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): -0.51
+  R19 cfo_to_ni (Operating cash flow / net income): 0.28
+
+
+FACT CARD R9-35
+Sector: Services
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: yes
+  F02 material_weakness_area: staffing_or_segregation_of_duties
+  F03 icfr_auditor_opinion: not_required
+  F04 going_concern: yes
+  F05 auditor_change_within_2y: no
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: none
+  F08 revenue_over_time_major: no
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: no
+  F11 related_party_transactions_material: yes
+  F12 largest_customer_pct_revenue: 48
+  F13 largest_customer_pct_receivables: 100
+  F14 ceo_or_cfo_change_in_year: no
+  F15 interim_or_acting_cfo: no
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: no
+  F18 other_government_investigation: no
+  F19 covenant_breach_waiver_or_amendment: no
+  F20 incentive_pay_tied_to_revenue_or_eps: no
+  F21 capital_raise_in_year_or_planned: yes
+  F22 major_acquisition_in_year: no
+  F23 public_via_spac_or_reverse_merger_3y: no
+  F24 critical_audit_matter_topics: other
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: no
+  F27 inventory_writedown_significant: no
+  F28 segment_or_reporting_change: no
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): n/a
+  R02 GMI (Gross margin index): 1.62
+  R03 AQI (Asset quality index): n/a
+  R04 SGI (Sales growth index): 12.29
+  R05 DEPI (Depreciation index): n/a
+  R06 SGAI (SG&A index): n/a
+  R07 LVGI (Leverage index): 0.09
+  R08 TATA (Total accruals to total assets): -0.03
+  R09 M (Beneish M-score (threshold -1.78)): n/a
+  R10 rsst_acc (RSST accruals): -0.05
+  R11 ch_rec (Change in receivables / avg assets): 0.01
+  R12 ch_inv (Change in inventory / avg assets): 0.0
+  R13 soft_assets (Soft assets share): 1.0
+  R14 ch_cs (Change in cash sales): 7.54
+  R15 ch_roa (Change in ROA): 128.24
+  R16 issue (Securities issued (1/0)): 1.0
+  R17 F (Dechow F-score (threshold 1.0)): 0.0
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): n/a
+  R19 cfo_to_ni (Operating cash flow / net income): 0.96
+
+
+FACT CARD R9-31
+Sector: Transportation, communications and utilities
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: no
+  F02 material_weakness_area: na
+  F03 icfr_auditor_opinion: unqualified
+  F04 going_concern: no
+  F05 auditor_change_within_2y: no
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: none
+  F08 revenue_over_time_major: no
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: no
+  F11 related_party_transactions_material: yes
+  F12 largest_customer_pct_revenue: not_found
+  F13 largest_customer_pct_receivables: not_found
+  F14 ceo_or_cfo_change_in_year: no
+  F15 interim_or_acting_cfo: no
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: no
+  F18 other_government_investigation: no
+  F19 covenant_breach_waiver_or_amendment: no
+  F20 incentive_pay_tied_to_revenue_or_eps: yes
+  F21 capital_raise_in_year_or_planned: yes
+  F22 major_acquisition_in_year: no
+  F23 public_via_spac_or_reverse_merger_3y: no
+  F24 critical_audit_matter_topics: goodwill_or_intangibles
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: yes
+  F27 inventory_writedown_significant: no
+  F28 segment_or_reporting_change: no
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): 1.05
+  R02 GMI (Gross margin index): 0.98
+  R03 AQI (Asset quality index): 0.95
+  R04 SGI (Sales growth index): 0.96
+  R05 DEPI (Depreciation index): 0.97
+  R06 SGAI (SG&A index): n/a
+  R07 LVGI (Leverage index): 1.07
+  R08 TATA (Total accruals to total assets): -0.1
+  R09 M (Beneish M-score (threshold -1.78)): -3.0
+  R10 rsst_acc (RSST accruals): -0.1
+  R11 ch_rec (Change in receivables / avg assets): 0.0
+  R12 ch_inv (Change in inventory / avg assets): 0.0
+  R13 soft_assets (Soft assets share): 0.69
+  R14 ch_cs (Change in cash sales): -0.04
+  R15 ch_roa (Change in ROA): -0.06
+  R16 issue (Securities issued (1/0)): 1.0
+  R17 F (Dechow F-score (threshold 1.0)): 1.07
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): 0.05
+  R19 cfo_to_ni (Operating cash flow / net income): -0.66
+
+
+FACT CARD R9-12
+Sector: Services
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: yes
+  F02 material_weakness_area: financial_close_or_reporting
+  F03 icfr_auditor_opinion: not_required
+  F04 going_concern: yes
+  F05 auditor_change_within_2y: yes
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: restatement
+  F08 revenue_over_time_major: no
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: no
+  F11 related_party_transactions_material: yes
+  F12 largest_customer_pct_revenue: not_found
+  F13 largest_customer_pct_receivables: not_found
+  F14 ceo_or_cfo_change_in_year: yes
+  F15 interim_or_acting_cfo: no
+  F16 sec_inquiry_or_investigation: yes
+  F17 securities_class_action: yes
+  F18 other_government_investigation: yes
+  F19 covenant_breach_waiver_or_amendment: yes
+  F20 incentive_pay_tied_to_revenue_or_eps: no
+  F21 capital_raise_in_year_or_planned: yes
+  F22 major_acquisition_in_year: yes
+  F23 public_via_spac_or_reverse_merger_3y: no
+  F24 critical_audit_matter_topics: business_combination, goodwill_or_intangibles, other
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: no
+  F27 inventory_writedown_significant: no
+  F28 segment_or_reporting_change: no
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): 0.8
+  R02 GMI (Gross margin index): -1.73
+  R03 AQI (Asset quality index): 1.1
+  R04 SGI (Sales growth index): 0.58
+  R05 DEPI (Depreciation index): 1.0
+  R06 SGAI (SG&A index): n/a
+  R07 LVGI (Leverage index): 1.0
+  R08 TATA (Total accruals to total assets): -0.3
+  R09 M (Beneish M-score (threshold -1.78)): -5.85
+  R10 rsst_acc (RSST accruals): -0.31
+  R11 ch_rec (Change in receivables / avg assets): -0.0
+  R12 ch_inv (Change in inventory / avg assets): 0.0
+  R13 soft_assets (Soft assets share): 1.0
+  R14 ch_cs (Change in cash sales): -0.14
+  R15 ch_roa (Change in ROA): 0.16
+  R16 issue (Securities issued (1/0)): 1.0
+  R17 F (Dechow F-score (threshold 1.0)): 1.31
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): -0.12
+  R19 cfo_to_ni (Operating cash flow / net income): 0.17
+
+
+FACT CARD R9-23
+Sector: Finance, insurance and real estate
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: no
+  F02 material_weakness_area: na
+  F03 icfr_auditor_opinion: not_required
+  F04 going_concern: no
+  F05 auditor_change_within_2y: no
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: none
+  F08 revenue_over_time_major: no
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: no
+  F11 related_party_transactions_material: no
+  F12 largest_customer_pct_revenue: not_found
+  F13 largest_customer_pct_receivables: not_found
+  F14 ceo_or_cfo_change_in_year: no
+  F15 interim_or_acting_cfo: no
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: no
+  F18 other_government_investigation: no
+  F19 covenant_breach_waiver_or_amendment: no
+  F20 incentive_pay_tied_to_revenue_or_eps: no
+  F21 capital_raise_in_year_or_planned: yes
+  F22 major_acquisition_in_year: no
+  F23 public_via_spac_or_reverse_merger_3y: no
+  F24 critical_audit_matter_topics: reserves_or_estimates
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: no
+  F27 inventory_writedown_significant: no
+  F28 segment_or_reporting_change: no
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): n/a
+  R02 GMI (Gross margin index): n/a
+  R03 AQI (Asset quality index): n/a
+  R04 SGI (Sales growth index): n/a
+  R05 DEPI (Depreciation index): 1.17
+  R06 SGAI (SG&A index): n/a
+  R07 LVGI (Leverage index): n/a
+  R08 TATA (Total accruals to total assets): -0.0
+  R09 M (Beneish M-score (threshold -1.78)): n/a
+  R10 rsst_acc (RSST accruals): -0.0
+  R11 ch_rec (Change in receivables / avg assets): n/a
+  R12 ch_inv (Change in inventory / avg assets): 0.0
+  R13 soft_assets (Soft assets share): 0.95
+  R14 ch_cs (Change in cash sales): n/a
+  R15 ch_roa (Change in ROA): 0.01
+  R16 issue (Securities issued (1/0)): 0.0
+  R17 F (Dechow F-score (threshold 1.0)): n/a
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): n/a
+  R19 cfo_to_ni (Operating cash flow / net income): 1.19
+
+
+FACT CARD R9-28
+Sector: Services
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: yes
+  F02 material_weakness_area: staffing_or_segregation_of_duties
+  F03 icfr_auditor_opinion: not_required
+  F04 going_concern: yes
+  F05 auditor_change_within_2y: no
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: none
+  F08 revenue_over_time_major: no
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: no
+  F11 related_party_transactions_material: yes
+  F12 largest_customer_pct_revenue: not_found
+  F13 largest_customer_pct_receivables: not_found
+  F14 ceo_or_cfo_change_in_year: no
+  F15 interim_or_acting_cfo: yes
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: no
+  F18 other_government_investigation: no
+  F19 covenant_breach_waiver_or_amendment: yes
+  F20 incentive_pay_tied_to_revenue_or_eps: no
+  F21 capital_raise_in_year_or_planned: yes
+  F22 major_acquisition_in_year: no
+  F23 public_via_spac_or_reverse_merger_3y: no
+  F24 critical_audit_matter_topics: goodwill_or_intangibles, other
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: no
+  F27 inventory_writedown_significant: no
+  F28 segment_or_reporting_change: yes
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): 0.49
+  R02 GMI (Gross margin index): 0.58
+  R03 AQI (Asset quality index): 1.7
+  R04 SGI (Sales growth index): 0.94
+  R05 DEPI (Depreciation index): 0.93
+  R06 SGAI (SG&A index): 1.15
+  R07 LVGI (Leverage index): 0.53
+  R08 TATA (Total accruals to total assets): -0.29
+  R09 M (Beneish M-score (threshold -1.78)): -4.19
+  R10 rsst_acc (RSST accruals): -0.22
+  R11 ch_rec (Change in receivables / avg assets): -0.33
+  R12 ch_inv (Change in inventory / avg assets): -0.11
+  R13 soft_assets (Soft assets share): 0.95
+  R14 ch_cs (Change in cash sales): 0.35
+  R15 ch_roa (Change in ROA): 0.24
+  R16 issue (Securities issued (1/0)): 1.0
+  R17 F (Dechow F-score (threshold 1.0)): 0.51
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): -0.48
+  R19 cfo_to_ni (Operating cash flow / net income): -54.74
+
+
+FACT CARD R9-48
+Sector: Services
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: no
+  F02 material_weakness_area: na
+  F03 icfr_auditor_opinion: not_required
+  F04 going_concern: no
+  F05 auditor_change_within_2y: no
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: none
+  F08 revenue_over_time_major: yes
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: no
+  F11 related_party_transactions_material: no
+  F12 largest_customer_pct_revenue: not_found
+  F13 largest_customer_pct_receivables: not_found
+  F14 ceo_or_cfo_change_in_year: no
+  F15 interim_or_acting_cfo: no
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: no
+  F18 other_government_investigation: no
+  F19 covenant_breach_waiver_or_amendment: no
+  F20 incentive_pay_tied_to_revenue_or_eps: no
+  F21 capital_raise_in_year_or_planned: yes
+  F22 major_acquisition_in_year: no
+  F23 public_via_spac_or_reverse_merger_3y: no
+  F24 critical_audit_matter_topics: other
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: no
+  F27 inventory_writedown_significant: no
+  F28 segment_or_reporting_change: yes
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): n/a
+  R02 GMI (Gross margin index): 0.96
+  R03 AQI (Asset quality index): 0.04
+  R04 SGI (Sales growth index): 1.0
+  R05 DEPI (Depreciation index): 0.99
+  R06 SGAI (SG&A index): 0.94
+  R07 LVGI (Leverage index): 3.0
+  R08 TATA (Total accruals to total assets): -0.04
+  R09 M (Beneish M-score (threshold -1.78)): -3.71
+  R10 rsst_acc (RSST accruals): -0.03
+  R11 ch_rec (Change in receivables / avg assets): n/a
+  R12 ch_inv (Change in inventory / avg assets): 0.0
+  R13 soft_assets (Soft assets share): 0.78
+  R14 ch_cs (Change in cash sales): n/a
+  R15 ch_roa (Change in ROA): -0.03
+  R16 issue (Securities issued (1/0)): 1.0
+  R17 F (Dechow F-score (threshold 1.0)): 1.31
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): n/a
+  R19 cfo_to_ni (Operating cash flow / net income): 0.92
+
+
+FACT CARD R9-08
+Sector: Agriculture
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: yes
+  F02 material_weakness_area: other
+  F03 icfr_auditor_opinion: not_required
+  F04 going_concern: yes
+  F05 auditor_change_within_2y: yes
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: none
+  F08 revenue_over_time_major: no
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: no
+  F11 related_party_transactions_material: yes
+  F12 largest_customer_pct_revenue: not_found
+  F13 largest_customer_pct_receivables: not_found
+  F14 ceo_or_cfo_change_in_year: no
+  F15 interim_or_acting_cfo: no
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: no
+  F18 other_government_investigation: no
+  F19 covenant_breach_waiver_or_amendment: yes
+  F20 incentive_pay_tied_to_revenue_or_eps: no
+  F21 capital_raise_in_year_or_planned: yes
+  F22 major_acquisition_in_year: no
+  F23 public_via_spac_or_reverse_merger_3y: yes
+  F24 critical_audit_matter_topics: other
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: no
+  F27 inventory_writedown_significant: yes
+  F28 segment_or_reporting_change: no
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): n/a
+  R02 GMI (Gross margin index): -182.3
+  R03 AQI (Asset quality index): n/a
+  R04 SGI (Sales growth index): 3.27
+  R05 DEPI (Depreciation index): n/a
+  R06 SGAI (SG&A index): n/a
+  R07 LVGI (Leverage index): 3.67
+  R08 TATA (Total accruals to total assets): 0.2
+  R09 M (Beneish M-score (threshold -1.78)): n/a
+  R10 rsst_acc (RSST accruals): 0.04
+  R11 ch_rec (Change in receivables / avg assets): n/a
+  R12 ch_inv (Change in inventory / avg assets): -0.0
+  R13 soft_assets (Soft assets share): 1.0
+  R14 ch_cs (Change in cash sales): n/a
+  R15 ch_roa (Change in ROA): -0.41
+  R16 issue (Securities issued (1/0)): 0.0
+  R17 F (Dechow F-score (threshold 1.0)): 1.09
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): n/a
+  R19 cfo_to_ni (Operating cash flow / net income): 1.07
+
+
+FACT CARD R9-39
+Sector: Mining and oil & gas
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: no
+  F02 material_weakness_area: na
+  F03 icfr_auditor_opinion: unqualified
+  F04 going_concern: no
+  F05 auditor_change_within_2y: no
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: none
+  F08 revenue_over_time_major: yes
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: no
+  F11 related_party_transactions_material: no
+  F12 largest_customer_pct_revenue: 32
+  F13 largest_customer_pct_receivables: not_found
+  F14 ceo_or_cfo_change_in_year: no
+  F15 interim_or_acting_cfo: no
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: no
+  F18 other_government_investigation: yes
+  F19 covenant_breach_waiver_or_amendment: no
+  F20 incentive_pay_tied_to_revenue_or_eps: no
+  F21 capital_raise_in_year_or_planned: no
+  F22 major_acquisition_in_year: no
+  F23 public_via_spac_or_reverse_merger_3y: no
+  F24 critical_audit_matter_topics: other
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: no
+  F27 inventory_writedown_significant: yes
+  F28 segment_or_reporting_change: no
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): n/a
+  R02 GMI (Gross margin index): 0.9
+  R03 AQI (Asset quality index): 1.41
+  R04 SGI (Sales growth index): 1.17
+  R05 DEPI (Depreciation index): 1.07
+  R06 SGAI (SG&A index): 0.96
+  R07 LVGI (Leverage index): 0.99
+  R08 TATA (Total accruals to total assets): -0.05
+  R09 M (Beneish M-score (threshold -1.78)): -2.43
+  R10 rsst_acc (RSST accruals): -0.05
+  R11 ch_rec (Change in receivables / avg assets): n/a
+  R12 ch_inv (Change in inventory / avg assets): -0.05
+  R13 soft_assets (Soft assets share): 0.49
+  R14 ch_cs (Change in cash sales): n/a
+  R15 ch_roa (Change in ROA): -0.03
+  R16 issue (Securities issued (1/0)): 0.0
+  R17 F (Dechow F-score (threshold 1.0)): 0.25
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): n/a
+  R19 cfo_to_ni (Operating cash flow / net income): 2.9
+
+
+FACT CARD R9-16
+Sector: Services
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: no
+  F02 material_weakness_area: na
+  F03 icfr_auditor_opinion: not_required
+  F04 going_concern: no
+  F05 auditor_change_within_2y: no
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: none
+  F08 revenue_over_time_major: yes
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: no
+  F11 related_party_transactions_material: no
+  F12 largest_customer_pct_revenue: not_found
+  F13 largest_customer_pct_receivables: not_found
+  F14 ceo_or_cfo_change_in_year: no
+  F15 interim_or_acting_cfo: no
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: no
+  F18 other_government_investigation: no
+  F19 covenant_breach_waiver_or_amendment: no
+  F20 incentive_pay_tied_to_revenue_or_eps: no
+  F21 capital_raise_in_year_or_planned: no
+  F22 major_acquisition_in_year: no
+  F23 public_via_spac_or_reverse_merger_3y: no
+  F24 critical_audit_matter_topics: none_or_na
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: no
+  F27 inventory_writedown_significant: no
+  F28 segment_or_reporting_change: no
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): 1.03
+  R02 GMI (Gross margin index): n/a
+  R03 AQI (Asset quality index): 0.36
+  R04 SGI (Sales growth index): 1.02
+  R05 DEPI (Depreciation index): 0.98
+  R06 SGAI (SG&A index): 1.06
+  R07 LVGI (Leverage index): 0.96
+  R08 TATA (Total accruals to total assets): 0.0
+  R09 M (Beneish M-score (threshold -1.78)): -2.69
+  R10 rsst_acc (RSST accruals): 0.0
+  R11 ch_rec (Change in receivables / avg assets): 0.01
+  R12 ch_inv (Change in inventory / avg assets): 0.0
+  R13 soft_assets (Soft assets share): 0.75
+  R14 ch_cs (Change in cash sales): -0.01
+  R15 ch_roa (Change in ROA): -0.03
+  R16 issue (Securities issued (1/0)): 0.0
+  R17 F (Dechow F-score (threshold 1.0)): 0.46
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): 0.03
+  R19 cfo_to_ni (Operating cash flow / net income): 0.95
+
+
+FACT CARD R9-47
+Sector: Transportation, communications and utilities
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: no
+  F02 material_weakness_area: na
+  F03 icfr_auditor_opinion: unqualified
+  F04 going_concern: no
+  F05 auditor_change_within_2y: no
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: none
+  F08 revenue_over_time_major: no
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: no
+  F11 related_party_transactions_material: yes
+  F12 largest_customer_pct_revenue: not_found
+  F13 largest_customer_pct_receivables: not_found
+  F14 ceo_or_cfo_change_in_year: no
+  F15 interim_or_acting_cfo: no
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: no
+  F18 other_government_investigation: yes
+  F19 covenant_breach_waiver_or_amendment: no
+  F20 incentive_pay_tied_to_revenue_or_eps: no
+  F21 capital_raise_in_year_or_planned: yes
+  F22 major_acquisition_in_year: no
+  F23 public_via_spac_or_reverse_merger_3y: no
+  F24 critical_audit_matter_topics: other
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: yes
+  F27 inventory_writedown_significant: no
+  F28 segment_or_reporting_change: yes
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): 1.1
+  R02 GMI (Gross margin index): 1.01
+  R03 AQI (Asset quality index): 0.88
+  R04 SGI (Sales growth index): 1.12
+  R05 DEPI (Depreciation index): 1.14
+  R06 SGAI (SG&A index): 0.96
+  R07 LVGI (Leverage index): 3.94
+  R08 TATA (Total accruals to total assets): -0.37
+  R09 M (Beneish M-score (threshold -1.78)): -4.98
+  R10 rsst_acc (RSST accruals): -0.35
+  R11 ch_rec (Change in receivables / avg assets): 0.0
+  R12 ch_inv (Change in inventory / avg assets): 0.0
+  R13 soft_assets (Soft assets share): 0.67
+  R14 ch_cs (Change in cash sales): 0.11
+  R15 ch_roa (Change in ROA): -0.34
+  R16 issue (Securities issued (1/0)): 1.0
+  R17 F (Dechow F-score (threshold 1.0)): 1.15
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): 0.12
+  R19 cfo_to_ni (Operating cash flow / net income): -0.17
+
+
+FACT CARD R9-25
+Sector: Services
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: no
+  F02 material_weakness_area: na
+  F03 icfr_auditor_opinion: not_required
+  F04 going_concern: no
+  F05 auditor_change_within_2y: no
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: none
+  F08 revenue_over_time_major: no
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: yes
+  F11 related_party_transactions_material: yes
+  F12 largest_customer_pct_revenue: 51
+  F13 largest_customer_pct_receivables: 65
+  F14 ceo_or_cfo_change_in_year: no
+  F15 interim_or_acting_cfo: no
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: no
+  F18 other_government_investigation: no
+  F19 covenant_breach_waiver_or_amendment: no
+  F20 incentive_pay_tied_to_revenue_or_eps: yes
+  F21 capital_raise_in_year_or_planned: yes
+  F22 major_acquisition_in_year: yes
+  F23 public_via_spac_or_reverse_merger_3y: no
+  F24 critical_audit_matter_topics: revenue
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: no
+  F27 inventory_writedown_significant: no
+  F28 segment_or_reporting_change: no
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): 0.17
+  R02 GMI (Gross margin index): 0.18
+  R03 AQI (Asset quality index): 0.51
+  R04 SGI (Sales growth index): 14.62
+  R05 DEPI (Depreciation index): 0.58
+  R06 SGAI (SG&A index): n/a
+  R07 LVGI (Leverage index): 2.39
+  R08 TATA (Total accruals to total assets): -0.2
+  R09 M (Beneish M-score (threshold -1.78)): 6.83
+  R10 rsst_acc (RSST accruals): -0.3
+  R11 ch_rec (Change in receivables / avg assets): 0.0
+  R12 ch_inv (Change in inventory / avg assets): -0.01
+  R13 soft_assets (Soft assets share): 0.99
+  R14 ch_cs (Change in cash sales): 13.72
+  R15 ch_roa (Change in ROA): 0.55
+  R16 issue (Securities issued (1/0)): 1.0
+  R17 F (Dechow F-score (threshold 1.0)): 9.55
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): -12.07
+  R19 cfo_to_ni (Operating cash flow / net income): 0.3
+
+
+FACT CARD R9-54
+Sector: Manufacturing
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: no
+  F02 material_weakness_area: na
+  F03 icfr_auditor_opinion: not_required
+  F04 going_concern: no
+  F05 auditor_change_within_2y: no
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: none
+  F08 revenue_over_time_major: no
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: no
+  F11 related_party_transactions_material: yes
+  F12 largest_customer_pct_revenue: 29
+  F13 largest_customer_pct_receivables: 48
+  F14 ceo_or_cfo_change_in_year: yes
+  F15 interim_or_acting_cfo: no
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: no
+  F18 other_government_investigation: no
+  F19 covenant_breach_waiver_or_amendment: no
+  F20 incentive_pay_tied_to_revenue_or_eps: yes
+  F21 capital_raise_in_year_or_planned: yes
+  F22 major_acquisition_in_year: no
+  F23 public_via_spac_or_reverse_merger_3y: no
+  F24 critical_audit_matter_topics: inventory
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: no
+  F27 inventory_writedown_significant: yes
+  F28 segment_or_reporting_change: no
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): 1.18
+  R02 GMI (Gross margin index): 1.19
+  R03 AQI (Asset quality index): 0.88
+  R04 SGI (Sales growth index): 1.19
+  R05 DEPI (Depreciation index): 1.15
+  R06 SGAI (SG&A index): 1.22
+  R07 LVGI (Leverage index): 0.54
+  R08 TATA (Total accruals to total assets): 0.21
+  R09 M (Beneish M-score (threshold -1.78)): -0.99
+  R10 rsst_acc (RSST accruals): 0.21
+  R11 ch_rec (Change in receivables / avg assets): 0.04
+  R12 ch_inv (Change in inventory / avg assets): -0.04
+  R13 soft_assets (Soft assets share): 0.69
+  R14 ch_cs (Change in cash sales): 0.18
+  R15 ch_roa (Change in ROA): -0.07
+  R16 issue (Securities issued (1/0)): 1.0
+  R17 F (Dechow F-score (threshold 1.0)): 1.5
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): 0.22
+  R19 cfo_to_ni (Operating cash flow / net income): -4.79
+
+
+FACT CARD R9-33
+Sector: Mining and oil & gas
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: no
+  F02 material_weakness_area: na
+  F03 icfr_auditor_opinion: not_required
+  F04 going_concern: no
+  F05 auditor_change_within_2y: no
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: none
+  F08 revenue_over_time_major: no
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: no
+  F11 related_party_transactions_material: yes
+  F12 largest_customer_pct_revenue: 36
+  F13 largest_customer_pct_receivables: 94
+  F14 ceo_or_cfo_change_in_year: no
+  F15 interim_or_acting_cfo: no
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: no
+  F18 other_government_investigation: yes
+  F19 covenant_breach_waiver_or_amendment: yes
+  F20 incentive_pay_tied_to_revenue_or_eps: no
+  F21 capital_raise_in_year_or_planned: yes
+  F22 major_acquisition_in_year: no
+  F23 public_via_spac_or_reverse_merger_3y: no
+  F24 critical_audit_matter_topics: other
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: yes
+  F27 inventory_writedown_significant: yes
+  F28 segment_or_reporting_change: no
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): n/a
+  R02 GMI (Gross margin index): 0.39
+  R03 AQI (Asset quality index): 1.07
+  R04 SGI (Sales growth index): 0.88
+  R05 DEPI (Depreciation index): 0.94
+  R06 SGAI (SG&A index): n/a
+  R07 LVGI (Leverage index): 1.1
+  R08 TATA (Total accruals to total assets): -0.05
+  R09 M (Beneish M-score (threshold -1.78)): -3.15
+  R10 rsst_acc (RSST accruals): -0.05
+  R11 ch_rec (Change in receivables / avg assets): n/a
+  R12 ch_inv (Change in inventory / avg assets): -0.05
+  R13 soft_assets (Soft assets share): 0.47
+  R14 ch_cs (Change in cash sales): n/a
+  R15 ch_roa (Change in ROA): 0.03
+  R16 issue (Securities issued (1/0)): 0.0
+  R17 F (Dechow F-score (threshold 1.0)): 0.23
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): n/a
+  R19 cfo_to_ni (Operating cash flow / net income): 0.14
+
+
+FACT CARD R9-51
+Sector: Mining and oil & gas
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: yes
+  F02 material_weakness_area: staffing_or_segregation_of_duties
+  F03 icfr_auditor_opinion: not_required
+  F04 going_concern: yes
+  F05 auditor_change_within_2y: yes
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: none
+  F08 revenue_over_time_major: no
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: no
+  F11 related_party_transactions_material: yes
+  F12 largest_customer_pct_revenue: 100
+  F13 largest_customer_pct_receivables: not_found
+  F14 ceo_or_cfo_change_in_year: yes
+  F15 interim_or_acting_cfo: yes
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: no
+  F18 other_government_investigation: yes
+  F19 covenant_breach_waiver_or_amendment: yes
+  F20 incentive_pay_tied_to_revenue_or_eps: no
+  F21 capital_raise_in_year_or_planned: yes
+  F22 major_acquisition_in_year: no
+  F23 public_via_spac_or_reverse_merger_3y: yes
+  F24 critical_audit_matter_topics: none_or_na
+  F25 voluntary_accounting_change: yes
+  F26 non_gaap_emphasis: no
+  F27 inventory_writedown_significant: no
+  F28 segment_or_reporting_change: no
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): 0.67
+  R02 GMI (Gross margin index): n/a
+  R03 AQI (Asset quality index): 3.92
+  R04 SGI (Sales growth index): 1.66
+  R05 DEPI (Depreciation index): 0.21
+  R06 SGAI (SG&A index): n/a
+  R07 LVGI (Leverage index): 0.44
+  R08 TATA (Total accruals to total assets): -1.27
+  R09 M (Beneish M-score (threshold -1.78)): -6.84
+  R10 rsst_acc (RSST accruals): -1.53
+  R11 ch_rec (Change in receivables / avg assets): 0.01
+  R12 ch_inv (Change in inventory / avg assets): 0.0
+  R13 soft_assets (Soft assets share): 0.91
+  R14 ch_cs (Change in cash sales): 1.13
+  R15 ch_roa (Change in ROA): -0.87
+  R16 issue (Securities issued (1/0)): 1.0
+  R17 F (Dechow F-score (threshold 1.0)): 1.4
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): -0.56
+  R19 cfo_to_ni (Operating cash flow / net income): 0.4
+
+
+FACT CARD R9-14
+Sector: Manufacturing
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: yes
+  F02 material_weakness_area: staffing_or_segregation_of_duties
+  F03 icfr_auditor_opinion: not_required
+  F04 going_concern: yes
+  F05 auditor_change_within_2y: yes
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: none
+  F08 revenue_over_time_major: no
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: no
+  F11 related_party_transactions_material: yes
+  F12 largest_customer_pct_revenue: 41
+  F13 largest_customer_pct_receivables: not_found
+  F14 ceo_or_cfo_change_in_year: no
+  F15 interim_or_acting_cfo: no
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: no
+  F18 other_government_investigation: no
+  F19 covenant_breach_waiver_or_amendment: no
+  F20 incentive_pay_tied_to_revenue_or_eps: yes
+  F21 capital_raise_in_year_or_planned: yes
+  F22 major_acquisition_in_year: no
+  F23 public_via_spac_or_reverse_merger_3y: no
+  F24 critical_audit_matter_topics: other
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: no
+  F27 inventory_writedown_significant: no
+  F28 segment_or_reporting_change: no
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): 1.0
+  R02 GMI (Gross margin index): 1.1
+  R03 AQI (Asset quality index): 0.63
+  R04 SGI (Sales growth index): 1.1
+  R05 DEPI (Depreciation index): 0.48
+  R06 SGAI (SG&A index): n/a
+  R07 LVGI (Leverage index): 1.07
+  R08 TATA (Total accruals to total assets): -0.1
+  R09 M (Beneish M-score (threshold -1.78)): -3.06
+  R10 rsst_acc (RSST accruals): -0.1
+  R11 ch_rec (Change in receivables / avg assets): 0.02
+  R12 ch_inv (Change in inventory / avg assets): 0.01
+  R13 soft_assets (Soft assets share): 0.82
+  R14 ch_cs (Change in cash sales): 0.16
+  R15 ch_roa (Change in ROA): -0.04
+  R16 issue (Securities issued (1/0)): 0.0
+  R17 F (Dechow F-score (threshold 1.0)): 0.54
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): 0.0
+  R19 cfo_to_ni (Operating cash flow / net income): 0.07

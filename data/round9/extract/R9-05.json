@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "no",
+  "quote": "management concluded that the Company’s internal control over financial reporting was effective as of December"
+ },
+ "F02": {
+  "value": "na",
+  "quote": ""
+ },
+ "F03": {
+  "value": "not_required",
+  "quote": "Annual Report does not include an attestation report of the Company’s independent registered public accounting firm regarding internal"
+ },
+ "F04": {
+  "value": "yes",
+  "quote": "These conditions raise substantial doubt about the Company’s ability to continue as a going concern."
+ },
+ "F05": {
+  "value": "no",
+  "quote": "have served as the Company’s auditor since Y-3."
+ },
+ "F06": {
+  "value": "no",
+  "quote": ""
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "no",
+  "quote": "and costs of sales are recognized when control of the products is transferred to our customer, which generally occurs upon shipment from"
+ },
+ "F09": {
+  "value": "no",
+  "quote": "we do not currently maintain a contract asset or liability balance for obligations."
+ },
+ "F10": {
+  "value": "no",
+  "quote": "Company does not allow for returns after 30 days, except for damaged products when the damage occurred pre-fulfillment."
+ },
+ "F11": {
+  "value": "no",
+  "quote": "been, nor is there currently proposed, any transaction in which we are or were a participant, the amount involved exceeds the lesser"
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": "No single customer accounted for more than 10% of our total revenue in Y0"
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "yes",
+  "quote": "Also on March 27, Y+1, [NAME] was appointed the Company’s Interim Chief Executive Officer."
+ },
+ "F15": {
+  "value": "no",
+  "quote": "June 10, Y0, [NAME] was appointed Chief Financial Officer of the Company, and he previously served as Chief Financial Officer"
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": "are no legal proceedings that are pending against the Company or that involve the Company that, in the opinion of management, could reasonably"
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "no",
+  "quote": ""
+ },
+ "F20": {
+  "value": "yes",
+  "quote": "increased employee-related costs associated with new hires and performance-based bonuses tied to revenue growth and operational"
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "October 24, Y0, the Company entered into an At-The-Market Sales Offering Agreement (“[NAME] Offering Agreement”) with [NAME]"
+ },
+ "F22": {
+  "value": "no",
+  "quote": ""
+ },
+ "F23": {
+  "value": "no",
+  "quote": "to the Company’s initial public offering on August 14, Y-2, the Company’s common stock was not publicly traded."
+ },
+ "F24": {
+  "value": [
+   "none_or_na"
+  ],
+  "quote": ""
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "yes",
+  "quote": "planning system and the related inventory valuation adjustment recorded during the year."
+ },
+ "F28": {
+  "value": "no",
+  "quote": "accounting policies of the one reportable segment are the same as those described in the summary of significant accounting policies."
+ }
+}

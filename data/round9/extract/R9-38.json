@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "yes",
+  "quote": "we identified material a weakness in our internal control over financial reporting"
+ },
+ "F02": {
+  "value": "staffing_or_segregation_of_duties",
+  "quote": "We determined that we had not maintained sufficient staffing or written policies and procedures for accounting and financial reporting"
+ },
+ "F03": {
+  "value": "not_required",
+  "quote": "The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting."
+ },
+ "F04": {
+  "value": "yes",
+  "quote": "These matters raise substantial doubt about the Company's ability to continue as a going concern."
+ },
+ "F05": {
+  "value": "yes",
+  "quote": "On May 24, Y0, approved by its audit committee of the board of directors, the Company dismissed [NAME] from its position as the independent registered public accounting firm for the Company."
+ },
+ "F06": {
+  "value": "no",
+  "quote": "there were no “disagreements” ... there were no “reportable events”"
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "no",
+  "quote": "are recognized at the time of delivery of the products set forth in contracts with customers"
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "no",
+  "quote": "The Company’s contracts do not allow for returns, refunds, or warranties"
+ },
+ "F11": {
+  "value": "yes",
+  "quote": "a related party controlled by the Company’s CEO, Chairman and controlling shareholder, [NAME] (“3DFLOR”), pursuant to which 3DFLOR agreed to provide 3D PRINTING a loan, with an initial maximum principal amount of $24,000,000"
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "no",
+  "quote": "On April 15, Y-1, [NAME] was appointed as the interim CFO of the Company."
+ },
+ "F15": {
+  "value": "yes",
+  "quote": "our Chief Executive Officer and our Interim Chief Financial Officer concluded that our internal control over financial reporting was not effective"
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": "we are not a party to, and we are not aware of any threat of, any legal proceeding that, in the opinion of our management, is likely to have a material adverse effect"
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "no",
+  "quote": ""
+ },
+ "F20": {
+  "value": "no",
+  "quote": ""
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "On March 31, Y0, the Company issued 1,000,000 shares of common stock to each [NAME], or an aggregate of 5,000,000 shares of common"
+ },
+ "F22": {
+  "value": "no",
+  "quote": ""
+ },
+ "F23": {
+  "value": "no",
+  "quote": "On October 23, Y-2, the Company consummated the initial public offering (the “IPO”) of"
+ },
+ "F24": {
+  "value": [
+   "revenue"
+  ],
+  "quote": "Auditing the Company's revenue recognition was complex due to the significant expansion of distribution channels during the year"
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "no",
+  "quote": "The Company has only one major reportable segment in the periods presented."
+ }
+}

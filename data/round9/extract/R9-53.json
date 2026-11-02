@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "yes",
+  "quote": "December 31, Y0 due to material weaknesses, including the lack of segregation of duties and the need for a stronger internal control"
+ },
+ "F02": {
+  "value": "staffing_or_segregation_of_duties",
+  "quote": "December 31, Y0 due to material weaknesses, including the lack of segregation of duties and the need for a stronger internal control"
+ },
+ "F03": {
+  "value": "not_required",
+  "quote": "control over financial reporting, as the Company is not required to obtain such attestation."
+ },
+ "F04": {
+  "value": "yes",
+  "quote": "These conditions raise substantial doubt about the Company’s ability to continue as"
+ },
+ "F05": {
+  "value": "no",
+  "quote": "have served as the Company’s auditor since Y-8."
+ },
+ "F06": {
+  "value": "no",
+  "quote": ""
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "no",
+  "quote": "prices are generally fixed at the point of sale and all consideration from contracts is included in the transaction price."
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "yes",
+  "quote": "the years ended December 31, Y0 and Y-1, the Company paid an entity controlled by the Company’s Chief Executive Officer"
+ },
+ "F12": {
+  "value": 25.88,
+  "quote": "accounted for $12,073,690 and $5,482,886, or approximately 25.88% and 11.75% of our revenues, respectively."
+ },
+ "F13": {
+  "value": 14.24,
+  "quote": "At December 31, Y0, seven certain large customers ... 14.24"
+ },
+ "F14": {
+  "value": "yes",
+  "quote": "[NAME] was terminated as the Company’s Chief Financial Officer in April Y0"
+ },
+ "F15": {
+  "value": "yes",
+  "quote": "our Chief Executive Officer (“CEO”) and Interim Chief Financial Officer (“CFO”) of the effectiveness of our disclosure"
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": ""
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "no",
+  "quote": ""
+ },
+ "F20": {
+  "value": "yes",
+  "quote": "October 1, Y+1, for every $1 million in annual revenue [NAME] Services, Inc., a [NAME] corporation and wholly owned subsidiary of"
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "year ended December 31, Y0, we raised capital through the issuance of common stock with warrants"
+ },
+ "F22": {
+  "value": "no",
+  "quote": ""
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "none_or_na"
+  ],
+  "quote": "We determined that there were no critical audit"
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "no",
+  "quote": ""
+ }
+}

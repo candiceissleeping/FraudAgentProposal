@@ -1,0 +1,53 @@
+FACT CARD R9-22
+Sector: Manufacturing
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: yes
+  F02 material_weakness_area: staffing_or_segregation_of_duties
+  F03 icfr_auditor_opinion: not_required
+  F04 going_concern: yes
+  F05 auditor_change_within_2y: no
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: none
+  F08 revenue_over_time_major: no
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: no
+  F11 related_party_transactions_material: yes
+  F12 largest_customer_pct_revenue: not_found
+  F13 largest_customer_pct_receivables: not_found
+  F14 ceo_or_cfo_change_in_year: no
+  F15 interim_or_acting_cfo: no
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: yes
+  F18 other_government_investigation: no
+  F19 covenant_breach_waiver_or_amendment: no
+  F20 incentive_pay_tied_to_revenue_or_eps: no
+  F21 capital_raise_in_year_or_planned: yes
+  F22 major_acquisition_in_year: yes
+  F23 public_via_spac_or_reverse_merger_3y: no
+  F24 critical_audit_matter_topics: other
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: no
+  F27 inventory_writedown_significant: no
+  F28 segment_or_reporting_change: no
+
+Financial ratios (computed from as-filed XBRL; current year vs prior year):
+  R01 DSRI (Days sales in receivables index): n/a
+  R02 GMI (Gross margin index): n/a
+  R03 AQI (Asset quality index): n/a
+  R04 SGI (Sales growth index): n/a
+  R05 DEPI (Depreciation index): n/a
+  R06 SGAI (SG&A index): n/a
+  R07 LVGI (Leverage index): 2.27
+  R08 TATA (Total accruals to total assets): -0.63
+  R09 M (Beneish M-score (threshold -1.78)): n/a
+  R10 rsst_acc (RSST accruals): -0.51
+  R11 ch_rec (Change in receivables / avg assets): n/a
+  R12 ch_inv (Change in inventory / avg assets): 0.0
+  R13 soft_assets (Soft assets share): 0.96
+  R14 ch_cs (Change in cash sales): n/a
+  R15 ch_roa (Change in ROA): -1.82
+  R16 issue (Securities issued (1/0)): 0.0
+  R17 F (Dechow F-score (threshold 1.0)): 2.45
+  R18 ar_growth_minus_sales_growth (Receivables growth minus sales growth): n/a
+  R19 cfo_to_ni (Operating cash flow / net income): -0.08

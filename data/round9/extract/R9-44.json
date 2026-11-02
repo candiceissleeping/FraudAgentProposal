@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "yes",
+  "quote": "concluded that our internal control over financial reporting was not effective as of December 31, Y0 for the reasons discussed above."
+ },
+ "F02": {
+  "value": "staffing_or_segregation_of_duties",
+  "quote": "Due to our small size, we do not have a proper segregation of duties in certain areas of our financial reporting process."
+ },
+ "F03": {
+  "value": "not_required",
+  "quote": "The Company is not required to have, nor were we engaged"
+ },
+ "F04": {
+  "value": "yes",
+  "quote": "These factors raise substantial doubt regarding our ability to continue as a going concern"
+ },
+ "F05": {
+  "value": "no",
+  "quote": "We have served as the Company's auditor since Y-10."
+ },
+ "F06": {
+  "value": "no",
+  "quote": ""
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "no",
+  "quote": ""
+ },
+ "F09": {
+  "value": "no",
+  "quote": "At December 31, Y0 and Y-1, the Company did not have any contract assets."
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "yes",
+  "quote": "we had outstanding the following loans payable to related parties:"
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": "customers accounted for 10% or more of consolidated revenues."
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "no",
+  "quote": ""
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": "are currently not aware of any such legal proceedings or claims that we believe will have, individually or in the aggregate, a material"
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "yes",
+  "quote": "and [NAME] LLC executed a forbearance and release agreement whereby the Company is to pay a total of $"
+ },
+ "F20": {
+  "value": "yes",
+  "quote": "[NAME] will be eligible for (i) a target quarterly cash bonus in an amount of up to $45,000 based on a revenue target for existing"
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "Management is currently seeking additional financing through the"
+ },
+ "F22": {
+  "value": "no",
+  "quote": ""
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "goodwill_or_intangibles"
+  ],
+  "quote": "Goodwill Impairment Assessment ... Long-Lived Asset Impairment Assessment"
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "yes",
+  "quote": "business unit and for [NAME] are presented as results from discontinued operations."
+ }
+}

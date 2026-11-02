@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "no",
+  "quote": "Based on this evaluation, management concluded that Company’s internal control over financial reporting was effective as of December 31, Y0."
+ },
+ "F02": {
+  "value": "na",
+  "quote": ""
+ },
+ "F03": {
+  "value": "not_required",
+  "quote": "Management’s report was not subject to attestation by our registered public accounting firm because as a smaller reporting company we are not subject to Section 404(b)."
+ },
+ "F04": {
+  "value": "no",
+  "quote": "Accordingly, management has concluded that substantial doubt about the Company’s ability to continue as a going concern has been alleviated."
+ },
+ "F05": {
+  "value": "no",
+  "quote": "We have served as the Company’ s auditor since Y-9."
+ },
+ "F06": {
+  "value": "no",
+  "quote": ""
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "no",
+  "quote": ""
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "yes",
+  "quote": "For Consumer Audio and Components, sales to certain distributors are made under arrangements which provide the distributors with price adjustments, price protection, stock rotation and other allowances under certain circumstances."
+ },
+ "F11": {
+  "value": "yes",
+  "quote": "Certain of these contracts are with related parties. We identified revenue recognition for patent and intellectual property licensing arrangements as a critical audit matter."
+ },
+ "F12": {
+  "value": 51,
+  "quote": "accounted for 51% and [NAME] Holding Company (“[NAME]”) 26% of our net revenue."
+ },
+ "F13": {
+  "value": 65,
+  "quote": "As of December 31, Y0, the Company had two customers accounting for 65% and 32% of accounts receivable."
+ },
+ "F14": {
+  "value": "no",
+  "quote": ""
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": ""
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "no",
+  "quote": "The Company has no debt maturities within the next twelve months and no covenant compliance requirements or contractual commitments expected to materially impact liquidity during the evaluation period."
+ },
+ "F20": {
+  "value": "yes",
+  "quote": "the other half of the Units vesting upon the Company’s aggregate revenue equaling or exceeding $40 million over any trailing 12 calendar month period"
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "In November Y0, we completed the closing of an equity investment from [NAME] Holding Company for $150 million of [NAME], which we consider to be highly liquid."
+ },
+ "F22": {
+  "value": "yes",
+  "quote": "On May 20, Y0, the Company completed its previously announced asset purchase of technology assets, customer contracts, trademarks, and other intellectual property ... The acquisition was accounted for under ASC 805, Business Combinations"
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "revenue"
+  ],
+  "quote": "We identified revenue recognition for patent and intellectual property licensing arrangements as a critical audit matter."
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "no",
+  "quote": ""
+ }
+}

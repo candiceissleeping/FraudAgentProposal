@@ -1,0 +1,118 @@
+{
+ "F01": {
+  "value": "yes",
+  "quote": "Such material weaknesses have not been fully remediated as of December 31, Y0"
+ },
+ "F02": {
+  "value": "financial_close_or_reporting",
+  "quote": "material weaknesses in our internal control over financial reporting with respect to our financial statement close and reporting process."
+ },
+ "F03": {
+  "value": "not_required",
+  "quote": "is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting."
+ },
+ "F04": {
+  "value": "yes",
+  "quote": "substantial doubt exists regarding our ability to continue as a going concern."
+ },
+ "F05": {
+  "value": "yes",
+  "quote": "[NAME] resigned as independent accountants on November 15, Y-1 and [NAME] & Co"
+ },
+ "F06": {
+  "value": "no",
+  "quote": ""
+ },
+ "F07": {
+  "value": "restatement",
+  "quote": "the Company filed with the SEC as amended reports the required restatements ... accompanying notes are an integral part of these restated consolidated financial statements."
+ },
+ "F08": {
+  "value": "no",
+  "quote": "Revenues are generally recognized upon the transfer of control of promised products provided to"
+ },
+ "F09": {
+  "value": "no",
+  "quote": "Given the nature of the Company’s services and contracts, it has no contract assets."
+ },
+ "F10": {
+  "value": "no",
+  "quote": "are sold without a right of return or refund"
+ },
+ "F11": {
+  "value": "yes",
+  "quote": "the transaction constituted a related party transaction under Item 404(a) of Regulation [NAME]."
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "yes",
+  "quote": "[NAME] was terminated from his roles as Chief Executive Officer, President, Secretary, and Chairman, effective immediately,"
+ },
+ "F15": {
+  "value": "no",
+  "quote": "the Board appointed [NAME], the Company’s Chief Financial Officer since July Y-2, as Secretary as well as Interim Chief Executive Officer and Interim President."
+ },
+ "F16": {
+  "value": "yes",
+  "quote": "The Company and certain of our former officers are currently the subject of investigations and inquiries by the SEC and the [NAME]. Department of Justice (the “DOJ”)."
+ },
+ "F17": {
+  "value": "yes",
+  "quote": "Class Plaintiffs’ Section 10(b) claim shall proceed against Defendant [NAME] and the Company based on post−merger representations ... The matter remains stayed in accordance with the Court’s"
+ },
+ "F18": {
+  "value": "yes",
+  "quote": "currently the subject of investigations and inquiries by the SEC and the [NAME]. Department of Justice (the “DOJ”). The Company is cooperating fully with such investigations and inquiries."
+ },
+ "F19": {
+  "value": "yes",
+  "quote": "we had $ 2,297,683 of convertible debt outstanding. [NAME] portion of this debt has matured and is theoretically in default."
+ },
+ "F20": {
+  "value": "no",
+  "quote": "the named executive officers may receive discretionary annual bonuses, guaranteed or retention bonuses at the discretion of the Compensation Committee."
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "the Company issued a senior secured convertible promissory note with an aggregate principal amount of $2.875 million."
+ },
+ "F22": {
+  "value": "yes",
+  "quote": "Company completed the acquisition of 51% of [NAME] Inc [“[NAME]”] from [NAME] Inc. through a signed Share Purchase Agreement ([NAME]) executed on July 25, Y0."
+ },
+ "F23": {
+  "value": "no",
+  "quote": "On October 29, Y-4, we consummated a business combination (the “Business Combination”) with [NAME],"
+ },
+ "F24": {
+  "value": [
+   "business_combination",
+   "goodwill_or_intangibles",
+   "other"
+  ],
+  "quote": "Valuation of asset acquisition. ... We reviewed the report of the independent valuation firm that performed the valuation of the intangible assets. ... Accounting for Material Prepaid Advertising Credits"
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "no",
+  "quote": "As of the reporting date, the [NAME] continues to evaluate financial performance and allocate resources on a consolidated basis;"
+ }
+}

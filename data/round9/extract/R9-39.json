@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "no",
+  "quote": "management concluded that our internal control over financial reporting was effective as of December 31, Y0"
+ },
+ "F02": {
+  "value": "na",
+  "quote": ""
+ },
+ "F03": {
+  "value": "unqualified",
+  "quote": "In our opinion, [COMPANY], Inc. and subsidiaries (the Company) maintained, in all material respects, effective internal control over financial reporting as of December 31, Y0"
+ },
+ "F04": {
+  "value": "no",
+  "quote": ""
+ },
+ "F05": {
+  "value": "no",
+  "quote": "We have served as the Company’s auditor since Y-23."
+ },
+ "F06": {
+  "value": "no",
+  "quote": "There were no disagreements with accountants on accounting and financial disclosure for the two-year period ended December 31, Y0 that require disclosure pursuant to this Item 9."
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "yes",
+  "quote": "Transferred over time  184,867  171,202"
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "no",
+  "quote": ""
+ },
+ "F12": {
+  "value": 32,
+  "quote": "[NAME] Coal Mining customer  32  %  29  %"
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "no",
+  "quote": ""
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": "We are not a party to any material legal proceeding other than ordinary routine litigation incidental to our respective business."
+ },
+ "F18": {
+  "value": "yes",
+  "quote": "an incident at a quarry in [NAME] resulted in two employee fatalities. The event is currently under investigation by the [NAME]. Mine Safety and Health [NAME]."
+ },
+ "F19": {
+  "value": "no",
+  "quote": "At December 31, Y0, [COMPANY] Natural Resources was in compliance with all financial covenants in the Facility."
+ },
+ "F20": {
+  "value": "no",
+  "quote": ""
+ },
+ "F21": {
+  "value": "no",
+  "quote": ""
+ },
+ "F22": {
+  "value": "no",
+  "quote": ""
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "other"
+  ],
+  "quote": "Unconsolidated subsidiaries – accounting for variable interest entities"
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "yes",
+  "quote": "Inventory impairment charges  6,986  9,643 ... as mining costs exceeded net realizable value of coal inventory"
+ },
+ "F28": {
+  "value": "no",
+  "quote": "There were no changes to the composition of each segment and therefore no changes to historical segment reporting."
+ }
+}

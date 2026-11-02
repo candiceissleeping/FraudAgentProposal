@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "yes",
+  "quote": "management identified the following material weaknesses in our internal control over financial reporting:"
+ },
+ "F02": {
+  "value": "staffing_or_segregation_of_duties",
+  "quote": "We lacked a sufficient number of accounting professionals with the necessary knowledge, experience and training to adequately account for the application of new accounting standards"
+ },
+ "F03": {
+  "value": "not_required",
+  "quote": "annual report does not include an attestation report of our registered public accounting firm regarding internal control over financial"
+ },
+ "F04": {
+  "value": "yes",
+  "quote": "There is substantial doubt about the ability"
+ },
+ "F05": {
+  "value": "yes",
+  "quote": "have served as the Company’s auditor since Y-1."
+ },
+ "F06": {
+  "value": "no",
+  "quote": "Changes in and [NAME] with [NAME] on Accounting and Financial Disclosure ... None."
+ },
+ "F07": {
+  "value": "none",
+  "quote": "included in the filing reflect the correction of an error to previously issued financial statements."
+ },
+ "F08": {
+  "value": "no",
+  "quote": "Revenue is recognized at a point in time when control of the product transfers to the customer, which generally occurs"
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "yes",
+  "quote": "The Selling Parties are affiliated with certain stockholders of the Company."
+ },
+ "F12": {
+  "value": 41,
+  "quote": "Customer [NAME]  Balloons; Gifts  $8,282,000  41  %  $6,476,000  36  %"
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "no",
+  "quote": "has been Chief Executive Officer since November Y-1"
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": ""
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "no",
+  "quote": "was in compliance with this covenant as of December 31, Y0 and Y-1."
+ },
+ "F20": {
+  "value": "yes",
+  "quote": "The restrictions on 5,625 shares of the award will lapse and the award will vest when the Company’s trailing-twelve-month EBITDA"
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "which also increased the revolving commitment from $6.0 million to $7.0 million"
+ },
+ "F22": {
+  "value": "no",
+  "quote": "On June 30, Y-1, through this subsidiary, the Company acquired certain production"
+ },
+ "F23": {
+  "value": "no",
+  "quote": "Company’s common stock was admitted to trading on the NASDAQ [NAME] Market (now the NASDAQ Capital Market)"
+ },
+ "F24": {
+  "value": [
+   "other"
+  ],
+  "quote": "management identified indicators of impairment for machinery and equipment intended for use at the"
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": "in the aggregate amount of $194,000 and $155,000 respectively."
+ },
+ "F28": {
+  "value": "no",
+  "quote": "manage our business activities as a single segment"
+ }
+}

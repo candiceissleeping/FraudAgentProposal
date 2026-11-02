@@ -1,0 +1,117 @@
+{
+ "F01": {
+  "value": "no",
+  "quote": "our management believes that our internal control over financial reporting is effective based on those criteria, as of"
+ },
+ "F02": {
+  "value": "na",
+  "quote": ""
+ },
+ "F03": {
+  "value": "not_required",
+  "quote": "The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting."
+ },
+ "F04": {
+  "value": "yes",
+  "quote": "management has concluded that substantial doubt exists with respect to our ability to continue as a going concern for at least 12 months after the issuance of the accompanying financial statements."
+ },
+ "F05": {
+  "value": "no",
+  "quote": "We have served as the Company’s auditor since Y-2."
+ },
+ "F06": {
+  "value": "no",
+  "quote": "CHANGES [NAME] WITH [NAME] ACCOUNTING [NAME] FINANCIAL DISCLOSURE. ... None."
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "no",
+  "quote": "As of April 10, Y+1, no revenue has been recognized under the [NAME]’s ([NAME]) Y0 License Agreement."
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "yes",
+  "quote": "Since January 1, Y-1, we have engaged in the following transactions with our directors ... the liability balance related to the payments under the [NAME] Agreement was $3.8 million and is recorded in other liabilities."
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "yes",
+  "quote": "[NAME] was appointed to serve as our President and Chief Executive Officer on December 1, Y0, and has served as a member of our board of directors (the “Board”) since August Y0."
+ },
+ "F15": {
+  "value": "no",
+  "quote": "Senior Vice President and Chief Financial Officer (Principal Financial and Accounting Officer)"
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": "We are not aware of any pending legal actions that would, if determined adversely to us, have a material adverse effect on our business and operations."
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "no",
+  "quote": ""
+ },
+ "F20": {
+  "value": "no",
+  "quote": "can be achieved at a target level by meeting predetermined corporate and individual performance objectives."
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "For the year ended December 31, Y0, we sold 0.2 million shares of Common Stock under the [NAME] Purchase Agreement for net proceeds of $6.5 million"
+ },
+ "F22": {
+  "value": "yes",
+  "quote": "For Y0, research and development expenses include a charge of $7.5 million associated with the acquired [NAME] related to the Asset Purchase Agreement with [NAME]"
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "goodwill_or_intangibles",
+   "other"
+  ],
+  "quote": "Fair value of indefinite-lived intangible assets ... Accounting For Warrants issued in connection with the July [NAME] Transactions"
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "no",
+  "quote": "reportable segment primarily focused on the research and development of cardiovascular diseases."
+ }
+}

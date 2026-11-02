@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "yes",
+  "quote": "As a result of these constraints, we have a material weakness in our internal control over financial reporting."
+ },
+ "F02": {
+  "value": "staffing_or_segregation_of_duties",
+  "quote": "These constraints have resulted in (1) a lack of segregation of duties, since we have a limited administrative staff, and (2) lack of internal controls structure review."
+ },
+ "F03": {
+  "value": "not_required",
+  "quote": "The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting."
+ },
+ "F04": {
+  "value": "no",
+  "quote": "Based on this evaluation, management has concluded that these plans alleviate the substantial doubt."
+ },
+ "F05": {
+  "value": "no",
+  "quote": "We have served as the Company’s auditor since Y-5."
+ },
+ "F06": {
+  "value": "no",
+  "quote": "ITEM 9. CHANGES [NAME] WITH [NAME] ACCOUNTING [NAME] FINANCIAL DISCLOSURE ... Not applicable."
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "no",
+  "quote": "[NAME] small portion of commercial projects are recognized based on progress toward completion, typically through monthly billings. ... Net revenue recognized over time totaled approximately $"
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "yes",
+  "quote": "[NAME], LLC is party to a management and consulting agreement with a related party, [NAME] Partners [NAME], Inc. (“[NAME] Partners [NAME]”), an entity controlled by our Chief Executive Officer"
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "no",
+  "quote": ""
+ },
+ "F15": {
+  "value": "no",
+  "quote": "[NAME] has served as Chief Financial Officer since August Y-2."
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": "We are currently not aware of any legal proceedings the ultimate outcome of which, in our judgment based on information currently available, would have a material adverse effect on our business, financial condition or results of operations."
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "yes",
+  "quote": "Other provisions of the [NAME] Finance Credit Agreement include that no financial covenants will be tested until the fiscal quarter ending March 31, Y+1"
+ },
+ "F20": {
+  "value": "yes",
+  "quote": "Salaries listed do not include annual bonuses to be paid based on profitability and performance."
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "On March 7, Y0, the Company completed its follow-on public offering of 1,250,000 shares at $4.00 per share for gross proceeds of $5,000,000"
+ },
+ "F22": {
+  "value": "yes",
+  "quote": "On August 22, Y0, through its indirect subsidiary [NAME] Purchase Holdings, LLC, the Company acquired 100% of the membership interests of [NAME] Stone Holdings, LLC"
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "goodwill_or_intangibles"
+  ],
+  "quote": "We identified the goodwill impairment assessment as a critical audit matter."
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "yes",
+  "quote": "The Company has two reportable segments: (i) the [NAME] segment, which includes the operations of [NAME], LLC and [NAME] Stone Industries, and (ii) the [NAME] Stone segment, which includes the operations of [NAME] Stone Distributors."
+ }
+}

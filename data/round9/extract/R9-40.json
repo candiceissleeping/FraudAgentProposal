@@ -1,0 +1,118 @@
+{
+ "F01": {
+  "value": "yes",
+  "quote": "Based on our assessment, we concluded that, as of December 31, Y0, our internal control over financial reporting"
+ },
+ "F02": {
+  "value": "financial_close_or_reporting",
+  "quote": "by our external auditors, we have a deficiency related to our closing process."
+ },
+ "F03": {
+  "value": "not_required",
+  "quote": "The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting."
+ },
+ "F04": {
+  "value": "yes",
+  "quote": "the Company has suffered recurring losses from operations and had an accumulated deficit that raises substantial doubt about its ability to continue as a going concern."
+ },
+ "F05": {
+  "value": "yes",
+  "quote": "had made the decision to resign as our independent auditors effective January 6, Y+1."
+ },
+ "F06": {
+  "value": "no",
+  "quote": "no reportable events, as that term is defined in Item 304(a)(1)(v) of Regulation [NAME]."
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "yes",
+  "quote": "Performance obligations satisfied over time  $2,664,111  $4,976,618"
+ },
+ "F09": {
+  "value": "no",
+  "quote": "Contract assets  -  2,536"
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "yes",
+  "quote": "$1,544,794 and $1,716,244, respectively, was due to our chief executive officer and affiliated entities."
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "yes",
+  "quote": "January 3, Y0, we engaged [NAME] to serve as our Chief Executive Officer ... On June 5, Y+1, [NAME] resigned from her position as Chief Financial Officer of the Company."
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": ""
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "yes",
+  "quote": "This note is currently in default."
+ },
+ "F20": {
+  "value": "yes",
+  "quote": "provide for a performance bonus structure for a bonus of up to 50% of base salary upon the Company’s achievement of $2,000,000"
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "will also seek to obtain debt or additional equity financing to meet any cash shortfalls both in the public company or our subsidiaries."
+ },
+ "F22": {
+  "value": "yes",
+  "quote": "As disclosed in Note 11, on February 2, Y0, the Company entered into the Merger Agreement [NAME] ([NAME] Acquisition)."
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "reserves_or_estimates",
+   "goodwill_or_intangibles",
+   "business_combination"
+  ],
+  "quote": "We identified the estimation of reserves attributable to oil and natural gas properties ... Goodwill and Other Intangibles arising from the acquisition of [NAME] Group [NAME], Inc."
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "yes",
+  "quote": "segments: Construction, [NAME] (“[NAME]”) and Oil and Gas. ... Construction  Medical  Corporate  Consolidated"
+ }
+}

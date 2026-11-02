@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "yes",
+  "quote": "management concluded that as of December 31, Y0, our company’s internal control over financial reporting was not effective based on present company activity. In the course of making our assessment, we identified a material weakness"
+ },
+ "F02": {
+  "value": "staffing_or_segregation_of_duties",
+  "quote": "This material weakness consisted of inadequate staffing and supervision within the bookkeeping and accounting operations of our company."
+ },
+ "F03": {
+  "value": "not_required",
+  "quote": "This annual report does not include an attestation report from our registered public accounting firm regarding internal control over financial reporting."
+ },
+ "F04": {
+  "value": "yes",
+  "quote": "indicate the existence of material uncertainties that cast significant doubt about [NAME] Public’s ability to continue as a going concern"
+ },
+ "F05": {
+  "value": "yes",
+  "quote": "We have served as the Company’s Auditor since Y0. ... We have served as the Company’s Auditor since Y-2."
+ },
+ "F06": {
+  "value": "no",
+  "quote": "Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure\nNone"
+ },
+ "F07": {
+  "value": "immaterial_revision",
+  "quote": "Management evaluated the revisions described above in accordance with ASC 250-10 and concluded that the effects of the revisions were not material to any previously issued financial statements."
+ },
+ "F08": {
+  "value": "no",
+  "quote": "The revenue recognition is point in time."
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "yes",
+  "quote": "Under concession arrangements, [NAME] in [NAME]’s products are sold within third-party retail locations, and [NAME] in [NAME] typically pays the retailer a percentage of sales rather than selling products outright."
+ },
+ "F11": {
+  "value": "yes",
+  "quote": "The balance represents funds advanced to the Director of 123 Investments Limited as consideration for the acquisition of his property"
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "no",
+  "quote": "From November Y-8 to present, [NAME] has served as our Chief Executive Officer"
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": ""
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "yes",
+  "quote": "Failure to comply with these covenants or provisions, certain of which are already in default, may result in a default or continued defaults"
+ },
+ "F20": {
+  "value": "no",
+  "quote": "No executive officer earned any non-equity incentive plan compensation or nonqualified deferred compensation during the periods reported above."
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "On September 2, Y0, the Company entered into two Subscription Agreements with two accredited investors, pursuant to which the investors purchased in aggregate $1,400,000 of Convertible Notes."
+ },
+ "F22": {
+  "value": "yes",
+  "quote": "The transactions contemplated by the Exchange Agreement closed on December 15, Y0"
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "none_or_na"
+  ],
+  "quote": ""
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "yes",
+  "quote": "Adjusted EBITDA (a non-Generally Accepted Accounting Principles (GAAP) financial measure, see “[NAME] Financial Measures”, below) for the year ended Y0 is $0.89 million"
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "no",
+  "quote": "concluded that it operates as a single operating and reportable segment"
+ }
+}

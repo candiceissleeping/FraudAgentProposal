@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "yes",
+  "quote": "Y0, the Company has not maintained effective internal control over financial reporting due to the material weaknesses identified and"
+ },
+ "F02": {
+  "value": "it_general_controls",
+  "quote": "noted ineffective user access controls over certain IT systems to appropriately segregate duties and adequately restrict user access"
+ },
+ "F03": {
+  "value": "not_required",
+  "quote": "The Company is not required to have, nor were we engaged"
+ },
+ "F04": {
+  "value": "yes",
+  "quote": "December 31, Y0. These conditions raise substantial doubt about the Company’s ability"
+ },
+ "F05": {
+  "value": "yes",
+  "quote": "November 20, Y-1, the Audit Committee dismissed [NAME] ("
+ },
+ "F06": {
+  "value": "yes",
+  "quote": "[NAME] provided written communication to the Audit Committee regarding this material weakness, and the ... have been no other “reportable events”"
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "no",
+  "quote": "Control is transferred either at the point of sale or upon delivery to the customer"
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "yes",
+  "quote": "In January Y0 the Company entered into an amended distribution agreement with [NAME]. ... the Counterparty has informed the Subsidiary that it may, from time to time, conduct significant transactions with [NAME]"
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "yes",
+  "quote": "Board of Directors unanimously appointed [NAME] as Chief Executive Officer of the Company."
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": ""
+ },
+ "F18": {
+  "value": "yes",
+  "quote": "Investigation Demand regarding an investigation to determine whether there is or has been alleged violations of the [NAME] Claims Act concerning"
+ },
+ "F19": {
+  "value": "no",
+  "quote": ""
+ },
+ "F20": {
+  "value": "no",
+  "quote": ""
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "a $110 million private placement consisting of cash subscriptions and crypto denominated subscriptions in support of a [NAME] focused treasury"
+ },
+ "F22": {
+  "value": "no",
+  "quote": ""
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "other"
+  ],
+  "quote": "identified the evaluation of audit evidence pertaining to the existence of the digital assets and whether the Company controls the digital"
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "yes",
+  "quote": "Gross margin was impacted by $6.3 million in inventory impairment write-downs"
+ },
+ "F28": {
+  "value": "yes",
+  "quote": "has reassessed its segment conclusions and determined that effective with this Annual Report on Form 10-[NAME], the Company is presenting"
+ }
+}

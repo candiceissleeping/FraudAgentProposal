@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "no",
+  "quote": "management concluded that our internal control over financial reporting was effective as of December 31, Y0."
+ },
+ "F02": {
+  "value": "na",
+  "quote": ""
+ },
+ "F03": {
+  "value": "not_required",
+  "quote": "The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting."
+ },
+ "F04": {
+  "value": "no",
+  "quote": ""
+ },
+ "F05": {
+  "value": "no",
+  "quote": "We have served as the Company's auditor since Y-9."
+ },
+ "F06": {
+  "value": "no",
+  "quote": ""
+ },
+ "F07": {
+  "value": "none",
+  "quote": "reflect the correction of an error to previously issued financial statements. ☐"
+ },
+ "F08": {
+  "value": "yes",
+  "quote": "Products, services, and fees transferred over time  32,183  19,925  52,108"
+ },
+ "F09": {
+  "value": "no",
+  "quote": "Contract assets, net of allowance for credit losses  402  406"
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "no",
+  "quote": ""
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": "No customer accounted for 10% or more of our total revenue for the years ended December 31, Y0 and Y-1."
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": "No customer accounted for 10% or more of our total trade receivables as of December 31, Y0 and Y-1"
+ },
+ "F14": {
+  "value": "no",
+  "quote": "[NAME] has served as our Chief Executive Officer since March Y-1."
+ },
+ "F15": {
+  "value": "no",
+  "quote": "[NAME] has served as our Chief Financial Officer since April Y-13."
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": ""
+ },
+ "F18": {
+  "value": "yes",
+  "quote": "These inquiries and investigations related primarily to our discontinued seminar operations and concern compliance with various city, county, state, and/or federal regulations"
+ },
+ "F19": {
+  "value": "no",
+  "quote": ""
+ },
+ "F20": {
+  "value": "yes",
+  "quote": "Bonus awards for [NAME] and executive management will be weighted 50% on annual revenue and 50% on Adjusted EBITDA."
+ },
+ "F21": {
+  "value": "no",
+  "quote": ""
+ },
+ "F22": {
+  "value": "no",
+  "quote": "Because the acquisition occurred subsequent to December 31, Y0, no results of operations of [NAME] are included in our consolidated statements of operations for the year ended December 31, Y0."
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "revenue"
+  ],
+  "quote": "Revenue Recognition — Refer to Note 2 to the Consolidated Financial Statements"
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "yes",
+  "quote": "we consider and use non-generally accepted accounting principles (“[NAME]”) net income and Adjusted EBITDA as a supplemental measure of operating performance."
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "no",
+  "quote": ""
+ }
+}

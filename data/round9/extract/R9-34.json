@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "yes",
+  "quote": "Management has concluded that our internal control over financial reporting had the following material weaknesses:"
+ },
+ "F02": {
+  "value": "other",
+  "quote": "does not have an Audit Committee; and ... We do not have an independent Board of Directors, nor do we have a board member designated as an independent financial expert for [COMPANY]."
+ },
+ "F03": {
+  "value": "not_required",
+  "quote": "The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting."
+ },
+ "F04": {
+  "value": "yes",
+  "quote": "has incurred negative cash flows from operating activities over the past two years and has an accumulated deficit which raises substantial doubt about its ability to continue as a going concern."
+ },
+ "F05": {
+  "value": "yes",
+  "quote": "We have served as the Company’s auditor since Y0. ... We have served as the Company’s auditor since Y-7."
+ },
+ "F06": {
+  "value": "no",
+  "quote": ""
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "no",
+  "quote": "Revenue from these services is recognized over time as the services are performed"
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "no",
+  "quote": "accepts returns only for defective or non‑conforming products due to manufacturing or workmanship issues"
+ },
+ "F11": {
+  "value": "yes",
+  "quote": "entered into two Share Exchange Agreements with related parties whereby it issued 4,210 shares of its Series [NAME] Preferred Stock in exchange for an aggregate of 42,100,000 shares of its common stock"
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "yes",
+  "quote": "Effective January 14, Y0, [COMPANY] appointed [NAME] as President, Chief Executive Officer, Principal Executive Officer, and member of the Board of Directors."
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": "While no current lawsuits are filed against [COMPANY], there is a possibility that claims may arise in the future."
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "no",
+  "quote": ""
+ },
+ "F20": {
+  "value": "no",
+  "quote": "We may pay bonuses as determined by the Board of Directors from time to time based on performance, which may either be paid in stock or cash at the Board's discretion."
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "On September 18, Y0, the Company issued a $150,000 convertible promissory note to [NAME] Capital LLC bearing interest at 6% per annum and maturing on September 18, Y+1."
+ },
+ "F22": {
+  "value": "yes",
+  "quote": "On June 23, Y0, through its wholly owned subsidiary [NAME], Inc., [COMPANY] acquired 100% of the equity interests of [NAME] Group Limited"
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "other"
+  ],
+  "quote": "Critical Audit Matter ... Auditing management’s evaluation of a going concern can be a significant judgment"
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "no",
+  "quote": "the Company operates as a single reportable segment under the guidelines of ASC 280, Segment Reporting."
+ }
+}

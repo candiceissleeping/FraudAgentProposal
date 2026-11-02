@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "yes",
+  "quote": "management determined that we did not maintain effective internal control over financial reporting as of December"
+ },
+ "F02": {
+  "value": "staffing_or_segregation_of_duties",
+  "quote": "lack of sufficient accounting personnel to manage the Company’s financial accounting process including lack of proper preparation"
+ },
+ "F03": {
+  "value": "not_required",
+  "quote": "This Report does not include an attestation report"
+ },
+ "F04": {
+  "value": "yes",
+  "quote": "These conditions raise substantial doubt about the Company’s ability to continue as a going concern."
+ },
+ "F05": {
+  "value": "yes",
+  "quote": "since Y-3 (such date takes into account the acquisition of the attest business of [NAME]"
+ },
+ "F06": {
+  "value": "no",
+  "quote": ""
+ },
+ "F07": {
+  "value": "restatement",
+  "quote": "the Company has restated its ... Y-1 consolidated financial statements to correct misstatements."
+ },
+ "F08": {
+  "value": "no",
+  "quote": "Revenue from these contracts is recognized when the Company’s"
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "yes",
+  "quote": "the Company recorded a capital contribution"
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "no",
+  "quote": "our Senior Vice President of Finance since October Y-3 and became Chief Financial Officer and Director in November Y-2."
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": ""
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "yes",
+  "quote": "and [NAME] waived the provision that such amount had to be deposited within 60 days of the closing date of the Loan Agreement."
+ },
+ "F20": {
+  "value": "no",
+  "quote": ""
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "the sale of common stock under the Common Stock Purchase Agreement of"
+ },
+ "F22": {
+  "value": "yes",
+  "quote": "The transactions contemplated by the [NAME] were consummated at a closing held on June 20, Y0."
+ },
+ "F23": {
+  "value": "yes",
+  "quote": "combinations. On February 15, Y-3, we consummated the Initial Public Offering of 7,500,000 units"
+ },
+ "F24": {
+  "value": [
+   "none_or_na"
+  ],
+  "quote": ""
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "no",
+  "quote": ""
+ }
+}

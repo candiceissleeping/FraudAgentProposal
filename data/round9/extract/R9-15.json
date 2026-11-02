@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "yes",
+  "quote": "Management identified a material weakness in internal controls over financial reporting related to the over-accrual of"
+ },
+ "F02": {
+  "value": "financial_close_or_reporting",
+  "quote": "Management identified a material weakness in internal controls over financial reporting related to the over-accrual of ... legal expenses for two law firms during the year."
+ },
+ "F03": {
+  "value": "not_required",
+  "quote": "As a smaller reporting company, our management’s report was not subject to attestation by our registered"
+ },
+ "F04": {
+  "value": "yes",
+  "quote": "the Company’s management has concluded that these conditions raise substantial doubt about our ability to continue as a going concern."
+ },
+ "F05": {
+  "value": "no",
+  "quote": "We have served as the Company’s auditor since Y-8."
+ },
+ "F06": {
+  "value": "no",
+  "quote": ""
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "no",
+  "quote": ""
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "yes",
+  "quote": "in the years ended April 30, Y0 and Y-1, respectively, for use of the software that runs the website ... in unpaid invoices as of April 20, Y0."
+ },
+ "F12": {
+  "value": 20,
+  "quote": "the year ended April 30, Y0, the Company had one customer that constituted 20% of its revenues, and a second customer that accounted"
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "no",
+  "quote": ""
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": ""
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "no",
+  "quote": ""
+ },
+ "F20": {
+  "value": "no",
+  "quote": ""
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "an original issue discount of $25,040, and the Company received net proceeds of $150,000 after deducting legal and due diligence fees."
+ },
+ "F22": {
+  "value": "no",
+  "quote": ""
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "other"
+  ],
+  "quote": "Valuation of Investments ... statements, the Company has investments in several entities which require the Company to initially value based on offering prices that"
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "no",
+  "quote": ""
+ }
+}

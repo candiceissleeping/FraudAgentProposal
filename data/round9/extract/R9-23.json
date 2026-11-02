@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "no",
+  "quote": "Management’s assessment did not determine any material weaknesses within the Company’s internal control structure."
+ },
+ "F02": {
+  "value": "na",
+  "quote": ""
+ },
+ "F03": {
+  "value": "not_required",
+  "quote": "The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting."
+ },
+ "F04": {
+  "value": "no",
+  "quote": ""
+ },
+ "F05": {
+  "value": "no",
+  "quote": "We have served as the Company's auditor since Y-30."
+ },
+ "F06": {
+  "value": "no",
+  "quote": "Item 9.  Changes in and [NAME] With [NAME] on Accounting and Financial Disclosure. ... None."
+ },
+ "F07": {
+  "value": "none",
+  "quote": "No reclassifications have been made to the prior years’ financial statements to place them on a comparable basis with the current presentation."
+ },
+ "F08": {
+  "value": "no",
+  "quote": ""
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "no",
+  "quote": "Such transactions were made in the ordinary course of business on substantially the same terms and conditions, including interest rates and collateral, as those prevailing at the same time for comparable transactions with other customers"
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "no",
+  "quote": "Executive Vice President and Chief Financial Officer of the Company and the Bank since January Y-6"
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": "There are no material pending legal proceedings, other than ordinary routine litigation incidental to the business, to which the Company is a party or of which any of its property is subject."
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "no",
+  "quote": ""
+ },
+ "F20": {
+  "value": "no",
+  "quote": "The Company’s financial and operating performance, measured by attainment of strategic objectives and operating results;"
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "Advances on short-term line of credit  4,000  10,000"
+ },
+ "F22": {
+  "value": "no",
+  "quote": "The transaction closed and the merger of [NAME] with and into the Bank became effective on September 1, Y-1."
+ },
+ "F23": {
+  "value": "no",
+  "quote": "The Company was incorporated as a [NAME] corporation on November 2, Y-10. The Company was formed as a business combination shell company"
+ },
+ "F24": {
+  "value": [
+   "reserves_or_estimates"
+  ],
+  "quote": "We identified the Company’s estimate of the [NAME] as a critical audit matter."
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "no",
+  "quote": "The [NAME] regularly assesses performance of the aggregated single operating and reporting segment"
+ }
+}

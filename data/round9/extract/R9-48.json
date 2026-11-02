@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "no",
+  "quote": "management has concluded that our internal control over financial reporting was effective as of the end of the fiscal year"
+ },
+ "F02": {
+  "value": "na",
+  "quote": ""
+ },
+ "F03": {
+  "value": "not_required",
+  "quote": "The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting."
+ },
+ "F04": {
+  "value": "no",
+  "quote": "We anticipate that our existing working capital will be adequate to fund our operating, investing and financing needs for at least the next twelve months."
+ },
+ "F05": {
+  "value": "no",
+  "quote": "We have served as the Company's auditor since Y-2."
+ },
+ "F06": {
+  "value": "no",
+  "quote": ""
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "yes",
+  "quote": "generally result in the transfer of control over time therefore, we recognize revenue based on the proportion of labor hours expended ... The majority of revenue in Y-1 and Y0 related to the category of services."
+ },
+ "F09": {
+  "value": "no",
+  "quote": "Contract assets and contract liabilities recorded on the consolidated balance sheets related to continuing operations were immaterial as of December 31, Y0, Y-1 and Y-2."
+ },
+ "F10": {
+  "value": "no",
+  "quote": "We do not use distributors for our [NAME] products."
+ },
+ "F11": {
+  "value": "no",
+  "quote": ""
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "no",
+  "quote": ""
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": ""
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "no",
+  "quote": ""
+ },
+ "F20": {
+  "value": "no",
+  "quote": ""
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "The net increase was primarily the result of $7.9 million in net proceeds from our registered direct offerings"
+ },
+ "F22": {
+  "value": "no",
+  "quote": ""
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "other"
+  ],
+  "quote": "We identified the nature of audit procedures related to the discontinued operations of [NAME] as a critical audit matter."
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "yes",
+  "quote": "the consolidated statement of operations for all periods presented has been adjusted to reflect the presentation of the [NAME] businesses as discontinued operations"
+ }
+}
