@@ -1,0 +1,10 @@
+[
+ {"name": "Netcapital", "cik": 1414767, "action": "SEC v. Netcapital Inc. et al., LR-26607 (2026-08-10); non-reliance FY2022-FY2025",
+  "y0_acc": "0001493152-24-029454", "y0_period": "2024-04-30", "y1_acc": "0001903596-23-000560", "y1_period": "2023-04-30",
+  "match_sic": null},
+ {"name": "Kubient", "cik": 1729750, "action": "SEC v. Roberts; SEC v. Weiss and Coen (2024-09-16); $1.3M fabricated KAI revenue in FY2020",
+  "y0_acc": "0001104659-21-043439", "y0_period": "2020-12-31", "y1_acc": null, "y1_period": null, "match_sic": null},
+ {"name": "C-Bond Systems", "cik": 1421636, "action": "Admin. proc. 33-11285 (2024-05); FY2020 revenue overstated >15%, reversed in 10-K/A 2022-04",
+  "y0_acc": "0001213900-21-021575", "y0_period": "2020-12-31", "y1_acc": "0001213900-20-007368", "y1_period": "2019-12-31",
+  "match_sic": "2890"}
+]

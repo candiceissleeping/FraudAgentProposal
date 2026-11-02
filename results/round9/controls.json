@@ -1,0 +1,53 @@
+[
+ {
+  "case": "Netcapital",
+  "case_cik": 1414767,
+  "case_sic": "6199",
+  "match_sic": "6199",
+  "case_assets": 41440970,
+  "control": "MARYGOLD COMPANIES, INC.",
+  "control_cik": 1005101,
+  "control_sic": "6199",
+  "sic_digits": 4,
+  "control_assets": 32899000,
+  "pool_size": 7,
+  "y0_acc": "0001493152-24-037019",
+  "y0_period": "20240630",
+  "y1_acc": "0001437749-23-026697",
+  "y1_period": "20230630"
+ },
+ {
+  "case": "Kubient",
+  "case_cik": 1729750,
+  "case_sic": "7373",
+  "match_sic": "7373",
+  "case_assets": 27362549,
+  "control": "STREAMLINE HEALTH SOLUTIONS INC.",
+  "control_cik": 1008586,
+  "control_sic": "7373",
+  "sic_digits": 4,
+  "control_assets": 25977000,
+  "pool_size": 26,
+  "y0_acc": "0001493152-21-009467",
+  "y0_period": "20210131",
+  "y1_acc": "0001493152-20-006930",
+  "y1_period": "20200131"
+ },
+ {
+  "case": "C-Bond Systems",
+  "case_cik": 1421636,
+  "case_sic": "6799",
+  "match_sic": "2890",
+  "case_assets": 584140,
+  "control": "ENERTECK CORP",
+  "control_cik": 1128353,
+  "control_sic": "2890",
+  "sic_digits": 4,
+  "control_assets": 374970,
+  "pool_size": 9,
+  "y0_acc": "0001477932-21-001865",
+  "y0_period": "20201231",
+  "y1_acc": "0001477932-20-002669",
+  "y1_period": "20191231"
+ }
+]
