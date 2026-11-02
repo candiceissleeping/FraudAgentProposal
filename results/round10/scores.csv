@@ -1,0 +1,21 @@
+level,report,pid,company,group,risk_score,recognised,guess,confidence,knows_later_problems
+L0,report_01,R03T,Apex Global Brands,treatment,28,true,Cherokee Inc. (later Apex Global Brands),97,false
+L0,report_02,R08C,Coffee Holding,control,15,true,Coffee Holding Co. Inc.,97,false
+L0,report_03,R03C,Differential Brands,control,27,true,Differential Brands Group Inc.,97,false
+L0,report_04,R01T,Pareteum,treatment,85,true,Pareteum Corporation,99,true
+L0,report_05,R06C,Axcelis,control,18,true,Axcelis Technologies Inc.,99,false
+L0,report_06,R07C,lululemon,control,5,true,lululemon athletica inc.,99,false
+L0,report_07,R02C,Rocky Brands,control,8,true,Rocky Brands Inc.,99,false
+L0,report_08,R01C,Agilysys,control,10,true,Agilysys Inc.,99,false
+L0,report_09,R09T,Lottery.com,treatment,88,true,Lottery.com Inc.,97,true
+L0,report_10,R05C,BWX Technologies,control,7,true,BWX Technologies Inc.,98,false
+L0,report_11,R06T,Manitex,treatment,60,true,Manitex International Inc.,99,true
+L0,report_12,R04C,Orion Energy Systems,control,25,true,Orion Energy Systems Inc.,99,false
+L0,report_13,R05T,Power Solutions Intl,treatment,72,true,Power Solutions International Inc.,97,true
+L0,report_14,R07T,Sequential Brands,treatment,50,true,Sequential Brands Group Inc.,99,true
+L0,report_15,R02T,Tandy Leather,treatment,45,true,Tandy Leather Factory Inc.,99,true
+L0,report_16,R04T,Revolution Lighting,treatment,62,true,Revolution Lighting Technologies Inc.,97,true
+L0,report_17,R10T,RTI Surgical,treatment,55,true,RTI Surgical Inc.,98,true
+L0,report_18,R10C,Exactech,control,12,true,Exactech Inc.,99,false
+L0,report_19,R09C,Enfusion,control,12,true,Enfusion Inc.,98,false
+L0,report_20,R08T,HF Foods,treatment,68,true,HF Foods Group Inc.,97,true
