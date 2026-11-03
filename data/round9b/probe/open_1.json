@@ -1,0 +1,20 @@
+{
+  "R9B-03": {
+    "guesses": ["Better Choice Company", "Alta Equipment Group", "Splash Beverage Group"],
+    "fiscal_year_guess": "2020",
+    "confidence": 5,
+    "basis": "Wholesale trade, public via SPAC/reverse merger within 3y, smaller filer (no ICFR audit), ITGC weakness plus restatement and auditor change, ~2.3x sales growth with roughly halved gross margin and a narrowing net loss; candidates are consumer-products distributors that went public by reverse merger around 2019-2020. Speculative."
+  },
+  "R9B-01": {
+    "guesses": [],
+    "fiscal_year_guess": "",
+    "confidence": 0,
+    "basis": "Clean financial-sector filer (no weaknesses, no auditor change, reserve/estimate CAM, non-GAAP emphasis); no distinguishing facts."
+  },
+  "R9B-04": {
+    "guesses": [],
+    "fiscal_year_guess": "",
+    "confidence": 0,
+    "basis": "Financial-sector filer with auditor change, a government investigation and a segment change, but too generic to pin down."
+  }
+}
