@@ -1,0 +1,4 @@
+d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed  data/round10/raw/aaer_dates.rda
+dfc558f3e84cac460c676e839cccdc9ed3c939241b7fa3e18e669722fbf2b8b2  data/round10/raw/aaer_firm_year.rda
+ed4cefd9db2a23d0a13911d9f482fc755d3dcf6c9be0bc051af95ddcae5b286f  data/round10/raw/data_FraudDetection_JAR2020.csv
+43905d85cce236b8b0065017eda7b3443ffa49c96dffdc76e53d4cb24db06c22  data/round10/raw/gvkey_ciks.rda
