@@ -84,6 +84,17 @@ def evaluate(args):
         ok1 &= len(hits) <= 3
         rep.append(f"- {os.path.basename(f)}：**{len(hits)}/{len(cl)}**（隨機期望 1.0，單尾 p = {p:.3g}）{hits}")
     rep.append(f"- D1 判定（兩次都 ≤ 3）：{'通過' if ok1 else '未通過'}")
+    files_b = sorted(glob.glob(f"{DATA}/probe_L2b/closed_*.json"))
+    if files_b:
+        rep += ["", "## 9d-b L2b 卡（不顯示可計算項數）封閉式辨識", ""]
+        okb = True
+        for f in files_b:
+            cl = json.load(open(f))
+            hits = [key[c]["name"] for c, d in cl.items() if c in key and round8._name_hit(d.get("assigned", ""), key[c]["name"])]
+            p = round8.poisson_binomial_tail([1 / 32] * len(cl), len(hits))
+            okb &= len(hits) <= 3
+            rep.append(f"- {os.path.basename(f)}：**{len(hits)}/{len(cl)}**（隨機期望 1.0，單尾 p = {p:.3g}）{hits}")
+        rep.append(f"- 判定（兩次都 ≤ 3）：{'通過' if okb else '未通過'}")
     # D2: round 9 L2 replicates
     saved = round9.DATA, round9.OUT, round9.PREFIX
     round9.DATA, round9.OUT, round9.PREFIX = "data/round9", "results/round9", "R9"
