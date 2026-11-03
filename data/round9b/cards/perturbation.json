@@ -1,0 +1,54 @@
+{
+ "R9B-03": {
+  "kind": "neutralised",
+  "changed": {
+   "F01": "no",
+   "F02": "na",
+   "F05": "no",
+   "F07": "none"
+  }
+ },
+ "R9B-04": {
+  "kind": "neutralised",
+  "changed": {
+   "F05": "no",
+   "F18": "no"
+  }
+ },
+ "R9B-05": {
+  "kind": "neutralised",
+  "changed": {
+   "F11": "no"
+  }
+ },
+ "R9B-01": {
+  "kind": "red_flags_added",
+  "changed": {
+   "F01": "yes",
+   "F02": "revenue",
+   "F16": "yes",
+   "F14": "yes",
+   "F03": "adverse"
+  }
+ },
+ "R9B-02": {
+  "kind": "red_flags_added",
+  "changed": {
+   "F01": "yes",
+   "F02": "revenue",
+   "F16": "yes",
+   "F14": "yes",
+   "F03": "adverse"
+  }
+ },
+ "R9B-06": {
+  "kind": "red_flags_added",
+  "changed": {
+   "F01": "yes",
+   "F02": "revenue",
+   "F16": "yes",
+   "F14": "yes",
+   "F03": "adverse"
+  }
+ }
+}

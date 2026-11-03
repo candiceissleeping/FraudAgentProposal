@@ -1,0 +1,26 @@
+{
+ "R9B-01": {
+  "claims": 7,
+  "quote_failures": 0
+ },
+ "R9B-02": {
+  "claims": 14,
+  "quote_failures": 0
+ },
+ "R9B-03": {
+  "claims": 18,
+  "quote_failures": 0
+ },
+ "R9B-04": {
+  "claims": 8,
+  "quote_failures": 0
+ },
+ "R9B-05": {
+  "claims": 12,
+  "quote_failures": 0
+ },
+ "R9B-06": {
+  "claims": 13,
+  "quote_failures": 0
+ }
+}

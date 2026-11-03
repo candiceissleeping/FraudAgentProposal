@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "no",
+  "quote": "our management concluded that our internal control over financial reporting was effective as of December 31, Y0."
+ },
+ "F02": {
+  "value": "na",
+  "quote": ""
+ },
+ "F03": {
+  "value": "unqualified",
+  "quote": "In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, Y0"
+ },
+ "F04": {
+  "value": "no",
+  "quote": "will be sufficient to meet our liquidity needs for the foreseeable future."
+ },
+ "F05": {
+  "value": "no",
+  "quote": "We have served as the Company’s auditor since Y-12."
+ },
+ "F06": {
+  "value": "no",
+  "quote": ""
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "no",
+  "quote": "we satisfy our performance obligation under such contracts when we transfer control of the product to the customer."
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "no",
+  "quote": "Substantially all customer returns relate to products that are returned under manufacturers’ warranty obligations."
+ },
+ "F11": {
+  "value": "yes",
+  "quote": "Our joint ventures with [NAME] also sell [NAME] products to [NAME] and its affiliates."
+ },
+ "F12": {
+  "value": 2,
+  "quote": "No single customer in Y0, Y-1 or Y-2 represented more than 2% of our consolidated revenues."
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "no",
+  "quote": ""
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": "We are involved in litigation incidental to the operation of our business."
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "no",
+  "quote": "We believe we were in compliance with all covenants at December 31, Y0."
+ },
+ "F20": {
+  "value": "no",
+  "quote": ""
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "On August 6, Y0, we entered into a sales agreement with [NAME] & Co. Inc. (“[NAME]”), which enables the Company to issue and sell shares of Common stock"
+ },
+ "F22": {
+  "value": "yes",
+  "quote": "On April 9, Y0, we acquired certain assets and assumed certain liabilities comprising the [NAME] distribution business of [NAME] Equipment Corporation, an [NAME] distributor operating from 32 locations in [NAME]."
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "inventory"
+  ],
+  "quote": "We identified the evaluation of inventory net realizable value adjustments related to excess and slow-moving inventory as a critical audit matter"
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "no",
+  "quote": "The following table presents our revenues disaggregated by primary geographical regions and major product lines within our single reporting segment"
+ }
+}

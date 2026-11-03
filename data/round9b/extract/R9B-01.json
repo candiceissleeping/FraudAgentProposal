@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "no",
+  "quote": "Based on this assessment, management has determined that the Company’s internal control over financial reporting as of December 31, Y0, was effective."
+ },
+ "F02": {
+  "value": "na",
+  "quote": ""
+ },
+ "F03": {
+  "value": "unqualified",
+  "quote": "Their report, which expresses an unqualified opinion on the effectiveness of the Company’s internal control over financial reporting as of December 31, Y0"
+ },
+ "F04": {
+  "value": "no",
+  "quote": ""
+ },
+ "F05": {
+  "value": "no",
+  "quote": "We have served as the Company’s auditor since Y-3."
+ },
+ "F06": {
+  "value": "no",
+  "quote": ""
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "no",
+  "quote": ""
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "no",
+  "quote": "These loans were made on substantially the same terms, including rates and collateral, as those prevailing at the time made for comparable transactions with other unrelated persons."
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "no",
+  "quote": ""
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": "Neither we nor any of our subsidiaries are currently engaged in any legal proceedings that are expected to have a material adverse effect on our"
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "no",
+  "quote": ""
+ },
+ "F20": {
+  "value": "no",
+  "quote": ""
+ },
+ "F21": {
+  "value": "no",
+  "quote": ""
+ },
+ "F22": {
+  "value": "no",
+  "quote": ""
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "reserves_or_estimates"
+  ],
+  "quote": "We identified the [NAME] as a critical audit matter. The principal considerations for our determination included the high degree of judgment and subjectivity in auditing management’s estimate of the [NAME]"
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "yes",
+  "quote": "The adjusted net income and diluted EPS measures are non-GAAP financial measures that provide information that management believes is useful to investors in understanding our operating performance and trends"
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "no",
+  "quote": ""
+ }
+}
