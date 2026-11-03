@@ -154,3 +154,10 @@ C 組另外分開問兩題：`knows_accounting_problems`、`knows_sec_enforcemen
 
 ## 10. 修訂紀錄
 - 2026-11-03：初版，於建立樣本、執行任何 LLM 前提交
+- 2026-11-03（執行任何 LLM 前；使用者決定）：**主模型改為 Llama-3-70B-Instruct**。理由：OpenAI 停用公告表列出 `gpt-4-turbo-2024-04-09` 已於 2026-10-23 停用（developers.openai.com/api/docs/deprecations；本環境無法連到 OpenAI 即時確認），論文的 GPT-4 zero-shot 基準因此無法以原模型重現。Llama-3-70B-Instruct 是論文使用的另一個模型，權重公開、不會停用，訓練截止 2023-12，與 GPT-4 Turbo 同期。修改內容：
+  - §5 的「主模型」改為 Llama-3-70B-Instruct；原「GPT-4 不可用時改以 Opus 5.5 判定」的條款作廢
+  - R1、R2、R3、R5 的主判定改以 Llama-3-70B-Instruct 為準（R5 仍依原規定只以 Opus 5.5 判定）；判讀標準不變
+  - R4 改為 AUC_C(claude-opus-5-5) − AUC_C(Llama-3-70B-Instruct)，標準不變
+  - R0 判為「無法以原模型檢驗」。Llama-3-70B 的 A 組 AUC 與 0.681 並列，只作描述性比較，不稱為復刻成功或失敗（0.681 是 GPT-4 的數字）
+  - 推論管道與固定版本 ID 待確認，確認後補記於此
+  - 「原基準發表數月內即無法重現」列為一項發現，寫進 review.md 與 PROPOSAL.md
