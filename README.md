@@ -44,8 +44,12 @@ GE 原本在名單中，但其 FY2016 10-K 在資料集中為空（年報以引�
 - 第九輪 d（16 對 AAER，模型記得結果）：[`results/round9d/review.md`](results/round9d/review.md)
   - 加名稱：12/16 家 AAER 公司被說出後來出事，AUC 0.63 → 0.78（記憶 +0.15）；不加名稱：0/64 知道
   - 給名單辨識：L2 4–7/32 ✗，L3（只剩紅旗總數）0、2/32 ✓；L3 AUC 0.62（不顯著）
-- **第九輪 e（最終判定）**：[`results/round9e/review.md`](results/round9e/review.md)
+- 第九輪 e：[`results/round9e/review.md`](results/round9e/review.md)
   - L3 紅旗總數卡：給名單 1/54、0/32、2/32 認不出；時間外 AUC 0.76（0.62–0.88）；控制內容後與記憶偏相關 −0.09（加名稱 +0.70）
+- **第九輪 f（擴大 AAER 樣本，最終判定）**：[`results/round9f/review.md`](results/round9f/review.md)
+  - 新增 27 對 2017–2022 AAER；L3 卡給名單 1/54、1/54；評分者 0/86 猜名稱、0/86 知道結果
+  - 合併 43 對 AUC 0.71（0.60–0.81，顯著）；內容相同的卡 AAER 與對照只差 0.19 分（殘差 AUC 0.51）
+  - 流程：`results/round9f/protocol.md` → `python -m experiment.edgar_risk.round9f cases / controls / build / xbrl` → 抽取 agent → `verify` → `cards` → 封閉式探針、評分 agent → `evaluate`
 - **提案：[`PROPOSAL.md`](PROPOSAL.md)**
 
 ## 流程

@@ -1,0 +1,272 @@
+{
+ "R9F-01": {
+  "assigned": "STRYKER CORP",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-02": {
+  "assigned": "INTERFACE INC",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-03": {
+  "assigned": "MAXWELL TECHNOLOGIES INC",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-04": {
+  "assigned": "HERC HOLDINGS INC",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-05": {
+  "assigned": "ALEXANDRIA REAL ESTATE EQUITIES, INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-06": {
+  "assigned": "AZENTA, INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-07": {
+  "assigned": "AKORN INC",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-08": {
+  "assigned": "A10 NETWORKS, INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-09": {
+  "assigned": "AIR PRODUCTS & CHEMICALS, INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-10": {
+  "assigned": "UNITED THERAPEUTICS CORP",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-11": {
+  "assigned": "ANDERSONS, INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-12": {
+  "assigned": "APEX GLOBAL BRANDS INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-13": {
+  "assigned": "PYXUS INTERNATIONAL, INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-14": {
+  "assigned": "COMSCORE, INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-15": {
+  "assigned": "ULTRALIFE CORP",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-16": {
+  "assigned": "TUPPERWARE BRANDS CORP",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-17": {
+  "assigned": "FLUOR CORP",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-18": {
+  "assigned": "IGEN NETWORKS CORP",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-19": {
+  "assigned": "REVOLUTION LIGHTING TECHNOLOGIES, INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-20": {
+  "assigned": "OVERSEAS SHIPHOLDING GROUP INC",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-21": {
+  "assigned": "CHS INC",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-22": {
+  "assigned": "DHI GROUP, INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-23": {
+  "assigned": "SUPERIOR GROUP OF COMPANIES, INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-24": {
+  "assigned": "PROTALIX BIOTHERAPEUTICS, INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-25": {
+  "assigned": "SYNCHRONOSS TECHNOLOGIES INC",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-26": {
+  "assigned": "ALBANY INTERNATIONAL CORP /DE/",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-27": {
+  "assigned": "SANTANDER CONSUMER USA HOLDINGS INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-28": {
+  "assigned": "APPLE INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-29": {
+  "assigned": "NELNET INC",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-30": {
+  "assigned": "SUPER MICRO COMPUTER, INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-31": {
+  "assigned": "CAPSTONE ENERGY PLUS, INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-32": {
+  "assigned": "QUANTUM CORP /DE/",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-33": {
+  "assigned": "PPG INDUSTRIES INC",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-34": {
+  "assigned": "BAXTER INTERNATIONAL INC",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-35": {
+  "assigned": "BORGWARNER INC",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-36": {
+  "assigned": "WEX INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-37": {
+  "assigned": "ORION ENERGY SYSTEMS, INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-38": {
+  "assigned": "VEREIT, INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-39": {
+  "assigned": "AUTOLIV INC",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-40": {
+  "assigned": "TIDEWATER INC",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-41": {
+  "assigned": "MANITEX INTERNATIONAL, INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-42": {
+  "assigned": "AGILYSYS INC",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-43": {
+  "assigned": "SYSCO CORP",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-44": {
+  "assigned": "PARETEUM CORP",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-45": {
+  "assigned": "STONEMOR PARTNERS LP",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-46": {
+  "assigned": "ENTEGRIS INC",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-47": {
+  "assigned": "WW INTERNATIONAL, INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-48": {
+  "assigned": "DARKPULSE, INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-49": {
+  "assigned": "EPAM SYSTEMS, INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-50": {
+  "assigned": "MSCI INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-51": {
+  "assigned": "POWER SOLUTIONS INTERNATIONAL, INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-52": {
+  "assigned": "KBR, INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-53": {
+  "assigned": "OSIRIS THERAPEUTICS, INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ },
+ "R9F-54": {
+  "assigned": "OMNICOM GROUP INC.",
+  "confidence": 3,
+  "basis": "Card has only red-flag/numeric-signal counts; assigned by rank-ordering prior expected distress/misreporting severity, essentially a guess"
+ }
+}

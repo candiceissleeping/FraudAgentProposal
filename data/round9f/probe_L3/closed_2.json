@@ -1,0 +1,272 @@
+{
+ "R9F-01": {
+  "assigned": "SYSCO CORP",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (1 disclosure flags, 0/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-02": {
+  "assigned": "WW INTERNATIONAL, INC.",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (4 disclosure flags, 0/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-03": {
+  "assigned": "COMSCORE, INC.",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (5 disclosure flags, 2/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-04": {
+  "assigned": "IGEN NETWORKS CORP",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (4 disclosure flags, 3/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-05": {
+  "assigned": "ALEXANDRIA REAL ESTATE EQUITIES, INC.",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (2 disclosure flags, 0/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-06": {
+  "assigned": "WEX INC.",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (3 disclosure flags, 0/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-07": {
+  "assigned": "STONEMOR PARTNERS LP",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (6 disclosure flags, 0/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-08": {
+  "assigned": "ORION ENERGY SYSTEMS, INC.",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (4 disclosure flags, 2/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-09": {
+  "assigned": "STRYKER CORP",
+  "confidence": 5,
+  "basis": "Card has only aggregate counts (0 disclosure flags, 0/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-10": {
+  "assigned": "AUTOLIV INC",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (2 disclosure flags, 1/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-11": {
+  "assigned": "DHI GROUP, INC.",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (4 disclosure flags, 0/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-12": {
+  "assigned": "CAPSTONE ENERGY PLUS, INC.",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (5 disclosure flags, 1/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-13": {
+  "assigned": "PYXUS INTERNATIONAL, INC.",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (5 disclosure flags, 1/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-14": {
+  "assigned": "KBR, INC.",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (5 disclosure flags, 0/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-15": {
+  "assigned": "FLUOR CORP",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (3 disclosure flags, 4/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-16": {
+  "assigned": "VEREIT, INC.",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (5 disclosure flags, 1/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-17": {
+  "assigned": "INTERFACE INC",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (4 disclosure flags, 1/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-18": {
+  "assigned": "QUANTUM CORP /DE/",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (5 disclosure flags, 1/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-19": {
+  "assigned": "SYNCHRONOSS TECHNOLOGIES INC",
+  "confidence": 5,
+  "basis": "Card has only aggregate counts (9 disclosure flags, 1/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-20": {
+  "assigned": "HERC HOLDINGS INC",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (5 disclosure flags, 0/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-21": {
+  "assigned": "ULTRALIFE CORP",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (4 disclosure flags, 0/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-22": {
+  "assigned": "SUPERIOR GROUP OF COMPANIES, INC.",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (3 disclosure flags, 2/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-23": {
+  "assigned": "EPAM SYSTEMS, INC.",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (3 disclosure flags, 0/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-24": {
+  "assigned": "A10 NETWORKS, INC.",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (5 disclosure flags, 0/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-25": {
+  "assigned": "DARKPULSE, INC.",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (6 disclosure flags, 0/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-26": {
+  "assigned": "ENTEGRIS INC",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (3 disclosure flags, 0/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-27": {
+  "assigned": "AGILYSYS INC",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (5 disclosure flags, 0/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-28": {
+  "assigned": "APPLE INC.",
+  "confidence": 5,
+  "basis": "Card has only aggregate counts (0 disclosure flags, 0/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-29": {
+  "assigned": "CHS INC",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (4 disclosure flags, 0/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-30": {
+  "assigned": "OSIRIS THERAPEUTICS, INC.",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (7 disclosure flags, 3/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-31": {
+  "assigned": "TUPPERWARE BRANDS CORP",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (5 disclosure flags, 2/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-32": {
+  "assigned": "MAXWELL TECHNOLOGIES INC",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (5 disclosure flags, 1/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-33": {
+  "assigned": "AIR PRODUCTS & CHEMICALS, INC.",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (1 disclosure flags, 1/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-34": {
+  "assigned": "SANTANDER CONSUMER USA HOLDINGS INC.",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (5 disclosure flags, 0/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-35": {
+  "assigned": "AZENTA, INC.",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (3 disclosure flags, 0/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-36": {
+  "assigned": "ANDERSONS, INC.",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (4 disclosure flags, 0/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-37": {
+  "assigned": "OVERSEAS SHIPHOLDING GROUP INC",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (5 disclosure flags, 1/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-38": {
+  "assigned": "PROTALIX BIOTHERAPEUTICS, INC.",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (5 disclosure flags, 0/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-39": {
+  "assigned": "ALBANY INTERNATIONAL CORP /DE/",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (3 disclosure flags, 0/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-40": {
+  "assigned": "TIDEWATER INC",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (4 disclosure flags, 1/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-41": {
+  "assigned": "MANITEX INTERNATIONAL, INC.",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (5 disclosure flags, 1/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-42": {
+  "assigned": "APEX GLOBAL BRANDS INC.",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (4 disclosure flags, 4/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-43": {
+  "assigned": "OMNICOM GROUP INC.",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (1 disclosure flags, 2/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-44": {
+  "assigned": "PARETEUM CORP",
+  "confidence": 5,
+  "basis": "Card has only aggregate counts (10 disclosure flags, 2/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-45": {
+  "assigned": "REVOLUTION LIGHTING TECHNOLOGIES, INC.",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (8 disclosure flags, 1/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-46": {
+  "assigned": "UNITED THERAPEUTICS CORP",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (3 disclosure flags, 1/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-47": {
+  "assigned": "MSCI INC.",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (2 disclosure flags, 0/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-48": {
+  "assigned": "SUPER MICRO COMPUTER, INC.",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (8 disclosure flags, 2/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-49": {
+  "assigned": "NELNET INC",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (3 disclosure flags, 2/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-50": {
+  "assigned": "BORGWARNER INC",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (2 disclosure flags, 1/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-51": {
+  "assigned": "POWER SOLUTIONS INTERNATIONAL, INC.",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (7 disclosure flags, 2/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-52": {
+  "assigned": "BAXTER INTERNATIONAL INC",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (4 disclosure flags, 2/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-53": {
+  "assigned": "AKORN INC",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (6 disclosure flags, 1/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ },
+ "R9F-54": {
+  "assigned": "PPG INDUSTRIES INC",
+  "confidence": 3,
+  "basis": "Card has only aggregate counts (2 disclosure flags, 0/4 numeric); no identifying facts. Rank-matched by flag severity to company's prior known accounting-problem profile; essentially a guess."
+ }
+}

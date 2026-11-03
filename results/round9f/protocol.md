@@ -28,3 +28,4 @@
 - 2026-11-03：初版，於篩選任何新案例前提交
 - 2026-11-03（篩選前）：(1) 先用程式排除文字含 FCPA／賄賂（26 筆）或完全沒有錯報關鍵字（restat/overstat/misstat/GAAP 等，20 筆）、或下載不到全文（5 筆）的 AAER，記錄於 `data/round9f/screen/prescreen_log.tsv`；(2) 剩下 82 筆每 10 筆一批交給一個 agent 篩選（提示：`data/round9f/screen_prompt.md`），而非每筆一個 agent
 - 2026-11-03（篩選後、建立任何卡片前）：名稱 → CIK 的查詢由 EDGAR 公司搜尋改為 SEC `cik-lookup-data.txt`（含舊名），名稱正規化後完全比對，取第一個有 10-K 的 CIK。原方法因標點（如「Inc.」）而對 25 家查無結果，屬機械性錯誤
+- 2026-11-03（評估後，不改變任何檢驗）：新增兩個事後描述性分析，記錄於 `review.md` §3–4：(1) 依 L3 卡內容（紅旗數, 警訊數）分組，比較組內 AAER 與對照分數；(2) 排除規模比 > 3 倍的一對（Super Micro／Apple）重算合併 AUC
