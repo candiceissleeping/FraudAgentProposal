@@ -21,13 +21,13 @@
 |---|---|---|---|
 | D4 J0-L2（L2 卡，無名稱），16 對 | 0.63 | 0.42–0.81 | 9 / 1 / 6 |
 | J0-L2，只看截止前 AAER（13 對） | 0.59 | 0.35–0.80 | 6 / 1 / 6 |
-| J1-L2（L2 卡 + 真實名稱），16 對 | 0.80 | 0.59–0.97 | 4 / 0 / 2 |
-| J1-L2，只看截止前 AAER（13 對） | 0.84 | 0.62–1.00 | 4 / 0 / 2 |
+| J1-L2（L2 卡 + 真實名稱），16 對 | 0.78 | 0.59–0.93 | 12 / 1 / 3 |
+| J1-L2，只看截止前 AAER（13 對） | 0.76 | 0.56–0.93 | 9 / 1 / 3 |
 
 - D3 J0-L2 自述知道後來有問題：**0/32** []；有猜名稱：0 []
-- 對照：J1-L2（看得到名稱）自述知道後來有問題：8/20（問題組 7）
-- D5 記憶效應指數（16 對）：問題組 +3.7，對照組 -8.5 → **+12.2**（95% CI +4.3 至 +20.4）
-- D5 記憶效應指數（截止前 13 對）：問題組 +3.4，對照組 -8.5 → **+12.0**（95% CI +3.3 至 +20.9）
+- 對照：J1-L2（看得到名稱）自述知道後來有問題：13/32（問題組 12）
+- D5 記憶效應指數（16 對）：問題組 +3.1，對照組 -7.7 → **+10.8**（95% CI +4.9 至 +16.9）
+- D5 記憶效應指數（截止前 13 對）：問題組 +2.8，對照組 -8.4 → **+11.2**（95% CI +4.4 至 +18.4）
 
 ## 逐卡
 
@@ -53,15 +53,15 @@
 | A-18 | D15 | 問題 | Travel + Leisure Co. | 是 | 27.0 | 22.0 | False |
 | A-19 | D02 | 對照 | BUNGELTD |  | 62.0 | 34.0 | False |
 | A-20 | D11 | 問題 | USA Technologies |  | 30.0 | 35.0 | True |
-| A-21 | D12 | 問題 | SAExploration |  | 25.0 |  |  |
-| A-22 | D05 | 問題 | Becton Dickinson |  | 30.0 |  |  |
-| A-23 | D09 | 問題 | Plug Power |  | 30.0 |  |  |
-| A-24 | D01 | 對照 | AERSALE CORP |  | 32.0 |  |  |
-| A-25 | D16 | 問題 | The Bancorp, Inc. | 是 | 32.0 |  |  |
-| A-26 | D14 | 問題 | Gentex |  | 14.0 |  |  |
-| A-27 | D10 | 對照 | PROVIDENT FINANCIAL HOLDINGS INC |  | 12.0 |  |  |
-| A-28 | D04 | 問題 | Adamis |  | 60.0 |  |  |
-| A-29 | D15 | 對照 | BOYD GAMING CORP |  | 15.0 |  |  |
-| A-30 | D16 | 對照 | NICOLET BANKSHARES INC |  | 12.0 |  |  |
-| A-31 | D03 | 問題 | Ammo |  | 55.0 |  |  |
-| A-32 | D03 | 對照 | NATIONAL PRESTO INDUSTRIES INC |  | 35.0 |  |  |
+| A-21 | D12 | 問題 | SAExploration |  | 25.0 | 40.0 | True |
+| A-22 | D05 | 問題 | Becton Dickinson |  | 30.0 | 22.0 | True |
+| A-23 | D09 | 問題 | Plug Power |  | 30.0 | 30.0 | True |
+| A-24 | D01 | 對照 | AERSALE CORP |  | 32.0 | 25.0 | False |
+| A-25 | D16 | 問題 | The Bancorp, Inc. | 是 | 32.0 | 35.0 | False |
+| A-26 | D14 | 問題 | Gentex |  | 14.0 | 8.0 | False |
+| A-27 | D10 | 對照 | PROVIDENT FINANCIAL HOLDINGS INC |  | 12.0 | 10.0 | False |
+| A-28 | D04 | 問題 | Adamis |  | 60.0 | 72.0 | True |
+| A-29 | D15 | 對照 | BOYD GAMING CORP |  | 15.0 | 12.0 | False |
+| A-30 | D16 | 對照 | NICOLET BANKSHARES INC |  | 12.0 | 8.0 | False |
+| A-31 | D03 | 問題 | Ammo |  | 55.0 | 55.0 | True |
+| A-32 | D03 | 對照 | NATIONAL PRESTO INDUSTRIES INC |  | 35.0 | 22.0 | False |
