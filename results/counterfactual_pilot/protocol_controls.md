@@ -1,0 +1,27 @@
+# 反事實插入：對照公司（第二部分）— 預先登錄
+
+本文件在任何評分之前提交。第一部分（Revolution Lighting）的結果見 [`review.md`](review.md)：問題公司 15/15 被認出，無法分離記憶和閱讀。這一部分改用**沒有已知會計問題**的公司，看插入一段 bill-and-hold 揭露後分數會不會明顯上升。
+
+## 1. 對象
+取自第七輪對照組（`results/round7/controls.json`），條件：產品銷售為主（bill-and-hold 說得通）、第七輪方法 B 分數低：
+
+| 代號 | 公司 | 年度 | 第七輪 B 分數（未遮蔽） |
+|---|---|---|---|
+| P09C | Thermon Group Holdings | FY2019（2019-03 結束） | 18 |
+| P07C | Ducommun | FY2018 | 18 |
+
+## 2. 條件
+| 代號 | 內容 |
+|---|---|
+| C | 遮蔽名稱與年份（`edgar_risk.redact`），**金額不縮放**；移除 Item 1、2、4、5、6、10–14，第一行放產業／規模說明 |
+| C+ | C 加上一段 bill-and-hold 揭露，插在財報附註的營收認列政策之後 |
+
+插入文字與第一部分 M+ 相同（20% 為假設值），只有年底日期依公司會計年度調整（Thermon：March Y0、隔一會計年度第一季出貨；Ducommun：December Y0、Y+1 出貨）。產生方式：`python -m experiment.counterfactual_pilot.build_controls OUT data/counterfactual_pilot/control_anchors.json`
+
+## 3. 評分
+與第一部分相同：每次評分開新的 Claude agent，只能讀一個中性檔名的檔案，相同提示詞（RISK_TASK + 辨識問題）。每家公司 × 每條件 3 次，共 12 次。
+
+## 4. 假設與判定
+- H6（主要）：每家公司 C+ 平均 − C 平均 ≥ 10 分，且 3 次範圍不重疊
+- 兩家都成立 → 模型會因為讀到的內容明顯調高分數；一家成立 → 部分支持；都不成立 → 不支持
+- 辨識：記錄每次是否認出公司。主要分析不排除被認出的評分，但另外報告「未被認出」的評分；如果認出且知道公司沒出事，可能壓低 C+ 的上升幅度，會在結果中註明
