@@ -1,0 +1,12 @@
+step	firm_years	fraud
+1 Bao FY2003-2008	35166	261
+2 gvkey->CIK mapped	30675	261
+3 10-K for fiscal year identified	22050	230
+4 record in EDGAR-CORPUS	20397	213
+5 MD&A >= 100 tokens	18866	202
+6 unique filing	18556	200
+7 sample M (all frauds + 10x random non-fraud)	2200	200
+S fraud-firm clean years (supplement)	300	0
+D subsample	300	150
+frauds with p_aaer also in FY<=2002 (sensitivity)	-	103
+period inferred (no submissions match)	835	6

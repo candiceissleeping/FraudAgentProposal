@@ -26,3 +26,5 @@ data/round10/raw/
 data/round10/corpus/
 data/round10/submissions/
 data/round10/*.log
+data/round10/inputs/A/
+data/round10/inputs/B/
