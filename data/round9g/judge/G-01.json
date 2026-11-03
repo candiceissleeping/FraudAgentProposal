@@ -1,0 +1,14 @@
+{"risk_score": 45,
+ "main_reasons": [
+  "Unexplained $425,172 'Other income' (vs $87,891 prior year) turns a $85,891 operating loss into $273,639 net income; only $27,311 forfeited customer deposit is disclosed as a source",
+  "Customer deposits fell $457K while revenue rose $430K (42%) with gross margin dropping 45% to 38%; revenue/deposit cut-off and classification risk",
+  "CEO is also sole principal accounting officer; disclosed material weakness (lack of segregation of duties), ineffective disclosure controls, 6 employees",
+  "Small offshore auditor (New Delhi) since 2023; audit opinion covers only FY2025 and cites the prior-year accumulated deficit in the going-concern paragraph, suggesting low audit quality",
+  "Numerous internal inconsistencies: customer concentration (four customers 87% vs two customers 77%), NOL carryforward revised from $8.2M to $5.2M without explanation, blank allowance/bad-debt figures, 'net cash used' wording on positive 2024 cash flow",
+  "Inventory reserve (~78% of gross inventory) is a large judgmental estimate flagged as a critical audit matter",
+  "Going concern doubt, negative working capital of ~$961K, stockholders' deficit, growing CEO loans and accrued CEO compensation of $637K",
+  "Mitigating: very small scale, no equity raising, $0.01 stock with little market incentive to inflate results; most issues look like sloppiness rather than deliberate fraud"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Omnitek Engineering Corp.",
+ "knows_later_problems": false}

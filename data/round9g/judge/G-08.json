@@ -1,0 +1,12 @@
+{"risk_score": 25,
+ "main_reasons": [
+  "Severe financial distress: going concern doubt (also a KPMG critical audit matter), $63.4M net loss on $1.6M revenue, $22M liquidity, NYSE listing deficiency, heavy dilutive financing from Yorkville (SEPA, ATM, promissory note with 8% OID)",
+  "Revenue is tiny and of poor quality: non-related-party revenue is negative (-$0.8M) after a customer settlement, and most revenue ($2.4M) comes from related party Honeywell/UOP, including 'in-process' systems, funded out of a non-refundable deposit",
+  "Related-party structuring: sale-leaseback of the stack line to UOP paid largely ($6.5M) by applying customer deposits, correctly booked as a financing obligation, but it shows how dependent the company is on Honeywell and how judgmental the accounting is",
+  "Asset carrying values look aggressive: $17.2M PP&E and $2.7M patents carried with no impairment charge (only a $1.7M patent abandonment) despite gross losses, market cap of about $13.6M and production lines being repurposed. Inventory written down almost to zero ($140K net of $7.0M gross)",
+  "Thin finance function: accounting staff were furloughed, leadership turned over, and ICFR is still asserted effective with no auditor attestation (smaller reporting company). A November 2025 cybersecurity incident was disclosed",
+  "Mitigating: Big 4 auditor (KPMG) gave a clean opinion, there are no restatements or material weaknesses, the warranty, inventory and deferred revenue rollforwards reconcile, liabilities are transparent, and the scale of the business limits how much could be misstated in absolute terms"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "ESS Tech, Inc. (NYSE: GWH)",
+ "knows_later_problems": false}

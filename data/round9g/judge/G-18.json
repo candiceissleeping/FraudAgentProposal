@@ -1,0 +1,14 @@
+{"risk_score": 30,
+ "main_reasons": [
+  "Shell-like Channel (formerly Chromocell, total assets $1.4M) was treated as the accounting acquirer of LNHC through VIE/primary-beneficiary reasoning, even though Ligand/LNHC holders own about 56% and LNHC management runs the company. This produced a $24.7M goodwill, $32.2M developed-technology and $26.2M inventory fair-value step-up rather than reverse-acquisition accounting",
+  "The financials rest heavily on Level 3 estimates: purchase price allocation (still preliminary, with a $5.9M deferred-tax measurement-period adjustment), royalty/Reedy Creek financing liabilities of about $34M built on forecasts, convertible notes at fair value, and a $7.4M tax benefit from releasing the valuation allowance against an acquisition deferred tax liability",
+  "Launch-year revenue ($16.2M in about 6 months) depends on gross-to-net estimates (co-pay, Medicaid, PBM rebates) with no history. The accrued GTN liability is only $1.8M, receivables are $8.9M (high DSO), three wholesalers account for 89% of sales, and there is a risk of channel stocking",
+  "Inventory of $23.6M (mostly work-in-process API, with about $14M of step-up still unamortized) is very large compared with about $3M of half-year product cost. The API has a 36-month shelf life, so there is net realizable value and obsolescence risk; an out-of-specification API batch was already written off",
+  "Many related-party transactions: Ligand is the controlling holder, licensor, collateral agent and noteholder, and two of its people sit on the board; the CFO is the managing member of Madison Royalty LLC, which receives royalties from the company; a CFO-controlled entity held a note. The company says the deals were not at arm's length and recorded an $18.1M loss on issuing the notes, while the gain on the royalty extinguishment went to paid-in capital",
+  "Material weaknesses existed in 2024 and were declared remediated during the merger year, with no auditor attestation of internal controls (emerging growth company). Outside technical accounting help was brought in during Q4. The audit fee (about $0.4M) is modest for this level of complexity",
+  "The legacy Chromocell entity has a poor governance history: its CEO was terminated for cause and an $18M judgment followed, a stock rescission, a string of bridge notes and reverse splits, and a going-concern opinion in 2024. Section 16 filings were late",
+  "Mitigating factors: clean opinion without going concern from a national firm, mostly conservative charges (fair-value losses, impairment, inventory write-offs), extensive disclosure, a real FDA-approved product, and cash flow consistent with the operations described"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Pelthos Therapeutics Inc. (formerly Channel Therapeutics / Chromocell Therapeutics)",
+ "knows_later_problems": false}

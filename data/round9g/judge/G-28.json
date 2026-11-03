@@ -1,0 +1,14 @@
+{"risk_score": 22,
+ "main_reasons": [
+  "Severe financial distress: cash fell to $49.7M, equity to $76.6M, accumulated deficit $775M, ongoing operating losses and cash burn",
+  "Breached 2025 term-loan EBITDA and asset coverage covenants at year end, cured only by a February 2026 amendment; lender-imposed EBITDA and liquidity thresholds give strong incentive to manage earnings",
+  "Management concluded its plans remove going-concern doubt, relying on a dilutive Yorkville variable-price convertible, covenant relief and forecast cost cuts and product launches; the auditor added no going-concern paragraph. This is a judgmental call",
+  "Large reserve declines: accrued sales incentives fell 29% ($54.0M to $38.3M), the return liability 33% and the warranty liability 26%, more than the 19% revenue decline, so reserve releases could have flattered revenue and margins",
+  "Receivables rose while revenue fell 19%, with more customer concentration (top customer 12% of revenue) and continued factoring of receivables ($68M sold)",
+  "Goodwill of $133.8M exceeds book equity; the year-end qualitative impairment test rests on a volatile, low-priced stock after an $18.6M Q1 impairment",
+  "Small inconsistencies, such as a 2.06-year expected term used for 10-year Level 3 warrants",
+  "Mitigating: a long-tenured Big 4 auditor (PwC) gave a clean opinion and an effective ICFR opinion, there are no restatements or material weaknesses, the revenue model is simple, the accruals and cash flows tie, and large charges (the valuation allowance and goodwill) were taken conservatively"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "GoPro, Inc.",
+ "knows_later_problems": false}

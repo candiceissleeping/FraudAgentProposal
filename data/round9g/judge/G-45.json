@@ -1,0 +1,13 @@
+{"risk_score": 82,
+ "main_reasons": [
+  "Other income of $4.2M (most of the year's non-operating income) is statutory interest booked on a $16.5M 2022 Streicher judgment, of which only $125K has ever been collected; this reverses an earlier conservative policy based on vague 'new information'",
+  "Prepaid advertising credits bought with stock in 2017-2018 are still carried as a current asset of about $8.6M, plus large other long-term assets of $16.8M. The counterparty (USA Today) refuses to honor the credits and the company is suing it. The auditor could not get third-party confirmation and relied on management representations",
+  "Goodwill of $9.1M and intangibles of $14.6M show no 2025 impairment, despite negative gross profit, revenue of $0.56M down 42%, and going-concern doubt. A $2.0M note receivable matured unpaid and carries no credit-loss allowance",
+  "A very small offshore auditor (Boladale Lawal, Lagos) charges a $100K audit fee. It took over after the prior auditor (Yusufali) resigned in 2024 and had to re-audit 2023",
+  "Ongoing material weaknesses: the CFO is also interim CEO, the books are run by about 9 employees, and the 10-K was filed late (July 2026). The financial statements contain sloppy errors: a 'recheck WA shares' placeholder left on the face of the income statement, a 'restated' legend, an unexplained prior-period adjustment, many blank amounts in the notes, and accrued interest classified as a financing cash flow",
+  "History of fraud: the 2021 financial statements were restated, and in January 2026 the SEC filed a complaint naming the company and former executives. Even so, the contingencies note says there are no materially detrimental pending proceedings",
+  "Heavy reliance on stock issued in lieu of cash ($9.7M) and on toxic convertible and equity-line financing. Acquisitions are paid in stock at a fixed $30 per share (versus a market price of about $0.73), with relative-fair-value allocations that inflate domain-name intangibles. There are related-party lenders and dealings (UCIL, Veloce CEO)"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Lottery.com Inc. (now Sports Entertainment Gaming Global Corp / SEGG Media)",
+ "knows_later_problems": false}

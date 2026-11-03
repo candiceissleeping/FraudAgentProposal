@@ -1,0 +1,14 @@
+{"risk_score": 82,
+ "main_reasons": [
+  "Sale of the legacy Quest division to a buyer controlled by the CEO: buyer assumed ~$55M of liabilities, the company issued a $10M note to the buyer and paid $2.4M cash, and the $33.8M gain went straight to APIC as a 'capital contribution', removing ~$31M of stockholders' deficit",
+  "The CEO earned a $1.72M bonus tied to the price of a deal in which he sat on the buyer side; he is also CEO, interim CFO and Chairman, on a two-person board with one independent director",
+  "The auditor's critical audit matter cites 'the absence of common control', while the notes call the deal related party (CEO controls the buyer); the related-party advances ($3.8M, no terms) and the note's interest rate are left blank",
+  "The statements contain many internal inconsistencies: pretax loss is -533 on the income statement but -827 in the tax note; geographic revenue totals $32,720K against $32,950K reported; inventory and PP&E schedules don't foot; the equity roll-forward net loss shows (137) vs (17); cash flow has a -$4.4M FX effect on a $2.3M cash balance; notes payable lines are duplicated; many numbers are missing in the notes",
+  "The MD&A misstates the drivers: it calls the gross margin 'stable' though it went from 16% to 27%, aided by a $1.2M vendor rebate settlement booked to COGS; and it attributes the higher operating cash flow to 'increase in receivables'",
+  "Other auditors (Barzily) audited Dangot, which is ~90% of continuing revenue; the principal auditor relied on their report",
+  "Going concern doubt, $13.2M working capital deficit, debt covenant breaches, stock trades on OTC at pennies; material weakness in ICFR; no separate CFO",
+  "The discontinued-operations figures look odd: H1 2025 revenue of $24.6M for the disposed unit against $38.7M for full-year 2024, and $2.3M of D&A in discontinued ops against $18K the year before"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "OMNIQ Corp. (formerly Quest Solution)",
+ "knows_later_problems": false}

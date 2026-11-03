@@ -1,0 +1,14 @@
+{"risk_score": 45,
+ "main_reasons": [
+  "Disclosed material weakness: all accounting entries and statement preparation held by a single person; disclosure controls ineffective; acquired businesses (Carolina Stone, CSI) not yet integrated into controls",
+  "Numerous internal inconsistencies in the filing: net loss stated as $12.9M in one risk factor vs $21.2M in statements; MD&A says operating cash flow 'provided $4.6M' vs $(4.4)M used in cash flow statement; claims negative operating cash flow in both years though 2024 was +$3.9M; financing cash flow $12.3M vs $12.1M",
+  "Late 10-K (Form 12b-25 to finish purchase price allocations), untimely 8-K for Carolina Stone acquisition causing loss of S-3 eligibility, cover page indicates not all reports filed",
+  "Goodwill ($18.5M, ~36% of assets) likely still overstated: Instone fair value includes a $4.2M NOL benefit while the company simultaneously booked a full valuation allowance; market cap (~$5-9M) far below book equity of $12.5M",
+  "$7.2M deferred tax asset carried at end of 2024 despite long loss history and heavy legacy NOL expirations, then fully reserved in 2025, which suggests prior-year DTA was aggressive",
+  "Heavy related-party dealings with controlling sponsor Brookstone (management fees, transaction fees, mezzanine lender, Series Z preferred exchange, Nectarine consent fees); lead independent director is a Brookstone operating partner",
+  "Financial distress: toxic convertible notes with repeated conversion-price resets, bifurcated derivatives, Nasdaq bid-price deficiency, near-term debt maturities, seller note in default since 2022, and management concluding substantial doubt is alleviated",
+  "Mitigants: simple distribution revenue recognized at shipment, modest receivables, audited by PCAOB-registered regional firm with goodwill CAM, and no restatement flagged"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Capstone Holding Corp. (formerly Capstone Therapeutics / OrthoLogic; TotalStone dba Instone)",
+ "knows_later_problems": false}

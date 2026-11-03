@@ -1,0 +1,15 @@
+{"risk_score": 40,
+ "main_reasons": [
+  "Loss per share appears to exclude large deemed dividends from warrant inducements ($7.6M Feb-2025, $4.5M Dec-2025, $5.0M in 2024); EPS of $(3.16)/$(5.84) equals net loss plus only the small preferred dividend divided by weighted shares, so loss attributable to common and EPS look materially understated",
+  "Management reports material weaknesses (segregation of duties, missing written policies and control documentation); disclosure controls are not effective; small finance staff",
+  "Going concern opinion with recurring losses ($19.4M on $16.1M sales) and dependence on serial dilutive warrant inducements and a Reg A raise; MD&A says cash is sufficient for 12 months while Note 2 and the auditor cite substantial doubt",
+  "Many internal inconsistencies and sloppy notes: warrant exercise counts (755,558 vs 1,295,000 vs 1,295,091), Series C share counts (427,812 vs 472,812), financing cash flow total ($19.46M vs $19.50M), wrong dates, blank percentages in the concentration and lease notes",
+  "Bitcoin holdings are promoted (doubled holdings, Coinbase custody) but no digital-asset line item, fair-value accounting or disclosure appears in the financial statements",
+  "Equity accounting is complex and error-prone (auditor CAM): large share subscriptions payable ($5.4M) for unissued warrant shares, Black-Scholes valuations, and frequent equity-for-services issuances",
+  "Inventory is 57% of current assets and rose 84% with soft-cover sales collapsing, and the obsolescence reserve is a judgmental CAM; segment cost allocations shifted sharply between years",
+  "Founder CEO controls 51% of the vote through Series A preferred, is paid through his own consulting entity, and his father runs a subsidiary; promotional MD&A; small regional audit firm",
+  "Mitigants: revenue growth is backed by low receivables (mostly online and DTC sales), cash flows tie, only one audit adjustment, and there is no restatement, auditor change or litigation"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Worksport Ltd.",
+ "knows_later_problems": false}

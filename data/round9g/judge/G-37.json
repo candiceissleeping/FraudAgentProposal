@@ -1,0 +1,13 @@
+{"risk_score": 58,
+ "main_reasons": [
+  "About $12.1M of $13.2M total assets are oil and gas properties 'not subject to amortization', mostly the unproved South Salinas project. It has no proved reserves, its wells are idle, the company is seeking a JV partner and it has dropped other California leases, yet no impairment was recorded. The carrying value looks aggressive.",
+  "No DD&A was recorded on the producing Saskatchewan wells even though the company says they have proved reserves and earned revenue all year. Deferring depletion until a reserve report exists is a GAAP departure.",
+  "Trio Canada issued Series 1 preferred shares (US$754K) that holders can force it to redeem. They do not appear as a liability or a noncontrolling interest on the consolidated balance sheet, so their classification is unclear.",
+  "Many internal inconsistencies: MD&A cites a '$3.4M rise in cash' against an actual $596K rise; ending share counts differ (9,047,568 vs 9,047,658); weighted-average shares (9.12M) exceed year-end outstanding; the intercompany loan rate is given as 12% and 8%; the RSUs are called 'options' in MD&A; the 10b5-1 plan termination date falls before its adoption date; the NOL deferred tax asset falls despite a $7.3M loss.",
+  "The audit report is weak. Bush & Associates is a small firm that replaced BF Borgers, which the SEC barred, forcing a re-audit of prior years. The opinion refers to the balance sheet at only one date, the PCAOB IDs conflict (5041 vs 6797), and there are no critical audit matters despite large judgmental balances.",
+  "Management says ICFR and disclosure controls are effective despite these errors. Finance is run by a part-time contract CFO, and there is no auditor attestation on internal controls.",
+  "Going concern doubt, recurring losses, heavy dilution from toxic convertible notes and ATM sales, a large immediate stock compensation charge, and repeated related-party asset deals with Trio LLC, which is owned by former management."
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Trio Petroleum Corp (TPET)",
+ "knows_later_problems": false}

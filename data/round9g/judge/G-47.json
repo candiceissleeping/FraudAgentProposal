@@ -1,0 +1,13 @@
+{"risk_score": 75,
+ "main_reasons": [
+  "$14.7M indefinite-lived 'acquired users' intangible (~70% of total assets) carried with no impairment despite revenue collapsing 82% to $0.87M, going-concern doubt and a ~$2.9M non-affiliate market cap",
+  "Prior-year revenue and profits came largely from equity in private startups booked at Reg CF offering prices; $19.9M of these (13 issuers) written off all at year-end, many with long-standing impairment indicators, which suggests earlier periods were overstated and impairments were recognized late",
+  "Remaining $5.7M of private equity stakes held at original cost (incl. $1.4M Zelgor, controlled by the CFO's stepson/son) and labeled Level 2 fair value, despite a disclosed deficiency in impairment review of related-party investees",
+  "Extensive related-party web: CFO's husband advises portfolio companies, CFO's son controls an investee/customer, officer sits on investee boards, the license comes from a founder-affiliated entity, and related-party notes and affiliate investments were written off",
+  "Material weakness (over-accrual of legal expenses) and ineffective disclosure controls; small audit firm",
+  "Many internal inconsistencies: net loss shown as $28.3M vs $38.3M, three different working-capital figures, G&A $5,224,007 vs $5,216,053, stock comp $757,484 vs equity-statement amounts, an offering price of $7.00 vs $4.675, a 'July 2026' subsequent event, debt maturity table not reconciling, and a DTL for 'unrealized gains' unchanged after large write-downs",
+  "Severe liquidity stress: going concern, negative working capital of ~$5M, 50% OID notes, toxic-lender notes, repeated warrant repricings and a 1-for-70 reverse split, which creates pressure to keep asset values up"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Netcapital Inc.",
+ "knows_later_problems": false}

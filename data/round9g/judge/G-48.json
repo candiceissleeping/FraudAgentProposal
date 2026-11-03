@@ -1,0 +1,15 @@
+{"risk_score": 85,
+ "main_reasons": [
+  "Cash flow statement is internally broken: non-cash deed-in-lieu write-off of farm land and debt shown as $6.7M investing inflow labelled 'cash paid for fixed assets' and $4.18M 'payments on shareholder notes'; financing total (-$3.73M) contradicts MD&A (+$4.77M)",
+  "Numerous non-footing figures: depreciation $19,460 in cash flow vs $52,291 in note; long-term notes $561,087 on balance sheet vs $54,465 in debt note; related-party accrued interest ($562,063) identical to current portion of notes payable",
+  "Equity statement does not reconcile to balance sheet: 353M common shares issued for no recorded value, Series C/D APIC balances differ between statements without explanation; weighted average shares equals year-end count",
+  "Tax note shows a $176,928 net deferred tax asset that does not appear on the balance sheet; unfiled tax returns for 2020-2023",
+  "Inventory oddities: broodstock held for sale jumps from $4,025 to $210,000 despite a disclosed 71% broodstock die-off, no harvest and halted operations; revenue up 227% with no harvest",
+  "Subsidiary in Chapter 11, zero cash, going concern doubt, stockholders' deficit, defaulted related-party notes",
+  "Auditor change to a small Lagos, Nigeria firm (first year 2025) for a Texas shrimp farm; prior auditor report contains date inconsistencies; filing made ~6.5 months after year-end",
+  "Weak governance: single person is CEO/CFO, no functioning audit committee, material weaknesses, no code of ethics, Section 16 non-compliance, family-related board, sub-penny OTC stock with toxic GHS financing",
+  "Missing numbers in notes (blank percentages/amounts) indicate sloppy preparation and weak review"
+ ],
+ "recognised_company": false,
+ "company_name_guess": "Trans American Aquaculture, Inc.",
+ "knows_later_problems": false}

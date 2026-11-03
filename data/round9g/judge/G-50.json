@@ -1,0 +1,12 @@
+{"risk_score": 10,
+ "main_reasons": [
+  "Long-established, conservatively financed company (debt about 19% of capital) with simple, contract-based revenue: cost-plus management-fee mines, reimbursable contract mining and third-party royalty receipts",
+  "Clean Ernst & Young audit and clean internal-control opinion (EY has been the auditor since 2002); no restatement or error-correction boxes checked; no unresolved SEC staff comments or material litigation",
+  "Earnings quality looks reasonable: operating cash flow of $50.9M against net income of $17.6M; receivables fell; dividends of $51.5M from the unconsolidated mines back their $61.8M of reported equity earnings",
+  "Main judgment area is VIE non-consolidation of wholly owned mines (the critical audit matter), but this structure is long-standing, disclosed in detail and confirmed with customers",
+  "Moderate estimate risks: MLMC keeps posting gross losses and NRV inventory write-downs with no long-lived asset impairment recorded; capitalized proved-undeveloped royalty costs ($56M) are large next to PUD volumes (about 2% of reserves); one-off pension, tax and deferred-tax items",
+  "Controlled company (family Class B shares) and the principal financial officer is the controller, but there are no other governance red flags"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "NACCO Industries, Inc.",
+ "knows_later_problems": false}

@@ -1,0 +1,16 @@
+{"risk_score": 70,
+ "main_reasons": [
+  "Pervasive material weaknesses (control environment, ITGCs, segregation of duties, digital asset custody/valuation/reconciliation) at a tiny-staff company that pivoted to a crypto treasury model in Q4 2025",
+  "Contradictory going-concern disclosures: Note 1 and risk factors say substantial doubt exists, MD&A says no substantial doubt, and the audit report has no going-concern paragraph",
+  "BERA figures do not reconcile: cost basis table $58.3M vs roll-forward cost $67.7M ($59.5M PIPE + $8.2M purchases); 54.2M BERA held at closing plus open-market buys vs 51.7M units at year end with no sales disclosed; Feb-2026 total of 70.4M units does not match 51.7M + ~9M purchased",
+  "Indicative NAV of $63.0M ($13.04/share) is miscalculated (36.6+22.6-7.2=52.0) and ignores ~31M pre-funded warrants that are already counted in weighted-average shares",
+  "Digital asset accounting policy contradicts itself (cost-less-impairment vs ASU 2023-08 fair value); Note 9 says no contractual restrictions while other sections describe lockups",
+  "$22.6M of USDT/USDC classified as cash equivalents, which is aggressive and contestable under GAAP",
+  "$18.6M of strategic advisory warrants (5.26M) expensed immediately with 'no substantive service period' although they are not exercisable until April 2026; presented inconsistently (separate line vs G&A, and allocated to the wholesale segment)",
+  "Numerous arithmetic and presentation errors: 2024 EPS not adjusted for the 1-for-750 split (1.2M weighted shares vs 3,023 shares outstanding), A/P change in the cash flow statement does not match the balance sheet, $14.5M gross inventory 'fully reserved' vs a $6.3M write-down, two different statutory tax amounts, conflicting authorized-share counts and stockholder-approval dates",
+  "Related-party and complex counterparty arrangements: the CIO's wholly owned BSQD may source BERA for the token purchase/lending agreements with Berachain Operations Corp, and principal-vs-agent accounting is still unresolved",
+  "Distressed microcap profile: repeated reverse splits, Nasdaq delisting determination, $0.8M escrow penalty for late filings, auditor changed in 2024 after a prior restatement (FY2022) and going-concern history, DOJ False Claims Act CID over a PPP loan, disputed EU subsidiary sale"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Greenlane Holdings, Inc. (GNLN)",
+ "knows_later_problems": false}

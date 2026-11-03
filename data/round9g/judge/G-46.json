@@ -1,0 +1,13 @@
+{"risk_score": 14,
+ "main_reasons": [
+  "Earnings well supported by cash: operating cash flow $9.3M vs net income $5.1M; cash up $13.2M to $31.4M with essentially no debt",
+  "Simple, clean balance sheet: no goodwill impairment pressure, small receivables (DSO ~26 days), allowances modest and consistent",
+  "Conservative tax accounting: full valuation allowance kept on deferred tax assets despite three years of cumulative profit, so no DTA release props up earnings",
+  "Main judgment area is revenue: point-in-time perpetual software licence revenue rose 55% ($4.9M to $7.5M), software Q4 revenue spiked, and the auditor's critical audit matter covers multi-element allocation, standalone selling price and timing",
+  "Weaker governance and audit: small regional auditor (Urish Popeck, $294K audit fee), no ICFR attestation, 37% holder controls the company, long-tenured board, several late Form 4s",
+  "Many sloppy drafting errors (blank figures, contract terms stated as 36-60 months in one place and 39-90 in another, prior-year Adjusted EBITDA shown as both $8,157 and $8,187, a contradictory valuation-allowance sentence, end users given as five million and seven million) point to weak disclosure controls rather than manipulation",
+  "Bonus based on Adjusted EBITDA and revenue, but results beat the caps by a wide margin, so there was little incentive to manage results to a threshold"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Crexendo, Inc.",
+ "knows_later_problems": false}

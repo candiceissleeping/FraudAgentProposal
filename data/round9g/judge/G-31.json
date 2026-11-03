@@ -1,0 +1,12 @@
+{"risk_score": 78,
+ "main_reasons": [
+  "Filing itself discloses error corrections: FY2024 restated (10-K/A, April 2026) and all three 2025 interim quarters restated for numerous errors (ARO discount rate, vendor invoice cut-off, royalties, revenue cut-off, unrecorded CEO put right, unbifurcated conversion options, capitalized workover costs not yet incurred, NCI allocation) following SEC comment letters",
+  "Material weaknesses across basic processes (account reconciliations, segregation of duties, complex instruments, oil and gas controls); ineffective ICFR and disclosure controls; no auditor ICFR attestation",
+  "No impairment recorded on $82.0M net proved properties although proved reserves fell from 14.5 to 2.8 MMBoe, PUDs went to zero, standardized measure is only $31.2M, and undiscounted future net cash flows are negative after tax (about $13M pre-tax); recoverability appears to rely on probable reserves",
+  "$13.4M gain on sale of ORRIs/farmout depends on judgmental allocation of $45.5M bundled proceeds toward 'zero-basis' unproved interests, while the proved-property ORRI is treated inconsistently (cost-basis reduction yet a $10.3M loss); ORRI carries capital-commitment escalators suggestive of financing",
+  "$13.4M related-party debt extinguishment credited to equity, $17M NCI reclassification and numerous Level 3 Monte Carlo derivative valuations give management wide latitude over reported equity",
+  "Severe distress: going concern, $375K cash, $21.8M working-capital deficit, negative operating cash flow, toxic ELOC/convertible financing, deferred executive salaries, very late filing (FY2025 10-K filed September 2026), auditor change from Marcum to CBIZ"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "EON Resources Inc. (formerly HNR Acquisition Corp)",
+ "knows_later_problems": false}

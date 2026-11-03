@@ -1,0 +1,14 @@
+{"risk_score": 45,
+ "main_reasons": [
+  "Controlling shareholder/CEO (84.4%) whose affiliate LEH operates all assets, employs all personnel, is the largest customer (~36% of revenue, all jet fuel), lender and guarantor; auditor flagged related-party identification as a critical audit matter",
+  "Going concern doubt declared 'alleviated' despite $24.4M working capital deficit, $1.0M cash, and essentially all bank debt in covenant default; reliance on discretionary affiliate funding",
+  "No valuation allowance on a growing $4.4M net DTA after two consecutive losses ($8.6M, $5.6M) and distressed liquidity",
+  "Large, slow-moving inventory ($30.9M, of which $21.2M HOBM vs $43.7M annual HOBM sales) with recurring NRV write-downs ($7.1M 2025, $8.3M 2024) - valuation judgment risk",
+  "Numerous internal inconsistencies: related-party receivable given as $8.1M, $7.8M and $10.0M; revolver draw $8.1M vs $8.7M; volume decline 'nearly 11%' vs table showing ~1.6%; income statement shows $3.0M 'impairment of fixed assets' while notes say no long-lived asset impairment; segment cost figures for 2024 don't tie to consolidated statements",
+  "Offshore decommissioning exposures possibly understated: ARO doubled after bids came in at 2x estimates, zero accretion, BOEM $5.7M supplemental bond order unrecorded after appeal dismissed, accumulating BSEE penalties",
+  "Disputed crude supplier payable ($10.1M recorded, up to $3.4M more reasonably possible) and an after-year-end related-party netting agreement made effective retroactively to Dec 15, 2025 (in-kind $2.1M CIP credit)",
+  "ICFR declared effective with no auditor attestation despite evident drafting/tie-out errors; small finance function supplied by affiliate; long-tenured small auditor (since 2002)"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Blue Dolphin Energy Company",
+ "knows_later_problems": false}

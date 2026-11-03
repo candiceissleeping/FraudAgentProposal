@@ -1,0 +1,5 @@
+{"risk_score": 6,
+ "main_reasons": ["Pre-revenue clinical-stage biotech: no product revenue and only zero/$0.3M collaboration revenue, so little room for revenue manipulation", "Balance sheet is mostly cash and high-grade Level 2 investments ($108M); simple cost structure (R&D, G&A, stock comp)", "Statements internally consistent: cash flow, equity rollforward and MD&A reconcile", "KPMG unqualified opinion, auditor since 2020; no restatement, no material weakness, ICFR reported effective", "Main judgmental areas are R&D/CRO accruals (accrued R&D only $0.9M against $32M external AlloNK spend) and related-party GC Cell agreements, both small and disclosed", "Minor drafting sloppiness (duplicated disclosure-controls paragraph) and liquidity only into Q2 2027, but these are not misstatement signals"],
+ "recognised_company": true,
+ "company_name_guess": "Artiva Biotherapeutics, Inc.",
+ "knows_later_problems": false}

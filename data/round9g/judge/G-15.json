@@ -1,0 +1,13 @@
+{"risk_score": 45,
+ "main_reasons": [
+  "Material weakness in ICFR (extension loans, redemption price calculation); single person is both CEO and CFO",
+  "Trust miscalculations caused overpayments to redeeming holders in two extension redemptions, booked as an $809K 'Due from Sponsor' receivable added back to temporary equity; collecting it depends on clawbacks and a sponsor with few assets",
+  "Third-extension redemption still unpaid and unpriced months later; $17.74M payable implies about $11.52/share against the ~$11.01 proxy price; temporary equity plus the payable ($26.83M) exceeds the $26.45M trust balance",
+  "Many internal inconsistencies: cash-flow ending cash $59,768 vs $56,768 on the balance sheet, duplicated 'Due from Sponsor' line, financing cash flow sign wrong in MD&A, nonsensical tax-rate reconciliation and deferred tax table, and conflicting dates and per-share overpayment figures",
+  "2023 excise tax ($642K) still unpaid with no penalties or interest accrued; working capital deficit stated without the $17.7M redemption payable",
+  "Late Q3 10-Q, Nasdaq deficiency notices and delisting to OTC, going-concern doubt, small audit firm, sponsor previously China-linked",
+  "Offsetting factor: a simple SPAC balance sheet (cash in trust ties to the roll-forward, and amounts are small), so fraud is unlikely; the risk is mainly accounting error"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "FutureTech II Acquisition Corp.",
+ "knows_later_problems": false}

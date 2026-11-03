@@ -1,0 +1,15 @@
+{"risk_score": 66,
+ "main_reasons": [
+  "Material weaknesses in ICFR (no segregation of duties, close process failed to identify required adjustments); CEO also served as interim CFO for most of 2025 after the CFO was terminated in April 2025; part-time outsourced CFO only appointed Feb 2026",
+  "Chronic delinquent reporting: Q1-Q3 2025 10-Qs filed months late under Nasdaq delisting threat, 10-K filed June 2026, Q1 2026 10-Q also late; cover page checks 'No' for having filed all required reports",
+  "Pervasive related-party dealings with the controlling CEO (land/permits bought for $15M with a $12.3M loss, trucks, hauling, materials, rent, a 10% note); CEO holds 45% of voting power through Series A-1 preferred",
+  "Internal inconsistencies: $2.3M related-party note 'repayment' shown as a cash financing outflow and also as a non-cash reclassification to due-to-related-parties; due-to-related-parties rose about $3.0M while the cash flow statement shows a $200K decrease; accrued payroll is flat on the balance sheet but up $3.0M in the cash flow statement",
+  "No interest appears to have been accrued in 2025 on the 10% DWM related-party note (balance fell exactly by the $2.3M paid); the interest rate is left blank in the notes",
+  "MD&A errors (hauling gross profit $5.64M vs $6.38M in the segment note; MD&A says gross profit 'increased' when it fell), many blank figures in the notes, negative debt-discount amortization, and unamortized discounts larger than the related note balances",
+  "Severe going-concern stress: $18.3M working capital deficit, $0.9M cash, $521M accumulated deficit, payroll taxes unpaid since 2016 (Note 10 amounts conflict with the balance sheet), and Arena litigation with nothing accrued",
+  "$14M of Empire-acquisition intangibles (licenses, customer list) carried without impairment despite recurring operating losses; small-firm auditor reported no critical audit matters",
+  "History of toxic convertible financing, very large deemed dividends and derivative swings in 2024, and repeated reverse splits (1-for-110 in 2025)"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Greenwave Technology Solutions, Inc. (formerly MassRoots, Inc.)",
+ "knows_later_problems": false}

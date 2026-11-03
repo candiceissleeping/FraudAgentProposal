@@ -1,0 +1,14 @@
+{"risk_score": 78,
+ "main_reasons": [
+  "Balance sheet dominated (~95% of assets) by related-party ZenaTech securities; $5.4M Level 2 valuation of non-traded super-voting/preferred shares rose while the common price fell, highly subjective",
+  "Prior-year $13.5M gain recognised on sale of a net-liability subsidiary to a commonly controlled related party (ZenaTech), inconsistent with common-control treatment applied to the Galaxy Batteries acquisition",
+  "Odd $37M 'common control adjustment account' contra-equity for shares issued to controlling shareholder for a business with no assets",
+  "No deferred tax liability on large unrealized gains, justified by 'intent' - not a valid ASC 740 exception for equity securities",
+  "Cash flow statement irregularities: related-party advances classified as operating inflows (creating positive OCF with zero revenue), working-capital changes do not tie to balance sheet movements, negative 'proceeds' of debt, cash paid for interest with zero cash",
+  "Internal contradictions: stock compensation to CEO of $391,575 in notes vs. $0 in compensation table and 'None' in Item 13; stale ZenaTech price cited; template placeholder text left in filing (Item 7A, fractional shares)",
+  "Sole officer/director acting as CEO, CFO and only director; no audit committee; material weaknesses; family-controlled preferred stock and pervasive related-party dealings",
+  "Going concern with $2.5K cash and $2.2M working capital deficit; OTC Pink stock with 1-for-1200 reverse split; small offshore audit firm with low fees"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Ameritek Ventures, Inc.",
+ "knows_later_problems": false}

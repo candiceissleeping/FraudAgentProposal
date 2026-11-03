@@ -1,0 +1,13 @@
+{"risk_score": 80,
+ "main_reasons": [
+  "77% of FY2025 revenue ($30.0M of $39.1M) is point-in-time patent license revenue from related parties: Scilex (43% holder at year end) and Vivasor (controlled by Scilex's CEO). Both deals were signed in Nov-Dec 2025 (Vivasor on Dec 20), and all $30M was still uncollected at year end",
+  "The deals look circular. Scilex paid for its stake in BTC, advanced loans repaid in BTC, and bought BTC back from the company, while it and its affiliate 'bought' licenses in unrelated fields (DNA, medical imaging) with promotional milestones of up to $2.55B each. After year end the company agreed to issue shares to Scilex's CEO personally for IP",
+  "Clear incentive to inflate revenue: performance RSAs for the CEO, the CFO and others vest when trailing-12-month revenue reaches $40M. Reported revenue is $39.1M, just below that hurdle, and was lifted from $2.7M almost entirely by the year-end related-party licenses",
+  "Going-concern doubt is said to be 'alleviated' because of $92M of BTC held by a Chinese crypto custodian (Biconomy) and the related-party receivables. Elsewhere the filing contradicts itself: risk factors say the company self-custodies, and that cash is insufficient for near-term operations",
+  "The CEO is subject to a prior SEC final judgment (Parallax Health Sciences matter). The CFO is also Board chairman. The company acquired $92M of patents from the CEO's own company (EOS), and those patents are the ones now licensed to related parties",
+  "Effective ICFR is claimed with no auditor attestation, despite heavy related-party activity, toxic convertible financing and inconsistent figures (BTC additions $115.9M vs $117.7M in equity; fair value gain stated as $477K, $171K and $0.2M; 2024 revenue placed on the related-party patent license line)",
+  "Other red flags: a short-seller report (Oct 2025), a Rule 10b-5 lawsuit filed March 2026, a meme-coin and warrant 'dividend', repeated Nasdaq deficiencies, massive dilution, and goodwill and intangibles of $114M against tiny operating revenue"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Datavault AI Inc. (formerly WiSA Technologies / Summit Wireless)",
+ "knows_later_problems": false}

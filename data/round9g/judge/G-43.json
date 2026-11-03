@@ -1,0 +1,13 @@
+{"risk_score": 22,
+ "main_reasons": [
+  "Core revenue (57%) is formula-based ETF management fees from related-party funds tied to observable AUM; little room for revenue manipulation",
+  "No valuation allowance on $3.4M U.S. deferred tax assets (about 15% of equity) despite consecutive and widening pre-tax losses; NOL DTA nearly tripled. Aggressive judgment that inflates equity and the tax benefit",
+  "$2.3M of equity investments carried at cost with no impairment, including a $1.8M stake in a financial institution; hard to verify",
+  "Brigadier sold after year end to an entity of a director who is also a 10.9% holder; control by insiders (controlled company, CEO trust pledged shares and guaranteed the loan)",
+  "Liquidity strain: high-cost Streeterville note (41% effective rate), equity raise and ATM; Fintech app wound down after about $19M invested, mostly expensed (conservative)",
+  "Decentralized multi-segment structure with management-only ICFR assessment (no 404(b) attestation); several careless disclosure errors (inconsistent impairment-year references, cross-references to a nonexistent FY2025 impairment)",
+  "Mitigating: clean opinion from a long-tenured auditor (BPM), CAM limited to the USO litigation contingency, no restatement flagged, small and simple balance sheet mostly cash and Level 1 investments"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "The Marygold Companies, Inc. (formerly Concierge Technologies; parent of USCF Investments)",
+ "knows_later_problems": false}

@@ -1,0 +1,13 @@
+{"risk_score": 48,
+ "main_reasons": [
+  "Microcap OTC company with going-concern doubt, $6.2M working capital deficit, cash of $0.22M and heavy reliance on merchant-cash-advance and toxic convertible lenders (repeated settlements/TDRs, late-10-Q penalties)",
+  "Admitted material weaknesses (no segregation of duties over cash, purchases and payables; insufficient review resources); board of three with no independent directors and no audit committee; CEO is also a secured lender",
+  "Numerous internal inconsistencies: PP&E accumulated depreciation $634,739 on balance sheet vs $732,804 in note; D&A in note (~$734K) vs $794,838 on income statement; factor proceeds $6.46M in note vs $6.77M in cash flow; AR and contract-liability cash-flow changes do not reconcile to balance-sheet movements",
+  "Tax note shows 2024 domestic pre-tax income of $2.0M although reported net loss is $(0.38)M; boilerplate identical rate reconciliation across years; prior-year discontinued-ops operating loss differs between MD&A ($280,865) and note ($954,920)",
+  "Segment data inconsistent: Cybersecurity segment total assets $231,631 although its allocated goodwill alone is $382,750; debt notes describe net gains on settlements while income statement shows a net loss on settlement",
+  "Results dominated by a one-time $7.95M gain on sale of the technology services unit and judgmental goodwill/intangible impairment and warrant-liability valuations; executives paid ~$150K cash bonuses despite $10M continuing-ops loss",
+  "Small regional auditor (Sadler, Gibb) with going-concern paragraph; sloppy reverse-split adjustments (warrants and stock price not consistently restated) suggest weak financial reporting rather than a clear deliberate scheme"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "High Wire Networks, Inc. (formerly Spectrum Global Solutions)",
+ "knows_later_problems": false}

@@ -1,0 +1,13 @@
+{"risk_score": 62,
+ "main_reasons": [
+  "Very weak control environment: material weakness, disclosure controls ineffective, CEO also acting as interim CFO after the CFO resigned, 5 employees, outsourced accounting, delinquent Section 16 filings",
+  "Numerous internal inconsistencies point to sloppy preparation: JV equity loss deducted rather than added back in operating cash flow yet the cash flow still foots (suggests a plug); JV contributions disclosed as ~$0.86M vs $3.70M cash invested; JV carrying amount does not reconcile by ~$53K; stock compensation figures differ between equity statement and cash flow; impairment amounts differ between notes; MD&A mislabels the direction of investing and financing cash flows",
+  "Questionable classification and accounting judgments: loans to related parties and the JV partner shown in financing activities; the VIE conclusion says the JV is not a VIE because it lacks sufficient equity at risk, which is backwards; $5.0M of debt issuance costs on a $7M note",
+  "Related-party dealings: an $4M, 18% loan to an entity controlled by a former director/chairman while the company was in going-concern doubt; a 2024 property assignment to the chairman's company; a $2.55M receivable from the JV partner presented as a related-party balance",
+  "Integrity and legal red flags: New Mexico AG civil fraud suit naming the CEO over shifting well-plugging liabilities to the state; short-seller reports; the CEO's prior E&P company went through Chapter 7; unpaid excise and withholding taxes with penalties",
+  "Large estimate-driven swings: ARO grew from $2.2M to $12.3M, a ceiling-test impairment of $6.7M, a $5.3M plant write-off, and an 82% cut to proved reserves; the standardized measure is negative in both years while capitalized O&G costs remain",
+  "Going-concern doubt and a hype-driven pivot from helium to AI data centers, financed by heavily dilutive equity lines; after year end the company agreed to pay $70M for the other half of a JV whose equity was ~$7M"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "New Era Energy & Digital, Inc. (formerly New Era Helium; NUAI)",
+ "knows_later_problems": false}

@@ -1,0 +1,14 @@
+{"risk_score": 72,
+ "main_reasons": [
+  "Total assets nearly doubled ($57M to $103M) mostly from intangibles: a $23.6M brand recognised on a 51% stake in a small UK footwear retailer, paid for in illiquid preferred stock, plus $4.8M goodwill and a $11.2M fair value for the non-controlling interest based on management's own discounted cash flow",
+  "A $10M software asset, a non-exclusive copy of a cricket-league engine bought from Crickslab for 10M shares valued at $1.00 when the stock traded near $2, is carried unamortised as 'under development'. Crickslab is also a convertible-note investor, so the deal looks circular",
+  "$3.36M of scarce cash (year-end unrestricted cash was $0.5M) was advanced to the acquiree's director to buy his own building. At the same time his children lent about $2M interest-free. The same advance also appears in the purchase price allocation, which is inconsistent with the cash outflow shown",
+  "The cash flow statement does not reconcile cleanly: there is no acquisition line, acquired inventory and payables appear as operating changes, and a $1.8M 'exchange effect' on cash although the rupee barely moved. About $2.5M of software spending is not visible in investing cash flows",
+  "Equity presentation is anomalous: parent equity is -$20M while non-controlling interest is +$60M, even though the main subsidiary (WTL), consolidated as a VIE, has only about $2M of net assets. Contingent consideration was booked at the maximum potential amount",
+  "Aggressive deferred tax asset (about $14.9M gross after allowance) despite cumulative losses. Tens of millions of disputed Pakistani regulator (PTA) and tax demands are left unprovided, on top of a going-concern doubt at WTL, defaulted term finance certificates and a $29M working capital deficit",
+  "Weak control environment: material weakness, auditor changed to a small Lahore firm on a $25k fee, the prior-year audit report was dual-dated for revised notes, and comparatives were reclassified. Many errors and inconsistencies (EPS note, WTL loss figures, text copied from a registration statement, typos in the audit report)",
+  "Promoter-controlled OTC company (58.6% holder), thinly traded stock used as acquisition currency, and pressure to show scale ahead of a planned Nasdaq uplisting"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "GlobalTech Corporation (WorldCall Telecom Limited parent; OTC: GLTK)",
+ "knows_later_problems": false}

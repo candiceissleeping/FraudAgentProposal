@@ -1,0 +1,13 @@
+{"risk_score": 85,
+ "main_reasons": [
+  "Prior-year (2024) statements restated for material errors including $555K of reversed revenue/receivables, a related party's cash booked as company cash, unrecorded liabilities and cutoff errors",
+  "Many internal inconsistencies: restatement total given as both $826,206 and $806,206; the derivative rollforward's mark-to-market gain ($529,586) does not match the $1,178,162 gain in the income statement; the convertible notes line is duplicated on the balance sheet; the cash flow statement and non-cash disclosures do not reconcile",
+  "2025 net loss is mostly driven by a large Level 3 derivative fair-value gain using implausible inputs (about 555% volatility) and by large losses on convertible note issuance, so reported results depend heavily on judgment",
+  "Jubilee deconsolidation handled irregularly: $303K credited straight to accumulated deficit and no gain or loss recognized; the date control was lost is inconsistent (March 31, May 12, 'as of December 31, 2025')",
+  "A single officer and director who is also the controlling holder; extensive related-party convertible notes converted at deep discounts; previously cancelled related-party debt was reinstated; 50M shares issued to an insider for 'restructuring' and later transferred",
+  "Shell company with going-concern doubt, no revenue, material weaknesses, no audit committee, a new small auditor (2025), and unfiled tax returns",
+  "Sloppy disclosure throughout: inconsistent dates and amounts, blank figures, an auditor report that leaves note references blank, and contradictory share and price data"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Hallmark Venture Group, Inc.",
+ "knows_later_problems": false}

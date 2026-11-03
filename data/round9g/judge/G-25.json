@@ -1,0 +1,14 @@
+{"risk_score": 74,
+ "main_reasons": [
+  "Auditor is a very small single-signer firm (LAO Professionals, Lagos, Nigeria; $64k fee) engaged after the prior auditor (WWC) was dismissed before it issued the FY2024 report; the audit opinion covers only FY2025, so the comparatives appear to have no audit opinion in this filing",
+  "$12.7M subscription receivable (more than total equity of $9.0M) offsets the share issuances. Business section says each X29 purchaser 'wired' $2.29M, yet about $11.3M was not collected at year end, and no allowance was recorded",
+  "Related-party loan to the CEO: $985k due from Lin Li on the balance sheet versus $1,834,784 in Item 13. The amount swung from a $1.4M payable, the cash-flow line is $2.13M, and the CEO also controls the $24M EB-5 lender",
+  "Inventory tripled to $6.2M (finished goods rose from $0.48M to $4.55M) while revenue fell 11%. Customer concentration is high (2 customers = 69.7%), and the new South Carolina plant runs at about 10% capacity",
+  "$9.55M of share-based compensation, mostly shares to consultants. Right after a NYSE American equity-deficiency notice, the company issued 27.5M shares at $0.40 for $11M of 'software/platform' from purportedly unaffiliated parties, while the stock trades near $0.10–$0.17, a sign of possible asset or equity inflation",
+  "Many internal inconsistencies: FY2024 operating cash flow is +$243,506 in Risk Factors versus -$1,233,491 in the statements; the EPS note uses net loss $10.67M versus $11.67M; the intangibles note shows $944,928 versus $994,928 on the balance sheet; lease expense differs between MD&A and the notes; employee count is 63 versus a table totalling 49; a risk factor still names WWC as auditor; the parent-only total assets for 2024 equal the consolidated figure; X29 share counts conflict (16M each versus 80M aggregate)",
+  "A $539,505 'tax payable write-off' appears as a non-cash item in the cash flow statement with no matching gain in the income statement (other income is only $1,857). A risk factor also discloses possible PRC export-tax-refund exposure",
+  "Going-concern doubt and a material weakness (insufficient accounting staff, no written procedures) with an interim CFO. MD&A says cash is sufficient for 12 months, which contradicts the going-concern note"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Northann Corp. (NYSE American: NCL)",
+ "knows_later_problems": false}

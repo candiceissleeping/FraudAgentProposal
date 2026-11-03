@@ -50,6 +50,9 @@ GE 原本在名單中，但其 FY2016 10-K 在資料集中為空（年報以引�
   - 新增 27 對 2017–2022 AAER；L3 卡給名單 1/54、1/54；評分者 0/86 猜名稱、0/86 知道結果
   - 合併 43 對 AUC 0.71（0.60–0.81，顯著）；內容相同的卡 AAER 與對照只差 0.19 分（殘差 AUC 0.51）
   - 流程：`results/round9f/protocol.md` → `python -m experiment.edgar_risk.round9f cases / controls / build / xbrl` → 抽取 agent → `verify` → `cards` → 封閉式探針、評分 agent → `evaluate`
+- 第九輪 g（時間外樣本，整份 10-K 直接評分）：[`results/round9g/review.md`](results/round9g/review.md)
+  - AUC 0.76，與事實卡 0.77 相同（差 −0.02，CI −0.12 至 +0.09）；認出 51/54、知道結果 0/54
+  - 流程：`results/round9g/protocol.md` → `python -m experiment.edgar_risk.round9g build` → 評分 agent（`data/round9g/raw_prompt.md`）→ `evaluate`
 - **提案：[`PROPOSAL.md`](PROPOSAL.md)**
 
 ## 流程

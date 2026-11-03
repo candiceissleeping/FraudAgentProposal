@@ -1,0 +1,14 @@
+{"risk_score": 35,
+ "main_reasons": [
+  "Material weaknesses existed at end of 2024; during 2025 the company corrected product-costing/bill-of-materials errors in its ERP with an 'inventory valuation adjustment recorded during the year' instead of restating, so a prior-period error may have been booked in the current period",
+  "Inconsistent controls conclusions: disclosure controls are called not effective, yet ICFR is called effective and the weaknesses 'remediated' in the same year. The ICFR assessment has no auditor attestation (EGC)",
+  "Inventory fell about 59% (raw materials halved) while revenue rose 136%, and gross margin fell from 66% to 56%. This fits earlier inventory overstatement or costing errors",
+  "Complex Level 3 warrant liability accounting with toxic resets and alternative cashless exercise ($14.3M liability, $12.1M converted to equity, $1.4M FV gain). Series B fair value was set 'based on subsequent settlements'",
+  "Sloppy disclosures and internal inconsistencies: PP&E gross line shows $46K, RSU vendor expense amounts don't reconcile ($78.4K vs $93K), no visible expense for officer RSUs vesting from June 2025, many blank percentages, wrong dates",
+  "CEO/Executive Chairman terminated March 27, 2026, four days before filing. New CFO joined mid-2025. Finance staff turnover",
+  "Going-concern doubt, $1.3M cash, stockholders' equity below the Nasdaq minimum, two reverse splits (1:10, 1:30), heavy dilution and insider convertible-note financing create pressure",
+  "Mitigating: about 91% of revenue is cash-settled direct-to-consumer online sales with small receivables, so revenue is hard to fabricate. The amounts at risk are small, and the audit report from a PCAOB-registered firm is clean apart from going concern"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Newton Golf Company, Inc. (formerly Sacks Parente Golf, Inc.)",
+ "knows_later_problems": false}

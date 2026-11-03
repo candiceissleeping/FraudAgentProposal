@@ -1,0 +1,13 @@
+{"risk_score": 72,
+ "main_reasons": [
+  "Recognised a $9.25M 'gain on sale' in income for selling 49% of IM Telecom while keeping 51% and continuing to consolidate it; under ASC 810-10-45-23 that should be an equity transaction with no gain. The gain turns a $4.5M operating loss into reported net income",
+  "No noncontrolling interest is shown in the balance sheet, the equity statement or the income statement, even though a 49% outside owner exists. This misstates both equity and net income attributable to the company",
+  "$108M of Excess Telecom (a related party and 49% holder) revenue and an equal 'management expense' sit on the books of the consolidated subsidiary but are netted to zero. That amount is about 7x reported revenue, and the filing gives no principal-versus-agent analysis",
+  "The figures do not agree with each other. Net income is $4,722,647 in the risk factors but $4,490,818 in the statements; accumulated deficit is $7,516,044 vs $7,747,873; operating expenses are $7.91M vs $7.95M; diluted shares are 43,526,417 though the table's inputs add to 43,456,382; income tax expense is $184K while the tax note shows a $0 benefit and a 21% statutory rate that does not reconcile",
+  "The ETC license is described as indefinite-lived and carried at 'fair market value', and it was cut by 49% because of the partial sale. The intangibles table nets ROU assets into intangibles, and the $1M contingent note receivable has no stated terms",
+  "Governance is weak: a part-time outsourced CFO paid about $20K, no audit committee, a CEO who owns 37%, and repeated option repricings and extensions. Management still says ICFR is effective despite the errors above",
+  "There is a going-concern doubt, the ACP program has ended, a California CPUC cease-and-desist letter delayed payments, and the 2025 retroactive restatement of the Excess Telecom transaction documents leaves uncertainty about control and consolidation"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "KonaTel, Inc.",
+ "knows_later_problems": false}

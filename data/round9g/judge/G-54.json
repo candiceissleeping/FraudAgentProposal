@@ -1,0 +1,14 @@
+{"risk_score": 82,
+ "main_reasons": [
+  "Net income of $55.4M is driven entirely by $95M of deconsolidation gains on spin-offs to shareholders (AIC $66.9M from derecognizing net liabilities, RLMT $28.1M); gain recognition on a pro-rata spin-off and the year-end timing of deconsolidation (Dec 25-26, after Q1 spin-offs) look aggressive or wrong",
+  "AIC gain rests on removing ~$64M of net liabilities (bonds, remediation, litigation) even though the parent is named on a project completion guaranty in bond acceleration litigation and records no liability; MD&A also says there are no off-balance-sheet arrangements",
+  "Related-party receivables of $121M gross ($109.5M from AIC) presented at $59.4M net of a $62M allowance, against $51.6M related-party payables; the balances are implausibly described as arising in the 6 days after deconsolidation",
+  "Retained interests valued with weak evidence: RLMT at $28.3M (Level 2, from an implied $150M EV) and AIC from a non-executed LOI (Level 3)",
+  "Internal inconsistencies: stock comp of $9.24M in cash flow vs $7.13M in equity; discontinued-ops cash of $5.8M at year end vs zero on the balance sheet; restatement table totals don't tie; percentages missing from notes; an unexplained $23.1M APIC credit for 'issuance of RLMT common stock'",
+  "Prior-period error corrections (finance lease, warrants, tax disclosure) and a material weakness (insufficient staff, material audit adjustments)",
+  "Auditor turnover (GBQ in 2024, then small firm GreenGrowth in Nov 2025 for about $90k on a complex audit); late filings (prior 10-K audit report dated Oct 2025, delinquent reporting box checked); federal tax returns unfiled since 2021",
+  "Heavy related-party dealings controlled by management (Land Betterment, LRR leases, RMCO, Novusterra); prior going-concern doubt; no revenue"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "American Resources Corporation (AREC)",
+ "knows_later_problems": false}

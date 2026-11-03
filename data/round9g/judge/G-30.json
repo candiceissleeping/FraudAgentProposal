@@ -1,0 +1,15 @@
+{"risk_score": 62,
+ "main_reasons": [
+  "Heavy related-party dealings with the Executive Chairman/Co-CEO (who also signs as principal financial officer). Orbit is wholly owned by him: $2.4M was paid to him in cash, a $1.35M receivable from him was offset, and an $11.8M 'Subscription for Orbit shares' current asset rests on a DCF valuation of a small company he owns",
+  "SYME (CEO's other company) exposure: $5.15M convertible note written down to $2.6M fair value, plus $5.67M advance to a SYME-affiliated SPV carried at cost with no impairment or credit-loss assessment; later offset into SYME 3 bonds secured on Tekne inventory",
+  "About $22M of $49.8M total assets are illiquid, Level 3 or related-party claims; the other main asset is $24.7M of cash held at a single foreign 'digital banking platform'",
+  "Material weaknesses in accounting for complex financial instruments and in wire authorization (a $1.0M fraudulent wire loss); a prior restatement; no dedicated CFO; accounting outsourced; nine employees",
+  "Very complex toxic financing (many FVO convertibles at 33% discounts, SEPA, warrants, a mandatorily redeemable preferred reclassified to a liability) creates many Level 3 measurements and $40M+ of non-cash gains and losses with high estimation risk",
+  "Related-party notes amended to add deep-discount conversion features, then converted to shares for the CEO's vehicle",
+  "Internal inconsistencies: Note 5 fair-value notes total ($25.96M) does not match Note 9 and the balance sheet ($25.87M); tax valuation allowance change differs between rate reconciliation and text; YA debenture inconsistently labeled related party; a debenture valued above par despite a 13% discount rate, so 46M warrants got zero value",
+  "Going concern doubt, no revenue, NYSE American noncompliance, trading halt below $0.10, rapid serial deal-making (Tekne, Lyocon, H&K, Maddox) funded by dilution",
+  "Mitigants: Withum issued a clean opinion with a CAM on the Orbit valuation, and large losses were recognized rather than hidden"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Nuburu, Inc.",
+ "knows_later_problems": false}

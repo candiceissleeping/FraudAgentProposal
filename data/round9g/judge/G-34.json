@@ -1,0 +1,12 @@
+{"risk_score": 14,
+ "main_reasons": [
+  "Primary complexity is held-for-sale / discontinued-operations presentation of the China subsidiary (PWSH); auditor flagged it as the sole critical audit matter, but the sale closed Jan 6, 2026 for ~$51M cash, which corroborates the carrying values (gain deferred, not recognized)",
+  "Cash reconciles: continuing cash $11.2M plus held-for-sale cash $6.8M equals cash-flow ending cash $18.1M; prior year ties similarly",
+  "Continuing operations are tiny (~$0.7M revenue, mostly services) so revenue-recognition manipulation has little room; large one-off $3.0M patent sale gain is disclosed and cash-settled",
+  "Judgmental areas: modification of redeemable NCI/NCI via support agreement deemed to have no material fair-value change; goodwill $18.4M passed on qualitative test only; complex RMB-denominated temporary equity and ESOP deposit liability",
+  "Going-concern-like pressure before the sale (shareholder deficit, reverse split for Nasdaq compliance, ATM and registered direct raises), creating some incentive but no sign of aggressive accounting",
+  "Minor disclosure sloppiness (valuation allowance change $1.2M in MD&A vs $1.05M in note; 2024 tax expense described as $0.01M vs $44K; functional currency statement inconsistent with FX translation), but no restatement, no material weakness reported, clean opinion from Grant Thornton, effective ICFR assertion"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Pixelworks, Inc.",
+ "knows_later_problems": false}

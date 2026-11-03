@@ -1,0 +1,14 @@
+{"risk_score": 66,
+ "main_reasons": [
+  "A $5.46M gain on extinguishment was booked on Dec 30, 2025, when the $7.5M Cooley legal-fee payable was settled for $2.0M cash plus contingent payments of up to $5.5M called 'remote'. ASC 470-60-35-10 generally bars a gain while contingent payments could make up the difference, so this gain looks aggressive or wrong",
+  "Without that year-end gain, stockholders' equity of $2.76M would be negative. That is just $265K over Nasdaq's $2.5M Equity Rule threshold, which compliance the company says it regained 'as of December 31, 2025', a strong incentive to manage earnings",
+  "Material weakness in long-lived asset impairment: a $1.5M building impairment was an audit adjustment. The remaining $16.6M asset group, including $12.0M of stalled construction-in-progress with mechanics liens, foreclosure suits and a lender cure demand, looks under-impaired; more impairment would push equity below the Nasdaq minimum",
+  "The audit committee is running an internal investigation into the root cause of the material weakness. Earlier material weaknesses are also referenced, and a $1.3M business-email-compromise loss in 2024 points to weak controls",
+  "Auditor changed in Sept 2024 (Grant Thornton dismissed, Crowe engaged). The thin finance function relies on an interim controller and outside technical advisors",
+  "Going-concern doubt with $2.0M cash, $13.1M of past-due payables, the bank loan in discretionary default and a sub-$1 share price after a 1-for-40 reverse split",
+  "Complex Level 3 and related-party equity accounting (TDR gains with insiders credited to APIC, $14.3M deemed dividends, the fair-value election for Wugen shares and the contingent liability) leaves room for judgment",
+  "Sloppy, inconsistent disclosures, for example the Cooley financing trigger given as $4.0M in one place and $6.0M in another, 'Global Select' vs 'Capital Market', and 'consolidated' statements for a single entity"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "HCW Biologics Inc.",
+ "knows_later_problems": false}

@@ -1,0 +1,13 @@
+{"risk_score": 28,
+ "main_reasons": [
+  "Net income of $1.79M is essentially all from a one-time $1.23M Employee Retention Credit gain plus a customer settlement; operating income fell from $5.1M to $1.6M despite 19% revenue growth",
+  "Operating cash flow swung to -$8.6M versus positive net income, driven by unwinding of deferred revenue (-$4.6M), accounts payable (-$5.4M) and accruals",
+  "Large inventory ($18.5M net, raw materials $16.5M, about 9 months of material usage) with a subjective obsolescence reserve that the auditor flagged as a critical audit matter; reserve rose to $2.7M",
+  "Receivables grew 35% against 19% revenue growth; $816K of receivables written off in 2025 and a settled dispute with a former customer (Solarium)",
+  "Concentrated customers (top 3 = 55% of revenue) and heavy reliance on related-party revolving credit from the controlling shareholder (~71% owner), whose sister chairs the board; controlled company with only two independent directors",
+  "Turnover at the top: new CFO in Sept 2025, long-time CEO left Nov 2025 with severance; stock fell from about $4 to $0.90 by filing date",
+  "Sloppy disclosures (missing figures in notes, segment table figures for interest, other income and tax that differ from the income statement, typos), though no material weakness was reported and RSM (auditor since 2001) gave a clean opinion"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Solésence, Inc. (formerly Nanophase Technologies Corporation)",
+ "knows_later_problems": false}

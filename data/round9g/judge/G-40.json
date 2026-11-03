@@ -1,0 +1,14 @@
+{"risk_score": 78,
+ "main_reasons": [
+  "Pivot to a BONK crypto treasury funded by a director's entity (Lucky Dog / Mitchell Rudy, 46% beneficial owner): $50M of tokens exchanged for Series C preferred and common stock, with valuation inconsistencies (tranche 1 booked at nominal $25M, tranche 2 at a lower receipt-date value; conversion share counts differ across notes)",
+  "Related-party revenue ($1.8M, ~46% of total revenue) comes from a LetsBonk.fun revenue share bought from the same director's entity. The share was raised from 10% to 51% for no consideration, and the auditor's critical audit matter describes a 1% service fee, which does not match",
+  "Revenue-share right booked as an intangible worth $2.3M using management's own DCF (discount rate blank in the notes), even though the preferred stock issued for it converts into tens of millions of common shares. The same income stream is booked both as revenue and as an asset being amortized",
+  "$14.1M of goodwill on the Yerbae acquisition (a loss-making company bought for $6.0M with $9.6M of net liabilities); no impairment despite the strategic pivot, a collapsing share price and going-concern doubt. The purchase price allocation shifted materially within the measurement period",
+  "Management reports internal controls over financial reporting and disclosure controls as ineffective; small team; CFO turnover (the controller was promoted mid-year); going-concern opinion from a small audit firm (M&K CPAS) with modest fees",
+  "Pervasive sloppiness: MD&A is stale (refers to products the company no longer sells), the liquidity section is truncated, numbers are blank or inconsistent in the notes, the 2024 net loss differs between the cash flow statement and the income statement, the pro forma revenue is wrong, and director independence lists former directors",
+  "Heavy equity churn: many settlements paid in shares, warrant litigation and exchanges, convertible notes swapped for preferred with the gain credited to APIC, $14M+ of stock compensation, a 1-for-35 reverse split, and Nasdaq rule violations on the August 2025 deals",
+  "Crypto assets temporarily held in an intermediary wallet during the year; large unrealized loss ($35.4M) and realized gains on Tron stock dominate results"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Bonk, Inc. (formerly Safety Shot, Inc. / Jupiter Wellness, Inc.)",
+ "knows_later_problems": false}

@@ -1,0 +1,14 @@
+{"risk_score": 78,
+ "main_reasons": [
+  "NAHD merger paid in convertible preferred (4M shares convertible 1:15, roughly 90% of post-conversion common), done to meet the Nasdaq equity rule. The target's CEO (McLaren, a related-party noteholder) became the company's CEO, so this looks like a reverse acquisition that was booked as a forward acquisition",
+  "$15.6M goodwill (vs $3.2M net assets acquired; NAHD contributed $0.67M revenue and a $1.77M loss) and $17.4M total goodwill make up about half of total assets. Equity is only +$7.6M, so without this goodwill the company would have a stockholders' deficit",
+  "Goodwill impairment test was qualitative only and found no impairment, despite going concern doubt, a gross loss, a full-cost ceiling write-down, a collapsing share price, Machfu employee terminations and lawsuits, and SG Echo's Chapter 11 filing. The test also cites a 'stockholders' deficit' that does not match the reported positive equity",
+  "Large Level 3 fair values drive the numbers: preferred valued at $18.8M, intangibles, and oil and gas reserves. Derivative losses and gains of several million dollars on notes of only a few hundred thousand dollars produce big swings in earnings",
+  "Auditor M&K resigned in January 2026, and new auditor RBSM issued a first-year opinion. The 10-K was filed late (around June 30, 2026) and the registrant checked 'No' on timely filing of all reports",
+  "Material weaknesses in the close process and in technical accounting, with numerous year-end auditor adjustments",
+  "Many internal inconsistencies: MD&A labels the $4.75M other expense as income, cash and operating cash flow figures differ between sections, a related-party debt forgiveness was booked to APIC, a $311,560 SG DevCorp loss is disclosed but missing from the income statement, and a $2.0M legal settlement gain does not reconcile with $975,784 of proceeds in cash flows",
+  "Severe financial distress: $0.43M cash, $24.3M working-capital deficit, toxic convertible notes and merchant cash advances, repeated reverse splits, and serial acquisitions paid with stock and notes (including a $30M CS Digital deal after year end)"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Olenox Industries Inc. (formerly Safe & Green Holdings Corp. / SG Blocks)",
+ "knows_later_problems": false}

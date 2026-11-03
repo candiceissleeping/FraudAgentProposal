@@ -1,0 +1,14 @@
+{"risk_score": 62,
+ "main_reasons": [
+  "Pervasive internal inconsistencies: balance sheet vs notes (AP 2024 675,950 vs 687,211; other liabilities 386,402 vs 468,439), stock comp reported as 208,245 / 198,478 / 177,078 / 16,200 / 12,600 in different places, director share value 384,860 vs 384,978",
+  "MD&A contradicts the financial statements: cash used in operations given as 109,793 vs 170,645; says no investing or financing cash flows while the statements show (14,178) and +75,028; SG&A decline given as 14.13% vs 17.4%; segment gross margins (39-50%) don't reconcile to the consolidated 37.4%",
+  "Unedited drafting artifacts in the filing: a '[provide month and year]' placeholder, the management representation letter and auditor adjusting journal entries pasted in where an audit report should be, and a mismatched PCAOB ID",
+  "Stock option and warrant rollforward tables don't reconcile (238M options shown going to 67M and then to 30.7M); 'shares issued in error' equity adjustments in both years",
+  "Odd tax provision: about $24.7k current federal and state tax on a pre-tax loss despite large NOLs and a full valuation allowance; rate reconciliation is incoherent",
+  "Unexplained $126k other income turns the operating loss into a much smaller net loss; recall reserve reversal described differently in different places (2023/2024/2025)",
+  "Weak governance: CEO is also CFO; one independent director, who is also the main lender (notes maturities extended repeatedly) and owns about 35%; no audit committee; no code of ethics; six admitted material weaknesses including revenue recognition",
+  "Related-party sales to the CEO's brother's and the CEO's own entities (8.5-8.7%), IP licensed from CEO-owned entities, going-concern doubt, penny stock, small audit firm in its second year"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Brownie's Marine Group, Inc. (BWMG)",
+ "knows_later_problems": false}

@@ -1,0 +1,13 @@
+{"risk_score": 27,
+ "main_reasons": [
+  "Severely distressed micro-cap: $1.8M cash, going-concern opinion, cash runway only to April 2025, Nasdaq bid-price deficiency, two reverse splits (1:18, 1:50), toxic OID notes/ELOC financing; strong pressure on management",
+  "Istaroxime IPR&D carried at $22.3M (80% of total assets) with no impairment while year-end market cap was only a few million dollars; MPEEM valuation is highly subjective (a CAM) and is the main overstatement risk",
+  "Net loss sharply reduced by large non-cash gains: $14.4M Deerfield contingent-liability extinguishment and $10.5M warrant-liability fair-value decline (Level 3, Black-Scholes/Monte Carlo); the accounting looks plausible but leaves room for judgment",
+  "Complex instruments (Series B/C mezzanine preferred, exchanges, bifurcated derivatives, fair-value-option notes, deemed dividends), with the warrant classification called out as a critical audit matter",
+  "Q3 2024 10-Q filed late; defaults and deferrals on Philip Morris license payments; forbearance agreed with Series C holders; management nonetheless reports effective ICFR, with no auditor attestation",
+  "Small internal inconsistencies: MD&A operating cash outflow of $15.7M vs $15.4M in the cash flow statement; Deerfield gain dated to Q3 although the agreement was signed in January 2024; fair-value inputs not consistently split-adjusted",
+  "Mitigating factors: pre-revenue biotech with no revenue-recognition risk, mostly cash expenses, a reputable auditor (EisnerAmper), the rostafuroxin impairment was recorded, and the Varian IPR&D was expensed conservatively"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Windtree Therapeutics, Inc. (WINT)",
+ "knows_later_problems": false}

@@ -1,0 +1,14 @@
+{"risk_score": 72,
+ "main_reasons": [
+  "Primary statements do not tie: cash flow statement ends at $451K cash vs $97K on balance sheet; investing cash flow shown as +$271K inflow vs MD&A's $83K outflow",
+  "Prior-year EPS ($0.07) apparently not restated for the 1-for-10 reverse split; Hubei impairment given as both $351K and $354K; many blanks and duplicated lines in the notes",
+  "Management admits a material weakness: misapplications of GAAP on equity financing and on the timing of non-cash charges; no dedicated CFO (the corporate controller is principal financial officer)",
+  "Related-party asset deal: $6.25M of stock paid to entities controlled by the chairman for China equipment and a $2.2M 'prepaid' credit; the credit was later written off, and $3.2M of idle equipment still sits on the books after only a $351K replacement-cost impairment",
+  "Possible covenant pressure: the Hubei assets support the minimum tangible net worth covenant of $4.0M, and the company has a going-concern doubt with $0.1M cash and a nearly fully drawn 14.6% revolver",
+  "Aggressive working-capital carrying values: zero credit-loss allowance on $5.96M receivables (98% from two customers, about 110 days DSO); about 200 days of inventory against a $194K reserve",
+  "Equity financing goes through related shareholder vehicles (Mitzners, Icy Mellon) managed by a company VP; investor advances are classified in operating cash flow; warrants with variable VWAP pricing are classified in equity",
+  "Governance turnover: auditor new since 2024 with a big fee drop; the audit committee chair and the chairman resigned just after year-end"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Yunhong Green CTI Ltd. (formerly CTI Industries / Yunhong CTI)",
+ "knows_later_problems": false}

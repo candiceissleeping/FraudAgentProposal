@@ -1,0 +1,16 @@
+{"risk_score": 62,
+ "main_reasons": [
+  "A $6.2M operating loss becomes $3.2M net income only through non-cash or related-party items: a $4.0M 'gain on acquisition of intangible assets', a $2.9M valuation-allowance release and $2.5M of discontinued-operations income",
+  "The $4.0M gain comes from a non-monetary swap with a related party (Happy Hour, co-founded by a director and partly owned by Spike Up). The casinoroom.com domain was traded for a company holding a gaming license, booked at $4.0M+. A related-party exchange like this would normally be recorded at carrying value, and a gain on an asset acquisition is unusual",
+  "The swap is described inconsistently: the counterparty is Spike Up Media AB in Note 1, Happy Hour Entertainment Holdings in Note 18, and in Item 1 the transfer runs the opposite way. The equity statement also charges $317K to accumulated deficit, which looks like common-control accounting, while a gain is recognized at the same time",
+  "The valuation allowance on Ellmount Entertainment was released, citing a 'cumulative history of earnings', even though Malta NOLs exist and Ellmount's profitable related-party revenue line was divested at the same date",
+  "The discontinued casinoroom revenue ($5.5M) came almost entirely from a related party (Spike Up), and that business was then sold back to the related-party group",
+  "Heavy dependence on entities controlled by the founders and directors (Spike Up, Ellmount Interactive, Happy Hour): revenue share, marketing, a domain-purchase liability and due-to/from affiliate balances. A related-party transaction policy was adopted only in 2025",
+  "Disclosure controls are not effective, and a material weakness first identified in 2022 is still unremediated. The company is an emerging growth company with no ICFR attestation",
+  "Numbers disagree within the filing: the HighRoller domain liability owed to Spike Up is $1.8M in Note 13 but $0.0M in Item 13, and real-money bets for 2024 are $661.5M vs $638.4M. The tax rate reconciliation is garbled and many values are blank",
+  "Going-concern doubt was alleviated only by January 2026 equity raises. The private placement was priced at $2.80 and the registered direct offering at $13.21 within two weeks",
+  "Core metrics are declining: active users, depositors and wagers all fell, Q4 2025 wagers dropped sharply, and revenue fell 12%"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "High Roller Technologies, Inc. (ROLR)",
+ "knows_later_problems": false}

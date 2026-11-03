@@ -1,0 +1,13 @@
+{"risk_score": 12,
+ "main_reasons": [
+  "Clean PwC audit opinion and effective ICFR, no restatement or error-correction checkbox, no material weakness, no unresolved staff comments",
+  "Earnings quality looks strong: operating cash flow of $127.1M against net income of $45.5M, cash up to $151M, and revenue growth explained by record box office ($1.28B, +40%)",
+  "Main judgment risk is revenue recognized upfront on system sales, including the present value of estimated future box-office variable consideration; this receivable rose from $44M (2023) to $91M (2025) and included upward estimate changes of $3.0M (2025) and $2.3M (2024). The auditor flagged it as a critical audit matter",
+  "Long-dated financed sales receivables include about $24.5M on nonaccrual and $12.6M billed 90+ days past due, with exposure to Chinese exhibitors in financial difficulty; however, allowances look reasonable and specific provisions were taken",
+  "Heavy China concentration (50% of backlog, $97M of cash in the PRC behind exchange controls) and reliance on exhibitor-reported box office add some estimation and verification risk",
+  "Non-GAAP adjusted net income ($80.6M) is far above GAAP ($34.9M), but the adjustments are disclosed and reconciled. Other items, namely the $15.3M induced-conversion charge on the convertible-note refinancing, the $7M SSIMWAVE goodwill impairment (based on 25% growth assumptions) and the valuation-allowance release, are small and transparent",
+  "Historically the company restated and had SEC enforcement over theater-system revenue recognition in the 2000s, so this area deserves continued scrutiny, though nothing in this filing points to a recurrence"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "IMAX Corporation",
+ "knows_later_problems": false}

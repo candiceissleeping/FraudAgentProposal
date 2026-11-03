@@ -1,0 +1,13 @@
+{"risk_score": 22,
+ "main_reasons": [
+  "Clinical-stage micro-cap biotech with no 2025 revenue; the main accounts are simple (cash, short-term investments, R&D accruals), which limits room for revenue manipulation",
+  "Clean audit opinion from a small auditor (Haskell & White, auditor since 2023); management says ICFR is effective, and as a non-accelerated filer there is no auditor attestation",
+  "Judgment-heavy Level 3 estimates: IPR&D impairment (the CAM), with the annual test date moved from Aug 31 to Dec 31 and a $4.6M KIO-104 write-down attributed only to the fall in market cap; contingent consideration cut by $1.3M through lower KIO-301 probability of success (25-45% vs 48-77%), while the IPR&D model keeps KIO-301 PoS at 23-43%",
+  "A $2.3M Q4 2024 tax liability increase was treated as a change in estimate rather than an error correction; the 2025 tax rate reconciliation has large prior-year true-ups, reinstated NOLs and Austrian prior-year adjustments, which point to weak tax accounting",
+  "ASC 808 collaboration credits ($7.1M) from TOI reimbursements offset R&D, with prepaid/accrued collaboration balances; the unusually detailed TOI roll-forward suggests regulator or auditor scrutiny of how credits are timed",
+  "Presentation errors: diluted loss per share (-2.64) is larger than basic (-2.60) despite anti-dilution rules, and the common stock par amount does not match share count x $0.01 after the reverse split. These point to weak close-process quality but are immaterial in amount",
+  "Point-in-time recognition of the $16M TOI upfront payment in 2024 and deferral of the $1.25M Senju option fee look consistent with ASC 606"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Kiora Pharmaceuticals, Inc. (formerly EyeGate Pharmaceuticals)",
+ "knows_later_problems": false}

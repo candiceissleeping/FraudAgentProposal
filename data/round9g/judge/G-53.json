@@ -1,0 +1,14 @@
+{"risk_score": 22,
+ "main_reasons": [
+  "Prior history of ICFR material weaknesses (2019-2020) leading to securities class action and derivative suits, now settled; management claims remediation and effective ICFR but no auditor attestation (non-accelerated filer)",
+  "Rapid growth: revenue +40.5%, pharma revenue +168%, net income nearly doubled; gross margin expanded from 55.1% to 59.4%",
+  "Accounts receivable more than doubled ($32.6M to $72.2M), though mostly pass-through claim reimbursements offset in payables; trade AR roughly doubled and no credit-loss allowance recorded; high customer concentration in AR",
+  "Operating cash flow ($52.5M) inflated by working-capital timing of pass-through flows and customer card funding rather than earnings quality",
+  "Gamma acquisition: $11.1M intangibles and $4.5M goodwill for a business with no revenue, Level 3 contingent consideration cut by $2.2M via measurement-period adjustment, Q4 change in useful lives, qualitative-only goodwill test",
+  "Significant capitalized internally developed software ($6.8M in 2025, platform cost $36M) with judgmental capitalization, though capitalization declined year over year",
+  "Sloppy disclosures with missing figures and typos (e.g. '$10,568,000 million'), related-party payments to employee-owned consultant",
+  "Mitigants: clean audit opinion, auditor change only from Moss Adams/Baker Tilly merger, large restricted cash balances matching customer funding liability, simple business model, no going-concern or debt pressure"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Paysign, Inc.",
+ "knows_later_problems": false}
