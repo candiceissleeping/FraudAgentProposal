@@ -32,6 +32,16 @@ class ClassifyTest(unittest.TestCase):
         self.assertTrue(r["delegate"] and r["web_tool"])
         self.assertTrue(r["hits"]["web_tool"][0]["subagent"])
 
+    def test_other_routes(self):
+        self.assertTrue(classify([_assistant("Bash", {"command": "gh api search/code -f q=enron"})])["shell_net"])
+        self.assertTrue(classify([_assistant("Bash", {"command": "git clone x/y"})])["shell_net"])
+        self.assertTrue(classify([_assistant("Write", {"file_path": "a.py", "content": "import requests"})])["shell_net"])
+        self.assertTrue(classify([_assistant("Skill", {"skill": "anthropic-skills:deep-research"})])["delegate"])
+        self.assertTrue(classify([_assistant("Workflow", {"script": "..."})])["delegate"])
+        self.assertTrue(classify([_assistant("mcp__github__get_file_contents", {})])["mcp"])
+        self.assertFalse(classify([_assistant("mcp__ccd_session__spawn_task", {})])["any"])
+        self.assertFalse(classify([_assistant("Skill", {"skill": "pdf"})])["any"])
+
     def test_hard_block_not_offered(self):
         r = classify([{"type": "system", "subtype": "init", "tools": ["Read"]}])
         self.assertFalse(r["websearch_offered"])
