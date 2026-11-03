@@ -1,0 +1,8 @@
+[
+  {"company": "BOYD GAMING CORP", "risk_score": 5, "knows_accounting_problems": false, "knows_sec_enforcement": false, "basis": "Established casino operator; no known restatement, non-reliance or SEC action for FY2019."},
+  {"company": "Latch, Inc.", "risk_score": 85, "knows_accounting_problems": true, "knows_sec_enforcement": false, "basis": "Recent SPAC listing. In late 2022 Latch said earlier financials, including FY2021, could no longer be relied on because of revenue recognition problems (certain hardware transactions). An audit committee review followed, filings were delayed, Nasdaq delisted it, and it later restated. I do not know of a specific SEC enforcement action."},
+  {"company": "NICOLET BANKSHARES INC", "risk_score": 5, "knows_accounting_problems": false, "knows_sec_enforcement": false, "basis": "Regional Wisconsin bank holding company; no known accounting issues for FY2024."},
+  {"company": "The Bancorp, Inc.", "risk_score": 20, "knows_accounting_problems": false, "knows_sec_enforcement": false, "basis": "Restated 2010-2014 loan accounting and settled with the SEC in 2019, but neither concerns FY2024. Fintech/BaaS model and credit exposure in its consumer fintech and REBL loans carry some risk. No known restatement for FY2024."},
+  {"company": "Travel + Leisure Co.", "risk_score": 8, "knows_accounting_problems": false, "knows_sec_enforcement": false, "basis": "Formerly Wyndham Destinations (FY2019 under that name). Timeshare loan-loss estimates involve judgment, but there is no known restatement or SEC action for FY2019."},
+  {"company": "WATSCO INC", "risk_score": 4, "knows_accounting_problems": false, "knows_sec_enforcement": false, "basis": "Large HVAC distributor; no known accounting issues for FY2021."}
+]
