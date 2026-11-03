@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "no",
+  "quote": "management concluded that [COMPANY] maintained effective internal control over financial reporting as of"
+ },
+ "F02": {
+  "value": "na",
+  "quote": ""
+ },
+ "F03": {
+  "value": "unqualified",
+  "quote": "In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of March 31, Y0"
+ },
+ "F04": {
+  "value": "no",
+  "quote": ""
+ },
+ "F05": {
+  "value": "no",
+  "quote": "We have served as the Company's auditor since Y-3."
+ },
+ "F06": {
+  "value": "no",
+  "quote": ""
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "yes",
+  "quote": "Revenue recognized at a point in time (products) totaled ... over time (support, maintenance and subscription services and professional services) totaled ... $101.8 million"
+ },
+ "F09": {
+  "value": "no",
+  "quote": "The majority of our contract assets represent unbilled amounts related to professional services."
+ },
+ "F10": {
+  "value": "no",
+  "quote": "Typically, our contracts do not provide our customer with any right of return or refund"
+ },
+ "F11": {
+  "value": "no",
+  "quote": ""
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "no",
+  "quote": ""
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": ""
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "no",
+  "quote": "our total debt was approximately ... comprised of capital lease obligations in both periods."
+ },
+ "F20": {
+  "value": "no",
+  "quote": ""
+ },
+ "F21": {
+  "value": "no",
+  "quote": "cash flows used in financing activities were primarily comprised of the repurchase of shares to satisfy employee tax withholding and to cover the exercise price of the options, and payments on capital lease obligations."
+ },
+ "F22": {
+  "value": "no",
+  "quote": ""
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "none_or_na"
+  ],
+  "quote": ""
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "no",
+  "quote": ""
+ }
+}

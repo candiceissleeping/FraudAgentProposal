@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "no",
+  "quote": "management concluded that our internal control over financial reporting was"
+ },
+ "F02": {
+  "value": "na",
+  "quote": ""
+ },
+ "F03": {
+  "value": "unqualified",
+  "quote": "has issued an unqualified opinion on the effectiveness of [COMPANY]’s controls over financial reporting as of December 31, Y0"
+ },
+ "F04": {
+  "value": "no",
+  "quote": "Based on the Company’s assessment of its current and long-term obligations, management believes it will have adequate"
+ },
+ "F05": {
+  "value": "no",
+  "quote": ""
+ },
+ "F06": {
+  "value": "no",
+  "quote": ""
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "no",
+  "quote": "Revenue is derived primarily from the sale of manufactured products directly to customers."
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "no",
+  "quote": "This method has been consistently applied from period to period and there is no right of return."
+ },
+ "F11": {
+  "value": "no",
+  "quote": "Therefore, [NAME] is no longer a related party."
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": "There were no sales to one customer amounting to more than 10% of our total revenue for the years ended December 31, Y0 and Y-1."
+ },
+ "F13": {
+  "value": 12,
+  "quote": "In addition, one customer accounted for 12% of total accounts receivable as of December 31, Y0."
+ },
+ "F14": {
+  "value": "no",
+  "quote": ""
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "yes",
+  "quote": "In January Y0, we reached settlements with the SEC and the [NAME]. Department of Justice (“DOJ”) with respect to charges asserted by the SEC and DOJ"
+ },
+ "F17": {
+  "value": "yes",
+  "quote": "In October Y-1, these two actions were consolidated, and in March Y0 a consolidated and amended shareholder derivative complaint was filed"
+ },
+ "F18": {
+  "value": "yes",
+  "quote": "In June Y0, the [NAME] served a subpoena on the Company requesting that the Company produce certain documents."
+ },
+ "F19": {
+  "value": "no",
+  "quote": ""
+ },
+ "F20": {
+  "value": "no",
+  "quote": ""
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "In December Y0, we entered into a credit agreement whereby we obtained a secured credit facility ... In April Y0, we filed a shelf registration statement on Form [NAME] with the SEC"
+ },
+ "F22": {
+  "value": "no",
+  "quote": ""
+ },
+ "F23": {
+  "value": "no",
+  "quote": "Our common stock has been quoted on the NASDAQ Global Market under the symbol “[NAME]” since Y-28."
+ },
+ "F24": {
+  "value": [
+   "none_or_na"
+  ],
+  "quote": ""
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "no",
+  "quote": "[COMPANY] operates as one operating segment called High Reliability"
+ }
+}

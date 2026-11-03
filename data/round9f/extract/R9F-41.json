@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "no",
+  "quote": "Based on this assessment, management concluded that our internal control over financial reporting was effective as of"
+ },
+ "F02": {
+  "value": "na",
+  "quote": ""
+ },
+ "F03": {
+  "value": "unqualified",
+  "quote": "In our opinion, [COMPANY] Corporation and subsidiaries (the Company) maintained, in all material respects, effective internal control over financial reporting as of December 31, Y0, based on the [NAME] criteria."
+ },
+ "F04": {
+  "value": "no",
+  "quote": ""
+ },
+ "F05": {
+  "value": "no",
+  "quote": "We have served as the Company's auditor since Y-43"
+ },
+ "F06": {
+  "value": "no",
+  "quote": "ITEM 9.  CHANGES [NAME] WITH [NAME] ACCOUNTING [NAME] FINANCIAL DISCLOSURE. ... Not applicable."
+ },
+ "F07": {
+  "value": "none",
+  "quote": "Certain prior year amounts have been reclassified to conform to the presentation of our Consolidated Financial Statements in"
+ },
+ "F08": {
+  "value": "no",
+  "quote": "Our policy is to recognize revenue when title to the product, ownership and risk of loss transfer to the customer"
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "yes",
+  "quote": "which can be on the date of shipment, the date of receipt by the customer or, for most [NAME] products, when we receive appropriate notification that the product has been used or implanted."
+ },
+ "F11": {
+  "value": "no",
+  "quote": ""
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "no",
+  "quote": "[NAME]  56  Vice President, Chief Financial Officer  Y-1"
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": ""
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "no",
+  "quote": "Certain of our credit facilities require us to comply with financial and other covenants. We were in compliance with all covenants on"
+ },
+ "F20": {
+  "value": "yes",
+  "quote": "Management uses these non-GAAP financial measures for reviewing the operating results of reportable business segments ... bases certain management incentive compensation on these non-GAAP financial measures."
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "the proceeds were primarily from the issuance of ... of senior unsecured notes in January Y0 partially offset by payment of $200 of commercial paper."
+ },
+ "F22": {
+  "value": "yes",
+  "quote": "In September Y0 we completed the acquisition of [NAME] Technologies Inc. ([NAME]) for total consideration of approximately"
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "none_or_na"
+  ],
+  "quote": ""
+ },
+ "F25": {
+  "value": "yes",
+  "quote": "we elected to change the method to calculate the service cost and interest cost components of net periodic benefit costs for our defined benefit plans"
+ },
+ "F26": {
+  "value": "yes",
+  "quote": "Excluding the impact of certain items, we achieved adjusted net earnings of"
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "no",
+  "quote": ""
+ }
+}

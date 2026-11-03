@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "no",
+  "quote": "management concluded that the company’s internal control over financial reporting was effective as of December 31, Y0."
+ },
+ "F02": {
+  "value": "na",
+  "quote": ""
+ },
+ "F03": {
+  "value": "unqualified",
+  "quote": "Also in our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, Y0"
+ },
+ "F04": {
+  "value": "no",
+  "quote": ""
+ },
+ "F05": {
+  "value": "no",
+  "quote": "We have served as the Company’s auditor since Y-32."
+ },
+ "F06": {
+  "value": "no",
+  "quote": ""
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "no",
+  "quote": ""
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "yes",
+  "quote": "Provisions for rebates, chargebacks to wholesalers and distributors, returns, and discounts (collectively, sales deductions) are provided for at the time the related sales are recorded, and are reflected as a reduction of sales."
+ },
+ "F11": {
+  "value": "no",
+  "quote": ""
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "no",
+  "quote": "is Chairman, President and Chief Executive Officer, having served in that capacity since January Y-1."
+ },
+ "F15": {
+  "value": "no",
+  "quote": "age 45, is Executive Vice President and Chief Financial Officer."
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": ""
+ },
+ "F18": {
+  "value": "yes",
+  "quote": "In April Y0, the company became aware of a criminal investigation by the [NAME]. Department of Justice, Antitrust [NAME] and a federal grand jury"
+ },
+ "F19": {
+  "value": "no",
+  "quote": "As of December 31, Y0, the company was in compliance with the financial covenants in these agreements."
+ },
+ "F20": {
+  "value": "yes",
+  "quote": "The vesting condition for such [NAME] based on adjusted operating margin have annual performance targets set at the beginning of the year"
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "In May Y0, [COMPANY] issued €600 million of senior notes at a fixed coupon rate of 1.30% due in May Y+8."
+ },
+ "F22": {
+  "value": "yes",
+  "quote": "On July 27, Y0, the company completed the acquisition of [NAME], a wholly owned subsidiary of [NAME] Limited, for total cash consideration of $629 million, net of cash acquired."
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "none_or_na"
+  ],
+  "quote": ""
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "yes",
+  "quote": "The company believes that the non-GAAP measure of change in net sales at constant currency rates, when used in conjunction with the GAAP measure of change in net sales at actual currency rates"
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "yes",
+  "quote": "In Y0, [COMPANY] announced a change in its commercial structure to improve performance, optimize costs, increase speed in the decision-making process and drive improved accountability across the company."
+ }
+}

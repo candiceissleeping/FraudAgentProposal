@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "no",
+  "quote": "Based on our assessment, we concluded that, as of September 30, Y0, our internal control over financial reporting was effective."
+ },
+ "F02": {
+  "value": "na",
+  "quote": ""
+ },
+ "F03": {
+  "value": "unqualified",
+  "quote": "In our opinion, [NAME] Automation, Inc. maintained, in all material respects, effective internal control over financial reporting as of September 30, Y0, based on the [NAME] criteria."
+ },
+ "F04": {
+  "value": "no",
+  "quote": ""
+ },
+ "F05": {
+  "value": "yes",
+  "quote": "effective November 20, Y-2, the Audit Committee of the Company’s Board of Directors elected not to retain [NAME] as its independent registered public accounting firm"
+ },
+ "F06": {
+  "value": "no",
+  "quote": ""
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "no",
+  "quote": "Revenue from product sales that include significant customization, which primarily include life science automation systems, is recorded using the percentage of completion method."
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "no",
+  "quote": ""
+ },
+ "F12": {
+  "value": 11,
+  "quote": "One of the Company's customers accounted for ... 11%"
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": "At September 30, Y0, no single customer represented 10% of the Company’s accounts receivable."
+ },
+ "F14": {
+  "value": "no",
+  "quote": ""
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": ""
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "no",
+  "quote": ""
+ },
+ "F20": {
+  "value": "no",
+  "quote": ""
+ },
+ "F21": {
+  "value": "no",
+  "quote": ""
+ },
+ "F22": {
+  "value": "yes",
+  "quote": "On April 30, Y0, the Company acquired all the outstanding stock of Dynamic [NAME] Systems Semiconductor Equipment GmbH"
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "none_or_na"
+  ],
+  "quote": ""
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "no",
+  "quote": ""
+ }
+}

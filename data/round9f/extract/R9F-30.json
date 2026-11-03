@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "yes",
+  "quote": "our management has identified the following deficiencies that constitute material weaknesses in the Company’s"
+ },
+ "F02": {
+  "value": "it_general_controls",
+  "quote": "Ineffective design, implementation and monitoring ... of information technology general controls pertaining to the Company’s change management process."
+ },
+ "F03": {
+  "value": "adverse",
+  "quote": "has issued an adverse audit report on the effectiveness of the Company’s internal"
+ },
+ "F04": {
+  "value": "no",
+  "quote": "respect to our revenue and expenses, we expect that our current level of cash and cash equivalents should be sufficient to meet"
+ },
+ "F05": {
+  "value": "no",
+  "quote": "We have served as the Company’s auditor since Y-4."
+ },
+ "F06": {
+  "value": "no",
+  "quote": "with [NAME] on Accounting and Financial Disclosure ... None."
+ },
+ "F07": {
+  "value": "none",
+  "quote": "The material weakness did not result in any ... identified misstatements to the financial statements, and there were no changes to previously released financial results."
+ },
+ "F08": {
+  "value": "yes",
+  "quote": "in a monthly Software as a Service ([NAME]) and service offerings are simultaneously received and consumed by the customer and therefore, ... are recognized over time."
+ },
+ "F09": {
+  "value": "no",
+  "quote": "services and contracts, it has no contract assets."
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "yes",
+  "quote": "[NAME] Legal Services, who is the son of [NAME], Executive Chairman of the Board."
+ },
+ "F12": {
+  "value": 40,
+  "quote": "the Company had one customer that accounted for 40% of total revenue."
+ },
+ "F13": {
+  "value": 47.3,
+  "quote": "two customers that accounted for 47.3% and 47.2% respectively of accounts receivable and unbilled revenue."
+ },
+ "F14": {
+  "value": "no",
+  "quote": ""
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": ""
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "no",
+  "quote": ""
+ },
+ "F20": {
+  "value": "no",
+  "quote": ""
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "we entered into a securities ... purchase agreement with select accredited investors relating to a registered direct offering, issuance and sale of an aggregate"
+ },
+ "F22": {
+  "value": "yes",
+  "quote": "On October 1, Y0, The [COMPANY] completed ... the acquisition of all of the outstanding shares of [NAME]."
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "none_or_na"
+  ],
+  "quote": ""
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "no",
+  "quote": "The business operates as one single segment and discrete financial information is based on the whole, not segregated; and is used"
+ }
+}

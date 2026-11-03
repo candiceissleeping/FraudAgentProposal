@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "no",
+  "quote": "our internal control over financial reporting is effective."
+ },
+ "F02": {
+  "value": "na",
+  "quote": ""
+ },
+ "F03": {
+  "value": "unqualified",
+  "quote": "In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of"
+ },
+ "F04": {
+  "value": "no",
+  "quote": ""
+ },
+ "F05": {
+  "value": "no",
+  "quote": ""
+ },
+ "F06": {
+  "value": "no",
+  "quote": "Item 9. Changes in and [NAME] With [NAME] on Accounting and Financial Disclosure. ... None."
+ },
+ "F07": {
+  "value": "none",
+  "quote": "Certain reclassifications have been made to the previously issued historical financial statements of the Company to conform to this presentation."
+ },
+ "F08": {
+  "value": "no",
+  "quote": "Our revenues, which are derived primarily from rental income, include rents that each tenant pays in accordance with the terms of each lease reported on a straight-line basis over the initial term of the lease."
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "yes",
+  "quote": "Total operational fees and reimbursements  $41,996  $6,908"
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": "As of December 31, Y0, no tenants had annualized rental income, on a straight-line basis, that represented greater than 10% of [NAME] annualized rental income"
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "no",
+  "quote": ""
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "yes",
+  "quote": "Three outstanding putative class action and/or derivative lawsuits, which were filed earlier this year, assert claims for breach of fiduciary duty, abuse of control, corporate waste"
+ },
+ "F18": {
+  "value": "no",
+  "quote": ""
+ },
+ "F19": {
+  "value": "no",
+  "quote": "we were in compliance with the debt covenants under our loan agreements."
+ },
+ "F20": {
+  "value": "no",
+  "quote": ""
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "On June 7, Y0, we closed on a private placement transaction for the sale and issuance of approximately 29.4 million shares of our common stock"
+ },
+ "F22": {
+  "value": "yes",
+  "quote": "On November 5, Y0, we completed the merger with [NAME] based on the terms of the [NAME] Merger Agreement."
+ },
+ "F23": {
+  "value": "no",
+  "quote": "On September 6, Y-2, we completed our  initial public offering (our \"IPO\")"
+ },
+ "F24": {
+  "value": [
+   "none_or_na"
+  ],
+  "quote": ""
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "yes",
+  "quote": "We define [NAME], a non-GAAP measure, consistent with the standards established by the [NAME]"
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "yes",
+  "quote": "the historical information of [NAME] III has been presented as if the merger had occurred as of the beginning of the earliest period presented."
+ }
+}

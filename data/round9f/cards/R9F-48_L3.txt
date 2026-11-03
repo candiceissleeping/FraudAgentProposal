@@ -1,0 +1,4 @@
+FACT CARD R9F-48
+
+Total disclosure red flags (out of 24 possible): 8
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 2 of 4

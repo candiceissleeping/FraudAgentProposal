@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "no",
+  "quote": "our internal control over financial reporting was effective."
+ },
+ "F02": {
+  "value": "na",
+  "quote": ""
+ },
+ "F03": {
+  "value": "not_required",
+  "quote": "Management’s report was not subject to attestation by our independent registered public accounting firm"
+ },
+ "F04": {
+  "value": "no",
+  "quote": ""
+ },
+ "F05": {
+  "value": "no",
+  "quote": ""
+ },
+ "F06": {
+  "value": "no",
+  "quote": ""
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "no",
+  "quote": ""
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "yes",
+  "quote": "Related party transactions with equity investees for the years ended ... Sales  $3,247,197  $2,963,468  $2,185,348"
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": "Our grain marketing operations are not dependent on any one customer"
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "yes",
+  "quote": "[NAME] retired on September 3, Y-1 and [NAME] resigned on August 31, Y0. ... Executive Vice President and Chief Financial Officer, joined [COMPANY] in Y-1"
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": ""
+ },
+ "F18": {
+  "value": "yes",
+  "quote": "In July Y-1, [COMPANY] received a letter from the [NAME] requesting [COMPANY] to preserve, and to produce to the [NAME] on a voluntary basis, documents concerning [COMPANY]'s trading positions ... [COMPANY] is cooperating with the [NAME] inquiry."
+ },
+ "F19": {
+  "value": "no",
+  "quote": "As of August 31, Y0, we were in compliance with all such covenants."
+ },
+ "F20": {
+  "value": "yes",
+  "quote": "The financial performance components included return on adjusted equity ([NAME]) goals for both [COMPANY] and the executive's business unit."
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "Our primary sources of cash in fiscal Y0 were net cash flows from operations and equity financing through the issuance of preferred stock."
+ },
+ "F22": {
+  "value": "no",
+  "quote": "These acquisitions were not material, individually or in aggregate, to our consolidated financial statements."
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "none_or_na"
+  ],
+  "quote": ""
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "yes",
+  "quote": "Beginning in fiscal Y0, supplier advance payments are reported as a separate line item on our Consolidated Balance Sheets. Prior period amounts have been reclassified accordingly."
+ }
+}

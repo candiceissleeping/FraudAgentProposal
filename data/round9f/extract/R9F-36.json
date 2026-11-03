@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "no",
+  "quote": "our internal control over financial reporting was effective in providing reasonable assurance regarding the reliability of financial reporting"
+ },
+ "F02": {
+  "value": "na",
+  "quote": ""
+ },
+ "F03": {
+  "value": "unqualified",
+  "quote": "our report dated February 28, Y+1 expressed an unqualified opinion on the Company’s internal control over financial"
+ },
+ "F04": {
+  "value": "no",
+  "quote": ""
+ },
+ "F05": {
+  "value": "no",
+  "quote": "cash flows for each of the three years in the period ended December 31, Y0"
+ },
+ "F06": {
+  "value": "no",
+  "quote": ""
+ },
+ "F07": {
+  "value": "immaterial_revision",
+  "quote": "the Company identified an error in the deferred tax allocation between its operating segments dating back to the June 1, Y-3 acquisition of [NAME]"
+ },
+ "F08": {
+  "value": "yes",
+  "quote": "In most cases, we recognize revenues from subscription arrangements ratably over the term of the license agreement pursuant to contract"
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "no",
+  "quote": ""
+ },
+ "F12": {
+  "value": 8.8,
+  "quote": "our largest client organization by revenue, [NAME], accounted for 8.8%"
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "no",
+  "quote": ""
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "yes",
+  "quote": "on September 14, Y-1, we received a [NAME] Notice from the staff of the SEC in connection with allegations"
+ },
+ "F17": {
+  "value": "no",
+  "quote": ""
+ },
+ "F18": {
+  "value": "yes",
+  "quote": "we cooperated with investigations of both the SEC and the [NAME]."
+ },
+ "F19": {
+  "value": "no",
+  "quote": "As of December 31, Y0, our Consolidated Leverage Ratio (as defined in the New Amended and Restated Credit Facility) was 1.69:1.00"
+ },
+ "F20": {
+  "value": "no",
+  "quote": ""
+ },
+ "F21": {
+  "value": "no",
+  "quote": ""
+ },
+ "F22": {
+  "value": "no",
+  "quote": "completed the acquisition of [NAME] by paying $23.6 million in cash"
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "none_or_na"
+  ],
+  "quote": ""
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "no",
+  "quote": ""
+ }
+}

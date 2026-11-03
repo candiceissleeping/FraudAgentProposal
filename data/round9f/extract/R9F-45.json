@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "yes",
+  "quote": "We determined that a material weakness in internal control over financial reporting exists because the segregation of duties was inadequate for multiple individuals who had access to create and post journal entries across substantially all of the Company."
+ },
+ "F02": {
+  "value": "staffing_or_segregation_of_duties",
+  "quote": "a material weakness in internal control over financial reporting exists because the segregation of duties was inadequate for multiple individuals who had access to create and post journal entries"
+ },
+ "F03": {
+  "value": "adverse",
+  "quote": "Also in our opinion, the Company did not maintain, in all material respects, effective internal control over financial reporting as of December 31, Y0"
+ },
+ "F04": {
+  "value": "no",
+  "quote": ""
+ },
+ "F05": {
+  "value": "no",
+  "quote": "Item 9.  Changes in and [NAME] With [NAME] on Accounting and Financial Disclosure ... None."
+ },
+ "F06": {
+  "value": "no",
+  "quote": "Item 9.  Changes in and [NAME] With [NAME] on Accounting and Financial Disclosure ... None."
+ },
+ "F07": {
+  "value": "immaterial_revision",
+  "quote": "The Company has corrected for this valuation error during the fourth quarter of Y0 ... The adjustment was not considered material to the current or previously reported Consolidated Financial Statements."
+ },
+ "F08": {
+  "value": "no",
+  "quote": "Sales of grain and ethanol are primarily recognized at the time of shipment, which is when title and risk of loss transfers to the customer."
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "yes",
+  "quote": "In the ordinary course of business, the Company will enter into related party transactions with each of the investments described above, along with other related parties. ... Sales revenues  $1,031,458  $841,366  $510,142"
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "yes",
+  "quote": "[NAME]  Chief Financial Officer  47  Y0"
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": ""
+ },
+ "F18": {
+  "value": "yes",
+  "quote": "The [NAME]. EPA is investigating the possible introduction into the [NAME] of hazardous materials potentially leaching from rouge piles deposited along the riverfront"
+ },
+ "F19": {
+  "value": "no",
+  "quote": "The Company was in compliance with all covenants at and during the years ended December 31, Y0 and Y-1."
+ },
+ "F20": {
+  "value": "no",
+  "quote": ""
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "We were able to obtain long-term fixed interest rate loans secured by various grain facilities to raise funds for the significant investing activities transacted in the second half of the year."
+ },
+ "F22": {
+  "value": "yes",
+  "quote": "On December 3, Y0 our Grain Group completed the purchase of a majority of the grain and agronomy locations of [NAME] Grain Company, a subsidiary of [NAME] Renewable [NAME], Inc."
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "none_or_na"
+  ],
+  "quote": ""
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": "Gross profit in Y0, Y-1, Y-3, and Y-4 includes a $0.3 million, $3.1 million, $2.9 million, and $97.2 million write down in the Plant Nutrient Group"
+ },
+ "F28": {
+  "value": "no",
+  "quote": ""
+ }
+}

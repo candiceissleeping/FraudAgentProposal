@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "yes",
+  "quote": "Based on this assessment, management has determined that because of the material weaknesses described below, our internal control over financial reporting was not effective as of"
+ },
+ "F02": {
+  "value": "revenue",
+  "quote": "controls were not properly designed to determine that actual and estimated foreign currency effects were included in our estimates of revenues, costs and profit at completion for long-term construction contracts that contain multiple currencies."
+ },
+ "F03": {
+  "value": "adverse",
+  "quote": "expressed an adverse opinion on the effectiveness of the Company’s internal control over financial reporting."
+ },
+ "F04": {
+  "value": "no",
+  "quote": ""
+ },
+ "F05": {
+  "value": "no",
+  "quote": ""
+ },
+ "F06": {
+  "value": "no",
+  "quote": "Changes In and Disagreements with [NAME] on Accounting and Financial Disclosures ... Not applicable."
+ },
+ "F07": {
+  "value": "immaterial_revision",
+  "quote": "We corrected an error in our Gas Monetization business segment, originating in periods prior to Y0, which resulted in a net unfavorable impact to gross profit of"
+ },
+ "F08": {
+  "value": "yes",
+  "quote": "[NAME] substantial portion of our revenues and profits are measured and recognized using the percentage-of-completion method of revenue recognition."
+ },
+ "F09": {
+  "value": "yes",
+  "quote": "Costs and estimated earnings in excess of billings on uncompleted contracts (\"[NAME]\")  458  589"
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "yes",
+  "quote": "our revenues included ... $253 million ... related to services we provided to our joint ventures."
+ },
+ "F12": {
+  "value": 26,
+  "quote": "[NAME] revenue percentage  26  %  30  %  22  %"
+ },
+ "F13": {
+  "value": 13,
+  "quote": "[NAME] receivables percentage  13  %  17  %  9  %"
+ },
+ "F14": {
+  "value": "no",
+  "quote": ""
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "no",
+  "quote": ""
+ },
+ "F17": {
+  "value": "no",
+  "quote": ""
+ },
+ "F18": {
+  "value": "yes",
+  "quote": "In January Y+1, the DOJ filed a complaint in the [NAME]. District Court for the [NAME] District of [NAME] in [NAME], against us and two former [COMPANY] subcontractors alleging that"
+ },
+ "F19": {
+  "value": "no",
+  "quote": ", we were in compliance with our financial covenants."
+ },
+ "F20": {
+  "value": "no",
+  "quote": "performance is based ... on average Total Shareholder Return"
+ },
+ "F21": {
+  "value": "no",
+  "quote": ""
+ },
+ "F22": {
+  "value": "no",
+  "quote": ""
+ },
+ "F23": {
+  "value": "no",
+  "quote": ""
+ },
+ "F24": {
+  "value": [
+   "none_or_na"
+  ],
+  "quote": ""
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "yes",
+  "quote": "we separated our Hydrocarbons reportable segment into two separate reportable segments, Gas Monetization and Hydrocarbons"
+ }
+}

@@ -1,0 +1,116 @@
+{
+ "F01": {
+  "value": "no",
+  "quote": "Based on the assessment, management determined that the Company maintained effective internal control over financial reporting as of December 31, Y0, based on those criteria."
+ },
+ "F02": {
+  "value": "na",
+  "quote": ""
+ },
+ "F03": {
+  "value": "unqualified",
+  "quote": "The report, which expresses an unqualified opinion on the effectiveness of the Company’s internal control over financial reporting as of December 31, Y0"
+ },
+ "F04": {
+  "value": "no",
+  "quote": ""
+ },
+ "F05": {
+  "value": "no",
+  "quote": ""
+ },
+ "F06": {
+  "value": "no",
+  "quote": "ITEM 9.  CHANGES [NAME] WITH [NAME] ACCOUNTING [NAME] FINANCIAL DISCLOSURE ... None."
+ },
+ "F07": {
+  "value": "none",
+  "quote": ""
+ },
+ "F08": {
+  "value": "no",
+  "quote": ""
+ },
+ "F09": {
+  "value": "no",
+  "quote": ""
+ },
+ "F10": {
+  "value": "no",
+  "quote": ""
+ },
+ "F11": {
+  "value": "yes",
+  "quote": "The Company has derivative financial instruments with [COMPANY] and affiliates with outstanding notional amounts of"
+ },
+ "F12": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F13": {
+  "value": "not_disclosed",
+  "quote": ""
+ },
+ "F14": {
+  "value": "no",
+  "quote": ""
+ },
+ "F15": {
+  "value": "no",
+  "quote": ""
+ },
+ "F16": {
+  "value": "yes",
+  "quote": "on October 28, Y0, the Company received a preservation letter and request for documents from the Commission requesting the preservation and production of documents and communications"
+ },
+ "F17": {
+  "value": "yes",
+  "quote": "On August 26, Y0, a purported securities class action lawsuit was filed in the United States District Court, [NAME] District of New [NAME]."
+ },
+ "F18": {
+  "value": "yes",
+  "quote": "Currently, such proceedings include a civil subpoena from the DOJ under The Financial Institutions [NAME], Recovery, and Enforcement Act of Y-25"
+ },
+ "F19": {
+  "value": "no",
+  "quote": ""
+ },
+ "F20": {
+  "value": "no",
+  "quote": ""
+ },
+ "F21": {
+  "value": "yes",
+  "quote": "We completed six securitizations in Y0, in addition to executing six subordinate bond transactions to fund residual interests from existing securitizations."
+ },
+ "F22": {
+  "value": "no",
+  "quote": "as we have made no portfolio acquisitions since Y-2."
+ },
+ "F23": {
+  "value": "no",
+  "quote": "most of which was recorded upon and in connection with our initial public offering in January Y0."
+ },
+ "F24": {
+  "value": [
+   "none_or_na"
+  ],
+  "quote": ""
+ },
+ "F25": {
+  "value": "no",
+  "quote": ""
+ },
+ "F26": {
+  "value": "no",
+  "quote": ""
+ },
+ "F27": {
+  "value": "no",
+  "quote": ""
+ },
+ "F28": {
+  "value": "no",
+  "quote": "The Company has one reportable segment: Consumer Finance"
+ }
+}
