@@ -1,6 +1,6 @@
 # 提案：不受記憶污染的 LLM 財報舞弊風險偵測
 
-> 依據：第 1–9 輪實驗（`results/`）。第八輪：[`results/round8/review.md`](results/round8/review.md)；第九輪（時間外驗證）：[`results/round9/review.md`](results/round9/review.md)；第九輪 b（AAER 時間外 + 封閉式辨識）：[`results/round9b/review.md`](results/round9b/review.md)；第九輪 c（給名單也認不出的評分卡）：[`results/round9c/review.md`](results/round9c/review.md)；第九輪 d（模型記得結果的 AAER 樣本）：[`results/round9d/review.md`](results/round9d/review.md)。
+> 依據：第 1–9 輪實驗（`results/`）。第八輪：[`results/round8/review.md`](results/round8/review.md)；第九輪（時間外驗證）：[`results/round9/review.md`](results/round9/review.md)；第九輪 b（AAER 時間外 + 封閉式辨識）：[`results/round9b/review.md`](results/round9b/review.md)；第九輪 c（給名單也認不出的評分卡）：[`results/round9c/review.md`](results/round9c/review.md)；第九輪 d（模型記得結果的 AAER 樣本）：[`results/round9d/review.md`](results/round9d/review.md)；**第九輪 e（最終判定）：[`results/round9e/review.md`](results/round9e/review.md)**。
 > 日期：2026-11-02
 
 ## 1. 問題
@@ -76,7 +76,13 @@ XBRL 當時申報數字 ─程式─▶ 比率 ───────────
 - **給名單的對抗辨識**：L2 4–7/32、L2b 5–7/32 未通過（知名 AAER 公司的「出事模式」本身就是記憶）；只剩紅旗總數的 L3 卡 0/32、2/32 通過
 - **不靠記憶的區分力**：AAER 16 對上 L3 卡 0.62、程式數紅旗 0.64，皆不顯著；4.02 時間外 27 對上 0.77，顯著
 
-### 3.6 必須一起報告的限制
+### 3.6 第九輪 e：最終評分輸入 = L3 紅旗總數卡（最終判定）
+完整結果：[`results/round9e/review.md`](results/round9e/review.md)
+- **給名單也認不出**：4.02 樣本 1/54，AAER 樣本 0/32、2/32；評分者 0/86 猜名稱、0/86 知道結果 → **目標一達成**
+- **仍有顯著區分力**：4.02 時間外 27 對 AUC **0.76（0.62–0.88）**，與完整卡 0.77 幾乎相同
+- **分數不含記憶**：在模型記得 AAER 的樣本上，控制卡片內容後，無名稱分數與「只看名稱的記憶分數」偏相關 −0.09（L3）／+0.08（L2）；加上名稱則 +0.70 → **目標二：分數來自推理**
+
+### 3.7 必須一起報告的限制
 - **公司類型先驗**：只給名稱、模型不知道結果時，MEM 仍有 0.71。J0 與 MEM 的相關 ρ = 0.72；扣除 MEM 後 J0 殘差 AUC 0.65（0.50–0.80）。J0 主要讀出的是「公司處於高風險狀態」，這是事前可得、合法的資訊，但 LLM 的增量要以這個先驗為基準，而不是 0.5。
 - 4.02 是重編事件，不等於舞弊；27 對樣本小；抽取、評分、探針都是同一模型。
 
@@ -84,7 +90,7 @@ XBRL 當時申報數字 ─程式─▶ 比率 ───────────
 1. **數字層**（不用 LLM、不受記憶影響）：F-score、M-score、悄悄修改偵測、同業偏離（`results/methods_overview.md` 方法 1–4）
 2. **事實層**（LLM 抽取 + 程式驗證）：28 個欄位，只作特徵
 3. **判斷層**：兩種做法並列，看哪個在時間外樣本上較好
-   - (a) **類別計數卡（L2）** → LLM 判斷（第九輪 c：給名單也認不出，AUC 0.77）
+   - (a) **紅旗總數卡（L3）** → LLM 判斷（第九輪 e：任何樣本給名單都認不出，時間外 AUC 0.76）；一般公司可用資訊較多的類別計數卡（L2，AUC 0.77）
    - (b) 事實卡欄位 + 數字層 → 在訓練年度學權重的統計模型（LLM 不決定權重，完全無記憶風險）
 4. 每次換模型都重跑關卡 ①–⑤；時間窗隨模型的訓練截止日移動
 

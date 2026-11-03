@@ -44,6 +44,8 @@ GE 原本在名單中，但其 FY2016 10-K 在資料集中為空（年報以引�
 - 第九輪 d（16 對 AAER，模型記得結果）：[`results/round9d/review.md`](results/round9d/review.md)
   - 加名稱：12/16 家 AAER 公司被說出後來出事，AUC 0.63 → 0.78（記憶 +0.15）；不加名稱：0/64 知道
   - 給名單辨識：L2 4–7/32 ✗，L3（只剩紅旗總數）0、2/32 ✓；L3 AUC 0.62（不顯著）
+- **第九輪 e（最終判定）**：[`results/round9e/review.md`](results/round9e/review.md)
+  - L3 紅旗總數卡：給名單 1/54、0/32、2/32 認不出；時間外 AUC 0.76（0.62–0.88）；控制內容後與記憶偏相關 −0.09（加名稱 +0.70）
 - **提案：[`PROPOSAL.md`](PROPOSAL.md)**
 
 ## 流程
