@@ -1,0 +1,12 @@
+{"risk_score": 6,
+ "main_reasons": [
+  "Simple holding-company structure: income is almost entirely equity-method income from a 15.07% stake in National Beef, with no revenue, inventory or receivables of its own for management to manipulate",
+  "Equity income ties exactly to investee net income x 15.0729% less a constant ~$0.6M basis-difference amortization in every year; the investment rollforward and cash flows reconcile",
+  "Investee (National Beef) has audited financial statements included in the filing, with a clean Grant Thornton opinion; USPB itself has a clean PCAOB opinion, no critical audit matters, no restatement, and ICFR assessed as effective",
+  "Earnings decline (NBP net income $1.16B to $277M to $49M) is explained by the cattle cycle and matches the investee statements; there are no signs of earnings smoothing",
+  "Impairment risk on the $169M carrying value looks low: unit transfer prices imply a market value well above book, although the 2024 impairment test was only qualitative",
+  "Minor concerns: the investee has large unaccrued antitrust contingencies (only the $14.2M wage settlement is accrued), the board is small, insider-heavy and farmer-led, and the filing has sloppy disclosure errors (segment table mislabeling, $243,101 vs $243,401 total assets, an NBP capital-statement vs cash-flow distribution difference of $350M for 2022), but these are immaterial presentation errors"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "U.S. Premium Beef, LLC",
+ "knows_later_problems": false}

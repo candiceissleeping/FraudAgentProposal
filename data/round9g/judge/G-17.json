@@ -1,0 +1,11 @@
+{"risk_score": 70,
+ "main_reasons": [
+  "Deferred offering costs of $129,301 (about 99.5% of total assets) are still capitalized even though the self-underwritten offering terminated on Nov 8, 2023 with no shares sold; SAB Topic 5A and the company's own policy require aborted offering costs to be expensed, so assets and equity are materially overstated and equity would be negative (about -$28k)",
+  "Shell-like Hong Kong/Cayman startup: no revenue, no employees, $653 cash, going-concern doubt, survives on undocumented shareholder contributions",
+  "Material weaknesses admitted (no segregation of duties, inadequate accounting resources); two insider directors control about 95% of shares; no audit committee",
+  "Small offshore-focused auditor (BCRG Group, engaged since 2024) issued a clean opinion with no critical audit matters despite the obvious deferred-cost issue",
+  "Sloppy disclosures: controls evaluated 'as of December 31, 2023', the MD&A calls the funding 'advances' while the statements call it capital contributions, blank amounts in the notes, audit fees in Item 14 don't match expense, and the signature block is garbled"
+ ],
+ "recognised_company": false,
+ "company_name_guess": "Protopia Global Holdings Inc.",
+ "knows_later_problems": false}

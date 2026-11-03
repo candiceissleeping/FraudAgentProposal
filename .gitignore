@@ -28,3 +28,4 @@ data/round10/submissions/
 data/round10/*.log
 data/round10/inputs/A/
 data/round10/inputs/B/
+data/round9g/raw/*.txt

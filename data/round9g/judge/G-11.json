@@ -1,0 +1,10 @@
+{"risk_score": 12,
+ "main_reasons": ["Simple, mostly recurring licensing revenue model with transparent disaggregation and cash flow from operations (7.7M) well above net income (1.5M)",
+  "Large Big-firm-affiliated auditor (Baker Tilly) clean opinion, no critical audit matters, no restatement flags or auditor changes",
+  "Pending all-cash acquisition by Evolution at $3.20/share reduces incentive to manage earnings; strategic buyer due diligence",
+  "Minor flags: accounts receivable and unbilled receivables up ~22%/44% while revenue fell 2.7%; Client B receivable jumped from 0.2M to 1.0M",
+  "Unaccrued potential sales/use tax liability from self-identified compliance gap; gross-vs-net royalty judgment on licensed content",
+  "Small OTCQB company with no auditor ICFR attestation, thin finance staff, no formal code of ethics, stockholders' deficit and leverage-based covenants"],
+ "recognised_company": true,
+ "company_name_guess": "Galaxy Gaming, Inc.",
+ "knows_later_problems": false}

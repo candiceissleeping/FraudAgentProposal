@@ -1,0 +1,12 @@
+{"risk_score": 15,
+ "main_reasons": [
+  "Clean KPMG audit opinion and effective ICFR; no restatement, error corrections, auditor change or material weakness disclosed",
+  "Severe financial distress: ~$26B debt, stockholders' deficiency of $2.3B, negative free cash flow, $7.4B 2027 maturities with going-concern warning if refinancing not secured by April 2026, creating pressure on reported results",
+  "Large judgmental intangibles: $1.6B franchise-rights impairment taken, but $8.0B goodwill and $11.6B franchise rights remain while fixed-rate debt trades ~$6.7B below carrying value; goodwill test passes partly because reporting unit carrying value is low/negative (CAM)",
+  "Aggressive financing maneuvers (unrestricted subsidiary designations, ABS, creditor co-op) and heavy reliance on Adjusted EBITDA, but these are disclosed and largely balance-sheet/financing matters rather than revenue manipulation",
+  "Controlled company (Drahi ~94% voting) with related-party capex and services from Altice Europe and a common-control transfer of i24 NEWS; amounts are small relative to the business",
+  "Revenue declines, subscriber losses and margins are internally consistent and in line with cable-industry trends; capitalization of labor/CPE costs is a standard but judgmental area"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Optimum Communications, Inc. (formerly Altice USA)",
+ "knows_later_problems": false}

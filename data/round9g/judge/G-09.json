@@ -1,0 +1,11 @@
+{"risk_score": 7,
+ "main_reasons": [
+  "Simple, low-judgment business: ratable recognition of annual prepaid SaaS subscriptions; deferred revenue (~$11.1M) moves consistently with revenue, and the auditor reported no critical audit matters",
+  "Balance sheet is cash and U.S. Treasuries (~$18.9M Level 1) with no debt, no off-balance-sheet items and small goodwill; little room for valuation manipulation",
+  "Earnings quality is reasonable: operating cash flow is positive, receivables are stable (~$3.8M), and tax expense and cash taxes paid are consistent with pre-tax income",
+  "Profit fell (operating income down 53%) and is plainly disclosed; no sign of aggressive smoothing",
+  "Minor governance flags: a family controls about 56% of shares, the Audit Committee includes a non-independent family member director, the Chief Accounting Officer's position was eliminated in Feb 2026, professional fees rose 60%, there are prior-year tax true-ups and a newly recognized accrued vacation deferred tax asset, and ICFR is not audited (small reporting company)"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "CreditRiskMonitor.com, Inc. (CRMZ)",
+ "knows_later_problems": false}

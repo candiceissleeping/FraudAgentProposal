@@ -1,0 +1,11 @@
+{"risk_score": 9,
+ "main_reasons": [
+  "Large accelerated filer with clean, unqualified KPMG opinions on both the financial statements and ICFR; no material weaknesses, no restatement or error-correction boxes checked",
+  "Huge 2025 net loss ($7.1bn) is driven mainly by non-cash, transparent items: share of the VMO2 JV's GBP 3.8bn goodwill impairment (~$2.5bn share) and $3.1bn FX remeasurement losses on intercompany loans, which reduce earnings rather than inflate them",
+  "Consolidated operations are modest and stable (revenue $4.9bn; organic revenue -1.2%, Adjusted EBITDA -2.1%); growth is explained by the Formula E acquisition and Sunrise transitional services, with no unusual receivable or margin patterns",
+  "Areas that call for judgment: equity-method accounting for 50% JVs (the critical audit matter), Level 3 fair values for about 70 Liberty Growth investments, related-party service and CPE revenue from the JVs ($387m from VMO2), and possible future impairment at VodafoneZiggo",
+  "Complexity from many transactions (Sunrise spin-off, Formula E step acquisition gain, Wyre, Slovakia sale, sizable capex increase), but all are disclosed in detail; cash from operations ($1.2bn) is consistent with Adjusted EBITDA"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "Liberty Global Ltd.",
+ "knows_later_problems": false}

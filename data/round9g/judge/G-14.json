@@ -1,0 +1,12 @@
+{"risk_score": 18,
+ "main_reasons": [
+  "Tiny OTCQB micro-cap (revenue $377K, total assets $1.25M) with going-concern doubt and equity of only $100K, so small errors could be material",
+  "Simple, mostly cash-based business: revenue from a single government-owned customer (IEC) billed as services are performed, plus first royalties from Elbit; few aggressive estimates",
+  "Audited by KPMG Somekh Chaikin; the only critical audit matter is a small Level 3 warrant liability ($189K) from the December 2025 PIPE",
+  "Sloppy disclosures: weighted average shares (2,186,813) differ from shares outstanding (2,168,813); equity allocation shown as 286 vs 268; plan-increase figures inconsistent (440,000 vs 480,000); MD&A cash-flow explanation is illogical; many blank XBRL figures in notes",
+  "Governance weaknesses: a material weakness was remediated only in 2025; the 'independent' audit committee member Nachtomy is paid $120K a year as a director; a small board drawn from one group; related-party loans",
+  "Judgmental items (option valuation with 249% volatility, PIPE liability/equity split, deemed dividends on warrant extensions) are small in dollar terms"
+ ],
+ "recognised_company": true,
+ "company_name_guess": "DUKE Robotics Corp. (formerly UAS Drone Corp.)",
+ "knows_later_problems": false}
