@@ -159,6 +159,19 @@ def evaluate(args):
             if m["company"].startswith(rows[p][1]):
                 mem[cmap[p]] = float(m["risk_score"])
     rep.append(line("參考：MEM 只有名稱", mem))
+    # Supplementary (not pre-registered): K-card score net of the name-only prior
+    l2 = {os.path.basename(f)[:-5]: float(json.load(open(f))["risk_score"]) for f in glob.glob(f"{DATA}/judge/L2/R9-*.json")}
+    cs = sorted(c for c in l2 if c in mem)
+    if cs:
+        x, y = [mem[c] for c in cs], [l2[c] for c in cs]
+        mx, my = sum(x) / len(x), sum(y) / len(y)
+        beta = sum((a - mx) * (b - my) for a, b in zip(x, y)) / sum((a - mx) ** 2 for a in x)
+        rep.append(line("補充：J0-K（L2）扣除 MEM 線性部分的殘差", {c: l2[c] - (my + beta * (mem[c] - mx)) for c in cs}))
+        rep += ["", f"- 補充：J0-K 與 MEM 的 Spearman ρ = {round8.spearman(x, y):.2f}；與 J0 完整卡 ρ = "
+                f"{round8.spearman([j0[c] for c in cs], y):.2f}"]
+        cl = json.load(open(f"{DATA}/probe/closed_L2.json")) if os.path.exists(f"{DATA}/probe/closed_L2.json") else {}
+        hits = [(name_of[c], d.get("confidence")) for c, d in cl.items() if round8._name_hit(d.get("assigned", ""), name_of[c])]
+        rep.append(f"- L2 封閉式配對正確的卡（名稱, 信心）：{hits}")
     os.makedirs(OUT, exist_ok=True)
     open(f"{OUT}/evaluation.md", "w").write("\n".join(rep) + "\n")
     print("\n".join(rep))
