@@ -1,0 +1,7 @@
+company,condition,file,run,risk_score,recognised,knows_later_problems,company_name_guess
+P07C Ducommun,C,doc_m1j6,1,16,True,False,"Ducommun Incorporated (fiscal year 2018 10-K)"
+P07C Ducommun,C,doc_m1j6,2,14,True,False,"Ducommun Incorporated (NYSE: DCO), FY2018 10-K"
+P07C Ducommun,C,doc_m1j6,3,17,True,False,"Ducommun Incorporated (NYSE: DCO), FY2018 10-K"
+P07C Ducommun,C+,doc_t9e4,1,32,True,False,"Ducommun Incorporated (FY2018 10-K)"
+P07C Ducommun,C+,doc_t9e4,2,35,True,False,"Ducommun Incorporated (FY2018 10-K)"
+P07C Ducommun,C+,doc_t9e4,3,30,True,False,"Ducommun Incorporated (FY2018 10-K)"

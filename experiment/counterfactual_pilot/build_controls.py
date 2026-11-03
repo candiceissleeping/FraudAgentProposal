@@ -15,7 +15,7 @@ from experiment.edgar_risk import round6_llm as base
 from experiment.edgar_risk.redact import make_redactor
 
 CONTROLS = {
-    "P09C": {"name": "Thermon Group Holdings, Inc.", "fy": 2019,
+    "P09C": {"name": "Thermon Group Holdings, Inc.", "fy": 2020,
              "aliases": ["Thermon Group Holdings, Inc.", "Thermon Group Holdings", "Thermon Holding Corp.",
                          "Thermon Holding Corp", "Thermon Industries, Inc.", "Thermon Industries", "Thermon", "THERMON"],
              "year_end": "March Y0", "ship": "the first quarter of the following fiscal year",
