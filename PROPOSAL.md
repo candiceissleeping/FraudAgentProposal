@@ -1,6 +1,6 @@
 # 提案：不受記憶污染的 LLM 財報舞弊風險偵測
 
-> 依據：第 1–9 輪實驗（`results/`）。第八輪：[`results/round8/review.md`](results/round8/review.md)；第九輪（時間外驗證）：[`results/round9/review.md`](results/round9/review.md)；第九輪 b（AAER 時間外 + 封閉式辨識）：[`results/round9b/review.md`](results/round9b/review.md)；第九輪 c（給名單也認不出的評分卡）：[`results/round9c/review.md`](results/round9c/review.md)。
+> 依據：第 1–9 輪實驗（`results/`）。第八輪：[`results/round8/review.md`](results/round8/review.md)；第九輪（時間外驗證）：[`results/round9/review.md`](results/round9/review.md)；第九輪 b（AAER 時間外 + 封閉式辨識）：[`results/round9b/review.md`](results/round9b/review.md)；第九輪 c（給名單也認不出的評分卡）：[`results/round9c/review.md`](results/round9c/review.md)；第九輪 d（模型記得結果的 AAER 樣本）：[`results/round9d/review.md`](results/round9d/review.md)。
 > 日期：2026-11-02
 
 ## 1. 問題
@@ -69,7 +69,14 @@ XBRL 當時申報數字 ─程式─▶ 比率 ───────────
 - → 目標一的三層（不知道結果、實際評分時認不出、給名單也認不出）全部達成；目標二在「輸入認不出 + 結果不可能被記得」的條件下仍有區分力
 - 附帶發現：單純加總紅旗（不用 LLM）也有 0.72–0.74。LLM 的價值主要在「抽事實」，最後的判斷加值不大
 
-### 3.5 必須一起報告的限制
+### 3.5 第九輪 d：模型「記得」AAER 的樣本
+完整結果：[`results/round9d/review.md`](results/round9d/review.md)。16 對 AAER（13 對截止前、3 對截止後），把 L2 卡套用上去：
+- **記憶存在且可量測**：同一張 L2 卡加上名稱，評分者 12/16 家 AAER 公司說知道後來出事，AUC 0.63 → 0.78，記憶效應 +10.8（CI +4.9 至 +16.9）
+- **拿掉名稱就擋住**：L2、L3 卡評分者 0/64 猜名稱、0/64 知道結果
+- **給名單的對抗辨識**：L2 4–7/32、L2b 5–7/32 未通過（知名 AAER 公司的「出事模式」本身就是記憶）；只剩紅旗總數的 L3 卡 0/32、2/32 通過
+- **不靠記憶的區分力**：AAER 16 對上 L3 卡 0.62、程式數紅旗 0.64，皆不顯著；4.02 時間外 27 對上 0.77，顯著
+
+### 3.6 必須一起報告的限制
 - **公司類型先驗**：只給名稱、模型不知道結果時，MEM 仍有 0.71。J0 與 MEM 的相關 ρ = 0.72；扣除 MEM 後 J0 殘差 AUC 0.65（0.50–0.80）。J0 主要讀出的是「公司處於高風險狀態」，這是事前可得、合法的資訊，但 LLM 的增量要以這個先驗為基準，而不是 0.5。
 - 4.02 是重編事件，不等於舞弊；27 對樣本小；抽取、評分、探針都是同一模型。
 

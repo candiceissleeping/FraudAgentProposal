@@ -41,6 +41,9 @@ GE 原本在名單中，但其 FY2016 10-K 在資料集中為空（年報以引�
 - 第九輪 c（匿名化階梯：給名單也認不出公司的評分卡）：[`results/round9c/review.md`](results/round9c/review.md)
   - 封閉式辨識：完整卡 34/54 → L1 16/54 → **L2 類別計數卡 3/54（≈ 隨機）**；L2 卡 LLM 評分 AUC 0.77（0.63–0.88）
   - 流程：`results/round9c/protocol.md` → `python -m experiment.edgar_risk.round9c cards` → 封閉式探針 agent → 評分 agent → `evaluate`
+- 第九輪 d（16 對 AAER，模型記得結果）：[`results/round9d/review.md`](results/round9d/review.md)
+  - 加名稱：12/16 家 AAER 公司被說出後來出事，AUC 0.63 → 0.78（記憶 +0.15）；不加名稱：0/64 知道
+  - 給名單辨識：L2 4–7/32 ✗，L3（只剩紅旗總數）0、2/32 ✓；L3 AUC 0.62（不顯著）
 - **提案：[`PROPOSAL.md`](PROPOSAL.md)**
 
 ## 流程
