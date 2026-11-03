@@ -143,6 +143,18 @@ def evaluate(args):
     rep.append(line("J0-L2，只看截止前 AAER（13 對）", j0, lambda c: key[c]["pair"] not in pre))
     rep.append(line("J1-L2（L2 卡 + 真實名稱），16 對", j1))
     rep.append(line("J1-L2，只看截止前 AAER（13 對）", j1, lambda c: key[c]["pair"] not in pre))
+    j3raw = load("L3")
+    if j3raw:
+        rep.append(line("9d-c J0-L3（只有紅旗總數，LLM 評分），16 對", {c: float(d["risk_score"]) for c, d in j3raw.items()}))
+    if os.path.exists(f"{DATA}/cards/counts.json"):
+        cnt = json.load(open(f"{DATA}/cards/counts.json"))
+        rep.append(line("9d-c 程式：揭露紅旗總數 + 數字訊號數（不用 LLM）", {c: v["disclosure_total"] + v["numeric"] for c, v in cnt.items()}))
+    for f in sorted(glob.glob(f"{DATA}/probe_L3/closed_*.json")):
+        cl = json.load(open(f))
+        hits = [key[c]["name"] for c, d in cl.items() if c in key and round8._name_hit(d.get("assigned", ""), key[c]["name"])]
+        rep.append(f"- 9d-c L3 封閉式辨識 {os.path.basename(f)}：**{len(hits)}/{len(cl)}**（標準 ≤ 3）{hits}")
+    if j3raw:
+        rep.append(f"- 9d-c J0-L3 自述知道後來有問題：{sum(str(d.get('knows_later_problems')).lower() == 'true' for d in j3raw.values())}/{len(j3raw)}")
     kn0 = [key[c]["name"] for c, d in j0raw.items() if str(d.get("knows_later_problems")).lower() == "true"]
     gs0 = [d.get("guess") for d in j0raw.values() if d.get("guess")]
     kn1 = [key[c]["name"] for c, d in j1raw.items() if str(d.get("knows_later_problems")).lower() == "true"]
