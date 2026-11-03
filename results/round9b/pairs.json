@@ -1,0 +1,89 @@
+[
+ {
+  "case": {
+   "name": "Latch, Inc.",
+   "cik": "1826000",
+   "aaer": "AAER-4604",
+   "aaer_date": "20261001",
+   "y0_acc": "0001826000-22-000020",
+   "y0_period": "20211231",
+   "y0_doc": "lat-20211231.htm",
+   "y1_acc": "0001193125-21-083025",
+   "y1_period": "20201231",
+   "sic": "5072",
+   "event_acc": "",
+   "event_date": "20261001"
+  },
+  "control": {
+   "name": "WATSCO INC",
+   "cik": "105016",
+   "sic": "5070",
+   "digits": 3,
+   "y0_acc": "0001193125-22-054394",
+   "y0_period": "20211231",
+   "y0_doc": "d278286d10k.htm",
+   "y1_acc": "0001193125-21-060167",
+   "y1_period": "20201231",
+   "assets_ratio": 6.864,
+   "pool": 3
+  }
+ },
+ {
+  "case": {
+   "name": "Travel + Leisure Co.",
+   "cik": "1361658",
+   "aaer": "AAER-4603",
+   "aaer_date": "20260930",
+   "y0_acc": "0001361658-20-000012",
+   "y0_period": "20191231",
+   "y0_doc": "wynd-20191231x10k.htm",
+   "y1_acc": "0001361658-19-000009",
+   "y1_period": "20181231",
+   "sic": "7011",
+   "event_acc": "",
+   "event_date": "20260930"
+  },
+  "control": {
+   "name": "BOYD GAMING CORP",
+   "cik": "906553",
+   "sic": "7011",
+   "digits": 4,
+   "y0_acc": "0001437749-20-003765",
+   "y0_period": "20191231",
+   "y0_doc": "bgc20190819_10k.htm",
+   "y1_acc": "0000906553-19-000009",
+   "y1_period": "20181231",
+   "assets_ratio": 0.892,
+   "pool": 19
+  }
+ },
+ {
+  "case": {
+   "name": "The Bancorp, Inc.",
+   "cik": "1295401",
+   "aaer": "AAER-4599",
+   "aaer_date": "20260903",
+   "y0_acc": "0001562762-25-000040",
+   "y0_period": "20241231",
+   "y0_doc": "tbbk-20241231x10k.htm",
+   "y1_acc": "0001562762-24-000049",
+   "y1_period": "20231231",
+   "sic": "6021",
+   "event_acc": "",
+   "event_date": "20260903"
+  },
+  "control": {
+   "name": "NICOLET BANKSHARES INC",
+   "cik": "1174850",
+   "sic": "6021",
+   "digits": 4,
+   "y0_acc": "0001174850-25-000008",
+   "y0_period": "20241231",
+   "y0_doc": "nic-20241231.htm",
+   "y1_acc": "0001174850-24-000010",
+   "y1_period": "20231231",
+   "assets_ratio": 1.008,
+   "pool": 84
+  }
+ }
+]

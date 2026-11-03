@@ -32,6 +32,9 @@ OUT = "results/round9"
 SEED = 20261102
 UA = os.environ.get("SEC_UA", "research candace7907@gmail.com")
 WINDOW = ("20260701", "20261031")
+PREFIX = "R9"  # card code prefix (round 9b reuses this module with "R9B")
+ITEMS_PATH = "data/round9/8k_items.tsv"
+EXCLUDE_CIKS = set()  # companies that may not be used as controls (round 9b: round 9 firms)
 
 
 def _get(url, out=None):
@@ -82,7 +85,7 @@ def tenks(cik, before=None):
 
 def _items():
     rows = []
-    for l in open(f"{DATA}/8k_items.tsv"):
+    for l in open(ITEMS_PATH):
         acc, form, cik, date, name, items, sic, fye = l.rstrip("\n").split("\t")
         rows.append(dict(acc=acc, form=form, cik=cik, date=date, name=name, items=items.split(","), sic=sic))
     return rows
@@ -143,7 +146,7 @@ def controls(args):
     for r in items:
         if r["sic"]:
             sic_of[r["cik"]] = r["sic"]
-    used, pairs = set(), []
+    used, pairs = set(EXCLUDE_CIKS), []
     for c in cs:
         assets = _frame_assets(c["y0_period"])
         a0 = assets.get(str(int(c["cik"])))
@@ -206,7 +209,7 @@ def code_map():
     pids = [r[0] for r in _rows()]
     rng = random.Random(SEED + 9)
     rng.shuffle(pids)
-    return {pid: f"R9-{i:02d}" for i, pid in enumerate(pids, 1)}
+    return {pid: f"{PREFIX}-{i:02d}" for i, pid in enumerate(pids, 1)}
 
 
 def build(args):
@@ -353,7 +356,7 @@ def covers(args):
 def _load_judge(cond):
     import glob
     out = {}
-    for f in glob.glob(f"{DATA}/judge/{cond}/R9-*.json"):
+    for f in glob.glob(f"{DATA}/judge/{cond}/{PREFIX}-*.json"):
         out[os.path.basename(f)[:-5]] = json.load(open(f))
     return out
 

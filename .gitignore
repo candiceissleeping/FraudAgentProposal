@@ -11,3 +11,8 @@ data/round9/frames/
 data/round9/idx/
 data/round9/8k_items.tsv*
 data/round9/scan.log
+data/round9b/redacted/*.txt
+data/round9b/companyfacts/
+data/round9b/submissions/
+data/round9b/frames/
+data/round9b/company_tickers.json
