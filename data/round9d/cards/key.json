@@ -1,0 +1,226 @@
+{
+ "A-01": {
+  "pair": "D13",
+  "group": "T",
+  "name": "Evoqua Water",
+  "period": "20180930",
+  "post_cutoff_aaer": false
+ },
+ "A-02": {
+  "pair": "D06",
+  "group": "C",
+  "name": "THEMAVEN, INC.",
+  "period": "20181231",
+  "post_cutoff_aaer": false
+ },
+ "A-03": {
+  "pair": "D08",
+  "group": "C",
+  "name": "CONSOLIDATED COMMUNICATIONS HOLDINGS, INC.",
+  "period": "20191231",
+  "post_cutoff_aaer": false
+ },
+ "A-04": {
+  "pair": "D01",
+  "group": "T",
+  "name": "Latch",
+  "period": "20211231",
+  "post_cutoff_aaer": true
+ },
+ "A-05": {
+  "pair": "D07",
+  "group": "T",
+  "name": "CPI Aerostructures",
+  "period": "20181231",
+  "post_cutoff_aaer": false
+ },
+ "A-06": {
+  "pair": "D12",
+  "group": "C",
+  "name": "TRANSATLANTIC PETROLEUM LTD.",
+  "period": "20181231",
+  "post_cutoff_aaer": false
+ },
+ "A-07": {
+  "pair": "D10",
+  "group": "T",
+  "name": "Malvern Bancorp",
+  "period": "20200930",
+  "post_cutoff_aaer": false
+ },
+ "A-08": {
+  "pair": "D05",
+  "group": "C",
+  "name": "BOSTON SCIENTIFIC CORP",
+  "period": "20191231",
+  "post_cutoff_aaer": false
+ },
+ "A-09": {
+  "pair": "D04",
+  "group": "C",
+  "name": "PDS BIOTECHNOLOGY CORP",
+  "period": "20201231",
+  "post_cutoff_aaer": false
+ },
+ "A-10": {
+  "pair": "D07",
+  "group": "C",
+  "name": "DUCOMMUN INC /DE/",
+  "period": "20181231",
+  "post_cutoff_aaer": false
+ },
+ "A-11": {
+  "pair": "D13",
+  "group": "C",
+  "name": "WELBILT, INC.",
+  "period": "20181231",
+  "post_cutoff_aaer": false
+ },
+ "A-12": {
+  "pair": "D02",
+  "group": "T",
+  "name": "Archer-Daniels-Midland",
+  "period": "20221231",
+  "post_cutoff_aaer": false
+ },
+ "A-13": {
+  "pair": "D11",
+  "group": "C",
+  "name": "MITEK SYSTEMS INC",
+  "period": "20170930",
+  "post_cutoff_aaer": false
+ },
+ "A-14": {
+  "pair": "D06",
+  "group": "T",
+  "name": "Ideanomics",
+  "period": "20181231",
+  "post_cutoff_aaer": false
+ },
+ "A-15": {
+  "pair": "D09",
+  "group": "C",
+  "name": "THERMON GROUP HOLDINGS, INC.",
+  "period": "20200331",
+  "post_cutoff_aaer": false
+ },
+ "A-16": {
+  "pair": "D14",
+  "group": "C",
+  "name": "VISTEON CORP",
+  "period": "20171231",
+  "post_cutoff_aaer": false
+ },
+ "A-17": {
+  "pair": "D08",
+  "group": "T",
+  "name": "GTT Communications",
+  "period": "20191231",
+  "post_cutoff_aaer": false
+ },
+ "A-18": {
+  "pair": "D15",
+  "group": "T",
+  "name": "Travel + Leisure Co.",
+  "period": "20191231",
+  "post_cutoff_aaer": true
+ },
+ "A-19": {
+  "pair": "D02",
+  "group": "C",
+  "name": "BUNGELTD",
+  "period": "20221231",
+  "post_cutoff_aaer": false
+ },
+ "A-20": {
+  "pair": "D11",
+  "group": "T",
+  "name": "USA Technologies",
+  "period": "20170630",
+  "post_cutoff_aaer": false
+ },
+ "A-21": {
+  "pair": "D12",
+  "group": "T",
+  "name": "SAExploration",
+  "period": "20181231",
+  "post_cutoff_aaer": false
+ },
+ "A-22": {
+  "pair": "D05",
+  "group": "T",
+  "name": "Becton Dickinson",
+  "period": "20190930",
+  "post_cutoff_aaer": false
+ },
+ "A-23": {
+  "pair": "D09",
+  "group": "T",
+  "name": "Plug Power",
+  "period": "20191231",
+  "post_cutoff_aaer": false
+ },
+ "A-24": {
+  "pair": "D01",
+  "group": "C",
+  "name": "AERSALE CORP",
+  "period": "20211231",
+  "post_cutoff_aaer": false
+ },
+ "A-25": {
+  "pair": "D16",
+  "group": "T",
+  "name": "The Bancorp, Inc.",
+  "period": "20241231",
+  "post_cutoff_aaer": true
+ },
+ "A-26": {
+  "pair": "D14",
+  "group": "T",
+  "name": "Gentex",
+  "period": "20171231",
+  "post_cutoff_aaer": false
+ },
+ "A-27": {
+  "pair": "D10",
+  "group": "C",
+  "name": "PROVIDENT FINANCIAL HOLDINGS INC",
+  "period": "20200630",
+  "post_cutoff_aaer": false
+ },
+ "A-28": {
+  "pair": "D04",
+  "group": "T",
+  "name": "Adamis",
+  "period": "20201231",
+  "post_cutoff_aaer": false
+ },
+ "A-29": {
+  "pair": "D15",
+  "group": "C",
+  "name": "BOYD GAMING CORP",
+  "period": "20191231",
+  "post_cutoff_aaer": false
+ },
+ "A-30": {
+  "pair": "D16",
+  "group": "C",
+  "name": "NICOLET BANKSHARES INC",
+  "period": "20241231",
+  "post_cutoff_aaer": false
+ },
+ "A-31": {
+  "pair": "D03",
+  "group": "T",
+  "name": "Ammo",
+  "period": "20230331",
+  "post_cutoff_aaer": false
+ },
+ "A-32": {
+  "pair": "D03",
+  "group": "C",
+  "name": "NATIONAL PRESTO INDUSTRIES INC",
+  "period": "20221231",
+  "post_cutoff_aaer": false
+ }
+}

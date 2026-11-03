@@ -1,0 +1,17 @@
+FACT CARD A-06
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 1 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 1 of 4
+  Management turnover: 1 of 2
+  Transaction complexity: 2 of 8
+  Numeric warning signals: 1 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
