@@ -26,6 +26,9 @@ GE 原本在名單中，但其 FY2016 10-K 在資料集中為空（年報以引�
 - 第五輪（加入財務數字特徵 Beneish M / Dechow F，與報表一致性檢查 C；同第四輪 72 份）：[`results/round5/review.md`](results/round5/review.md)
   - M 0.61、F 0.57、C 0.53、T+F+C 0.59；三個預先登錄假設都不成立。M 前 10 名中 8 家是問題公司
   - 流程：`results/round5/protocol.md` → SEC 原始申報檔 → `raw_values.tsv`（人工讀值）→ `round5 features` → `check_review.tsv`（人工判定）→ `round5 evaluate`
+- 反事實先導（單一問題公司 + 兩家對照公司）：[`results/counterfactual_pilot/review.md`](results/counterfactual_pilot/review.md)、[`review_controls.md`](results/counterfactual_pilot/review_controls.md)
+  - 問題公司 Revolution Lighting：遮蔽版也 15/15 被認出，刪除或加入紅旗分數只變動 −5 到 +6
+  - 對照公司 Ducommun、Thermon：加入一段 bill-and-hold 揭露後分數 15.7→32.3、15.0→32.7（預先登錄門檻成立）
 - 全部 102 份總表：`results/summary_table.csv`
 
 ## 流程
