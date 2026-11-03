@@ -25,3 +25,4 @@ data/round9f/redacted/*.txt
 data/round10/raw/
 data/round10/corpus/
 data/round10/submissions/
+data/round10/*.log
