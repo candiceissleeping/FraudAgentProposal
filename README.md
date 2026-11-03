@@ -35,6 +35,9 @@ GE 原本在名單中，但其 FY2016 10-K 在資料集中為空（年報以引�
   - 模型 0/54 知道結果；事實卡 J0 AUC 0.77（0.64–0.89）；加名稱不再提升（記憶效應 +3.6，CI 含 0）；內容擾動 12/12
   - 只給名稱仍有 0.71（公司類型先驗，非結果記憶）；J0 扣除此先驗後殘差 0.65
   - 流程：`results/round9/protocol.md` → `round9_scan` → `round9 cases / controls / build / xbrl` → 抽取 agent → `verify` → `cards` → 判斷 agent → `evaluate`
+- 第九輪 b（截止後 AAER 3 家 + 第九輪封閉式辨識）：[`results/round9b/review.md`](results/round9b/review.md)
+  - 只給名稱 0/3 知道 SEC 執法；J0 三對全部問題 > 對照；封閉式 34/54 可配對，但 0 家知道結果
+  - 流程：`results/round9b/protocol.md` → `python -m experiment.edgar_risk.round9b cases / controls / build / xbrl` → 抽取 agent → `verify` → `cards` → 判斷 agent → `evaluate`
 - **提案：[`PROPOSAL.md`](PROPOSAL.md)**
 
 ## 流程

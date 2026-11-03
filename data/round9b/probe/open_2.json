@@ -1,0 +1,5 @@
+{
+  "R9B-06": {"guesses": [], "fiscal_year_guess": "", "confidence": 2, "basis": "Generic services profile (27% sales growth, goodwill CAM, equity/debt issuance, non-GAAP emphasis, high CFO/NI); no distinctive identifiers"},
+  "R9B-05": {"guesses": [], "fiscal_year_guess": "", "confidence": 1, "basis": "Services firm with material related-party transactions, inventory writedown, segment change and reserves CAM; too generic to pin down, most ratios n/a"},
+  "R9B-02": {"guesses": ["The Chefs' Warehouse", "Performance Food Group", "Core-Mark Holding"], "fiscal_year_guess": "2022", "confidence": 4, "basis": "Wholesale distributor with acquisition, inventory CAM, ~24% sales growth, largest customer ~2%, related-party transactions; pure speculation among acquisitive food/consumer distributors"}
+}
