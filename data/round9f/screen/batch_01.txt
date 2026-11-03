@@ -1,0 +1,855 @@
+===== AAER-3844 | released Jan. 11, 2017 | respondent(s): L3 Technologies, Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 79772 / January 11, 2017
+ACCOUNTING AND AUDIT ENFORCEMENT
+Release No. 3844 / January 11, 2017
+ADMINISTRATIVE PROCEEDING
+File No. 3-17769
+ ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 21C OF THE SECURITIES
+ L3 Technologies, Inc. EXCHANGE ACT OF 1934, MAKING
+ FINDINGS, AND IMPOSING A CEASE-
+Respondent. AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), against L3 Technologies, Inc. (“L3” or “Respondent”)
+(formerly known as “L-3 Communications Holdings, Inc.”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+And-Desist Proceedings Pursuant to Section 21C of the Exchange Act, Making Findings, and
+Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ SUMMARY
+ 1. These proceedings arise out of L3’s failure to maintain books, records and accounts
+that accurately reflected the transaction and dispositions of its assets, and for failing to maintain a
+sufficient system of internal accounting controls. These failures relate to L3’s Army Sustainment
+Division (“ASD”) improperly recording $17.9 million in revenue at the time based on invoices
+associated with unresolved claims against the U.S. Army that were created in L3’s internal
+accounting system but not delivered to the customer.
+ 2. Employees aware of creating these invoices immediately reported concerns
+regarding potential violations of L3’s accounting policies and internal accounting controls to L3’s
+internal ethics department, which undertook a prompt review. But the review was not conducted in
+a sufficient and effective manner due in part to a failure by ethics investigators to adequately
+understand the billing process involved and their misinterpretation of statements made by
+witnesses.
+ 3. As a consequence, it was not until June 2014 that L3 discovered the invoices that
+ASD had created in connection with unresolved claims but that had not been delivered. Based on a
+subsequent internal investigation, L3 concluded it had material weaknesses in its Internal Control
+Over Financial Reporting (“ICFR”) for the fiscal year ended December 31, 2013 and the end of the
+fiscal quarter ended March 28, 2014, and the company revised its financial statements from 2011
+through 2014.
+ RESPONDENT
+ 4. L3, a Delaware corporation based in New York, New York, is a prime contractor
+for various foreign and U.S. Government agencies, including the U.S. Department of Defense.
+L3’s securities are registered with the Commission pursuant to Section 12(b) of the Exchange Act,
+and its securities trade on the New York Stock Exchange under the symbol LLL.
+ FACTS
+The C-12 Contract
+ 5. L3 contracted to maintain, through its subsidiary Vertex and later ASD, a fleet of
+approximately 100 fixed-wing C-12 airplanes for the U.S. Army at bases in the United States and
+around the world pursuant to a contract referred to as the “C-12 Contract.” The C-12 Contract had
+an approximately five-year term, commencing on June 2, 2010, and ending on January 31, 2015.
+In 2013, executives at ASD, the L3 division that managed the contract, realized that it had low
+margins, and in mid-2013, they realized that the contract was projected to lose money for the fiscal
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not
+ binding on any other person or entity in this or any other proceeding.
+ 2
+year, putting ASD at risk of not making its annual operating plan. The executives also determined
+that work had been performed on the C-12 Contract that was not billed to the U.S. Army.
+The Revenue Recovery Initiative
+ 6. In or around August 2013, executives at ASD developed a “Revenue Recovery
+Initiative,” which had the purpose of identifying work performed under the C-12 Contract but that
+had not been billed to the U.S. Army, and then developing a plan to bill the U.S. Army for that
+work. By November 2013, ASD determined that approximately $50 million in work had been
+performed on the C-12 Contract but not billed.
+ 7. Because of the complicated nature of the services performed under the contract, and
+the need for the U.S. Army to verify the work performed, L3 and the U.S. Army did not reach an
+agreement on payment of the unbilled items by the end of 2013.
+Creation of Invoices
+ 8. Facing pressure from certain supervisors, in December 2013, the VP of Finance at
+ASD requested that certain ASD employees generate approximately 69 invoices on performed but
+unbilled work related to the C-12 Contract, but refrain from delivering them to the U.S. Army.
+ASD recognized an additional $17.9 million in revenue at the time based on the undelivered
+invoices, enabling ASD to barely satisfy the target required in order to qualify for management
+incentive bonuses.
+ 9. L3’s revenue recognition policy, consistent with Generally Accepted Accounting
+Principles (“GAAP”), set forth four requirements that must generally be met before revenue can be
+realized and earned: (1) persuasive evidence of an arrangement exists; (2) delivery has occurred or
+services have been rendered; (3) the seller’s price to the buyer is fixed or determinable; and (4)
+collectability is reasonably assured.
+ 10. As of the end of 2013, collectability was not reasonably assured with respect to the
+invoices because the invoices corresponded to claims L3 was asserting or intended to assert against
+the U.S. Army but which the customer had not reviewed or agreed to resolve.
+ 11. ASD’s financial statements roll up into L3’s consolidated financial statements,
+causing L3 to improperly recognize revenue related to the C-12 Contract.
+Reports to Ethics
+ 12. While deliberate steps were taken by an individual to evade L3’s internal
+accounting controls and to mislead L3’s external auditors, L3’s internal accounting controls failed
+to detect and prevent the improper recognition of revenue on the C-12 Contract. In November
+2013, an employee at L3 filed an ethics report concerning certain aspects of the C-12 Contract. In
+response to the report, L3’s internal ethics department commenced an investigation of the
+allegations.
+ 3
+
+
+===== AAER-3849 | released Jan. 18, 2017 | respondent(s): MDC Partners Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 10283 / January 18, 2017
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 79823 / January 18, 2017
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3849 / January 18, 2017
+ADMINISTRATIVE PROCEEDING
+File No. 3-17795
+ ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 8A OF THE SECURITIES ACT
+ MDC PARTNERS INC., OF 1933 AND SECTION 21C OF THE
+ SECURITIES EXCHANGE ACT OF 1934,
+Respondent. MAKING FINDINGS, AND IMPOSING A
+ CEASE-AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act
+of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 1934 (“Exchange
+Act”), against MDC Partners Inc. (“MDCA” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 8A of the Securities Act of 1933 and Section 21C of
+the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order
+(“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ Summary
+ 1. This matter arises from two sets of federal securities laws violations involving
+MDC Partners Inc., a publicly-traded marketing firm. First, for several years, MDCA failed to
+disclose significant amounts of compensation paid to its then Chairman and Chief Executive
+Officer, Miles S. Nadal, in the form of a wide range of perquisites and personal benefits. After
+MDCA conducted an in-depth internal investigation in response to inquiries from the Commission
+staff, Nadal resigned and agreed to return $10.582 million in cash bonus awards and to pay back
+$11.285 million worth of perquisites, personal expense reimbursements and other items of value
+that he improperly received from 2009 through 2014.
+ 2. Second, MDCA violated the disclosure requirements concerning non-GAAP
+financial measures contained in Regulation G and Item 10(e) of Regulation S-K.2 Despite agreeing
+to comply with non-GAAP financial measure disclosure rules in December 2012 correspondence
+with the Commission’s Division of Corporation Finance, MDCA continued to violate those rules
+for six quarters by failing to afford equal or greater prominence to GAAP measures in earnings
+release presentations containing non-GAAP financial measures. Furthermore, for seven quarters
+between mid-2012 and early-2014, MDCA did not reconcile “organic revenue growth,” which as
+calculated by MDCA was a non-GAAP financial measure, to GAAP revenue.
+ Respondent and Relevant Individual
+ 3. Respondent MDC Partners Inc. is a Canadian corporation headquartered in New
+York, New York, engaged in the advertising, marketing and communications businesses. MDC
+Partners Inc.’s common stock is registered under Section 12(b) of the Exchange Act and trades on
+the NASDAQ National Market under the ticker symbol “MDCA.”
+ 4. Miles S. Nadal was the Chairman of the Board, Chief Executive Officer and
+President of MDCA from 1986 until July 2015.
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not
+binding on any other person or entity in this or any other proceeding.
+2
+ “GAAP” refers to U.S. generally accepted accounting principles.
+ 2
+ Facts
+MDCA’s Failure to Disclose Compensation Paid to Nadal
+ 5. From 2009 through 2014, MDCA paid $11.285 million worth of perquisites and
+personal benefits to Miles S. Nadal, its then Chairman and CEO, without disclosing such items as
+compensation in its definitive proxy statements. Items that MDCA paid for on Nadal’s behalf, but
+did not disclose, include, but are not limited to, private aircraft usage, cosmetic surgery, yacht-and-
+sports-car-related expenses, jewelry, cash for tips and gratuities, medical expenses for Nadal,
+family members and others, charitable donations in Nadal’s name, pet care, vacation and personal
+travel expenses, and club memberships.
+ 6. In definitive proxy statements for 2009 through 2014, MDCA disclosed
+approximately $3.87 million worth of perquisites and personal benefits provided to Nadal. MDCA
+disclosed an annual $500,000 perquisite allowance; interest benefits received on interest free loans
+in 2009, 2010, 2011 and 2012; disability, medical, life insurance benefits in 2009 and 2010; and
+legal fees and the use of company aircraft and apartment in 2014.
+ 7. However, MDCA’s definitive proxy statements for 2009 through 2014 failed to
+disclose an annual average of approximately $1.88 million worth of additional perquisites and
+personal benefits provided to Nadal, thereby understating the perquisites and personal benefits
+portion of Nadal’s compensation by an average of almost 300% each year.
+ 8. MDCA incorporated its definitive proxy statements into its annual reports by
+reference.
+ 9. From March 2013 through April 2014, MDCA sold $735 million in debt securities.
+MDCA’s offering documents concerning these debt issuances incorporated by reference the
+deficient executive compensation disclosures in MDCA’s April 2012 and April 2013 definitive
+proxy statements.
+ 10. From 2009 through 2014, MDCA incorrectly recorded payments for the benefit of,
+and reimbursements to, Nadal as business expenses, and not compensation. As a result, its books,
+records, and accounts did not, in reasonable detail, accurately and fairly reflect its disposition of
+assets.
+ 11. In addition, MDCA failed to devise and maintain internal accounting controls
+relating to payments for the benefit of, and reimbursements to, Nadal that were sufficient to
+provide reasonable assurances that transactions were recorded as necessary to maintain the
+accountability of assets. These failures included, for instance, MDCA’s practice of reimbursing
+Nadal several thousands of dollars a month for cash payments of “tips and gratuities,” based solely
+on a line item in Nadal’s monthly expense submissions. By way of further example, MDCA paid
+more than $1.5 million for the benefit of Nadal outside of its monthly expense reimbursement
+process.
+ 12. After MDCA’s internal investigation, which was launched upon receipt of a
+subpoena from the Commission staff and continued after additional staff inquiries, Nadal resigned
+ 3
+
+
+===== AAER-3850 | released Jan. 18, 2017 | respondent(s): General Motors Company =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 79825 / January 18, 2017
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3850/ January 18, 2017
+ADMINISTRATIVE PROCEEDING
+File No. 3-17797
+In the Matter of
+ ORDER INSTITUTING CEASE-AND-
+ GENERAL MOTORS DESIST PROCEEDINGS PURSUANT TO
+ COMPANY, SECTION 21C OF THE SECURITIES
+ EXCHANGE ACT OF 1934, MAKING
+Respondent. FINDINGS, AND IMPOSING A CEASE-
+ AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), against General Motors Company (“GM” or
+“Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the
+findings herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting
+Cease-and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934,
+Making Findings, and Imposing a Cease-and-Desist Order (the “Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds that:
+ Respondent
+ 1. GM, a Delaware corporation based in Detroit, Michigan, designs, builds and sells
+cars, trucks, crossovers and automobile parts worldwide. GM common stock is registered under
+Section 12(b) of the Exchange Act and has been publicly traded since November 2010 on the New
+York and Toronto stock exchanges. GM is the successor entity solely for accounting and financial
+reporting purposes to General Motors Corporation (“Old GM”), which filed a voluntary petition
+for relief under the United States Bankruptcy Code in June 2009. In July 2009, NGMCO, Inc., an
+acquisition vehicle principally formed by the United States Department of the Treasury
+(“Treasury”), acquired substantially all of the assets and assumed certain liabilities of Old GM in
+connection with the bankruptcy proceedings and eventually changed its name to General Motors
+Company. Old GM changed its name to Motors Liquidation Company at the time of the sale and
+became a privately held company whose sole purpose was liquidating the remaining assets and
+liabilities of Old GM. On December 9, 2013, Treasury announced that it had sold all of its
+remaining holdings of GM stock. Old GM was a Delaware Corporation formed in 1916 and based
+in Detroit, Michigan that was engaged in the development, production and marketing of cars,
+trucks and automobile parts. Prior to July 2009, Old GM’s common stock was registered under
+Section 12(b) of the Exchange Act and was publicly traded on the New York stock exchange and
+other exchanges.
+ Background
+ 2. Section 13(b)(2)(B) of the Exchange Act requires issuers to devise and maintain a
+system of internal accounting controls sufficient to provide reasonable assurances that, among
+other things, transactions are recorded as necessary to permit preparation of financial statements in
+conformity with generally accepted accounting principles (“GAAP”).
+ 3. The Accounting Standards Codification (“ASC”) is the principal source of GAAP.
+ASC 450 provides guidance for the recognition and disclosure of a loss contingency. The ASC
+defines a loss contingency as an existing condition, situation, or set of circumstances involving
+uncertainty as to possible loss to an entity that will ultimately be resolved when one or more future
+events occur or fail to occur. The term loss, as used in ASC 450, includes many charges against
+income that are commonly referred to as expenses and others that are commonly referred to as
+losses.
+ 4. ASC 450 requires issuers to assess the likelihood that the future event or events will
+confirm the loss or impairment of an asset or the incurrence of a liability is remote, reasonably
+possible or probable. “Probable” means the future event or events is likely to occur. A loss is
+considered “reasonably possible” when the chance of the future event or events occurring is more
+ 2
+than remote but less than likely. A loss is considered “remote” when the chance of the future event
+or events occurring is slight.
+ 5. When a loss is deemed probable and the amount of the loss can be reasonably
+estimated, ASC 450 requires the issuer to accrue the estimated loss. If a loss is probable but a
+reasonable estimate of the amount of the loss cannot be made, the issuer is required to disclose the
+nature of the contingency and provide an estimate of the loss or range of loss or a statement that
+such an estimate cannot be made. Disclosure is preferable to accrual when a reasonable estimate
+of loss cannot be made. ASC 450 also requires consideration of whether a loss contingency is
+reasonably possible and estimable, and whether disclosure is necessary. Neither accrual nor
+disclosure is required under ASC 450 if the loss contingency is remote.
+ GM’s Recall Process and Related Internal Accounting Controls
+ 6. In 2012 and continuing until the third quarter of 2014, GM used two different
+approaches for accruing estimated losses associated with vehicle recalls. For small recall
+campaigns – up to $5 million – GM used an actuarial-based estimation technique by which the
+company took a per-vehicle accrual at the time each vehicle was sold to account for the amount the
+company could expect to spend on small recalls over each vehicle’s lifetime. For large recall
+campaigns, defined as recalls exceeding $5 million, GM recorded a specific accrual for each recall
+at the time the recall became probable and estimable.
+ 7. Prior to the third quarter of 2014, GM had a formal recall process called the Field
+Performance Evaluation, or “FPE,” process. The FPE process included an investigation and, when
+merited, a recall decision-making process that relied on three committees (together “the FPE
+committees”): The Field Performance Evaluation Team (“FPET”), which had no recall decision
+making authority but was tasked with gathering information relevant to executing a potential recall
+should one occur; the Field Performance Review Committee (“FPERC”), which made a
+preliminary determination about whether an issue qualified as a safety defect and made a
+recommendation regarding recall decisions to the ultimate recall decision-making body, the
+Executive Field Action Decision Committee (“EFADC”), which made a final recall decision.
+ 8. In typical cases, an issue would advance through the FPE process as follows.
+Engineers in the Product Investigations (“PI”) group were responsible for investigating suspected
+safety and compliance issues with GM vehicles. Once th
+
+===== AAER-3852 | released Jan. 19, 2017 | respondent(s): HomeStreet, Inc. and Darrell Van Amen =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 79844 / January 19, 2017
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3852 / January 19, 2017
+ADMINISTRATIVE PROCEEDING
+File No. 3-17801
+ ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 21C OF THE SECURITIES
+ HOMESTREET, INC. and EXCHANGE ACT OF 1934, MAKING
+ DARRELL VAN AMEN, FINDINGS, AND IMPOSING A CEASE-
+ AND-DESIST ORDER
+Respondents.
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), against HomeStreet, Inc. (“HomeStreet” or “the
+Company”) and Darrell van Amen (collectively, “Respondents”).
+ II.
+ In anticipation of the institution of these proceedings, Respondents have submitted Offers
+of Settlement (“Offers”), which the Commission has determined to accept. Solely for the purpose
+of these proceedings and any other proceedings brought by or on behalf of the Commission, or to
+which the Commission is a party, and without admitting or denying the findings herein, except as
+to the Commission’s jurisdiction over it and the subject matter of these proceedings, which are
+admitted, Respondents consent to the entry of this Order Instituting Cease-and-Desist Proceedings
+Pursuant to Section 21C of the Securities Exchange Act of 1934, Making Findings, and Imposing a
+Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondents’ Offers, the Commission finds1 that:
+ Summary
+ 1. This matter concerns books and records and internal accounting control violations
+arising from HomeStreet’s accounting related to certain commercial loans and related swaps
+designated as accounting hedges (the “Hedges”) under GAAP (ASC 815). HomeStreet’s Chief
+Investment Officer and Treasurer, Darrell van Amen, caused the Company’s violations by
+overseeing a practice of changing the inputs to an accounting test designed to measure the
+effectiveness of the Hedges and, in some instances, instructing employees to follow that practice.
+Changing the inputs meant HomeStreet, a diversified financial services company, could
+demonstrate that certain Hedges were highly effective and thus allowed for the use of fair value
+hedge accounting. The application of hedge accounting, in turn, meant HomeStreet could offset
+changes in the fair value of the interest rate swaps with the changes in the fair value of the loans
+attributable to the hedged risk. Given this accounting treatment, fair value hedge accounting can
+reduce income statement volatility for companies who use it. For nearly three years, from the third
+quarter of 2011 to the second quarter of 2014, Treasury employees provided the adjusted inputs
+and test results to HomeStreet’s accounting department for purposes of preparing the financial
+statements, resulting in inaccurate accounting entries. The manner in which the Treasury
+department implemented the hedge effectiveness testing, approved by van Amen, was also
+inconsistent with the Company’s internal policies and procedures and involved the creation of
+inaccurate books and records.
+ 2. In addition to the conduct described above, in violation of the Securities
+Whistleblower Protection provisions of the Exchange Act, HomeStreet took actions to impede
+employees who were involved in or knowledgeable about the Company’s hedge accounting from
+communicating directly with the Commission staff about possible securities law violations and
+included language in employee severance agreements that removed the financial incentives
+intended to encourage individuals to communicate directly with Commission staff about possible
+securities law violations.
+ Respondents
+ 3. HomeStreet, based in Seattle, Washington, is a diversified financial services
+company servicing customers primarily in the Pacific Northwest, California, and Hawaii.
+HomeStreet’s common stock trades on the NASDAQ and has been registered with the
+Commission pursuant to Section 12(b) of the Exchange Act since February 10, 2012.
+1
+ The findings herein are made pursuant to Respondents’ Offers of Settlement and are not
+ binding on any other person or entity in this or any other proceeding.
+ 2
+ 4. Darrell van Amen, 51, joined HomeStreet in 2003 as Treasurer. He has served as
+Executive Vice President, Chief Investment Officer and Treasurer for HomeStreet from 2012 to
+the present. Van Amen is a treasury professional, but not an accountant.
+ Facts
+A. HomeStreet’s Improper Hedge Accounting
+ HomeStreet’s Accounting for Hedges and Effectiveness Testing
+ 5. From 2006 to 2008, HomeStreet originated approximately 20 fixed rate commercial
+loans. For each of these loans, HomeStreet entered into interest rate swaps to hedge the exposure
+to changes in the fair value of the commercial loans attributable to the benchmark interest rate
+(“designated hedged risk”).
+ 6. Under GAAP (ASC 815), an issuer may elect hedge accounting and designate the
+hedged item (here, the fixed rate commercial loans) and the hedging instrument (the interest rate
+swaps) in a fair value hedging relationship. ASC 815 requires companies to recognize in income,
+in the period that the changes in fair value occur, gains or losses from a derivative. In addition,
+changes in the fair value of the hedged item, attributable to the risk designated as being hedged,
+must also be recognized in income as an adjustment to the carrying amount of that hedged item.
+Given this accounting treatment, fair value hedge accounting can reduce income statement
+volatility that might exist absent hedge accounting treatment. Among other requirements, in order
+to maintain hedge accounting under ASC 815, an issuer must assess the hedging relationship
+periodically (at least every quarter) to ensure that the changes in fair value of the hedging
+instruments are highly effective in offsetting changes in fair value of the hedged item attributable
+to the risk designated as being hedged. If a hedging relationship is no longer highly effective, the
+issuer must cease hedge accounting treatment for the relationship. The issuer would continue to
+recognize changes in fair value of the derivative (interest rate swaps) in current period earnings
+(but the hedged item would no longer be adjusted), thus not providing an offset in the income
+statement for the hedging instrument, resulting in potential income statement volatility.
+ 7. HomeStreet designated each of the approximately 20 hedging relationships as
+accounting hedges and documented that it would conduct its periodic assessment of effectiveness
+testing using the Periodic Dollar Offset Method and perform this assessment on a quarterly basis.
+This methodology required HomeStreet to value each of the loans and each of the swaps and
+compare the ratio of the change in fair value of the swap with the change in fair value of the loan
+
+
+===== AAER-3855 | released Jan. 23, 2017 | respondent(s): Overseas Shipholding Group, Inc. and Myles Robert Itkin =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 10286 / January 23, 2017
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 79857 / January 23, 2017
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3855 / January 23, 2017
+ADMINISTRATIVE PROCEEDING
+File No. 3-17807
+ ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 8A OF THE SECURITIES ACT
+ OVERSEAS SHIPHOLDING OF 1933 AND SECTION 21C OF THE
+ GROUP, INC. SECURITIES EXCHANGE ACT OF 1934,
+ MAKING FINDINGS, AND IMPOSING A
+ and CEASE-AND-DESIST ORDER
+ MYLES ROBERT ITKIN,
+Respondents.
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that
+public cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the
+Securities Act of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of
+1934 (“Exchange Act”) against Overseas Shipholding Group, Inc. (“OSG” or “the Company”)
+and Myles Robert Itkin (“Itkin”) (collectively “Respondents”).
+ II.
+ In anticipation of the institution of these proceedings, Respondents have submitted Offers
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the
+findings herein, except as to the Commission’s jurisdiction over them and the subject matter of
+these proceedings, which are admitted, and except as provided herein in Section V, Respondents
+consent to the entry of this Order Instituting Cease-and-Desist Proceedings Pursuant to Section
+8A of the Securities Act of 1933 and Section 21C of the Securities Exchange Act of 1934,
+making findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondents’ Offers, the Commission finds1 that:
+ SUMMARY
+ 1. This matter concerns the failure of OSG to record material federal income tax
+liabilities in its financial statements from 2000 through the second quarter of 2012. The tax
+liabilities, reportable under Internal Revenue Code Section 956, which provides that when a
+“controlled foreign corporation” guarantees the debt of its U.S. parent company, the amounts
+borrowed by the parent are, in effect, “deemed dividends” and taxable to the parent. During the
+relevant period, OSG’s credit agreements contained a provision making its controlled foreign
+subsidiary, Overseas International Group, Inc. (“OIN”), and another subsidiary “jointly and
+severally” liable for OSG’s debt, thereby triggering Section 956 current tax liability for those
+amounts that OSG borrowed, and deferred tax liabilities for amounts not borrowed but available
+under the credit agreements. From 2000 to the second quarter of 2012, OSG failed to record and
+report these federal income tax liabilities in various annual and quarterly reports and earnings
+releases filed with the Commission. Certain of these nondisclosures constituted violations of
+Section 17(a)(2) and (3) of the Securities Act.
+ 2. During the relevant period, OSG failed to recognize its tax liability despite
+significant indicia that the structure of its credit agreements, in effect, made OIN a guarantor and
+could trigger tax consequences, including tax memos from outside counsel and communications
+with the banks during the negotiation phase of the credit agreements. Despite these indicators,
+OSG failed to disclose the issue to its outside auditors and ascertain whether the credit
+agreements impacted its financial reporting. Moreover, OSG had inadequate internal accounting
+controls over its accounting for income taxes and had deficient controls over the impact of the
+credit agreements on its financial reporting process.
+ 3. As a result of its misconduct, OSG restated its financial results for all annual
+reporting periods in fiscal years 2000 through 2011, as well as the results for the quarterly
+reporting periods in the first half of 2012. For example in 2000, by failing to record the deferred
+tax liability related to the prospective drawdowns under the first credit agreement to contain the
+“jointly and severally” language, OSG understated the deferred federal tax income tax liabilities
+in its financial statements by $122.5 million, or approximately 10% of its total liabilities. The
+failure to record the related income tax expense resulted in OSG recognizing a profit that year
+when it would have otherwise recognized a loss. By 2011 the cumulative failure to record the
+current and deferred income tax liabilities arising from the Section 956 issue resulted in an
+understatement of OSG’s income tax liabilities by approximately $512 million, or 17% of its
+total liabilities. Had OSG recorded the related income tax provision in that period, its net loss
+ 1
+ The findings herein are made pursuant to Respondents’ Offers of Settlement and are not
+binding on any other person or entity in this or any other proceeding.
+ 2
+would have increased by approximately 265%, from $193 million to $705 million. In November
+2012, following the discovery of the issue, OSG filed for bankruptcy protection.
+ 4. Myles Robert Itkin (“Itkin”), the chief financial officer (“CFO”) for OSG and its
+foreign subsidiary during the relevant period, who participated in the negotiation of and was the
+signator to OSG’s credit facilities, oversaw OSG’s financial reporting function, and became
+aware of significant red flags indicating tax consequences from the credit agreements, caused
+OSG’s Securities Act Section 17(a)(2) and (3) violations from 2011 through the second quarter
+of 2012 and caused the company’s reporting, books and records and internal accounting controls
+failures going back to 2009. Itkin also negligently misled OSG’s auditor by representing that
+OSG had not received any written tax advice concerning income tax issues and signed false
+certifications under Sarbanes-Oxley for filings in 2011 and 2012.
+ RESPONDENTS
+ 5. Overseas Shipholding Group, Inc. (“OSG” or the “Company”), is a Delaware
+corporation incorporated in 1969, and its wholly owned subsidiaries own and operate a fleet of
+oceangoing vessels engaged primarily in the transportation of crude oil and petroleum products
+in the international and domestic markets. OSG managed its international and domestic
+operations through its wholly owned subsidiaries, OIN, a Marshall Islands corporation, and OSG
+Bulk Ships, Inc. (“OBS”), a New York corporation, respectively. OBS’s vessel-owning and
+vessel-leasing corporations conduct OSG’s US shipping operations, and OIN’s vessel-owning
+and vessel-leasing corporations conducted OSG’s international shipping operations. OSG, OBS,
+and OIN were the key corporations of the OSG corporate group. During the relevant time, OSG
+had a class of securities registered under Section 12(b) and a reporting obligation under Section
+13(a) of the Exchange Act. In November of 
+
+===== AAER-3862 | released March 3, 2017 | respondent(s): Desarrolladora Homex S.A.B. de C.V =====
+ Case 3:17-cv-00432-L-WVG Document 1 Filed 03/03/17 PageID.1 Page 1 of 17
+ 1 MELISSA R. HODGMAN
+ Email: HodgmanM@sec.gov
+ 2 J. LEE BUCK, II
+ Email: BuckJL@sec.gov
+ 3 ALFRED C. TIERNEY
+ 4 Email: TierneyA@sec.gov
+ BENJAMIN D. BRUTLAG
+ 5 Email: BrutlagB@sec.gov
+ RICHARD HONG (NY Attorney Reg. No. 2503589)
+ 6 Email: HongR@sec.gov
+ 7
+ Attorneys for Plaintiff
+ 8 SECURITIES AND EXCHANGE COMMISSION
+ 100 F Street N.E.
+ 9 Washington, DC 20549
+10 Telephone: (212) 336-0956 (Hong)
+11 UNITED STATES DISTRICT COURT
+12
+ SOUTHERN DISTRICT OF CALIFORNIA
+13
+14
+ SECURITIES AND EXCHANGE ) Case No. '17CV432 L WVG
+15 COMMISSION, )
+16 )
+ Plaintiff, )
+17 vs. ) COMPLAINT FOR VIOLATIONS OF
+18 ) THE FEDERAL SECURITIES LAWS
+ DESARROLLADORA )
+19 HOMEX S.A.B. DE C.V., )
+20 )
+21 Defendant )
+22
+ Plaintiff Securities and Exchange Commission (“SEC” or “Commission”)
+23
+ alleges and states as follows:
+24
+ SUMMARY
+25
+ 1. This case is about a massive financial fraud perpetrated by
+26
+ Desarrolladora Homex, S.A.B. de C.V. (“Homex” or “the Company”), which is
+27
+28 headquartered in Culiacán, Sinaloa, and formerly known as Mexico’s largest
+ Case 3:17-cv-00432-L-WVG Document 1 Filed 03/03/17 PageID.2 Page 2 of 17
+ 1 homebuilder. Homex’s securities have, at all relevant times, been listed or quoted
+ 2 in the United States. From at least 2010 through 2013 (the “Relevant Period”), and
+ 3 acting, with scienter, through certain of its then senior officers and employees,
+ 4 Homex improperly recognized billions of dollars of revenue. In particular, Homex
+ 5 systematically and fraudulently reported revenue from the sale of tens of thousands
+ 6 of homes annually that it had neither built nor sold. Homex personnel perpetrated
+ 7 this fraud by manually entering false information into its internal accounting and
+ 8 financial systems.
+ 9
+ 2. Homex’s resulting overstatements of its revenue and the number of
+10
+ residential units sold, across its annual reports filed with the Commission during
+11
+ the Relevant Period, totaled at least MXN $44 billion (USD $3.3 billion), or 355%,
+12
+ and at least 100,000 units, or 317%, respectively.
+13
+ 3. During the Relevant Period, U.S.-based individuals and entities
+14
+ invested hundreds of millions of dollars in Homex, whose securities were, until
+15
+ April 2014, dually listed on the New York Stock Exchange (“NYSE”) and the
+16
+17 Mexican Stock Exchange (“BMV”). The U.S.-based investments in Homex during
+18 the Relevant Period included a $400 million bond issuance that Homex made
+19 directly to U.S. investors in February 2012. In February 2014, the BMV suspended
+20 trading in Homex’s common shares due to unusual stock price movements and the
+21 Company’s failure to timely file a required quarterly financial statement. In April
+22 2014, Homex filed for the Mexican counterpart to bankruptcy reorganization. In
+23 the aftermath of that filing, Homex’s securities were delisted from the NYSE (and
+24 were thereafter quoted for U.S. trading on the OTC Link operated by OTC Markets
+25 Group, Inc. (“OTC Link”)), and the value of U.S.-based investments in Homex was
+26 virtually wiped out.
+27
+28
+ 2
+ Case 3:17-cv-00432-L-WVG Document 1 Filed 03/03/17 PageID.3 Page 3 of 17
+ 1 4. By engaging in this fraud, Homex violated Section 17(a) of the
+ 2 Securities Act of 1933 (“Securities Act”) [15 U.S.C. § 77q(a)] and Sections 10(b),
+ 3 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Securities Exchange Act of 1934
+ 4 (“Exchange Act”) [15 U.S.C. §§ 78j(b), 78m(a), and 78m(b)(2)(A) and (B)], and
+ 5 Exchange Act Rules 10b-5, 12b-20, 13a-1, and 13a-16 [17 C.F.R. §§ 240.10b-5,
+ 6 12b-20, 13a-1 and 13a-16]. Unless restrained and enjoined by this Court, Homex
+ 7 is likely to commit such violations in the future.
+ 8
+ JURISDICTION AND VENUE
+ 9
+ 5. This Court has jurisdiction over this action pursuant to Sections 20(b),
+10
+ 20(d)(1), and 22 of the Securities Act [15 U.S.C. §§ 77t(b), 77t(d)(1), and 77v] and
+11
+ Sections 21(d), 21(e), and 27 of the Exchange Act [15 U.S.C. §§ 78u(d), 78u(e),
+12
+ and 78aa].
+13
+ 6. Homex, directly or indirectly, made use of the means or
+14
+ instrumentalities of interstate commerce or the mails, or a facility of a national
+15
+ securities exchange in connection with the transactions, acts, practices, and courses
+16
+17 of business alleged in this complaint.
+18 7. Venue is proper in this District pursuant to Section 22(a) of the
+19 Securities Act [15 U.S.C. § 77v(a)] and Section 27(a) of the Exchange Act [15
+20 U.S.C. § 78aa(a)]. During the Relevant Period, certain of Homex’s acts, practices,
+21 and courses of business alleged in this Complaint occurred within this District.
+22 DEFENDANT
+23 8. Desarrolladora Homex, S.A.B. de C.V., a Mexican corporation
+24 headquartered in Culiacán, Sinaloa, Mexico, has at all relevant times been engaged
+25 in the development, construction, and sale of affordable and middle-income
+26 housing in Mexico. From approximately 2004 through 2014, Homex’s stock, in
+27 the form of American Depositary Shares (“ADSs”), was listed and publicly traded
+28
+ 3
+
+
+===== AAER-3865 | released April 10, 2017 | respondent(s): Galena Biopharma, Inc. and Mark J. Ahn =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 10337 / April 10, 2017
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 80407 / April 10, 2017
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3865 / April 10, 2017
+ADMINISTRATIVE PROCEEDING
+File No. 3-17911
+ ORDER INSTITUTING CEASE-AND-DESIST
+In the Matter of PROCEEDINGS PURSUANT TO SECTION
+ 8A OF THE SECURITIES ACT OF 1933 AND
+ GALENA BIOPHARMA, INC. SECTION 21C OF THE SECURITIES
+ AND MARK J. AHN, EXCHANGE ACT OF 1934, MAKING
+ FINDINGS, AND IMPOSING A CEASE-AND-
+Respondents. DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act
+of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 1934 (“Exchange
+Act”) against Galena Biopharma, Inc. (“Galena”) and Mark J. Ahn (“Ahn”) (together,
+“Respondents”).
+ II.
+ In anticipation of the institution of these proceedings, Respondents have submitted Offers
+of Settlement (the “Offers”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over them and the subject matter of these
+proceedings, which are admitted, and except as provided herein in Section V, Respondents
+consent to the entry of this Order Instituting Cease-and-Desist Proceedings Pursuant to Section 8A
+of the Securities Act of 1933 and Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (the “Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondents’ Offers, the Commission finds1 :
+ SUMMARY
+ From January 2012 to February 2014, Galena and its then-CEO Mark Ahn engaged in a
+scheme to mislead investors by commissioning over 100 internet publications promoting Galena
+that purported to be independent and objective when, in fact, they were paid promotions funded by
+Galena. As CEO, Ahn, on behalf of Galena, engaged two firms, Lidingo Holdings and the
+DreamTeam Group, that paid writers to communicate about Galena on investment websites through
+articles and/or postings without disclosing that Galena had funded the communications. On over
+forty occasions, the writers affirmatively misrepresented that they were not receiving payment for
+their articles other than from the website on which their articles appeared. These omissions and
+misrepresentations about Galena’s funding of the articles and postings created the misleading
+impression that the opinions they contained were objective and independently formed.2 Some of
+the articles and postings that Galena funded constituted unlawful prospectuses transmitted while
+Galena was preparing to offer or offering securities. As a consequence of this conduct, Galena and
+Ahn violated the anti-fraud provisions of the federal securities laws, caused violations of the anti-
+touting provisions, and engaged in improper “gun-jumping.”
+ Galena also violated the periodic reporting and books-and-records provisions of the federal
+securities laws in connection with stock options it granted to one of the firms, and, with Ahn,
+violated the securities registration provisions in connection with its issuance of shares to the firm
+after the firm exercised its options.3 Galena sold securities to Lidingo in an unregistered transaction
+when it included stock options as part of Lidingo’s compensation for its promotional activities in
+the third quarter of 2013. Thereafter, Galena sold shares to Lidingo in unregistered, non-exempt
+transactions upon Lidingo’s exercise of those stock options without taking reasonable care to
+prevent further distribution of the shares. As a result of Ahn’s involvement in the unregistered
+transactions with Lidingo, Ahn participated in the sale of securities to Lidingo. Galena and Ahn
+misstated in Galena’s applicable periodic reports that the company had not issued unregistered
+1
+ The findings herein are made pursuant to Respondents’ Offers and are not binding on any other person or
+entity in this or any other proceeding.
+2
+ The information about Galena in the articles and postings is not, itself, alleged to have been false or misleading.
+3
+ Ahn also caused violations by Galena of the periodic reporting and books-and-records provisions.
+ 2
+securities. In the third quarter of 2013, Galena also did not record the expense of the stock options
+granted to Lidingo.
+ RESPONDENTS
+ 1. Galena Biopharma, Inc., is a biopharmaceutical company incorporated in
+Delaware. During the relevant time period, Galena was headquartered in Oregon; it is now
+headquartered in California. Galena’s common stock is registered with the Commission
+pursuant to Exchange Act Section 12(b) and trades on the NASDAQ Capital Market.
+ 2. Mark J. Ahn, 54, resides in Lake Oswego, Oregon. Ahn served as Chief
+Executive Officer and a director of Galena from 2007 to 2014.
+ OTHER RELEVANT INDIVIDUALS AND ENTITIES
+ 3. Lidingo Holdings, LLC, a Nevada limited liability company formed in 2011 and
+dissolved in 2014, provided services to numerous issuers, including Galena, that included the
+generation of more than 400 articles on investment websites that described its clients’ securities.
+Lidingo was owned and operated by Kamilla Bjorlin (“Bjorlin”). The Commission has charged
+Lidingo and Bjorlin for their roles in the misconduct described in this Order and for other
+misconduct unrelated to Galena.
+ 4. Michael A. McCarthy, 47, resides in San Antonio, Texas. McCarthy founded The
+DreamTeam Group, LLC, a Florida limited liability company headquartered in Indianapolis,
+Indiana, in 2004. The DreamTeam Group, LLC and other entities owned and controlled by
+McCarthy, including Mission Investor Relations, LLC, a Delaware limited liability company
+headquartered in Atlanta, Georgia, provided services to numerous issuers, including Galena, that
+included the generation of more than 30 articles and 20 blog posts on investment websites that
+described their clients’ securities. DreamTeam Group, LLC and Mission Investor Relations, LLC,
+which described themselves as being part of a “Family of Businesses,” will be referred to together
+in this Order as “DreamTeam.” The Commission has charged McCarthy and DreamTeam for their
+roles in the misconduct described in this Order and for other misconduct unrelated to Galena.
+ FACTS
+Galena Paid Firms to Generate Articles and other Communications Describing its
+Securities that Falsely Purported to be Independent from Galena
+ 5. In January 2012, Ahn signed a contract with Lidingo pursuant to which Lidingo
+would, among other things, “help generate independent research coverage for [Galena] through
+third parties.” From January 2012 through April 2013, Galena paid Lidingo $20,000 per month f
+
+===== AAER-3899 | released Sept. 21, 2017 | respondent(s): Paritz & Company, P.A., et al. =====
+ADMINISTRATIVE PROCEEDING
+File No. 3-18197
+SEC Charges Auditing Firm and Two Partners in Connection with Audits of Business
+Development Company
+September 21, 2017 – The Securities and Exchange Commission today announced charges
+against New Jersey-based certified public accounting firm Paritz & Co., P.A., and two of its
+partners, Lester S. Albert, CPA and Brian A. Serotta, CPA, for improper professional conduct
+relating to their audits and reviews of INVENT Ventures, Inc., a public business development
+company. The SEC previously instituted a settled action against INVENT and its president for
+material misrepresentations in connection with INVENT overstating the values of two portfolio
+companies.
+According to the SEC’s order, between 2011 and 2014, Paritz issued audit reports containing
+unqualified opinions stating, among other things, that its audits of INVENT’s financial
+statements were conducted in accordance certain audit standards, when they were not. Paritz and
+the engagement partner, Lester Albert, failed to comply with numerous audit standards,
+including those relating to fair value measurements and disclosures, obtaining sufficient audit
+evidence, and preparing required audit documentation, among other things. Brian Serotta also
+failed to provide adequate engagement quality reviews.
+The SEC’s order finds that Paritz willfully violated, and Albert willfully aided and abetted and
+caused Paritz’ violations of Rule 2-02(b)(1) of Regulation S-X, and that each of them and Serotta
+engaged in improper professional conduct within the meaning of Section 4C(a) of the Exchange
+Act and Rule 102(e)(1) of the Commission’s Rules of Practice.
+Without admitting or denying the findings in the SEC’s order, Paritz agreed to pay disgorgement
+and prejudgment interest of $72,049 and a civil penalty of $60,000, and Albert agreed to pay a
+civil penalty of $15,000. Paritz has also agreed to complete undertakings including a review of
+certain of its audit procedures. Albert and Serotta agreed to be suspended from appearing or
+practicing before the SEC as accountants, which includes not participating in the financial
+reporting or audits of public companies. The SEC’s order permits Albert and Serotta to apply for
+reinstatement after two years and one year, respectively.
+The SEC’s investigation was conducted by Payam Danialypour and Sara Kalin of the
+Enforcement Division’s Asset Management Unit, as well as Nina Yamamoto and Rhoda Chang
+of the Los Angeles Regional Office.
+See also: Order – Paritz, Albert, and Serotta
+
+
+===== AAER-3905 | released Nov. 3, 2017 | respondent(s): Osiris Therapeutics, Inc., et al. =====
+ Osiris Therapeutics, Inc., et al. (Release No. LR-23978; Nov. 3, 2017) Home | Previous Page U.S. SECURITIES AND EXCHANGE COMMISSION Litigation Release No. 23978 / November 3, 2017 Accounting and Auditing Enforcement Release No. 3905 / November 3, 2017 Securities and Exchange Commission v. Osiris Therapeutics, Inc., et al. , Civil Action No. 17-cv-03230 (D. Maryland, November 2, 2017) SEC CHARGES BIOTECH COMPANY, EXECUTIVES WITH ACCOUNTING FRAUD The Securities and Exchange Commission yesterday charged a Maryland-based biotech company and four former top executives with prioritizing revenue growth over lawful accounting and misleading investors in the process. The SEC alleges that Osiris Therapeutics routinely overstated company performance and issued fraudulent financial statements for a period of nearly two years. According to the SEC's complaint, the company improperly recognized revenue using artificially inflated prices, backdated documents to recognize revenue in earlier periods, and prematurely recognized revenue upon delivery of products to be held on consignment. Osiris Therapeutics and its executives also allegedly used pricing data that they knew was false and attempted to book revenue on a fictitious transaction, among other accounting improprieties. The SEC's complaint charges Osiris Therapeutics and four executives who led the company during the alleged period of accounting fraud from 2014 to 2015: chief executive officer Lode B. Debrabandere, chief financial officers Philip R. Jacoby Jr. and Gregory I. Law, and chief business officer Bobby Dwayne Montgomery. The complaint alleges that OsirisTherapeutics, Debrabandere, Jacoby, and Law violated the antifraud provisions of the securities laws in Section 17 (a) of the Securities Act of 1933 (Securities Act) and Section 10(b) of the Securities Exchange Act of 1934 (Exchange Act) and Rule 10b-5 thereunder. The complaint also alleges that Osiris Therapeutics violated Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 12b-20, 13a-1, 13a11, and 13a-13 thereunder, and that Debrabandere, Jacoby, and Law aided and abetted or acted as a control person for Osiris Therapeutics' violations of these provisions and the antifraud provisions. Additionally, the complaint alleges that Debrabandere, Jacoby, and Law directly violated Exchange Act Section 13(b)(5) and Rules 13a-14, 13b2-1, and 13b2-2 thereunder. Finally, the complaint alleges that Montgomery aided and abetted Osiris Therapeutics' violations of the antifraud provisions and directly violated Exchange Act Section 13(b)(5) and Rules 13b2-1 and 13b2-2. The SEC's complaint seeks disgorgement of ill-gotten gains plus interest and penalties along with officer-and-director bars. Osiris Therapeutics agreed to settle the charges without admitting or denying the allegations and must pay a $1.5 million penalty. The litigation continues against the four executives. The SEC appreciates the cooperation of the U.S. Attorney's Office for the Southern District of New York, which filed criminal charges against Jacoby. SEC Complaint --> &nbsp; https://www.sec.gov/litigation/litreleases/2017/lr23978.htm Home | Previous Page Modified: 11/03/2017 
+
+===== AAER-3931 | released March 26, 2018 | respondent(s): Akorn, Inc., Timothy Dick, and David Hebeda =====
+ Case: 1:18-cv-02150 Document #: 1 Filed: 03/26/18 Page 1 of 18 PageID #:1
+ UNITED STATES DISTRICT COURT
+ NORTHERN DISTRICT OF ILLINOIS
+ EASTERN DIVISION
+SECURITIES AND EXCHANGE COMMISSION,
+ Plaintiff,
+ C.A. No.: 18-2150
+ v.
+AKORN, INC., TIMOTHY DICK, AND DAVID
+HEBEDA
+ Defendants.
+ COMPLAINT
+ Plaintiff U.S. Securities and Exchange Commission (the “Commission”) alleges as
+follows:
+ NATURE OF THE ACTION
+ 1. This is a case of financial reporting, books and records, and internal accounting
+controls violations by Akorn, Inc. (“Akorn”). In May 2016, Akorn restated its financial statements
+for fiscal year 2014. Its restatement, among other things, acknowledged material weaknesses in its
+internal control over financial reporting (“ICFR”) and disclosed that previously reported net revenue
+for 2014 was overstated by approximately 7 percent and previously reported income from
+continuing operations before income taxes for 2014 was overstated by approximately 136 percent.
+Akorn’s inaccurate 2014 financial statements resulted from various errors in Akorn’s accrual of
+rebates and other contractual allowances using a process known as “gross-to-net” revenue
+accounting as well as its recognition of $2.9 million in revenue for a portion of a transaction with
+one of its wholesaler customers despite a lack of a basis on which to properly recognize such
+revenue in accordance with generally accepted accounting principles (“GAAP”).
+ 1
+ Case: 1:18-cv-02150 Document #: 1 Filed: 03/26/18 Page 2 of 18 PageID #:2
+ 2. In its 2013 Form 10-K, filed on March 14, 2014, Akorn disclosed that it did not
+have sufficient controls designed to validate the completeness and accuracy of underlying data
+used in the determination of significant estimates and accounting transactions, and that, as a
+result, errors were identified in the underlying data used to support significant estimates and
+accounting transactions, primarily relating to gross-to-net revenue adjustments, inventory
+reserves and the determination of useful lives of acquired intangible assets. Akorn further
+disclosed that it did not have an adequate process in place to support the accurate and timely
+reporting of its financial results and disclosures in its Form 10-K. Akorn had previously
+disclosed in its 2012 Form 10-K, filed on March 1, 2013, that it did not maintain sufficient
+effective controls to provide reasonable assurance that accounts were complete and accurate and
+agreed to detailed support. The risks associated with these unremediated material weaknesses
+became magnified during 2014 as a result of Akorn’s decisions to undertake significant
+acquisitions, as well as changes to the nature of Akorn’s business.
+ 3. Timothy Dick (“Dick”), as Chief Financial Officer (“CFO”) at Akorn, and David
+Hebeda (“Hebeda”), as Controller at Akorn, had supervisory responsibilities for Akorn’s internal
+accounting controls, gross-to-net revenue accounting and revenue recognition, and exercised
+control over these company functions.
+ JURISDICTION AND VENUE
+ 4. The Commission brings this action pursuant to the authority conferred by Section
+21(d) of the Exchange Act [15 U.S.C. § 78u(d)].
+ 5. This Court has jurisdiction over this action pursuant to Section 27 of the
+Exchange Act [15 U.S.C. § 78aa], and 28 U.S.C. § 1331.
+ 2
+ Case: 1:18-cv-02150 Document #: 1 Filed: 03/26/18 Page 3 of 18 PageID #:3
+ 6. Venue is proper in this Court pursuant to Section 27 of the Exchange Act [15
+U.S.C. § 78aa]. Acts, practices and courses of business constituting violations alleged herein
+have occurred within the jurisdiction of the United States District Court for the Northern District
+of Illinois. Moreover, all Defendants reside in this district.
+ 7. Defendants, directly and indirectly, made use of means or instruments of
+transportation or communication in interstate commerce, or of the mails, or of any facility of a
+national securities exchange in connection with the acts, practices, and courses of business
+alleged herein.
+ DEFENDANTS
+ 8. Akorn, Inc., a Louisiana corporation headquartered in Lake Forest, Illinois, is a
+specialty generic pharmaceutical company that develops, manufactures, and markets generic and
+branded prescription pharmaceuticals and branded and private-label over-the-counter consumer and
+animal health products, specializing in alternative dosage forms. Akorn’s common stock is
+registered with the Commission pursuant to Section 12(b) of the Exchange Act and trades on the
+NASDAQ as “AKRX.” Akorn files periodic reports, including Forms 10-K and 10-Q, with the
+Commission pursuant to Section 13(a) of the Exchange Act and related rules thereunder. In 2003,
+Akorn was ordered to cease and desist from committing or causing any violations and any future
+violations of Section 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 12b-20,
+13a-1, and 13a-13 thereunder. Akorn, Inc., Exchange Act Release No. 48546 (Sept. 25, 2003).
+ 9. Timothy Dick was employed by Akorn from June 2009 until August 2015 and was
+Akorn’s CFO during his entire tenure at the company. As CFO, Dick certified the material accuracy
+of Akorn’s financial statements. Dick, 47 years old, is a resident of Hawthorn Woods, Illinois. Dick
+has never been licensed as an accountant.
+ 3
+

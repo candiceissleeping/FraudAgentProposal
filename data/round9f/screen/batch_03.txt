@@ -1,0 +1,1036 @@
+===== AAER-3984 | released Sept. 21, 2018 | respondent(s): First Hartford Corporation =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 84262 / September 21, 2018
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3984 / September 21, 2018
+ADMINISTRATIVE PROCEEDING
+File No. 3-18823
+In the Matter of
+ ORDER INSTITUTING CEASE-AND-
+ FIRST HARTFORD DESIST PROCEEDINGS PURSUANT TO
+ CORPORATION, SECTION 21C OF THE SECURITIES
+ EXCHANGE ACT OF 1934, MAKING
+Respondent. FINDINGS, AND IMPOSING A CEASE-
+ AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), against First Hartford Corporation (“First Hartford,”
+“Respondent” or the “Company”).
+ II.
+ In anticipation of the institution of these proceedings, First Hartford has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds 1 that:
+ Summary
+ 1. These proceedings arise out of the violation of the Regulation S-X requirement that
+interim financial statements filed as part of a Form 10-Q be reviewed by an independent public
+accounting firm prior to filing (the “Interim Review Requirement”).2
+ 2. On two occasions, First Hartford violated the Interim Review Requirement by filing
+Forms 10-Q with the Commission that contained financial statements that were not reviewed by an
+independent public accounting firm.
+ Respondent
+ 3. First Hartford, a Maine corporation based in Manchester, Connecticut, engages in
+the purchase, development, ownership, management and sale of real estate properties. First
+Hartford is registered under Section 12(g) of the Exchange Act. First Hartford’s shares are quoted
+on OTC Link (formerly “pink sheets”) operated by OTC Markets Group Inc. under the symbol
+FHRT. The Company defines itself as a “smaller reporting company” in its most recent filing. 3
+ Legal Framework and Facts
+ 4. Section 13(a) and Rule 13a-13 thereunder require issuers with securities registered
+pursuant to Section 12 of the Exchange Act and required to file annual reports pursuant to Section
+13(a) to also file quarterly reports on Form 10-Q. Form 10-Q requires issuers to include financial
+statement information as required by Rule 10-01 of Regulation S-X, and further indicates smaller
+reporting companies may provide financial statement information as required by Rule 8-03 of
+Regulation S-X. See Part I, Item 1 of Form 10; see also 17 C.F.R. § 210.1-01(a)(2) (indicating
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding on any
+other person or entity in this or any other proceeding.
+2
+ Rule 10-01(d) of Regulation S-X provides in pertinent part: “Prior to filing, interim financial statements
+included in quarterly reports on Form 10-Q [] must be reviewed by an independent public accountant using
+professional standards and procedures for conducting such reviews, as established by generally accepted auditing
+standards, as may be modified or supplemented by the Commis sion.” 17 C.F.R. § 210.10-01(d). Similarly, with
+respect to smaller reporting companies, Rule 8-03 of Regulation S-X provides in pertinent part: “Interim financial
+statements may be unaudited; however, before filing, interim financial statements included in quarterly reports on
+Form 10-Q [] must be reviewed by an independent public accountant using professional standards and procedures
+for conducting such reviews, as established by generally accepted auditing standards, as may be modified or
+supplemented by the Commission.” 17 C.F.R. § 210.8-03.
+3
+ Under the rules in effect as of the dates of the violations, a company qualifies as a “smaller reporting
+company:” (1) if its public float is less than $75 million or (2) if it cannot calculate its public float, it has less than
+$50 million in annual revenue. Item 10(f)(1) of Regulation S-K.
+ 2
+Regulation S-X sets forth the form and content for financial statements required as part of, among
+other things, reports required under Section 13 of the Exchange Act).
+ 5. As required by Regulation S-X, financial statements included in quarterly reports
+filed on Form 10-Q may be unaudited. 17 C.F.R. § 210.10-01(a)(1); 17 C.F.R. § 210.8-03. Prior
+to filing, however, an issuer must have an independent registered public accounting firm conduct a
+review of the required interim financial information presented in financial statements included in
+the quarterly report. 17 C.F.R. § 210.10-01(d); 17 C.F.R. § 210.8-03. The review must be
+conducted in accordance with the standards of the Public Company Accounting Oversight Board
+(“PCAOB”), as may be modified or supplemented by the Commission.4 17 C.F.R. § 210.10-01(d);
+17 C.F.R. § 210.8-03. If an issuer states that interim financial information contained in a quarterly
+report has been reviewed by an independent public accountant, a report of the accountant must be
+filed with the interim financial statements. 17 C.F.R. § 210.10-01(d); 17 C.F.R. § 210.8-03.
+ 6. On December 19, 2012, First Hartford filed its quarterly report for the second
+quarter of 2012, which included the interim financial statements for that quarter. The interim
+financial statements were not reviewed by an independent public accountant as required by the
+Interim Review Requirement. First Hartford filed a restated and amended Form 10-Q/A on June
+10, 2014, approximately eighteen months after it filed the original Form 10-Q, which included
+interim financial statements that complied with the Interim Review Requirement.
+ 7. On March 29, 2013, First Hartford filed its quarterly report for the third quarter of
+2012, which included the interim financial statements for that quarter. The financial statements
+were not reviewed by an independent public accountant as required by the Interim Review
+Requirement. First Hartford filed a restated and amended Form 10-Q/A on August 7, 2014,
+approximately sixteen months after it filed the original Form 10-Q, which included interim
+financial statements that complied with the Interim Review Requirement.
+ Violations
+ 8. As a result of the conduct described above, First Hartford violated Section 13(a) of
+the Exchange Act and Rule 13a-13 thereunder, which require every issuer with securities
+registered pursuant to Section 12 of the Exchange Act and
+
+===== AAER-3987 | released Sept. 25, 2018 | respondent(s): Lichter, Yu and Associates, Inc., et al. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 84281 / September 25, 2018
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3987 / September 25, 2018
+ADMINISTRATIVE PROCEEDING
+File No. 3-18838
+ ORDER INSTITUTING PUBLIC
+In the Matter of ADMINISTRATIVE AND CEASE-AND-
+ DESIST PROCEEDINGS PURSUANT TO
+ Lichter, Yu and Associates, Inc., SECTIONS 4C AND 21C OF THE
+ Lawrence P. Lichter, CPA, and SECURITIES EXCHANGE ACT OF 1934,
+ Peter L. Yu, CPA, AND RULE 102(e) OF THE
+ COMMISSION’S RULES OF PRACTICE,
+Respondents. MAKING FINDINGS, AND IMPOSING
+ REMEDIAL SANCTIONS AND A CEASE-
+ AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that public
+administrative and cease-and-desist proceedings be, and hereby are, instituted against Lichter, Yu
+and Associates, Inc. (“LYA” or the “Firm”), Lawrence P. Lichter, CPA (“Lichter”), and Peter L.
+Yu, CPA (“Yu”) (collectively, “Respondents”) pursuant Sections 4C1 and 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), and Rule 102(e)(1)(ii) of the Commission’s Rules of
+Practice.2
+1
+ Section 4C provides, in relevant part, that:
+ The Commission may . . . deny, temporarily or permanently, to any person the
+ privilege of appearing or practicing before the Commission in any way, if that
+ person is found . . . to be lacking in character or integrity, or to have engaged in
+ unethical or improper professional conduct.
+2
+ Rule 102(e)(1)(ii) provides, in pertinent part, that:
+ The Commission may . . . deny, temporarily or permanently, the privilege of
+ appearing or practicing before it . . . to any person who is found . . . to have
+ engaged in unethical or improper professional conduct.
+ II.
+ In anticipation of the institution of these proceedings, Respondents have submitted Offers
+of Settlement (“Offers”), which the Commission has determined to accept. Solely for the purpose
+of these proceedings and any other proceedings brought by or on behalf of the Commission, or to
+which the Commission is a party, and without admitting or denying the findings herein, except as
+to the Commission’s jurisdiction over them and the subject matter of these proceedings, which are
+admitted, and except as provided herein in Section V, Respondents consent to the entry of this
+Order, as set forth below.
+ III.
+ On the basis of this Order and Respondents’ Offers, the Commission finds3 that:
+A. SUMMARY
+ 1. These proceedings involve Respondents’ improper professional conduct and
+violations of the federal securities laws in their audit of the FY 2015 financial statements of Code
+Rebel Corporation (“Code Rebel” or “the Company”) in which Code Rebel materially overstated
+the Company’s assets by recording as “Cash and Cash Equivalents” approximately $2.2 million
+that had been misappropriated. The misappropriated cash constituted 77% of Code Rebel’s
+reported current assets and approximately 80% of its reported cash and cash equivalents.
+ 2. During the audit of Code Rebel’s FY 2015 financial statements, Lichter and Yu
+were confronted with a series of significant red flags regarding the Company’s cash and cash
+equivalents supposedly held by an entity called Thorsdale Fiduciary and Guarantee Company Ltd.
+(“Thorsdale”). By the time the audit was completed, they had learned, among other things, that,
+contrary to Code Rebel’s representations in the financial statements: Thorsdale was not an FDIC-
+insured bank but was instead a family trust nominally managed by a related party who was the
+father-in-law of Jason Galanis, who they also learned had twice been charged by the Commission
+with violations of the federal securities laws and had recently been indicted in a parallel criminal
+fraud case. They had also learned that Thorsdale had refused to promptly return to Code Rebel
+funds that the Company had requested, claiming that it was entitled to 90 days’ notice of Code
+Rebel’s intent to withdraw funds. In addition, they knew or should have known that Thorsdale had
+named Galanis as its agent in the agreement that purportedly governed the Thorsdale-Code Rebel
+relationship.
+ 3. Despite all the indications that $2.2 million of the Company’s funds should not
+have been reported as cash or a cash equivalent, LYA issued an audit report that included an
+3
+ The findings herein are made pursuant to Respondents’ Offers of Settlement and are not
+ binding on any other person or entity in this or any other proceeding.
+ 2
+unqualified opinion on Code Rebel’s FY 2015 financial statements. In that audit report, which was
+included in Code Rebel’s Form 10-K along with the financial statements, LYA incorrectly stated
+that the Firm had conducted its audit in accordance with the standards of the Public Company
+Accounting Oversight Board (United States) (“PCAOB”) and opined that Code Rebel’s
+consolidated financial statements presented fairly, in all material respects, Code Rebel’s financial
+position as of December 31, 2015 and the Company’s results of operations and cash flows for the
+year then ended, in conformity with U.S. generally accepted accounting principles (“GAAP”).
+ 4. As a result, Respondents engaged in improper professional conduct, violated
+Section 10A(a)(1) of the Exchange Act, and caused Code Rebel’s violations of Section 13(a) of the
+Exchange Act and Rule 13a-1 thereunder. In addition, LYA violated Rule 2-02 (b) of Regulation
+S-X and Lichter and Yu caused that violation.
+B. RESPONDENTS
+ 5. Lichter, Yu and Associates, Inc. (“LYA” or “the Firm”) is located in Woodland
+Hills, California and was registered with the PCAOB from September 2009 until July 2018 and
+from November 2003 until October 2006. At all relevant times, LYA consisted of owners Lichter
+and Yu, one other individual who was also a Certified Public Accountant (“CPA”), and another
+individual who was not a CPA.
+ 6. Lawrence P. Lichter, age 56, resides in Woodland Hills, California. He has been
+a CPA licensed by the state of California since 1988. Throughout the relevant period, Lichter was
+a 50% owner of LYA. Lichter was the engagement partner on the Code Rebel FY 2015 audit.
+ 7. Peter L. Yu, age 46, resides in Canoga Park, California. He has been a CPA
+licensed by the state of California since 2004. He began to work for Lichter’s firm in December
+1998 and became the co-owner in 2006. As discussed below, Yu purportedly acted as the
+engagement quality reviewer on the Code Rebel FY 2015 audit but he also performed some of the
+work on the audit, including the audit of cash and cash equivalents.
+C. OTHER RELEVANT PERSONS AND ENTITIES
+ 8. Code Rebel Corporation (“Code Rebel” or “the Company”) was, at all relevant
+times, an information technology company with its principal executive offices in Kahului, Hawaii.
+The Company was formed as a Hawaii limited liability company in 2007, and subsequently
+incorporated in Delaware in May 2014. On May 19, 2015, the Company conducted an initial
+public offering and its stock began trading on 
+
+===== AAER-3991 | released Sept. 28, 2018 | respondent(s): Mota Group, Inc. and Mota "Michael" Faro =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 10564 / September 28, 2018
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3991 / September 28, 2018
+ADMINISTRATIVE PROCEEDING
+File No. 3-18856
+ ORDER INSTITUTING CEASE-AND-
+ In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 8A OF THE SECURITIES ACT
+ MOTA GROUP, INC. AND OF 1933, MAKING FINDINGS, AND
+ MOTA “MICHAEL” FARO, IMPOSING A CEASE-AND-DESIST
+ ORDER
+ Respondents.
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate
+that cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of
+the Securities Act of 1933 (“Securities Act”) against Mota Group, Inc. (“Mota” or the
+“Company”) and Mota “Michael” Faro (“Faro”) (together, “Respondents”).
+ II.
+ In anticipation of the institution of these proceedings, Respondents have submitted
+Offers of Settlement (the “Offers”) which the Commission has determined to accept. Solely for
+the purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the
+findings herein, except as to the Commission’s jurisdiction over them and the subject matter of
+these proceedings, which are admitted, and except as provided herein in Section V.,
+Respondents consent to the entry of this Order Instituting Cease-and-Desist Proceedings
+Pursuant to Section 8A of the Securities Act of 1933, Making Findings, and Imposing a Cease-
+and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondents’ Offers, the Commission finds1 that:
+ Summary
+ 1. This matter involves the negligent failure of Mota and its Chief Executive Officer,
+Michael Faro, to ensure the accuracy of the financial statements Mota filed with the Commission
+in connection with the proposed sale of its securities in a planned initial public offering (“IPO”).
+In October 2016, Mota entered into an agreement with a large distributor of electronics and other
+consumer products (the “Distributor”) under which Mota shipped approximately $790,000 of
+product to the Distributor in advance of the 2016 holiday season.2 In exchange, the Distributor
+was to pay Mota only for what the Distributor sold within 90 days, at which point the Distributor
+could return the unsold product (the “Holiday Order”). Because the Distributor had unlimited
+return rights and was only obligated to pay Mota to the extent the Distributor was able to resell
+the products, Mota was not able to recognize revenue under Generally Accepted Accounting
+Principles (“GAAP”) until the Distributor sold the products. However, Mota and its CEO
+provided the auditing firm with inaccurate information about the Holiday Order, which resulted
+in the recognition of $545,481 (or approximately 15 percent) more in revenue on its financial
+statements for the six months ended December 31, 2016 than it should have recognized under
+GAAP. Based in part on the inaccurate information Mota and Faro provided, the auditor
+consented to the inclusion of Mota’s financial statements in four registration statement
+amendments filed with the Commission between February and May 2017.3
+ Respondents
+ 2. Mota Group, Inc. is a privately held Delaware corporation based in San Jose,
+California that sells drones, toys, and other consumer products. Between October 2016 and May
+2017, Mota filed with the Commission a registration statement on Form S-1 and five
+amendments thereto seeking to raise up to $6.5 million by selling its common stock and warrants
+in an IPO. In May 2017, The NASDAQ Stock Market LLC approved Mota’s application to list
+its common stock and warrants on The Nasdaq Capital Market. Mota’s registration statement
+contained an amendment pursuant to Securities Act Rule 473 delaying the effective date of the
+1
+ The findings herein are made pursuant to Respondents’ Offers of Settlement and are not
+binding on any other person or entity in this or any other proceeding.
+2
+ Mota sells drones, toys and other types of consumer products which are popular during
+the holiday season. According to Mota’s filings with the Commission, its second fiscal quarter
+(which ends December 31) historically has been the quarter during which it recognizes its
+highest revenue.
+3
+ The auditor consented, pursuant to Item 601 of Regulation S-K, to the inclusion in the
+registration statement amendments of its report with respect to its audits of Mota’s financial
+statements for the fiscal years ended June 30, 2016 and 2015. However, the conduct described
+here does not relate to those audits.
+ 2
+registration statement until further request from Mota. Mota requested effectiveness of its
+registration statement on May 17, 2017, but voluntarily withdrew the request the following
+day. The registration statement was never declared effective and, accordingly, no securities have
+been sold under the registration statement.
+ 3. Mota “Michael” Faro, age 37, resides in Saratoga, California. Faro is Mota’s
+founder, Chairman, President and Chief Executive Officer. He has no formal accounting
+experience or training.
+ The Holiday Order
+ 4. Mota filed a registration statement on Form S-1 with the Commission on October
+5, 2016 seeking to issue securities in an IPO. Later that month, it entered into the Holiday Order,
+which is described in detail below.
+ 5. Previously, in June 2015, Mota entered into a vendor purchase agreement
+(“Vendor Purchase Agreement”) with the Distributor. Generally, the Vendor Purchase
+Agreement provided that when Mota sold the product to the Distributor, the Distributor would
+pay Mota within 60 days. Under certain circumstances, the Distributor could return excess
+inventory to Mota, for which the Distributor would issue a credit to Mota’s account with the
+Distributor.
+ 6. In October 2016, Mota’s Sales Director and the Distributor entered into a side
+agreement under which the Distributor would order at least $500,000 worth of Mota product in
+advance of the 2016 holiday season (the “Side Agreement”). The Side Agreement was
+memorialized in an email that Mota’s Sales Director sent to the Distributor, with a copy to Faro.
+In the email, the Sales Director stated “Spoke to Michael and he has agreed to the terms we
+discussed around the Holiday [buy] in for Mota products as follows.” According to Faro, he
+failed to read the email. Prior to this, Mota had entered into a few transactions with the
+Distributor, but nothing of this size, and according to the Side Agreement, it was meant, in part,
+to give “the Distributor the comfort of knowing [it had] the option to return any overstock.”
+Under the Side Agreement: 1) the Distributor would pay Mota only for the products that the
+Distributor sold through to its customers within 90 days “based on POS [point-of-sale] sell
+through reporting”; and 2) before the expiration of the 90 days (at the end of January 2017), the
+Distributor could return any unsold produ
+
+===== AAER-3993 | released Nov. 9, 2018 | respondent(s): Pyxus International, Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 84562 / November 9, 2018
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3993 / November 9, 2018
+ADMINISTRATIVE PROCEEDING
+File No. 3-18891
+ ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 21C OF THE SECURITIES
+ Pyxus International, Inc. EXCHANGE ACT OF 1934, MAKING
+ FINDINGS, AND IMPOSING A CEASE-
+Respondent. AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”) against Pyxus International, Inc., which was previously
+known as Alliance One International, Inc. (“Alliance One” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the
+findings herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting
+Cease-and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934,
+Making Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ SUMMARY
+ 1. This matter concerns violations of the reporting, books and records, and internal
+accounting control provisions of the Exchange Act by Alliance One, a tobacco processing company,
+from at least 2011 to 2015. Throughout the period, the processes and control activities designed to
+support the amounts of inventory, deferred crop costs, and the revenue transactions at Alliance
+One’s subsidiary in Kenya, Alliance One Tobacco (Kenya) Ltd. (“Alliance One Kenya”), were not
+sufficient at a local or regional level. Additionally, Alliance One Kenya’s management overrode
+existing controls and failed to report accounting errors to Alliance One. As a result, Alliance One
+filed with the Commission materially misstated financial statements in annual and quarterly reports
+from at least 2011 through the second quarter of 2015.
+ 2. In May 2016, Alliance One filed restated financial statements to correct the
+accounting errors of Alliance One Kenya, determined that its internal control over financial
+reporting had not been designed or operating effectively, and reported the existence of material
+weaknesses in its internal control over financial reporting, which had been remediated. The
+correction of these errors decreased the reported amount of inventory by approximately $32 million,
+decreased accounts receivable by approximately $7 million, and decreased retained earnings by
+approximately $39 million.
+ RESPONDENT
+ 3. Alliance One, a Virginia corporation based in Morrisville, North Carolina,
+purchases, processes, and sells tobacco leaf. Alliance One’s stock is registered under Section 12(b)
+of the Exchange Act and is listed on the New York Stock Exchange (NYSE: AOI). Alliance One
+has a wholly-owned Kenyan subsidiary, Alliance One Kenya. The subsidiary’s operations were
+downsized and certain operations were largely terminated in 2015. Alliance One maintains
+regional operating and financial management in Africa (“Alliance One Africa”), which oversaw
+Alliance One Kenya’s operations. Alliance One Kenya’s financial statements were consolidated
+into Alliance One’s financial statements. Other than inter-company sales, Alliance One Kenya had
+one main customer during the relevant time frame (“the Customer”).
+ FACTS
+ 4. Alliance One publicly announced that it was restructuring Alliance One Kenya in
+June 2015 and terminated the majority of Alliance One Kenya’s management in September 2015.
+In October 2015, Alliance One Africa’s regional management identified discrepancies in Alliance
+One Kenya’s physical inventory and learned that Alliance One Kenya’s Customer disputed the
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not
+binding on any other person or entity in this or any other proceeding.
+ 2
+outstanding accounts receivable balance. Alliance One began an internal investigation, which it
+reported to the Commission in November 2015.
+ 5. On November 7, 2015, Alliance One disclosed that it was delaying filing a
+quarterly report due to accounting discrepancies it had discovered at Alliance One Kenya.
+Alliance One announced that the discrepancies consisted primarily of inventory variances and
+accounts receivable, and could date back to 2008 or earlier. In February 2016, Alliance One
+announced that its consolidated financial statements for most of its quarterly and annual periods
+dating back to its fiscal year ended March 31, 2012 could no longer be relied upon, and that
+accounting discrepancies could also affect earlier periods.
+ 6. Alliance One’s misstated financial statements resulted from improper accounting
+practices at Alliance One Kenya from at least 2011 through September 2015, including recording
+fictitious sales, improper revenue recognition, overstating inventory, and understating costs.
+Alliance One misstated the trade and other receivables, tobacco, cash, advances, other assets, and
+fixed assets, accounts payable and accrued expenses line items in its financial statements. For the
+same period, Alliance One reported material weaknesses in inventory and accounts receivable
+processes, ineffective controls, and controls that were overridden by personnel at Alliance One
+Kenya.
+ 7. Employees at Alliance One Kenya made, or directed individuals in the Alliance
+One Kenya accounting department to make, improper accounting entries which understated costs,
+overstated inventory, recorded fictitious sales to the Alliance One Kenya’s Customer, and
+improperly overstated revenue.
+ 8. With respect to fictitious sales and improper revenue recognition, Alliance One
+Kenya sent an invoice to the Customer just before the end of each fiscal year for the amount of
+estimated sales in the coming year, and recognized revenue for the full amount of this invoice,
+even though only a small portion of the sales had occurred. As actual sales to the Customer
+occurred throughout the following year, employees at Alliance One Kenya created manual invoices
+that were not recorded in the general ledger system. No adjustments were made for any
+differences between actual sales and estimated sales at year end. As a result of this invoicing
+practice, the majority of revenue from the Customer was recognized prematurely. In certain
+periods when actual sales were less than estimated, this practice also resulted in fictitious revenue
+being recorded. This resu
+
+===== AAER-3995 | released Dec. 4, 2018 | respondent(s): KCAP Financial, Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 84718 / December 4, 2018
+INVESTMENT COMPANY ACT OF 1940
+Release No. 33314 / December 4, 2018
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3995 / December 4, 2018
+ADMINISTRATIVE PROCEEDING
+File No. 3-18912
+ ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 21C OF THE SECURITIES
+ KCAP Financial, Inc. EXCHANGE ACT OF 1934 AND SECTION
+ 9(f) OF THE INVESTMENT COMPANY
+Respondent. ACT OF 1940, MAKING FINDINGS, AND
+ IMPOSING A CEASE-AND-DESIST
+ ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”) and Section 9(f) of the Investment Company Act of 1940
+(“Investment Company Act”), against KCAP Financial, Inc. (“KCAP” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (“Offer”) that the Commission has determined to accept. Respondent admits the
+facts set forth in Paragraphs 1 through 38 below, acknowledges that its conduct violated the federal
+securities laws, admits the Commission’s jurisdiction over it and the subject matter of these
+proceedings, and consents to the entry of this Order Instituting Cease-and-Desist Proceedings
+Pursuant to Section 21C of the Securities Exchange Act of 1934 and Section 9(f) of the Investment
+Company Act of 1940, Making Findings, and Imposing a Cease-and-Desist Order (“Order”), as set
+forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ SUMMARY
+ 1. From at least 2010 through the third quarter of 2014 (the “relevant period”) KCAP,
+a New York based company that elected to be regulated as a business development company
+(“BDC”) under the Investment Company Act, received approximately $35.8 million from its
+wholly-owned Asset Manager Affiliates (“AMAs”) and improperly recorded and distributed the
+entire amount as taxable dividends when, in fact, approximately $22.3 million (62.3%) of the funds
+received were actually return of capital.
+ 2. Generally Accepted Accounting Principles (“GAAP”) allow distributions by
+investment companies to be recorded as dividends only when they are paid from current or
+accumulated tax basis earnings and profits. KCAP recorded the entirety of the distributions as
+dividends despite the fact that it prepared quarterly tax accrual worksheets demonstrating that
+certain AMAs lacked current or accumulated tax basis earnings and profits from which to pay
+dividends in certain reporting periods.
+ 3. In short, KCAP failed to: (i) analyze the distributions it received from the AMAs to
+determine whether the funds it received were paid from current or accumulated tax basis earnings
+and profits, or another source; and (ii) record the distributions in conformity with GAAP.
+ 4. In order to maintain its status as a Regulated Investment Company (“RIC”) for U.S.
+federal income tax purposes, and to avoid paying an excise tax on undistributed income, KCAP
+distributed approximately 98% of its investment income to shareholders each year, including
+income received from the AMAs, through quarterly distribution payments.
+ 5. By failing to record the distributions it received from the AMAs in conformity with
+GAAP, however, a significant portion of the quarterly distributions KCAP paid to its shareholders
+also were a return of capital and not dividends. The quarterly distribution payments were not,
+however, accompanied by a contemporaneous written statement disclosing the source of the funds
+distributed. Instead, KCAP issued tax Forms 1099 to its shareholders at year end, but those Forms
+1099 inaccurately described the distributions as dividends because KCAP had recorded the
+distributions it received from the AMAs incorrectly.
+ 6. Although this accounting error was not quantitatively large as a percentage of net
+asset value or net income, KCAP determined that the erroneous recording and recognition of the
+distributions it received from the AMAs was material because it impacted tax-basis distributable
+ 1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and
+are not binding on any other person or entity in this or any other proceeding.
+income, which KCAP identified as one of two main metrics used by analysts and investors to
+evaluate BDCs.
+ 7. Accordingly, in March 2015, KCAP restated its financial statements for the years
+2010 through 2013 and the first three quarters of 2014. In doing so, KCAP disclosed that the
+AMA distribution accounting error was material and that the company had identified a material
+weakness in the internal control over financial reporting regarding the way it recorded those
+distributions.
+ 8. More specifically, KCAP disclosed in the restatement that its management had
+assessed the effectiveness of the company’s internal control over financial reporting and
+determined that it “did not maintain effective internal control over financial reporting as of
+December 31, 2014.”
+ 9. Accordingly, as explained further below, KCAP violated the reporting, books and
+records, and internal accounting controls provisions of the Exchange Act and Investment Company
+Act as well as the payment and distribution provisions of the Investment Company Act.
+ RESPONDENT
+ 10. KCAP is an internally managed, non-diversified closed-end investment company
+that elected to be regulated as a BDC under the Investment Company Act. KCAP is incorporated in
+the State of Delaware and is headquartered in New York City. KCAP’s common stock is registered
+with the Commission pursuant to Section 12(b) of the Exchange Act and trades on the NASDAQ
+Global Select Market under the symbol “KCAP.” Because KCAP has elected to be treated as an
+RIC for U.S. federal income tax purposes, and to avoid paying an additional excise tax, KCAP
+distributes to its shareholders each year approximately 98% of its net ordinary income.
+ FACTS
+ A. KCAP’s AMAs
+ 11. During the relevant period, KCAP invested in as many as four wholly-owned asset
+management companies. Even though the AMAs are wholly-owned subsidiaries of KCAP, in
+accordance with Article 6 of Regulation S-X, KCAP does not consolidate the AMAs’ investments.
+ 12. Instead, KCAP’s AMA investments are reported at fair value in KCAP’s financial
+statements. While the AMAs, unlike KCAP, are not public companies, they are required to have
+consolidated audited financial statements included in KCAP’s annual reports on Forms 10-K
+pursuant to Rule 3-09 of Regulation S-X.
+ 13. While the AMAs’ financial statements can be filed on a consolidated basis, each
+AMA must separately file its own federal tax return. Both KCAP and the AMAs typically filed
+their tax returns in September of the following tax year (i.e., KCAP and the AMAs filed their tax
+returns for tax year 2011 in Septe
+
+===== AAER-3996 | released Dec. 10, 2018 | respondent(s): Agria Corporation =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 84763/ December 10, 2018
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3996 / December 10, 2018
+ADMINISTRATIVE PROCEEDING
+File No. 3-18917
+ ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 21C OF THE SECURITIES
+ AGRIA CORPORATION, EXCHANGE ACT OF 1934, MAKING
+ FINDINGS, AND IMPOSING A CEASE-
+Respondent. AND-DESIST ORDER
+ I
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), against Agria Corporation (“Agria” or “Respondent”).
+ II
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”), which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+And-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing A Cease-And-Desist Order (“Order”), as set forth below.
+ III
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+1
+ The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding on
+any other person or entity in this or any other proceeding.
+ Summary
+ 1. Agria violated the anti-fraud, reporting, books and records, and internal accounting
+control provisions of the federal securities laws. Between 2010 and 2013, Agria engaged in a
+course of fraudulent accounting related to its July 2010 divestiture of Taiyuan Primalights III
+Modernized Agriculture Development Co., Ltd. (“P3A”), a consolidated affiliated entity. Agria
+materially overstated the value of the consideration it received in the transaction and concealed
+material losses as a result of the divestiture.
+ 2. The divestiture involved a related-party exchange between Agria and P3A’s
+president. Agria transferred its ownership interest in P3A to P3A’s president in exchange for
+14.393 million shares of Agria’s common stock. Agria incurred a loss on the transaction, which
+it materially underreported. In doing so, Agria ignored controlling accounting guidance and
+manipulated its valuation of the shares it received.
+ 3. As part of the transaction Agria received land use rights from P3A relating to
+13,500 acres of leased agricultural property in China. The leased properties were located in a
+remote mountainous area which had a severe lack of rainfall, other natural water sources and
+infrastructure for irrigation. Although P3A had in the past used the lands for sheep breeding,
+Agria was not engaged in that business and was otherwise unable to use the lands for any
+revenue generating purpose from the time of divestiture. Nor was Agria able to develop a
+business plan that would generate future cash flows. In addition, legal defects in the leases
+obtained by P3A from the original lessors and in the lease transfer agreements between P3A and
+Agria precluded Agria from selling or subleasing the properties. Agria’s senior management was
+aware of these legal defects prior to the P3A divestiture.
+ 4. The changes in use of the lands and the legal defects constituted impairment
+indicators that required Agria to perform an impairment analysis to determine whether it would
+be able to recover the carrying value of the land use rights. Agria’s senior financial officers
+knowingly or recklessly failed to perform the analysis and to impair the carrying value of the
+land use rights.
+ 5. In early 2013 Agria did perform an impairment analysis and wrote off the full
+$57.3 million carrying value of the land use rights. The impairment decision was based on facts
+that were known or readily knowable in 2010: The land had no economic viability, and the legal
+defects precluded Agria from realizing any salvage value through resale. Because the facts
+giving rise to the impairment had existed since 2010, Agria’s decision to record the impairment
+in 2013, rather than restating its financial statements for 2010 through 2012, was improper.
+ 6. Agria’s delay in impairing the carrying value of the land use rights and its
+subsequent failure to restate its 2010-2012 financial statements allowed it to hide the impact of
+the impairment on its 2010 balance sheet and income statement and on its 2011 and 2012 balance
+sheets.
+ 7. By engaging in the conduct described in this Order, Agria violated Exchange Act
+Sections 10(b), 13(a), 13(b)(2)(A) and 13(b)(2)(B) and Rules 10b-5, 12b-20, 13a-1 and 13a-16
+thereunder.
+ 2
+ Respondent
+ 8. Agria is a Cayman Islands company engaged in the agricultural business, with
+operations in the People’s Republic of China, New Zealand, and Australia. Agria’s corporate
+headquarters during the relevant period was in Hong Kong. Agria is a foreign private issuer whose
+ordinary shares were registered with the Commission pursuant to Exchange Act Section 12(b).
+Agria’s American Depository Shares (“ADSs”), each representing two ordinary shares, traded on
+the New York Stock Exchange under the symbol “GRO.” The NYSE suspended trading in
+Agria’s ADSs on November 3, 2016 and they were delisted on January 2, 2017.
+ Other Relevant Entity
+ 9. P3A was a limited liability company established in China with three primary
+product lines: corn seed, sheep breeding, and seedlings. Prior to the July 2010 divestiture, P3A
+served as Agria’s primary operating entity in China. Because government regulations restricted
+foreign ownership of the seed and sheep businesses, Agria conducted its Chinese operations
+through contractual arrangements with P3A and its shareholders, all of whom were required to be
+Chinese citizens. P3A’s financial results were recorded in Agria’s consolidated financial
+statements prior to the divestiture.
+ Background
+A. The July 2010 Divestiture of P3A
+ 10. In early 2010 Agria negotiated an agreement with P3A’s president for Agria to
+divest its P3A ownership interest. The divestiture resulted in Agria discontinuing all its sheep-
+breeding operations, leaving it to focus on its seed business in China.
+ 11. The divestiture involved the following exchange: Agria transferred its 100%
+ownership interest in P3A to P3A’s president, and in return P3A’s president transferred his
+ownership of 11.5% of Agria’s outstanding shares. Agria also acquired, for no additional
+consideration, the land use rights held by P3A. Agria accounted for the P3A divestiture as a
+discontinued operation.
+ 12. Agria retained three external advisory firms in order to assess the fairness of the
+terms of the divesti
+
+===== AAER-3997 | released Dec. 11, 2018 | respondent(s): The Hain Celestial Group, Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 84781 / December 11, 2018
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3997 / December 11, 2018
+ADMINISTRATIVE PROCEEDING
+File No. 3-18921
+ ORDER INSTITUTING CEASE-AND-DESIST
+In the Matter of PROCEEDINGS, PURSUANT TO SECTION
+ 21C OF THE SECURITIES EXCHANGE ACT
+ The Hain Celestial Group, Inc. OF 1934, MAKING FINDINGS, AND
+ IMPOSING A CEASE-AND-DESIST ORDER
+Respondent.
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”) against The Hain Celestial Group, Inc. (“Respondent” or
+“Hain”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order (“Order”), as set
+forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds that:
+ Summary
+ From at least 2014 until May 2016, Hain U.S. sales personnel gave sales incentives to
+certain distributors to promote sales at the end of quarters. These incentives had potential
+accounting implications. In August 2016, Hain self-reported the incentives practice to the SEC and
+announced it was delaying its financial reporting for fiscal year 2016. Hain ultimately determined
+that no financial restatements were required, but it took the company approximately 10 months to
+do so, given the existence of an internal review on a number of issues, and Hain’s inadequate
+documentation of the incentives and lack of sufficient internal accounting controls to provide
+reasonable assurances that the incentives were accounted for correctly. Hain disclosed in its Annual
+Report for fiscal year 2016, filed in June 2017, that it had material weaknesses in its internal
+controls over financial reporting.
+ Respondent
+ 1. Hain is a Delaware corporation headquartered in Lake Success, New York. Hain’s
+common stock is registered with the Commission pursuant to Section 12(b) of the Exchange Act
+and trades on the NASDAQ (under the ticker symbol HAIN). Hain files periodic reports, including
+Forms 10-K and 10-Q, with the Commission pursuant to Section 13(a) of the Exchange Act and
+related rules thereunder.
+ Background
+ 2. Hain is a leading marketer, manufacturer, and seller of organic and natural food and
+personal care products. In its fiscal year ending June 30, 2016 (FY 2016), Hain reported $2.885
+billion in worldwide net sales, including $1.321 billion relating to the United States reporting
+segment (the “U.S. Business Segment”). Over the past five years, net sales for the U.S. Business
+Segment have constituted an increasingly smaller portion of Hain’s worldwide sales: While U.S.
+net sales accounted for 63% of Hain’s worldwide sales in FY 2013, by FY 2016, U.S. net sales
+constituted only 46% of worldwide sales. While U.S. Business Segment sales were increasing, due
+to a variety of factors, the rate of year-to-date net sales growth for the U.S. Business Segment
+declined over these years, from a high of 17% sales growth (FY 2014), to 6.6% sales growth (FY
+2015), to declining year-to-date sales growth in the first two quarters of FY 2016 (-1.7% and -
+3.3%, respectively).1
+1
+ All sales figures as originally reported.
+ 2
+ 3. Hain’s customer base consists principally of specialty and natural food distributors,
+supermarkets, natural food stores, mass-market and e-commerce retailers, food service channels
+and club, drug and convenience stores. A portion of the products marketed by Hain in the U.S. are
+sold through independent food distributors, who have access to key retailers and which purchase
+products from Hain for resale to these retailers. Sales to these distributors provide Hain access to
+these key retailers.
+Hain’s U.S. Business Segment: EOQ Agreements with its Largest Distributors.
+ 4. During Hain’s FY 2014-2016 (the “Relevant Time Period”), approximately 30% of
+Hain’s net sales for its U.S. Business Segment were derived from two distributors: (1) “Distributor
+1,” accounting for approximately $325-350 million in net sales annually (over 20% of Hain’s net
+sales for its U.S. Business Segment), and (2) “Distributor 2,” accounting for over $115 million in
+net sales annually (approximately 8% of Hain’s net sales for its U.S. Business Segment). During
+this time period, Hain’s U.S. Business Segment sales teams responsible for Distributors 1 and 2
+engaged in varying degrees of “end of quarter” (“EOQ”) sales.
+ 5. These EOQ sales included asking Distributors 1 and 2 to purchase specific dollar
+values of inventory by quarter-end, in exchange for additional incentives. These incentives varied
+by distributor (and by quarter), but could include: (1) cash incentives (up to $500,000), (2)
+extended payment terms (up to 90 days), (3) discounts off list price (up to 20% off), and (4) spoils
+coverage, whereby Hain agreed to reimburse the distributor for products that spoiled or expired
+before the distributor could sell through to retailers. None of these types of incentives are
+improper; however, they could have financial reporting implications.
+Distributor #1
+ 6. During the Relevant Time Period, Distributor 1 and Hain executed annual sales
+contracts, stipulating to quarterly inventory sales growth targets. Distributor 1 earned financial
+incentives based on meeting these growth targets. This translated in practice to Hain and
+Distributor 1 agreeing, on a quarterly basis, to inventory purchasing targets. During the Relevant
+Time Period, Hain’s quarterly inventory purchasing targets for Distributor 1 ranged up to $90
+million. In many quarters, however, as the quarter-end grew near, Distributor 1 communicated
+to Hain’s sales personnel that it might not purchase sufficient inventory to meet its quarterly
+purchasing target. Distributor 1 would predict missing its inventory purchasing target by $10,
+$20, or as much as $30 million, and requested additional sales incentives to meet its target.
+During the Relevant Time Period, Hain’s overall net sales for its U.S. Business Segment were
+approximately $300 million per quarter.
+ 7. As a way to incentivize Distributor 1 to purchase sufficient inventory to meet or
+exceed its agreed-upon sales growth targets, a practice developed whereby Distributor 1 and
+Hain would renegotiate their quarterly terms. These renegotiations varied by quarter, but
+Distributor 1 would obtain extra-contractual incentives—such as (1) cash financial incentives
+ 3
+
+
+===== AAER-4002 | released Dec. 17, 2018 | respondent(s): Santander Consumer USA Holdings Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 84829 / December 17, 2018
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4002 / December 17, 2018
+ADMINISTRATIVE PROCEEDING
+File No. 3-18932
+ ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 21C OF THE SECURITIES
+ SANTANDER CONSUMER EXCHANGE ACT OF 1934, MAKING
+ USA HOLDINGS INC., FINDINGS, AND IMPOSING A CEASE-
+ AND-DESIST ORDER
+Respondent.
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), against Santander Consumer USA Holdings Inc.
+(“SCUSA” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds that:
+ Summary
+ 1. SCUSA is a public consumer finance company that purchases and securitizes
+subprime automobile loans in the form of retail installment contracts (RICs). More than 75% of
+the RICs that SCUSA purchases are considered subprime, which means that they may carry higher
+credit risk and at times are more likely to default than loans issued to borrowers with higher credit
+scores. By volume, SCUSA issues more subprime securitizations than any other issuer.
+ 2. For at least eight reporting periods, SCUSA failed to calculate and report its
+incurred credit loss allowance in conformity with Generally Accepted Accounting Principles
+(“GAAP”). Credit loss allowance reflects whether SCUSA has sufficiently reserved for credit
+losses on higher risk loans, including subprime loans. SCUSA’s method of assessing impairment
+for a large category of these loans that had previously been restructured, and its lack of segregation
+of those loans for evaluation, was not in conformity with GAAP. In addition, SCUSA used an
+incorrect discount rate and made errors in calculating the accretion of that discount, which also
+impacted its reporting of the impairment of these assets.
+ 3. SCUSA made these errors for years—beginning before its initial public offering in
+January 2014 and continuing through most of 2016. As a result of these and other errors, SCUSA
+restated its financial statements twice during this period. The errors largely resulted from
+SCUSA’s flawed internal accounting controls, which took years for it to remediate. As a result of
+this conduct, SCUSA violated the reporting, books and records, and internal accounting controls
+provisions of the federal securities laws.
+ Respondent
+ 4. SCUSA is a Delaware corporation headquartered in Dallas, Texas, that originates,
+securitizes, and services automobile loans and leases through a wholly-owned subsidiary.
+SCUSA’s common stock is registered with the Commission pursuant to Section 12(b) of the
+Exchange Act, and it trades on the New York Stock Exchange under the ticker symbol SC.
+SCUSA conducted an initial public offering in January 2014 and has filed periodic reports since
+that time.
+ Facts
+ 5. SCUSA purchases RICs from auto dealerships across the United States. SCUSA
+purchases many of the RICs at a discount to the amount financed. SCUSA typically then
+securitizes these loans, but the loans remain classified as assets on SCUSA’s balance sheet since
+SCUSA controls and consolidates the securitization trusts. As a result, SCUSA investors can
+assess the general performance of SCUSA loans by reviewing the value of these assets on
+SCUSA’s balance sheet and the related credit loss allowance.
+ 2
+ 6. SCUSA’s errors in calculating its credit loss allowance, as detailed below, led
+SCUSA to restate its financial statements two separate times in one year. The errors impacted
+every periodic report and earnings release filed by SCUSA from the time of its initial public
+offering in January 2014 until it filed its second restatement in late 2016. SCUSA’s financial
+statements contained errors that were material for both quantitative and qualitative factors.
+ Failure to Appropriately Segregate and Account for Impairment of Troubled Loans
+ 7. Approximately 40% of SCUSA’s credit loss allowance has consistently been
+attributable to “troubled debt restructuring” loans (“TDRs”). Generally, a TDR is a loan in which
+the creditor has granted a concession to the borrower for an economic or legal reason related to the
+borrower’s financial difficulties. Because SCUSA’s business is primarily lending to higher credit
+risk subprime borrowers, a significant number of SCUSA’s loans become TDRs.
+ 8. However, both before and after it became a public company, SCUSA incorrectly
+calculated its credit loss allowance for TDRs under GAAP. TDRs are, by definition, impaired
+loans and, accordingly, should be evaluated to ensure that the credit loss allowance accurately
+captures the credit losses on these loans. Accounting Standards Codification ("ASC") 310,
+Receivables, requires that TDRs be segregated and evaluated for impairment separately from the
+rest of the loan portfolio using a discounted cash flow method. However, as a result of delays in
+developing a model to identify TDR loans, SCUSA instead improperly grouped TDRs with the rest
+of its loan assets, and collectively evaluated the entire group for impairment. Although SCUSA
+knew it was using the wrong approach, it continued this improper accounting until the third quarter
+of 2015.
+ 9. In addition, under GAAP, a registrant must separately disclose in the footnotes to
+its financial statements the amount of TDR impairment. Prior to its first restatement, SCUSA did
+not disclose that it failed to separately analyze its TDR portfolio for the purpose of calculating its
+credit loss allowance. Instead, SCUSA disclosed in the footnotes to its financial statements that it
+had assessed TDRs for impairment based on the present value of expected future cash flows.
+ Additional GAAP Failures
+ Discount Rate
+ 10. For each period until its second restatement, SCUSA also used an improper
+discount rate in the discounted cash flow calculation for TDR impairment. Under GAAP, a
+creditor is required to measure a TDR’s impairment based on the loan’s discounted future cash
+flows using the loan’s original effective interest rate, which is the original contractual r
+
+===== AAER-4009 | released Dec. 26, 2018 | respondent(s): ADT Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 84956 / December 26, 2018
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4009 / December 26, 2018
+ADMINISTRATIVE PROCEEDING
+File No. 3-18955
+ ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 21C OF THE SECURITIES
+ ADT INC., EXCHANGE ACT OF 1934, MAKING
+ FINDINGS, AND IMPOSING A CEASE-
+Respondent. AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), against ADT Inc. (“ADT” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds that:
+ Summary
+ These proceedings arise out of ADT’s violations of Section 13(a) of the Exchange Act and
+Rule 13a-11 thereunder relating to disclosure requirements concerning non-GAAP financial
+measures contained in Item 10(e)(1)(i)(A) of Regulation S-K.1 Specifically, ADT did not afford
+equal or greater prominence to comparable GAAP financial measures in two of its earnings
+releases containing non-GAAP financial measures – ADT’s Q4 2017 and Fiscal Year 2017
+Earnings Release dated and furnished to the Commission on March 15, 2018 (the “FY 2017
+Earnings Release”) and ADT’s Q1 2018 Earning Release dated and furnished to the Commission
+on May 9, 2018 (the “Q1 2018 Earnings Release”).
+ Respondent
+ 1. ADT, a Delaware corporation based in Boca Raton, Florida, engaged in home and
+business security businesses. ADT’s common stock is registered under Section 12(b) of the
+Exchange Act and trades on the New York Stock Exchange under the ticker symbol “ADT.”
+ Background
+ 2. Section 13(a) of the Exchange Act requires every issuer of a security registered
+pursuant to Section 12 of the Exchange Act to file with the Commission, among other things,
+annual, quarterly and current reports as the Commission may require. Rule 13a-11 of the
+Exchange Act requires every such issuer file current reports on Form 8-K as the Commission
+may require, including as triggered under Item 2.02 of Form 8-K when a registrant releases a
+quarterly or annual earnings release containing material non-public information regarding
+registrant’s results of operations or financial condition. Item 10(e)(1)(i)(A) of Regulation S-K
+provides that an issuer, when including a non-GAAP financial measure in a filing with the
+Commission, must include a presentation, with equal or greater prominence, of the most directly
+comparable financial measure or measures calculated and presented in accordance with GAAP.
+Instruction 1 of Item 2.02 of Form 8-K states that the “requirements of this Item 2.02 are
+triggered by the disclosure of material non-public information regarding a completed fiscal year
+or quarter. Release of additional or updated material non-public information regarding a
+completed fiscal year or quarter would trigger an additional Item 2.02 requirement.” Instruction
+2 of Item 2.02 of Form 8-K states that the “requirements of paragraph (e)(1)(i) of Item 10 of
+Regulation S-K (17 CFR 229.10(e)(1)(i)) shall apply to disclosures under this Item 2.02.”
+ 3. In its FY 2017 Earnings Release and its Q1 2018 Earnings Release, ADT provided
+non-GAAP financial measures such as adjusted EBITDA, adjusted net income, and free cash flow
+before special items, without giving equal or greater prominence to the comparable GAAP
+financial measures.
+ 4. In the headline of the FY 2017 Earnings Release, ADT presented its adjusted
+ 2
+EBITDA for fiscal year 2017 and stated that adjusted EBITDA was up 8% year-over-year,
+without mentioning ADT’s net income or loss (the comparable GAAP financial measure) in the
+1
+ “GAAP” refers to U.S. generally accepted accounting principles.
+2
+ EBITDA (earnings before interest, taxes, depreciation and amortization) is an example of
+a non-GAAP financial measure.
+ 2
+headline.
+ 5. In the headline of the Q1 2018 Earnings Release, ADT presented its adjusted
+EBITDA (a non-GAAP financial measure) for the first quarter of 2018 and stated that adjusted
+EBITDA was up 7% year-over-year, without mentioning ADT’s net income or loss (the
+comparable GAAP financial measure) in the headline. On the top of the first page, ADT then
+listed “FIRST QUARTER 2018 HIGHLIGHTS” in nine bullet points, including bullet points that
+state ADT’s adjusted EBITDA of $620 million was up 7%, adjusted net income of $249 million
+was up 26%, and adjusted net income per share of $0.34 was up 10%. These three measures are all
+non-GAAP financial measures. ADT did not include comparable GAAP financial measures for
+net income or loss in the HIGHLIGHTS section. Instead, ADT reported in the second and sixth
+full paragraphs that its GAAP net loss had increased from $141 million for Q1 2017 to $157
+million for Q1 2018.
+ 6. As a result of the conduct described above, ADT violated Section 13(a) of the
+Exchange Act and Rule 13a-11 thereunder.
+ 7. In determining to accept ADT’s Offer, the Commission considered the
+cooperation ADT afforded the Commission staff.
+ IV.
+ In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondent ADT’s Offer.
+ Accordingly, it is hereby ORDERED that:
+ A. Pursuant to Section 21C of the Exchange Act, Respondent ADT cease and desist
+from committing or causing any violations and any future violations of Section 13(a) of the
+Exchange Act and Rule 13a-11 thereunder.
+ B. Respondent shall, within 20 days of the entry of this Order, pay a civil money
+penalty in the amount of $100,000 to the Securities and Exchange Commission for transfer to the
+general fund of the United States Treasury, subject to Exchange Act Section 21F(g)(3). If timely
+payment is not made, additional interest shall accrue pursuant to 31 U.S.C. §3717.
+ Payment must be made in one of the following ways:
+ (1) Respondent may transmit payment electronically to the Commission, which
+ will provide detailed ACH transfer/Fedwire instructions upon request;
+ (2) Respondent may make direct payment from a bank account via Pay.gov
+ through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+ 3
+
+
+===== AAER-4012 | released Dec. 31, 2018 | respondent(s): Hertz Global Holdings, Inc. and the Hertz Corporation =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 10601 / December 31, 2018
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 84979 / December 31, 2018
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4012 / December 31, 2018
+ADMINISTRATIVE PROCEEDING
+File No. 3-18965
+ ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT
+ TO SECTION 8A OF THE
+ HERTZ GLOBAL HOLDINGS, INC. SECURITIES ACT OF 1933 AND
+ and SECTION 21C OF THE SECURITIES
+ THE HERTZ CORPORATION, EXCHANGE ACT OF 1934, MAKING
+ FINDINGS, AND IMPOSING A
+Respondents. CEASE-AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act
+of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 1934 (“Exchange
+Act”), against the entities currently known as Hertz Global Holdings, Inc. and The Hertz
+Corporation (collectively, “Respondents” or “Hertz”).
+ II.
+ In anticipation of the institution of these proceedings, Respondents have submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over them and the subject matter of these
+proceedings, which are admitted, Respondents consent to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 8A of the Securities Act and Section 21C of the
+Exchange Act, Making Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth
+below.
+ III.
+ On the basis of this Order and Respondents’ Offer, the Commission finds1 that:
+ Summary
+ 1. Respondent Hertz Global Holdings, Inc. (“Hertz Holdings”) is the accounting
+successor to an entity also called Hertz Global Holdings, Inc. (“Hertz Global”), and Respondent The
+Hertz Corporation (“Hertz Corp.”) is its wholly owned subsidiary.
+ 2. From at least February 2012 through March 2014, Hertz’s public filings materially
+misstated pretax income because of accounting errors made in a number of business units, and over
+multiple reporting periods, as reflected in the Restatement that Hertz filed on July 16, 2015. Part of
+the misstated income resulted from errors made in various accounts that are subject to management
+estimate. For example, Hertz’s car rental business routinely recovers sums of money from third
+parties for damages that occur during rental. Hertz estimated an allowance for uncollectible
+amounts as an offset to what it recorded as potential recoveries. For years, Hertz’s allowance
+related expenses were understated and income was inflated because Hertz relied on inappropriate
+estimation methodologies that resulted in inadequate allowances and write-offs. The inappropriate
+methodologies occurred within a pressured corporate environment where, in certain instances, there
+was an inappropriate emphasis on meeting internal budgets, business plans, and earnings estimates.
+ 3. Pressure also existed at times when other inadequate disclosures were filed with the
+Commission. For example, Hertz, consistent with the regular course of its business, routinely
+estimated how long it would hold cars before disposing of them and replacing them. The planned
+holding periods were one of the variables in the formula Hertz used to depreciate its car rental
+assets, and also could have impacted other aspects of Hertz’s business, such as maintenance costs.
+During 2013, Hertz decided to extend the holding periods of a significant portion of its U.S. car
+rental fleet. That decision, and its impact on aspects of Hertz’s business, were not adequately
+disclosed to investors.
+ 4. Also in 2013, after having already revised its earnings guidance downward, Hertz
+reaffirmed the revised guidance publicly in November 2013 despite certain internal analysis
+indicating that the revised guidance had been based in part on inaccurate information and that
+certain recent internal estimates fell below the low end of that guidance range.
+1
+ The findings herein are made pursuant to Respondents’ Offer of Settlement and are not
+binding on any other person or entity in this or any other proceeding.
+ 2
+ 5. On July 16, 2015, Hertz restated its financial results for 2012, 2013, and prior
+periods, including selected data for 2011 (unaudited). Including revisions made in early 2014, the
+company reduced its previously reported GAAP pretax income by a total of $235 million (the
+“Restatement”). The Restatement identified 17 areas with material accounting errors across the
+company’s business units, identified additional information regarding historical depreciation and
+planned holding periods, identified eleven separate material weaknesses in Hertz’s internal controls
+over financial reporting, and acknowledged that “an inconsistent and sometimes inappropriate tone
+at the top” had existed and may have contributed to a number of errors, misstatements and
+omissions.
+ 6. Based on the foregoing and the conduct described herein below, Hertz Holdings
+violated Sections 17(a)(2) and 17(a)(3) of the Securities Act and Sections 13(a), 13(b)(2)(A) and
+13(b)(2)(B) of the Exchange Act and Rules 12b-20, 13a-1, 13a-11 and 13a-13 thereunder, and
+Hertz Corp. violated Section 15(d) of the Exchange Act and Rules 12b-20, 15d-1, 15d-11 and 15d-
+13 thereunder.
+ Respondents
+ 7. Hertz Global Holdings, Inc. (“Hertz Holdings”) is a Delaware corporation
+headquartered in Estero, Florida. Its securities are registered pursuant to Section 12(b) of the
+Exchange Act. Its common stock trades on the New York Stock Exchange, and Hertz Holdings
+files periodic reports, including Forms 10-K and 10-Q, with the Commission pursuant to Section
+13(a) of the Exchange Act and related rules thereunder. As of June 30, 2016, Hertz Holdings was
+spun off from and designated as the accounting successor to Hertz Global, whose securities had
+also been registered pursuant to Section 12(b) of the Exchange Act.
+ 8. The Hertz Corporation (“Hertz Corp.”) is a Delaware corporation headquartered
+in Estero, Florida. It filed registration statements with the Commission on Form S-4 that became
+effective in February and October 2013. Accordingly, as required by Section 15(d) of the
+Exchange Act, Hertz Corp. filed periodic reports, including Forms 10-K and 10-Q, respecting
+fiscal year 2013 pursuant to Section 15(d) of the Exchange Act and related rules thereunder. Hertz
+Corp. is the wholly-owned operating subsidiary of Hertz Holdings, and it previously was the
+wholly-owned subsidiary of Hertz Global.
+ Facts
+ Hertz’s Inaccurate Financial Reporting
+ 9. As noted, the Restatement identified a total of $235 million in previously reported
+pretax income did not comply with generally accepted accounting principles (

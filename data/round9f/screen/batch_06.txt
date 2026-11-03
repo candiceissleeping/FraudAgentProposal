@@ -1,0 +1,915 @@
+===== AAER-4175 | released Sept. 28, 2020 | respondent(s): Interface, Inc., et al. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 10854 / September 28, 2020
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 90018 / September 28, 2020
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4175 / September 28, 2020
+ADMINISTRATIVE PROCEEDING
+File No. 3-20085
+ ORDER INSTITUTING PUBLIC
+ ADMINISTRATIVE AND CEASE-AND-
+ DESIST PROCEEDINGS PURSUANT TO
+ In the Matter of SECTION 8A OF THE SECURITIES ACT OF
+ 1933, SECTIONS 4C AND 21C OF THE
+ INTERFACE, INC., SECURITIES EXCHANGE ACT OF 1934, AND
+ GREGORY J. BAUER, CPA, RULE 102(e) OF THE COMMISSION’S RULES
+ and OF PRACTICE, MAKING FINDINGS, AND
+ PATRICK C. LYNCH, CPA, IMPOSING REMEDIAL SANCTIONS AND A
+ CEASE-AND-DESIST ORDER
+ Respondents.
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that public
+administrative and cease-and-desist proceedings be, and hereby are, instituted against Interface,
+Inc. (“Interface”) pursuant to Section 8A of the Securities Act of 1933 (“Securities Act”) and
+Section 21C of the Securities Exchange Act of 1934 (“Exchange Act”), against Gregory J. Bauer,
+CPA (“Bauer”), pursuant to Section 8A of the Securities Act, Sections 4C1 and 21C of the
+1
+ Section 4C provides, in relevant part, that:
+Exchange Act, and Rule 102(e)(1)(iii) of the Commission’s Rules of Practice,2 and against Patrick
+C. Lynch, CPA (“Lynch”) pursuant to Sections 4C and 21C of the Exchange Act and Rule
+102(e)(1)(iii) of the Commission’s Rules of Practice.
+ II.
+ In anticipation of the institution of these proceedings, Interface, Bauer, and Lynch
+(collectively “Respondents”) have submitted Offers of Settlement (the “Offers”) which the
+Commission has determined to accept. Solely for the purpose of these proceedings and any other
+proceedings brought by or on behalf of the Commission, or to which the Commission is a party,
+and without admitting or denying the findings herein, except as to the Commission’s jurisdiction
+over them and the subject matter of these proceedings, which are admitted, and except as provided
+herein in Section V, Respondents consent to the entry of this Order Instituting Public
+Administrative and Cease-And-Desist Proceedings Pursuant to Section 8A of the Securities Act of
+1933, Sections 4C and 21C of the Securities Exchange Act of 1934, and Rule 102(e) of the
+Commission’s Rules of Practice, Making Findings, and Imposing Remedial Sanctions and a Cease-
+And-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondents’ Offers, the Commission finds3 that:
+ SUMMARY
+ 1. From the second quarter of 2015 through the second quarter of 2016, Interface, a
+global designer and manufacturer of modular carpet, reported earnings per share (“EPS”) that did
+ The Commission may censure any person, or deny, temporarily or permanently,
+ to any person the privilege of appearing or practicing before the Commission in
+ any way, if that person is found . . . (1) not to possess the requisite qualifications
+ to represent others; (2) to be lacking in character or integrity, or to have engaged
+ in unethical or improper professional conduct; or (3) to have willfully violated, or
+ willfully aided and abetted the violation of, any provision of the securities laws or
+ the rules and regulations issued thereunder.
+2
+ Rule 102(e)(1)(iii) provides, in pertinent part, that:
+ The Commission may . . . deny, temporarily or permanently, the privilege of
+ appearing or practicing before it . . . to any person who is found … to have
+ willfully violated, or willfully aided and abetted the violation of any provision of
+ the Federal securities laws or the rules and regulations thereunder.
+3
+ The findings herein are made pursuant to Respondents’ Offers of Settlement and are not
+binding on any other person or entity in this or any other proceeding.
+ 2
+not accurately reflect the company’s underlying performance. During these five consecutive
+financial quarters, Interface’s then-Corporate Controller, Bauer, directed or otherwise caused his
+subordinates to book unsupported, manual accounting adjustments to Interface’s management
+bonus accruals, expenses related to a key independent consultant (“Consultant”), and stock based
+compensation. These adjustments did not comply with generally accepted accounting principles
+(“GAAP”) and artificially inflated Interface’s income and EPS, which resulted in Interface meeting
+or beating consensus estimates for EPS and showing earnings growth. Interface’s then-Chief
+Financial Officer (“CFO”), Lynch, also caused Bauer to direct entries in two quarters that lacked
+support and did not comply with GAAP. Bauer and Lynch were able to direct or cause these
+improper adjustments because Interface failed to have sufficient accounting controls or procedures
+in place to prevent unsupported, manual, period end, journal entries. Interface lacked critical
+journal entry controls and Bauer’s subordinate accountants were not knowledgeable in GAAP.
+ 2. The adjustments and misstatements were also material to Interface’s financial
+statements and caused Interface to make false disclosures in public filings, press releases, and
+earnings calls about its actual EPS results, its earnings growth, and its pattern of meeting or beating
+consensus analyst estimates. Had Lynch and Bauer ensured the financial statements complied with
+GAAP, Interface’s reported earnings would have been more volatile than reported, and in two
+quarters in which it reported meets of analyst consensus EPS, Interface would have in fact missed
+the consensus estimates. Consequently, Interface’s conduct was materially misleading to investors
+in violation of the federal securities laws.
+ RESPONDENTS
+ 3. Interface is a Georgia corporation with its principal place of business located in
+Atlanta, GA. The company’s shares are registered with the Commission pursuant to Section
+12(b) of the Exchange Act and trades on the NASDAQ Exchange under the symbol “TILE.”
+Interface files periodic reports, including Forms 10-K and 10-Q, with the Commission pursuant
+to Section 13(a) of the Exchange Act and related rules thereunder.
+ 4. Bauer, age 44, resides in Smyrna, GA, and is a CPA licensed in the State of
+Georgia. Bauer was Interface’s Vice President and Controller from 2011 through October 2017,
+at which time he was promoted to the position of Vice President of Finance and Chief
+Accounting Officer. Interface placed Bauer on paid administrative leave on April 23, 2019, and
+terminated his employment on July 15, 2020.
+ 5. Lynch, age 50, resides in Marietta, GA and is a CPA licensed in the State of
+Georgia. His license lapsed in approximately 2004. Lynch was Interface’s CFO from June 2001
+to November 2016, at which time he left Interface to be the CFO of another company. From
+May 2019 to the present, Lynch has served as the CFO of a privately-held consolidating
+subsidiary of a public holding company.
+ 3
+
+
+===== AAER-4177 | released Sept. 29, 2020 | respondent(s): Manitex International, Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 10860 / September 29, 2020
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 90042 / September 29, 2020
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4177 / September 29, 2020
+ADMINISTRATIVE PROCEEDING
+File No. 3-20099
+ In the Matter of ORDER INSTITUTING CEASE-AND-
+ DESIST PROCEEDINGS PURSUANT TO
+ MANITEX SECTION 8A OF THE SECURITIES ACT
+ INTERNATIONAL, INC., OF 1933 AND SECTION 21C OF THE
+ SECURITIES EXCHANGE ACT OF 1934,
+ Respondent. MAKING FINDINGS, AND IMPOSING
+ REMEDIAL SANCTIONS AND A CEASE-
+ AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission” or “SEC”) deems it appropriate
+that cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the
+Securities Act of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 1934
+(“Exchange Act”) against Manitex International, Inc. (“Manitex” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Manitex has submitted an Offer of
+Settlement (the “Offer”) which the Commission has determined to accept. Solely for the purpose
+of these proceedings and any other proceedings brought by or on behalf of the Commission, or to
+which the Commission is a party, and without admitting or denying the findings herein, except as
+to the Commission’s jurisdiction over it and the subject matter of these proceedings, which are
+admitted, Manitex consents to the entry of this Order Instituting Cease-and-Desist Proceedings,
+Pursuant to Section 8A of the Securities Act of 1933 and Section 21C of the Securities Exchange
+Act of 1934, Making Findings, and Imposing Remedial Sanctions and a Cease-and-Desist Order
+(“Order”), as set forth below.
+ III.
+ On the basis of this Order and Manitex’s Offer, the Commission finds1 that:
+ SUMMARY
+ 1. This matter involves financial and accounting fraud by senior officers and
+employees at Manitex, a publicly-traded company that manufactures and distributes cranes,
+forklifts and other heavy equipment and machinery. During downturns in Manitex’s business,
+certain of Manitex’s officers and employees engaged in two distinct, fraudulent schemes involving
+the use of related party entities to engage in fraudulent accounting practices. The first fraud was
+perpetrated by Andrew Rooke (“Rooke”), Manitex’s former Chief Operating Officer (“COO”), and
+Stephen Harrison (“Harrison”), the former general manager of Manitex’s Crane & Machinery
+subsidiary. The second fraud, which resulted in a restatement, involved Rooke, Harrison and
+Michael Schneider (“Schneider”), Manitex’s former Controller and Chief Financial Officer
+(“CFO”). As a result of the two schemes, Manitex issued materially misstated financial statements
+in its public filings for every period from at least the fourth quarter of 2014 through the second
+quarter of 2017.
+ 2. In the first scheme, Manitex improperly accounted for and misled its outside auditor
+about its contributions of purported inventory from one of its subsidiaries to Lift Ventures, LLC
+(“Lift Ventures”), a joint venture created on December 16, 2014. Beginning in approximately
+January 2014, Rooke and Harrison created false inventory lists and shipping documents which
+were provided to Manitex’s outside auditor to cover up a $1.39 million inventory shortfall at one of
+Manitex’s subsidiaries. Subsequently, at Rooke’s direction, Manitex purportedly contributed the
+$1.39 million in nonexistent inventory to Lift Ventures, a joint venture Rooke and Manitex created
+with three foreign partners, and it was recorded on Manitex’s books as a non-marketable equity
+investment. As a result, Manitex overstated its 2014 operating income by approximately 11% and
+pre-tax income by approximately 15%. Manitex continued to list its contribution to Lift Ventures
+at or close to its full value in its periodic filings with the Commission until September 2016.
+ 3. In the second scheme, Manitex improperly recognized revenue on and misled its
+auditor about approximately $12 million in purported “bill and hold” sales of cranes to S.V.W.
+Crane Equipment Company (“SVW”). In March 2016, Manitex approached SVW to enter into an
+agreement to purchase Manitex cranes and rent them to third parties. SVW had no operations,
+revenue, or significant assets, and did not have the financial ability to obtain financing or otherwise
+pay for or store the cranes purchased from Manitex. At Rooke’s direction, Harrison took charge of
+the SVW relationship, secured the financing for SVW’s crane purchases, and, on behalf of
+Manitex, guaranteed the financing for the cranes. Harrison, in consultation with Rooke, then
+created a purported financing subsidiary for SVW called Rental Consulting Services Company
+(“RCSC”), to conceal the fact that Manitex was making the financing payments. In order to make
+the payments, Harrison created a series of fraudulent invoices on RCSC letterhead for fictitious
+services that RCSC purportedly provided to Manitex. Schneider approved the payments although
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding on any other
+person or entity in this or any other proceeding.
+ 2
+he knew that the RCSC invoices were not genuine. Manitex should not have recognized revenue
+on the purported sales. As a result of the fraud, Manitex overstated its 2016 net revenues by over
+6.9% and its 2016 gross profits by approximately 8.2%. On April 3, 2018, Manitex issued restated
+financial statements for 2016 and the first two quarters of 2017.2
+ 4. As a result of the conduct described above, Manitex violated Section 17(a) of the
+Securities Act, Sections 10(b), 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules
+10b-5, 12b-20, 13a-1, and 13a-13 thereunder.
+ RESPONDENT
+ 5. Manitex International, Inc., is a Michigan corporation headquartered in
+Bridgeview, Illinois, that manufactures and distributes cranes, forklifts and heavy equipment.
+Manitex operates through several subsidiaries both in the United States and Europe, including
+Crane & Machinery which also was headquartered in Bridgeview, Illinois. Manitex and its
+predecessors have been in business since 1993. Manitex has a class of securities registered under
+Section 12(b) of the Exchange Act and its shares trade on the NASDAQ as “MNTX.” During the
+relevant period, Manitex sold securities to the public pursuant to several Form S-3 registration
+statements filed with the Commission. A broad range of investors purchased Manitex stock in
+these offerings. During the relevant period, the Form S-3 registration statements incorporated by
+reference the company’s public filings with the Commission.
+ OTHER RELEVANT INDIVIDUALS AND ENTITIES
+ 6. Andrew Rooke, 62 years old, is a resident of Bloomfield Hills, Michigan. Rooke
+was Manitex’s President and COO from at least May 2008 until December 2016. As COO, Rooke
+was Manitex’s second-highest ranking officer, and reported
+
+===== AAER-4181 | released Sept. 30, 2020 | respondent(s): BGC Partners, Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 10867 / September 30, 2020
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 90050 / September 30, 2020
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4181 / September 30, 2020
+ADMINISTRATIVE PROCEEDING
+File No. 3-20107
+ ORDER INSTITUTING CEASE-AND-DESIST
+ In the Matter of PROCEEDINGS, PURSUANT TO 8A OF THE
+ SECURITIES ACT OF 1933, AND SECTION 21C
+ BGC PARTNERS, INC., OF THE SECURITIES EXCHANGE ACT OF 1934,
+ MAKING FINDINGS, AND IMPOSING A CEASE-
+ Respondent. AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that
+cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the
+Securities Act of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of
+1934 (“Exchange Act”) against BGC Partners, Inc. (“BGC” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (“Offer”) that the Commission has determined to accept. Solely for the purpose of
+these proceedings and any other proceedings brought by or on behalf of the Commission, or to
+which the Commission is a party, and without admitting or denying the findings herein, except as
+to the Commission’s jurisdiction over it and the subject matter of these proceedings, which are
+admitted, Respondent consents to the entry of this Order Instituting Cease-and-Desist
+Proceedings, Pursuant to 8A of the Securities Act, and Section 21C of the Exchange Act, Making
+Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds 1 that:
+ Summary
+ These proceedings arise out of BGC’s false and misleading disclosures concerning how it
+calculated a key non-GAAP financial measure, which BGC reported in its quarterly and annual
+earnings releases and during earnings calls. BGC called this measure post-tax distributable earnings
+(“Post-Tax DE”). From its first quarter of 2015 through its first quarter of 2016 (the “Relevant
+Period”), BGC repeatedly emphasized Post-Tax DE as a key financial measure of its after-tax
+profitability. To arrive at this measure, BGC multiplied distributable earnings before taxes (“Pre-
+Tax DE”) by a DE tax rate. BGC, however, excluded certain expenses from its calculation of
+Pre-Tax DE, while continuing to apply a tax deduction associated with these expenses when
+calculating the DE tax provision and ultimately, Post-Tax DE. As a result, when calculating
+Post-Tax DE, BGC took the benefit of a tax deduction without reducing Pre-Tax DE income by
+the amount of the expense that was the basis for the deduction.
+ BGC made materially false and misleading statements in its earnings releases during the
+Relevant Period about how it calculated Post-Tax DE. Specifically, it stated in substance that the
+provision for taxes on Pre-Tax DE took into account all of the adjustments that it made to Pre-
+Tax DE. In fact, BGC included tax deductions in its Post-Tax DE calculation associated with
+expenses not included in Pre-Tax DE. Because BGC included those deductions in its Post-Tax
+DE calculation, its Post-Tax DE figure was inflated by over 30% in its year-end earnings release
+for 2015 (the “2015 Earnings Release”), which was furnished to the Commission as an
+attachment to a Form 8-K dated February 10, 2016. BGC’s calculation of Post-Tax DE for 2015
+also resulted in an artificially low effective DE tax rate of 15%. A lower effective DE tax rate
+increased BGC’s Post-Tax DE, the company’s key non-GAAP measure of after-tax profitability.
+ Respondent
+ 1. BGC is a global brokerage company servicing the financial and real estate
+markets. It is a Delaware corporation headquartered in New York, New York. BGC’s common
+stock is registered with the Commission pursuant to Section 12(b) of the Exchange Act, and its
+shares trade on the NASDAQ under the ticker “BGCP.” BGC files periodic reports, including
+Forms 10-K and 10-Q with the Commission, pursuant to Section 13(a) of the Exchange Act and
+related rules thereunder.
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding on any other
+person or entity in this or any other proceeding.
+ 2
+ BGC’s Use of a Non-GAAP Financial Measure
+ 2. During the Relevant Period, BGC misleadingly described Post-Tax DE in its
+earnings releases as “pre-tax distributable earnings adjusted to assume that all pre-tax
+distributable earnings were taxed at the same effective rate.” However, BGC’s Post-Tax DE
+methodology did not calculate tax on all Pre-Tax DE. BGC increased Pre-Tax DE by excluding
+various expenses. Many of these increases were not taxed because BGC then included
+deductions associated with these expenses in calculations of its DE tax provision and ultimately,
+Post-Tax DE. Put simply, when BGC calculated Post-Tax DE, BGC left out expenses that would
+lower Pre-Tax DE, while at the same time, including those expenses as deductions when
+calculating its DE tax provision. As a result, when calculating Post-Tax DE, BGC took the
+benefit of a tax deduction without reducing Pre-Tax DE by the amount of the expense that was
+the basis for the deduction.
+ BGC Excluded Expenses in Calculating Post-Tax DE
+ 3. As discussed below, BGC used a variety of practices to calculate Post-Tax DE,
+resulting in Post-Tax DE being inflated by over 30% in the annual 2015 Earnings Release and by
+approximately 25% in the quarterly earnings release for the first quarter of 2016, dated April 27,
+2016 (the “2016-1Q Earnings Release”).
+ a. $100 Million Settlement
+ 4. On January 13, 2015, media reports stated that BGC had agreed to pay $100
+million to settle a lawsuit brought by another brokerage firm. In its 2014 GAAP financial
+statements, filed in the 2014 Form 10-K, BGC recorded as an expense the approximately $100
+million settlement. In 2015, BGC paid out the settlement to the brokerage firm in cash.
+ 5. BGC did not reduce Pre-Tax DE for either 2014 or 2015 by any amount for that
+legal settlement expense, which BGC had appropriately recognized in its 2014 GAAP financial
+statements. However, BGC included a $100 million tax deduction associated with that legal
+settlement expense when it calculated the tax provision used to arrive at 2015 Post-Tax DE. As a
+result of this conduct, which BGC has never disclosed, BGC’s Post-Tax DE was approximately
+19% greater in the 2015 Earnings Release than it would have been had BGC’s calculation not
+included a tax deduction for the excluded expense.
+ b. Partnership Unit Expenses
+ 6. In the 2015 Earnings Release, BGC did not reduce Pre-Tax DE by any amount for
+partnership unit expenses, an expense related to equity-based employee compensation.
+However, when BGC calculated the DE tax provision, it included an approximately $79.9
+million tax deduction for these expenses. As a result, BGC’s Post-Tax DE was
+approximatel
+
+===== AAER-4182 | released Sept. 30, 2020 | respondent(s): Hilton Worldwide Holdings Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 90052 / September 30, 2020
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4182 / Septemebr 30, 2020
+ADMINISTRATIVE PROCEEDING
+File No. 3-20109
+In the Matter of ORDER INSTITUTING CEASE-AND-
+ DESIST PROCEEDINGS PURSUANT TO
+ HILTON WORLDWIDE SECTION 21C OF THE SECURITIES
+ HOLDINGS INC., EXCHANGE ACT OF 1934, MAKING
+ FINDINGS, AND IMPOSING A CEASE-
+Respondent. AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), against Hilton Worldwide Holdings Inc. (“Hilton” or
+“Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds 1 that:
+ Summary
+ 1. This matter arises from Hilton Worldwide Holdings Inc.’s failure to disclose in its
+definitive proxy statements approximately $1.7 million worth of certain travel-related perquisites
+and personal benefits it paid to, or on behalf of, its Chief Executive Officer, President, and member
+of its board of directors (the “CEO”) and certain other executives who were eligible for travel-
+related benefits (together with the CEO, the “Named Executive Officers”), from 2015 through
+2018. The Board-authorized perquisites included, among other things, expenses associated with
+the CEO’s personal use of Hilton’s corporate aircraft and the Named Executive Officers’ hotel
+stays. In connection with this conduct, Hilton violated Sections 13(a) and 14(a) of the Exchange
+Act and Rules 12b-20, 13a-1, and 14a-3 thereunder.
+ Respondent
+ 2. Respondent Hilton Worldwide Holdings Inc. is a Delaware corporation
+headquartered in McLean, Virginia. Hilton is a global hospitality company with significant
+operations in the United States. Hilton’s common stock is registered under Section 12(b) of the
+Exchange Act and trades on the New York Stock Exchange under the ticker symbol “HLT.”
+ Background
+ 3. Section 14(a) of the Exchange Act makes it unlawful to solicit any proxy in respect
+of any security (other than an exempted security) registered pursuant to Section 12 of the Exchange
+Act in contravention of such rules and regulations as the Commission may prescribe. Rule 14a-3
+prohibits issuers with securities registered pursuant to Section 12 of the Exchange Act from
+soliciting proxies without furnishing proxy statements containing the information specified in
+Schedule 14A, including executive compensation disclosures pursuant to Item 402 of Regulation
+S-K. Item 402 of Regulation S-K requires disclosure of the total value of all perquisites and other
+personal benefits provided to named executive officers who receive at least $10,000 worth of such
+items in a given year. Item 402 of Regulation S-K also requires identification of all perquisites and
+personal benefits by type, and quantification of any perquisite or personal benefit that exceeds the
+greater of $25,000 or 10% of total perquisites.
+ 4. In 2006, the Commission adopted amendments to executive compensation
+disclosure rules, including Item 402 of Regulation S-K. See Commission’s Executive
+Compensation and Related Person Disclosure Final Rule adopting release, Release Nos. 33-
+8732A; 34-54302A; IC-27444A; File No. S7-03-06 (August 29, 2006) (the “Adopting Release”).
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not
+binding on any other person or entity in this or any other proceeding.
+ 2
+According to the Adopting Release, “an item is not a perquisite or personal benefit,” and does not
+need to be reported, “if it is integrally and directly related to the performance of the executive’s
+duties. Otherwise, an item is a perquisite or personal benefit if it confers a direct or indirect benefit
+that has a personal aspect, without regard to whether it may be provided for some business reason
+or for the convenience of the company, unless it is generally available on a non-discriminatory
+basis to all employees.” The Adopting Release also states that “the concept of a benefit that is
+‘integrally and directly related’ to job performance is a narrow one,” which “draws a critical
+distinction between an item that a company provides because the executive needs it to do the job,
+making it integrally and directly related to the performance of duties, and an item provided for
+some other reason, even where that other reason can involve both company benefit and personal
+benefit.”
+ 5. According to the Adopting Release, even where the company “has determined that
+an expense is an ‘ordinary’ or ‘necessary’ business expense for tax or other purposes or that an
+expense is for the benefit or convenience of the company,” that determination “is not responsive to
+the inquiry as to whether the expense provides a perquisite or other personal benefit for disclosure
+purposes.” Indeed, “business purpose or convenience does not affect the characterization of an
+item as a perquisite or personal benefit where it is not integrally and directly related to the
+performance by the executive of his or her job.”
+ Facts
+ 6. Contrary to Item 402 of Regulation S-K and the Commission’s guidance in the
+Adopting Release, Hilton’s system for identifying, tracking and calculating perquisites incorrectly
+applied a standard whereby a business purpose would be sufficient to determine that certain items
+were not perquisites or personal benefits that required disclosure.
+ 7. In definitive proxy statements disclosing executive compensation paid for 2015
+through 2018, which were filed in 2016 through 2019, Hilton mistakenly disclosed a total of
+approximately $587,000 worth of “All Other Compensation” provided to its Named Executive
+Officers, with an annual average of approximately $146,750. The disclosed “All Other
+Compensation” consisted predominately of 401(k) contributions, insurance premiums, tax
+reimbursements, and certain personal travel and lodging costs.
+ 8. However, these same definitive proxy statements failed to disclose approximately
+$1.7 million worth of travel-related perquisites and personal benefits provided to its Named
+Executive Officers, thereby understating t
+
+===== AAER-4185 | released Oct. 5, 2020 | respondent(s): Hill International, Inc. et al. =====
+ Hill International, Inc. et al. (Release No. LR-24939; Oct. 5, 2020) --> SEC Obtains Final Judgment Against, and Suspends, Accountant Formerly with Construction Management Consulting Company Litigation Release No. 24939 / October 5, 2020 Accounting and Auditing Enforcement Release No. 4185 / October 5, 2020 Securities and Exchange Commission v. Hill International, Inc. et al. , No. 1:20-cv-02143 (E.D. Pa. filed January 16, 2020) On October 1, 2020, the U.S. District Court for the Eastern District of Pennsylvania entered a final consent judgment against Nicholas Tornello, a former senior accountant at Hill International, Inc. The SEC's complaint , filed on January 16, 2020, alleged that Tornello failed to correct approximately $5 million in accounting errors relating to foreign currency exchange losses incurred by Hill, and attempted to "bleed" those losses out over time. As alleged, this conduct reduced the negative impact of the losses, resulting in overstated net income on the company's financial statements. Without admitting or denying the SEC's allegations, Tornello consented to the entry of the final judgment, which enjoins him from violating the record-keeping and internal controls provisions of Section 13(b)(5) of the Securities and Exchange Act of 1934 and Rule 13b2-1 thereunder, and from aiding and abetting violations of the books and records and reporting provisions of 13(a) and13(b)(2)(A) of the Exchange Act and Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder. The judgment also orders Tornello to pay a $25,000 civil penalty. In addition, the Commission instituted administrative proceedings, made findings, and, pursuant to Rule 102(e) of the Commission's Rules of Practice, suspended Tornello from appearing and practicing before the SEC as an accountant, which includes not participating in the financial reporting or audits of public companies, with a right to apply for reinstatement after one year. Without admitting or denying the Commission's findings, Tornello consented to the suspension. The company and Ronald Emma, Hill's former Chief Accounting Officer, previously settled the Commission's claims against them. The investigation and litigation were conducted by John V. Donnelly III, Jack Easton, Cecilia B. Connor, and Daniel Berman, and supervised by Jennifer C. Barry, Kingdon Kase, and Kelly L. Gibson of the Philadelphia Regional Office. SEC Complaint --> 
+
+===== AAER-4194 | released Dec. 9, 2020 | respondent(s): General Electric Company =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 10899 / December 9, 2020
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 90620 / December 9, 2020
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4194 / December 9, 2020
+ADMINISTRATIVE PROCEEDING
+File No. 3-20165
+ ORDER INSTITUTING CEASE-AND-
+ In the Matter of DESIST PROCEEDINGS, PURSUANT TO
+ SECTION 8A OF THE SECURITIES ACT
+ GENERAL ELECTRIC OF 1933 AND SECTION 21C OF THE
+ COMPANY, SECURITIES EXCHANGE ACT OF 1934,
+ MAKING FINDINGS, AND IMPOSING
+ Respondent. REMEDIAL SANCTIONS AND A CEASE-
+ AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act
+of 1933 (“Securities Act”) and 21C of the Securities Exchange Act of 1934 (“Exchange Act”)
+against General Electric Company (“GE” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 8A of the Securities Act of 1933 and Section 21C of
+the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order
+(“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ Summary
+ GE, a large publicly-traded company that operates a number of lines of business, failed to
+disclose material information to investors related to two of its key reportable segments during the
+period from 2015 through 2017. First, GE failed to disclose to investors information concerning
+the nature of its reported profit growth in its power business and $2.5 billion in reported cash
+collections. Second, from the third quarter of 2015 through the first quarter of 2017, GE failed to
+disclose to investors worsening trends in its insurance business and the potential for substantial
+losses. GE’s insurance business ultimately incurred a $9.5 billion pre-tax charge against GE’s
+earnings for the fourth quarter of 2017 and required capital contributions by GE of approximately
+$15 billion over seven years to fund expected future insurance claims.
+ GE’s power business (known as GE Power) manufactures gas turbines and earns revenue,
+among other ways, by selling these power turbines to power plant operators and entering
+agreements to service the turbines for customers in the future. GE failed to disclose that more than
+one quarter of GE Power’s reported profits in 2016 and almost half of its reported profits in the
+first three quarters of 2017 resulted from reductions in estimates of the cost to complete its multi-
+year agreements to provide repairs and service for customers’ power turbines. Under GE’s
+accounting method, these reductions in cost estimates resulted in large revenue and earnings
+increases in the period in which the estimates were changed. In public disclosures, GE misled
+investors by describing its Power segment profits without explaining that more than $1.4 billion in
+2016 and $1.1 billion in the first three quarters of 2017 stemmed from reductions in cost estimates.
+ GE reported increased industrial cash collections commensurate with increased Power
+segment profits in 2016 and 2017 by changing its practices to sell (or “factor”) longer term
+receivables from its Power service multi-year agreements, principally to GE’s own subsidiary
+(known as GE Capital). Selling longer term receivables to GE Capital allowed GE immediately to
+report increased industrial cash flow, without disclosing that GE was depleting future cash flows
+by moving them into the present. As a result of this new practice, called “deferred monetization,”
+GE boosted a publicly reported cash flow measure by more than $1.4 billion in 2016 and more
+than $500 million in the first three quarters of 2017. GE failed to disclose to investors its adoption
+and reliance on deferred monetization which increased present industrial cash flow at the expense
+of future years.
+ GE’s insurance business reinsured billions of dollars’ worth of policies written by other
+insurers, including a substantial number of long-term care insurance policies. Long-term care
+policies cover future costs associated with growing older, such as nursing home and assisted living
+expenses. Long-term care policies – including those insured by GE – were badly underpriced. By
+2015 and 2016, claims by long-term care insurance policy-holders had been exceeding GE’s
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding on any other
+ person or entity in this or any other proceeding.
+ 2
+original projections for years. In 2015 and 2016, despite known continuing trends of increasing
+costs from long-term care insurance policies, GE’s insurance business lowered projected claims
+costs for the distant future and simultaneously concluded that it did not have insurance losses. GE
+failed to disclose its rising claim costs and the resulting potential for material insurance losses.
+ In 2017 and 2018, GE made a series of public announcements describing disappointing
+cash and earnings results in its GE Power business as well as the $9.5 billion pre-tax insurance
+charge and required capital contributions of approximately $15 billion over seven years. These
+issues contributed to GE’s almost 75% stock decline during those years.
+ Respondent
+ 1. General Electric Company is incorporated in the state of New York, and since
+2016, the company has been headquartered in Boston, Massachusetts. GE describes itself as a high
+technology industrial company that operates a number of lines of business, including in the power,
+renewable energy, aviation, and healthcare industries. GE’s common stock is registered pursuant
+to Section 12(b) of the Exchange Act, and is quoted under the ticker symbol “GE” on the New
+York Stock Exchange.
+ GE Promises Long-Term Growth While Facing Challenges in its Power Business
+ 2. At an investor conference in May 2015, GE’s CEO described the company’s plans
+for future earnings growth. GE was undergoing substantial change; among other things, the
+company had announced its agreement to acquire a power company in April 2014 to add to its GE
+Power line of business and its planned divestiture of much of its GE Capital business in April
+2015. At the May 2015 investor conference, GE’s CEO presented investors and analysts who
+followed and reported on GE’s stock performance with a framework to grow GE’s non-GAAP
+Industrial
+
+===== AAER-4199 | released Dec. 17, 2020 | respondent(s): Apex Global Brands Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 10907 / December 17, 2020
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 90714 / December 17, 2020
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4199 / December 17, 2020
+ADMINISTRATIVE PROCEEDING
+File No. 3-20175
+ ORDER INSTITUTING CEASE-AND-
+ In the Matter of DESIST PROCEEDINGS, PURSUANT TO
+ SECTION 8A OF THE SECURITIES ACT
+ Apex Global Brands Inc., FKA OF 1933 AND SECTION 21C OF THE
+ Cherokee Inc. SECURITIES EXCHANGE ACT OF 1934,
+ MAKING FINDINGS, AND IMPOSING A
+ Respondent. CEASE-AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act
+of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 1934 (“Exchange
+Act”) against Respondent, Apex Global Brands Inc., formerly known as Cherokee Inc.
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings, Pursuant to Section 8A of the Securities Act of 1933 and Section 21C of
+the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order
+(“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds 1 that:
+ Summary
+ 1. This proceeding concerns material misstatements by Apex Global Brands Inc.2
+(“Apex” or “the Company”) regarding its primary asset and only revenue source, trademarks
+held by the company. From at least January 2017 to April 2018 Apex materially overstated its
+financial statement by failing to timely recognize impairments of its trademarks. During the time
+of overstatement, Apex’s trademarks provided the company’s sole source of revenue of
+approximately $29 million to $35 million. By January 2017, three of Apex’s trademarks were
+impaired, but impairment charges were not recognized until February 3, 2018 when it impaired
+these three trademarks for a total of $34.5 million.
+ 2. Apex’s misstatements were due to inappropriate quarterly and annual impairment
+assessment of the trademarks, while the Company was experiencing a series of significant
+setbacks in its business and industry environment, licensing business, and market valuation.
+Apex performed only limited qualitative impairment assessments that failed to appropriately take
+into account negative information indicating that the trademarks were more likely than not
+impaired. Such an indication would have required a quantitative assessment of value, which
+Apex did not perform. Apex was also aware as early as August 2016 that the values of certain of
+Apex’s trademarks were more likely than not materially lower than the carrying values on the
+Company’s books.
+ 3. In Apex’s fiscal year 2017 annual report and three subsequent quarterly reports, the
+Company misreported to investors, including in an offering, significantly inflated values for its
+trademarks. This information was material. Investors would reasonably expect to know if a
+company’s major asset and revenue source was materially impaired. As a result, Apex violated the
+antifraud Sections 17(a)(2) and 17(a)(3) of the Securities Act. In addition, Apex violated the
+reporting, internal accounting controls and books and records provisions of the Exchange Act.
+ Respondent
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding on any
+other person or entity in this or any other proceeding.
+2
+ For clarity, the Order refers to Apex throughout. However, Apex was called Cherokee Inc. during the
+relevant period. Cherokee changed its name to Apex Global Brands Inc. as of June 27, 2019.
+ 2
+ 4. Apex Global Brands Inc., formerly known as Cherokee Inc., is a Delaware
+corporation established in 1973 and headquartered in Sherman Oaks, California. As Cherokee, the
+common stock was registered pursuant to Section 12(b) of the Securities Exchange Act of 1934
+(“Exchange Act”) and initially traded on the Nasdaq Global Select Market under the symbol
+"CHKE." Cherokee rebranded as Apex Global Brands effective June 27, 2019, and until it was
+delisted on November 5, 2020, traded on NASDAQ Capital Markets under the ticker symbol
+“APEX.” Apex files periodic reports, including Forms 10-K and 10-Q, pursuant to Section 13(a)
+of the Exchange Act and related rules thereunder. Apex’s fiscal year ends in January.
+ Facts
+ Apex’s Trademarks Performed Poorly
+ 5. In September 2012, Apex acquired the Liz Lange trademark for $14 million. It
+followed this purchase with the acquisition of the Tony Hawk (“Hawk”) trademark for $19
+million in January 2014, and the acquisition of the Flip Flop Shops (“FFS”) business for $12
+million in October 2015. Along with a fourth trademark, these trademarks formed the core of
+Apex’s business. At fiscal yearend 2016 (January 2016), the carrying values of the trademarks
+were as follows:
+ Carrying
+ Value (in
+ Trademark $
+ millions)
+ Liz Lange 14.0
+ Hawk 19.0
+ FFS 11.5
+ 6. Both Liz Lange and Hawk trademarks were booked on Apex’s balance sheet at
+values that equaled their purchase prices, determined on the basis of earnings expectations that
+were dependent on the continuation and success of their respective contracts with two large retail
+chains (Retail Chain A and B.) Subsequently, however, neither Liz Lange nor Hawk performed
+in accordance with purchase expectations and both eventually lost their primary licensees.
+Similarly, the 2015 FFS acquisition performed poorly from the time it was acquired, never
+achieving the income and expansion assumptions that formed the basis of its acquisition cost and
+carrying value.
+ Apex Failed to Perform Adequate Impairment Assessments of its Trademarks
+ 7. Throughout the relevant period, Apex was required to perform annual impairment
+assessments of its trademarks. These assessments also were required more frequently on an
+interim basis if events or changes in circumstances indicated it was more likely than not that the
+asset was impaired, pursuant to ASC 350-30-35. The Company was permitted to first perform a
+qualitative assessment to determine whether it was necessary to perform a quantitative impairment
+ 3
+
+
+===== AAER-4213 | released April 29, 2021 | respondent(s): Trutankless, Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 91716 / April 29, 2021
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4213 / April 29, 2021
+ADMINISTRATIVE PROCEEDING
+File No. 3-20269
+ ORDER INSTITUTING CEASE-AND-
+ In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 21C OF THE SECURITIES
+ TRUTANKLESS, INC., EXCHANGE ACT OF 1934, MAKING
+ FINDINGS, AND IMPOSING A CEASE-
+ Respondent. AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), against TruTankless, Inc. (“TruTankless” or
+“Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ Summary
+ 1. These proceedings arise out of the violation of Exchange Act Rule 12b-25, which
+requires that issuers that fail to file timely a periodic report shall file a Form 12b-25 “Notification of
+Late Filing,” commonly known as “Form NT,” which contains, among other things, reasonable
+detail as to why the issuer’s periodic report could not be filed on time and an explanation of any
+anticipated, significant changes in the issuer’s results of operations.
+ 2. In August 2019, TruTankless violated Rule 12b-25 by filing a Form 12b-25 with the
+Commission in which TruTankless failed to disclose why, in sufficient detail under the
+circumstances presented, its second-quarter, fiscal year (“FY”) 2019 Form 10-Q could not be timely
+filed. TruTankless’s Form 12b-25 also failed to acknowledge anticipated, significant changes in
+TruTankless’s results of operations for the second quarter of FY2019, compared with TruTankless’s
+operating results in the second quarter of FY2018, and to provide an explanation of the changes, as
+required under the rule. Four days after filing its Form 12b-25, TruTankless filed its second-quarter
+FY2019 Form 10-Q disclosing to investors and the market a restatement of its financial statements
+for the first quarter of FY2019. TruTankless, however, had failed to include in its Form 12b-25
+any disclosure that the discovery, and ongoing correction, of errors in its first-quarter FY2019
+financial statements were among the principal reasons that it was unable to file timely the subject
+second-quarter FY2019 Form 10-Q.
+ Respondent
+ 3. TruTankless, a Nevada corporation based in Scottsdale, Arizona, manufactures and
+sells whole-house, electric tankless water heaters. TruTankless common stock is registered under
+Section 12(g) of the Exchange Act and is quoted on the OTCQB Venture Market.
+ Legal Framework and Facts
+ 4. Section 13(a) of the Exchange Act and Rules 13a-1 and 13a-13 thereunder require
+issuers with a security registered pursuant to Section 12 of the Exchange Act to file with the
+Commission annual reports on Form 10-K and quarterly reports on Form 10-Q.
+ 5. Rule 12b-25 provides that if an issuer fails to file a Form 10-K or 10-Q within the
+time period prescribed for such report, the issuer, no later than one business day after the due date
+1
+ The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding on any
+other person or entity in this or any other proceeding.
+ 2
+for such report, shall file a Form 12b-25 with the Commission, disclosing the issuer’s inability
+to file the report timely and the reasons therefore in reasonable detail.2 Form 12b-25 requires the
+issuer to affirm, among other things, that the subject periodic report will be filed within fifteen
+calendar days, for a Form 10-K, or within five calendar days, for a Form 10-Q, of the report’s
+prescribed due date, and requires that the report actually be filed within such period. Form 12b-25
+also requires the issuer to confirm whether or not it anticipates that any significant change in
+results of operations from the corresponding period for the prior fiscal year will be reflected by the
+earnings statements to be included in the subject periodic report. If such change is anticipated, the
+issuer must attach a narrative and quantitative explanation of the anticipated change and, if
+appropriate, state the reasons why a reasonable estimate of the results cannot be made.
+ 6. On August 15, 2019, TruTankless filed with the Commission a Form 12b-25
+disclosing that TruTankless could not file timely its Form 10-Q for its FY2019 second quarter,
+ended June 30, 2019, because it had “encountered some difficulty in compiling necessary
+disclosures and compilation of its financial statements for review by its independent public
+accountant for the quarter ended June 30, 2019.”
+ 7. Furthermore, in its Form 12b-25, TruTankless affirmed that it would file the subject
+Form 10-Q within the five-calendar-day extension period and indicated that it did not anticipate
+that any significant change in results of operations from the corresponding period for the prior
+fiscal year would be reflected in the subject Form 10-Q.
+ 8. On August 19, 2019, TruTankless filed with the Commission a Form 10-Q for its
+FY2019 second-quarter, ended June 30, 2019, disclosing the following restatement: “[TruTankless]
+has restated the financial statements for the three months ended March 31, 2019 to correct the
+accounting for the conversion of the convertible promissory notes…. [T]he notes holders of
+$110,000 of convertible notes originally convertible at $1.00 agreed to convert the notes and
+accrued interest of the notes at $0.25. The Company evaluated the adjustment of the conversion
+price under ASC 470, and recorded a loss on conversion of $126,813.” This materially increased
+TruTankless’s net loss for the first quarter of FY2019 to $1,261,643.
+ 9. TruTankless’s inability to meet the filing deadline for its second-quarter FY2019
+Form 10-Q was due, in large part, to the discovery, and ongoing correction, of errors in its first-
+quarter FY2019 financial statements. In its Form 12b-25, however, TruTankless failed to disclose
+this information and failed to provide the detailed narratives and quantitative explanation
+specifically called for by the form. The company anticipated that its second-quarter FY2019
+financial results, when reported, would differ significa
+
+===== AAER-4214 | released April 29, 2021 | respondent(s): ShiftPixy, Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 91717 / April 29, 2021
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4214 / April 29, 2021
+ADMINISTRATIVE PROCEEDING
+File No. 3-20270
+ ORDER INSTITUTING CEASE-AND-
+ In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 21C OF THE SECURITIES
+ SHIFTPIXY, INC., EXCHANGE ACT OF 1934, MAKING
+ FINDINGS, AND IMPOSING A CEASE-
+ Respondent. AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), against ShiftPixy, Inc. (“ShiftPixy” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ Summary
+ 1. These proceedings arise out of the violation of Exchange Act Rule 12b-25, which
+requires that issuers that fail to file timely a periodic report shall file a Form 12b-25 “Notification of
+Late Filing,” commonly known as “Form NT,” which contains, among other things, reasonable
+detail as to why the issuer’s periodic report could not be filed on time and an explanation of any
+anticipated, significant changes in the issuer’s results of operations.
+ 2. In July 2019, ShiftPixy violated Rule 12b-25 by filing a Form 12b-25 with the
+Commission in which ShiftPixy failed to disclose why, in sufficient detail under the circumstances
+presented, its third-quarter, fiscal year (“FY”) 2019 Form 10-Q could not be timely filed.
+ShiftPixy’s Form 12b-25 also failed to acknowledge anticipated, significant changes in ShiftPixy’s
+results of operations for the third quarter of FY2019, compared with ShiftPixy’s operating results in
+the third quarter of FY2018, and to provide an explanation of the changes, as required under the
+rule. One week after filing its Form 12b-25, ShiftPixy filed a Form 8-K disclosing to investors and
+the market that financial statements included in its second-quarter FY2019 Form 10-Q should not be
+relied upon. ShiftPixy, however, had failed to include in its Form 12b-25 any disclosure that the
+discovery, and ongoing correction, of errors in its second-quarter FY2019 financial statements
+were among the principal reasons that it was unable to file timely the subject third-quarter FY2019
+Form 10-Q.
+ Respondent
+ 3. ShiftPixy, a Wyoming corporation based in Miami, Florida, is a human capital
+management services provider. ShiftPixy common stock is registered under Section 12(b) of the
+Exchange Act and trades on the Nasdaq Capital Market.
+ Legal Framework and Facts
+ 4. Section 13(a) of the Exchange Act and Rules 13a-1 and 13a-13 thereunder require
+issuers with a security registered pursuant to Section 12 of the Exchange Act to file with the
+Commission annual reports on Form 10-K and quarterly reports on Form 10-Q.
+ 5. Rule 12b-25 provides that if an issuer fails to file a Form 10-K or 10-Q within the
+time period prescribed for such report, the issuer, no later than one business day after the due date
+for such report, shall file a Form 12b-25 with the Commission, disclosing the issuer’s inability
+1
+ The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding on any
+other person or entity in this or any other proceeding.
+ 2
+to file the report timely and the reasons therefore in reasonable detail.2 Form 12b-25 requires the
+issuer to affirm, among other things, that the subject periodic report will be filed within fifteen
+calendar days, for a Form 10-K, or within five calendar days, for a Form 10-Q, of the report’s
+prescribed due date, and requires that the report actually be filed within such period. Form 12b-25
+also requires the issuer to confirm whether or not it anticipates that any significant change in
+results of operations from the corresponding period for the prior fiscal year will be reflected by the
+earnings statements to be included in the subject periodic report. If such change is anticipated, the
+issuer must attach a narrative and quantitative explanation of the anticipated change and, if
+appropriate, state the reasons why a reasonable estimate of the results cannot be made.
+ 6. On July 15, 2019, ShiftPixy filed with the Commission a Form 12b-25 disclosing
+that ShiftPixy could not file timely its Form 10-Q for its FY2019 third quarter, ended May 31,
+2019, “due to its difficulty in completing and obtaining required financial and other information
+without unreasonable effort and expense.”
+ 7. Furthermore, in its Form 12b-25, ShiftPixy affirmed that it would file the subject
+Form 10-Q within the five-calendar-day extension period and indicated that it did not anticipate
+that any significant change in results of operations from the corresponding period for the prior
+fiscal year would be reflected in the subject Form 10-Q.
+ 8. On July 22, 2019, ShiftPixy filed with the Commission a Form 8-K disclosing that
+financial statements included in ShiftPixy’s second-quarter FY2019 Form 10-Q should not be relied
+upon because “the mistaken issuance of shares at a conversion price less than the original $2.49
+price and the resulting issuance of additional shares from these conversions [had] resulted in an
+inadvertent material misstatement.”
+ 9. ShiftPixy’s inability to meet the filing deadline for its third-quarter FY2019 Form
+10-Q was due, in large part, to the discovery, and ongoing correction, of errors in its second-
+quarter FY2019 financial statements. In its Form 12b-25, however, ShiftPixy failed to disclose this
+information and failed to provide the detailed narratives and quantitative explanation specifically
+called for by the form. The company anticipated that its third-quarter FY2019 financial results,
+when reported, would differ significantly from its third-quarter FY2018 financial results, including
+a 175% increase in quarterly loss versus third quarter FY2018.
+ Violations
+ 10. As a result of the conduct described above, ShiftPixy violated Section 13(a) of the
+Exchange Act and Rule 12b-25 thereunder.
+2
+ Form 12b-25 specifies a “narrative” disclosure. (See Form 12b-25, Part III.)
+ 3
+
+
+===== AAER-4215 | released April 29, 2021 | respondent(s): Asta Funding, Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 91718 / April 29, 2021
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4215 / April 29, 2021
+ADMINISTRATIVE PROCEEDING
+File No. 3-20271
+ ORDER INSTITUTING CEASE-AND-
+ In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 21C OF THE SECURITIES
+ ASTA FUNDING, INC., EXCHANGE ACT OF 1934, MAKING
+ FINDINGS, AND IMPOSING A CEASE-
+ Respondent. AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), against Asta Funding, Inc. (“Asta” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ Summary
+ 1. These proceedings arise out of the violation of Exchange Act Rule 12b-25, which
+requires that issuers that fail to file timely a periodic report shall file a Form 12b-25 “Notification of
+Late Filing,” commonly known as “Form NT,” which contains, among other things, reasonable
+detail as to why the issuer’s periodic report could not be filed on time and an explanation of any
+anticipated, significant changes in the issuer’s results of operations.
+ 2. In May 2020, Asta violated Rule 12b-25 by filing a Form 12b-25 with the
+Commission in which Asta failed to disclose why, in sufficient detail under the circumstances
+presented, its second-quarter, fiscal year (“FY”) 2020 Form 10-Q could not be timely filed. Asta’s
+Form 12b-25 also failed to acknowledge anticipated, significant changes in Asta’s results of
+operations for the second quarter of FY2020, compared with Asta’s operating results in the second
+quarter of FY2019, and to provide an explanation of the changes, as required under the rule. Eleven
+days after filing its Form 12b-25, Asta filed a Form 10-Q disclosing to investors and the market that
+the company’s previously issued FY2019 year-end financial statements required corrections. Asta,
+however, had failed to include in its Form 12b-25 any disclosure that the discovery, and ongoing
+correction, of errors in its FY2019 year-end financial statements were among the principal reasons
+that it was unable to file timely the subject Form 10-Q for the second quarter of FY2020. Asta
+further failed to file the subject Form 10-Q within the extension period provided by Rule 12b-25.
+ Respondent
+ 3. Asta, a Delaware corporation based in Englewood Cliffs, New Jersey, engages in
+the consumer receivables business in the United States, Puerto Rico, and South America. Prior to a
+September 2020 going-private transaction, Asta common stock was registered under Section 12(b)
+of the Exchange Act and traded on the NASDAQ Global Select Market.
+ Legal Framework and Facts
+ 4. Section 13(a) of the Exchange Act and Rules 13a-1 and 13a-13 thereunder require
+issuers with a security registered pursuant to Section 12 of the Exchange Act to file with the
+Commission annual reports on Form 10-K and quarterly reports on Form 10-Q.
+ 5. Rule 12b-25 provides that if an issuer fails to file a Form 10-K or 10-Q within the
+time period prescribed for such report, the issuer, no later than one business day after the due date
+1
+ The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding on any
+other person or entity in this or any other proceeding.
+ 2
+for such report, shall file a Form 12b-25 with the Commission, disclosing the issuer’s inability
+to file the report timely and the reasons therefore in reasonable detail.2 Form 12b-25 requires the
+issuer to affirm, among other things, that the subject periodic report will be filed within fifteen
+calendar days, for a Form 10-K, or within five calendar days, for a Form 10-Q, of the report’s
+prescribed due date, and requires that the report actually be filed within such period. Form 12b-25
+also requires the issuer to confirm whether or not it anticipates that any significant change in
+results of operations from the corresponding period for the prior fiscal year will be reflected by the
+earnings statements to be included in the subject periodic report. If such change is anticipated, the
+issuer must attach a narrative and quantitative explanation of the anticipated change and, if
+appropriate, state the reasons why a reasonable estimate of the results cannot be made.
+ 6. On May 18, 2020, Asta filed with the Commission a Form 12b-25 disclosing that
+Asta could not file timely its Form 10-Q for its second fiscal quarter, ended March 31, 2020, “due
+to delays experienced in the collection, compilation and analysis of certain information that may be
+included in the Quarterly Report.”
+ 7. Furthermore, in its Form 12b-25, Asta affirmed that it would file the subject Form
+10-Q within the five-calendar-day extension period, i.e., by May 20, 2020, and indicated that it did
+not anticipate that any significant change in results of operations from the corresponding period for
+the prior fiscal year would be reflected in the subject Form 10-Q.
+ 8. On May 29, 2020, i.e., nine days after the five-day extension period had ended,
+Asta filed with the Commission its Form 10-Q for the second quarter of FY2020, disclosing that,
+“[d]uring the preparation of its Quarterly Report on Form 10-Q for the three and six months ended
+March 31, 2020, Asta … determined that certain adjustments were needed to correct the previously
+issued September 30, 2019 consolidated financial statements. Specifically, management
+determined that it had understated its income taxes payable and related income tax expense from
+foreign operations and understated accrued professional fees and related professional fee expense
+as of and for the year ended September 30, 2019.”
+ 9. Asta’s inability to meet the filing deadline for its second-quarter FY2020 Form
+10-Q was due, in large part, to the discovery, and ongoing correction, of errors in its FY2019 year-
+end financial statements. In its Form 12b-25, however, Asta failed to disclose this information and
+failed to provide the detailed narratives and quantitative explanation specifically called for by the
+form. The company anticipated that its second-quarter FY2020 financial results, w

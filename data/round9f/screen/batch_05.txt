@@ -1,0 +1,991 @@
+===== AAER-4133 | released April 28, 2020 | respondent(s): Penn West Petroleum Ltd., d/b/a Obsidian Energy Ltd., Todd H. Takeyasu, Jeffery A. Curran, and Waldemar Grab =====
+ Case 1:17-cv-04866 Document 2 Filed 06/28/17 Page 1 of 81
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+--------------------------------------------------------x
+ :
+U.S. SECURITIES AND EXCHANGE :
+COMMISSION, :
+ : 17 Civ. 4866
+ Plaintiff, :
+ : COMPLAINT
+ v. :
+ : JURY TRIAL DEMANDED
+PENN WEST PETROLEUM LTD., d/b/a :
+OBSIDIAN ENERGY LTD. : ECF CASE
+ :
+TODD H. TAKEYASU :
+ :
+JEFFERY A. CURRAN :
+ :
+ and :
+ :
+WALDEMAR GRAB, :
+ :
+ Defendants. :
+--------------------------------------------------------x
+ Plaintiff United States Securities and Exchange Commission (the “Commission” or the
+“SEC”) alleges:
+I. SUMMARY
+ 1. This action involves violations of the antifraud, recordkeeping, internal controls,
+and reporting provisions of the federal securities laws arising from a multi-year accounting fraud
+scheme orchestrated and implemented by the Defendants: (i) Penn West Petroleum Ltd., d/b/a
+Obsidian Energy Ltd. (“Penn West”); and three former senior accounting and finance managers
+at Penn West, (ii) Todd H. Takeyasu (“Takeyasu”), former Chief Financial Officer; (iii) Jeffery
+ Case 1:17-cv-04866 Document 2 Filed 06/28/17 Page 2 of 81
+A. Curran (“Curran”), former Vice President of Accounting and Reporting; and (iv) Waldemar
+Grab (“Grab”), former Operations Controller.
+ 2. Penn West was one of the largest oil producers in Canada, but historically
+struggled to keep its operating costs—a key financial metric that the investing public looks to
+when evaluating the financial health of an oil and gas company—under control. As a result, in
+2012, 2013, and the first quarter of 2014 (the “Relevant Period”), Defendants executed a scheme
+to make the annual and quarterly financial reports that Penn West, a publicly traded company,
+submitted to the SEC and disclosed to investors tell a different story about the company’s
+financial condition than the one that actually existed. The object of the scheme was to deceive
+the investing public by understating Penn West’s publicly reported operating expenses and
+related financial metrics and making the company appear to be managing costs more efficiently
+than it actually was. In other words, as a result of Defendants’ scheme, it appeared that Penn
+West was spending less money to get oil out of the ground than it actually was.
+ 3. Takeyasu was Penn West’s Chief Financial Officer, a member of Penn West’s
+Disclosure Committee (the Penn West committee for reviewing the company’s financial
+disclosures), and a designated accountant, experienced in the oil and gas industry. Takeyasu was
+responsible for the accuracy of the company’s financial statements and its disclosures to the
+investing public. Takeyasu was specifically responsible for establishing Penn West’s annual
+budgets and for obtaining approval of those budgets from Penn West’s senior executives and
+Board of Directors. Takeyasu repeatedly certified to the SEC, throughout the Relevant Period,
+that he was unaware of any fraudulent accounting practices at Penn West during the reporting
+period. Instead of fulfilling his duties to ensure the implementation of an effective system of
+internal controls over financial reporting at Penn West and to verify that Penn West’s accounting
+ 2
+ Case 1:17-cv-04866 Document 2 Filed 06/28/17 Page 3 of 81
+statements were grounded in reality and sound accounting processes, Takeyasu carefully
+managed the process to hit a predetermined (and false) number and circumvented international
+accounting standards and internal accounting controls. In other words, Takeyasu headed the
+very accounting fraud that his false certifications to the SEC concealed.
+ 4. Curran was Penn West’s Vice President of Accounting and Reporting, a member
+of Penn West’s Disclosure Committee, and a designated and experienced accountant. Like
+Takeyasu, Curran was responsible for ensuring the accuracy and propriety of Penn West’s
+financial statements and its disclosures to the investing public. As Grab’s immediate supervisor,
+Curran was responsible for ensuring that Grab and the accounting staff followed accounting rules
+and processes, Penn West’s internal accounting controls, and international accounting standards
+to ensure that the company’s financial statements were accurate. Instead, together with
+Takeyasu, Curran set targets for key financial metrics that had no basis in reality, and oversaw,
+approved, and encouraged Grab (who, unlike Takeyasu and Curran, was not a designated
+Chartered Accountant) to make numerous accounting journal entries to achieve targets, despite
+the fact that those accounting entries were wholly unsupported and indefensible under both
+applicable international accounting standards and Penn West’s internal accounting controls.
+ 5. Grab, as Penn West’s Operations Controller, was responsible for ensuring Penn
+West’s accounting statements accurately reflected the true nature of expenditures by the
+company and were fully documented and supported. Grab directed the individual journal entries
+through which Defendants accomplished their fraud and supervised the accounting staff,
+including Penn West’s Manager of Operations Analysis, who implemented many of the entries.
+Grab was required by international accounting standards and Penn West’s internal accounting
+controls to ensure that there was an adequate basis and proper support for the entries. Where he
+ 3
+
+
+===== AAER-4146 | released June 4, 2020 | respondent(s): Argo Group International Holdings, Ltd. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 89009 / June 4, 2020
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4146 / June 4, 2020
+ADMINISTRATIVE PROCEEDING
+File No. 3-19822
+In the Matter of ORDER INSTITUTING CEASE-AND-
+ DESIST PROCEEDINGS PURSUANT TO
+ ARGO GROUP SECTION 21C OF THE SECURITIES
+ INTERNATIONAL EXCHANGE ACT OF 1934, MAKING
+ HOLDINGS, LTD., FINDINGS, AND IMPOSING A CEASE-
+ AND-DESIST ORDER
+Respondent.
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), against Argo Group International Holdings, Ltd.
+(“Argo” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ Summary
+ 1. This matter arises from Argo Group International Holding, Ltd.’s failure to disclose
+in its definitive proxy statements that, from 2014 through 2018, it paid over $5.3 million to its then
+Chief Executive Officer, President and member of its Board of Directors, Mark E. Watson III, in
+the form of a wide range of perquisites and personal benefits. In connection with this conduct,
+Argo violated Sections 13(a), 13(b)(2)(A), 13(b)(2)(B), and 14(a) of the Exchange Act and Rules
+12b-20, 13a-1, 14a-3, and 14a-9 thereunder. In late 2019, Watson resigned and agreed to
+reimburse Argo for certain perquisites and/or personal expenses.
+ Respondent and Relevant Individual
+ 2. Respondent Argo Group International Holdings, Ltd. is organized under the laws
+of, and headquartered in, Bermuda. Argo is an international underwriter of specialty insurance and
+reinsurance products in the property and casualty market, with significant operations in the United
+States. The company’s common stock is registered under Section 12(b) of the Exchange Act and
+trades on the New York Stock Exchange under the ticker symbol “ARGO.”
+ 3. Mark E. Watson III was the Chief Executive Officer, President and a director of
+Argo from 2000 until late 2019. His resignation as Argo’s Chief Executive Officer and President
+became effective on November 5, 2019, and his resignation as a member of Argo’s Board of
+Directors became effective on December 30, 2019.
+ Facts
+ 4. In definitive proxy statements disclosing executive compensation paid for 2014
+through 2018, which were filed in 2015 through 2019, Argo disclosed a total of approximately
+$1.22 million worth of perquisites and personal benefits provided to Watson, with an annual
+average of approximately $244,000. The disclosed perquisites and personal benefits consisted
+predominately of 401(k) and retirement contributions, the imputed value of insurance coverage,
+supplemental executive retirement plan benefits, housing and home leave allowances, medical
+premiums and financial planning services.
+ 5. However, these same definitive proxy statements failed to disclose over $5.3
+million worth of additional perquisites and personal benefits provided to Watson, thereby
+understating the perquisites and personal benefits portion of Watson’s compensation by an annual
+average of over $1 million, or 400%. Items that Argo paid for on Watson’s behalf, but did not
+disclose, include, but are not limited to, expenses associated with personal use of corporate aircraft,
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding
+on any other person or entity in this or any other proceeding.
+ 2
+rent and other housing costs, personal use of corporate automobiles, helicopter trips, other personal
+travel costs, use of a car service by family members, club and concierge service memberships,
+tickets and transportation to sporting, fashion or other entertainment events, personal services
+provided by Argo employees, and watercraft-related costs.
+ 6. In February 2019, an Argo shareholder issued a press release in which it alleged,
+among other things, the misuse of Argo assets by Watson, including undisclosed personal usage of
+corporate aircraft. On April 12, 2019, during a proxy contest with this shareholder in connection
+with Argo’s May 2019 annual shareholders meeting, Argo filed a definitive proxy statement that
+failed to disclose over $1 million worth of perquisites, including over $230,000 related to Watson’s
+use of corporate aircraft.
+ 7. From 2015 through 2019, Argo incorporated its definitive proxy statements into its
+annual reports by reference.
+ 8. From 2014 through 2018, Argo incorrectly recorded payments for the benefit of,
+and reimbursements to, Watson as business expenses, and not compensation. As a result, its
+books, records, and accounts did not, in reasonable detail, accurately and fairly reflect its
+disposition of assets.
+ 9. In addition, Argo failed to devise and maintain internal accounting controls relating
+to payments for the benefit of, and reimbursements to, Watson that were sufficient to provide
+reasonable assurances that transactions were recorded as necessary to maintain the accountability
+of assets. These failures included, for instance, a practice of providing expense reimbursements to
+Watson without requiring an adequate explanation of a business purpose for the expense, allowing
+Watson to approve his own expense reimbursements, and a lack of a mechanism to ensure Watson
+paid for personal usage of corporate aircraft.
+ 10. Argo conducted an internal investigation, which was launched in June 2019 after
+receipt of a subpoena from the Commission staff. Thereafter, Watson resigned and agreed to
+reimburse Argo for certain perquisites and/or personal expenses, subject to an arbitration process
+as to any items Watson disputes.
+ Violations
+ 11. Section 14(a) of the Exchange Act makes it unlawful to solicit any proxy in respect
+of any security (other than an exempted security) registered pursuant to Section 12 of the Exchange
+Act in contravention of such rules and regulations as the Commission may prescribe. Rule 14a-3
+prohibits issuers with securities registered pursuant to Section 12 of the Exchange Act from
+soliciting proxies without furnishing proxy statements containing the information specified in
+Schedule 14A, including executive compensatio
+
+===== AAER-4149 | released June 23, 2020 | respondent(s): Vereit, Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 10793 / June 23, 2020
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 89133 / June 23, 2020
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4149 / June 23, 2020
+ADMINISTRATIVE PROCEEDING
+File No. 3-19831
+ In the Matter of ORDER INSTITUTING CEASE-AND-
+ DESIST PROCEEDINGS PURSUANT
+ TO SECTION 8A OF THE
+ VEREIT, INC., SECURITIES ACT OF 1933 AND
+ SECTION 21C OF THE SECURITIES
+ EXCHANGE ACT OF 1934, MAKING
+ Respondent. FINDINGS, AND IMPOSING A
+ CEASE-AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate
+and in the public interest that cease-and-desist proceedings be, and hereby are, instituted
+pursuant to Section 8A of the Securities Act of 1933 (“Securities Act”) and Section 21C of
+the Securities Exchange Act of 1934 (“Exchange Act”) against VEREIT, Inc., formerly
+known as American Realty Capital Properties, Inc. (“ARCP” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted
+an Offer of Settlement (the “Offer”) which the Commission has determined to accept.
+Solely for the purpose of these proceedings and any other proceedings brought by or on
+behalf of the Commission, or to which the Commission is a party, and without admitting
+or denying the findings herein, except as to the Commission’s jurisdiction over it and the
+subject matter of these proceedings, which are admitted, Respondent consents to the entry
+of this Order Instituting Cease-and-Desist Proceedings Pursuant to Section 8A of the
+Securities Act of 1933 and Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ Summary
+ 1. This proceeding arises from ARCP’s violations of the antifraud and books
+and records provisions of the federal securities laws. ARCP, now known as VEREIT, Inc.
+(hereinafter, “ARCP” or the “Company”), is a real estate investment trust (“REIT”)
+primarily engaged in the business of acquiring, owning, and managing single-tenant
+commercial real estate properties that by February 2014 had grown to be the nation’s
+largest publicly-traded net lease REIT. ARCP, acting through its then Chief Financial
+Officer, Brian S. Block (the “CFO”), and its then Chief Accounting Officer, Lisa
+McAlister (the “CAO”), falsely reported and manipulated the Company’s “Adjusted
+Funds from Operations” or “AFFO,” a key non-GAAP performance metric relied on by
+ARCP management, investors, and analysts to assess ARCP’s financial performance
+from at least May 2014 until the Company’s initial disclosure on October 29, 2014 of
+their misconduct (the “Relevant Period”).
+ 2. On October 29, 2014, ARCP announced that its Audit Committee had
+concluded that the previously issued financial reports for its full fiscal year 2013, first
+quarter 2014 (“1Q14”), and second quarter 2014 (“2Q14”) should no longer be relied
+upon. The Audit Committee’s conclusion was based on the preliminary findings of an
+internal investigation that ARCP had overstated AFFO in its 1Q14 financial reports and
+that this error was identified but intentionally not corrected, and other AFFO and
+financial statement errors were intentionally made resulting in an overstatement of AFFO
+in its 2Q14 financial reports. The Company also announced that the CFO and CAO had
+resigned at the request of the Audit Committee, and that the investigation was ongoing
+and had been expanded to encompass fiscal year 2013 in light of the fact that the CFO
+and CAO had key roles in the preparation of such filings. The closing price of ARCP’s
+stock on the day of this announcement, declined by approximately 19 percent from the
+prior day’s close.
+ Respondent
+ 3. ARCP is a Maryland corporation that during the Relevant Period was
+headquartered in New York, New York. ARCP’s common stock has been registered with
+the Commission under Exchange Act Section 12(b) since conducting its initial public
+offering and becoming a publicly-traded REIT in 2011. ARCP files periodic reports,
+including Forms 10-K and 10-Q, with the Commission pursuant to Section 13(a) of the
+Exchange Act and related rules thereunder. ARCP’s stock was traded on NASDAQ’s
+Global Select Market (ticker: ARCP) until July 2015 at which time it changed its name to
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and
+are not binding on any other person or entity in this or any other proceeding.
+ 2
+VEREIT, Inc. and moved its listing to the New York Stock Exchange (ticker: VER). As
+of June 30, 2014, ARCP reported total assets of approximately $21 billion.
+ Facts
+ A. AFFO and AFFO Per Share
+ 4. For financial reporting purposes, publicly traded issuers in the United
+States must follow accounting standards that are commonly known as generally accepted
+accounting principles, or GAAP. Additionally, many REITs, including ARCP, report
+supplemental non-GAAP financial measures utilized by Company management,
+investors, and analysts in understanding and assessing operating results. One such key
+measure typically reported by REITs, AFFO, is an “adjusted” version of a standardized
+metric of REIT operating performance, Funds From Operations (“FFO”), as defined by
+the National Association of Real Estate Investment Trusts (“Nariet”). Nariet defines FFO
+as: GAAP net income or loss “excluding gains or losses from sales of property, and
+adding back real estate depreciation.”
+ 5. ARCP, like many REITs, defined AFFO as Nariet FFO with further
+adjustments to exclude certain non-cash income and expense items (e.g., unrealized gains
+and losses) and certain “special” or “non-routine” expenses (such as merger and
+acquisition-related expenses) that are expensed-as-incurred under GAAP. ARCP reported
+AFFO in its quarterly and annual reports filed with the Commission on Forms 10-Q and
+10-K and explained that “AFFO is a recognized measure of sustainable operating
+performance by the REIT industry” and that the ARCP adjustments to calculate its AFFO
+“provides information consistent with management’s analysis of the operating
+performance of the properties.” REIT investors and analysts typically consider AFFO a
+measure of “normalized” residual cash flow after eliminating non-cash and non-recurring
+expenses, and an indicator of a REIT’s ability to pay dividends.
+ 6. Because FFO and AFFO are non-GAAP measures, ARCP was required by
+Commission regulations to provide a reconciliation of those metrics to the “most directly
+comparable GAAP financial measure.” See 17 C.F.R. §§ 228, 229, 244 and 249. The
+most directly comparable GAAP measure to FFO and AFFO is net income. And FFO per
+share or AFFO per share is most directly comparable to GAAP’s earnings per share
+(“EPS”) metric.
+ 7. Both prior to and during the Relevant Period, ARCP’s senior management
+considered AFFO per share as an important per
+
+===== AAER-4153 | released July 31, 2020 | respondent(s): Valeant Pharmaceuticals International, Inc. and n/k/a Bausch Health Companies Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 10809 / July 31, 2020
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 89442 / July 31, 2020
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4153 / July 31, 2020
+ADMINISTRATIVE PROCEEDING
+File No. 3-19899
+ ORDER INSTITUTING CEASE-AND-
+ In the Matter of DESIST PROCEEDINGS PURSUANT
+ TO SECTION 8A OF THE
+ VALEANT PHARMACEUTICALS SECURITIES ACT OF 1933 AND
+ INTERNATIONAL, INC., n/k/a SECTION 21C OF THE SECURITIES
+ BAUSCH HEALTH COMPANIES EXCHANGE ACT OF 1934, MAKING
+ INC., FINDINGS, AND IMPOSING A
+ CEASE-AND-DESIST ORDER
+ Respondent.
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act
+of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 1934 (“Exchange
+Act”), against Valeant Pharmaceuticals International, Inc., now known as Bausch Health
+Companies Inc. (“Bausch Health” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 8A of the Securities Act and Section 21C of the
+Exchange Act, Making Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth
+below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ Summary
+ 1. Respondent is a publicly-traded global pharmaceutical and medical device company
+that develops, manufactures, and markets a broad range of branded, generic and branded generic
+pharmaceuticals, over-the-counter products, and medical devices. During the relevant period,
+Respondent was known as Valeant Pharmaceuticals International, Inc. (“Valeant”). Due to its
+growth-by-acquisition business strategy in 2014 and 2015, Valeant supplemented its disclosures
+pursuant to Generally Accepted Accounting Principles (“GAAP”) with non-GAAP financial
+measures as “a meaningful, consistent comparison of the company’s core operating results and
+trends.” Among those non-GAAP financial measures were same store organic growth (“organic
+growth”), which represented growth rates for businesses owned for one year or more, and “Cash
+EPS,” which excluded costs associated with business development, among other things. When
+announcing certain GAAP and non-GAAP financial measures, Valeant failed to disclose to
+investors certain material information about these measures.
+ 2. Valeant helped establish a mail order pharmacy, Philidor Rx Services, LLC, in
+2013 and played a significant role in Philidor’s business. In 2013, Respondent provided an
+advance of $2 million and entered into agreements with Philidor to dispense Valeant’s products.
+From Q3 2014 through Q3 2015, Valeant expanded its sales to Philidor. Philidor increasingly
+contributed to Valeant’s U.S. organic growth in particular. By Q3 2015, Valeant announced
+double-digit U.S. organic growth for the fifth consecutive quarter, with U.S. organic growth of
+22%. By this time, Philidor sales had grown to such an extent that it alone accounted for over
+14% of U.S. organic growth. Excluding those sales to Philidor, Valeant’s U.S. organic growth for
+the quarter was over 7%. Valeant disclosed for the first time it had, since December 2014, an
+option to purchase Philidor in its Q3 2015 earnings call.
+ 3. In Q2 2015, Valeant recorded revenue resulting from price appreciation credits
+(“PACs”) it received pursuant to its Distribution Services Agreements (“DSAs”) with its major
+wholesalers, which impacted certain reported GAAP and non-GAAP measures. A provision in the
+DSAs provided for Valeant to offset distribution fees owed to wholesalers with credits for price
+increases on Valeant products held in wholesalers’ inventory. Thus, price increases generated
+additional net revenue to Valeant not just from prospective products sales at the incrementally
+higher prices, but also from previously sold products still held by wholesalers. On June 18, 2015,
+Valeant recorded approximately $110 million in net PAC revenue through a 500% price increase
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not
+ binding on any other person or entity in this or any other proceeding.
+ 2
+on Glumetza, a drug acquired on April 1, 2015. Rather than reflecting any of the PAC generated
+by the Glumetza price increase as revenue attributable to Glumetza in its records, Valeant
+erroneously allocated the entire $110 million Glumetza PAC as net revenue to over 100 other
+products. The allocation of the Glumetza PAC resulted in numerous misleading disclosures in
+Valeant’s Q2 2015 earnings presentation and Commission periodic reports filed for Q2 and Q3
+2015 and year ended 2015.
+ 4. On October 26, 2015, in response to media and analyst attention over its
+relationship with Philidor, Valeant gave an investor presentation concerning Philidor. On April
+29, 2016, in its annual report for 2015 (“2015 Form 10-K”), Valeant restated its financial
+statements for the year ended December 31, 2014 to reduce previously reported fiscal year 2014
+revenue from sales to Philidor by approximately $58 million due to such revenue being recognized
+prematurely. Among other things, Valeant acknowledged the existence of material weaknesses in
+its internal control over financial reporting. Valeant also disclosed the existence of PACs for the
+first time but failed to disclose the impact PACs earned in 2015 had on certain GAAP and non-
+GAAP measures.
+ 5. Based on the foregoing and the conduct described herein, Valeant violated Sections
+17(a)(2) and 17(a)(3) of the Securities Act and Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the
+Exchange Act and Rules 12b-20, 13a-1, 13a-11, and 13a-13 and Rule 100(b) of Regulation G
+thereunder.
+ Respondent
+ 6. Valeant Pharmaceuticals International, Inc., now known as Bausch Health
+Companies Inc. (“Bausch Health”), is a British Columbia corporation headquartered in Laval,
+Quebec with its principal administrative offices in Bridgewater, New Jersey. On July 13, 2018,
+Valeant changed its name to Bausch Health. Bausch Health’s common stock is registered under
+Section 12(b) of the Exchange Act and is dually listed on the New York and Toronto Stock
+Exchanges.
+ Other Relevant Entity
+ 7. Philidor Rx Services LLC is a defunct Delaware limited liability company that
+was formed in January 2013. Philidor was a licensed pharmacy based in Hatboro, Pennsylvania.
+Approximately 95% of the pro
+
+===== AAER-4161 | released Aug. 25, 2020 | respondent(s): Super Micro Computer, Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 10822 / August 25, 2020
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 89656 / August 25, 2020
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4161 / August 25, 2020
+ADMINISTRATIVE PROCEEDING
+File No. 3-19927
+ ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 8A OF THE SECURITIES ACT
+ SUPER MICRO OF 1933 AND SECTION 21C OF THE
+ COMPUTER, INC., SECURITIES EXCHANGE ACT OF 1934,
+ MAKING FINDINGS, AND IMPOSING A
+ CEASE-AND-DESIST ORDER
+Respondent.
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act
+of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 1934 (“Exchange
+Act”), against Super Micro Computer, Inc. (“Super Micro” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 8A of the Securities Act of 1933 and Section 21C of
+the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order
+(“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ Summary
+ 1. Super Micro Computer, Inc., a producer of computer servers headquartered in
+California, engaged in improper accounting—prematurely recognizing revenue and understating
+expenses from at least fiscal year (“FY”) 2015 through FY 2017.2 As a result, Super Micro filed
+with the Commission materially misstated financial statements in its annual, quarterly and current
+reports during the period.
+ 2. Super Micro’s executives pushed employees to maximize end-of-quarter revenue
+and minimize expenses, without devising and maintaining sufficient internal accounting controls to
+record revenue and expenses in conformity with U.S. Generally Accepted Accounting Principles
+(“GAAP”). Super Micro improperly accelerated revenue recognition and reporting by: (1)
+recognizing revenue before delivering the goods to customers; (2) sending goods to customers
+prior to the customer-specified delivery date; (3) improperly changing the shipment terms to a
+large Super Micro customer in order to recognize revenue upon shipment rather than when the
+goods were delivered to the customer; (4) recognizing revenue with respect to transactions that
+included customer acceptance terms before the customers had accepted the goods; (5) sending
+incomplete or mis-assembled goods to customers at the end of quarters; (6) recognizing revenue on
+sales to a large distributor upon shipment, when the revenue should have been recognized when
+Super Micro received payment from the distributor; (7) holding the bill of lading for certain
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not
+ binding on any other person or entity in this or any other proceeding.
+2
+ Each of Super Micro’s quarterly reports on Form 10-Q and annual reports on Form 10-K
+ beginning with the period ended September 30, 2014 through the period ended March 31,
+ 2017 contained materially misstated financial statements. The Company’s current reports
+ on Form 8-K, announcing the financial and operational results for each of these periods,
+ along with the current report filed on August 3, 2017, announcing results for the year
+ ended June 30, 2017, also contained materially misstated financial information.
+ 2
+overseas customers and thus preventing the customers from taking possession of the goods as a
+means to ensure payment, but nevertheless improperly recognizing the revenue upon shipment;
+and (8) recognizing certain extended warranty revenue at the time of sale, rather than amortizing
+the revenue over the length of the warranty.
+ 3. Super Micro also improperly under-reported certain expenses by misusing its
+cooperative marketing program to pay a variety of unrelated expenses, such as warehousing costs
+for goods at quarter end, shipping costs, and product repair costs. Super Micro employees also
+submitted claims for funds to which Super Micro was not entitled in connection with a vendor’s
+cooperative marketing program. In addition, Super Micro over-valued inventory and under-stated
+expenses by failing to reduce inventory and record an associated expense in instances where Super
+Micro no longer held the inventory for sale.
+ 4. Accordingly, Super Micro violated certain antifraud, reporting, books and records,
+and internal accounting controls provisions of the federal securities laws.
+ Respondent
+ 5. Super Micro is a global producer of computer servers and equipment, incorporated
+in Delaware, with its principal place of business in San Jose, California. Super Micro’s securities
+are registered under Section 12(b) of the Exchange Act. The company’s fiscal year ends on June
+30. Super Micro’s shares currently trade on the NASDAQ Global Select Market. Because of
+Super Micro’s pervasive accounting, reporting and internal accounting control issues, Super Micro
+was unable to file periodic reports for nearly two years and, as a result, trading in the company’s
+stock was suspended in August 2018 and the stock was then delisted from March 2019 through
+January 2020. During the relevant period, Super Micro offered and sold stock to its employees
+pursuant to registration statements on Forms S-8 dated April 26, 2007 and April 22, 2016.
+ Facts
+ A. Premature Revenue Recognition and Reporting
+ 6. In determining whether to recognize and report revenue during the relevant period,
+GAAP required public companies to consider whether (1) the revenue is realized or realizable; and
+(2) the revenue is earned. Consistent with GAAP, Super Micro’s revenue recognition policy
+provides that revenue is realized and earned when all of the following criteria are met: (a)
+persuasive evidence of an arrangement exists; (b) delivery has occurred or services have been
+rendered; (c) the seller’s price to the buyer is fixed or determinable; and (d) collectability is
+reasonably assured.
+ 7. Super Micro executives pressed employees to maximize revenue at the end of
+quarters but failed to devise and maintain sufficient internal accounting controls with respect to
+proper revenue recognition. For instance, Super Micro delegated responsibility for identifying
+sales terms that may affect revenue recognition to salespeople without training them on revenue
+recognition. During the peri
+
+===== AAER-4164 | released Aug. 26, 2020 | respondent(s): BorgWarner Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 89677 / August 26, 2020
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4164 / August 26, 2020
+ADMINISTRATIVE PROCEEDING
+File No. 3-19932
+ ORDER INSTITUTING CEASE-AND-
+ In the Matter of DESIST PROCEEDINGS, PURSUANT TO
+ SECTION 21C OF THE SECURITIES
+ BorgWarner Inc. EXCHANGE ACT OF 1934, MAKING
+ FINDINGS, AND IMPOSING A CEASE-
+ Respondent. AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”) against BorgWarner Inc. (“BorgWarner,” “Respondent,”
+or “the Company”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) that the Commission has determined to accept. Solely for the purpose
+of these proceedings and any other proceedings brought by or on behalf of the Commission, or to
+which the Commission is a party, and without admitting or denying the findings herein, except as
+to the Commission’s jurisdiction over it and the subject matter of these proceedings, which are
+admitted, Respondent consents to the entry of this Order Instituting Cease-and-Desist Proceedings
+Pursuant to Section 21C of the Securities Exchange Act, Making Findings, and Imposing a Cease-
+and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds 1 that:
+ Summary
+ 1. From 2012 until the fourth quarter of 2016, BorgWarner failed to estimate its
+“incurred but not reported” or “IBNR” liability for future asbestos claims. As a result,
+BorgWarner’s financial statements were materially misstated. Although the Company recorded
+liabilities for filed asbestos-related claims and noted that future claims were probable, prior to
+2016, BorgWarner concluded that it could not reasonably estimate its IBNR liability for future
+asbestos claims. BorgWarner came to this conclusion without conducting sufficient analysis,
+including any substantive quantitative inquiry, despite possessing nearly 40 years of historical raw
+claims data. Rather, the Company’s assessment was based on untested qualitative assumptions not
+relevant to calculating an estimate. As reported in its 2017 Form 10-K/A, filed in 2018,
+BorgWarner could have estimated its IBNR asbestos liability as early as 2012.
+ 2. In the fourth quarter of 2016, BorgWarner recorded a pre-tax $703.6 million charge
+for the IBNR liability and identified the charge as being the result of a change in estimate.
+Thereafter, the Company concluded that the charge was the result of an error and filed a
+restatement in 2018 to reflect its IBNR liabilities in appropriate prior periods dating back to 2012.
+The restated numbers were material to the Company’s financial statements and impacted, among
+other items, the amounts accrued for asbestos-related liabilities and pre-tax earnings. BorgWarner
+reported that its failure to record the IBNR estimate was due to a material weakness in the
+Company’s internal controls over financial reporting.
+ 3. As a result of the conduct described in this Order, BorgWarner violated Sections
+13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 13a-1, 13a-11, and 13a-13
+thereunder.
+ Respondent
+ 4. BorgWarner Inc. is a Delaware corporation incorporated in 1987 that provides
+technology solutions for combustion, hybrid and electric vehicles. The Company manufactures and
+sells its products globally. The Company’s stock currently trades on the New York Stock Exchange
+under the ticker symbol “BWA.”
+ Facts
+ 5. BorgWarner and its subsidiaries have been frequently named as defendants in
+personal injury lawsuits alleging exposure to asbestos-containing automotive parts – mainly clutch
+assemblies for use with manual transmissions – that the Company manufactured from 1928
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding on any other
+person or entity in this or any other proceeding.
+ 2
+through approximately 1986. In 2004, the Company’s primary insurance policies were exhausted,
+and BorgWarner became responsible for managing its asbestos-related claims rather than relying
+on its insurance companies as it had done in the past. As part of that process, the Company built a
+database using the insurers’ claims data to record and manage its claims.
+ 6. Applicable accounting standards require companies to book a loss contingency
+charge whenever the estimated loss from a loss contingency is both probable and reasonably
+estimable. From 2004 through 2015, BorgWarner consistently disclosed that losses from future
+asbestos claims were probable, but asserted that the amount of those losses was not reasonably
+estimable. On that basis, BorgWarner did not book any IBNR charge during those years.
+ 7. From at least 2011 until 2014, BorgWarner’s conclusion that it could not
+reasonably estimate IBNR claims was memorialized in a two page memo-to-file (the “Memos”)
+authored and updated by a Company employee.
+ 8. The Memos consistently stated that BorgWarner could not reasonably estimate the
+amount of its IBNR asbestos liability due to a number of qualitative factors that created
+insurmountable uncertainty. Specifically, the Company concluded that there was no way to
+accurately estimate how many people had been exposed to BorgWarner products, the incidence of
+illness, or the life expectancies of exposed individuals. BorgWarner also concluded that because
+its asbestos-containing clutch pads were normally sealed inside a clutch housing, BorgWarner’s
+position was unique among asbestos defendants, rendering industry benchmarks inapplicable for
+estimating BorgWarner’s IBNR asbestos liability. These conclusions were based on high-level
+assumptions that were not subject to substantive quantitative analysis, actuarial assessment, or
+other testing.
+ 9. In late 2014 and 2015, BorgWarner implemented a number of changes regarding its
+approach to asbestos litigation in an effort to reduce litigation costs. As part of that process, the
+Company hired a new employee who had asbestos litigation experience, as well as prior experience
+with evaluating IBNR asbestos liability. In the years leading up to 2014, no one at the Company
+reviewed the Memos memorializing the Company’s analysis, which were updated on an annual
+basis. The process of creating and updating the Memos represented the Company’s only internal
+control around whether it could estimate its asbestos-related IBNR.
+ 10. Beginning in 2015, the Company discussed whether to retain an actuary to evaluate
+BorgWarner’s data for IBNR purposes. Repeating the untested assumptions set forth in the
+Memos, BorgWarner determined that an actuary was not necessary, citing, among other factors,
+gaps in its claims data, the uniqueness of the Company’s product (which th
+
+===== AAER-4169 | released Sept. 24, 2020 | respondent(s): Power Solutions International, Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 89984 / September 24, 2020
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4169 / September 24, 2020
+ADMINISTRATIVE PROCEEDING
+File No. 3-20062
+ ORDER INSTITUTING CEASE-AND-
+ In the Matter of DESIST PROCEEDINGS, PURSUANT TO
+ SECTION 21C OF THE SECURITIES
+ POWER SOLUTIONS EXCHANGE ACT OF 1934, MAKING
+ INTERNATIONAL, INC. FINDINGS, AND IMPOSING A CEASE-
+ AND-DESIST ORDER
+ Respondent.
+ I.
+ The Securities and Exchange Commission (“Commission” or “SEC”) deems it appropriate
+that cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the
+Securities Exchange Act of 1934 (“Exchange Act”) against Power Solutions International, Inc.
+(“PSI” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the purpose
+of these proceedings and any other proceedings brought by or on behalf of the Commission, or to
+which the Commission is a party, Respondent admits the Commission’s jurisdiction over it and the
+subject matter of these proceedings, and consents to the entry of this Order Instituting Cease-and-
+Desist Proceedings, Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ SUMMARY
+ 1. This case concerns accounting fraud by former executives of PSI, a publicly traded
+company that manufactures and sells engines. Gary Winemaster (“Winemaster”), PSI’s former
+Chief Executive Officer, Craig Davis (“Davis”), PSI’s former Vice President of Sales, and James
+Needham (“Needham”), PSI’s former General Manager for Industrial, Heavy Duty Products,
+fraudulently inflated PSI’s revenue in order to try to meet PSI’s prior revenue guidance and
+analysts’ revenue expectations. As a result of their fraud, PSI issued materially misstated financial
+statements in its public filings for every period from the fourth quarter of 2014 through the fourth
+quarter of 2015. Taken together, the fraud caused PSI to overstate its revenues by almost $25
+million.
+ 2. Winemaster, Davis and Needham caused PSI to fraudulently recognize revenue for
+purported sales of products that the customer had not yet agreed to accept; that had not yet been
+completed to customer specifications; and for which Winemaster, Davis and Needham had
+negotiated improper “bill and hold” arrangements. They also caused PSI to improperly recognize
+revenue for transactions for which they had created undisclosed side agreements that included
+contingencies such as product return rights and special financing and payment terms. They also
+caused PSI to improperly recognize revenue in amounts that exceeded the actual sale price.
+ 3. Winemaster, Davis, and Needham orchestrated the transactions that resulted in the
+accounting misstatements. They engineered transactions designed to create the appearance of
+revenue in certain periods when, in fact, PSI was not entitled to report revenue from those
+transactions at that time.
+ 4. Winemaster, Davis, and Needham also misled certain members of PSI’s accounting
+department, or hid information from them, to ensure that PSI recognized revenue from the
+transactions in question. They misled accounting department personnel in an effort to meet PSI’s
+revenue targets. They also engaged in fraudulent conduct to conceal the true nature of several
+transactions from PSI’s auditor (“Auditor A”).
+ 5. Beginning in August 2016, PSI disclosed information concerning its misstated
+financial statements in various Forms 8-K filed over time. When PSI disclosed this information
+about its financials, PSI’s stock price fell significantly.
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding on any other
+person or entity in this or any other proceeding.
+ 2
+ 6. On May 16, 2019, PSI issued restated financial statements when it filed its 2017
+Form 10-K. The restated financial statements included significant reductions in revenue as a result
+of PSI’s fraud. The reductions in revenue as a result of the fraud totaled $846,000 for the fourth
+quarter of 2014, and more than $24 million for fiscal year 2015. In addition to the fraud-related
+adjustments, PSI also made other revenue-related adjustments to its previously issued financial
+statements.
+ 7. The following chart summarizes the quantitative impact on PSI’s financial
+statements from its accounting fraud:
+Impact of Fraudulent Transactions on Net Revenue Increase (Decrease)
+(dollar amounts in thousands) Q4 2014 Q1 2015 Q2 2015 Q3 2015 Q4 2015 FY 2015
+Originally Reported Net Revenue 103,910 86,139 94,629 112,008 96,670 389,446
+Fraudulent Transactions (846) (6,951) (10,020) (1,286) (5,823) (24,080)
+Other Adjustments (1,863) 4,132 746 4,229 (12,087) (2,981)
+ Net Revenue Adjustments (2,709) (2,819) (9,274) 2,943 (17,910) (27,060)
+Restated Net Revenue 101,202 83,320 85,355 114,951 78,760 362,386
+Impact of Fraudulent Transactions, as Percentage of
+Restated Net Revenue 0.8% 8.3% 11.7% 1.1% 7.4% 6.6%
+Impact of Fraudulent Transactions on Income (Loss) Before Taxes
+(dollar amounts in thousands) Increase (Decrease)
+ Q4 2014 Q1 2015 Q2 2015 Q3 2015 Q4 2015 FY 2015
+Originally Reported Income (Loss) Before Taxes 13,630 (72) 6,206 8,643 (887) 13,890
+Restated Income (Loss) Before Taxes 10,585 (2,585) 1,246 6,908 (18,162) (12,593)
+Fraudulent Transactions (320) (2,424) (3,007) (1,286) (1,054) (7,771)
+Other Adjustments (2,438) 384 (482) 26 (3,751) (3,823)
+ Gross Profit Adjustment (2,758) (2,040) (3,489) (1,260) (4,805) (11,594)
+Gross Profit Impact of Fraudulent Transactions, as
+Percentage of Restated Income Before Taxes 3.0% 93.8% 241.3% 18.6% 5.8% 61.7%
+ RESPONDENT
+ 8. Power Solutions International, Inc., a Delaware corporation headquartered in
+Wood Dale, Illinois, manufactures and sells power systems to industrial equipment manufacturers
+and transportation companies. PSI became a publicly traded company on April 29, 2011. PSI’s
+common stock was registered with the SEC pursuant to Section 12(b) of the Exchange Act and
+traded on the NASDAQ as “PSIX.” NASDAQ delisted PSI’s common stock on April 17, 2017 for
+its failure to timely file required periodic reports with the SEC. Following the delisting, PSI’s
+common stock has traded on the OTC Pink market as “PSIX.”
+ 3
+
+
+===== AAER-4170 | released Sept. 24, 2020 | respondent(s): Revolution Lighting Technologies, Inc., et al. =====
+ Case 3:20-cv-01440-CSH Document 1 Filed 09/24/20 Page 1 of 55
+ UNITED STATES DISTRICT COURT
+ DISTRICT OF CONNECTICUT
+SECURITIES AND EXCHANGE COMMISSION,
+ Case No.
+ Plaintiff,
+ v. JURY TRIAL DEMANDED
+REVOLUTION LIGHTING TECHNOLOGIES,
+INC., ROBERT LAPENTA, JAMES DEPALMA
+DANIEL O’NEAL, and ALLEN GARNER,
+ Defendants.
+ COMPLAINT
+ Plaintiff United States Securities and Exchange Commission (“the Commission”) alleges
+the following against Defendants Revolution Lighting Technologies, Inc. (“Revolution”) (a
+Connecticut-based seller of lighting and lighting controls whose stock was publicly traded), its
+Chief Executive Officer Robert LaPenta, its former Chief Financial Officer James DePalma, and
+former division-level Chief Financial Officers Allen Garner and Daniel O’Neal, and hereby
+demands a jury trial:
+ SUMMARY OF THE ACTION
+ 1. Between the end of 2014 and mid-2018, Revolution and Revolution executives
+LaPenta, DePalma, Garner, and O’Neal falsely inflated the amount of revenue Revolution
+reported. Revolution published these inflated revenues in financial reports it filed with the
+Commission, made available to the investing public, and incorporated into a public stock
+offering. The inflated revenues were also included in public statements by Revolution and its
+executives. By doing so, Defendants misled investors and potential investors in Revolution by
+ Case 3:20-cv-01440-CSH Document 1 Filed 09/24/20 Page 2 of 55
+making it appear that the company was selling more lighting products, and making more
+revenue, than it actually was.
+ 2. As detailed below, Revolution’s violations of the securities laws were the result of
+failures, or intentional misconduct, by one or more of the individual Defendants. Each of the
+individual Defendants aided and abetted at least some of Revolution’s violations of the federal
+securities laws.
+ 3. Revolution inflated the revenue Revolution reported by fraudulently counting (or
+“recognizing”) revenue from sales that had not been completed, reporting such anticipated sales
+much earlier than accounting rules and Revolution’s own revenue recognition policies permitted.
+Defendants misrepresented the revenue Revolution had earned by improperly treating
+uncompleted sales as “bill and hold” transactions. In this manner, Revolution repeatedly
+recognized revenue from the sale of lighting products before delivering those products to its
+customers and before Revolution expected its customers to pay for those products. In other
+words, Revolution routinely recognized revenue from uncompleted sales in which it would “bill”
+its customers for payment (sending a bill that it did not expect to collect upon until after
+delivery) and would “hold” the lighting products, if it even had them in stock, for future delivery
+(often at some indefinite date).
+ 4. There were criteria under which revenues from bona fide bill and hold
+transactions could properly be recognized under the United States Generally Accepted
+Accounting Principles (“GAAP”) that were in effect during the times relevant to this case.
+Similarly, Revolution’s written internal accounting policies and procedures required key criteria
+to be met before revenue could be recognized from bill and hold transactions. Few, if any, of the
+incomplete sales that Revolution counted as bill and hold transactions met these criteria for
+ 2
+ Case 3:20-cv-01440-CSH Document 1 Filed 09/24/20 Page 3 of 55
+properly recording revenue. Instead, Revolution used bill and hold transactions in an improper
+way to recognize revenue before it should have done so.
+ 5. Revolution and the other Defendants failed to disclose to investors (or in
+Revolution’s filings with the Commission) Revolution’s material deviations from proper revenue
+recognition practices. Nor did Revolution, CEO LaPenta, or CFO DePalma disclose the
+company’s use of “bill and hold” transactions to record revenue during periodic conference calls
+with investors and analysts in which they discussed, among other things, Revolution’s financial
+performance (often referred to as “earnings calls”), or in other public statements. By failing to
+disclose Revolution’s heavy reliance on reporting uncompleted sales as bill and hold transactions
+and by failing to adhere to GAAP and its own accounting policies, Revolution, LaPenta, and
+DePalma misled Revolution’s investors and potential investors. O’Neal and Garner aided and
+abetted the misleading of investors and potential investors.
+ 6. From the fourth quarter of fiscal year 2014 to the second quarter of fiscal year
+2018, Revolution recorded more than 200 purported bill and hold transactions totaling more than
+$55 million. Revolution frequently recorded these transactions in the final days of the
+company’s reporting quarters, in order to overstate the company’s market share, revenue growth,
+and profitability, as well as to create the false appearance that the company had met or exceeded
+the financial performance and revenue forecasts it had publicly disclosed to investors and to its
+bank that it expected to achieve.
+ 7. The push to record bill and hold transactions in order to fill revenue gaps at
+quarter ends came directly from CEO Robert LaPenta and CFO James DePalma. They pressured
+sales personnel and successive chief financial officers of Revolution’s Value Lighting division,
+Allen Garner and Daniel O’Neal, to record anticipated future sales of Value’s lighting products
+ 3
+
+
+===== AAER-4171 | released Sept. 25, 2020 | respondent(s): Aeon Global Health Corp. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 90003 / September 25, 2020
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4171 / September 25, 2020
+ADMINISTRATIVE PROCEEDING
+File No. 3-20073
+ In the Matter of
+ ORDER INSTITUTING CEASE-AND-
+ AEON GLOBAL HEALTH DESIST PROCEEDINGS PURSUANT TO
+ CORP., SECTION 21C OF THE SECURITIES
+ EXCHANGE ACT OF 1934, MAKING
+ Respondent. FINDINGS, AND IMPOSING A CEASE-
+ AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), against Aeon Global Health Corp. (formerly known as
+Authentidate Holding Corp.) (“Respondent” or “Aeon”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+And-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-And-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds 1 that:
+ Summary
+ This proceeding involves violations of the federal securities laws in connection with the
+Respondent’s reporting, books and records, and internal accounting control failures, as well as its
+failure to maintain Internal Control over Financial Reporting (“ICFR”). Respondent failed to
+maintain, and did not remediate material weaknesses in, ICFR for fourteen consecutive reporting
+periods from the period ended March 31, 2016 through the period ended June 30, 2019. In addition,
+Respondent announced three financial statement restatements during the period from 2016 to 2019.
+ Respondent
+ 1. Aeon is a Delaware corporation headquartered in Gainesville, Georgia. It provides
+services to healthcare professionals including medical testing, web-based revenue cycle
+management applications, and telehealth products and services. Aeon’s common stock is
+registered with the Commission pursuant to Section 12(b) of the Exchange Act and is quoted on
+OTC Link (previously “Pink Sheets”) operated by OTC Markets Group Inc., under the ticker
+“AGHC.” Until January 31, 2018, Respondent was known as Authentidate Holding Corp.
+(“AHC”). AHC had completed, in 2016, a reverse acquisition of Peachstate Health Management,
+LLC d/b/a AEON Clinical Laboratories. At all relevant times, Respondent filed periodic reports
+with the Commission, including Forms 10-K and 10-Q, pursuant to Section 13(a) of the Exchange
+Act and related rules thereunder.
+ Background
+ 2. Respondent disclosed material weaknesses in each of its Forms 10-K and 10-Q over
+a period of approximately four years, from 2016 through 2019.
+ 3. In its Form 10-Q for the period ended March 31, 2016, Respondent disclosed that it
+had insufficient resources in its accounting function, which “restricts the Company’s ability to
+gather, analyze and properly review information related to financial reporting in a timely manner.”
+Respondent also disclosed that it had “inadequate controls to ensure that information necessary to
+properly record transactions is adequately communicated on a timely basis from non-financial
+personnel to those responsible for financial reporting.” These two material weakness disclosures
+were subsequently repeated in each of the next thirteen reporting periods, up to and including
+Respondent’s most recent Form 10-K for the period ended June 30, 2019.
+ 4. During the period from 2016 through 2019, Respondent filed three financial
+restatements. In its April 5, 2017 filing of an amended Form 10-Q for the period ended March 31,
+2016, Respondent disclosed that its previously reported financial statements for the three- and
+nine-month periods ending March 31, 2016, contained material errors related to its revenue
+1
+ The findings herein are made pursuant to Respondent's Offer of Settlement and are not
+binding on any other person or entity in this or any other proceeding.
+ 2
+estimates. In connection with the restatement, Respondent disclosed a material weakness resulting
+from “delays in identifying reduced revenue collections due to modification of payor claims
+adjudication processes and lack of communication between financial personnel and non-financial
+personnel.” The same material weakness was subsequently described in each of the next twelve
+reporting periods up to and including Respondent’s Form 10-Q for the period ended March 31,
+2019.
+ 5. In its Form 10-K for the period ended June 30, 2017 filed on October 13, 2017,
+Respondent disclosed that its previously reported financial statements for the three-month periods
+ending September 30, 2016, December 31, 2016, and March 31, 2017 included material errors
+“resulting in the understatement of inventory and the understatement of certain accruals.”
+ 6. In its January 25, 2019 filing of an amended Form 10-Q for the period ended
+September 30, 2018, Respondent disclosed that its previously reported financial statements for the
+three months ended September 30, 2018 “contains material errors related to the classification and
+valuation of the embedded derivative related to an aggregate principal amount of . . . convertible
+notes.”
+ 7. Beginning with its Form 10-Q for the period ended March 31, 2016, Respondent
+stated that it would perform certain remedial actions. Planned remedial actions were repeated in
+subsequent periodic filings. Respondent’s disclosed remedial actions have included reviewing the
+design of the procedures for the preparation of financial statements; improving documentation;
+hiring additional personnel in the accounting department; and providing training to individuals in
+its accounting and reporting functions. Despite these efforts, Respondent continues to report
+material weaknesses.
+ Violations
+ 8. As a result of the conduct described above, Respondent violated Section 13(a) of
+the Exchange Act and Rules 13a-13 and 13a-15(a) thereunder, which require issuers with classes
+of securities registered pursuant to Section 12 of the Exchange Act to file periodic and other
+reports with the Commission and to maintain ICFR.
+ 9. As a result of the conduct described above, Respondent violated Section
+13(b)(2)(A) of the Exchange Act, which requires Section 12 registrants to make and keep books,
+records, and accounts which, in reasonable detail, accurately and fairly reflect their transactions
+and dispositions of their assets.
+ 10. As a result of the conduct described a
+
+===== AAER-4174 | released Sept. 28, 2020 | respondent(s): Fulton Financial Corporation =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 90017 / September 28, 2020
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4174 / September 28, 2020
+ADMINISTRATIVE PROCEEDING
+File No. 3-20084
+ In the Matter of ORDER INSTITUTING CEASE-AND-
+ DESIST PROCEEDINGS PURSUANT TO
+ FULTON FINANCIAL SECTION 21C OF THE SECURITIES
+ CORPORATION, EXCHANGE ACT OF 1934, MAKING
+ FINDINGS, AND IMPOSING A CEASE-
+ Respondent. AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”) against Fulton Financial Corporation (“Fulton” or
+“Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds that:
+ Summary
+ 1. Fulton Financial Corporation (“Fulton”) is a financial holding company that
+operates regional banks in the mid-Atlantic. From late 2016 through mid-2017 (the “Relevant
+Period”), Fulton made material misrepresentations and omissions in its public filings and failed to
+maintain accurate books and records and sufficient internal accounting controls. Specifically,
+Fulton’s public filings during the Relevant Period inaccurately described the process that Fulton
+used to value its mortgage servicing rights (“MSR”) asset and determine its MSR valuation
+allowance.
+ 2. Over two quarters, Fulton departed from its stated valuation practices and
+maintained a $1.3 million MSR valuation allowance that was not supported by its publicly
+disclosed MSR valuation process and then belatedly reversed the allowance in the following
+quarter, which increased its earnings per share (“EPS”) by a penny at a time when it otherwise
+would have fallen short of analyst consensus expectations. Taken together, Fulton’s disclosures
+during the Relevant Period misrepresented both the role played by Fulton’s management and by a
+third-party expert in valuing the MSRs. The disclosures also inaccurately presented the company’s
+quarter-over-quarter financial performance.
+ 3. In addition, Fulton failed to devise and maintain a sufficient system of internal
+accounting controls related to its closing process, use of a third-party valuation expert in its fair
+value analysis, management’s review for reasonableness of the inputs to a third-party expert’s
+discounted cash flow analysis, and the documentation and review of proposed but unrecorded
+accounting adjustments. Fulton also maintained inaccurate books and records that reflected an
+erroneous valuation allowance over two quarters that was $1.3 million higher than it would have
+been had Fulton followed its disclosed valuation process.
+ 4. Accordingly, Fulton violated Section 13(a) of the Exchange Act and Rules 13a-1,
+13a-13 and 12b-20 thereunder and Exchange Act Sections 13(b)(2)(A) and (B).
+ Respondent
+ 5. Fulton Financial Corporation is a financial holding company incorporated in
+Pennsylvania and headquartered in Lancaster, Pennsylvania with a reported balance sheet of
+approximately $18.9 billion as of year-end 2016. Fulton provides retail and commercial financial
+services in Pennsylvania, Delaware, Maryland, New Jersey and Virginia. During the Relevant
+Period, Fulton operated through six subsidiary community banks, including Fulton Bank, N.A.,
+and eight non-bank entities. Fulton’s common stock is registered with the Commission pursuant to
+Section 12(b) of the Exchange Act, and is traded on Nasdaq under the symbol “FULT.” Fulton
+files periodic reports, including Forms 10-K and 10-Q, with the Commission pursuant to Section
+13(a) of the Exchange Act and related rules thereunder.
+ 2
+ Facts
+Background
+ 6. MSRs are assets that represent the economic value of residential mortgage servicing
+rights retained by Fulton after the underlying loans are sold (e.g., for securitization). As of year-
+end 2016, Fulton maintained a portfolio of MSRs with a fair value of approximately $38.2 million.
+Fulton evaluates its MSR portfolio for impairment on a quarterly basis and establishes a valuation
+allowance if and to the extent the carrying value of the MSR portfolio exceeds its estimated fair
+value (i.e., if the asset is impaired). Prior to the Relevant Period, Fulton recorded and reported an
+MSR valuation allowance of $1.7 million in the second quarter of 2016, and then increased the
+allowance by $1.3 million in the third quarter.
+ 7. The MSR valuation allowance is established through a charge against Fulton’s
+earnings. If subsequent valuations indicate that the MSRs are no longer impaired, Fulton is
+required by generally accepted accounting principles to reduce the valuation allowance.
+ 8. Prior to 2013, Fulton performed valuations of its MSR portfolio without external
+assistance. Beginning in 2013, as disclosed in Fulton’s public filings, Fulton retained a third-party
+valuation expert to assess the fair value of its MSRs on a quarterly basis through a discounted cash
+flow analysis based on Fulton’s MSR portfolio data and market-based inputs. Fulton disclosed that
+management’s role was to review the inputs to the valuation expert’s analysis for reasonableness.
+The valuation expert’s fair value, sometimes referred to as the “spot value,” was expressed both in
+dollars and in basis points (the fair value of the MSRs divided by the unpaid principal balance of
+the serviced loans). The valuation expert also provided a range of values around the spot value
+separated by ten (and later, 15) total basis points, which represented the range in which the
+valuation expert expected the portfolio would trade were it offered for sale.
+ 9. As stated in Fulton’s written accounting policy, Fulton used the valuation expert’s
+fair value analysis to assess the need for, and determine the amount of, an MSR valuation
+allowance in the event the asset was impaired. From 2013 through the third quarter of 2016, in
+accordance with Fulton’s accounting policy, Fulton determined the need for a valuation allowance
+using its own “range” that was similar to, but narrower than, the valuation expert’s range. Pursuant
+to Fulton’s “range approach” accounting policy, Fulton assessed MSR fair value based on a six
+basis point “range” a

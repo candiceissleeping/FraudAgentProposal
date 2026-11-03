@@ -1,0 +1,199 @@
+===== AAER-4357 | released Oct. 24, 2022 | respondent(s): Cronos Group Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 11123 / October 24, 2022
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 96137 / October 24, 2022
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4357 / October 24, 2022
+ADMINISTRATIVE PROCEEDING
+File No. 3-21215
+In the Matter of ORDER INSTITUTING CEASE-AND-
+ DESIST PROCEEDINGS PURSUANT TO
+ SECTION 8A OF THE SECURITIES ACT
+CRONOS GROUP INC. OF 1933 AND SECTION 21C OF THE
+ SECURITIES EXCHANGE ACT OF 1934,
+ MAKING FINDINGS, AND IMPOSING A
+Respondent.
+ CEASE-AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted against Cronos Group Inc. (“Cronos” or
+“Respondent”), pursuant to Section 8A of the Securities Act of 1933 (“Securities Act”) and Section
+21C of the Securities Exchange Act of 1934 (“Exchange Act”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer of
+Settlement (the “Offer”) which the Commission has determined to accept. Solely for the purpose of
+these proceedings and any other proceedings brought by or on behalf of the Commission, or to
+which the Commission is a party, and without admitting or denying the findings herein, except as to
+the Commission’s jurisdiction over it and the subject matter of these proceedings, which are
+admitted, Respondent consents to the entry of this Order Instituting Cease-and-Desist Proceedings
+Pursuant to Section 8A of the Securities Act and Section 21C of the Exchange Act, Making
+Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ SUMMARY
+ 1. This matter concerns accounting violations by Cronos, a Canadian cannabis
+company, which occurred in its first years operating as a U.S. publicly-traded issuer. In 2019,
+shortly after becoming subject to SEC reporting requirements, Cronos embarked on a significant
+business expansion, seeking to enter the nascent cannabis vaporizer market. Cronos, however,
+lacked the requisite familiarity with applicable accounting requirements as well as the appropriate
+internal accounting controls to prepare financial reports that complied with U.S. reporting
+requirements.
+ 2. Between 2019 and 2021, Cronos furnished to and/or filed with the Commission,
+financial statements in three separate quarters that contained material accounting errors. In two of
+the three quarters—the first quarter of 2019 and the third quarter of 2019—Cronos improperly
+recognized revenue in connection with certain transactions with the same counter-party where the
+sale of cannabis raw materials (or cannabis flower) by Cronos occurred simultaneously with the
+purchase by Cronos of processed cannabis product. Separately, in the third quarter of 2019, a since-
+terminated senior executive of Cronos entered into an undisclosed oral agreement with a different
+counter-party to sell cannabis raw material to the counter-party but then repurchase the cannabis
+product, either as a derivative product or in some other form, in the following quarter. This oral
+repurchase agreement made it inappropriate for Cronos to recognize revenue in connection with the
+sale transaction. Finally, in the second quarter of 2021, Cronos failed to timely record impairment
+charges in connection with goodwill and intangible assets associated with its U.S. reporting unit.
+As a result of the foregoing accounting errors, Cronos furnished to and/or filed with the
+Commission, periodic reports that contained materially inaccurate financial statements.
+ 3. After discovering the accounting errors, Cronos filed restated financial statements for
+the relevant quarters. In connection with the first and third quarters of 2019, Cronos disclosed that
+it had materially overstated its revenue by $5.8 million. In connection with the second quarter of
+2021, Cronos disclosed that it should have recorded approximately $234.9 million in impairment
+charges in relation to its U.S. reporting unit. Concerning all three quarters, Cronos disclosed that it
+had identified material weaknesses in its internal control over financial reporting.
+ RESPONDENT
+ 4. Cronos Group Inc. is incorporated in the Province of British Columbia and is
+principally headquartered in Toronto, Ontario. Cronos engages in the cultivation, manufacturing,
+and marketing of cannabis and cannabis-derived products. Cronos’ securities, which are registered
+with the Commission pursuant to Section 12(b) of the Exchange Act, are dually-listed on the
+Toronto Stock Exchange and on the NASDAQ (ticker: CRON). From March 2018 through
+December 31, 2019, Cronos qualified as a foreign private issuer and had reporting, books and
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding on any other
+person or entity in this or any other proceeding.
+ 2
+records, and internal controls obligations under Sections 13(a) and 13(b) of the Exchange Act and
+related rules thereunder. As a foreign private issuer, Cronos’ financial statements were prepared in
+accordance with International Financial Reporting Standards (“IFRS”). As of January 1, 2020,
+Cronos began reporting as a U.S. domestic issuer and prepared its financial statements in
+accordance with U.S. generally accepted accounting principles (“GAAP”). During the relevant
+period, Cronos offered and sold securities through the Amended and Restated Stock Option Plan,
+dated May 26, 2015, and the 2018 Stock Option Plan, dated June 28, 2018, which were registered
+on Forms S-8 filed with the Commission.
+ FACTS
+Cronos’ Evolving Business in 2019
+ 5. At the start of 2019, Cronos’ business was primarily focused on the cultivation and
+growth of cannabis flower (also called biomass), which Respondent in turn expected to sell under
+various brands in the retail market. However, beginning in early 2019 and continuing throughout
+that year, an insect infestation of certain biomass in the company’s vault storage facilities rendered
+that biomass unsuitable for retail sales as originally expected. Cronos also lacked the
+manufacturing ability to convert the biomass to other uses. As a result, Cronos was left with a large
+supply of lower-quality biomass in its limited vault storage facilities. In response, Cronos was
+motivated throughout 2019 to sell off its inventory of lower-quality biomass to free up space in its
+storage facilities.
+ 6. Around the same time, in anticipation of forthcoming regulatory changes in Canada,
+Cronos made a strategic decision to enter the cannabis vaporizer market. Cronos expected the
+market for cannabis vaporizer products to eventually surpass the market for the sale of cannabis
+flower. As part of its shift in business strategy, Cronos sought to procure a supply of cannabis resin,
+a key input of vaporizer cartridges used in the production of vaporizer products. Cronos, however,
+lacked th
+
+===== AAER-4360 | released Nov. 1, 2022 | respondent(s): Koppers Holdings Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 11129 / November 1, 2022
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 96193 / November 1, 2022
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4360 / November 1, 2022
+ADMINISTRATIVE PROCEEDING
+File No. 3-21223
+ ORDER INSTITUTING CEASE-AND-
+ In the Matter of DESIST PROCEEDINGS, PURSUANT TO
+ SECTION 8A OF THE SECURITIES ACT
+ Koppers Holdings Inc., OF 1933 AND SECTION 21C OF THE
+ SECURITIES EXCHANGE ACT OF 1934,
+ Respondent. MAKING FINDINGS AND IMPOSING A
+ CEASE-AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate and in the
+public interest that cease-and-desist proceedings be, and hereby are, instituted pursuant to Section
+8A of the Securities Act of 1933 (“Securities Act”) and Section 21C of the Securities Exchange
+Act of 1934 (“Exchange Act”), against Koppers Holdings Inc. (“Respondent” or “Koppers”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer of
+Settlement (the “Offer”) which the Commission has determined to accept. Solely for the purpose of
+these proceedings and any other proceedings brought by or on behalf of the Commission, or to
+which the Commission is a party, and without admitting or denying the findings herein, except as to
+the Commission’s jurisdiction over it and the subject matter of these proceedings, which are
+ admitted. Respondent consents to the entry of this Order Instituting Cease-And- Desist Proceedings
+ Pursuant to Section 8A of the Securities Act of 1933 and Section 21C of the Securities Exchange
+ Act of 1934, Making Findings, and Imposing a Cease-And-Desist Order (“Order”), as set forth
+ below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds that:
+ Summary
+ 1. This matter concerns Koppers’ failure to disclose material information about its debt
+ reduction efforts that rendered statements it made materially misleading during fiscal year 2019.
+ Throughout 2019, Koppers emphasized debt reduction and regularly reported two debt-related
+ non-GAAP financial measures – net debt and net leverage ratio – in its press releases for
+ quarterly earnings which were attached to its Forms 8-K furnished to the Commission at
+ quarterly and year-end, and during its earnings calls.1 In connection with its 2018 year-end press
+ release, Koppers specifically announced that it planned to reduce debt by $80 million during
+ fiscal year 2019. Koppers continued to highlight its debt reduction goal throughout the 2019
+ fiscal year and announced that it had achieved its goal in its 2019 year-end earnings
+ announcement.
+ 2. As recognized by Koppers, the company’s high debt and leverage were concerning
+ to investors. These measures were also emphasized by analysts who covered Koppers. Koppers
+ itself tracked its debt on a daily basis.
+ 3. However, to achieve its announced debt reduction target, Koppers delayed making
+ material amounts of overdue payments to vendors. For instance, at fiscal year-end 2019, Koppers
+ delayed the payment of approximately $72 million in vendor invoices, which corresponded to over
+ 85% of its reported $81.6 million net debt reduction for 2019. Koppers then paid those past due
+ invoices the week after the end of the reporting period through a drawdown of its revolving line of
+ credit, thereby reversing most of its reported 2019 net debt reduction. Accordingly, Koppers’ net
+ debt reduction was only temporary and was reversed soon after the close of each reporting period
+ of 2019. Without these actions, Koppers would not have achieved the 2019 year-end debt
+ reduction goal it had highlighted to investors.
+1
+ A non-GAAP financial measure is a numerical measure of a registrant’s historical or future financial performance, financial
+position, or cash flows that (i) excludes amounts, or is subject to adjustments that have the effect of excluding amounts, that
+are included in the most directly comparable measure calculated and presented in accordance with Generally Accepted
+Accounting Principles (“GAAP”) in the statement of income, balance sheet or statement of cash flows (or equivalent
+statements) of the issuer; or (ii) includes amounts, or is subject to adjustments that have the effect of including amounts, that
+are excluded from the most directly comparable measure so calculated and presented. 17 C.F.R. § 244.101(a)(1). A non-
+GAAP financial measure does not include financial measures required to be disclosed by GAAP. Id. § 244.101(a)(3).
+ 2
+ 4. As a result of Koppers’ failure to disclose the impact of its debt reduction practices,
+ Koppers’ public statements were materially misleading. In particular, throughout 2019, Koppers
+ made positive statements regarding its debt reduction efforts, goals, and the ultimate achievement
+ of the 2019 goal, without disclosing its practice of delaying significant payments on past due
+ vendor invoices. Koppers also failed to disclose that without these practices, it could not have met
+ the debt reduction goal it highlighted to investors for 2019 nor that the net debt reduction the
+ company announced was temporary and soon reversed after the close of the quarter.
+ 5. As a result of this conduct, Koppers violated Section 17(a)(3) of the Securities Act,
+Section 13(a) of the Exchange Act, Exchange Act Rules 12b-20 and 13a-11, and Rule 100(b) of
+Regulation G thereunder.
+ Respondents
+ 6. Koppers Holdings Inc., a Pennsylvania corporation headquartered in Pittsburgh,
+Pennsylvania, is a global provider of wood products, wood treatment chemicals, and carbon
+compounds. Koppers’ common stock is registered with the Commission pursuant to Section 12(b)
+of the Exchange Act, and its shares trade on the New York Stock Exchange under the ticker “KOP.”
+Koppers files periodic reports, including Forms 10-K and 10-Q with the Commission, pursuant to
+Section 13(a) of the Exchange Act and the related rules thereunder. On February 27, 2020,
+contemporaneous with its 2019 fourth quarter earnings release, Koppers filed a 424B3 prospectus
+supplement for an at-the-market offering. Substantially all of Koppers’ operations are conducted
+through its sole operating subsidiary, Koppers Inc.
+ FACTS
+ Koppers Emphasized Reducing Net Debt and Net Leverage Ratio
+ 7. Koppers has a long history of repurposing steel production byproducts. In 2013,
+these product lines accounted for 60% of Koppers’ revenue. However, in 2014, Koppers began a
+reorientation of its business around wood preservation products; this entailed facility consolidation
+and debt-funded acquisitions. To that end, Koppers purchased a chemical company in 2014, a
+utility pole company in 2018, and a railroad tie disposal company in 2018. As a result, by the end
+of 2018, Koppers’ debt and leverage exceeded that of its peers.
+ 8. At the start of 2019, Koppers announced debt reduction as one of three main areas
+of focus for the year. Koppers used two non-GAAP financial me

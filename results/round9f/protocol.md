@@ -26,3 +26,4 @@
 
 ## 4. 修訂紀錄
 - 2026-11-03：初版，於篩選任何新案例前提交
+- 2026-11-03（篩選前）：(1) 先用程式排除文字含 FCPA／賄賂（26 筆）或完全沒有錯報關鍵字（restat/overstat/misstat/GAAP 等，20 筆）、或下載不到全文（5 筆）的 AAER，記錄於 `data/round9f/screen/prescreen_log.tsv`；(2) 剩下 82 筆每 10 筆一批交給一個 agent 篩選（提示：`data/round9f/screen_prompt.md`），而非每筆一個 agent

@@ -1,0 +1,907 @@
+===== AAER-4216 | released April 29, 2021 | respondent(s): Igen Networks Corp. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 91719 / April 29, 2021
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4216 / April 29, 2021
+ADMINISTRATIVE PROCEEDING
+File No. 3-20272
+ ORDER INSTITUTING CEASE-AND-
+ In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 21C OF THE SECURITIES
+ IGEN NETWORKS CORP., EXCHANGE ACT OF 1934, MAKING
+ FINDINGS, AND IMPOSING A CEASE-
+ Respondent. AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), against Igen Networks Corp. (“Igen” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ Summary
+ 1. These proceedings arise out of the violation of Exchange Act Rule 12b-25, which
+requires that issuers that fail to file timely a periodic report shall file a Form 12b-25 “Notification of
+Late Filing,” commonly known as “Form NT,” which contains, among other things, reasonable
+detail as to why the issuer’s periodic report could not be filed on time and an explanation of any
+anticipated, significant changes in the issuer’s results of operations.
+ 2. In May 2020, Igen violated Rule 12b-25 by filing a Form 12b-25 with the
+Commission in which Igen failed to disclose why, in sufficient detail under the circumstances
+presented, its fiscal year (“FY”) 2019 Form 10-K could not be timely filed. Igen’s Form 12b-25
+also failed to acknowledge anticipated, significant changes in Igen’s results of operations for the
+fourth quarter of FY2019, compared with Igen’s operating results in the fourth quarter of FY2018,
+and to provide an explanation of the changes, as required under the rule. Two weeks after filing its
+Form 12b-25, Igen filed its FY2019 Form 10-K disclosing to investors and the market a restatement
+of the company’s year-end financial statements for FY2018. Igen, however, had failed to include
+in its Form 12b-25 any disclosure that the discovery, and ongoing correction, of errors in its
+FY2018 year-end financial statements were among the principal reasons that it was unable to file
+timely the subject FY2019 Form 10-K.
+ Respondent
+ 3. Igen, a Nevada corporation based in Murrieta, California, provides cloud-based
+automotive services that include stolen-vehicle protection and real-time updates on driver behavior.
+Igen common stock is registered under Section 12(g) of the Exchange Act and is quoted on the
+OTCQB Venture Market.
+ Legal Framework and Facts
+ 4. Section 13(a) of the Exchange Act and Rules 13a-1 and 13a-13 thereunder require
+issuers with a security registered pursuant to Section 12 of the Exchange Act to file with the
+Commission annual reports on Form 10-K and quarterly reports on Form 10-Q.
+ 5. Rule 12b-25 provides that if an issuer fails to file a Form 10-K or 10-Q within the
+time period prescribed for such report, the issuer, no later than one business day after the due date
+for such report, shall file a Form 12b-25 with the Commission, disclosing the issuer’s inability
+1
+ The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding on any
+other person or entity in this or any other proceeding.
+ 2
+to file the report timely and the reasons therefore in reasonable detail.2 Form 12b-25 requires the
+issuer to affirm, among other things, that the subject periodic report will be filed within fifteen
+calendar days, for a Form 10-K, or within five calendar days, for a Form 10-Q, of the report’s
+prescribed due date, and requires that the report actually be filed within such period. Form 12b-25
+also requires the issuer to confirm whether or not it anticipates that any significant change in
+results of operations from the corresponding period for the prior fiscal year will be reflected by the
+earnings statements to be included in the subject periodic report. If such change is anticipated, the
+issuer must attach a narrative and quantitative explanation of the anticipated change and, if
+appropriate, state the reasons why a reasonable estimate of the results cannot be made.
+ 6. On May 15, 2020, Igen filed with the Commission a Form 12b-25 disclosing that it
+could not file timely its Form 10-K for its 2019 fiscal year, ended December 31, 2019, because
+Igen was “unable to complete the required compilation, dissemination, and review of all
+information required for filing its Form 10-K … within the prescribed time period without undue
+hardship and expense.”
+ 7. Furthermore, in its Form 12b-25, Igen affirmed that it would file the subject Form
+10-K within the fifteen-calendar-day extension period and indicated that it did not anticipate that
+any significant change in results of operations from the corresponding period for the prior fiscal
+year would be reflected in the subject Form 10-K.
+ 8. On May 29, 2020, Igen filed with the Commission its FY2019 Form 10-K, which
+disclosed that Igen was restating its 2018 consolidated financial statements because, “[d]uring
+2019, we discovered that an accounting error had been made related to the Company not properly
+recording contract assets as required under the relevant accounting guidance for revenue
+recognition.” The aforementioned restatement resulted in, among other things, material decreases
+in Igen’s current and total liabilities.
+ 9. Igen’s inability to meet the filing deadline for its FY2019 Form 10-K was due, in
+large part, to the discovery, and ongoing correction, of errors in its FY2018 year-end financial
+statements. In its Form 12b-25, however, Igen failed to disclose this information and failed to
+provide the detailed narratives and quantitative explanation specifically called for by the form. The
+company anticipated that its fourth-quarter FY2019 financial results, when reported, would differ
+significantly from its fourth-quarter FY2018 financial results, including a 158% reduction in
+quarterly loss versus fourth quarter FY2018.
+ Violations
+ 10. As a result of the conduct described above, Igen violated Section 13(a) of the
+Exchange Act and Rule 12b-25 thereunder.
+2
+ Form 12b-25 specifies a “narrative” disclosure. (See Form 12b-25, Part I
+
+===== AAER-4217 | released April 29, 2021 | respondent(s): Rokk3r, Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 91721 / April 29, 2021
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4217 / April 29, 2021
+ADMINISTRATIVE PROCEEDING
+File No. 3-20273
+ ORDER INSTITUTING CEASE-AND-
+ In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 21C OF THE SECURITIES
+ ROKK3R, INC., EXCHANGE ACT OF 1934, MAKING
+ FINDINGS, AND IMPOSING A CEASE-
+ Respondent. AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), against Rokk3r, Inc. (“Rokk3r” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ Summary
+ 1. These proceedings arise out of the violation of Exchange Act Rule 12b-25, which
+requires that issuers that fail to file timely a periodic report shall file a Form 12b-25 “Notification of
+Late Filing,” commonly known as “Form NT,” which contains, among other things, reasonable
+detail as to why the issuer’s periodic report could not be filed on time and an explanation of any
+anticipated, significant changes in the issuer’s results of operations.
+ 2. In November 2019, Rokk3r violated Rule 12b-25 by filing a Form 12b-25 with the
+Commission in which Rokk3r failed to disclose why, in sufficient detail under the circumstances
+presented, its third-quarter, fiscal year (“FY”) 2019 Form 10-Q could not be timely filed. Rokk3r’s
+Form 12b-25 also failed to acknowledge anticipated, significant changes in Rokk3r’s results of
+operations for the third quarter of FY2019, compared with Rokk3r’s operating results in the third
+quarter of FY2018, and to provide an explanation of the changes, as required under the rule. Four
+days after filing its Form 12b-25, Rokk3r filed a Form 8-K disclosing to investors and the market
+that the company’s financial statements for the first and second quarters of FY2019 could no
+longer be relied upon and would be restated. Rokk3r, however, had failed to include in its Form
+12b-25 any disclosure that the discovery, and ongoing correction, of errors in prior FY2019
+quarterly financial statements were among the principal reasons that it was unable to file timely the
+subject Form 10-Q for the third quarter of FY2019. Additionally, Rokk3r failed to file its Form 8-
+K within the required period for filing a Form 8-K under Exchange Act Rule 13a-11.
+ Respondent
+ 3. Rokk3r, a Nevada corporation based in Miami, Florida, provides consulting
+services to startup companies. Prior to a May 2020 going-private transaction, Rokk3r common
+stock was registered under Section 12(g) of the Exchange Act and quoted on the Pink Open
+Market.
+ Legal Framework and Facts
+ 4. Section 13(a) of the Exchange Act and Rules 13a-1 and 13a-13 thereunder require
+issuers with a security registered pursuant to Section 12 of the Exchange Act to file with the
+Commission annual reports on Form 10-K and quarterly reports on Form 10-Q.
+1
+ The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding on any
+other person or entity in this or any other proceeding.
+ 2
+ 5. Rule 12b-25 provides that if an issuer fails to file a Form 10-K or 10-Q within the
+time period prescribed for such report, the issuer, no later than one business day after the due date
+for such report, shall file a Form 12b-25 with the Commission, disclosing the issuer’s inability
+to file the report timely and the reasons therefore in reasonable detail.2 Form 12b-25 requires the
+issuer to affirm, among other things, that the subject periodic report will be filed within fifteen
+calendar days, for a Form 10-K, or within five calendar days, for a Form 10-Q, of the report’s
+prescribed due date, and requires that the report actually be filed within such period. Form 12b-25
+also requires the issuer to confirm whether or not it anticipates that any significant change in
+results of operations from the corresponding period for the prior fiscal year will be reflected by the
+earnings statements to be included in the subject periodic report. If such change is anticipated, the
+issuer must attach a narrative and quantitative explanation of the anticipated change and, if
+appropriate, state the reasons why a reasonable estimate of the results cannot be made.
+ 6. Section 13(a) and Rule 13a-11 of the Exchange Act require issuers with a security
+registered pursuant to Section 12 of the Exchange Act to file or furnish, as applicable, current
+reports with the Commission on Form 8-K. Issuers are required to file a Form 8-K within four
+business days after the occurrence of certain events specified in the Form 8-K. Section 4, Item
+4.02 of the Form 8-K specifies that if an issuer concludes, or is advised by its auditor, that any
+previously issued financial statements required to have been provided should no longer be relied
+upon, the issuer shall disclose the event and certain enumerated information on a Form 8-K.
+ 7. On November 14, 2019, Rokk3r filed with the Commission a Form 12b-25
+disclosing that Rokk3r could not file timely its Form 10-Q for its third fiscal quarter, ended
+September 30, 2019, “due to its delay in compiling financial information required to be included in
+its Quarterly Report on Form 10-Q, which delay could not be eliminated by Registrant without
+unreasonable effort and expense.” Rokk3r’s disclosure contained no further details regarding the
+cited delay.
+ 8. Furthermore, in its Form 12b-25, Rokk3r indicated that it did not anticipate that any
+significant change in results of operations from the corresponding period for the prior fiscal year
+would be reflected in the subject Form 10-Q.
+ 9. On November 18, 2019, Rokk3r filed with the Commission a Form 8-K disclosing
+that, “[o]n November 8, 2019, the Board of Directors of [Rokk3r] concluded, after review and
+discussion with management, that [Rokk3r’s] unaudited condensed consolidated financial
+statements for the periods ended March 31, 2019 and June 30, 2019 [i.e., the first and second
+quarters of FY2019] … should no longer be relied upon” because Rokk3r had incorrectly
+accounted, in those financial statements, 
+
+===== AAER-4218 | released April 29, 2021 | respondent(s): Daniels Corporate Advisory Company, Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 91722 / April 29, 2021
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4218 / April 29, 2021
+ADMINISTRATIVE PROCEEDING
+File No. 3-20274
+ ORDER INSTITUTING CEASE-AND-
+ In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 21C OF THE SECURITIES
+ DANIELS CORPORATE EXCHANGE ACT OF 1934, MAKING
+ ADVISORY COMPANY, FINDINGS, AND IMPOSING A CEASE-
+ INC., AND-DESIST ORDER
+ Respondent.
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), against Daniels Corporate Advisory Company, Inc.
+(“Daniels” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ Summary
+ 1. These proceedings arise out of the violation of Exchange Act Rule 12b-25, which
+requires that issuers that fail to file timely a periodic report shall file a Form 12b-25 “Notification of
+Late Filing,” commonly known as “Form NT,” which contains, among other things, reasonable
+detail as to why the issuer’s periodic report could not be filed on time and an explanation of any
+anticipated, significant changes in the issuer’s results of operations.
+ 2. In July 2019, Daniels violated Rule 12b-25 by filing a Form 12b-25 with the
+Commission in which Daniels failed to disclose why, in sufficient detail under the circumstances
+presented, its second-quarter, fiscal year (“FY”) 2019 Form 10-Q could not be timely filed.
+Daniels’ Form 12b-25 also failed to acknowledge anticipated, significant changes in Daniels’ results
+of operations for the second quarter of FY2019, compared with Daniels’ operating results in the
+second quarter of FY2018, and to provide an explanation of the changes, as required under the rule.
+One week after filing its Form 12b-25, Daniels filed an amended first-quarter FY2019 Form 10-Q
+disclosing to investors and the market that its previously-filed financial statements for the first
+quarter of FY2019 should no longer be relied upon. Daniels, however, had failed to include in its
+Form 12b-25 any disclosure that the discovery, and ongoing correction, of errors in its first-quarter
+FY2019 financial statements were among the principal reasons that it was unable to file timely the
+subject Form 10-Q.
+ Respondent
+ 3. Daniels, a Nevada corporation based in Forest Hills, New York, is engaged in the
+business of offering corporate financial consulting services and also refurbishes, sells, and rents
+“Class 8” heavy-duty trucks. Daniels common stock is registered under Section 12(g) of the
+Exchange Act and is quoted on the OTCQB Venture Market.
+ Legal Framework and Facts
+ 4. Section 13(a) of the Exchange Act and Rules 13a-1 and 13a-13 thereunder require
+issuers with a security registered pursuant to Section 12 of the Exchange Act to file with the
+Commission annual reports on Form 10-K and quarterly reports on Form 10-Q.
+1
+ The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding on any
+other person or entity in this or any other proceeding.
+ 2
+ 5. Rule 12b-25 provides that if an issuer fails to file a Form 10-K or 10-Q within the
+time period prescribed for such report, the issuer, no later than one business day after the due date
+for such report, shall file a Form 12b-25 with the Commission, disclosing the issuer’s inability
+to file the report timely and the reasons therefore in reasonable detail.2 Form 12b-25 requires the
+issuer to affirm, among other things, that the subject periodic report will be filed within fifteen
+calendar days, for a Form 10-K, or within five calendar days, for a Form 10-Q, of the report’s
+prescribed due date, and requires that the report actually be filed within such period. Form 12b-25
+also requires the issuer to confirm whether or not it anticipates that any significant change in
+results of operations from the corresponding period for the prior fiscal year will be reflected by the
+earnings statements to be included in the subject periodic report. If such change is anticipated, the
+issuer must attach a narrative and quantitative explanation of the anticipated change and, if
+appropriate, state the reasons why a reasonable estimate of the results cannot be made.
+ 6. On July 15, 2019, Daniels filed with the Commission a Form 12b-25 disclosing
+only that Daniels could not file timely its Form 10-Q for its FY2019 second quarter, ended May
+31, 2019, because: “The Registrant has been unable to complete all aspects of its Form 10-Q for
+the quarterly period ended May 31, 2019 on, or prior to, the prescribed due date.”
+ 7. Furthermore, in its Form 12b-25, Daniels affirmed that it would file the subject
+Form 10-Q within the five-calendar-day extension period and indicated that it did not anticipate
+that any significant change in results of operations from the corresponding period for the prior
+fiscal year would be reflected in the subject Form 10-Q.
+ 8. On July 22, 2019, Daniels filed with the Commission its second-quarter FY2019
+Form 10-Q and also an amended Form 10-Q for its FY2019 first quarter, ended February 28, 2019,
+which restated Daniels’ financial statements for the FY2019 first quarter and disclosed that the
+previously-filed financials for that quarter should no longer be relied upon. As explained in the
+amended Form 10-Q: “In the course of its financial statements closing process subsequent to the
+period ended February 28, 2019, the CEO and CFO … of Daniels … determined that the
+Company’s interim financial statements for the three months ended February 28, 2019, could no
+longer be relied upon. Specifically, Management discovered an overstatement of sales and cost of
+sales which should not have been recognized during the three months ended February 28, 2019.”
+ 9. Daniels’ inability to meet the filing deadline for its second-quarter FY2019 Form
+10-Q was due, in large part, to the discovery, and ongoing correction, of errors in its first-quarter
+FY2019 financial statements. In its Form 12b-25, however, Daniels failed to disclose this
+information and failed to provide the detailed narratives and quantitative 
+
+===== AAER-4219 | released April 29, 2021 | respondent(s): HQDA Elderly Life Network, Inc. (Corrected) =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 91723 / April 29, 2021
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4219 / April 29, 2021
+ADMINISTRATIVE PROCEEDING
+File No. 3-20275
+ CORRECTED ORDER INSTITUTING
+ In the Matter of CEASE-AND-DESIST PROCEEDINGS
+ PURSUANT TO SECTION 21C OF THE
+ HQDA ELDERLY LIFE SECURITIES EXCHANGE ACT OF 1934,
+ NETWORK, CORP., MAKING FINDINGS, AND IMPOSING A
+ CEASE-AND-DESIST ORDER
+ Respondent.
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), against HQDA Elderly Life Network, Inc. (“HQDA” or
+“Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds 1 that:
+ Summary
+ 1. These proceedings arise out of the violation of Exchange Act Rule 12b-25, which
+requires that issuers that fail to file timely a periodic report shall file a Form 12b-25 “Notification of
+Late Filing,” commonly known as “Form NT,” which contains, among other things, reasonable
+detail as to why the issuer’s periodic report could not be filed on time and an explanation of any
+anticipated, significant changes in the issuer’s results of operations.
+ 2. In November 2019 and again in February 2020, HQDA violated Rule 12b-25 by
+filing a Form 12b-25 with the Commission in which HQDA failed to disclose why, in sufficient
+detail under the circumstances presented, its Form 10-Q could not be timely filed. In both instances,
+HQDA’s Form 12b-25 also failed to acknowledge anticipated, significant changes in HQDA’s
+results of operations for the fiscal quarter covered by the Form 10-Q compared with HQDA’s
+operating results in the same quarter of the prior fiscal year, and to provide an explanation of the
+changes, as required under the rule. Also, in both instances, days after filing its Form 12b-25,
+HQDA filed a Form 10-Q disclosing to investors and the market a restatement of the company’s
+financial statements for a prior fiscal quarter. HQDA, however, had failed to include in its Form
+12b-25 any disclosure that the discovery, and ongoing correction, of errors in prior quarterly
+financial statements were among the principal reasons that it was unable to file timely the subject
+Forms 10-Q.
+ Respondent
+ 3. HQDA, a Nevada corporation based in Rosemead, California, focuses on senior
+housing and retirement services and products in China. HQDA common stock is registered under
+Section 12(g) of the Exchange Act and is quoted on the OTCQB Venture Market.
+ Legal Framework and Facts
+ 4. Section 13(a) of the Exchange Act and Rules 13a-1 and 13a-13 thereunder require
+issuers with a security registered pursuant to Section 12 of the Exchange Act to file with the
+Commission annual reports on Form 10-K and quarterly reports on Form 10-Q.
+ 5. Rule 12b-25 provides that if an issuer fails to file a Form 10-K or 10-Q within the
+time period prescribed for such report, the issuer, no later than one business day after the due date
+1
+ The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding on any
+other person or entity in this or any other proceeding.
+ 2
+for such report, shall file a Form 12b-25 with the Commission, disclosing the issuer’s inability
+to file the report timely and the reasons therefore in reasonable detail. 2 Form 12b-25 requires the
+issuer to affirm, among other things, that the subject periodic report will be filed within fifteen
+calendar days, for a Form 10-K, or within five calendar days, for a Form 10-Q, of the report’s
+prescribed due date, and requires that the report actually be filed within such period. Form 12b-25
+also requires the issuer to confirm whether or not it anticipates that any significant change in
+results of operations from the corresponding period for the prior fiscal year will be reflected by the
+earnings statements to be included in the subject periodic report. If such change is anticipated, the
+issuer must attach a narrative and quantitative explanation of the anticipated change and, if
+appropriate, state the reasons why a reasonable estimate of the results cannot be made.
+ 6. On November 13, 2019, HQDA filed with the Commission a Form 12b-25
+disclosing that HQDA could not file timely its Form 10-Q for its fiscal quarter, ended September
+30, 2019, because it “was unable to compile the necessary financial information required to prepare
+a complete filing. Thus, the Company would be unable to file the periodic report in a timely
+manner without unreasonable effort or expense.”
+ 7. Furthermore, in its Form 12b-25, HQDA affirmed that it would file the subject
+Form 10-Q within the five-calendar-day extension period and indicated that it did not anticipate
+that any significant change in results of operations from the corresponding period for the prior
+fiscal year would be reflected in the subject Form 10-Q.
+ 8. On November 19, 2019, HQDA filed with the Commission a Form 10-Q for its
+fiscal year (“FY”) 2020 first quarter, ended September 30, 2019, disclosing the following
+restatement: “On September 4, 2018, the Company completed an issuance of 41,731,867 shares at
+$0.15 per share for total proceeds of $6,259,780 to a Chinese company by a private placement.
+Following the completion of the transaction, … the Company recorded $27,125,714 of stock-based
+compensation…. However, since the private placement agreement was signed in April 2018 when
+the share price value was $0.15 and could not be closed until September 2018 when the share price
+was $0.80, this should not be a stock-based compensation. The Company also recorded $68,613 in
+expenses for payments made to a vendor for development of the Company’s website for the three
+months ended September 30, 2018. This should have been classified as prepaid asset and not an
+expense. The Company determined that it would be appropriate to correct those errors.”
+ 9. HQDA’s inability to meet the filing deadline for its first-quarter FY2020 Form
+10-Q was due, in large part, to the discovery, and ongoing correction, of errors in its first-quarter
+FY2019 financial statements. In its Form 12b-25, however, HQDA fa
+
+===== AAER-4220 | released May 3, 2021 | respondent(s): Under Armour, Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 10940 / May 3, 2021
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 91741 / May 3, 2021
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4220 / May 3, 2021
+ADMINISTRATIVE PROCEEDING
+File No. 3-20278
+ In the Matter of ORDER INSTITUTING CEASE-AND-
+ DESIST PROCEEDINGS PURSUANT TO
+ UNDER ARMOUR, INC., SECTION 8A OF THE SECURITIES ACT
+ OF 1933 AND SECTION 21C OF THE
+ Respondent. SECURITIES EXCHANGE ACT OF 1934,
+ MAKING FINDINGS, AND IMPOSING A
+ CEASE-AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act of
+1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 1934 (“Exchange Act”)
+against Under Armour, Inc. (“Under Armour” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”), which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the
+findings herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which is admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 8A of the Securities Exchange Act of 1933 and
+Section 21C of the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-
+and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ Summary
+ 1. This matter concerns Under Armour’s failure to disclose material information
+about its revenue management practices that rendered statements it made misleading. Since
+becoming a publicly traded company, Under Armour has emphasized its consistent revenue
+growth, and regularly reported revenue and revenue growth that exceeded analysts’ consensus
+estimates (“analysts’ revenue estimates”). For 26 consecutive quarters, beginning in the second
+quarter of 2010, Under Armour’s reported year-over-year revenue growth exceeded 20%, and
+Under Armour repeatedly highlighted this growth streak in earnings calls and earnings releases.
+ 2. By the second half of 2015, Under Armour’s internal revenue and revenue growth
+forecasts for the third and fourth quarters of 2015 began to indicate shortfalls from analysts’
+revenue estimates. Concerned about the possible negative impact on the company’s stock price
+that could result from missing these estimates, Under Armour sought to accelerate, or “pull
+forward,” existing orders that customers had requested be shipped in future quarters that could be
+completed in the current quarter to close the gap between its internal forecasts and analysts’
+revenue estimates. To effectuate this, Under Armour typically asked customers to accept
+shipment of certain products in the current quarter that they had already ordered for delivery in
+the next quarter.
+ 3. For six consecutive quarters from the third quarter of 2015 through the fourth
+quarter of 2016 (the “Relevant Period”), Under Armour used pull forwards to help it meet
+analysts’ revenue estimates. During the Relevant Period, Under Armour pulled forward
+approximately $408 million in orders. Under Armour’s failure to disclose to investors the impact
+of its pull forward practices was misleading.2 Without these pull forwards each quarter, Under
+Armour would have missed analysts’ revenue estimates throughout the Relevant Period, and
+would have missed its better than 20% revenue growth streak in the fourth quarter of 2015 and
+the third quarter of 2016. On January 31, 2017, the day Under Armour announced that it missed
+analysts’ revenue estimates for the fourth quarter and full-year 2016, the company’s stock price
+dropped by approximately 23%. Under Armour’s year-over-year growth rate for each quarter has
+remained in the single digits or negative since that time.
+ 4. As a result of Under Armour’s failure to disclose the impact of its pull forward
+practice on revenue growth, Under Armour’s public statements were materially misleading. In
+particular, throughout the Relevant Period, Under Armour made positive statements regarding its
+revenue growth rate and the factors contributing to the revenue growth rate, without disclosing
+the significant impact on revenue from its use of pull forwards. Under Armour also failed to
+1
+ The findings herein are made pursuant to Respondent’s Offer and are not binding on any other
+person or entity in this or any other proceeding.
+2
+ This Offer does not make any findings that revenue from these sales was not recorded in
+accordance with generally accepted accounting principles (“GAAP”).
+ 2
+disclose that the sales that had been pulled forward were no longer available in the future quarter.
+This practice raised significant uncertainty that Under Armour would meet its revenue guidance
+in future quarters.
+ 5. As a result of such conduct, and as described in more detail below, Under Armour
+violated Sections 17(a)(2) and 17(a)(3) of the Securities Act and Section 13(a) of the Exchange
+Act and Rules 13a-1, 13a-11, 13a-13, and 12b-20 thereunder.
+ Respondent
+ 6. Under Armour, Inc., a Maryland corporation headquartered in Baltimore, is
+primarily engaged in the development, marketing, and wholesale and retail distribution of
+branded performance apparel, footwear, and accessories. Under Armour is a reporting company
+with two classes of common stock registered with the Commission under Section 12(b) of the
+Exchange Act. Both classes of common stock are listed on the New York Stock Exchange under
+the current ticker symbols “UA” and “UAA.”
+ Under Armour Used Pull Forwards to Meet Analysts’ Revenue Estimates
+ 7. For 26 consecutive quarters, beginning in the second quarter of 2010 through the
+third quarter of 2016, Under Armour reported year-over-year revenue growth in excess of 20%.
+ 8. However, by mid-2015, Under Armour’s Financial Planning & Analysis group
+(“FP&A group”) identified that the revenue growth rate in the company’s largest market, North
+America, was not as strong as in previous years. For example, in April and May 2015, the FP&A
+group alerted senior management that sales projections for the year in wholesale apparel, which
+was Under Armour’s largest product category in North America, had declined by $120 million
+compared to the internal projections generated in late 2014. By the third quarter of 2015, Under
+Armour’s senior management also understood that warmer weather was negatively impacting
+sales of higher priced cold weather apparel within North America.
+ 9. Starting in the third quarter of 2015, Under Armour’s internally projected
+company-wide revenue began to fall short of analysts’ revenue estimates. 
+
+===== AAER-4247 | released Sept. 2, 2021 | respondent(s): Pareteum Corporation =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 10975 / September 2, 2021
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 92866 / September 2, 2021
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4247 / September 2, 2021
+ADMINISTRATIVE PROCEEDING
+File No. 3-20522
+ ORDER INSTITUTING CEASE-AND-
+ In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 8A OF THE SECURITIES ACT
+ PARETEUM CORPORATION, OF 1933 AND SECTION 21C OF THE
+ SECURITIES EXCHANGE ACT OF 1934,
+ Respondent. MAKING FINDINGS, AND IMPOSING A
+ CEASE-AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act
+of 1933 (“Securities Act”), and Section 21C of the Securities Exchange Act of 1934 (“Exchange
+Act”) against Pareteum Corporation (“Pareteum” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, and Respondent consents to the entry of this Order Instituting
+Cease-and-Desist Proceedings, Pursuant to Section 8A of the Securities Act and Section 21C of the
+Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order
+(“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ SUMMARY
+ 1. This case concerns accounting and disclosure fraud by Pareteum, a
+telecommunications company, spanning from 2018 through mid-2019 (the “relevant time period”).
+During this time, Pareteum’s public filings materially overstated revenue by approximately $12
+million for fiscal year 2018 (60% of the ultimately restated revenue), and by approximately $30
+million for the first and second quarters of 2019 (91% of the ultimately restated revenue).
+ 2. These misstatements resulted from improper accounting practices, whereby certain
+now former executives directed that revenue be recognized based on non-binding purchase orders
+and prior to product shipment, which is not in accordance with generally accepted accounting
+principles (“GAAP”). Further, former senior accounting employees took steps to conceal these
+practices from Pareteum’s auditor.
+ 3. On October 21, 2019, Pareteum issued a press release announcing that Pareteum’s
+financial results for 2018 and the first half of 2019 required restatement, and on December 14, 2020,
+Pareteum restated its financial results for 2018, reducing the full year revenue from $32.4 million to
+$20.3 million. On March 12, 2021, Pareteum reported its financial results for 2019, reporting a full
+year revenue of $62.05 million, including restated quarterly financial results for the first half of
+2019 – reducing its stated revenue for the first quarter of 2019 from $23.04 million to $13.07
+million, and for the second quarter of 2019 from $34.2 to $16.9 million.
+ 4. As a result of the conduct described herein, Pareteum violated Section 17(a) of the
+Securities Act and Sections 10(b), 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and
+Rules 10b-5, 12b-20, 13a-1, 13a-11, and 13a-13 thereunder.
+ 5. After determining that a restatement was needed, Pareteum’s Audit Committee
+began an independent investigation that resulted in the separation of multiple Pareteum executives –
+comprising almost all of the senior management team and certain senior executives in sales and
+finance positions. Pareteum took additional remedial measures, including modifying and improving
+internal accounting controls and procedures to prevent recurrence of the misconduct. Pareteum also
+provided cooperation to the Commission staff during the staff’s investigation, including providing
+presentations to the staff summarizing facts developed during the course of its own internal
+investigation and identifying key documents.
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not
+ binding on any other person or entity in this or any other proceeding.
+ 2
+ RESPONDENT
+ 6. Pareteum Corporation is incorporated in Delaware with a principal place of
+business in New York, NY. Pareteum is a telecommunications and cloud software company. Its
+common stock is registered with the Commission pursuant to Section 12(b) of the Exchange Act,
+and traded on the NASDAQ exchange under the symbol “TEUM.” NASDAQ delisted Pareteum’s
+common stock on February 2, 2021 for its failure to timely file required periodic reports with the
+Commission. Pareteum’s common stock currently trades on the OTC Pink market as “TEUM.”
+ FACTS
+ Background
+ 7. Pareteum is a telecommunications “Software as a Service” or “SaaS” company that
+offers various products such as SIM cards, WiFi service, and a Cloud platform. One portion of
+Pareteum’s business is its mobile bundled services line, which provides SIM cards with
+customizable service plan options. Pareteum’s customers then resell the SIM cards to consumers.
+ 8. FASB Accounting Standards Codification Topic 606, Revenue From Contracts
+With Customers (“ASC 606”), provides guidance for recognizing revenue for these type of sales
+agreements. ASC 606 requires entities to recognize revenue only when control of the promised
+goods or services is transferred to customers, and at an amount that reflects the consideration to
+which the entity expects to be entitled in exchange for those goods or services where such transfer
+has been completed.
+ 9. ASC 606 requires entities to take the following steps to assess whether and what
+revenue should be recognized: (1) identify the contract with a customer; (2) identify the
+performance obligations in the contract; (3) determine the transaction price; (4) allocate the
+transaction price to the corresponding performance obligation(s); and (5) recognize revenue when
+or as the entity satisfies a performance obligation by transferring control of a promised good or
+service to a customer.
+ 10. Consistent with this, Pareteum disclosed in its 2018 Form 10-K that starting on
+January 1, 2018, Pareteum was reporting revenue in accordance with ASC 606 which, Pareteum
+stated, “requires entities to recognize revenue when control of the promised goods or services is
+transferred to customers at an amount that reflects the consideration to which the entity expects to
+be entitled in exchange for those goods or services.”
+ Pareteum’s Improper Revenue Recognition Practices Based on
+ Non-Binding Purchase Orders
+ 11. Despite disclosing that ASC 606 would be followed, Pareteum recognized revenue
+without confirming whether the criteria of ASC 606 had been fully
+
+===== AAER-4264 | released Oct. 15, 2021 | respondent(s): Amyris, Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 93341 / October 15, 2021
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4264 / October 15, 2021
+ADMINISTRATIVE PROCEEDING
+File No. 3-20624
+ ORDER INSTITUTING CEASE-AND-
+ In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 21C OF THE SECURITIES
+ AMYRIS, INC., EXCHANGE ACT OF 1934, MAKING
+ FINDINGS, AND IMPOSING A CEASE-
+ Respondent. AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), against Amyris, Inc. (“Amyris” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+And-Desist Proceedings Pursuant To Section 21C Of The Securities Exchange Act Of 1934,
+Making Findings, And Imposing A Cease-And-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds 1 that:
+ Summary
+ 1. During the first two quarters of 2018, Amyris improperly recognized certain royalty
+revenues that rendered its financial statements materially inaccurate. These revenue recognition
+errors resulted from internal accounting control failures that led to important information not being
+communicated to the company’s internal accounting staff concerning certain significant royalty
+payments, which also resulted in Amyris’s failure to make and keep accurate books and records.
+ 2. Amyris failed to devise internal accounting controls to provide reasonable
+assurance that relevant information was communicated to its accounting staff so that transactions,
+including the estimation of royalty revenue could be recorded in accordance with U.S. generally
+accepted accounting principles (“GAAP”). Amyris also lacked sufficient resources within its
+finance and accounting function to provide reasonable assurance that the company properly
+applied GAAP to its royalty revenue transactions.
+ 3. As a consequence of Amyris’s control insufficiencies, it overstated its royalty
+revenues in the first two quarters of 2018, rendering the company’s financial statements materially
+inaccurate and leading to the Company’s restatement of its quarterly revenue results for the first
+three quarters of 2018. As a result of this conduct, Amyris violated Sections 13(a), 13(b)(2)(A), and
+13(b)(2)(B) of the Exchange Act and Rules 13a-11 and 13a-13 thereunder.
+ Respondent
+ 4. Amyris is a Delaware corporation with its principal place of business in
+Emeryville, California. It researches and develops chemical products. At all relevant times,
+Amyris’s stock was registered with the Commission pursuant to Section 12(b) of the Securities
+Exchange Act of 1934 and traded on the NASDAQ Global Select Market under the ticker
+“AMRS.”
+ Background
+ 5. In April 2016, Amyris entered into a contract with Company A to supply it with
+farnesene, a chemical compound that Amyris had developed. Company A intended to use this
+farnesene to create and sell Vitamin E products. The contract between Amyris and Company A
+included a “value sharing” component, whereby Company A would remit a portion of the sales of
+its Vitamin E products to Amyris as royalties, so long as the sales price for these products
+exceeded certain specified price floors.
+ 6. About eighteen months later, in December 2017, Amyris entered into an agreement
+with Company B, under which Amyris, among other things, transferred its farnesene-
+1 The findings herein are made pursuant to Respondent’s Offer of Settlement and are not
+ binding on any other person or entity in this or any other proceeding.
+ 2
+manufacturing capabilities to Company B and entered into a license agreement with Company B to
+create farnesene using Amyris’s intellectual property. Under this agreement, Amyris entered into a
+value sharing arrangement with Company B and assigned to Company B Amyris’s rights under the
+farnesene supply agreement with Company A. As a result, after December 2017, Company A was
+contractually obligated to send its Vitamin E royalty payments to Company B, and Company B
+was in turn contractually obligated to send those payments to Amyris.
+ 7. At all relevant times, in its Forms 10-Q filed with the Commission, Amyris
+represented that the financial statements included in those forms were prepared in accordance with
+GAAP. Under Accounting Standards Codification 606-10-55-65 (“ASC 606”) sales-based
+royalties promised in exchange for a license to intellectual property, such as the value sharing
+payments described above, are considered variable consideration and should only be recognized to
+the extent it is probable a significant reversal of cumulative revenue recognized will not occur
+when the uncertainty associated with the variable consideration is subsequently resolved, as
+specified in Accounting Standards Codification 606-10-32-11 through 32-14.
+ 8. Amyris reported material weaknesses in its internal control over financial reporting,
+applicable to its fiscal year 2018, in its Form 10-K that was filed with the Commission on October
+1, 2019. These weaknesses were based upon, among other things, a lack of processes sufficient to
+provide reasonable assurance that relevant and reliable information was communicated timely to
+the company’s accounting staff, and a lack of sufficient resources within its finance and accounting
+function to provide reasonable assurance regarding the proper application of GAAP to its royalty
+revenue transactions.
+ Amyris Improperly Recognized Certain Royalty Revenues Because it Failed to Share
+ Important Information with its Accounting Staff
+ 9. After Amyris’s first fiscal quarter of 2018 ended on March 31, 2018, Amyris’s
+accounting staff began estimating its royalty revenues for the quarter under the value sharing
+arrangement described above. Using a combination of information provided by Company A
+regarding its sales of Vitamin E products and publicly-available market pricing data for Vitamin E,
+Amyris’s accounting staff eventually estimated Amyris would receive royalty revenues of $11.4
+million.
+ 10. On or about April 13, 2018, Company A told an Amyris employee responsible for
+Amyris’s relationship with Company A that it calculated the first-quarter value sharing payment at
+about $8 million, which was significantly below Amyris’s estimate of $11.4 million. The Amyris
+employee shared this information with Amyri
+
+===== AAER-4268 | released Nov. 22, 2021 | respondent(s): ProPetro Holding Corp. and Dale Redman =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 11008 / November 22, 2021
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 93645 / November 22, 2021
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4268 / November 22, 2021
+ADMINISTRATIVE PROCEEDING
+File No. 3-20661
+ In the Matter of ORDER INSTITUTING CEASE-AND-
+ DESIST PROCEEDINGS PURSUANT TO
+ ProPetro Holding Corp. SECTION 8A OF THE SECURITIES ACT
+ and Dale Redman, OF 1933 AND SECTION 21C OF THE
+ SECURITIES EXCHANGE ACT OF 1934,
+ Respondents. MAKING FINDINGS AND IMPOSING A
+ CEASE-AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate and in the
+public interest that public cease-and-desist proceedings be, and hereby are, instituted pursuant to
+Section 8A of the Securities Act of 1933 (“Securities Act”) and Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”) against ProPetro Holding Corp. (“ProPetro”) and Dale
+Redman (“Redman”) (collectively, “Respondents”).
+ II.
+ In anticipation of the institution of these proceedings, Respondents have submitted Offers of
+Settlement (the “Offers”) which the Commission has determined to accept. Solely for the purpose
+of these proceedings and any other proceedings brought by or on behalf of the Commission, or to
+which the Commission is a party, and without admitting or denying the findings herein, except as to
+the Commission’s jurisdiction over them and the subject matter of these proceedings, which are
+admitted, and except as provided herein in Section V, Respondents consent to the entry of this Order
+Instituting Cease-and-Desist Proceedings pursuant to Section 8A of the Securities Act of 1933 and
+Section 21C of the Securities Exchange Act of 1934, Making Findings and Imposing a Cease-and-
+Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondents’ Offers, the Commission finds1 that
+ Summary
+ 1. These proceedings arise from: (a) ProPetro’s failure to disclose certain perquisites and
+stock pledges concerning its co-founder and former CEO Dale Redman in its definitive proxy
+statements and annual reports for the fiscal years ended December 31, 2017 and 2018; and (b)
+Redman’s role in ProPetro’s failure to disclose the perquisites paid to him and his pledges of ProPetro
+stock while he was CEO and a member of ProPetro’s Board of Directors.
+ 2. From January 2017 to December 2018, Redman: (a) caused ProPetro to incur
+approximately $252,896 in charges relating to travel on his personal aircraft for trips that were not
+directly related to the performance of his duties as CEO; (b) used ProPetro credit cards to charge
+$127,698 of personal expenses; and (c) pledged all of his personal stock in ProPetro in two real estate
+transactions in violation of the company’s shareholder agreement and insider trading policy. During
+the same period, ProPetro failed to properly disclose $47,591 in additional perquisites for Redman
+that were authorized and paid for directly by the company.
+ 3. From January 2017 to January 2019, Redman failed to provide information required
+by ProPetro policies to enable ProPetro to adequately disclose these perquisites and stock pledges. As
+a result, ProPetro made material misstatements regarding executive perquisites and stock ownership
+in its annual reports, definitive proxy statements, and a registration statement. Additionally,
+ProPetro’s deficient internal accounting controls resulted in the company’s failure to accurately
+record Redman’s perquisites in its books and records.
+ 4. As a result of the conduct described herein, ProPetro violated Sections 13(a),
+13(b)(2)(A), 13(b)(2)(B), and 14(a) of the Exchange Act and Rules 12b-20, 13a-1, 14a-3, and 14a-9
+thereunder. Redman violated Section 17(a)(3) of the Securities Act and Section 14(a) of the
+Exchange Act and Rules 13b2-1, 14a-3, and 14a-9 thereunder and caused ProPetro’s violations of
+Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 12b-20 and 13a-1
+thereunder.
+ Respondents
+ 5. ProPetro Holding Corp., a Delaware corporation headquartered in Midland, Texas, is
+an oilfield services company. ProPetro was founded as a private entity in September 2005 by former
+CEO Redman and another individual. Beginning in March 2017, ProPetro’s common stock became
+registered with the Commission pursuant to Section 12(b) of the Exchange Act and began trading
+on the New York Stock Exchange under the ticker PUMP.
+ 6. Dale Redman, age 60, is a resident of Midland, Texas. Redman co-founded ProPetro
+in September 2005 and became CEO in August 2006, a position he held until he resigned on March
+1
+ The findings herein are made pursuant to Respondents’ Offers of Settlement and are not binding on any other
+person or entity in this or any other proceeding.
+ 2
+13, 2020. Redman was a member of ProPetro’s Board of Directors from September 2005 until his
+resignation in March 2020.
+ Background on Perquisite Disclosures
+ 7. Section 14(a) of the Exchange Act makes it unlawful to solicit any proxy in respect of
+any security (other than an exempted security) registered pursuant to Section 12 of the Exchange Act
+in contravention of such rules and regulations as the Commission may prescribe. Rule 14a-3 prohibits
+the solicitation of a proxy without furnishing information specified by Schedule 14A, including
+executive compensation pursuant to Item 402 of Regulation S-K. Rule 14a-9 prohibits the use of
+proxy statements containing any statement that is false or misleading with respect to any material fact,
+or omitting to state any material fact necessary in order to make the statements therein not false or
+misleading. Misstatements and omissions are material under Rule 14a-9 if they would alter the “total
+mix of information” considered by a shareholder in making a voting decision. TSC Indus., Inc. v.
+Northway, Inc., 426 U.S. 438, 449 (1976).
+ 8. Item 402 of Regulation S-K requires disclosure of the total value of all perquisites and
+other personal benefits provided to named executive officers who receive at least $10,000 worth of
+such items in a given year. Item 402 of Regulation S-K also requires identification of all perquisites
+and personal benefits by type, and quantification of any perquisite or personal benefit that exceeds
+the greater of $25,000 or 10% of total perquisites.
+ 9. Item 403 of Regulation S-K requires disclosure of the security ownership of certain
+beneficial owners and management. Item 403(b) details the categories of information required for
+each class of equities offered by the registrant that must be furnished in substantially tabular form to
+reflect the equity ownership of all directors and nominees and each named executive officer. Item
+403(b) directs issuers to disclose, by footnote or otherwise, the number of shares beneficially owned
+that are pledged as security. A negative pledge is subject to this disclosure.
+ ProPetro’s Undisclosed Perquisites Related to
+ Redman’s U
+
+===== AAER-4275 | released Dec. 13, 2021 | respondent(s): WEX Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 93753 / December 13, 2021
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4275 / December 13, 2021
+ADMINISTRATIVE PROCEEDING
+File No. 3-20676
+In the Matter of ORDER INSTITUTING CEASE-AND-
+ DESIST PROCEEDINGS PURSUANT TO
+ WEX Inc., SECTION 21C OF THE SECURITIES
+ EXCHANGE ACT OF 1934, MAKING
+Respondent. FINDINGS, AND IMPOSING A CEASE-
+ AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), against WEX Inc. (“WEX” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ Summary
+ 1. WEX, a Maine-based reporting company that describes itself as a financial
+technology service provider, failed properly to devise and maintain a sufficient system of internal
+accounting controls at its Brazilian subsidiary, UNIK S.A. (“WEX Brazil”). The correction of
+accounting errors at the subsidiary resulted in WEX’s net income under U.S. Generally Accepted
+Accounting Principles (“GAAP”) being reduced by 61.2% in its fiscal year 2016. In 2016 and
+2017, in connection with certain accounting errors at the subsidiary, WEX’s independent auditor
+found significant deficiencies in WEX Brazil’s Internal Control Over Financial Reporting
+(“ICFR”). Additional accounting issues at WEX Brazil came to light during the close of WEX’s
+2018 fiscal year. There were errors in WEX Brazil’s financial statements back to fiscal year 2013
+totaling approximately $85.5 million, mostly relating to the overstatement of unbilled receivables.
+This amount included about $8 million in suspected theft or unauthorized transactions by former
+WEX Brazil employees. These accounting errors were the result of WEX’s insufficient internal
+accounting controls.
+ 2. As a result of the conduct detailed herein, WEX violated Sections 13(a),
+13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 13a-1, 13a-11 and 13a-13 thereunder.
+ Respondent
+ 3. WEX Inc. is a Delaware corporation with its principal place of business in
+Portland, Maine. WEX’s common stock is registered with the Commission pursuant to Section
+12(b) of the Exchange Act. WEX’s common stock trades on the New York Stock Exchange
+(“NYSE”) and it has been an SEC reporting company since 2005.
+ Facts
+ WEX’s Business and Brazilian Subsidiary
+ 5. WEX describes itself as a company that provides corporate payment solutions
+relating to commercial and government vehicle fleets, corporate travel, health care and employee
+benefits. For example, WEX’s largest business segment is the Fleet Solutions business, which
+issues the WEX Fleet credit card to customers who maintain fleets of vehicles. The customers’
+employees can use the card to buy fuel for the vehicles when needed. WEX derives revenue by
+collecting payment processing fees from the fuel providers for purchases, in addition to account
+servicing and finance fees. WEX’s annual revenue exceeded $1 billion and total assets exceeded
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding on any other
+person or entity in this or any other proceeding.
+ 2
+$5 billion from fiscal year 2016 through 2018. In addition to the company’s U.S. operations, WEX
+has several wholly-owned international operations, including, until recently, WEX Brazil.
+ 6. WEX acquired a 51 percent controlling interest in a Brazilian company, Unik S.A.,
+which became WEX Brazil in August 2012. WEX acquired the remaining 49 percent in August
+2015. WEX Brazil had a Fleet Solutions business, but its major source of revenue was a salary
+advance business. Under the salary advance program, WEX Brazil issued payroll debit cards
+whereby customer employees could withdraw an advance payment of their salary and pay back the
+amount plus fees in monthly installments. WEX sold WEX Brazil in September 2020.
+ 2016 Significant Deficiencies at WEX Brazil
+ 7. Since before the acquisition of WEX Brazil in 2012, WEX Brazil had been using
+accounts receivable (money owed to WEX Brazil by customers) in the salary advance program as
+security to obtain loans (also known as “collateralizing”) under a debt agreement with a third party.
+Under GAAP, accounts receivable would typically be treated by a company as a current asset of
+the company because it is money owed to the company by others. WEX Brazil had previously
+incorrectly recorded the debt arrangement in its accounting system as a credit to accounts
+receivable (i.e. a reduction in accounts receivable). WEX’s independent auditor determined in
+2016 that the debt transaction did not constitute a sale of accounts receivable, and therefore, under
+U.S. GAAP, the debt arrangement should not have been recorded in WEX Brazil’s accounting
+system as a credit to accounts receivable. Instead, the debt arrangement should have been recorded
+as Other Debt, which included amounts related to credit facilities and accounts receivable loan
+arrangements. To correct this error in accounting treatment, WEX recorded in its accounting
+books and records and reported in its financial statements, an adjustment of $17.9 million, to
+record the amount within Other Debt on WEX’s balance sheet and an offsetting increase to
+accounts receivable.
+ 8. WEX Brazil had made the accounting error related to the collateralized accounts
+receivable because the WEX Brazil employees lacked knowledge of U.S. GAAP accounting
+guidance for the debt structure. Personnel at WEX headquarters had not identified the error
+because local management in Brazil did not disclose the secured debt arrangement to personnel in
+WEX’s U.S. headquarters.
+ 9. As part of its 2016 year end audit, WEX’s independent auditor identified
+significant deficiencies in ICFR relating to the the way the collateralized debt at WEX Brazil was
+recorded in WEX Brazil’s accounting system. The independent auditor reported to the WEX Audit
+Committee that neither WEX Brazil’s account reconciliations controls nor WEX headquarters’
+monitoring and oversight controls appropriately identified the audit adjustment.
+ 10. WEX t
+
+===== AAER-4277 | released Dec. 15, 2021 | respondent(s): Sequential Brands Group, Inc. =====
+ Sequential Brands Group, Inc. (Release No. LR-25289; Dec. 15, 2021) --> SEC Obtains Final Judgment Against Sequential Brands Group, Inc. for Failing to Timely Impair Goodwill Litigation Release No. 25289 / December 15, 2021 Accounting and Auditing Enforcement Release No. 4277 / December 15, 2021 Securities and Exchange Commission v. Sequential Brands Group, Inc. , Case No. 20-CV-10471 (JPO) (SDNY filed Dec. 11, 2020) The Securities and Exchange Commission today announced that Sequential Brands Group, Inc., agreed to the entry of a final judgment permanently enjoining Sequential from future violations of the antifraud provision of Section 17(a)(3) of the Securities Act of 1933 and certain reporting, books and records, and internal control provisions under the Securities Exchange Act of 1934. The U.S. District Court for the Southern District of New York entered the final judgment against Sequential on December 1, 2021. The SEC's complaint alleged that Sequential failed to properly assess its goodwill for potential impairment after several months of declining stock prices followed by a precipitous drop in early November 2016. According to the complaint, in December 2016, shortly after Sequential passed its annual goodwill testing, the company conducted internal calculations showing that, in light of the declining stock price, Sequential would fail the first step of its disclosed two-step impairment test. The complaint alleged that the company ignored this objective evidence of impairment. Instead, the complaint alleges, Sequential performed a qualitative analysis that omitted any mention of its internal calculations, as well as numerous other negative developments in the company's business, leading it to unreasonably conclude that goodwill was not impaired. As alleged, by avoiding an impairment to its goodwill in 2016, Sequential inflated its income from operations, created a false impression of its financial condition, and misstated its financial statements and reports for almost a year. Sequential allegedly continued to improperly account for goodwill in the next three quarters, before belatedly impairing all of its goodwill-totaling $304 million-in the fourth quarter of 2017. Without admitting or denying the allegations of the complaint, Sequential agreed to be permanently enjoined from violating the antifraud provision of Section 17(a)(3) of the Securities Act; the reporting provisions of Exchange Act Section 13(a) and Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder; the books and records provision of Exchange Act Section 13(b)(2)(A); and the internal control provisions of Exchange Act Section 13(b)(2)(B). In light of Sequential's financial condition as set forth in filings before the bankruptcy court in the case Sequential Brands Group, Inc., et al., Chapter 11, Case No. 21-11194 (JTD) pending in the U.S. Bankruptcy Court District of Delaware, the final judgment does not impose a monetary penalty. The SEC's litigation was conducted by Christopher M. Bruckmann and John Bowers, and supervised by Frederick Block. The SEC's investigation was conducted by Ellen Bortz, Richard Johnston, and Paul Gunson, under the supervision of Paul Pashkoff, Jennifer Leete, and Melissa Hodgman. SEC Complaint --> 

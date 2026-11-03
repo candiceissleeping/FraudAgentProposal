@@ -1,0 +1,1014 @@
+===== AAER-3932 | released March 27, 2018 | respondent(s): Maxwell Technologies, Inc., et al. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 10472/ March 27, 2018
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 82950/ March 27, 2018
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3932/ March 27, 2018
+ADMINISTRATIVE PROCEEDING
+File No. 3-18408
+ ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 8A OF THE SECURITIES ACT
+MAXWELL TECHNOLOGIES, OF 1933 AND SECTION 21C OF THE
+INC., VAN M. ANDREWS, DAVID SECURITIES EXCHANGE ACT OF 1934,
+J. SCHRAMM, AND JAMES W. MAKING FINDINGS, AND IMPOSING
+DeWITT, Jr., CPA, REMEDIAL SANCTIONS AND A CEASE-
+ AND-DESIST ORDER (“ORDER”)
+Respondents.
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act
+of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 1934 (“Exchange
+Act”) against Maxwell Technologies, Inc. (“Maxwell”) and Van Andrews (“Andrews”) and
+pursuant to Section 21C of the Exchange Act against David Schramm (“Schramm”) and James
+DeWitt, CPA (“DeWitt”), (collectively “Respondents”).
+ II.
+ In anticipation of the institution of these proceedings, Respondents have submitted Offers
+of Settlement (the “Offers”) that the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the
+findings herein, except as to the Commission’s jurisdiction over them and the subject matter of
+these proceedings, which are admitted, Respondents consent to the entry of this Order, as set
+forth below.
+ III.
+ On the basis of this Order and Respondents’ Offers, the Commission finds1 that:
+ SUMMARY
+ 1. From December 2011 through January 2013, Maxwell, a California-based company
+that develops, manufactures, and markets energy storage and power delivery products, engaged in
+an accounting fraud scheme that improperly recognized over $19 million in revenue from future
+quarters in violation of U.S. Generally Accepted Accounting Principles (“GAAP”). Maxwell, an
+SEC recidivist, issued materially false and misleading statements about its revenue, revenue
+growth, and gross margins, and inflated its reported financial results to better meet analysts’
+expectations. Maxwell did not have sufficient internal accounting controls to identify and properly
+account for its revenue throughout the relevant period.
+ 2. Maxwell’s primary source of revenue growth during the relevant period was
+expected to come from ultracapacitors, essentially small energy storage and power delivery
+products used in automotive, heavy transportation, renewable energy, backup power, wireless
+communications and industrial and consumer electronics applications. Maxwell’s ultracapacitor
+revenue growth was material to analysts and investors and was highlighted in all press releases and
+earnings calls.
+ 3. Maxwell, through Andrews, a former Senior Vice President of Sales and Maxwell
+officer, prematurely recorded ultracapacitor revenue as a result of his conduct and the failures of
+the company’s finance and accounting department controls. Maxwell, through Andrews, used
+several improper tactics to prematurely record revenue, including: customer side deals with
+contingent payment terms and full right of return; channel stuffing; extending payment terms;
+falsifying purchase orders (“POs”) and third-party confirmations; and by instructing certain
+distributors to order product they neither wanted nor needed at quarter-end. The fraud created the
+misperception that Maxwell’s ultracapacitor growth was far more successful than reality.
+ 4. Maxwell’s finance and accounting department, including then-controller DeWitt,
+repeatedly overrode and ignored automated controls and missed red flags that should have
+alerted them to material revenue recognition departures. Although Andrews and his sales
+department took steps to hide the side deals from Maxwell’s senior financial personnel, the
+1
+ The findings herein are made pursuant to Respondents’ Offers of Settlement and are not binding on any
+other person or entity in this or any other proceeding.
+ 2
+repeated override of automated controls allowed the sales to continue each quarter. Then-Chief
+Executive Officer (“CEO”) Schramm and Maxwell’s senior financial personnel knew that the
+sales took place the last days of each quarter, that certain sales were beyond approved credit
+limits and contained extended payment terms for up to 180 days, and that certain prior sales
+receivables were significantly past due. Maxwell ultimately recorded the revenue despite the
+fact that it should have known the sales terms were not fixed and determinable as required by
+GAAP for revenue recognition. Schramm also overrode automated credit limit controls to
+authorize large sales to distributors at quarter-end that he should have known those distributors
+neither wanted nor needed.
+ 5. On or about January 9, 2013, Maxwell initiated an internal investigation after its
+audit committee received a detailed internal whistleblower letter describing the revenue
+recognition fraud. As a result of that investigation, on March 7, 2013, Maxwell announced that its
+previously issued financial statements on Form 10-K for 2011 and all quarterly reports on Forms
+10-Q in 2011 and 2012 could not be relied upon. Maxwell also disclosed material weaknesses in
+its internal control over financial reporting due to “errors” it discovered in the “timing of
+recognition of revenue from sales to certain distributors.” Maxwell’s stock price declined 11.09%,
+closing at $8.10 per share on March 8, 2013. Soon thereafter, on March 18, 2013, Maxwell’s
+external auditor resigned after concluding it could not rely on representations made by senior
+financial personnel. After the external auditor’s resignation, Maxwell’s stock price declined an
+additional 20.57%, closing at $5.91 per share on the news.
+ 6. On August 1, 2013, Maxwell filed a restatement of the 2011 Form 10-K and Forms
+10-Q for the first three quarters of 2012 that reduced revenue by 6.4% and 7.5% respectively. The
+restatement also turned net income gains into net losses for fiscal year-end 2011 and certain
+quarters in 2012.
+ 7. As a result of the conduct described herein, Maxwell violated the antifraud
+provisions of Exchange Act Section 10(b) and Rules 10b-5(a) and 10b-5(c) thereunder, and
+Securities Act Section 17(a), the reporting provisions of Exchange Act Section 13(a) and Rules
+12b-20, 13a-1, 13a-11, and 13a-13 thereunder, the books and records provisions of Exchange Act
+Section 13(b)(2)(A), and the internal accounting control provisions of Section 13(b)(2)(B).
+ 8. As a result of the conduct described herein, Andrews violated the antifraud
+provisions of Securities Exchange Act Section 10(b) and Rules 10b-5(a) and 10b-5(c) thereunder,
+and Securities Act Se
+
+===== AAER-3937 | released April 24, 2018 | respondent(s): Altaba Inc. and f/d/b/a Yahoo! Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 10485 / April 24, 2018
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 83096 / April 24, 2018
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3937 / April 24, 2018
+ADMINISTRATIVE PROCEEDING
+File No. 3-18448
+ ORDER INSTITUTING CEASE-AND-
+ In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 8A OF THE SECURITIES ACT
+ ALTABA INC., f/d/b/a OF 1933 AND SECTION 21C OF THE
+ YAHOO! INC., SECURITIES EXCHANGE ACT OF 1934,
+ MAKING FINDINGS, AND IMPOSING A
+ Respondent. CEASE-AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act
+of 1933 (the “Securities Act”) and Section 21C of the Securities Exchange Act of 1934 (“Exchange
+Act”), against Altaba Inc., f/d/b/a Yahoo! Inc. (“Yahoo” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 8A of the Securities Act of 1933 and Section 21C of
+the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order
+(“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ SUMMARY
+ 1. This matter concerns material misstatements and omissions by Yahoo, one of the
+world’s largest Internet media companies, regarding a 2014 data breach affecting more than 500
+million of its user accounts. In late 2014, Yahoo learned of a massive breach of its user database
+that resulted in the theft, unauthorized access, and acquisition of hundreds of millions of its users’
+data, including usernames, birthdates, and telephone numbers. At that time, the breach was the
+largest known theft of user data.
+ 2. Despite its knowledge of the 2014 data breach, Yahoo did not disclose the data
+breach in its public filings for nearly two years. To the contrary, Yahoo’s risk factor disclosures in
+its annual and quarterly reports from 2014 through 2016 were materially misleading in that they
+claimed the company only faced the risk of potential future data breaches that might expose the
+company to loss of its users’ personal information stored in its information systems, as well as
+potential future litigation, remediation, increased costs for security measures, loss of revenue,
+damage to its reputation, and liability, without disclosing that a massive data breach had in fact
+already occurred. Yahoo management’s discussion and analysis of financial condition and results
+of operations (“MD&A”) in those reports was also misleading to the extent it omitted known
+trends or uncertainties with regard to liquidity or net revenue presented by the 2014 data breach.
+ 3. Yahoo’s disclosure violations continued in connection with a proposed sale of its
+operating business to Verizon Communications, Inc. (“Verizon”) in July 2016. Although Yahoo
+was aware of additional evidence in the first half of 2016 indicating that its user database had been
+stolen, Yahoo made affirmative representations denying the existence of any significant data
+breaches in a July 23, 2016 stock purchase agreement with Verizon, by which Verizon was to
+acquire Yahoo’s operating business for $4.825 billion. The stock purchase agreement was attached
+to a Form 8-K filed with the Commission on July 25, 2016.
+ 4. In September 2016, Yahoo disclosed the 2014 data breach in a press release filed as
+an attachment to a Form 8-K and also disclosed the 2014 data breach to Verizon. The day after
+Yahoo publicly disclosed the breach, Yahoo’s market capitalization fell nearly $1.3 billion by
+virtue of a 3% decrease in its stock price. After Yahoo disclosed the 2014 data breach, Verizon
+renegotiated the stock purchase agreement to reduce the price paid for Yahoo’s operating business
+by $350 million, representing a 7.25% reduction in price.
+ 5. Based on the foregoing conduct, and the conduct described herein below, Yahoo
+violated Sections 17(a)(2) and 17(a)(3) of the Securities Act and Section 13(a) of the Exchange Act
+and Rules 12b-20, 13a-1, 13a-11, 13a-13, and 13a-15 thereunder.
+1
+ The findings herein are made pursuant to Respondent’s Offer and are not binding on any
+other person or entity in this or any other proceeding.
+ 2
+ RESPONDENT
+ 6. At all relevant times, Yahoo was a publicly traded Internet media company
+incorporated in Delaware with its principal place of business in Sunnyvale, California. Prior to
+June 16, 2017, Yahoo’s stock was registered with the Commission pursuant to Section 12(b) of the
+Exchange Act, and, at all relevant times, Yahoo was required to file reports with the Commission
+pursuant to Section 13 of the Exchange Act. Until June 19, 2017, Yahoo traded on the NASDAQ
+Global Select Market under the ticker “YHOO.” In connection with the sale of its operating
+business to Verizon, Yahoo changed its name to “Altaba Inc.” on June 16, 2017 and continued to
+have its common stock registered under Section 12(b) of the Exchange Act, but as a publicly
+traded non-diversified, closed-end management investment company incorporated in Delaware
+with its principal place of business in New York, New York. As of June 19, 2017, Altaba Inc. has
+traded on the NASDAQ Global Select Market under the ticker symbol “AABA.”
+ OTHER RELEVANT ENTITY
+ 7. Verizon is a publicly traded telecommunications company incorporated in
+Delaware with its principal place of business in New York, New York. Verizon’s stock is
+registered with the Commission pursuant to Section 12(b) of the Exchange Act and is traded on the
+New York Stock Exchange and the NASDAQ Global Select Market under the ticker “VZ.”
+Verizon acquired Yahoo’s operating business on June 13, 2017 pursuant to a July 23, 2016 stock
+purchase agreement and reorganization agreement, and February 20, 2017 amendments to those
+agreements, executed by and between Verizon, Yahoo, and Yahoo Holdings, Inc. (“Yahoo
+Holdings”), a wholly-owned subsidiary of Yahoo.
+ FACTS
+ Yahoo’s Disclosures Regarding Data Breaches
+ 8. At all relevant times, Yahoo was one of the world’s largest Internet media
+companies, providing over a billion users worldwide with an array of products and services,
+including Internet searching capabilities, communications services, including Internet-based email,
+and digital content products, such as Yahoo News and Yahoo Finance. Yahoo’s products and
+services involved the storage and transmission 
+
+===== AAER-3946 | released July 2, 2018 | respondent(s): KBR, Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 10516 / July 2, 2018
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 83578 / July 2, 2018
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3946 / July 2, 2018
+ADMINISTRATIVE PROCEEDING
+File No. 3-18569
+ ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 8A OF THE SECURITIES ACT
+ KBR, Inc. OF 1933 AND SECTION 21C OF THE
+ SECURITIES EXCHANGE ACT OF 1934,
+Respondent. MAKING FINDINGS, AND IMPOSING A
+ CEASE-AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act
+of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 1934 (“Exchange
+Act”), against KBR, Inc. (“KBR” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the
+findings herein, except as to the Commission’s jurisdiction over Respondent and the subject
+matter of these proceedings, which are admitted, Respondent consents to the entry of this Order
+Instituting Cease-And-Desist Proceedings Pursuant to Section 8A of the Securities Act of 1933 and
+Section 21C of the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-
+And-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds that:
+ Summary
+ 1. KBR is a global engineering, construction, and services company based in Houston,
+Texas. On May 30, 2014, KBR filed a Form 10-K/A that: (a) restated and amended earnings in its
+consolidated financial statements for the fiscal year ended December, 31, 2013, and its unaudited
+consolidated financial statements for the third quarter of 2013; (b) reduced its disclosed backlog as
+of the fiscal year ended December 31, 2013; and (c) identified a material weakness in its internal
+control over financial reporting.
+ 2. The restated earnings, which resulted in charges of $156 million, primarily arose
+from failures in KBR’s Canada business (“KBR Canada”) to make accurate and reliable estimates
+of the costs to complete seven pipe fabrication and modular assembly contracts in Canada. KBR
+Canada experienced rapid growth in 2012 and 2013, and it did not have sufficient resources or
+sufficiently trained project managers, project controls personnel, and accounting and executive
+management professionals to perform cost estimates and project oversight reviews. KBR’s
+internal accounting controls were not properly designed to identify or prevent the errors in the
+estimates of the costs to complete the company used to recognize revenue on these contracts.
+ 3. The reduction in backlog relates to one of the seven contracts, a multi-year, multi-
+use agreement with a Canadian energy company (the “MUA contract”). In the second quarter of
+2012, KBR included $459 million in its disclosed backlog for the MUA contract, despite the fact
+that KBR had yet to receive, and the Canadian energy company was not obligated to provide, KBR
+any orders under the contract. The backlog recording remained in place during the next six
+quarters, including after it became clear that KBR was receiving far fewer work authorizations
+under the contract than anticipated. KBR’s disclosed backlog for the MUA contract was not
+consistent with its disclosures, which attributed all of KBR’s backlog to “firm orders.” As a result,
+KBR overstated the amount of its backlog in reports filed with the Commission.
+ Respondent
+ 4. KBR, Inc. is a Delaware company headquartered in Houston, Texas. KBR’s
+common stock is registered with the Commission pursuant to Section 12(b) of the Exchange Act,
+and its stock trades on the New York Stock Exchange under the symbol KBR. KBR files periodic
+reports, including Forms 10-K and 10-Q, with the Commission pursuant to Section 13(a) of the
+Exchange Act and related rules thereunder.
+ 2
+ Facts
+ A. KBR’s Restatement
+ 5. On May 30, 2014, KBR filed a Form 10-K/A (the “Restatement”) restating
+earnings in its consolidated financial statements for the fiscal year ended December 31, 2013, and
+amending its unaudited consolidated financial statements for the third quarter of 2013.
+ 6. KBR determined that a restatement was necessary due to additional estimated costs
+to complete seven Canadian pipe fabrication and modular assembly contracts in its Services
+business. According to the Restatement, the additional projected costs to complete the Canadian
+projects resulted in charges of $156 million in 2013, consisting of the reversal of $24 million in
+previously recognized pre-tax profits, the recognition of approximately $97 million in pre-tax
+losses at completion, and a $35 million reduction in previously recognized revenue. The $156
+million charge represented 91% of KBR’s 2013 net income (as restated). For the third quarter of
+2013, the impact of the Restatement was 32% of KBR’s nine-month net income and 480% of
+KBR’s three-month net income (as restated).
+ 7. As part of the Restatement, KBR also disclosed a reduction to a 2013 increase in
+backlog, which included a backlog reduction of approximately $360 million for the MUA
+contract. This reduction for the MUA contract represented the original $459 million backlog
+value for the MUA contract less currency adjustments and work off of orders received since the
+original recording.
+ 8. Following an investigation led by the Audit Committee, KBR concluded that a
+material weakness in internal control over financial reporting existed in the Canadian pipe
+fabrication and modular assembly business within its Services segment resulting from
+insufficiently trained personnel. It further determined that there was an ineffective control
+environment, because the culture at the Canadian pipe fabrication and modular assembly
+business facilitated delayed identification and communication of project concerns and the proper
+preparation of complete and accurate estimates.
+ B. KBR Canada’s Cost to Complete Estimates
+ 9. KBR Canada is headquartered in Edmonton, Alberta. During the relevant time
+period, KBR Canada primarily provided construction, turnaround and maintenance, and pipe
+fabrication and modular assembly services to energy industry customers.
+ 10. KBR Canada entered into the seven contracts at issue during 2012 and 2013, a
+period of rapid growth. The contracts called for KBR Canada to fabricate pipe and then assemble
+standing modules used in connection with oil and gas projects. The contracts were “unit-rate”
+contracts, which meant that payment to KBR was based on the actual quantity of work performed
+measured against a book of agreed u
+
+===== AAER-3947 | released July 2, 2018 | respondent(s): The Dow Chemical Company =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 83581 / July 2, 2018
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3947 / July 2, 2018
+ADMINISTRATIVE PROCEEDING
+File No. 3-18570
+ ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 21C OF THE SECURITIES
+ The Dow Chemical Company, EXCHANGE ACT OF 1934, MAKING
+ FINDINGS, AND IMPOSING A CEASE-
+Respondent. AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), against The Dow Chemical Company (“Dow” or
+“Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”), which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds that:
+ Summary
+ 1. From 2011 through 2015, and in proxy statements reporting on those years, Dow
+did not ensure that approximately $3 million in executive perquisites were adequately evaluated
+and disclosed as “other compensation” in the Compensation Discussion & Analysis (“CD&A”)
+section of the annual proxy statements. These authorized but undisclosed perquisites included
+personal use of the Dow aircraft and other expenses. Although Dow applied procedures regarding
+the evaluation and disclosure of its executives’ perquisites, Dow did not follow the Commission’s
+standard regarding disclosure of perquisites, which provides that:
+ • An item is not a perquisite or personal benefit if it is integrally and directly related to the
+ performance of the executive’s duties.
+ • Otherwise an item is a perquisite or personal benefit if it confers a direct or indirect benefit
+ that has a personal aspect without regard to whether it may be provided for some business
+ reason or for the convenience of the company, unless it is generally available on a non-
+ discriminatory basis to all employees.
+Instead, Dow incorrectly applied a standard whereby a business purpose related to the executive’s
+job was sufficient to determine that a benefit would not be a perquisite that required disclosure.
+The Commission considered, but ultimately decided not to adopt, a business purpose standard to
+determine whether a benefit provided to an executive should be disclosed as a perquisite. See
+Commission’s Executive Compensation and Related Person Disclosure Final Rule adopting
+release, Release Nos. 33-8732A; 34-54302A; IC-27444A; File No. S7-03-06 (August 29, 2006)
+(the “Adopting Release”).
+ Respondent
+ 2. Dow, a Delaware corporation based in Midland, Michigan, manufactures and
+supplies chemical products for use as raw materials in the manufacture of customer products and
+services worldwide. Dow’s stock was registered under Section 12(b) of the Exchange Act. Dow’s
+common stock traded on the New York Stock Exchange until August 31, 2017.
+ Background
+ 3. Section 14(a) of the Exchange Act makes it unlawful to solicit any proxy in respect
+of any security (other than an exempted security) registered pursuant to Section 12 of the Exchange
+Act in contravention of such rules and regulations as the Commission may prescribe. Rule 14a-3
+prohibits issuers with securities registered pursuant to Section 12 of the Exchange Act from
+soliciting proxies without furnishing proxy statements containing the information specified in
+Schedule 14A, including executive compensation disclosures pursuant to Item 402 of Regulation
+S-K. Item 402 of Regulation S-K requires disclosure of the total value of all perquisites and other
+personal benefits provided to named executive officers who receive at least $10,000 worth of such
+items in a given year. Item 402 of Regulation S-K also requires identification of all perquisites and
+personal benefits by type, and quantification of any perquisite or personal benefit that exceeds the
+greater of $25,000 or 10% of total perquisites.
+ 4. According to the Adopting Release, “an item is not a perquisite or personal
+benefit,” and does not need to be reported, “if it is integrally and directly related to the performance
+of the executive’s duties. Otherwise, an item is a perquisite or personal benefit if it confers a direct
+or indirect benefit that has a personal aspect, without regard to whether it may be provided for
+some business reason or for the convenience of the company, unless it is generally available on a
+non-discriminatory basis to all employees.” The Adopting Release also states that “the concept of
+a benefit that is ‘integrally and directly related’ to job performance is a narrow one,” which “draws
+a critical distinction between an item that a company provides because the executive needs it to do
+the job, making it integrally and directly related to the performance of duties, and an item provided
+for some other reason, even where that other reason can involve both company benefit and
+personal benefit.”
+ 5. According to the Adopting Release, even where the company “has determined that
+an expense is an ‘ordinary’ or ‘necessary’ business expense for tax or other purposes or that an
+expense is for the benefit or convenience of the company,” that determination “is not responsive to
+the inquiry as to whether the expense provides a perquisite or other personal benefit for disclosure
+purposes.” Indeed, “business purpose or convenience does not affect the characterization of an
+item as a perquisite or personal benefit where it is not integrally and directly related to the
+performance by the executive of his or her job.”
+ 6. Contrary to Item 402 of Regulation S-K and the Commission’s guidance in the
+Adopting Release, Dow applied a standard whereby a business purpose would be sufficient to
+determine that a benefit was not a perquisite that required disclosure. As a result, Dow did not
+satisfy the Commission’s regulations and guidance.
+ 7. Additionally, Dow did not adequately train employees in key roles, including those
+tasked with drafting the CD&A section of the proxy statement and compiling the executive
+compensation tables, to ensure that the proper standard was applied for perquisites disclosure.
+ 8. Dow also had inadequate processes and procedures to ensure proper reporting of
+perquisites. Dow personnel compiled the executive compensation table f
+
+===== AAER-3958 | released Aug. 16, 2018 | respondent(s): Citigroup Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+ SECURITIES EXCHANGE ACT OF 1934
+ Release No. 83858 / August 16, 2018
+ ACCOUNTING AND AUDITING ENFORCEMENT
+ Release No. 3958 / August 16, 2018
+ ADMINISTRATIVE PROCEEDING
+ File No. 3-18646
+ ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 21C OF THE SECURITIES
+ CITIGROUP INC., EXCHANGE ACT OF 1934, MAKING
+ FINDINGS, AND IMPOSING A CEASE-
+Respondent. AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+ and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+ Exchange Act of 1934 (“Exchange Act”), against Citigroup Inc. (“Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+ of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+ purpose of these proceedings and any other proceedings brought by or on behalf of the
+ Commission, or to which the Commission is a party, and without admitting or denying the findings
+ herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+ proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+ and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+ Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ Summary
+ These proceedings involve Citigroup Inc.’s (“Citigroup”) failure to devise and maintain a
+sufficient system of internal accounting controls concerning a wholly-owned subsidiary, the
+Mexican bank Grupo Financiero Banamex, S.A. de C.V. (“Banamex”), sufficient to provide
+reasonable assurances that Banamex’s transactions were recorded as necessary to permit the
+preparation of Citigroup’s financial statements in accordance with generally accepted accounting
+principles (“GAAP”) and to maintain accountability for assets. Over the period between 2008 and
+February of 2014, Banamex loaned billions of dollars on the basis of invoices and work estimates –
+also known as “accounts receivable factoring” in the banking industry – reflecting work performed
+for Petroleos Mexicanos, S.A. de C.V. (“Pemex”) by Oceanografia, S.A. (“OSA”), a Mexican
+marine services provider for the oil industry in the Gulf of Mexico. However, some of the factored
+documents received from OSA, amounting to about $400 million, were fraudulent and included
+forged signatures. Banamex had deficient internal accounting controls over its accounts receivable
+factoring program used by OSA, including lacking internal accounting controls necessary to test the
+authenticity of the factored documents prior to advancing funds to OSA and recording them as
+accounts receivable. Banamex also lacked internal accounting controls sufficient to identify and
+respond to red flags that arose during the relationship between Banamex and OSA potentially
+warning Banamex of the ongoing fraud. Instead, it was not until the Government of Mexico itself
+accused OSA of failing to post a satisfactory insurance bond and decided to temporarily cease doing
+new business with OSA in February of 2014, at a time when Banamex had approved funding of
+over $600 million dollars to OSA and was still advancing monies to OSA, that Citigroup discovered
+many of the work estimates were falsified. Banamex’s internal accounting controls surrounding the
+factoring program were not sufficient to allow the earlier detection of OSA’s fraud. As a result,
+Citigroup recorded nearly $475 million in expenses in its financial statements. In particular,
+Citigroup adjusted its fourth quarter and full year 2013 financial results downward by the then-
+estimated $360 million loss and recognized an additional loss of $113 million in 2014, when
+Citigroup had determined the full magnitude of the fraud.
+ Respondent
+ 1. Citigroup, a Delaware corporation headquartered in New York, New York, is a
+diversified global financial services holding company whose businesses provide a broad range of
+financial services to consumer and corporate customers. At all times pertinent to this Order,
+Citigroup’s securities were registered with the Commission pursuant to Section 12(b) of the
+Exchange Act, and its securities traded on the New York Stock Exchange under the symbol “C.”
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not
+ binding on any other person or entity in this or any other proceeding.
+ 2
+ Other Relevant Entity
+ 2. Banamex is a Mexican corporation and is a wholly-owned subsidiary of Citigroup.
+It was created in August of 2001, when Citigroup acquired Banamex’s predecessor entity Grupo
+Financiero Banamex-Accival. Banamex is a diversified financial services provider to a broad range
+of consumer and corporate customers, primarily in Mexico, and is the second largest bank in
+Mexico.
+ Facts
+Banamex’s Accounts Receivable Factoring Program
+ 3. From at least 2008 through February 2014 (the “Relevant Period”), Banamex
+offered accounts receivable factoring to certain customers. An accounts receivable factoring
+product normally involved a supplier of goods or services receiving advances from Banamex in
+exchange for the supplier assigning to Banamex all rights, including the right to receive payment,
+under the supplier’s invoices to buyers of its goods and services. Depending on the arrangement,
+either the supplier or the buyer of the goods and services was liable to remit payment to Banamex.
+ 4. Under an accounts receivable factoring program, Banamex typically “discounted” or
+“factored” the invoice by advancing to its customer an amount less than the face value of the
+factored invoice.
+ 5. Throughout the Relevant Period, the Banamex accounts receivable factoring
+facilities were provided in two of Citigroup’s banking divisions: (1) the Consumer and
+Commercial Bank (“CCB”) and (2) the Institutional Clients Group (“ICG”). Regardless of
+whether the facility was in CCB or ICG, Banamex had its own employees in Mexico that were
+responsible for implementing and monitoring Banamex’s accounts receivable factoring facility.
+All of ICG’s global accounts receivable factoring facilities, including those originating within
+Banamex, were part of the Treasury and Trade Services (“TTS”) business at Citigroup.
+ 6. Throughout the Relevant Period, OSA, a customer of Banamex, was a major oil
+field services provider in Mexico. Among other things, OSA, in operation since the 1960s,
+provided Pemex with construction, maintenance, and vessel-chartering services for oil exploration,
+extraction, and production in the Gulf of Mexico. OSA’s largest customer was the Mexican
+Government-owned and -operated oil company, Pemex.
+ 7. Throughout the Relevant Period, Pemex was a financially stable, large oil company
+with a high credit rating ass
+
+===== AAER-3978 | released Sept. 21, 2018 | respondent(s): Primoris Services Corporation =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 84251 / September 21, 2018
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3978 / September 21, 2018
+ADMINISTRATIVE PROCEEDING
+File No. 3-18816
+ ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 21C OF THE SECURITIES
+ Primoris Services Corporation EXCHANGE ACT OF 1934, MAKING
+ FINDINGS, AND IMPOSING
+Respondent. REMEDIAL SANCTIONS AND A
+ CEASE-AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that
+cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the
+Securities Exchange Act of 1934 (“Exchange Act”), against Primoris Services Corporation
+(“Primoris” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”), which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the
+findings herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting
+Cease-And-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934,
+Making Findings, and Imposing Remedial Sanctions and a Cease-and-Desist Order (“Order”), as
+set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ SUMMARY
+ 1. This proceeding concerns Primoris’s failure to (i) devise and maintain a sufficient
+system of internal accounting controls and (ii) adequately evaluate the effectiveness of its
+Internal Control over Financial Reporting (“ICFR”) as of year-end 2014. Due to these control
+failures, Primoris also failed to make and keep accurate books and records.
+ 2. At the end of 2014, Primoris learned that it had control deficiencies that affected
+its accounting for contingent cost estimates and subsequently discovered three related
+contingency accounting errors. In particular, Primoris did not have effective controls in place for
+contingency accounting, including, for example, controls related to policies and procedures
+describing how contingencies should be estimated at the outset of a project, adjusted during a
+project, or how those estimates and adjustments should be documented.
+ 3. This lack of effective controls led to contingency accounting errors on three long-
+term construction contracts in 2014 and caused Primoris to record revenue related to those
+projects in the wrong quarters. When it evaluated the effectiveness of its ICFR for the year,
+however, Primoris failed to properly assess the potential magnitude of the accounting
+misstatements that could have resulted from those control deficiencies because it only considered
+errors actually identified and did not consider either the total volume of activity, or the entire
+class of transactions, exposed to the control deficiencies.
+ 4. Specifically, in 2014 Primoris derived the majority of its revenue and a material
+percentage of its pre-tax income from approximately 1,100 construction projects that used the
+percentage-of-completion method of accounting and in most instances involved contingent cost
+estimates. All projects with contingencies were exposed to the control deficiencies. Yet, in its
+assessment of ICFR, Primoris did not assess the total value or potential misstatement of all these
+contingencies and, thus, did not evaluate whether it was reasonably possible any contingency
+accounting errors would be material to the financial statements. Primoris knew or should have
+known, however, that the value of its contingency estimates was material to its financial
+statements, and that it should have assessed that fact in its evaluation of ICFR.
+ 5. In determining that its ICFR was effective for 2014, Primoris concluded that
+certain compensating controls prevented, or would have detected, accounting errors that could
+have led to a material misstatement in its financial reporting. But, these compensating controls
+were either not tested in 2014 or not designed to identify errors in contingency accounting.
+Accordingly, Primoris should not have relied on these compensating controls in its evaluation of
+ICFR for 2014.
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not
+binding on any other person or entity in this or any other proceeding.
+ 6. By failing to properly evaluate its ICFR for 2014, Primoris failed to identify a
+material weakness in its ICFR for that year, concluding instead that the lack of controls was only
+a significant deficiency.
+ 7. As a result of the foregoing, Primoris violated Exchange Act Sections 13(b)(2)(A)
+and (B) and Rule 13a-15(c) thereunder.
+ RESPONDENT
+ 8. Primoris, a Delaware corporation based in Dallas, Texas, is a holding company
+that provides a wide range of construction, fabrication, maintenance and engineering services to
+utilities, municipalities and other customers. Primoris’s securities are registered with the
+Commission pursuant to Section 12(b) of the Exchange Act, and its securities trade on the
+NASDAQ Select Global Market under the symbol “PRIM.”
+ FACTS
+Statutory Requirements
+ 9. Section 13(b)(2) of the Exchange Act requires public companies, among other
+things, to (i) make and keep accurate books and records and (ii) devise and maintain a system of
+internal accounting controls sufficient to provide reasonable assurances that transactions are
+recorded as necessary to permit preparation of financial statements in conformity with GAAP.
+See 15 U.S.C. § 78m(b)(2)(A)-(B).
+ 10. Exchange Act Rule 13a-15(a) requires issuers, including Primoris, to maintain
+ICFR. See 17 C.F.R. § 240.13a-15(a). Rule 13a-15(f) defines ICFR as:
+ [A] process designed by, or under the supervision of, the issuer’s principal executive and
+ principal financial officers, or persons performing similar functions, and effected by the
+ issuer’s board of directors, management and other personnel, to provide reasonable
+ assurance regarding the reliability of financial reporting and the preparation of financial
+ statements for external purposes in accordance with generally accepted accounting
+ principles[.] 17 C.F.R. § 240.13a-15(f).
+ 11. Exchange Act Rule 13a-15(c) requires management – with the participation of the
+principal executive and principal financial officers (or persons performing similar functions) – to
+evaluate the effectiveness of ICFR as of the end of each fiscal year. See 17 C.F.R. § 240.13a-
+15(c). Under Rule 13a-15(c), management may satisfy its obligation by conducting an
+evaluation in accordance with interpretive guidance issued by the Commission in Release 34-
+55929, Commission Guidance Regarding Management’s Report on Internal Control Over
+Financi
+
+===== AAER-3980 | released Sept. 21, 2018 | respondent(s): Heartland Payment Systems, LLC, f/k/a Heartland Payment Systems, Inc. and Robert O. Carr =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 10558 / September 21, 2018
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3980 / September 21, 2018
+ADMINISTRATIVE PROCEEDING
+File No. 3-18819
+In the Matter of ORDER INSTITUTING CEASE-AND-
+ DESIST PROCEEDINGS PURSUANT TO
+ HEARTLAND PAYMENT SECTION 8A OF THE SECURITIES ACT OF
+ SYSTEMS, LLC, F/K/A 1933, MAKING FINDINGS, AND IMPOSING
+ HEARTLAND PAYMENT REMEDIAL SANCTIONS AND A CEASE-
+ SYSTEMS, INC. AND AND-DESIST ORDER
+ ROBERT O. CARR.
+Respondent.
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate and in the
+public interest that cease-and-desist proceedings be, and hereby are, instituted pursuant to Section
+8A of the Securities Act of 1933 (“Securities Act”) against Heartland Payment Systems, LLC, f/k/a
+Heartland Payment Systems, Inc. (“Heartland”) and Robert O. Carr (“Carr”) (collectively
+“Respondents”).
+ II.
+ In anticipation of the institution of these proceedings, Respondents have submitted Offers
+of Settlement (the “Offers”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the
+findings herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondents consent to the entry of this Order Instituting
+Cease-and-Desist Proceedings Pursuant to Section 8A of the Securities Act of 1933, Making
+Findings, and Imposing Remedial Sanctions and a Cease-and-Desist Order (“Order”), as set forth
+below.
+ III.
+ On the basis of this Order and Respondents’ Offers, the Commission finds1 that:
+ Summary
+ 1. This matter arises from the disclosures of Heartland Payment Systems, Inc. and its
+CEO, Robert O. Carr, regarding an operating metric referred to by the company as “New Margin
+Installed” or “NMI.” Between 2013 and 2015, Heartland and Carr disclosed NMI in quarterly
+filings with the Commission on Forms 10-Q and 10-K, in earnings releases filed with the
+Commission on Form 8-K, and on quarterly earnings calls with securities analysts. Heartland
+disclosed NMI publicly as both an absolute quarterly figure and a percentage change over prior
+periods (collectively, the “NMI Metrics”), and Carr often included commentary regarding the
+importance of NMI to the company’s future revenue generation. NMI did not affect Heartland’s
+financial statements, including its reported revenue and earnings.
+ 2. NMI was a metric used by Heartland to estimate the expected annual gross profit
+from a merchant contract after deducting processing and servicing costs associated with the
+revenue over the merchant’s first year processing payments with Heartland. Heartland used the
+NMI Metrics as a measure of salesperson productivity, and described NMI to analysts and
+investors as a leading indicator of organic revenue growth, explaining that increases in NMI
+from new customers should lead to increased revenue from card processing in future periods.
+ 3. Between 2013 and 2015, Heartland’s NMI Metrics were consistently overstated
+as a measure of new business or future revenue growth. During the relevant period, Heartland,
+with the knowledge of Carr, included in its disclosed NMI numbers categories of margin that (1)
+were not the result of new business but instead resulted from re-signing existing merchants in
+circumstances where accounts experience a change of ownership (“COO Margin,” as further
+discussed below); and (2) resulted from products that were added to Heartland’s calculation of
+NMI, but which were already being sold to merchants and included in reported revenue during
+prior periods (“APD Margin,” as further discussed below, and collectively with COO Margin,
+“COO and APD Margin”).
+ 4. As a result of the increased NMI from COO and APD Margin, Heartland and Carr
+reported to the market inflated NMI Metrics on a quarterly basis during the relevant period.
+Research analysts cited the NMI Metrics as an important factor in issuing reports and analyses
+regarding Heartland and, in at least one case, a fund manager reported to investors that the fund’s
+investment strategy regarding Heartland was directly linked to the relative level of the NMI
+Metrics. Absent the inflated NMI Metrics, Heartland’s reported NMI would have been
+materially lower throughout the period.
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding
+on any other person or entity in this or any other proceeding.
+ 2
+ 5. As a result, the descriptions of NMI given by Heartland and Carr to the market
+were misleading, and Heartland and Carr omitted material information by failing to disclose that
+a material amount of the company’s growth in NMI was from COO and APD Margin.
+ Respondent
+ 6. Respondent, Heartland Payment Systems, LLC, is a Delaware limited liability
+company with headquarters in Atlanta, Georgia. Prior to its 2016 merger with Global Payments
+Inc. (“Global Payments”), and at all times relevant to this action, Heartland Payment Systems,
+Inc. was a public company with common shares registered pursuant to Section 12(b) of the
+Exchange Act and quoted on the New York Stock Exchange (NYSE: HPY). At all times
+relevant to this action, Heartland Payment Systems, Inc. provided card payment processing
+services for merchants throughout the United States. All of the actions described herein took
+place prior to Heartland’s 2016 merger with Global Payments.
+ 7. Robert O. Carr, age 72, is a resident of Princeton, New Jersey. Carr founded
+Heartland in 1997 and remained as CEO after Heartland’s initial public offering in 2005. At all
+times relevant to this action, Carr was CEO of Heartland and served on Heartland’s Board of
+Directors. Carr has no role at Global Payments.
+ Heartland’s New Margin Installed Metric
+ 8. Heartland Payment Systems, Inc. (NYSE: HPY) was a payment processing
+company. Between 2013 and 2015, Heartland sold credit card processing services to retail
+merchants through an internal sales force.
+ 9. Salespersons received compensation in the form of bonuses for newly signed
+merchants, and residual payments based on actual merchant profitability on a monthly basis.
+The signing bonuses were determined based on an operating metric that Heartland referred to as
+“new gross margin installed,” and defined as “the expected annual gross profit from a merchant
+contract after deducting processing and servicing costs associated with that revenue.”
+ 10. Heartland, with the knowledge of Carr, aggregated individual salespersons’ new
+gross margin installed into a reported operating metric referred to as “New Margin Installed” or
+“NMI.”
+ Heartland and Analysts Describe NMI as a Forward Looking Growth Metric
+ 11. In addition to their use as a measure of salesperson compensation, Heartland and
+Carr also reported the NMI Metrics to the market as
+
+===== AAER-3981 | released Sept. 21, 2018 | respondent(s): Cardiff Lexington Corporation (f/k/a Cardiff International, Inc.) =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 84258 / September 21, 2018
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3981 / September 21, 2018
+ADMINISTRATIVE PROCEEDING
+File No. 3-18820
+In the Matter of
+ ORDER INSTITUTING CEASE-AND-
+ CARDIFF LEXINGTON DESIST PROCEEDINGS PURSUANT TO
+ CORPORATION (f/k/a SECTION 21C OF THE SECURITIES
+ CARDIFF EXCHANGE ACT OF 1934, MAKING
+ INTERNATIONAL, INC.), FINDINGS, AND IMPOSING A CEASE-
+ AND-DESIST ORDER
+Respondent.
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), against Cardiff Lexington Corporation (f/k/a Cardiff
+International, Inc.) (“Cardiff,” “Respondent” or the “Company”).
+ II.
+ In anticipation of the institution of these proceedings, Cardiff has submitted an Offer of
+Settlement (the “Offer”) which the Commission has determined to accept. Solely for the purpose
+of these proceedings and any other proceedings brought by or on behalf of the Commission, or to
+which the Commission is a party, and without admitting or denying the findings herein, except as
+to the Commission’s jurisdiction over it and the subject matter of these proceedings, which are
+admitted, Respondent consents to the entry of this Order Instituting Cease-and-Desist Proceedings
+Pursuant to Section 21C of the Securities Exchange Act of 1934, Making Findings, and Imposing a
+Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds 1 that:
+ Summary
+ 1. These proceedings arise out of the violation of the Regulation S-X requirement that
+interim financial statements filed as part of a Form 10-Q be reviewed by an independent public
+accounting firm prior to filing (the “Interim Review Requirement”).2
+ 2. On one occasion, Cardiff violated the Interim Review Requirement by filing a
+Form 10-Q with the Commission that contained financial statements that were not reviewed by an
+independent public accounting firm.
+ Respondent
+ 3. Cardiff, a Florida corporation based in Fort Lauderdale, Florida, is a holding
+company which acquires niche companies with high growth potential, income-producing
+commercial real estate properties and high return investments. Cardiff’s stock has been registered
+under Section 12(g) of the Exchange Act since 2002. Cardiff’s shares are quoted on OTC Link
+(formerly “pink sheets”) operated by OTC Markets Group Inc. under the symbol CDIF. Cardiff
+defines itself as a “smaller reporting company” in its most recent filing. 3
+ Legal Framework and Facts
+ 4. Section 13(a) and Rule 13a-13 thereunder require issuers with securities registered
+pursuant to Section 12 of the Exchange Act and required to file annual reports pursuant to Section
+13(a) to also file quarterly reports on Form 10-Q. Form 10-Q requires issuers to include financial
+statement information as required by Rule 10-01 of Regulation S-X, and further indicates smaller
+reporting companies may provide financial statement information as required by Rule 8-03 of
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding on any
+other person or entity in this or any other proceeding.
+2
+ Rule 10-01(d) of Regulation S-X provides in pertinent part: “Prior to filing, interim financial statements
+included in quarterly reports on Form 10-Q [] must be reviewed by an independent public accountant using
+professional standards and procedures for conducting s uch reviews, as established by generally accepted auditing
+standards, as may be modified or supplemented by the Commission.” 17 C.F.R. § 210.10-01(d). Similarly, with
+respect to smaller reporting companies, Rule 8-03 of Regulation S-X provides in pertinent part: “Interim financial
+statements may be unaudited; however, before filing, interim financial statements included in quarterly reports on
+Form 10-Q [] must be reviewed by an independent public accountant using professional standards and procedures
+for conducting such reviews, as established by generally accepted auditing standards, as may be modified or
+supplemented by the Commission.” 17 C.F.R. § 210.8-03.
+3
+ Under the rules in effect as of the date of the misconduct, a company qualifies as a “smaller reporting
+company:” (1) if its public float is less than $75 million or (2) if it cannot calculate its public float, it has less than
+$50 million in annual revenue. Item 10(f)(1) of Regulation S-K.
+ 2
+Regulation S-X. See Part I, Item 1 of Form 10; see also 17 C.F.R. § 210.1-01(a)(2) (indicating
+Regulation S-X sets forth the form and content for financial statements required as part of, among
+other things, reports required under Section 13 of the Exchange Act).
+ 5. As required by Regulation S-X, financial statements included in quarterly reports
+filed on Form 10-Q may be unaudited. 17 C.F.R. § 210.10-01(a)(1); 17 C.F.R. § 210.8-03. Prior
+to filing, however, an issuer must have an independent registered public accounting firm conduct a
+review of the required interim financial information presented in financial statements included in
+the quarterly report. 17 C.F.R. § 210.10-01(d); 17 C.F.R. § 210.8-03. The review must be
+conducted in accordance with the standards of the Public Company Accounting Oversight Board
+(“PCAOB”), as may be modified or supplemented by the Commission.4 17 C.F.R. § 210.10-01(d);
+17 C.F.R. § 210.8-03. If an issuer states that interim financial information contained in a quarterly
+report has been reviewed by an independent public accountant, a report of the accountant must be
+filed with the interim financial statements. 17 C.F.R. § 210.10-01(d); 17 C.F.R. § 210.8-03.
+ 6. On August 21, 2017, Cardiff filed its quarterly report for the second quarter of
+2017, which included the interim financial statements for that quarter. The interim financial
+statements were not reviewed by an independent public accountant as required by the Interim
+Review Requirement. The Form 10-Q did not disclose that the interim financial statements had
+not been reviewed in compliance with the Interim Review Requirement. On September 5, 2017,
+Cardiff filed a restated and amended Form 10-Q/A, which included interim financial statements
+that complied with the Interim Review Requirement.
+ Violations
+ 7. As a result of the conduct described above, Cardiff violated Section 13(a) of the
+Exchange Act and Rule 13a-13 thereunder, which require every issuer with securities registered
+pursuant to Section 12 of the Exchange Act and required to file annual reports to file with the
+Commission quarterly reports on Form 10-Q which, among other things, comply with the interim
+financial statement information requirements of Regulation S-X.
+ 8. As a result of the conduct described above, Cardiff violated Rule 8-03 of
+Regulation S-X, which requires interim financial statements inc
+
+===== AAER-3982 | released Sept. 21, 2018 | respondent(s): Cool Technologies, Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 84260 / September 21, 2018
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3982 / September 21, 2018
+ADMINISTRATIVE PROCEEDING
+File No. 3-18821
+In the Matter of
+ ORDER INSTITUTING CEASE-AND-
+ COOL TECHNOLOGIES, DESIST PROCEEDINGS PURSUANT TO
+ INC., SECTION 21C OF THE SECURITIES
+ EXCHANGE ACT OF 1934, MAKING
+Respondent. FINDINGS, AND IMPOSING A CEASE-
+ AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), against Cool Technologies, Inc. (“Cool Technologies,”
+“Respondent” or the “Company”).
+ II.
+ In anticipation of the institution of these proceedings, Cool Technologies has submitted an
+Offer of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds 1 that:
+ Summary
+ 1. These proceedings arise out of the violation of the Regulation S-X requirement that
+interim financial statements filed as part of a Form 10-Q be reviewed by an independent public
+accounting firm prior to filing (the “Interim Review Requirement”).2
+ 2. On three occasions, Cool Technologies violated the Interim Review Requirement
+by filing Forms 10-Q with the Commission that contained financial statements that were not
+reviewed by an independent public accounting firm.
+ Respondent
+ 3. Cool Technologies, a Nevada corporation based in Tampa, Florida, develops and
+intends to commercialize heat dispersion technologies. Cool Technologies has been registered
+under Section 12(g) of the Exchange Act since September 2008. From July 2009 to March 2010,
+Cool Technologies’s shares were quoted on OTC Link (formerly “pink sheets”) operated by OTC
+Markets Group Inc. under the symbol BIBB. Currently, the Company’s shares are quoted on OTC
+Link under the symbol WARM. Cool Technologies defines itself as a “smaller reporting
+company” in its most recent filing. 3
+ Legal Framework and Facts
+ 4. Section 13(a) and Rule 13a-13 thereunder require issuers with securities registered
+pursuant to Section 12 of the Exchange Act and required to file annual reports pursuant to Section
+13(a) to also file quarterly reports on Form 10-Q. Form 10-Q requires issuers to include financial
+statement information as required by Rule 10-01 of Regulation S-X, and further indicates smaller
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding on any
+other person or entity in this or any other proceeding.
+2
+ Rule 10-01(d) of Regulation S-X provides in pertinent part: “Prior to filing, interim financial statements
+included in quarterly reports on Form 10-Q [] must be reviewed by an independent public accountant using
+professional standards and procedures for conducting s uch reviews, as established by generally accepted auditing
+standards, as may be modified or supplemented by the Commission.” 17 C.F.R. § 210.10-01(d). Similarly, with
+respect to smaller reporting companies, Rule 8-03 of Regulation S-X provides in pertinent part: “Interim financial
+statements may be unaudited; however, before filing, interim financial statements included in quarterly reports on
+Form 10-Q [] must be reviewed by an independent public accountant using professional standards and procedures
+for conducting such reviews, as established by generally accepted auditing standards, as may be modified or
+supplemented by the Commission.” 17 C.F.R. § 210.8-03.
+3
+ Under the rules in effect as of the date of the misconduct, a company qualifies as a “smaller reporting
+company:” (1) if its public float is less than $75 million or (2) if it cannot calculate its public float, it has less than
+$50 million in annual revenue. Item 10(f)(1) of Regulation S-K.
+ 2
+reporting companies may provide financial statement information as required by Rule 8-03 of
+Regulation S-X. See Part I, Item 1 of Form 10; see also 17 C.F.R. § 210.1-01(a)(2) (indicating
+Regulation S-X sets forth the form and content for financial statements required as part of, among
+other things, reports required under Section 13 of the Exchange Act).
+ 5. As required by Regulation S-X, financial statements included in quarterly reports
+filed on Form 10-Q may be unaudited. 17 C.F.R. § 210.10-01(a)(1); 17 C.F.R. § 210.8-03. Prior
+to filing, however, an issuer must have an independent registered public accounting firm conduct a
+review of the required interim financial information presented in financial statements included in
+the quarterly report. 17 C.F.R. § 210.10-01(d); 17 C.F.R. § 210.8-03. The review must be
+conducted in accordance with the standards of the Public Company Accounting Oversight Board
+(“PCAOB”), as may be modified or supplemented by the Commission.4 17 C.F.R. § 210.10-01(d);
+17 C.F.R. § 210.8-03. If an issuer states that interim financial information contained in a quarterly
+report has been reviewed by an independent public accountant, a report of the accountant must be
+filed with the interim financial statements. 17 C.F.R. § 210.10-01(d); 17 C.F.R. § 210.8-03.
+ 6. On May 20, 2013, Cool Technologies filed its quarterly report for the first quarter
+of 2013, which included the interim financial statements for that quarter. The interim financial
+statements were not reviewed by an independent public accountant, as required by the Interim
+Review Requirement. Cool Technologies filed an amended Form 10-Q/A on March 4, 2014,
+approximately nine months after it filed the original Form 10-Q, which included interim financial
+statements that complied with the Interim Review Requirement.
+ 7. On August 19, 2013, the Company filed its quarterly report for the second quarter
+of 2013, which included the interim financial statements for that quarter. The interim financial
+statements were not reviewed by an independent public accountant, as required by the Interim
+Review Requirement. Cool Technologies filed an amended Form 10-Q/A on March 4, 2014,
+approximately six months after it filed the original Form 10-Q, which included interim financial
+statements that complied with the Interim Review Requirement.
+ 8. On August 22, 2016, Cool Technologies filed its quarterly report for the second
+quarter of 2016, which included its interim financial statements
+
+===== AAER-3983 | released Sept. 21, 2018 | respondent(s): Dasan Zhone Solutions, Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 84261 / September 21, 2018
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3983 / September 21, 2018
+ADMINISTRATIVE PROCEEDING
+File No. 3-18822
+In the Matter of
+ ORDER INSTITUTING CEASE-AND-
+ DASAN ZHONE DESIST PROCEEDINGS PURSUANT TO
+ SOLUTIONS, INC., SECTION 21C OF THE SECURITIES
+ EXCHANGE ACT OF 1934, MAKING
+Respondent. FINDINGS, AND IMPOSING A CEASE-
+ AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), against Dasan Zhone Solutions, Inc. (“Dasan Zhone,”
+“Respondent,” or the “Company”).
+ II.
+ In anticipation of the institution of these proceedings, Dasan Zhone has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds 1 that:
+ Summary
+ 1. These proceedings arise out of the violation of the Regulation S-X requirement that
+interim financial statements filed as part of a Form 10-Q be reviewed by an independent public
+accounting firm prior to filing (the “Interim Review Requirement”).2
+ 2. On two occasions, Dasan Zhone violated the Interim Review Requirement by filing
+Forms 10-Q with the Commission that contained financial statements that were not reviewed by an
+independent public accounting firm.
+ Respondent
+ 3. Dasan Zhone, a Delaware corporation based in Oakland, California, manufactures
+and services telecommunications equipment. Dasan Zhone has been registered under Section
+12(b) of the Exchange Act since November 2001. Dasan Zhone’s shares are listed on the Nasdaq
+Capital Market under the symbol DZSI. Dasan Zhone defines itself as a “smaller reporting
+company” in its most recent filing. 3
+ Legal Framework and Facts
+ 4. Section 13(a) and Rule 13a-13 thereunder require issuers with securities registered
+pursuant to Section 12 of the Exchange Act and required to file annual reports pursuant to Section
+13(a) to also file quarterly reports on Form 10-Q. Form 10-Q requires issuers to include financial
+statement information as required by Rule 10-01 of Regulation S-X, and further indicates smaller
+reporting companies may provide financial statement information as required by Rule 8-03 of
+Regulation S-X. See Part I, Item 1 of Form 10; see also 17 C.F.R. § 210.1-01(a)(2) (indicating
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding on any
+other person or entity in this or any other proceeding.
+2
+ Rule 10-01(d) of Regulation S-X provides in pertinent part: “Prior to filing, interim financial statements
+included in quarterly reports on Form 10-Q [] must be reviewed by an independent public accountant using
+professional standards and procedures for conducting such reviews, as established by generally accepted auditing
+standards, as may be modified or supplemented by the Commission.” 17 C.F.R. § 210.10-01(d). Similarly, with
+respect to smaller reporting companies, Rule 8-03 of Regulation S-X provides in pertinent part: “Interim financial
+statements may be unaudited; however, before filing, interim financial statements included in quarterly reports on
+Form 10-Q [] must be reviewed by an independent public accountant using professional standards and procedures
+for conducting such reviews, as established by generally accepted auditing standards, as may be modified or
+supplemented by the Commission.” 17 C.F.R. § 210.8-03.
+3
+ Under the rules in effect as of the date of the misconduct, a company qualifies as a “smaller reporting
+company:” (1) if its public float is less than $75 million or (2) if it cannot calculate its public float, it has les s than
+$50 million in annual revenue. Item 10(f)(1) of Regulation S-K.
+ 2
+Regulation S-X sets forth the form and content for financial statements required as part of, among
+other things, reports required under Section 13 of the Exchange Act).
+ 5. As required by Regulation S-X, financial statements included in quarterly reports
+filed on Form 10-Q may be unaudited. 17 C.F.R. § 210.10-01(a)(1); 17 C.F.R. § 210.8-03. Prior
+to filing, however, an issuer must have an independent registered public accounting firm conduct a
+review of the required interim financial information presented in financial statements included in
+the quarterly report. 17 C.F.R. § 210.10-01(d); 17 C.F.R. § 210.8-03. The review must be
+conducted in accordance with the standards of the Public Company Accounting Oversight Board
+(“PCAOB”), as may be modified or supplemented by the Commission.4 17 C.F.R. § 210.10-01(d);
+17 C.F.R. § 210.8-03. If an issuer states that interim financial information contained in a quarterly
+report has been reviewed by an independent public accountant, a report of the accountant must be
+filed with the interim financial statements. 17 C.F.R. § 210.10-01(d); 17 C.F.R. § 210.8-03.
+ 6. On August 9, 2016, Dasan Zhone filed its quarterly report for the second quarter of
+2016, which included the interim financial statements for that quarter. The interim financial
+statements were not reviewed by an independent public accountant as required by the Interim
+Review Requirement. The Form 10-Q did not disclose that the interim financial statements had
+not been reviewed in compliance with the Interim Review Requirement. On September 7, 2016,
+Dasan Zhone filed an amended Form 10-Q/A, which included interim financial statements that
+complied with the Interim Review Requirement.
+ 7. On November 14, 2016, Dasan Zhone filed its quarterly report for the third quarter
+of 2016, which included the interim financial statements for that quarter. The interim financial
+statements were not reviewed by an independent public accountant as required by the Interim
+Review Requirement. Dasan Zhone filed a restated and amended Form 10-Q/A on March, 9,
+2017, approximately four months after it filed the original Form 10-Q, which included interim
+financial statements that complied with the Interim Review Requirement.
+ Violations
+ 8. As a result of the conduct described above, Dasan Zhone violated Section 13(a) of
+the Exchange Act and Rule 13a-13 thereunder, which require every issuer with securities
+registered pursuant to Section 12 of the Exchange Act and required to file 

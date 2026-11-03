@@ -1,0 +1,1025 @@
+===== AAER-4016 | released Jan. 29, 2019 | respondent(s): Lifeway Foods, Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 84995 / January 29, 2019
+ACCOUNTING AND AUDITING RELEASE
+Release No. 4016 / January 29, 2019
+ADMINISTRATIVE PROCEEDING
+File No. 3-18970
+In the Matter of ORDER INSTITUTING CEASE-AND-DESIST
+ PROCEEDINGS PURSUANT TO SECTION
+ LIFEWAY FOODS, INC. 21C OF THE SECURITIES EXCHANGE ACT
+ OF 1934, MAKING FINDINGS AND
+Respondent. IMPOSING A CEASE-AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that
+cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the
+Securities Exchange Act of 1934 (“Exchange Act”) against Lifeway Foods, Inc. (“Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+And-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings and Imposing a Cease-And-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that
+ Summary
+ These proceedings involve violations of the federal securities laws in connection with the
+Respondent’s Internal Control over Financial Reporting (“ICFR”). Respondent failed to create and
+implement effective ICFR for ten consecutive annual reporting periods and failed to complete in
+certain periods the required management assessment of internal controls. In addition, Respondent
+announced three financial statement restatements during the period from 2007 to 2016.
+ Respondent
+ 1. Lifeway Foods, Inc. is a Morton Grove, Illinois-based dairy food producer,
+incorporated in Illinois in 1986, family controlled, and known for its production of kefir, a
+cultured dairy drink. Respondent’s common stock trades on NASDAQ under the symbol LWAY.
+At all relevant times, Respondent filed periodic reports with the Commission, including Forms
+10-K and 10-Q, pursuant to Section 13(a) of the Exchange Act and related rules thereunder.
+ Background
+ 2. Respondent disclosed material weaknesses in each of its Forms 10-K for a period
+of nine years, from 2007 through 2015, and significant deficiencies in the aggregate that
+constituted a material weakness in 2016. Respondent’s disclosed material weaknesses often
+repeated year after year, and involved certain high-risk areas for the company’s financial
+statement presentation. For three consecutive years from 2007 to 2009, Respondent disclosed
+that it lacked a “requirement to post monthly activity to [its] general ledger,” contributing to a
+material weakness in each period. In six of the ten years, Respondent disclosed material
+weaknesses related to financial reporting controls.
+ 3. Prior to 2016, Respondent’s material weaknesses resulted from, among other
+things, incomplete, inadequate and undocumented financial reporting processes; the lack of
+sufficient, competent and independent financial statement review; and the failure to consistently
+demonstrate effective preparation, support and review of journal entries and account
+reconciliations. In four years between 2010 and 2016, Respondent disclosed a material weakness
+or significant deficiencies related to its accounting for and controls related to income tax or
+deferred income tax.
+ 4. Many of Respondent’s material weaknesses were recurring, and involved either
+financial reporting, accounting, or entity controls. For the most part, the material weaknesses
+were identified by Respondent’s management team in the course of its annual ICFR assessment
+1
+ The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding on any
+ other person or entity in this or any other proceeding.
+ 2
+and evaluation; however, the management team failed to complete its ICFR assessment and
+evaluation in 2013 and 2014.
+ 5. Respondent initiated remediation efforts beginning in 2013, but did not begin to
+include detailed disclosure in its filings regarding its material weaknesses remediation plans until
+the quarter ended June 30, 2014. In its annual report for the period ending December 31, 2013,
+Respondent disclosed the engagement of an outside SOX consultant to assist in developing a
+remediation plan for its material weaknesses. Respondent also engaged a SOX consultant to
+assist with its 2015 ICFR assessment and continues to work with that consultant currently.
+Nonetheless, Respondent continued to disclose the existence of material weaknesses through
+September 30, 2017, and did not fully remediate its material weaknesses and conclude that ICFR
+was effective until its fiscal year ended December 31, 2017.
+ 6. Respondent’s failure to address its material weaknesses has been compounded by
+three announced restatements since fiscal 2012, including two restatements announced during
+fiscal 2016. The company disclosed that its restatement announced in November 2016 was
+consequential to its remediation efforts. Each of the three restatements involve Respondent’s
+failures to appropriately account for and assign costs related to manufacturing, cost of goods
+sold, or inventory, although none of the restatements had a material effect on Respondent’s
+financial results. Respondent disclosed in four of the ten years various material weaknesses
+related to inventory and assignment of cost of goods sold.
+ 7. As a result of the conduct described above, Respondent violated Section 13(a) of
+the Exchange Act and Rules 13a-1, 13a-15(a) and 13a-15(c) thereunder, which require issuers
+with classes of securities registered pursuant to Section 12 to file periodic and other reports with
+the Commission, maintain ICFR and to perform annual ICFR evaluations.
+ 8. As a result of the conduct described above, Respondent violated Section
+13(b)(2)(A) of the Exchange Act, which requires Section 12 registrants to make and keep books,
+records, and accounts, which, in reasonable detail, accurately and fairly reflect the transactions
+and dispositions of the assets of the issuer.
+ 9. As a result of the conduct described above, Respondent violated Section
+13(b)(2)(B) of the Exchange Act, which requires Section 12 registrants to devise and maintain a
+system of sufficient internal accounting controls.
+ Lifeway’s Remedial Efforts
+ 10. In determining to accept the Offer, the Commission considered remedial acts
+undertaken by Respondent and cooperation afforded the Commission staff.
+ IV.
+ 3
+
+
+===== AAER-4045 | released May 3, 2019 | respondent(s): GT Advanced Technologies Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 10636 / May 3, 2019
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 85767 / May 3, 2019
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4045 / May 3, 2019
+ADMINISTRATIVE PROCEEDING
+File No. 3-19156
+ ORDER INSTITUTING CEASE-
+ AND-DESIST PROCEEDINGS
+In the Matter of PURSUANT TO SECTION 8A
+ OF THE SECURITIES ACT OF
+ GT ADVANCED 1933 AND SECTION 21C OF
+ TECHNOLOGIES INC., THE SECURITIES EXCHANGE
+ ACT OF 1934, MAKING
+Respondent. FINDINGS, AND IMPOSING A
+ CEASE-AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act
+of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 1934 (“Exchange
+Act”), against GT Advanced Technologies Inc. (“GT” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over Respondent and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 8A of the Securities Act of 1933 and Section 21C of
+the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order
+(“Order”), as set forth below.
+ III.
+ On the basis of this Order, and Respondent’s Offer, the Commission finds1 that:
+ Summary
+ 1. This matter involves accounting misconduct and material misrepresentations by GT
+Advanced Technologies Inc. (“GT”) in connection the company’s second quarter Forms 10-Q for
+2014 concerning a supply contract and debt agreement that GT entered into with Apple, Inc.
+(“Apple”) in October 2013. The supply agreement required GT to manufacture large scale
+“sapphire glass” for use by Apple as cover screens for its next generation iPhone in a facility leased
+from Apple. The debt agreement required Apple to advance to GT $578 million in four
+installments with each installment payment being contingent on GT meeting certain quality and
+quantity milestones. Further, GT was to repay the debt to Apple by delivering sapphire glass. The
+relationship with Apple was extremely high profile for the company, material to GT’s revenue and
+reported liabilities and how its stock was valued, and closely followed by analysts.
+ 2. By April 25, 2014, GT’s CEO, Thomas Gutierrez (“Gutierrez”), and other officials
+were aware that GT failed to meet the required quantity, quality, and delivery standards, including
+a “fourth milestone” in the debt agreement. GT knew that Apple had withheld its fourth
+installment payment of $139 million due to that failure. In connection with quarterly filing for the
+first quarter 2014, GT failed to disclose its performance failures under the contracts, resulting in
+Apple not making the fourth milestone payment. The company’s failure to meet the fourth
+milestone gave Apple the right to call back $306 million in GT’s debt from the prior installments
+and, by the second quarter 2014, would have required GT to recognize the debt as current and not
+long-term debt. The “current” debt reclassification would have had an immediate, material impact
+on GT’s liquidity and status as a going concern. Had GT properly classified the Apple debt as
+current, its current liabilities would have increased from $393.5 million to $700.2 million. The
+accelerated repayment obligation of $306.7 million would have affected GT’s liquidity and status
+as a going concern because GT’s second quarter working capital was only $155.6 million. For the
+second quarter, the misclassification of the Apple debt caused GT to overstate working capital by
+$306.7 million, or by 200%, and to understate current liabilities by $306.7 million or 43%.
+ 3. In order to avoid recognizing the debt as current, GT, without reasonable basis,
+formed a position that Apple was in breach of a lease agreement covering a facility used to produce
+sapphire and, as a result of Apple’s purported breach, GT was released from its performance and
+milestone obligations to Apple under the debt agreement. In the view of GT, under these
+1
+ The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding on any other
+person or entity in this or any other proceeding.
+ 2
+circumstances, Apple could no longer call back the debt, allowing the company to continue to
+classify the debt as long-term.
+ 4. During an August 5, 2014 earnings call in connection with GT’s quarterly financial
+reporting for its second quarter, Gutierrez represented on the call that GT expected to hit
+performance targets and receive the fourth installment payment from Apple by October 2014. The
+statement was misleading and created a false impression regarding the relationship between the
+parties and GT’s performance under the contract. Gutierrez failed to disclose to investors or Apple
+that GT had taken the internal position that Apple breached the lease and considered itself excused
+from performing under the debt agreement. This position severely jeopardized, if not eliminated,
+any reasonable expectation by GT that Apple would pay the fourth installment payment. In
+addition, prior to the earnings call, neither Gutierrez nor the company disclosed that GT had
+missed the fourth milestone in April, and continued in a state of failed performance in the months
+that had elapsed. Apple also had not agreed to pay GT the fourth installment payment.
+ 5. In connection with GT’s disclosure of sources of cash, liquidity, backlog, and EPS
+projections, GT included unsupported sales projections for sales of sapphire glass furnaces. The
+projections assumed future sales despite several indications to GT that these sales were unrealistic,
+including that Apple refused to authorize the sales and that GT’s prospective customers were
+unable to commit to purchase orders.
+ 6. Within eight weeks of the second quarter filing and earnings calls, GT filed for
+bankruptcy under Chapter 11 of the Bankruptcy Code, resulting in significant investor harm.
+ Respondent
+ 7. GT Advanced Technologies Inc., during the relevant period, was a New
+Hampshire-based diversified technology company that provided crystal growth equipment and
+services for the global, solar, LED and electronics industries. GT’s common stock was registered
+with the Commission pursuant to Section 12(b) of the Exchange Act and its shares were listed on
+the NASDAQ until they were removed from listing on December 11, 2014. As of June 28, 2014,
+there were approximately 138 million shares of common stock outstanding with a total market
+ca
+
+===== AAER-4061 | released Aug. 1, 2019 | respondent(s): Brixmor Property Group Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 86538 / August 1, 2019
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4061
+ADMINISTRATIVE PROCEEDING
+File No. 3-19300
+ ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT
+ TO SECTION 21C OF THE
+ BRIXMOR PROPERTY GROUP INC., SECURITIES EXCHANGE ACT OF
+ 1934, MAKING FINDINGS, AND
+ IMPOSING A CEASE-AND-DESIST
+Respondent.
+ ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that
+cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the
+Securities Exchange Act of 1934 (“Exchange Act”), against Brixmor Property Group Inc.
+(“Brixmor” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (“Offer”) which the Commission has determined to accept. Solely for the purpose
+of these proceedings and any other proceedings brought by or on behalf of the Commission, or to
+which the Commission is a party, and without admitting or denying the findings herein, except as
+to the Commission’s jurisdiction over it and the subject matter of these proceedings, which are
+admitted, Respondent consents to the entry of this Order Instituting Cease-and-Desist
+Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making Findings,
+and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ 1
+PRSNL.07937
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ Summary
+ 1. These proceedings arise from Brixmor’s violations of the antifraud and books and
+records provisions of the Exchange Act. Brixmor is a publicly-traded real estate investment trust
+(“REIT”) that is one of the nation’s largest owners and operators of open-air shopping centers.
+Between the third quarter of 2013 and the third quarter of 2015 (the “Relevant Period”),
+Brixmor, acting through its then senior executives, manipulated and falsely reported its “Same
+Property Net Operating Income Growth Rate,” or “SP NOI Growth Rate,” a non-GAAP measure
+relied on by investors and analysts to assess Brixmor’s financial performance. During the
+Relevant Period, Brixmor materially misstated its SP NOI Growth Rate in all but one of its
+quarterly filings (Forms 10-Q), each of its two annual filings (Forms 10-K), and its related Forms
+8-K.
+ Respondent
+ 2. Brixmor is a Maryland corporation with its principal executive offices located in
+New York, New York. Throughout the relevant period its common stock was registered with the
+Commission under Exchange Act Section 12(b) and publicly traded on the New York Stock
+Exchange “NYSE” (symbol: BRX). Brixmor files annual and quarterly reports under Exchange
+Act Section 13.
+ Facts
+SP NOI and SP NOI Growth Rate
+ 3. For financial reporting purposes, publicly traded issuers in the United States must
+follow accounting rules established by the Financial Accounting Standards Board and rules
+adopted by the Commission, which are commonly referred to as generally accepted accounting
+principles, or “GAAP.” Additionally, many REITs, including Brixmor, report supplemental non-
+GAAP financial measures utilized by investors and analysts in understanding and assessing the
+companies’ operating results. One of the most important non-GAAP measures that REITs
+typically report is same property net operating income (“SP NOI”), which is an adjusted version
+of net operating income (“NOI”), another non-GAAP measure. Brixmor, like many REITs,
+defined NOI as rental income less rental operating expenses such as property operating expenses,
+real estate taxes, and bad debt expense.
+1
+ The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding
+on any other person or entity in this or any other proceeding.
+ 2
+PRSNL.07937
+ 4. SP NOI represents the NOI of the “Same Property Pool,” or the pool of properties
+owned by the REIT as of the end of both the current reporting period and the same reporting
+period in the prior year (the “Comparison Period”) for the entirety of both periods. SP NOI
+therefore excludes any NOI attributable to properties that were acquired, constructed, or disposed
+of between the current reporting period and the Comparison Period. Brixmor publicly stated
+that, in addition, it excluded corporate level income, lease termination income and straight-line
+rent amortization of above/below market leases from its calculation of SP NOI.
+ 5. REITs not only report SP NOI as a dollar amount but also the percentage by
+which SP NOI has grown between the current reporting period and the Comparison Period,
+which is also known as “SP NOI Growth Rate.” Because SP NOI Growth Rate reflects the
+growth in the NOI of a static pool of properties, REIT management, including Brixmor’s, as well
+as REIT investors and analysts consider it a valuable measure of a REIT’s ability to generate
+growth from its existing properties over the course of a year, as opposed to growth through the
+acquisition or construction of new properties.
+Brixmor Publicly Reported False SP NOI Growth Rates during the Relevant Period and
+Touted This Metric to Investors
+ 6. During the Relevant Period, SP NOI and SP NOI Growth Rate were two of the
+most important performance metrics to Brixmor’s management because of their importance to
+analysts and investors. Each of Brixmor’s Forms 10-Q and 10-K during the Relevant Period
+reflected that importance. For example, each filing stated, in identical or substantially similar
+form, that SP NOI was “utilized to evaluate the operating performance of real estate companies
+and is frequently used by securities analysts, investors and other interested parties in
+understanding business and operating results regarding the underlying economics of our business
+operations,” and that it “provides a more consistent metric for comparing the performance of
+properties.”
+ 7. From its inception as a public company, Brixmor touted its steady and consistent
+SP NOI Growth. In an initial public offering (“IPO”) roadshow presentation before the company
+went public in October 2013, Brixmor told investors that it would achieve strong and consistent
+SP NOI Growth over the next few years despite difficulties in the industry by “redeveloping and
+repositioning” its existing portfolio of properties, rather than by acquiring or constructing new
+properties. To accomplish this, Brixmor would capitalize on a significant number of expiring
+below-market rate leases that could soon be brought to market levels and upgrade its anchor
+tenants to “best-in-class” grocery stores and other marquee tenants, which in turn would drive
+small shop occupancy and rent gains. Over the next two years, Brixmor consistently pointed to
+its SP NOI Growth Rate to demonstrate that these business strategies were successful.
+ 8. Brixmor issued guidance for its SP NOI Growth Rate to the market in the form of
+a range of projected fu
+
+===== AAER-4086 | released Sept. 23, 2019 | respondent(s): Nissan Motor Co., Ltd. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 87054 / September 23, 2019
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4086 / September 23, 2019
+ADMINISTRATIVE PROCEEDING
+File No. 3-19492
+In the Matter of ORDER INSTITUTING CEASE-AND-
+ DESIST PROCEEDINGS PURSUANT TO
+ NISSAN MOTOR CO., LTD. SECTION 21C OF THE SECURITIES
+ EXCHANGE ACT OF 1934, MAKING
+Respondent. FINDINGS, AND IMPOSING A CEASE-
+ AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”) against Nissan Motor Co., Ltd. (“Nissan” or
+“Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the
+findings herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which is admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ Summary
+ 1. From 2001 through November 2018, Carlos Ghosn (“Ghosn”) served as
+Chairman of the Board and/or CEO2 of Nissan Motor Co., Ltd. From fiscal year 2004 through
+2018, Nissan’s Board delegated to Ghosn the authority to set the amount of individual director
+and executive compensation, including his own compensation, within certain aggregate limits.
+Although in certain years the Board’s delegation contemplated that Ghosn would consult with
+Nissan’s representative directors on the compensation decisions, in practice, Ghosn set the
+amount of his compensation without input or oversight.
+ 2. From fiscal year 2009 to fiscal year 2018, Nissan, through the fraudulent actions
+of Ghosn, with substantial assistance from Gregory L. Kelly (“Kelly”), a former Nissan
+executive and director, failed to disclose more than $90 million3 in compensation for Ghosn.
+Although this undisclosed compensation was in fact not paid to Ghosn, his total compensation
+was fixed and certain in each fiscal year, with a paid portion that was disclosed by Nissan and a
+significant portion that was unpaid and undisclosed. Ghosn, with substantial assistance from
+Kelly and a senior employee in Nissan’s Secretariat’s Office (“Nissan Employee 1”), devised
+multiple ways to have the undisclosed portion of the fixed compensation paid through Nissan-
+related entities without public disclosure.
+ 3. After their attempts to have the compensation paid from other Nissan-related
+entities in current periods raised certain disclosure issues, Ghosn, with substantial assistance
+from Kelly and Nissan Employee 1, instead crafted ways to structure payment after Ghosn’s
+retirement from Nissan without disclosure in the periods when the compensation was earned and
+fixed. Among other schemes: Ghosn entered into secret contracts countersigned by Nissan
+Employee 1, and executed backdated letters granting himself cash bonuses under Nissan’s
+annual Long Term Incentive Plan (“LTIP”) in the amount of the undisclosed compensation.
+ 4. In addition to the $90 million in undisclosed fixed compensation, Ghosn and
+certain subordinates, including Kelly, made, or caused to be made, knowingly false and
+misleading statements regarding approximately $50 million of additional pension benefits for
+Ghosn. This included affirmatively misleading Nissan’s CFO and other Nissan executives
+1
+ The findings herein are made pursuant to Respondent’s Offer and are not binding on any other
+person or entity in this or any other proceeding.
+2
+ Ghosn resigned his position as CEO on April 1, 2017, but remained Chairman of the Board.
+Ghosn was stripped of the Chairman title following his arrest on November 19, 2018. He was
+removed from Nissan’s Board by shareholder vote on April 8, 2019.
+3
+ Based on the average exchange rate during the year in which the undisclosed compensation was
+fixed and earned.
+ 2
+regarding the accounting for the additional pension amounts, and creating a false disclosure to
+support how Nissan accounted for them.
+ 5. The failure to disclose the full amount of Ghosn’s compensation and the false
+disclosure regarding the pension increase in annual securities reports certified by Ghosn violated
+Japanese disclosure requirements, and resulted in material misstatements in Nissan’s annual
+securities reports in violation of Section 10(b) and Rule 10b-5 of the Exchange Act. Consistent
+with the exemption from Exchange Act registration on which Nissan relied, Nissan’s annual
+securities reports were translated into English for, among other things, the benefit of U.S.
+investors in Nissan American Depository Receipts (“ADRs”) (OTC: NSANF) that trade over-
+the-counter in the United States. Those reports contained materially false and misleading
+statements. As part of their schemes to underreport Ghosn’s compensation, Ghosn, with
+substantial assistance from Kelly, participated in additional acts, practices or courses of business
+that operated as a fraud or deceit upon Nissan’s U.S.-based ADR holders.
+ Respondent
+ 6. Nissan Motor Co., Ltd. is a Japanese automaker based in Yokohama, Japan.
+Nissan’s sponsored ADRs trade over-the-counter in the United States. Nissan does not have a
+class of securities registered with the Commission and does not file reports with the
+Commission, instead relying on the exemption contained in Exchange Act Rule 12g3-2(b).
+Nissan’s common stock is listed and trades primarily on the Tokyo Stock Exchange (TYO:
+7201). Nissan is a member of the Renault–Nissan–Mitsubishi Alliance, a strategic partnership
+between the automobile manufacturers based on a cross sharing agreement originally formed in
+1999 and expanded to include Mitsubishi in 2016.
+ Other Relevant Persons
+ 7. Carlos Ghosn, 65, is a citizen of France, Lebanon and Brazil and was most
+recently a resident of the Netherlands or Lebanon. Ghosn joined Nissan in 1999 as its Chief
+Operating Officer and became President in 2000. He served as Nissan’s Chief Executive Officer
+from 2001 until April 2017, when he stepped down as CEO while maintaining his chairmanship.
+He served as Chairman from 2003 until November 22, 2018 (co-Chairman from 2003 to 2008).
+Ghosn was removed from the Chairman role after his arrest by Japanese authorities on
+November 19, 2018. Ghosn was formally removed from Nissan’s Board by shareholder vote on
+April 8, 2019. Ghosn also served as Chairman and CEO of Renault S.A. starting in 2009 and
+Chairman of Mit
+
+===== AAER-4091 | released Sept. 24, 2019 | respondent(s): Comscore, Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 10692 / September 24, 2019
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 87069 / September 24, 2019
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4091 / September 24, 2019
+ADMINISTRATIVE PROCEEDING
+File No. 3-19499
+ ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 8A OF THE SECURITIES ACT
+ COMSCORE, INC., OF 1933 AND SECTION 21C OF THE
+ SECURITIES EXCHANGE ACT OF 1934,
+Respondent. MAKING FINDINGS, AND IMPOSING A
+ CEASE-AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act
+of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 1934 (“Exchange
+Act”), against Comscore, Inc. (“Comscore” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 8A of the Securities Act of 1933 and Section 21C of
+the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order
+(“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ SUMMARY
+ 1. This matter concerns a financial accounting and disclosure fraud committed by
+Comscore, a publicly-traded data services and measurement company, principally through the
+conduct of its former Chief Executive Officer, Serge Matta (“Matta”). From February 2014
+through February 2016 (the “Relevant Period”), Comscore public filings materially overstated
+revenue by approximately $50 million as result of a fraudulent scheme and improper accounting
+involving the manipulation of non-monetary and monetary contracts. Comscore’s and Matta’s
+actions enabled the company to artificially exceed its analysts’ consensus revenue target in seven
+consecutive quarters. In addition, from April 2014 through February 2016, Comscore and Matta
+made false and misleading statements about two important performance metrics.
+ 2. Comscore entered into non-monetary transactions (“NMTs”) for the purpose of
+improperly increasing revenue recognition. Comscore valued these NMTs, which involved the
+exchange of data between Comscore and a counterparty, by assessing the fair value of the data it
+surrendered in each transaction. In negotiating certain of these arrangements, however, Matta
+included certain data that the counterparty did not ask for, want, need, or use. In addition, in
+communications with internal accountants and the independent auditor regarding the NMTs, Matta
+and other Comscore employees made false or misleading statements about the true purpose of the
+agreements, the commercial substance of the transactions, and the fair value of the assets. As a
+result, Comscore’s revenue related to these transactions was overstated by over $34.5 million
+during the Relevant Period.
+ 3. Comscore also entered into certain monetary transactions that improperly
+increased revenue recognition. In two instances, Matta knew that contracts he negotiated were
+related and linked but he misrepresented or failed to disclose the true facts to Comscore’s internal
+accountants and its independent auditor, which had the impact of overstating revenue by
+approximately $12 million in 2015. In two other instances, Matta agreed to deliver data to a
+counterparty by the end of a quarter and then entered into undisclosed side agreements to deliver
+additional data after the quarter closed. Placing future data delivery obligations into a side
+agreement allowed Comscore to take the position that all data at issue had been delivered before
+the current quarter closed, thereby permitting Comscore to recognize all of the revenue associated
+with the transaction in that quarter rather than defer some or all of the revenue to subsequent
+quarters.
+ 4. In addition, Comscore made false or misleading disclosures regarding two
+important performance metrics. In 2014 and 2015, Comscore disclosed inflated customer totals
+that falsely conveyed a consistent increase in the number of net new customers added. In fact, the
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding on any
+ other person or entity in this or any other proceeding.
+ 2
+number of net new customers was declining. Comscore disclosed these overstated numbers in its
+periodic filings with the Commission and Matta highlighted them during earnings calls with
+investors. Also, in the third and fourth quarters of 2015, Comscore disclosed misstated revenue
+growth percentages concerning one of its flagship data analytic products. Matta described this
+purported revenue growth in earnings calls. In fact, the product’s revenue had been declining. In
+both instances, Matta directed or approved incremental changes within Comscore to the
+methodology by which the disclosed figures were calculated without disclosing those changes to
+investors.
+ 5. In February 2016, after receiving a tip, Comscore’s Audit Committee commenced
+an internal investigation. On March 23, 2018, Comscore, under new management, filed its Form
+10-K for the year ended December 31, 2017, which included a restatement (the “Restatement”).
+The Restatement provided restated and corrected financial information for the years ended
+December 31, 2014 and 2013. The Restatement also stated that Comscore restated certain
+information for the quarters ended March 31, June 30, and September 30, 2015 and adjusted
+information previously furnished on Form 8-K for the year ended December 31, 2015. In total,
+Comscore reversed approximately $50 million in revenue due to the improper conduct and
+accounting described herein. The Restatement also identified various material weaknesses in
+Comscore’s internal control over financial reporting and acknowledged that prior senior
+management did not establish or maintain an acceptable corporate culture. Since February 29,
+2016, when Comscore announced that its Audit Committee was conducting an internal
+investigation into potential accounting matters, Comscore has lost over 85% of its market
+capitalization.
+ 6. Based on the foregoing and the conduct described herein below, Comscore
+violated Section 17(a) of the Securities Act and Sections 10(b), 13(a), 13(b)(2)(A), and 13(b)(2)(B)
+of the Exchange Act and Rules 10b-5, 12b-20, 13a-1, 13a-11, and 13a-13 thereunder.
+ RESPONDENT AND RELEVANT PERSON
+ 7. 
+
+===== AAER-4094 | released Sept. 26, 2019 | respondent(s): PPG Industries, Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 10701 /September 26, 2019
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 87129 / September 26, 2019
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4094 / September 26, 2019
+ADMINISTRATIVE PROCEEDING
+File No. 3-19532
+ ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 8A OF THE SECURITIES ACT
+ PPG Industries, Inc. OF 1933 AND SECTION 21C OF THE
+ SECURITIES EXCHANGE ACT OF 1934,
+Respondent. MAKING FINDINGS, AND IMPOSING A
+ CEASE-AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act
+of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 1934 (“Exchange
+Act”), against PPG Industries, Inc. (“PPG” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 8A of the Securities Act of 1933 and Section 21C of
+the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order
+(“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ Summary
+ 1. PPG manufactures paint and other specialty industrial, automotive and architectural
+coating materials. From December 2016 through April 2018 (the “relevant period”), PPG
+maintained materially inaccurate books and records and insufficient internal accounting controls.
+The misstatements resulted from the conduct of a PPG senior accounting officer (“Officer A”) and
+employees within PPG’s finance division who manipulated accounting entries. The misstatements
+were designed to enable PPG to meet, or come closer to meeting, analysts’ consensus earnings
+estimates.
+ 2. Officer A made improper accounting determinations and directed subordinate
+personnel to delay recording or not to record certain expense accruals, and to misclassify certain
+income as from continuing operations, in contravention of generally accepted accounting
+principles (“GAAP”). As a result, PPG’s income from continuing operations in its published
+financial results was inflated for the years ended December 31, 2016 and December 31, 2017, and
+for certain quarters within that period. PPG included its misleading financial results in press
+releases and its filings with the Commission. Because of similar accounting misconduct, PPG’s
+books and records contained intentional inaccuracies during the closing period for the first quarter
+of 2018; these inaccuracies were later corrected in PPG’s Form 10-Q for that quarter.
+ 3. PPG restated its financial statements for the relevant period on June 28, 2018 (the
+“Restatement”). The Restatement disclosed 14 instances of accounting misconduct during the
+relevant period, reduced PPG’s previously reported GAAP pretax income from continuing
+operations by a cumulative $6 million for 2016 and 2017, and identified a material weakness in
+PPG’s internal control over financial reporting.
+ 4. Based on the foregoing and the conduct described below, PPG violated Section
+17(a) of the Securities Act and Sections 10(b), 13(a), 13(b)(2)(A) and 13(b)(2)(B) of the Exchange
+Act and Rules 10b-5, 12b-20, 13a-1, 13a-11, and 13a-13 thereunder.
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding
+on any other person or entity in this or any other proceeding.
+ 2
+ Respondent
+ 5. PPG is a Pennsylvania corporation based in Pittsburgh, PA. PPG’s securities are
+registered with the Commission under Section 12(b) of the Exchange Act and trade under the
+symbol “PPG” on the New York Stock Exchange. PPG files periodic reports, including Forms 10-
+K and 10-Q, with the Commission pursuant to Section 13(a) of the Exchange Act and related rules
+thereunder.
+ Facts
+ 6. During the relevant period, Officer A and subordinates who carried out his
+directives exploited deficiencies in PPG’s internal accounting controls to delay recognition of, or
+misclassify, known expenses and liabilities, and to overstate income from continuing operations in
+certain fiscal quarters. Officer A’s conduct involved tracking earnings and determining whether,
+and how, to record certain accounting entries, often late in the closing process, based on the
+entries’ potential to move income from continuing operations positively or negatively in order to
+meet analysts’ consensus expected earnings, or to narrow a gap. This resulted in fourteen
+identified instances of intentionally erroneous accounting entries during five period-end reporting
+processes, as described below.
+ Understated Expense Accruals in Q4 2016, Q2 2017, and Q3 2017
+ 7. Q4 2016 RSU Accrual Reduction: PPG records an initial accrual for performance-
+based Restricted Stock Units (“RSUs”) based on a methodology related to performance factors and
+adjusts the accrual over the vesting period. In January 2017, several days into the Q4 2016 closing
+process, Officer A, acting without a reasonable basis, reduced an input to the performance factor
+methodology in order to adjust the accrual, resulting in an inappropriate reduction of the accrual by
+$6.8 million for Q4 2016.
+ 8. Q2 2017 Healthcare Reserve Accrual: PPG is self-insured and retains a reserve
+for healthcare claims that have been incurred but not yet reported. It records an accrual every
+month and evaluates and adjusts, if necessary, the reserve on a quarterly basis. At the end of Q2
+2017, the reserve for healthcare claims was underaccrued by $3.5 million, based on actual claims
+incurred to that date. Officer A directed a subordinate not to make the $3.5 million accrual in Q2
+2017, but instead to delay the accrual until Q3 2017.
+ 9. Q2 2017 Compensation Expense Accrual: Pursuant to a contract requiring
+compensation payments to a PPG employee who departed in Q2 2017, PPG should have
+recorded a $4.8 million accrual in that quarter. Instead, at Officer A’s direction and without a
+reasonable basis, PPG recorded only $1.3 million in Q2 2017 and spread the remaining $3.5
+million accrual over the rest of the year.
+ 3
+
+
+===== AAER-4095 | released Sept. 27, 2019 | respondent(s): FCA US LLC and Fiat Chrysler Automobiles N.V. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 10706 / September 27, 2019
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 87134 / September 27, 2019
+ACCOUNTING AND AUDITING ENFORCMENT
+Release No. 4095 / September 27, 2019
+ADMINISTRATIVE PROCEEDING
+File No. 3-19541
+ ORDER INSTITUTING CEASE-AND-
+ DESIST PROCEEDINGS PURSUANT TO
+In the Matter of SECTION 8A OF THE SECURITIES ACT
+ OF 1933 AND SECTION 21C OF THE
+ FCA US LLC and SECURITIES EXCHANGE ACT OF 1934,
+ FIAT CHRYSLER MAKING FINDINGS, AND IMPOSING A
+ AUTOMOBILES N.V. CEASE-AND-DESIST ORDER
+Respondents.
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act
+of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 1934 (“Exchange
+Act”), against FCA US LLC and Fiat Chrysler Automobiles N.V. (“FCA US” and “FCA N.V.”
+respectively, and collectively the “Respondents”).
+ II.
+ In anticipation of the institution of these proceedings, Respondents have submitted Offers
+of Settlement (the “Offers”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over Respondents and the subject matter of
+these proceedings, which are admitted, Respondents consent to the entry of this Order Instituting
+Cease-and-Desist Proceedings pursuant to Section 8A of the Securities Act of 1933 and Section
+21C of the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist
+Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondents’ Offers, the Commission finds1 that:
+ Summary
+ 1. From at least August 2012 to July 2016, FCA US, an automotive company,
+fraudulently misled investors about the number of new vehicles that it and its dealers sold each
+month to customers. Beginning in September 2013, FCA US or its predecessor also falsely touted
+that it continued to increase new vehicle sales every month on a year-over-year basis by reporting
+what it called a “streak” of uninterrupted sales growth. FCA US issued monthly press releases
+falsely reporting its new vehicle sales and growth streak. FCA US and its parent company, FCA
+N.V., attached the monthly press releases to reports that were filed with or furnished to the
+Commission.
+ 2. FCA US, based in Auburn Hills, Michigan, sells vehicles in the U.S. primarily
+under the Chrysler, Dodge, Jeep, and Ram brands. FCA US sells vehicles both to dealers and, in
+limited numbers, directly to customers. FCA US has nine regional offices, called Business
+Centers, that work with dealers in their respective regions to sell vehicles. In their monthly press
+releases, Respondents reported “new vehicle sales,” which included sales to customers directly and
+through dealers.
+ 3. New vehicle sales and the growth streak were key performance indicators that were
+important to Respondents, investors, and analysts. FCA N.V. explained to investors in annual
+reports that new vehicle sales illustrated the company’s competitive position and demand for its
+vehicles. Vehicle sales in the U.S. accounted for close to half of FCA N.V.’s worldwide sales. In
+an article posted on its website, FCA US described the sales streak as “a symbol of our continuing
+success in the marketplace.”
+ 4. FCA US inflated monthly vehicle sales to customers by paying dealers to report
+fake sales, which were later “unwound” or reversed. In addition, FCA US Business Center
+employees reported fake vehicle sales.
+ 5. Further, FCA US failed to report all actual sales in the months in which they were
+made. Instead, FCA US maintained a database of actual but unreported sales. FCA employees
+often referred to the database as a “cookie jar.” In months when it wanted its vehicle sales results
+to appear better than they were, FCA US dipped into the “cookie jar” to inflate vehicle sales
+numbers. In particular, FCA US manipulated vehicle sales to avoid ending the growth streak.
+1
+ The findings herein are made pursuant to Respondents’ Offers of Settlement and are not
+ binding on any other person or entity in this or any other proceeding.
+ 2
+FCA US falsely reported year-over-year sales growth in September 2013 and May 2016, when in
+fact, sales in those months declined as compared to sales in the same months of the preceding
+years. FCA US also inflated results before investor events that were held while FCA N.V. was
+preparing to list shares on the New York Stock Exchange (“NYSE”). As a result of these
+practices, FCA US’s reported sales and year-over-year growth percentages were misstated every
+month during the relevant period.
+ 6. On multiple occasions from 2013 through 2015, dealers and employees informed
+FCA US of fake sales reporting at its Business Centers. Nevertheless, FCA US continued to
+falsely report sales through mid-2016. Moreover, after a dealer filed a lawsuit in January 2016
+alleging that FCA US offered to pay the dealer to report fake sales, FCA N.V. publicly denied the
+allegations.
+ 7. In their books and records, Respondents inaccurately recorded FCA US’s payments
+to dealers to report fake sales as advertising expenses. Moreover, Respondents’ books and records
+did not accurately reflect the number of vehicles sold by FCA US in a particular month because
+FCA US used the database where it stored actual but unreported sales. Respondents also failed to
+have a sufficient system of internal accounting controls relating to how new vehicle sales and
+dealer payments were recorded.
+ 8. Accordingly, Respondents violated the antifraud provisions of the Securities Act
+and the Exchange Act as well as the reporting, books and records, and internal accounting controls
+provisions of the Exchange Act. Specifically, FCA US violated Section 17(a) of the Securities Act
+and Sections 10(b), 15(d), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 10b-5, 12b-
+20, and 15d-11 thereunder. FCA N.V. violated Section 17(a) of the Securities Act and Sections
+10(b), 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 10b-5, 12b-20, and 13a-
+16 thereunder.
+ Respondents
+ 9. FCA US, a subsidiary of FCA N.V., is a Delaware limited liability company
+headquartered in Auburn Hills, Michigan. It designs, manufactures and sells vehicles. FCA US
+was previously known as Chrysler Group LLC. Fiat S.p.A. (“Fiat”), FCA N.V.’s predecessor, first
+acquired an ownership stake in FCA US in 2009. By January 2014, Fiat acquired a 100 percent
+equity interest in FCA US. On February 25, 2011, to satisfy a contractual obligation to the U.S.
+Department of the Treasury to make periodic reports to the Commission, FCA US registered its
+Class B Membership Interests under Section 12(g) of the Exchange Act. Su
+
+===== AAER-4099 | released Oct. 10, 2019 | respondent(s): Northwest Biotherapeutics, Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 87281 / October 10, 2019
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4099 / October 10, 2019
+ADMINISTRATIVE PROCEEDING
+File No. 3-19582
+ In the Matter of ORDER INSTITUTING CEASE-AND-
+ DESIST PROCEEDINGS, PURSUANT TO
+ NORTHWEST SECTION 21C OF THE SECURITIES
+ BIOTHERAPEUTICS, INC. EXCHANGE ACT OF 1934, MAKING
+ FINDINGS, AND IMPOSING A CEASE-
+ Respondent. AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”) against Northwest Biotherapeutics, Inc. (“Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+And-Desist Proceedings, Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-And-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds 1 that
+ Summary
+ These proceedings involve violations of the federal securities laws in connection with the
+Respondent’s Internal Control over Financial Reporting (“ICFR”). Respondent failed to create and
+implement effective ICFR for twelve consecutive annual reporting periods from 2007 through 2018.
+ Respondent
+ 1. Northwest Biotherapeutics, Inc. is a clinical stage biotechnology company, founded
+in 1996, headquartered in Bethesda, Maryland, and focused on developing cancer vaccines
+designed to treat a broad range of solid tumor cancers. NWBO has a class of securities registered
+pursuant to Section 12(g) of the Exchange Act and its common stock trades on the OTC market
+under the symbol NWBO. At all relevant times, Respondent filed periodic reports with the
+Commission, including Forms 10-K and 10-Q, pursuant to Section 13 of the Exchange Act and
+related rules thereunder.
+ Background
+ 2. Respondent publicly disclosed material weaknesses in each of its Forms 10-K over
+a period of twelve years, from 2007 through 2018. Respondent’s disclosed material weaknesses
+often repeated year after year, relating to numerous areas of importance, including the review,
+supervision and monitoring of accounting operations throughout the organization.
+ 3. In each of the most recent five fiscal years from 2014 through 2018, Respondent
+publicly disclosed that its policies and procedures with respect to the review, supervision and
+monitoring of accounting operations throughout the organization were either not designed and in
+place or not operating effectively. Similarly, Respondent disclosed in nine of the last twelve fiscal
+years that it lacked controls in place, including those surrounding related party transactions, to
+ensure that all material transactions and developments impacting the financial statements are
+reflected and properly recorded.
+ 4. In its most recent Form 10-K filed for FY2018, Respondent continued to disclose
+material weaknesses, including two newly-identified weaknesses, one of which is the lack of
+formalized and implemented policy and procedure documentation to evidence a system of ICFR.
+1 The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding on any
+ other person or entity in this or any other proceeding.
+ 2
+ 5. In addition, Respondent has failed to file timely its annual report on Form 10-K for
+sixteen consecutive years, which includes all twelve years (from 2007 through 2018) in which
+NWBO’s management was required to perform an annual assessment of ICFR under SOX.
+ 6. From 2012 through 2015, Respondent reported that the material weaknesses in its
+internal controls had not been resolved, though Respondent did take certain steps to attempt to
+improve controls. These remediation steps included hiring a Controller and a senior administrative
+staffer; outsourcing its accounting and financial reporting functions; and recruiting an in-house
+counsel.
+ 7. Although Respondent hired a SOX consultant in spring 2016, there was limited
+progress in remediating material weaknesses prior to the staff’s outreach. In 2016, the Respondent
+remediated certain material weaknesses, including those related to segregation of duties and its
+lack of an effective anti-fraud program designed to detect and prevent fraud. In 2017, the
+Respondent adopted enhanced governance guidelines and policies, among other improvements. In
+2018, the Respondent remediated material weaknesses involving related party transactions.
+Despite these efforts, Respondent continues to report material weaknesses.
+ 8. As a result of the conduct described above, Respondent violated Rule 13a-15(a) of
+the Exchange Act, which requires issuers with classes of securities registered pursuant to Section
+12 to maintain ICFR.
+ 9. As a result of the conduct described above, Respondent violated Section
+13(b)(2)(B) of the Exchange Act, which requires Section 12 registrants to devise and maintain a
+system of internal accounting controls sufficient to provide reasonable assurance that, among other
+things, transactions are recorded in accordance with GAAP.
+ Northwest Biotherapeutics’s Remedial Efforts
+ 10. In determining to accept the Offer, the Commission considered remedial acts
+undertaken by Respondent and cooperation afforded the Commission staff.
+ Undertakings
+ Respondent has undertaken to:
+ 11. Retain, at its own expense, a qualified independent consultant (the “Consultant”)
+not unacceptable to the Commission staff, to review and evaluate Respondent’s ICFR and to
+provide recommendations for improvements as may be needed to complete its remediation plan
+and ensure compliance with ICFR requirements. This review and evaluation shall include an
+assessment of Respondent’s policies and procedures involving the approval and recording of
+current and historic transactions with related parties, policies and procedures regarding public
+disclosures, and corporate governance matters.
+ 3
+
+
+===== AAER-4107 | released Dec. 12, 2019 | respondent(s): Stonemor Partners L.P. and Stonemor GP LLC =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 87732 / December 12, 2019
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4107 / December 12, 2019
+ADMINISTRATIVE PROCEEDING
+File No. 3-19616
+ ORDER INSTITUTING CEASE-AND-
+ In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 21C OF THE SECURITIES
+ STONEMOR PARTNERS EXCHANGE ACT OF 1934, MAKING
+ L.P. and STONEMOR GP FINDINGS, AND IMPOSING A CEASE-
+ LLC, AND-DESIST ORDER
+ Respondents.
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), against StoneMor Partners L.P. and StoneMor GP LLC.
+ II.
+ In anticipation of the institution of these proceedings, Respondents have submitted Offers
+of Settlement (the “Offers”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the
+findings herein, except as to the Commission’s jurisdiction over them and the subject matter of
+these proceedings, which are admitted, Respondents consent to the entry of this Order Instituting
+Cease-and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934,
+Making Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ 1
+ III.
+ On the basis of this Order and Respondents’ Offers, the Commission finds1 that:
+ Summary
+ 1. These proceedings involve violations of the reporting, books and records, internal
+accounting controls and related provisions of the federal securities laws by StoneMor Partners L.P.
+(“StoneMor”), a publicly traded master limited partnership (“MLP”) and owner and operator of
+cemeteries and funeral homes throughout the United States, and its general partner, StoneMor GP
+LLC (the “General Partner”).
+ 2. Beginning in the fourth quarter of 2015, and continuing through at least the second
+quarter of 2016, the General Partner internally identified material issues concerning StoneMor’s
+two primary sources of cash flow—customer sales and short-term borrowings—which jeopardized
+the General Partner’s ability to operate and grow StoneMor’s business. Despite these issues, the
+Management’s Discussion & Analysis (“MD&A”) sections of StoneMor’s 2015 annual report on
+Form 10-K, and its quarterly reports for first and second quarter of 2016 on Forms 10-Q, did not
+include a discussion of material unfavorable trends and uncertainties concerning these two areas, as
+contemplated by Item 303 of Regulation S-K. As a result, investors and others were unable to
+fully assess StoneMor’s liquidity.
+ 3. Additionally, between March 2014 and November 2016, StoneMor filed annual and
+quarterly reports on Forms 10-K and Forms 10-Q, respectively, that contained financial statements
+that did not materially comply with U.S. generally accepted accounting principles (“GAAP”).
+When StoneMor publicly announced its decision to restate its inaccurate financial statements, it
+disclosed that the GAAP reporting errors were the result of material weaknesses in its internal
+control over financial reporting (ICFR). These material weaknesses persisted for several years and
+caused StoneMor to be delinquent in filing nine consecutive quarterly and annual reports beginning
+with its 2016 annual report on Form 10-K and continuing through its 2018 annual report on Form
+10-K. These delinquent filings likewise deprived investors and others of timely and material
+information concerning StoneMor’s results of operations and financial condition.
+ Respondents
+ 4. StoneMor Partners L.P., a Delaware master limited partnership headquartered in
+Trevose, Pennsylvania, is an owner and operator of cemeteries and funeral homes. StoneMor’s
+common stock is registered with the Commission pursuant to Section 12(b) of the Exchange Act
+and is quoted under the symbol “STON” on the New York Stock Exchange. On September 28,
+2018, StoneMor announced its intention to transition from an MLP to a Delaware corporation.
+To date, that transition is not complete.
+1
+ The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding on
+any other person or entity in this or any other proceeding.
+ 2
+ 5. StoneMor GP LLC, a privately-held Delaware limited liability company, is
+StoneMor’s general partner. StoneMor GP LLC is a wholly owned subsidiary of StoneMor GP
+Holdings LLC, which is, in turn, owned or controlled by certain current and former members of
+StoneMor GP LLC senior management. At all relevant times, StoneMor GP LLC was
+responsible for the timely and accurate filing of periodic reports with the Commission.
+ Facts
+ Item 303 of Regulation S-K
+ 6. Item 303 of Regulation S-K sets forth the types of information an issuer must
+disclose in the MD&A section of its quarterly and annual filings. As the Commission has
+previously emphasized, the MD&A is an important disclosure tool that is designed to provide
+investors with a perspective on a company’s business “as seen through the eyes of those who
+manage that business” because “management has a unique perspective on its business that only it
+can present.”2
+ 7. Item 303(a) of Regulation S-K requires an issuer’s annual filings to include
+discussion and analysis of “material events and uncertainties known to management that would
+cause reported financial information not to be necessarily indicative of future operating results or
+of future financial condition.” See 17 C.F.R. § 229.303(a), Instruction 3. This includes the
+requirement to identify “any known trends or any known demands, commitments, events or
+uncertainties that will result in or that are reasonably likely to result in the registrant’s liquidity
+increasing or decreasing in a material way.”3 “If a material deficiency is identified,” an issuer
+must “indicate the course of action that [it] has taken or proposes to take to remedy the
+deficiency.” See 17 C.F.R. § 229.303(a)(1). As used in Item 303 of Regulation S-K, liquidity
+refers to “the ability of an enterprise to generate adequate amounts of cash to meet [its] needs for
+cash” and “shall be discussed in the context of the registrant’s own business.” See 17 C.F.R. §
+229.303(a), Instruction 5. See 17 C.F.R. § 229.303(a)(1). Item 303(b) of Regulation S-K
+imposes related requirements on an issuer’s quarterly filings—namely, that an issuer report in an
+MD&A section any material changes to its financial condition or results of operations. See 17
+C.F.R. § 229.303(b).
+ Relevant StoneMor Background
+ 8. At all relevant times, and pursuant to StoneMor’s limited partnership agreement
+(“LPA”), the General Partner retained full power, authority, and responsibility to conduct
+StoneMor’s business, which included, but was not limited to, owning and operating cemeteries
+throughout the United St
+
+===== AAER-4110 | released Dec. 20, 2019 | respondent(s): Quantum Corporation =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 87812 / December 20, 2019
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4110 / December 20, 2019
+ADMINISTRATIVE PROCEEDING
+File No. 3-19626
+ ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 21C OF THE SECURITIES
+ QUANTUM EXCHANGE ACT OF 1934, MAKING
+ CORPORATION, FINDINGS, AND IMPOSING A CEASE-
+ AND-DESIST ORDER
+Respondent.
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”) against Quantum Corporation (“Quantum” or
+“Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (“Offer”) which the Commission has determined to accept. Solely for the purpose of
+these proceedings and any other proceedings brought by or on behalf of the Commission, or to
+which the Commission is a party, and without admitting or denying the findings herein, except as
+to the Commission’s jurisdiction over it and the subject matter of these proceedings, which are
+admitted, Respondent consents to the entry of this Order Instituting Cease-and-Desist Proceedings
+Pursuant to Section 21C of the Securities Exchange Act of 1934, Making Findings, and Imposing a
+Cease-and-Desist Order (“Order”), as set forth below.
+ 1
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds that:
+ Summary
+ 1. Quantum is a public data storage company that manufactures and sells hardware to
+channel partners such as distributors and resellers, as well as to end-user customers. Between the
+fourth quarter of its 2015 fiscal year (which ended March 31, 2015) and the second quarter of its
+2018 fiscal year (which ended September 30, 2017) (“the restatement period”), Quantum
+recognized revenue from dozens of transactions with channel partners without meeting the
+necessary revenue recognition criteria under Generally Accepted Accounting Principles (“GAAP”).
+These errors caused Quantum to materially overstate its revenue for certain reporting periods and to
+understate its revenue in other periods.
+ 2. Quantum’s revenue recognition errors resulted from internal accounting control
+failures, including insufficient controls to provide reasonable assurance that the relevant accounting
+personnel had sufficient expertise and knowledge regarding channel partner transactions to make
+appropriate revenue recognition determinations. In this environment, Quantum’s revenue
+recognition errors continued unchecked for almost three years.
+ 3. In 2019, Quantum disclosed material misstatements in its consolidated financial
+statements for three annual periods and five quarterly periods and announced a restatement, as well
+as material weaknesses in its internal control over financial reporting.
+ Respondent
+ 4. Quantum is a Delaware corporation with its principal executive offices in San Jose,
+California. Quantum’s common stock is registered with the Commission pursuant to Section 12(g)
+of the Exchange Act. Until January 2019, Quantum’s common stock traded on the New York Stock
+Exchange (“NYSE”) under the ticker symbol QTM. Currently, Quantum’s common stock trades on
+the OTC Pink exchange under the ticker symbol QMCO.
+ Facts
+A. Quantum’s Business and Historical Revenue Recognition Policy
+ 5. At all relevant times, Quantum’s business focused on manufacturing and selling data
+storage devices and systems, including physical hardware such as disk drives. Quantum works with
+a network of numerous channel partners, including distributors and value-added resellers. Channel
+partners purchase hardware from Quantum and then resell the products to end users or other channel
+partners.
+ 6. Quantum disclosed in its Forms 10-K for fiscal years 2015, 2016, and 2017 that it
+prepared its financial statements in accordance with GAAP. Under Accounting Standards
+Codification (“ASC”) 605, Revenue Recognition, revenue should be recognized only when it is both
+ 2
+earned and realized or realizable. Consistent with GAAP, in its Forms 10-K, Quantum’s critical
+accounting policies explained that the company considered revenue to be earned and realized or
+realizable when: (1) persuasive evidence of an arrangement exists; (2) delivery has occurred or
+services have been rendered; (3) the seller’s price to the buyer is fixed or determinable; and (4)
+collectability is reasonably assured. As disclosed in its Forms 10-K, Quantum told investors that it
+generally recognized revenue upon shipment (i.e., on a “sell-in” basis) for hardware products sold to
+channel partners. Quantum’s Forms 10-K also disclosed that when significant post-delivery
+obligations existed, the related revenue was deferred until such obligations were fulfilled.
+B. For Almost Three Years, Quantum Repeatedly Recognized Revenue in Incorrect
+ Periods
+ 7. During the restatement period, Quantum did not design or maintain sufficient
+internal accounting controls to provide reasonable assurance that the company complied with the
+revenue recognition criteria under GAAP. In the absence of sufficient controls, Quantum overstated
+or understated up to approximately 7% of its total quarterly revenue in incorrect periods as a result
+of (1) certain sales practices of granting favorable deal terms to channel partners that were not
+properly accounted for at the time of revenue recognition; and (2) bill and hold arrangements. As a
+result, Quantum materially misstated its financial statements from the fourth quarter of fiscal year
+2015 through the second quarter of fiscal year 2018, and failed to make and keep accurate books
+and records.
+ Quantum’s Sales Practices to Encourage Channel Partners to Buy More Inventory
+ 8. Quantum’s revenue recognition issues began in early 2015. By that time, Quantum
+had experienced waning market demand for certain products, causing its total revenues to shrink
+from about $1.01 billion in fiscal year 2007 to about $553 million in fiscal year 2014. In 2014, an
+activist investor approached Quantum regarding its performance and entered into a standstill
+agreement with the company. Among other things, the standstill agreement set forth business
+objectives (including revenue targets) that Quantum needed to hit in its 2015 fiscal year. If
+Quantum missed the targets, the activist investor would gain two additional seats on Quantum’s
+board of directors.
+ 9. In response, Quantum made a business decision to rely more heavily on two pre-
+existing sales practices to help the company achieve the revenue targets in the standstill agreement.
+First, Quantum increasingly encouraged channel partners to place “stocking orders.” The general
+purpose of “stocking orders” was to enable channel partners to build up inventory of new Quantum
+products that they would resell in later periods to satisfy expected future end us

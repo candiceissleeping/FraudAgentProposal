@@ -1,0 +1,987 @@
+===== AAER-4283 | released Feb. 22, 2022 | respondent(s): Baxter International Inc., Jeffrey Schaible, Scott Bohaboy =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 11032 / February 22, 2022
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 94294 / February 22, 2022
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4283 / February 22, 2022
+ADMINISTRATIVE PROCEEDING
+File No. 3-20781
+ ORDER INSTITUTING CEASE-AND-
+ In the Matter of DESIST PROCEEDINGS, PURSUANT TO
+ SECTION 8A OF THE SECURITIES ACT
+ BAXTER INTERNATIONAL OF 1933 AND SECTION 21C OF THE
+ INC. SECURITIES EXCHANGE ACT OF 1934,
+ MAKING FINDINGS, AND IMPOSING A
+ Respondent. CEASE-AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act
+of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 1934 (“Exchange
+Act”) against Baxter International Inc. (“Baxter” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over Respondent and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings, Pursuant to Section 8A of the Securities Act of 1933 and Section 21C of
+the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order
+(“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ Summary
+ 1. Baxter is a publicly-traded, U.S.-based healthcare product company that generates
+the majority of its revenue outside of the U.S. Baxter reports its consolidated financial results in
+U.S. dollars, although many of its subsidiaries have a different functional currency as they
+manufacture and sell products globally and transact in foreign currencies. The values of these
+foreign currencies relative to the U.S. dollar fluctuate frequently.
+ 2. From at least 1995 through July 2019, the foreign exchange rate convention (“FX
+Convention”) Baxter used to record foreign currency transactions recognized by subsidiaries in their
+functional currencies and to uniformly translate the results of subsidiaries with foreign functional
+currencies into U.S. dollars was not in accordance with U.S. generally accepted accounting
+principles (“GAAP”).
+ 3. Beginning in at least 2009 and continuing through July 2019, Baxter improperly
+leveraged its FX Convention by engaging in intra-company transactions for the purpose of
+generating foreign exchange accounting gains or avoiding foreign exchange accounting losses (the
+“FX Transactions”). These FX Transactions had the effect of materially misstating Baxter’s net
+income as reported in its public filings.
+ 4. In October 2019, Baxter announced that it was conducting an internal investigation
+concerning the FX Transactions. In March 2020, Baxter restated its financial statements, which
+reduced its previously reported net income for 2017 through June 30, 2019 and retained earnings as
+of January 1, 2017 by $582 million, collectively. Of this amount, $517 million was related to
+foreign exchange gains and losses dating back to 2010, which was in part attributable to FX
+Transactions.
+ 5. Based on this conduct, and as described in further detail below, Baxter violated
+Sections 17(a)(2) and 17(a)(3) of the Securities Act and Sections 13(a), 13(b)(2)(A), and
+13(b)(2)(B) of the Exchange Act and Rules 13a-1, 13a-11 and 13a-13 thereunder.
+ Respondent
+ 6. Baxter International Inc. is a Delaware corporation with its principal place of
+business in Deerfield, Illinois. Its common stock is registered pursuant to Section 12(b) of the
+Exchange Act and trades on the New York Stock Exchange. Baxter files periodic reports, including
+annual reports on Form 10-K and quarterly reports on Form 10-Q, with the Commission pursuant to
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not
+ binding on any other person or entity in this or any other proceeding.
+ 2
+Section 13(a) of the Exchange Act and related rules thereunder. During the relevant period, Baxter
+sold securities to the public pursuant to registration statements filed with the Commission.
+ Facts
+Baxter’s Foreign Exchange Rate Convention
+ 7. FASB Accounting Standards Codification Topic 830, “Foreign Currency Matters”
+(ASC 830), provides guidance concerning foreign exchange rate conventions. ASC 830-20-30-1
+requires that foreign currency transactions initially be measured and recorded in an entity’s
+functional currency using the exchange rate on the date of the transaction. ASC 830-20-35-2
+requires that foreign currency denominated assets and liabilities be remeasured at the end of each
+reporting period using the exchange rate at that date.
+ 8. Before July 2019, Baxter’s FX Convention was not in accordance with GAAP
+because foreign currency transactions in a given month were initially measured using exchange
+rates from a specified date near the middle of the previous month as opposed to the exchange rate
+on the date of the transaction. Additionally, foreign currency denominated assets and liabilities
+were subsequently remeasured at the end of each month using exchange rates from a specified date
+near the middle of the then current month, called “T Day,” and not at the end of the reporting
+period.
+ 9. Because of Baxter’s FX Convention, Baxter employees knew the exchange rates
+that would apply to intra-company transactions from the T Day in a given month through month-
+end.
+Treasury Employees Leveraged Baxter’s Foreign Exchange Rate to Record Gains
+ 10. Baxter’s Treasury department was responsible for managing Baxter’s exposure to
+fluctuations in foreign exchange rates, which Baxter managed on a consolidated basis.
+ 11. Beginning in about 2007, Baxter’s Treasury department began focusing on
+managing Baxter’s foreign exchange rate exposure more efficiently and at a lower cost. Baxter
+wanted to reduce its use of third-party derivative contracts and instead manage its foreign currency
+exposures on a consolidated basis through offsetting cash positions. Baxter developed the FX
+Transactions as a way to better control reported foreign exchange gains and losses.
+ 12. Beginning in at least 2009, personnel in Baxter’s Treasury department engaged in
+the FX Transactions solely to generate non-operating foreign exchange accounting gains or avoid
+foreign exchange accounting losses.
+ 13. Each FX Transaction comprised a series of transactions designed to create a foreign
+exchange gain or avoid a loss at a Baxter subsidiary. For example, when the dollar was
+strengthening in comparison to the Euro, Baxter
+
+===== AAER-4294 | released April 18, 2022 | respondent(s): Rollins, Inc. and Paul Edward Northen =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 11052 / April 18, 2022
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 94742 / April 18, 2022
+ACCOUNTING AND AUDITING ENFORCEMENT RELEASE
+Release No. 4294 / April 18, 2022
+ADMINISTRATIVE PROCEEDING
+File No. 3-20824
+In the Matter of ORDER INSTITUTING CEASE-AND-DESIST
+ PROCEEDINGS PURSUANT TO
+ ROLLINS, INC., and SECTION 8A OF THE SECURITIES ACT OF
+ PAUL EDWARD NORTHEN, 1933 AND SECTION 21C OF THE
+ SECURITIES EXCHANGE ACT OF 1934,
+Respondents. MAKING FINDINGS AND IMPOSING A CEASE-
+ AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that
+cease-and-desist proceedings be, and hereby are, instituted against Rollins, Inc. and Paul Edward
+Northen pursuant to Section 8A of the Securities Act of 1933 (“Securities Act”) and Section 21C
+of the Securities Exchange Act of 1934 (“Exchange Act”).
+ II.
+ In anticipation of the institution of these proceedings, Rollins, Inc. and Paul Edward
+Northen (collectively “Respondents”) have submitted Offers of Settlement (the “Offers”) which
+the Commission has determined to accept. Solely for the purpose of these proceedings and any
+other proceedings brought by or on behalf of the Commission, or to which the Commission is a
+party, and without admitting or denying the findings herein, except as to the Commission’s
+jurisdiction over them and the subject matter of these proceedings, which are admitted, and
+except as provided herein in Section V, Respondents consent to the entry of this Order Instituting
+Cease-and-Desist Proceedings Pursuant to Section 8A of the Securities Act of 1933 and Section
+21C of the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist
+Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondents’ Offers, the Commission finds1 that:
+ SUMMARY
+ 1. This matter involves improper earnings management practices by Rollins, Inc.
+(“Rollins”). During the quarterly close process in two quarters—the first quarter of 2016 and the
+second quarter of 2017—Rollins’ then-Chief Financial Officer, Paul Edward Northen, directed
+reductions to certain corporate-level accounting reserves for the purpose of enabling the company
+to publicly report earnings per share (“EPS”) in line with research analysts’ consensus estimates.
+At the time that Northen directed reductions to the reserve accounts, he was aware that the
+company’s preliminary earnings results were close to, but short of, consensus EPS estimates.
+Northen directed the reduction in the accounting reserve accounts, which had the effect of
+increasing the company’s net income, toward the very end of the quarterly close process, without
+conducting an analysis of the appropriate accounting criteria under generally accepted accounting
+principles (“GAAP”) and without adequately memorializing the basis for his decision to reduce the
+accounting reserves at issue. Had these reserves not been reduced, Rollins would have missed
+consensus EPS estimates in the two quarters by one penny.
+ 2. As a result of such conduct, Rollins reported misstated net income and EPS in its
+quarterly reports filed on Form 10-Q and in its earnings releases for the first quarter of 2016 and
+the second quarter of 2017, and further made materially false and misleading disclosures regarding
+its EPS performance in those two quarters.
+ 3. Rollins’ improper reduction to accounting reserves took place in an environment of
+inadequate internal accounting controls. In particular, Rollins granted significant discretion to
+finance personnel, including the CFO, to determine the amount of reserves during the quarterly
+close process, at a time when such individuals were aware of potential shortfalls between the
+company’s financial results and internal and external financial targets, such as research analysts’
+consensus EPS estimates. Although Rollins’ policies and procedures required accounting entries
+to have adequate supporting documentation, between the first quarter of 2016 and the fourth
+quarter of 2018, Rollins’ finance personnel recorded manual journal entries that impacted reserve
+accounts with inadequate documentation.
+ 4. As a result, Rollins failed to devise and maintain sufficient internal accounting
+controls to prevent and detect the improper accounting and inadequately supported, period-end
+journal entries described herein, resulting in the underlying violations of the federal securities
+laws.
+1
+ The findings herein are made pursuant to Respondents’ Offers of Settlement and are not binding
+on any other person or entity in this or any other proceeding.
+ 2
+ RESPONDENTS
+ 5. Rollins, Inc. is a Delaware corporation with is principal place of business located in
+in Atlanta, Georgia. Rollins provides termite and other pest control services to residential and
+commercial customers, including through such brands as Orkin. Rollins’ common stock is
+registered with the Commission pursuant to Section 12(b) of the Exchange Act and is traded under
+the symbol “ROL” on the New York Stock Exchange. During the relevant period, Rollins issued
+restricted stock to its employees pursuant to its 2008 Stock Incentive Plan and Form S-8 filed on
+April 18, 2008. The Form S-8 incorporated by reference all subsequent filings made by Rollins
+under the Exchange Act, including the Form 10-Qs for the first quarter of 2016 and the second
+quarter of 2017.
+ 6. Paul Edward Northen, age 57, is a resident of Alpharetta, Georgia. Northen served
+as the Chief Financial Officer, Senior Vice President, and Treasurer of Rollins from 2015 until
+2021.
+ FACTS
+Background
+ 7. Earnings growth was important to Rollins, and it often touted the consistency of
+that growth in its earnings releases and periodic filings to the investing public. For example, in the
+first quarter of 2016, Rollins issued an earnings release on a Form 8-K filed with the Commission
+that announced that the company “post[ed] [its] 40th consecutive quarter of improved revenues and
+earnings[.]” Rollins second quarter 2017 earnings release similarly announced its “45th
+consecutive quarter of improved revenue and earnings[.]” In addition, Rollins’ senior
+management, including Northen, regularly tracked the company’s financial performance against
+various internal and external financial targets, including, as is relevant here, research analysts’
+consensus EPS estimates. Rollins’ Board of Directors also received information comparing the
+company’s actual EPS performance against consensus EPS estimates.
+ 8. Each quarter, Rollins made a determination as to the appropriate amount to reserve
+(or accrue) for several different categories of liability accounts, including certain corporate-level
+reserve accounts that were determined after individual Rollins reporting units had reported their
+operating results. For instance, Rollins maintained a termite reserve, which was an estimate of
+actual or potential damage claims by r
+
+===== AAER-4302 | released June 7, 2022 | respondent(s): Synchronoss Technologies, Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 95049 / June 7, 2022
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4302 / June 7, 2022
+ADMINISTRATIVE PROCEEDING
+File No. 3-20883
+ ORDER INSTITUTING CEASE-AND-
+ In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 21C OF THE SECURITIES
+ SYNCHRONOSS EXCHANGE ACT OF 1934, MAKING
+ TECHNOLOGIES, INC. FINDINGS, AND IMPOSING A CEASE-
+ AND-DESIST ORDER
+ Respondent.
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”) against Synchronoss Technologies, Inc. (“SNCR” or
+“Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease and Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that
+ Summary
+ 1. Synchronoss Technologies, Inc. (“SNCR”), a New Jersey-based technology
+company that primarily provides products, software, and services to telecommunications
+companies, engaged in improper accounting from at least 2013 through 2017.
+ 2. In July 2018, SNCR announced a restatement of its audited financial statements for
+the fiscal years ended December 31, 2016 and 2015 and restated selected financial data for the fiscal
+years ended 2014 and 2013 totaling approximately $190 million in cumulative revenues. As part of
+this announcement, SNCR restated revenues related to certain transactions for which SNCR had
+recognized revenue improperly and in a manner inconsistent with generally accepted accounting
+principles (“GAAP”). The restatement primarily related to three categories of transactions, for
+which SNCR improperly recognized revenue: (1) transactions for which there was not persuasive
+evidence of an arrangement; (2) acquisitions/divestitures in which SNCR recognized revenue on
+license agreement(s) instead of combining those purported amounts with the purchase or sales
+prices; and (3) license/hosting transactions, in which SNCR converted prior multi-term software-
+as-a-service (“SaaS”) agreements into perpetual license agreements, and improperly recognized the
+revenue upfront, instead of recognizing it ratably over the term of the arrangements. In its
+restatement, SNCR also acknowledged “pervasive material weaknesses” in its internal control over
+financial reporting for the restatement period.
+ 3. Certain instances of SNCR’s improper accounting were the result of misconduct by
+certain of SNCR’s senior executives and other employees. As a result of this misconduct, SNCR
+filed with the Commission materially misstated financial statements in its annual, quarterly and
+current reports during the restatement period.
+ Respondent
+ 4. SNCR is a Delaware corporation with its principal place of business in New Jersey.
+Its securities are registered pursuant to Section 12(b) of the Exchange Act. Its securities are
+currently listed on NASDAQ, although SNCR’s common stock was suspended from trading on
+NASDAQ from May 2018 to October 2018 because it had become delinquent in its required filings.
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not
+binding on any other person or entity in this or any other proceeding.
+ 2
+ Facts
+ A. Background
+ 5. In May 2017, SNCR announced that it would not be able to file its Form 10-Q on
+time. On June 8, 2017, SNCR’s audit committee announced that it concluded that the financial
+statements for the fiscal years (“FY”) ending December 31, 2015 and 2016 and their respective
+quarterly periods should not be relied on. On October 5, 2017, SNCR’s audit committee announced
+that it concluded that the financial statements for FY 2014 and its quarterly periods should not be
+relied on.
+ 6. On July 2, 2018, SNCR filed a Form 10-K with the Commission that restated its FY
+2015 and 2016 financial statements and certain financial data for FY 2013 and 2014. The
+restatements applied to approximately $190 million in cumulative revenues for the four year period.
+In its restatement, SNCR also acknowledged “pervasive material weaknesses” in its internal control
+over financial reporting for the restatement period.
+ 7. SNCR restated revenue primarily related to three categories of transactions as
+mentioned above: (1) transactions for which there was not persuasive evidence of an arrangement;
+(2) acquisitions or divestitures in which SNCR recognized revenue on license agreements rather
+than combining those purported amounts with the purchase or sales prices; and (3) license/hosting
+transactions, in which the company improperly recognized revenue upfront, instead of ratably over
+the term of the multi-year arrangements.
+ B. Lack of Persuasive Evidence of an Arrangement
+ 8. During the restatement period, Financial Accounting Standards Board (“FASB”)
+Accounting Standards Codification (“ASC”) 985-605-25-3 provided that revenue from the sale of
+software that does not require significant production, modification or customization shall be
+recognized only when all of the following criteria are met: (1) persuasive evidence of an
+arrangement exists; (2) delivery has occurred; (3) the vendor’s fee is fixed or determinable; and (4)
+collectability is probable.
+ 9. With respect to its filings for Q3 2015, Q4 2015, and Q1 2016—specifically, its
+Forms 8-K, 10-Q, and 10-K covering these periods—SNCR recognized revenue for multiple
+transactions for which it lacked persuasive evidence of arrangements. Specifically, it recognized
+$4.35 million in Q3 2015 (Transaction 1), $3 million in Q4 2015 (Transaction 2), and $5 million in
+Q1 2016 (Transaction 3). The amounts were improperly recorded as unbilled receivables.
+ 3
+
+
+===== AAER-4318 | released Aug. 3, 2022 | respondent(s): Surgalign Holdings, Inc. and Robert P. Jordheim =====
+ Case 1:22-cv-02296 Document 1 Filed 08/03/22 Page 1 of 42
+ UNITED STATES DISTRICT COURT
+ FOR THE DISTRICT OF COLUMBIA
+ SECURITIES AND EXCHANGE COMMISSION
+ 100 F Street NE Case No. 22-CV-2296
+ Washington, DC 20549,
+ Plaintiff,
+ v.
+ JURY TRIAL DEMANDED
+ BRIAN K. HUTCHISON
+ c/o Davis Wright Tremaine
+ 1001 G Street NW, Seventh Floor
+ Washington, DC 20001,
+ Defendant.
+ COMPLAINT
+ Plaintiff Securities and Exchange Commission (“SEC”) alleges as follows:
+ SUMMARY
+ 1. This is a disclosure fraud and accounting fraud case in which Brian K. Hutchison
+(“Hutchison”), the CEO of RTI Surgical Holdings (“RTI”), masked disappointing sales numbers
+from Q1 2015 through Q2 2016 (the “Relevant Period”) by urging his subordinates to ship future
+orders ahead of schedule and report the revenue early. Recognizing revenue for early shipments
+jeopardized RTI’s ability to meet its revenue guidance for future quarters and alienated its
+customers, who demanded discounts to accept product early and reduced their subsequent orders,
+putting RTI further behind its aggressive revenue projections. Hutchison then repeatedly misled
+the market, in both RTI’s periodic filings and his own public statements, to conceal the truth
+behind RTI’s seemingly robust revenues.
+ 2. Throughout 2015, Hutchison approved a series of aggressive quarterly revenue
+targets that RTI announced to investors and the market. Hutchison knew that he would receive
+ 1
+ Case 1:22-cv-02296 Document 1 Filed 08/03/22 Page 2 of 42
+bonus compensation in the form of cash and stock awards if RTI hit its revenue targets. But
+Hutchison found RTI repeatedly unable to reach its revenue targets with sales from the quarter.
+Desperate to reach his targets, Hutchison urged his managers to ship products that were not due
+to be sent until the next quarter — weeks or months in advance. By recognizing revenue for
+these orders in the quarter they were shipped, not the quarter when RTI’s customers wanted them
+to be delivered, RTI found a way to show investors that it had met its revenue targets. But this
+practice of “pulling forward” revenue merely postponed the inevitable. RTI found it more and
+more difficult to meet its quarterly guidance as it stripped more and more revenue from future
+quarters.
+ 3. In 2016, Hutchison faced a cascade of problems that placed his position as CEO
+in jeopardy. Although he had publicly announced an ambitious goal of achieving $500 million
+in annual revenue, RTI’s reported revenue was only $282 million in 2015. Hutchison’s allies on
+the Board of Directors resigned, and when the next Chairman of the Board was selected,
+Hutchison was passed over. An influential Board member unexpectedly announced that he
+would not support an acquisition championed by Hutchison. And an RTI investor launched a
+proxy fight, blaming Hutchison for RTI’s poor financial performance. In the midst of these
+challenges, RTI’s stock price dropped to a two-year low in Q1 2016.
+ 4. At Hutchison’s direction, RTI continued to scour its order books at quarter-end
+for orders that were scheduled to be delivered in future quarters, to ship those orders early, and
+then to book the revenue in the current quarter. Although Hutchison knew that RTI was
+depleting future orders, angering customers, and in some instances violating accounting rules, he
+publicly and falsely attributed RTI’s apparent success to growth in orders, claiming that RTI had
+ 2
+ Case 1:22-cv-02296 Document 1 Filed 08/03/22 Page 3 of 42
+benefited from “higher-than-expected orders,” “industry consolidation,” or orders that “just keep
+coming in.”
+ 5. Hutchison was ultimately unable to save his job. In August 2016, at the request
+of RTI’s Board of Directors, Hutchison announced his resignation. In December 2016, he
+formally stepped down.
+ 6. On March 16, 2020, following the start of an investigation by the SEC, RTI
+announced that it would begin an internal investigation into its “revenue recognition practices
+regarding the timing of revenue.” Over the next two days, RTI’s stock price dropped more than
+27%, from $2.75 to $1.99. RTI’s investigation culminated in a five-year restatement, issued in
+June 2020. In its restatement, RTI acknowledged improperly recognizing revenue for shipments
+sent early to customers without advance approval. RTI also determined that its disclosure
+controls and procedures were ineffective and that there were material weaknesses in its internal
+controls over financial reporting.
+ 7. Hutchison has not reimbursed RTI for the bonuses and other incentive- and
+equity-based compensation he received from RTI, or for his substantial profits from sales of RTI
+stock after he left RTI.
+ 8. By engaging in the misconduct described herein, Hutchison violated antifraud,
+internal accounting controls, and books-and-records provisions of the Securities Exchange Act of
+1934 (“Exchange Act”), Securities Act of 1933 (“Securities Act”), and Sarbanes-Oxley Act of
+2002 (“Sarbanes-Oxley Act”), and the rules thereunder, and he aided and abetted violations by
+RTI.
+ 3
+
+
+===== AAER-4328 | released Aug. 25, 2022 | respondent(s): Taronis Technologies, Inc., et al. =====
+ Case 8:22-cv-01939 Document 1 Filed 08/24/22 Page 1 of 79 PageID 1
+ UNITED STATES DISTRICT COURT
+ MIDDLE DISTRICT OF FLORIDA
+ CASE NO. ___________
+SECURITIES AND EXCHANGE COMMISSION,
+ Plaintiff,
+v.
+TARONIS TECHNOLOGIES, INC.
+(n/k/a BBHC, INC.),
+TARONIS FUELS, INC.,
+SCOTT DAVID MAHONEY, and
+TYLER BURNETT WILSON,
+ Defendants.
+___________________________________/
+ COMPLAINT FOR INJUNCTIVE AND OTHER RELIEF
+ AND DEMAND FOR JURY TRIAL
+ Plaintiff Securities and Exchange Commission (the “SEC” or the
+“Commission”) alleges:
+I. INTRODUCTION
+ 1. From approximately January 2019 to March 2020, Taronis
+Technologies, Inc., n/k/a BBHC, Inc. (“Taronis Tech”), and from approximately
+February 2020 to November 2020, Taronis Tech’s former subsidiary, Taronis
+Fuels, Inc. (“Taronis Fuels”), Arizona-based producers of fuel and water products,
+and the former Chief Executive Officer (“CEO”) of both companies during the
+relevant time periods, Scott David Mahoney (“Mahoney”), engaged in a fraudulent
+ Case 8:22-cv-01939 Document 1 Filed 08/24/22 Page 2 of 79 PageID 2
+scheme to deceive investors and potential investors about Taronis Tech’s and
+Taronis Fuels’ successes by issuing numerous materially false and misleading
+press releases touting agreements and relationships with customers that did not
+exist or were exaggerated. Mahoney devised and controlled the communication
+campaign and had ultimate authority for the issuance of these materially false and
+misleading press releases, which he often drafted himself and in which he
+frequently was quoted.
+ 2. In addition, Taronis Fuels’ financial statements for the quarterly
+periods ending June 30, 2020 (“Q2 2020”) and September 30, 2020 (“Q3 2020”)
+improperly recognized revenue as a result of intentional or severely reckless
+incorrect application of Generally Accepted Accounting Principles (“GAAP”).
+From approximately April 2020 to November 2020, Mahoney and Taronis Fuels’
+former General Counsel (“GC”) and Chief Financial Officer (“CFO”), Tyler Burnett
+Wilson (“Wilson”), knowingly or recklessly engaged in this improper accounting
+scheme and falsified Taronis Fuels’ books and records by creating fake and
+backdated orders, which resulted in Taronis Fuels improperly recognizing this
+revenue. Then, from approximately July 2020 to November 2020, Taronis Fuels
+raised approximately $30 million from investors, while making misleading
+representations and warranties that the financial statements in SEC filings were
+prepared in accordance with GAAP.
+ 2
+ Case 8:22-cv-01939 Document 1 Filed 08/24/22 Page 3 of 79 PageID 3
+ 3. By engaging in this conduct, the Defendants are liable as follows, and
+unless enjoined, are reasonably likely to continue to violate the federal securities
+laws:
+ a. Taronis Tech violated Sections 10(b) and 13(a) of the Securities
+ Exchange Act of 1934 (the “Exchange Act”) [15 U.S.C. §§ 78j(b)
+ and 78m(a)] and Rules 10b-5, 12b-20, 13a-1, 13a-11, and 13a-13
+ [17 C.F.R. §§ 240.10b-5, 240.12b-20, 240.13a-1, 240.13a-11,
+ and 240.13a-13] thereunder.
+ b. Taronis Fuels violated Section 17(a) of the Securities Act of 1933
+ (the “Securities Act”) [15 U.S.C. § 77q(a)] and Sections 10(b),
+ 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act [15
+ U.S.C. §§ 78j(b), 78m(a), 78m(b)(2)(A), and 78m(b)(2)(B)] and
+ Rules 10b-5, 12b-20, 12b-25, 13a-11, and 13a-13 [17 C.F.R. §§
+ 240.10b-5, 240.12b-20, 240.12b-25, 240.13a-11, and 240.13a-
+ 13] thereunder.
+ c. Mahoney and Wilson violated Section 17(a) of the Securities Act
+ [15 U.S.C. § 77q(a)], Sections 10(b) and 13(b)(5) of the
+ Exchange Act [15 U.S.C. §§ 78j(b) and 78m(b)(5)] and Rules
+ 10b-5, 13a-14, 13b2-1, and 13b2-2 [17 C.F.R. §§ 240.10b-5,
+ 240.13a-14, 240.13b2-1, and 240.13b2-2] thereunder, and
+ Section 304 of the Sarbanes-Oxley Act of 2002 (“SOX”) [15
+ U.S.C. § 7243].
+ d. Mahoney and Wilson also aided and abetted Taronis Fuels’
+ violations of Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the
+ Exchange Act [15 U.S.C. §§ 78m(a), 78m(b)(2)(A), and
+ 78m(b)(2)(B)] and Rules 12b-20 and 13a-13 [17 C.F.R. §§
+ 240.12b-20 and 240.13a-13] thereunder.
+ e. In addition, Mahoney aided and abetted Taronis Tech’s
+ violations of Section 13(a) of the Exchange Act [15 U.S.C. §
+ 78m(a)] and Rules 12b-20 and 13a-11 [17 C.F.R. §§ 240.12b-20
+ and 240.13a-11] thereunder.
+ f. Mahoney and Wilson also are liable as control persons under
+ Section 20(a) of the Exchange Act [15 U.S.C. § 78t(a)] for
+ Taronis Fuels’ violations of Sections 10(b), 13(a), 13(b)(2)(A),
+ and13(b)(2)(B) of the Exchange Act [15 U.S.C. §§ 78j(b),
+ 78m(a), 78m(b)(2)(A), and 78m(b)(2)(B)] and Rules 10b-5,
+ 3
+
+
+===== AAER-4330 | released Sept. 2, 2022 | respondent(s): CHS Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 95663 / September 2, 2022
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4330 / September 2, 2022
+ADMINISTRATIVE PROCEEDING
+File No. 3-21022
+ ORDER INSTITUTING CEASE-AND-
+ In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 21C OF THE SECURITIES
+ CHS Inc., EXCHANGE ACT OF 1934, MAKING
+ FINDINGS, AND IMPOSING A CEASE-
+ Respondent. AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), against CHS Inc. (“CHS,” “the company,” or
+“Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the purpose
+of these proceedings and any other proceedings brought by or on behalf of the Commission, or to
+which the Commission is a party, and without admitting or denying the findings herein, except as
+to the Commission’s jurisdiction over it and the subject matter of these proceedings, which are
+admitted, Respondent consents to the entry of this Order Instituting Cease-and-Desist Proceedings
+Pursuant to Section 21C of the Securities Exchange Act of 1934, Making Findings, and Imposing a
+Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding on any
+other person or entity in this or any other proceeding.
+ 1
+ Summary
+ 1. This matter concerns violations of the reporting, books and records, and internal
+accounting controls provisions of the Exchange Act by CHS. As part of its business, the company
+enters into contracts with railroads to transport commodities throughout North America. From at
+least 2014 through 2018, a CHS employee manipulated the quantities and values of these rail
+freight contracts. He was able to do this because of CHS’s insufficient internal accounting controls.
+For example, CHS allowed the employee to both execute trades and determine their valuations. As
+a result of the employee’s misconduct, CHS filed materially false financial statements with the
+Commission on Forms 10-K, 10-Q, and 8-K. CHS later restated its net income for its fiscal years
+2014 through 2018.
+ Respondent
+ 2. CHS Inc., a Minnesota corporation headquartered in Inver Grove Heights,
+Minnesota, is an agricultural cooperative that provides grain, food, agronomy, and energy
+resources to businesses and consumers on a global scale. Its classes of preferred stock are
+registered pursuant to Section 12(b) of the Exchange Act and trade on the NASDAQ Global Select
+Market as CHSCP, CHSCO, CHSCN, CHSCM, and CHSCL.
+ Other Relevant Individual
+ 3. Rail Freight Trader was a CHS senior freight merchandiser during the relevant
+time period.
+ FACTS
+ CHS’s Structure and Background Information
+ 4. CHS has issued preferred stock, but not common stock. The company is a
+cooperative whose equity is 70% owned by approximately 950 local cooperatives that are, in turn,
+owned by half a million farmers and ranchers. The balance of CHS’s equity is owned by roughly
+75,000 individual agricultural producers.
+ 5. CHS operates in three reportable segments—Energy, Nitrogen Production, and Ag.
+Within the Ag segment resides the company’s North American grain marketing operations, which
+is the business unit most relevant to this matter. Rail Freight Trader’s trading desk was charged
+with buying and selling rail freight capacity to support North American grain operations. CHS’s
+rail freight capacity requirements were often met by entering into shuttle loader train contracts with
+railroads. These contracts typically provided for the right and obligation of CHS to continuously
+operate a 110-car train, from one origin to one destination, for one year. Rail Freight Trader
+obtained shuttle contracts primarily by participating in auctions conducted by railroads.
+ 6. Prior to its December 2018 restatement, CHS accounted for its auction and
+secondary market shuttle transactions as derivatives. Accordingly, the company carried the net
+value of the derivatives as an asset on its balance sheet and valued its shuttle capacity on a mark-
+to-market basis. Rail Freight Trader was solely responsible for providing the shuttle contract
+ 2
+quantities and values the company used for derivative accounting purposes. No CHS employees
+were tasked with confirming the accuracy of the information provided by Rail Freight Trader.
+ Rail Freight Trader’s Fraud
+ 7. During August 2018, a CHS vice president reviewed Rail Freight Trader’s most
+recent bid sheet. When he and another CHS employee, who was knowledgeable about shuttle
+values as a consumer of rail freight, examined the document, both immediately recognized that the
+values provided by Rail Freight Trader were grossly overstated. The divergence was so extreme
+that the vice president initially thought that perhaps he misunderstood what the bid sheet reflected.
+ 8. In early September, CHS management held a series of meetings in an attempt to
+understand the reasons behind the discrepancy. It quickly became apparent that Rail Freight Trader
+did not have a legitimate basis for his inflated values. Instead of providing objective, market-based
+prices to CHS’s accounting group, Rail Freight Trader had reported values that he claimed were
+supported by his personal view of what the shuttle contracts would eventually be worth.
+ 9. On September 7, 2018, CHS commenced an internal investigation. In addition to
+confirming widespread valuation problems, the investigation discovered numerous fictitious rail
+freight contracts that Rail Freight Trader had added to the company’s books and records.
+ The Fraud’s Impact
+ 10. Because of Rail Freight Trader’s fraud, CHS’s fiscal year 2014 through 2018
+Forms 10-K and 10-Q contained materially false financial statements. For the same reason, the
+company’s Forms 8-K filed with the Commission on June 14, 2017, December 8, 2017, and May
+17, 2018, were also inaccurate. On December 3, 2018, CHS filed a Form 10-K in which it restated
+its audited financial statements for fiscal years 2016 and 2017, as well as select financial
+information for fiscal years 2014 and 2015. The company also restated its unaudited financial
+statements for the first three quarters of fiscal years 2017 and 2018. While there were also
+unrelated issues included in the restatement, the bulk of the restatement was attributable to Rail
+Freight Trader’s fraud.
+ Violations
+ Reporting Violations
+ 11. As a result of the conduct described above, CHS violated Section 13(a) of the
+Exchange Act and Rules 13a-1, 13a-11, 13a-13, and 12b-20 thereunder, which require every issuer
+of a security registered pursuant to Sect
+
+===== AAER-4333 | released Sept. 12, 2022 | respondent(s): VMware, Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 11099 / September 12, 2022
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 95744 / September 12, 2022
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4333 / September 12, 2022
+ADMINISTRATIVE PROCEEDING
+File No. 3-21065
+ ORDER INSTITUTING CEASE-AND-
+ In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 8A OF THE SECURITIES ACT
+ VMWARE, INC., OF 1933 AND SECTION 21C OF THE
+ SECURITIES EXCHANGE ACT OF 1934,
+ Respondent. MAKING FINDINGS, AND IMPOSING A
+ CEASE-AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act
+of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 1934 (“Exchange
+Act”), against VMware, Inc. (“VMware” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the
+findings herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting
+Cease-and-Desist Proceedings Pursuant to Section 8A of the Securities Act of 1933 and Section
+21C of the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist
+Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ Summary
+ 1. This matter concerns VMware’s omission of material information in its disclosures
+concerning its order “backlog” and revenue management, in quarterly and annual Exchange Act
+reports, on earnings calls, and in earnings releases, during its 2019 and 2020 fiscal years (the
+“relevant period”).2 This information was necessary in order to make such statements, in light of
+the circumstances under which they were made, not misleading. Beginning with the adoption of a
+new accounting standard for its FY2019, VMware began discretionarily holding back some sales
+orders, which were otherwise ready to be booked and recorded as revenue in the current quarter, in
+an effort to delay revenue and control the timing of revenue recognition, which was important to
+the company. These discretionary holds, which VMware referred to internally as “managed
+pipeline” or “MPL,” delayed the delivery of license keys to customers and thus, according to
+VMware’s revenue recognition policy, delayed the recognition of license revenue to the next
+quarter or service revenue to future quarters as services were performed. As a result, VMware
+shifted tens of millions of dollars in revenue into future quarters.
+ 2. VMware utilized discretionary holds if the company was on track to meet its
+financial guidance to securities analysts and investors. The holds then would be released shortly
+after the end of the quarter. This had the effect of increasing the amount of backlog that VMware
+reported in its Forms 10-Q and 10-K and delaying revenue recognition into future
+quarters. Beginning with its Form 10-Q filed for Q1 FY19, VMware began disclosing in its filings
+that “[t]he amount and composition of [VMware’s] backlog will fluctuate period to period, and
+backlog is managed based upon multiple considerations, including product and geography,” but the
+disclosure omitted material information regarding the discretionary nature of VMware’s backlog,
+the extent to which VMware controlled the amount of its backlog, and how backlog was used to
+manage the timing of the company’s recognition of total and license revenue. In actuality,
+VMware’s backlog practices during the relevant period were controlled for the purpose of
+determining in which quarters revenue would be recognized, and had the effect of obscuring the
+company’s financial results and avoiding revenue shortfalls versus company financial guidance
+and analysts’ estimates in at least three quarters during FY20, as well as full-year FY20.
+1
+ The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding
+on any other person or entity in this or any other proceeding.
+2
+ VMware’s fiscal-year numbering runs nearly a full year ahead of the calendar year. The FY19-
+FY20 period at issue herein ran from February 3, 2018 through January 31, 2020. As a result,
+the Forms 10-Q and 10-K at issue herein relate to the quarters Q1 FY19 (Form 10-Q filed on
+June 11, 2018) through Q4 FY20 (Form 10-K filed on March 26, 2020).
+ 2
+ Respondent
+ 3. VMware, Inc. is a Delaware corporation based in Palo Alto, California. Its
+common stock has been registered pursuant to Exchange Act Section 12(b) and listed on the New
+York Stock Exchange since 2007. VMware primarily engages in the sale of cloud-storage
+software and services, in areas including hybrid cloud, multi-cloud, modern applications,
+networking and security, and digital workspaces.
+ Facts
+Background
+ 4. During the relevant period, VMware’s backlog at the end of each reporting period
+consisted of the company’s unfulfilled orders for software, maintenance, and related professional
+services. Under U.S. generally accepted accounting principles (“GAAP”), revenue is recognized
+upon transfer of control. VMware recognizes revenue upon delivery to customers of license keys
+to access on-premises or cloud-based software, or through delivery of services – such as
+technology support and consulting work – as such services are performed.
+ 5. During FY19 and FY20, VMware controlled the timing of its revenue recognition
+by placing discretionary holds on selected sales orders, which delayed the delivery of license keys.
+VMware employed discretionary holds when business objectives – including those for “bookings”3
+and revenue – had been achieved, in order not to exceed the company’s revenue guidance by too
+much and as a way, in the words of VMware personnel, to start the next quarter with a buffer or
+more momentum than it might have had otherwise.
+ 6. Through the use of discretionary holds, MPL orders were entered into VMware’s
+system, but order booking – and the coincident, automated email delivery of license keys – was
+suspended until just after quarter-end, at which point the hold was released, the order booked, and
+revenue subsequently recognized.
+VMware’s Backlog Disclosures and Practices
+ 7. During the relevant period, VMware disclosed a backlog metric in its quarterly and
+annual reports. That backlog metric included orders withheld from booking for both
+nondiscretionary and discretionary reasons, but did not disclose this. The largest category of
+nondiscretionary backlog consisted of orders held for regulatory export compliance reasons, but
+the great 
+
+===== AAER-4340 | released Sept. 23, 2022 | respondent(s): Compass Minerals International, Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 11107 / September 23, 2022
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 95889 / September 23, 2022
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4340 / September 23, 2022
+ADMINISTRATIVE PROCEEDING
+File No. 3-21145
+ In the Matter of
+ ORDER INSTITUTING CEASE-AND-
+ COMPASS MINERALS PROCEEDINGS PURSUANT TO
+ INTERNATIONAL, INC. SECTION 8A OF THE SECURITIES
+ ACT OF 1933 AND SECTION 21C OF
+ Respondent. THE SECURITIES EXCHANGE ACT OF
+ 1934, MAKING FINDINGS, AND
+ IMPOSING A CEASE-AND-DESIST
+ ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act
+of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 1934 (“Exchange
+Act”), against Compass Minerals International, Inc. (“Compass” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 8A of the Securities Act of 1933 and Section 21C of
+the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order
+(“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ Summary
+ 1. This case involves various disclosure violations by Compass Minerals. From 2017
+to 2018, Compass made repeated misrepresentations about its plans to reduce costs and about the
+production levels at its Goderich salt mine. These misrepresentations were the consequence of a
+deficient disclosure process at the company in which statements to investors were not reviewed by
+personnel who were sufficiently knowledgeable about both Compass’s operations and its
+disclosure obligations. The failures in Compass’s disclosure controls and procedures resulted not
+only in material misstatements about the mine, but in the company’s senior management not
+having sufficient information about environmental issues caused by a facility it owned in Brazil to
+make appropriate determinations about disclosures.
+ 2. Compass calls its Goderich salt mine in Canada the “crown jewel” of its asset
+portfolio. Goderich is the biggest underground salt mine in the world and the largest single
+contributor to Compass’s financial results, accounting for about one-third of the company’s
+earnings. Between 2015 and 2019, Compass upgraded its mining system at Goderich from
+drilling-and-blasting to continuous mining and continuous haulage (“CMCH”) primarily in an
+effort to reduce costs.
+ 3. In 2017, Compass told investors this upgrade was “progressing on plan” and that it
+would generate $30 million in annual savings for the company beginning in 2018—equivalent to
+about a 17% increase in the company’s operating income. These statements were materially
+misleading. Goderich’s new mining system was unable to produce enough salt during this period
+to save the company money. To the contrary, the production shortfalls caused by the upgrade
+required the company to incur additional expenses that substantially increased costs for Compass,
+and the company’s experience implementing the upgrade showed this would continue. Compass
+did not disclose these facts, which substantially undermined Compass’s statements about the
+upgrade.
+ 4. In early 2018, Compass told investors the upgrade had already saved the company
+$5 million in 2017. This was not true. While the upgrade had reduced certain expenses by about
+$1 million, overall in 2017, the upgrade had instead increased costs that year.
+ 5. During this period, Compass also misrepresented the amount of salt it was mining
+and that it was able to produce at Goderich using the installed CMCH equipment, and failed to
+disclose as required how the known and ongoing production shortfalls it was experiencing were
+reasonably expected to reduce its future operating income. After Compass disclosed in October
+1
+ The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding on
+any other person or entity in this or any other proceeding.
+ 2
+2018 that continuing production shortfalls at the Goderich mine were significantly impacting its
+financial results, the company’s share price declined significantly.
+ 6. In addition to these violations involving Goderich, from the fourth quarter of 2017
+to the first quarter of 2022, Compass failed to adequately assess the financial consequences of a
+recently-acquired subsidiary’s failures to comply with environmental regulations in Brazil. A
+chemical plant owned by the subsidiary discharged mercury above permitted levels on certain
+occasions, some of which reached near the Botafogo River. This resulted in potential financial
+risks for Compass. For example, the Brazilian government may have imposed regulatory penalties
+or suspended the facility’s operating permit. In addition, Compass’s Brazilian subsidiary may have
+been subject to liability from third parties impacted by any contamination. Because of its deficient
+disclosures controls and procedures, however, Compass did not adequately analyze whether these
+uncertainties were required to be disclosed.
+ 7. In addition to these disclosure violations, Compass filed materially misstated
+financials due to its use of a salt interim inventory accounting methodology that did not comply
+with Generally Accepted Accounting Principles (GAAP).
+ Respondent
+ 8. Compass Minerals International, Inc. is a Delaware corporation headquartered in
+Overland Park, Kansas. Compass’s stock is registered with the Commission pursuant to Section
+12(b) of the Securities Exchange Act (“Exchange Act”) and trades on the New York Stock
+Exchange. Compass files periodic reports, including Forms 10-K and 10-Q, with the Commission
+pursuant to Section 13(a) of the Exchange Act and related rules thereunder.
+ Background
+ Compass’s Plans to Reduce Costs by Upgrading Its Technology
+ 9. In late-2014, Compass’s then-Board of Directors approved a multi-year project
+primarily to reduce the unit cost (cost per ton) of salt mined at Goderich by upgrading its
+equipment. Compass’s plan was to convert from a traditional drill-and-blast operation to a CMCH
+system that uses complex machines to cut salt and transport it for processing on flexible conveyor
+trains.
+ 10. At that time, Compass forecasted the project would cost $70-80 million and, after it
+was fully implemented, reduce the unit cost at Goderich by over 23%, s
+
+===== AAER-4343 | released Sept. 29, 2022 | respondent(s): Tupperware Brands Corporation =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 95943 / September 29, 2022
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4343 / September 29, 2022
+ADMINISTRATIVE PROCEEDING
+File No. 3-21180
+ ORDER INSTITUTING CEASE-AND-
+ In the Matter of DESIST PROCEEDINGS PURSUANT
+ TO SECTION 21C OF THE
+ Tupperware Brands SECURITIES EXCHANGE ACT OF
+ Corporation, 1934, MAKING FINDINGS, AND
+ IMPOSING A CEASE-AND-DESIST
+ Respondent. ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that
+cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the
+Securities Exchange Act of 1934 (“Exchange Act”), against Tupperware Brands Corporation
+(“Tupperware” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the
+findings herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting
+Cease-and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934,
+Making Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds that:
+ Summary
+ 1. These proceedings arise out of failures by Respondent to devise and maintain a
+sufficient system of internal accounting controls and to maintain accurate books and records from at
+least 2016 through 2020 (the “Relevant Period”).
+ 2. Specifically, Tupperware’s failures relate to its House of Fuller Mexico reporting
+unit (“Fuller Mexico”), which Tupperware acquired as part of the Fuller Cosmetics beauty products
+business. Instead of fully integrating Fuller Mexico post-acquisition, and implementing appropriate
+policies and procedures, Tupperware retained certain legacy policies and practices, failing to
+recognize the risk that these policies and practices may not adequately address that unit’s direct
+sales model and, over time, lagging financial performance. As a result, Fuller Mexico’s
+management was able to override controls and inaccurately record financial results from at least
+2016 through 2020 by: improperly increasing sales via the shipment of unordered products, without
+purchase orders (“Non-PO Sales”); and improperly reserving for various other expenses at Fuller
+Mexico.
+ 3. During the Relevant Period, Fuller Mexico increasingly shipped Non-PO Sales to
+its independent sales representatives (known as “Fullerettes”). At certain points, Fuller Mexico
+sent more product via Non-PO Sales than the Fullerettes could reasonably sell, and a number of
+Fuller Mexico’s Non-PO Sales were made at the end of financial reporting periods.
+ 4. As Non-PO Sales from Fuller Mexico increased over time, so did product returns.
+Tupperware failed to adequately reserve for the increased returns, as Fuller Mexico continued to
+apply a more lenient legacy practice for determining reserves arising from Fuller Mexico sales.
+Furthermore, Tupperware continued to rely on Fuller Mexico’s legacy information technology
+system and failed to respond to red flags indicating that Fuller Mexico was improperly using Non-
+PO Sales to attempt to meet its financial targets. Fuller Mexico’s management also overrode
+existing internal accounting controls by failing to book various required reserves in an attempt to
+show better results for the unit.
+ 5. In August 2021, as a result of the activities at Fuller Mexico, Tupperware disclosed
+in its amended annual report on Form 10-K/A that, from 2016 through the first quarter of 2020, it had
+misstated its net sales, accounts receivable, inventories, and accrued liabilities in its annual and
+interim financial statements. Tupperware disclosed that approximately $5.2 million of reserves,
+including those related to Non-PO Sales, were erroneously recorded and should have been reflected
+in prior periods. Additionally, Tupperware also disclosed that approximately $2.4 million of other
+accruals were erroneously excluded from prior periods.
+ 6. As a result of the conduct described herein, the Commission finds that Tupperware
+violated Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act.
+ Respondent
+ 7. Tupperware Brands Corporation, incorporated in Delaware with its principal
+place of business in Orlando, Florida, is a consumer products company. Tupperware’s common
+stock is registered with the Commission pursuant to Section 12(b) of the Exchange Act and trades on
+ 2
+the New York Stock Exchange under the symbol “TUP.”
+ Facts
+ 8. In 2005, Tupperware acquired the Fuller Cosmetics beauty products and other
+direct selling businesses from Sara Lee Corporation. Following the acquisition, Tupperware did
+not fully integrate these businesses into its existing policies and procedures. Instead, Tupperware
+allowed Fuller Mexico to retain certain legacy policies and procedures, as well as legacy sales
+practices.
+ 9. In particular, Tupperware continued to utilize Non-PO Sales at Fuller Mexico.
+Historically, Fuller Mexico’s Non-PO Sales were automatic shipments several times a year of new
+or promotional items, like a new lipstick shade. Fuller Mexico added the items to Fullerettes’
+orders, typically at a discount or a special price, with the option to be returned. As a result, Fuller
+Mexico calculated reserves for returns for Non-PO Sales as part of its sales returns allowance.
+ 10. Until the fourth quarter of 2019, Tupperware used a legacy practice from Fuller
+Mexico to estimate the returns reserve based on the average returns that occurred over the prior
+twelve-month period. By contrast, Tupperware’s general practice at the time for other units would
+have estimated this reserve based on the average returns that occurred over the prior six-month
+period, resulting in a higher, more conservative return reserve than Fuller Mexico’s legacy
+practice.
+ 11. Fuller Mexico’s business performance waned in the years following its acquisition.
+As Fuller Mexico’s sales failed to meet targets between 2017 and 2019, Tupperware management
+at the Worldwide and Latin America regional levels heightened pressure on Fuller Mexico to meet
+unrealistic sales expectations.
+ 12. In response, Fuller Mexico increased its use of, and reliance upon, Non-PO Sales,
+through escalation of the frequency, type, and number of products shipped. This included the
+initiation of certain Non-PO Sales at the end of financial reporting periods. At least as early as
+2018, the number of Non-PO Sales began to increase and shifted towards products with a higher
+profit margin, such as perfume, and away from the intended purpose of providing 
+
+===== AAER-4355 | released Oct. 21, 2022 | respondent(s): Mattel, Inc. =====
+ UNITED STATES OF AMERICA
+ Before the
+ SECURITIES AND EXCHANGE COMMISSION
+SECURITIES ACT OF 1933
+Release No. 11122 / October 21, 2022
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 96126 / October 21, 2022
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4355 / October 21, 2022
+ADMINISTRATIVE PROCEEDING
+File No. 3-21213
+ ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+ SECTION 8A OF THE SECURITIES ACT
+ MATTEL, INC. OF 1933 AND SECTION 21C OF THE
+ SECURITIES EXCHANGE ACT OF 1934,
+Respondent. MAKING FINDINGS, AND IMPOSING A
+ CEASE-AND-DESIST ORDER
+ I.
+ The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act
+of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 1934 (“Exchange
+Act”), against Mattel, Inc. (“Mattel” or “Respondent”).
+ II.
+ In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the purpose
+of these proceedings and any other proceedings brought by or on behalf of the Commission, or to
+which the Commission is a party, and without admitting or denying the findings herein, except as
+to the Commission’s jurisdiction over it and the subject matter of these proceedings, which are
+admitted, Respondent consents to the entry of this Order Instituting Cease-and-Desist Proceedings
+Pursuant to Section 8A of the Securities Act of 1933 and Section 21C of the Securities and
+Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order (“Order”), as set
+forth below.
+ III.
+ On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+ SUMMARY
+ 1. On August 8, 2019, Mattel disclosed in a Form 8-K that it was made aware of an
+anonymous whistleblower letter. The letter alleged accounting errors and questioned the
+independence of Joshua Abrahams (“Abrahams”), the then-lead engagement partner for Mattel
+with the company’s outside audit firm, PricewaterhouseCoopers LLP (“PwC”). Mattel terminated
+its pending $250 million senior notes offering, and its audit committee initiated an independent
+internal investigation. The audit committee’s investigation concluded that there were material
+misstatements in the tax-related valuation allowance for Q3 2017, which was understated by $109
+million, and in the tax expense for Q4 2017, which was overstated by $109 million. The valuation
+allowance was understated in Q3 because Mattel’s Thomas the Tank Engine asset (“Thomas”) was
+erroneously treated for purposes of the valuation allowance calculation as a definite-lived asset that
+should be amortized, whereas at the time it was classified as an indefinite-lived asset on Mattel’s
+balance sheet. The audit committee also concluded that Abrahams violated auditor independence
+rules. The audit committee did not find that management had engaged in fraud.
+ 2. On October 29, 2019, Mattel announced that it would restate its financial results for
+Q3 and Q4 2017. Because the Q3 understatement and Q4 overstatement self-corrected the error
+for the fiscal year ended December 31, 2017, the FYE 2017 financial statements did not need to be
+restated. Mattel’s Form 10-K/A, filed on November 12, 2019, disclosed that the Q3 and Q4
+financials were materially misstated and that, as a result of the $109 million misstatement, Mattel’s
+Q3 2017 provision for income taxes was understated by 14%, and net loss and net loss per share
+were understated by 15%. Additionally, Mattel’s Q4 2017 provision for income taxes was
+overstated by 62%, and net loss and net loss per share were overstated by 63% for that period.
+ 3. Mattel’s Form 10-K/A also disclosed two material weaknesses in internal control
+over financial reporting related to the error: (1) failure to design and operate an internal control
+over the review of the income tax valuation allowance analysis (calculation), which was
+remediated by December 31, 2018; and (2) failure to design and operate internal controls to
+properly assess and communicate known financial statement errors and internal control
+deficiencies in a timely manner to those parties responsible for taking corrective action, including,
+for example, the CEO and board of directors, which was remediated as of December 31, 2019. In
+addition, Mattel disclosed that its outside auditor had restated its report on internal control over
+financial reporting and issued an adverse opinion.
+1
+ The findings herein are made pursuant to Respondent's Offer of Settlement and are not
+ binding on any other person or entity in this or any other proceeding.
+ 2
+ RESPONDENT
+ 4. Mattel, Inc. is a Delaware corporation with its headquarters in El Segundo,
+California. Mattel’s common stock trades on NASDAQ under the ticker symbol MAT. Mattel’s
+common stock is registered pursuant to Section 12(b) of the Exchange Act.
+ FACTS
+ Mattel’s Q3 2017 Valuation Allowance Calculation Error
+ 5. At the end of Mattel’s third quarter in 2017, Mattel recorded a valuation allowance
+against deferred tax assets. A deferred tax asset is an asset that a company can use to reduce or
+eliminate a future tax liability, but if a company does not expect to generate taxable income in the
+future, the deferred tax assets have no value because there will be no tax liability to offset. As a
+result, once a company determines that it is not likely to have future taxable income, it must record
+a valuation allowance against the deferred tax assets and reduce their value. As part of the
+calculation, a corporation may lower its valuation allowance by netting out the value of certain
+deferred tax liabilities. Under the tax law in Q3 2017, only liabilities classified as definite-lived
+(i.e., related to assets which are amortized) could be used to lower the valuation allowance. If a
+liability had been classified as indefinite-lived, it could not reduce the valuation allowance.
+ 6. Prior to Q3 2017, Mattel had never taken a valuation allowance. However, as of
+Q3 2017, Mattel had suffered three years of cumulative losses and in September 2017, Mattel’s
+largest customer declared bankruptcy. After consulting with its national office, PwC’s engagement
+team informed Mattel that it would need to take a valuation allowance. Mattel personnel began
+calculating the valuation allowance. At that time, Mattel had no internal control specifically
+related to calculating a valuation allowance (as Mattel disclosed in its restatement, this material
+weakness was not remediated until the quarter ended December 31, 2018). In mid-October 2017,
+days before Mattel was scheduled to report its Q3 2017 earnings, one of PwC’s tax managers
+identified a $129 million error because a deferred tax liability related to goodwill had been
+included in the initial calculation of the valuation allowance. Because goodwill is an indefinite-
+lived asset, a deferred tax liability should not ha
