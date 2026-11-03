@@ -16,3 +16,9 @@ data/round9b/companyfacts/
 data/round9b/submissions/
 data/round9b/frames/
 data/round9b/company_tickers.json
+data/round9f/cik-lookup-data.txt
+data/round9f/lookup/
+data/round9f/submissions/
+data/round9f/companyfacts/
+data/round9f/frames/
+data/round9f/redacted/*.txt

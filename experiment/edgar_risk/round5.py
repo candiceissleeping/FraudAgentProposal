@@ -302,7 +302,7 @@ def features(vals, notes, key, filings):
         # F3 simple indicators
         f["accrual_ratio"] = f["TATA"]
         f["ar_growth_minus_sales_growth"] = (round(ratio(g("ar", t), g("ar", s)) - ratio(rev0, rev1), 4)
-                                             if None not in (g("ar", t), g("ar", s), rev0, rev1) and g("ar", s) else "")
+                                             if None not in (g("ar", t), g("ar", s), rev0, rev1) and g("ar", s) and rev1 else "")
         f["cfo_to_ni"] = round(ratio(g("cfo", t), ni0), 4) if None not in (g("cfo", t), ni0) and ni0 else ""
         out.append(f)
     return out

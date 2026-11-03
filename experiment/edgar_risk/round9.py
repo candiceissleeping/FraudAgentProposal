@@ -35,6 +35,7 @@ WINDOW = ("20260701", "20261031")
 PREFIX = "R9"  # card code prefix (round 9b reuses this module with "R9B")
 ITEMS_PATH = "data/round9/8k_items.tsv"
 EXCLUDE_CIKS = set()  # companies that may not be used as controls (round 9b: round 9 firms)
+DEEP = False  # round 9f: also read older submission files when listing 10-Ks
 
 
 def _get(url, out=None):
@@ -70,16 +71,26 @@ def companyfacts(cik):
 def tenks(cik, before=None):
     """Original 10-K filings (accession, filing date, report date, xbrl flag), newest first."""
     s = submissions(cik)
-    rec = s["filings"]["recent"]
+    blocks = [s["filings"]["recent"]]
+    if DEEP:  # round 9f: older filings live in extra submission files
+        for f in s["filings"].get("files", []):
+            path = f"{DATA}/submissions/{f['name']}"
+            if not os.path.exists(path):
+                try:
+                    _get(f"https://data.sec.gov/submissions/{f['name']}", out=path)
+                except RuntimeError:
+                    continue
+            blocks.append(json.load(open(path)))
     out = []
-    for i, form in enumerate(rec["form"]):
-        if form != "10-K":
-            continue
-        fd = rec["filingDate"][i].replace("-", "")
-        if before and fd >= before:
-            continue
-        out.append({"acc": rec["accessionNumber"][i], "filed": fd, "period": rec["reportDate"][i].replace("-", ""),
-                    "xbrl": bool(rec["isXBRL"][i]), "doc": rec["primaryDocument"][i]})
+    for rec in blocks:
+        for i, form in enumerate(rec["form"]):
+            if form != "10-K":
+                continue
+            fd = rec["filingDate"][i].replace("-", "")
+            if before and fd >= before:
+                continue
+            out.append({"acc": rec["accessionNumber"][i], "filed": fd, "period": rec["reportDate"][i].replace("-", ""),
+                        "xbrl": bool(rec["isXBRL"][i]), "doc": rec["primaryDocument"][i]})
     return sorted(out, key=lambda x: x["filed"], reverse=True), s
 
 

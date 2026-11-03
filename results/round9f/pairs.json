@@ -1,0 +1,758 @@
+[
+ {
+  "case": {
+   "name": "OVERSEAS SHIPHOLDING GROUP INC",
+   "cik": "75208",
+   "sic": "4412",
+   "aaer": "AAER-3855",
+   "event_acc": "",
+   "event_date": "",
+   "y0_acc": "0001144204-11-011868",
+   "y0_period": "20101231",
+   "y0_doc": "v211770_10k.htm",
+   "y1_acc": "0001144204-10-010646",
+   "y1_period": "20091231"
+  },
+  "control": {
+   "name": "TIDEWATER INC",
+   "cik": "98222",
+   "sic": "4400",
+   "digits": 2,
+   "y0_acc": "0001193125-11-145426",
+   "y0_period": "20110331",
+   "y0_doc": "d10k.htm",
+   "y1_acc": "0001193125-10-125172",
+   "y1_period": "20100331",
+   "assets_ratio": 0.974,
+   "pool": 8
+  }
+ },
+ {
+  "case": {
+   "name": "OSIRIS THERAPEUTICS, INC.",
+   "cik": "1360886",
+   "sic": "2836",
+   "aaer": "AAER-3905",
+   "event_acc": "",
+   "event_date": "",
+   "y0_acc": "0001047469-15-002532",
+   "y0_period": "20141231",
+   "y0_doc": "a2223659z10-k.htm",
+   "y1_acc": "0001047469-14-003199",
+   "y1_period": "20131231"
+  },
+  "control": {
+   "name": "Protalix BioTherapeutics, Inc.",
+   "cik": "1006281",
+   "sic": "2836",
+   "digits": 4,
+   "y0_acc": "0001144204-15-015672",
+   "y0_period": "20141231",
+   "y0_doc": "v403470_10k.htm",
+   "y1_acc": "0001144204-14-015468",
+   "y1_period": "20131231",
+   "assets_ratio": 0.886,
+   "pool": 44
+  }
+ },
+ {
+  "case": {
+   "name": "AKORN INC",
+   "cik": "3116",
+   "sic": "2834",
+   "aaer": "AAER-3931",
+   "event_acc": "",
+   "event_date": "",
+   "y0_acc": "0001171843-15-001465",
+   "y0_period": "20141231",
+   "y0_doc": "f10k_030215.htm",
+   "y1_acc": "0001157523-14-001078",
+   "y1_period": "20131231"
+  },
+  "control": {
+   "name": "UNITED THERAPEUTICS Corp",
+   "cik": "1082554",
+   "sic": "2834",
+   "digits": 4,
+   "y0_acc": "0001047469-15-001069",
+   "y0_period": "20141231",
+   "y0_doc": "a2223076z10-k.htm",
+   "y1_acc": "0001047469-14-001267",
+   "y1_period": "20131231",
+   "assets_ratio": 0.995,
+   "pool": 202
+  }
+ },
+ {
+  "case": {
+   "name": "MAXWELL TECHNOLOGIES INC",
+   "cik": "319815",
+   "sic": "3690",
+   "aaer": "AAER-3932",
+   "event_acc": "",
+   "event_date": "",
+   "y0_acc": "0001193125-12-065333",
+   "y0_period": "20111231",
+   "y0_doc": "d268725d10k.htm",
+   "y1_acc": "0001193125-11-062183",
+   "y1_period": "20101231"
+  },
+  "control": {
+   "name": "ULTRALIFE CORP",
+   "cik": "875657",
+   "sic": "3690",
+   "digits": 4,
+   "y0_acc": "0001193125-12-112219",
+   "y0_period": "20111231",
+   "y0_doc": "d309120d10k.htm",
+   "y1_acc": "0000950123-11-025549",
+   "y1_period": "20101231",
+   "assets_ratio": 0.651,
+   "pool": 10
+  }
+ },
+ {
+  "case": {
+   "name": "KBR, INC.",
+   "cik": "1357615",
+   "sic": "1600",
+   "aaer": "AAER-3946",
+   "event_acc": "",
+   "event_date": "",
+   "y0_acc": "0001357615-14-000005",
+   "y0_period": "20131231",
+   "y0_doc": "kbr1231201310k.htm",
+   "y1_acc": "0001357615-13-000006",
+   "y1_period": "20121231"
+  },
+  "control": {
+   "name": "FLUOR CORP",
+   "cik": "1124198",
+   "sic": "1600",
+   "digits": 4,
+   "y0_acc": "0001047469-14-000988",
+   "y0_period": "20131231",
+   "y0_doc": "a2218252z10-k.htm",
+   "y1_acc": "0001047469-13-001314",
+   "y1_period": "20121231",
+   "assets_ratio": 1.531,
+   "pool": 7
+  }
+ },
+ {
+  "case": {
+   "name": "PYXUS INTERNATIONAL, INC.",
+   "cik": "939930",
+   "sic": "5150",
+   "aaer": "AAER-3993",
+   "event_acc": "",
+   "event_date": "",
+   "y0_acc": "0000939930-13-000034",
+   "y0_period": "20130331",
+   "y0_doc": "aoi-20130331x10k.htm",
+   "y1_acc": "0000939930-12-000021",
+   "y1_period": "20120331"
+  },
+  "control": {
+   "name": "Andersons, Inc.",
+   "cik": "821026",
+   "sic": "5150",
+   "digits": 4,
+   "y0_acc": "0000821026-13-000005",
+   "y0_period": "20121231",
+   "y0_doc": "ande2012123110-k.htm",
+   "y1_acc": "0001193125-12-082031",
+   "y1_period": "20111231",
+   "assets_ratio": 1.135,
+   "pool": 3
+  }
+ },
+ {
+  "case": {
+   "name": "Santander Consumer USA Holdings Inc.",
+   "cik": "1580608",
+   "sic": "6141",
+   "aaer": "AAER-4002",
+   "event_acc": "",
+   "event_date": "",
+   "y0_acc": "0001580608-15-000031",
+   "y0_period": "20141231",
+   "y0_doc": "santander201410-k.htm",
+   "y1_acc": "0001193125-14-085124",
+   "y1_period": "20131231"
+  },
+  "control": {
+   "name": "NELNET INC",
+   "cik": "1258602",
+   "sic": "6141",
+   "digits": 4,
+   "y0_acc": "0001258602-15-000019",
+   "y0_period": "20141231",
+   "y0_doc": "nni-123114x10k.htm",
+   "y1_acc": "0001258602-14-000023",
+   "y1_period": "20131231",
+   "assets_ratio": 0.928,
+   "pool": 13
+  }
+ },
+ {
+  "case": {
+   "name": "HERC HOLDINGS INC",
+   "cik": "1364479",
+   "sic": "7350",
+   "aaer": "AAER-4012",
+   "event_acc": "",
+   "event_date": "",
+   "y0_acc": "0001047469-12-001623",
+   "y0_period": "20111231",
+   "y0_doc": "a2207464z10-k.htm",
+   "y1_acc": "0001047469-11-001397",
+   "y1_period": "20101231"
+  },
+  "control": {
+   "name": "OMNICOM GROUP INC.",
+   "cik": "29989",
+   "sic": "7311",
+   "digits": 2,
+   "y0_acc": "0000029989-12-000005",
+   "y0_period": "20111231",
+   "y0_doc": "omc10-k.htm",
+   "y1_acc": "0000891092-11-001226",
+   "y1_period": "20101231",
+   "assets_ratio": 1.16,
+   "pool": 181
+  }
+ },
+ {
+  "case": {
+   "name": "COMSCORE, INC.",
+   "cik": "1158172",
+   "sic": "7389",
+   "aaer": "AAER-4091",
+   "event_acc": "",
+   "event_date": "",
+   "y0_acc": "0001158172-14-000004",
+   "y0_period": "20131231",
+   "y0_doc": "scor201310-k.htm",
+   "y1_acc": "0001158172-13-000004",
+   "y1_period": "20121231"
+  },
+  "control": {
+   "name": "DHI GROUP, INC.",
+   "cik": "1393883",
+   "sic": "7389",
+   "digits": 4,
+   "y0_acc": "0001393883-14-000008",
+   "y0_period": "20131231",
+   "y0_doc": "dhx10k2013.htm",
+   "y1_acc": "0001393883-13-000008",
+   "y1_period": "20121231",
+   "assets_ratio": 1.157,
+   "pool": 37
+  }
+ },
+ {
+  "case": {
+   "name": "PPG INDUSTRIES INC",
+   "cik": "79879",
+   "sic": "2851",
+   "aaer": "AAER-4094",
+   "event_acc": "",
+   "event_date": "",
+   "y0_acc": "0000079879-17-000009",
+   "y0_period": "20161231",
+   "y0_doc": "ppg201610k.htm",
+   "y1_acc": "0000079879-16-000065",
+   "y1_period": "20151231"
+  },
+  "control": {
+   "name": "Air Products & Chemicals, Inc.",
+   "cik": "2969",
+   "sic": "2810",
+   "digits": 2,
+   "y0_acc": "0001193125-16-773346",
+   "y0_period": "20160930",
+   "y0_doc": "d271291d10k.htm",
+   "y1_acc": "0001193125-15-386399",
+   "y1_period": "20150930",
+   "assets_ratio": 1.012,
+   "pool": 381
+  }
+ },
+ {
+  "case": {
+   "name": "STONEMOR PARTNERS LP",
+   "cik": "1286131",
+   "sic": "7200",
+   "aaer": "AAER-4107",
+   "event_acc": "",
+   "event_date": "",
+   "y0_acc": "0001193125-14-101578",
+   "y0_period": "20131231",
+   "y0_doc": "d639347d10k.htm",
+   "y1_acc": "0001193125-13-109740",
+   "y1_period": "20121231"
+  },
+  "control": {
+   "name": "WW INTERNATIONAL, INC.",
+   "cik": "105319",
+   "sic": "7200",
+   "digits": 4,
+   "y0_acc": "0001193125-14-069945",
+   "y0_period": "20131228",
+   "y0_doc": "d644264d10k.htm",
+   "y1_acc": "0001193125-13-079926",
+   "y1_period": "20121229",
+   "assets_ratio": 0.953,
+   "pool": 10
+  }
+ },
+ {
+  "case": {
+   "name": "QUANTUM CORP /DE/",
+   "cik": "709283",
+   "sic": "3572",
+   "aaer": "AAER-4110",
+   "event_acc": "",
+   "event_date": "",
+   "y0_acc": "0001628280-16-016926",
+   "y0_period": "20160331",
+   "y0_doc": "qtm0331201610k.htm",
+   "y1_acc": "0001628280-15-004907",
+   "y1_period": "20150331"
+  },
+  "control": {
+   "name": "A10 Networks, Inc.",
+   "cik": "1580808",
+   "sic": "3576",
+   "digits": 3,
+   "y0_acc": "0001580808-16-000073",
+   "y0_period": "20151231",
+   "y0_doc": "aten-20151231x10k.htm",
+   "y1_acc": "0001580808-15-000010",
+   "y1_period": "20141231",
+   "assets_ratio": 0.806,
+   "pool": 35
+  }
+ },
+ {
+  "case": {
+   "name": "VEREIT, Inc.",
+   "cik": "1507385",
+   "sic": "6798",
+   "aaer": "AAER-4149",
+   "event_acc": "",
+   "event_date": "",
+   "y0_acc": "0001507385-14-000004",
+   "y0_period": "20131231",
+   "y0_doc": "form10k.htm",
+   "y1_acc": "0001507385-13-000004",
+   "y1_period": "20121231"
+  },
+  "control": {
+   "name": "ALEXANDRIA REAL ESTATE EQUITIES, INC.",
+   "cik": "1035443",
+   "sic": "6798",
+   "digits": 4,
+   "y0_acc": "0001035443-14-000013",
+   "y0_period": "20131231",
+   "y0_doc": "are-20131231x10k.htm",
+   "y1_acc": "0001104659-13-014040",
+   "y1_period": "20121231",
+   "assets_ratio": 0.964,
+   "pool": 155
+  }
+ },
+ {
+  "case": {
+   "name": "Super Micro Computer, Inc.",
+   "cik": "1375365",
+   "sic": "3571",
+   "aaer": "AAER-4161",
+   "event_acc": "",
+   "event_date": "",
+   "y0_acc": "0001628280-15-007025",
+   "y0_period": "20150630",
+   "y0_doc": "smci-2015630x10k.htm",
+   "y1_acc": "0001445305-14-003958",
+   "y1_period": "20140630"
+  },
+  "control": {
+   "name": "Apple Inc.",
+   "cik": "320193",
+   "sic": "3571",
+   "digits": 4,
+   "y0_acc": "0001193125-15-356351",
+   "y0_period": "20150926",
+   "y0_doc": "d17062d10k.htm",
+   "y1_acc": "0001193125-14-383437",
+   "y1_period": "20140927",
+   "assets_ratio": 250.641,
+   "pool": 3
+  }
+ },
+ {
+  "case": {
+   "name": "BORGWARNER INC",
+   "cik": "908255",
+   "sic": "3714",
+   "aaer": "AAER-4164",
+   "event_acc": "",
+   "event_date": "",
+   "y0_acc": "0000908255-13-000006",
+   "y0_period": "20121231",
+   "y0_doc": "a10k12312012.htm",
+   "y1_acc": "0000908255-12-000008",
+   "y1_period": "20111231"
+  },
+  "control": {
+   "name": "AUTOLIV INC",
+   "cik": "1034670",
+   "sic": "3714",
+   "digits": 4,
+   "y0_acc": "0001193125-13-070928",
+   "y0_period": "20121231",
+   "y0_doc": "d433868d10k.htm",
+   "y1_acc": "0001193125-12-074898",
+   "y1_period": "20111231",
+   "assets_ratio": 1.026,
+   "pool": 17
+  }
+ },
+ {
+  "case": {
+   "name": "POWER SOLUTIONS INTERNATIONAL, INC.",
+   "cik": "1137091",
+   "sic": "3510",
+   "aaer": "AAER-4169",
+   "event_acc": "",
+   "event_date": "",
+   "y0_acc": "0001193125-15-091420",
+   "y0_period": "20141231",
+   "y0_doc": "d853000d10k.htm",
+   "y1_acc": "0001193125-14-077913",
+   "y1_period": "20131231"
+  },
+  "control": {
+   "name": "Capstone Energy Plus, Inc.",
+   "cik": "1009759",
+   "sic": "3510",
+   "digits": 4,
+   "y0_acc": "0001047469-15-005460",
+   "y0_period": "20150331",
+   "y0_doc": "a2225073z10-k.htm",
+   "y1_acc": "0001047469-14-005546",
+   "y1_period": "20140331",
+   "assets_ratio": 0.367,
+   "pool": 4
+  }
+ },
+ {
+  "case": {
+   "name": "Revolution Lighting Technologies, Inc.",
+   "cik": "917523",
+   "sic": "3640",
+   "aaer": "AAER-4170",
+   "event_acc": "",
+   "event_date": "",
+   "y0_acc": "0001193125-15-091517",
+   "y0_period": "20141231",
+   "y0_doc": "d829524d10k.htm",
+   "y1_acc": "0001193125-14-098098",
+   "y1_period": "20131231"
+  },
+  "control": {
+   "name": "ORION ENERGY SYSTEMS, INC.",
+   "cik": "1409375",
+   "sic": "3640",
+   "digits": 4,
+   "y0_acc": "0001409375-15-000013",
+   "y0_period": "20150331",
+   "y0_doc": "oesx20150331-10k.htm",
+   "y1_acc": "0001409375-14-000014",
+   "y1_period": "20140331",
+   "assets_ratio": 0.629,
+   "pool": 6
+  }
+ },
+ {
+  "case": {
+   "name": "INTERFACE INC",
+   "cik": "715787",
+   "sic": "2273",
+   "aaer": "AAER-4175",
+   "event_acc": "",
+   "event_date": "",
+   "y0_acc": "0001437749-16-026549",
+   "y0_period": "20160103",
+   "y0_doc": "tile20160103_10k.htm",
+   "y1_acc": "0001437749-15-003389",
+   "y1_period": "20141228"
+  },
+  "control": {
+   "name": "ALBANY INTERNATIONAL CORP /DE/",
+   "cik": "819793",
+   "sic": "2221",
+   "digits": 2,
+   "y0_acc": "0000891092-16-012779",
+   "y0_period": "20151231",
+   "y0_doc": "e68310_10k.htm",
+   "y1_acc": "0000891092-15-001671",
+   "y1_period": "20141231",
+   "assets_ratio": 1.324,
+   "pool": 6
+  }
+ },
+ {
+  "case": {
+   "name": "Manitex International, Inc.",
+   "cik": "1302028",
+   "sic": "3559",
+   "aaer": "AAER-4177",
+   "event_acc": "",
+   "event_date": "",
+   "y0_acc": "0001193125-15-093205",
+   "y0_period": "20141231",
+   "y0_doc": "d854645d10k.htm",
+   "y1_acc": "0001193125-14-093872",
+   "y1_period": "20131231"
+  },
+  "control": {
+   "name": "Azenta, Inc.",
+   "cik": "933974",
+   "sic": "3559",
+   "digits": 4,
+   "y0_acc": "0000933974-14-000042",
+   "y0_period": "20140930",
+   "y0_doc": "brks10-k2014.htm",
+   "y1_acc": "0000933974-13-000033",
+   "y1_period": "20130930",
+   "assets_ratio": 2.409,
+   "pool": 9
+  }
+ },
+ {
+  "case": {
+   "name": "Apex Global Brands Inc.",
+   "cik": "844161",
+   "sic": "2330",
+   "aaer": "AAER-4199",
+   "event_acc": "",
+   "event_date": "",
+   "y0_acc": "0001558370-18-003099",
+   "y0_period": "20180203",
+   "y0_doc": "chke-20180203x10k.htm",
+   "y1_acc": "0001558370-17-004412",
+   "y1_period": "20170128"
+  },
+  "control": {
+   "name": "SUPERIOR GROUP OF COMPANIES, INC.",
+   "cik": "95574",
+   "sic": "2300",
+   "digits": 2,
+   "y0_acc": "0001437749-18-003029",
+   "y0_period": "20171231",
+   "y0_doc": "sgc20171231_10k.htm",
+   "y1_acc": "0001437749-17-003024",
+   "y1_period": "20161231",
+   "assets_ratio": 2.425,
+   "pool": 15
+  }
+ },
+ {
+  "case": {
+   "name": "IGEN NETWORKS CORP",
+   "cik": "1393540",
+   "sic": "7363",
+   "aaer": "AAER-4216",
+   "event_acc": "",
+   "event_date": "",
+   "y0_acc": "0001640334-19-000626",
+   "y0_period": "20181231",
+   "y0_doc": "igen_10k.htm",
+   "y1_acc": "0001640334-18-000764",
+   "y1_period": "20171231"
+  },
+  "control": {
+   "name": "DarkPulse, Inc.",
+   "cik": "866439",
+   "sic": "7372",
+   "digits": 2,
+   "y0_acc": "0001683168-19-001076",
+   "y0_period": "20181231",
+   "y0_doc": "darkpulse_10k-123118.htm",
+   "y1_acc": "0001683168-18-000853",
+   "y1_period": "20171231",
+   "assets_ratio": 0.968,
+   "pool": 297
+  }
+ },
+ {
+  "case": {
+   "name": "PARETEUM Corp",
+   "cik": "1084384",
+   "sic": "7373",
+   "aaer": "AAER-4247",
+   "event_acc": "",
+   "event_date": "",
+   "y0_acc": "0001144204-19-014694",
+   "y0_period": "20181231",
+   "y0_doc": "tv515953_10k.htm",
+   "y1_acc": "0001144204-18-018243",
+   "y1_period": "20171231"
+  },
+  "control": {
+   "name": "AGILYSYS INC",
+   "cik": "78749",
+   "sic": "7373",
+   "digits": 4,
+   "y0_acc": "0000078749-19-000021",
+   "y0_period": "20190331",
+   "y0_doc": "agys-3312019xfy1910k.htm",
+   "y1_acc": "0000078749-18-000022",
+   "y1_period": "20180331",
+   "assets_ratio": 1.059,
+   "pool": 24
+  }
+ },
+ {
+  "case": {
+   "name": "WEX Inc.",
+   "cik": "1309108",
+   "sic": "7389",
+   "aaer": "AAER-4275",
+   "event_acc": "",
+   "event_date": "",
+   "y0_acc": "0001309108-14-000021",
+   "y0_period": "20131231",
+   "y0_doc": "wex2013123110-k.htm",
+   "y1_acc": "0001193125-13-085019",
+   "y1_period": "20121231"
+  },
+  "control": {
+   "name": "MSCI Inc.",
+   "cik": "1408198",
+   "sic": "7389",
+   "digits": 4,
+   "y0_acc": "0001193125-14-077882",
+   "y0_period": "20131231",
+   "y0_doc": "d640965d10k.htm",
+   "y1_acc": "0001193125-13-087988",
+   "y1_period": "20121231",
+   "assets_ratio": 0.914,
+   "pool": 36
+  }
+ },
+ {
+  "case": {
+   "name": "BAXTER INTERNATIONAL INC",
+   "cik": "10456",
+   "sic": "3841",
+   "aaer": "AAER-4283",
+   "event_acc": "",
+   "event_date": "",
+   "y0_acc": "0001564590-18-002954",
+   "y0_period": "20171231",
+   "y0_doc": "bax-10k_20171231.htm",
+   "y1_acc": "0001564590-17-002240",
+   "y1_period": "20161231"
+  },
+  "control": {
+   "name": "STRYKER CORP",
+   "cik": "310764",
+   "sic": "3841",
+   "digits": 4,
+   "y0_acc": "0000310764-18-000031",
+   "y0_period": "20171231",
+   "y0_doc": "syk10k123117.htm",
+   "y1_acc": "0000310764-17-000034",
+   "y1_period": "20161231",
+   "assets_ratio": 1.297,
+   "pool": 77
+  }
+ },
+ {
+  "case": {
+   "name": "SYNCHRONOSS TECHNOLOGIES INC",
+   "cik": "1131554",
+   "sic": "7371",
+   "aaer": "AAER-4302",
+   "event_acc": "",
+   "event_date": "",
+   "y0_acc": "0001047469-14-001396",
+   "y0_period": "20131231",
+   "y0_doc": "a2218354z10-k.htm",
+   "y1_acc": "0001047469-13-001391",
+   "y1_period": "20121231"
+  },
+  "control": {
+   "name": "EPAM Systems, Inc.",
+   "cik": "1352010",
+   "sic": "7371",
+   "digits": 4,
+   "y0_acc": "0001352010-14-000007",
+   "y0_period": "20131231",
+   "y0_doc": "form10k.htm",
+   "y1_acc": "0001193125-13-101372",
+   "y1_period": "20121231",
+   "assets_ratio": 0.821,
+   "pool": 12
+  }
+ },
+ {
+  "case": {
+   "name": "CHS INC",
+   "cik": "823277",
+   "sic": "5150",
+   "aaer": "AAER-4330",
+   "event_acc": "",
+   "event_date": "",
+   "y0_acc": "0000823277-14-000032",
+   "y0_period": "20140831",
+   "y0_doc": "chscp10k83114.htm",
+   "y1_acc": "0000823277-13-000037",
+   "y1_period": "20130831"
+  },
+  "control": {
+   "name": "SYSCO CORP",
+   "cik": "96021",
+   "sic": "5140",
+   "digits": 2,
+   "y0_acc": "0000096021-14-000040",
+   "y0_period": "20140628",
+   "y0_doc": "syy-20140628x10k.htm",
+   "y1_acc": "0000096021-13-000073",
+   "y1_period": "20130629",
+   "assets_ratio": 0.889,
+   "pool": 27
+  }
+ },
+ {
+  "case": {
+   "name": "TUPPERWARE BRANDS CORP",
+   "cik": "1008654",
+   "sic": "3089",
+   "aaer": "AAER-4343",
+   "event_acc": "",
+   "event_date": "",
+   "y0_acc": "0001008654-17-000010",
+   "y0_period": "20161231",
+   "y0_doc": "tup10k123116.htm",
+   "y1_acc": "0001008654-16-000035",
+   "y1_period": "20151226"
+  },
+  "control": {
+   "name": "ENTEGRIS INC",
+   "cik": "1101302",
+   "sic": "3089",
+   "digits": 4,
+   "y0_acc": "0001101302-17-000005",
+   "y0_period": "20161231",
+   "y0_doc": "entg-12312016x10k.htm",
+   "y1_acc": "0001101302-16-000012",
+   "y1_period": "20151231",
+   "assets_ratio": 1.07,
+   "pool": 6
+  }
+ }
+]
