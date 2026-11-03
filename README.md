@@ -60,5 +60,11 @@ GE 原本在名單中，但其 FY2016 10-K 在資料集中為空（年報以引�
 - 2003 年前的 10-K 沒有 Item 9A（SOX 404 之前），內控類訊號天生較少。
 - 關鍵字比對無法理解語意；判斷交由第 3 步覆核。
 
+## 「不要上網搜尋」遵守測試
+LLM 評分若偷偷上網查公司後來的下場，分數就被污染。`experiment/websearch_check.py` 每次開一個全新的 `claude -p` session，
+用工具呼叫紀錄（不是回答內容）計算上網嘗試次數，比較四種條件：A 無指示（正控制）、B 提示禁止、C 提示禁止 + 施壓、
+D 用 `--disallowedTools` 硬性移除工具。子 session 在預設權限模式下執行，上網呼叫會被拒絕但仍被記錄。
+- 執行：`python -m experiment.websearch_check run --reps 3` → `results/websearch_check/summary.md`、`runs.csv`、`raw/*.jsonl`
+
 ## 測試
 `python -m unittest discover -s tests -t .`
