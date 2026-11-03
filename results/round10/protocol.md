@@ -161,3 +161,11 @@ C 組另外分開問兩題：`knows_accounting_problems`、`knows_sec_enforcemen
   - R0 判為「無法以原模型檢驗」。Llama-3-70B 的 A 組 AUC 與 0.681 並列，只作描述性比較，不稱為復刻成功或失敗（0.681 是 GPT-4 的數字）
   - 推論管道與固定版本 ID 待確認，確認後補記於此
   - 「原基準發表數月內即無法重現」列為一項發現，寫進 review.md 與 PROPOSAL.md
+- 2026-11-03（執行任何 LLM 前；使用者決定，**取代上一筆修訂**）：**只使用 Claude Opus 5.5（`claude-opus-5-5`，本 session 的 subagent），不使用 API，也不使用 Llama-3-70B**。理由：使用者不使用外部 API；`gpt-4-turbo-2024-04-09` 已停用；2024 年的 Claude 模型（Claude 3 Opus／Haiku、3.5 Sonnet／Haiku）在 Claude API 上全部已停用（Anthropic 文件的停用表）；Llama-3-70B 在 Bedrock 已列為 legacy，2027-03-30 停用（AWS 模型生命週期頁）。修改內容：
+  - **研究定位改為「概念復刻 + 記憶分解」**：沿用論文的資料、切分與輸入格式，換成目前的模型；不稱為復刻（論文的模型、zero-shot 提示詞、連結表、截斷方式都無法取得或未公布）
+  - 主模型與唯一模型：`claude-opus-5-5`。R1、R2、R3、R5 以它判定，判讀標準不變
+  - **R0：無法檢驗**。A 組 AUC 與 0.681 並列，只作描述性比較
+  - **R4：無法檢驗**（沒有可用的舊模型）。研究問題 2 只回答「樣本組成」這一半：以知名度分層與 A − B 判斷；「模型新舊」那一半列為限制
+  - §5 的溫度設定不適用（subagent 無法設定溫度），溫度 0.7 × 5 次的敏感度分析取消
+  - §6 的成本估算改為估算 agent 數、token 量（以 subagent 回報的用量為準）與執行時間；仍在試跑後請使用者同意再全量執行
+  - subagent 的分批規則照 §5（A、B 每個 agent 5 筆，C 每個 agent 25 筆，同時最多 20 個）；每個 agent 實際使用的模型由執行紀錄回報
