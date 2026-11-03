@@ -1,0 +1,162 @@
+{
+ "A-01": {
+  "assigned": "IDEANOMICS",
+  "confidence": 20,
+  "basis": "SEC probe/litigation plus acquisitions, related parties; one MW"
+ },
+ "A-02": {
+  "assigned": "THEMAVEN, INC.",
+  "confidence": 35,
+  "basis": "Heavy control failures, late filings, CEO ouster, capital raises, many acquisitions/related parties"
+ },
+ "A-03": {
+  "assigned": "NATIONAL PRESTO INDUSTRIES INC",
+  "confidence": 15,
+  "basis": "Clean; defense contracts give over-time revenue and gov customer concentration"
+ },
+ "A-04": {
+  "assigned": "MITEK SYSTEMS INC",
+  "confidence": 20,
+  "basis": "MW plus restatement, acquisitions, weak numeric profile"
+ },
+ "A-05": {
+  "assigned": "PLUG POWER",
+  "confidence": 30,
+  "basis": "Restatement with MWs, capital raises, customer concentration, contract assets, inventory write-downs"
+ },
+ "A-06": {
+  "assigned": "AMMO",
+  "confidence": 15,
+  "basis": "MW, management change, Gunbroker acquisition and related parties"
+ },
+ "A-07": {
+  "assigned": "MALVERN BANCORP",
+  "confidence": 30,
+  "basis": "Bank profile (no complexity/numeric flags) with MW and restatement"
+ },
+ "A-08": {
+  "assigned": "EVOQUA WATER",
+  "confidence": 15,
+  "basis": "Securities class action, segment change, acquisitions"
+ },
+ "A-09": {
+  "assigned": "LATCH",
+  "confidence": 15,
+  "basis": "SPAC merger with an internal-control issue, few other flags"
+ },
+ "A-10": {
+  "assigned": "GENTEX",
+  "confidence": 15,
+  "basis": "Clean auto supplier; customer concentration, incentive pay"
+ },
+ "A-11": {
+  "assigned": "USA TECHNOLOGIES",
+  "confidence": 30,
+  "basis": "Restatement, MWs, SEC/class action, management turnover, covenant pressure"
+ },
+ "A-12": {
+  "assigned": "CONSOLIDATED COMMUNICATIONS HOLDINGS, INC.",
+  "confidence": 15,
+  "basis": "Covenant and capital raise (Searchlight), CEO change, FairPoint acquisition"
+ },
+ "A-13": {
+  "assigned": "BUNGELTD",
+  "confidence": 10,
+  "basis": "Accounting/segment change, CEO change, weak numeric signals"
+ },
+ "A-14": {
+  "assigned": "SAEXPLORATION",
+  "confidence": 30,
+  "basis": "Going concern, covenant, capital raise, MW/adverse/auditor change, customer concentration"
+ },
+ "A-15": {
+  "assigned": "PDS BIOTECHNOLOGY CORP",
+  "confidence": 30,
+  "basis": "Reverse merger with Edge plus capital raises, otherwise clean"
+ },
+ "A-16": {
+  "assigned": "BECTON DICKINSON",
+  "confidence": 15,
+  "basis": "Product litigation/government matter and Bard acquisition"
+ },
+ "A-17": {
+  "assigned": "GTT COMMUNICATIONS",
+  "confidence": 20,
+  "basis": "CEO and CFO change, class action, covenant and capital raise, Interoute acquisition"
+ },
+ "A-18": {
+  "assigned": "TRAVEL + LEISURE CO.",
+  "confidence": 10,
+  "basis": "Segment change after hotel spin-off, few other flags"
+ },
+ "A-19": {
+  "assigned": "TRANSATLANTIC PETROLEUM LTD.",
+  "confidence": 10,
+  "basis": "Financial pressure with extreme numeric signals"
+ },
+ "A-20": {
+  "assigned": "ADAMIS",
+  "confidence": 25,
+  "basis": "SEC investigation, going concern and capital raises, CEO change"
+ },
+ "A-21": {
+  "assigned": "THERMON GROUP HOLDINGS, INC.",
+  "confidence": 15,
+  "basis": "Project revenue over time, contract assets, CCI Thermal acquisition"
+ },
+ "A-22": {
+  "assigned": "ARCHER-DANIELS-MIDLAND",
+  "confidence": 10,
+  "basis": "Government investigation and CFO change"
+ },
+ "A-23": {
+  "assigned": "BOYD GAMING CORP",
+  "confidence": 10,
+  "basis": "Leveraged casino operator, acquisition, numeric signals"
+ },
+ "A-24": {
+  "assigned": "DUCOMMUN INC /DE/",
+  "confidence": 20,
+  "basis": "Aerospace contracts: over-time revenue, contract assets, concentration, acquisitions, write-downs"
+ },
+ "A-25": {
+  "assigned": "THE BANCORP, INC.",
+  "confidence": 25,
+  "basis": "Bank with SEC matter, restatement history and control issue"
+ },
+ "A-26": {
+  "assigned": "BOSTON SCIENTIFIC CORP",
+  "confidence": 10,
+  "basis": "Large clean issuer with acquisition and executive change"
+ },
+ "A-27": {
+  "assigned": "NICOLET BANKSHARES INC",
+  "confidence": 15,
+  "basis": "Clean bank, incentive pay only"
+ },
+ "A-28": {
+  "assigned": "CPI AEROSTRUCTURES",
+  "confidence": 30,
+  "basis": "Restatement and accounting change, MWs, contract assets/over-time revenue"
+ },
+ "A-29": {
+  "assigned": "VISTEON CORP",
+  "confidence": 10,
+  "basis": "Few flags; financial pressure items only"
+ },
+ "A-30": {
+  "assigned": "PROVIDENT FINANCIAL HOLDINGS INC",
+  "confidence": 15,
+  "basis": "No flags at all; conservative small bank"
+ },
+ "A-31": {
+  "assigned": "WELBILT, INC.",
+  "confidence": 20,
+  "basis": "MW and restatement with covenant pressure"
+ },
+ "A-32": {
+  "assigned": "AERSALE CORP",
+  "confidence": 20,
+  "basis": "SPAC, acquisitions and inventory write-downs with one control issue"
+ }
+}

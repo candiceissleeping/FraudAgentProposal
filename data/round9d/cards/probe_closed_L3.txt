@@ -1,0 +1,224 @@
+CANDIDATE COMPANIES (each fact card below belongs to exactly one of these; fiscal years 2017-2024):
+- ADAMIS
+- AERSALE CORP
+- AMMO
+- ARCHER-DANIELS-MIDLAND
+- BECTON DICKINSON
+- BOSTON SCIENTIFIC CORP
+- BOYD GAMING CORP
+- BUNGELTD
+- CONSOLIDATED COMMUNICATIONS HOLDINGS, INC.
+- CPI AEROSTRUCTURES
+- DUCOMMUN INC /DE/
+- EVOQUA WATER
+- GENTEX
+- GTT COMMUNICATIONS
+- IDEANOMICS
+- LATCH
+- MALVERN BANCORP
+- MITEK SYSTEMS INC
+- NATIONAL PRESTO INDUSTRIES INC
+- NICOLET BANKSHARES INC
+- PDS BIOTECHNOLOGY CORP
+- PLUG POWER
+- PROVIDENT FINANCIAL HOLDINGS INC
+- SAEXPLORATION
+- THE BANCORP, INC.
+- THEMAVEN, INC.
+- THERMON GROUP HOLDINGS, INC.
+- TRANSATLANTIC PETROLEUM LTD.
+- TRAVEL + LEISURE CO.
+- USA TECHNOLOGIES
+- VISTEON CORP
+- WELBILT, INC.
+
+FACT CARD A-01
+
+Total disclosure red flags (out of 24 possible): 7
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 1 of 4
+
+
+FACT CARD A-02
+
+Total disclosure red flags (out of 24 possible): 10
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 2 of 4
+
+
+FACT CARD A-03
+
+Total disclosure red flags (out of 24 possible): 3
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 1 of 4
+
+
+FACT CARD A-04
+
+Total disclosure red flags (out of 24 possible): 5
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 3 of 4
+
+
+FACT CARD A-05
+
+Total disclosure red flags (out of 24 possible): 8
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 3 of 4
+
+
+FACT CARD A-06
+
+Total disclosure red flags (out of 24 possible): 5
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 1 of 4
+
+
+FACT CARD A-07
+
+Total disclosure red flags (out of 24 possible): 4
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 0 of 4
+
+
+FACT CARD A-08
+
+Total disclosure red flags (out of 24 possible): 5
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 3 of 4
+
+
+FACT CARD A-09
+
+Total disclosure red flags (out of 24 possible): 3
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 0 of 4
+
+
+FACT CARD A-10
+
+Total disclosure red flags (out of 24 possible): 3
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 0 of 4
+
+
+FACT CARD A-11
+
+Total disclosure red flags (out of 24 possible): 9
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 3 of 4
+
+
+FACT CARD A-12
+
+Total disclosure red flags (out of 24 possible): 5
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 1 of 4
+
+
+FACT CARD A-13
+
+Total disclosure red flags (out of 24 possible): 2
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 3 of 4
+
+
+FACT CARD A-14
+
+Total disclosure red flags (out of 24 possible): 8
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 3 of 4
+
+
+FACT CARD A-15
+
+Total disclosure red flags (out of 24 possible): 3
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 0 of 4
+
+
+FACT CARD A-16
+
+Total disclosure red flags (out of 24 possible): 2
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 0 of 4
+
+
+FACT CARD A-17
+
+Total disclosure red flags (out of 24 possible): 6
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 1 of 4
+
+
+FACT CARD A-18
+
+Total disclosure red flags (out of 24 possible): 4
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 1 of 4
+
+
+FACT CARD A-19
+
+Total disclosure red flags (out of 24 possible): 3
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 4 of 4
+
+
+FACT CARD A-20
+
+Total disclosure red flags (out of 24 possible): 5
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 1 of 4
+
+
+FACT CARD A-21
+
+Total disclosure red flags (out of 24 possible): 5
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 1 of 4
+
+
+FACT CARD A-22
+
+Total disclosure red flags (out of 24 possible): 3
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 1 of 4
+
+
+FACT CARD A-23
+
+Total disclosure red flags (out of 24 possible): 2
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 2 of 4
+
+
+FACT CARD A-24
+
+Total disclosure red flags (out of 24 possible): 7
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 0 of 4
+
+
+FACT CARD A-25
+
+Total disclosure red flags (out of 24 possible): 3
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 0 of 4
+
+
+FACT CARD A-26
+
+Total disclosure red flags (out of 24 possible): 3
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 0 of 4
+
+
+FACT CARD A-27
+
+Total disclosure red flags (out of 24 possible): 1
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 0 of 4
+
+
+FACT CARD A-28
+
+Total disclosure red flags (out of 24 possible): 8
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 1 of 4
+
+
+FACT CARD A-29
+
+Total disclosure red flags (out of 24 possible): 2
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 0 of 4
+
+
+FACT CARD A-30
+
+Total disclosure red flags (out of 24 possible): 0
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 0 of 4
+
+
+FACT CARD A-31
+
+Total disclosure red flags (out of 24 possible): 4
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 1 of 4
+
+
+FACT CARD A-32
+
+Total disclosure red flags (out of 24 possible): 4
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 1 of 4

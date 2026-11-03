@@ -1,0 +1,4 @@
+FACT CARD A-03
+
+Total disclosure red flags (out of 24 possible): 3
+Numeric warning signals (Beneish M, Dechow F, accruals, cash flow vs income; not computable counts as not triggered): 1 of 4

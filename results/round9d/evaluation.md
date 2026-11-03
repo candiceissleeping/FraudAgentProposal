@@ -8,6 +8,12 @@
 - closed_2.json：**4/32**（隨機期望 1.0，單尾 p = 0.0171）['Evoqua Water', 'Malvern Bancorp', 'The Bancorp, Inc.', 'Gentex']
 - D1 判定（兩次都 ≤ 3）：未通過
 
+## 9d-b L2b 卡（不顯示可計算項數）封閉式辨識
+
+- closed_1.json：**7/32**（隨機期望 1.0，單尾 p = 4.92e-05）['Evoqua Water', 'CPI Aerostructures', 'Ideanomics', 'GTT Communications', 'AERSALE CORP', 'The Bancorp, Inc.', 'PROVIDENT FINANCIAL HOLDINGS INC']
+- closed_2.json：**5/32**（隨機期望 1.0，單尾 p = 0.00297）['THEMAVEN, INC.', 'Malvern Bancorp', 'GTT Communications', 'Travel + Leisure Co.', 'The Bancorp, Inc.']
+- 判定（兩次都 ≤ 3）：未通過
+
 ## D2 第九輪 L2 封閉式辨識重複
 
 - closed_L2.json：3/54
