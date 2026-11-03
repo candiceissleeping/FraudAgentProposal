@@ -1,0 +1,4 @@
+FACT CARD R9-23
+
+Total disclosure red flags (out of 24 possible): 1
+Numeric warning signals: 0 of 2 computable (Beneish M, Dechow F, accruals, cash flow vs income)

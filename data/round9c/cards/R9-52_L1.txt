@@ -1,0 +1,47 @@
+FACT CARD R9-52
+
+Disclosure facts (extracted from the annual report; every value verified against the text):
+  F01 material_weakness: no
+  F02 material_weakness_area: na
+  F03 icfr_auditor_opinion: not_required
+  F04 going_concern: no
+  F05 auditor_change_within_2y: yes
+  F06 disagreement_with_accountants: no
+  F07 prior_period_correction: none
+  F08 revenue_over_time_major: no
+  F09 contract_assets_or_unbilled_significant: no
+  F10 channel_return_rights_or_bill_and_hold: no
+  F11 related_party_transactions_material: yes
+  F12 largest_customer_pct_revenue: 25-50%
+  F13 largest_customer_pct_receivables: 25-50%
+  F14 ceo_or_cfo_change_in_year: yes
+  F15 interim_or_acting_cfo: no
+  F16 sec_inquiry_or_investigation: no
+  F17 securities_class_action: no
+  F18 other_government_investigation: no
+  F19 covenant_breach_waiver_or_amendment: no
+  F20 incentive_pay_tied_to_revenue_or_eps: no
+  F21 capital_raise_in_year_or_planned: yes
+  F22 major_acquisition_in_year: yes
+  F24 critical_audit_matter_topics: none_or_na
+  F25 voluntary_accounting_change: no
+  F26 non_gaap_emphasis: no
+  F27 inventory_writedown_significant: yes
+  F28 segment_or_reporting_change: yes
+
+Financial signals (from as-filed XBRL, current vs prior year; categories only):
+  R01 days sales in receivables: n/a
+  R02 gross margin: n/a
+  R03 asset quality index: n/a
+  R04 sales growth: n/a
+  R05 depreciation: n/a
+  R06 SG&A: n/a
+  R07 leverage: leverage stable or falling
+  R08 total accruals: accruals negative
+  R13 soft assets share: high (>75%)
+  R18 receivables vs sales growth: n/a
+  R15 change in ROA: ROA rising
+  R09 Beneish M-score: n/a
+  R17 Dechow F-score: below threshold
+  R19 operating cash flow vs net income: cash flow well below income (<0.8x)
+  R16 securities issued: yes

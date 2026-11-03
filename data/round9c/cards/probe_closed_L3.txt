@@ -1,0 +1,378 @@
+CANDIDATE COMPANIES (each fact card below belongs to exactly one of these; fiscal years 2024-2025):
+- American Resources Corp
+- Artiva Biotherapeutics, Inc.
+- BLUE DOLPHIN ENERGY CO
+- BONK, INC.
+- BayFirst Financial Corp.
+- Brownie's Marine Group, Inc
+- CREDITRISKMONITOR COM INC
+- Capstone Holding Corp.
+- Crexendo, Inc.
+- DUKE Robotics Corp.
+- Datavault AI Inc.
+- EON Resources Inc.
+- ESS Tech, Inc.
+- FutureTech II Acquisition Corp.
+- Galaxy Gaming, Inc.
+- GlobalTech Corp
+- Globaltek Ventures, Inc.
+- GoPro, Inc.
+- Greenlane Holdings, Inc.
+- Greenwave Technology Solutions, Inc.
+- HCW Biologics Inc.
+- HIGH WIRE NETWORKS, INC.
+- High Roller Technologies, Inc.
+- IMAX CORP
+- KIORA PHARMACEUTICALS INC
+- KonaTel, Inc.
+- Liberty Global Ltd.
+- Marygold Companies, Inc.
+- NACCO INDUSTRIES INC
+- Netcapital Inc.
+- New ERA Energy & Digital, Inc.
+- Newton Golf Company, Inc.
+- Northann Corp.
+- Nuburu, Inc.
+- OLENOX INDUSTRIES INC.
+- OMNIQ Corp.
+- Omnitek Engineering Corp
+- Optimum Communications, Inc.
+- PIXELWORKS, INC
+- Panamera Holdings Corp
+- Paysign, Inc.
+- Pelthos Therapeutics Inc.
+- Protopia Global Holdings Inc.
+- SDR Drone, Inc.
+- SOLESENCE, INC.
+- Securetech Innovations, Inc.
+- Skyline Bankshares, Inc.
+- Sports Entertainment Gaming Global Corp
+- Trans American Aquaculture, Inc
+- Trio Petroleum Corp
+- U. S. Premium Beef, LLC
+- WINDTREE THERAPEUTICS INC /DE/
+- Worksport Ltd
+- YUNHONG GREEN CTI LTD.
+
+FACT CARD R9-01
+
+Total disclosure red flags (out of 24 possible): 2
+Numeric warning signals: 0 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-02
+
+Total disclosure red flags (out of 24 possible): 7
+Numeric warning signals: 3 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-03
+
+Total disclosure red flags (out of 24 possible): 4
+Numeric warning signals: 1 of 3 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-04
+
+Total disclosure red flags (out of 24 possible): 9
+Numeric warning signals: 1 of 3 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-05
+
+Total disclosure red flags (out of 24 possible): 5
+Numeric warning signals: 1 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-06
+
+Total disclosure red flags (out of 24 possible): 5
+Numeric warning signals: 1 of 3 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-07
+
+Total disclosure red flags (out of 24 possible): 4
+Numeric warning signals: 1 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-08
+
+Total disclosure red flags (out of 24 possible): 8
+Numeric warning signals: 2 of 3 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-09
+
+Total disclosure red flags (out of 24 possible): 9
+Numeric warning signals: 1 of 3 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-10
+
+Total disclosure red flags (out of 24 possible): 3
+Numeric warning signals: 0 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-11
+
+Total disclosure red flags (out of 24 possible): 4
+Numeric warning signals: 0 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-12
+
+Total disclosure red flags (out of 24 possible): 12
+Numeric warning signals: 2 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-13
+
+Total disclosure red flags (out of 24 possible): 10
+Numeric warning signals: 2 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-14
+
+Total disclosure red flags (out of 24 possible): 7
+Numeric warning signals: 1 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-15
+
+Total disclosure red flags (out of 24 possible): 4
+Numeric warning signals: 1 of 2 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-16
+
+Total disclosure red flags (out of 24 possible): 1
+Numeric warning signals: 0 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-17
+
+Total disclosure red flags (out of 24 possible): 4
+Numeric warning signals: 1 of 2 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-18
+
+Total disclosure red flags (out of 24 possible): 9
+Numeric warning signals: 3 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-19
+
+Total disclosure red flags (out of 24 possible): 7
+Numeric warning signals: 4 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-20
+
+Total disclosure red flags (out of 24 possible): 5
+Numeric warning signals: 1 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-21
+
+Total disclosure red flags (out of 24 possible): 6
+Numeric warning signals: 1 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-22
+
+Total disclosure red flags (out of 24 possible): 6
+Numeric warning signals: 2 of 3 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-23
+
+Total disclosure red flags (out of 24 possible): 1
+Numeric warning signals: 0 of 2 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-24
+
+Total disclosure red flags (out of 24 possible): 3
+Numeric warning signals: 0 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-25
+
+Total disclosure red flags (out of 24 possible): 6
+Numeric warning signals: 3 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-26
+
+Total disclosure red flags (out of 24 possible): 7
+Numeric warning signals: 3 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-27
+
+Total disclosure red flags (out of 24 possible): 10
+Numeric warning signals: 1 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-28
+
+Total disclosure red flags (out of 24 possible): 7
+Numeric warning signals: 1 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-29
+
+Total disclosure red flags (out of 24 possible): 5
+Numeric warning signals: 2 of 3 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-30
+
+Total disclosure red flags (out of 24 possible): 9
+Numeric warning signals: 2 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-31
+
+Total disclosure red flags (out of 24 possible): 3
+Numeric warning signals: 2 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-32
+
+Total disclosure red flags (out of 24 possible): 4
+Numeric warning signals: 1 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-33
+
+Total disclosure red flags (out of 24 possible): 6
+Numeric warning signals: 1 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-34
+
+Total disclosure red flags (out of 24 possible): 7
+Numeric warning signals: 0 of 1 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-35
+
+Total disclosure red flags (out of 24 possible): 5
+Numeric warning signals: 0 of 3 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-36
+
+Total disclosure red flags (out of 24 possible): 6
+Numeric warning signals: 3 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-37
+
+Total disclosure red flags (out of 24 possible): 1
+Numeric warning signals: 0 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-38
+
+Total disclosure red flags (out of 24 possible): 6
+Numeric warning signals: 0 of 0 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-39
+
+Total disclosure red flags (out of 24 possible): 4
+Numeric warning signals: 0 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-40
+
+Total disclosure red flags (out of 24 possible): 11
+Numeric warning signals: 2 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-41
+
+Total disclosure red flags (out of 24 possible): 4
+Numeric warning signals: 0 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-42
+
+Total disclosure red flags (out of 24 possible): 7
+Numeric warning signals: 0 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-43
+
+Total disclosure red flags (out of 24 possible): 1
+Numeric warning signals: 1 of 2 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-44
+
+Total disclosure red flags (out of 24 possible): 7
+Numeric warning signals: 3 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-45
+
+Total disclosure red flags (out of 24 possible): 6
+Numeric warning signals: 2 of 3 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-46
+
+Total disclosure red flags (out of 24 possible): 3
+Numeric warning signals: 1 of 3 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-47
+
+Total disclosure red flags (out of 24 possible): 4
+Numeric warning signals: 2 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-48
+
+Total disclosure red flags (out of 24 possible): 3
+Numeric warning signals: 1 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-49
+
+Total disclosure red flags (out of 24 possible): 7
+Numeric warning signals: 2 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-50
+
+Total disclosure red flags (out of 24 possible): 8
+Numeric warning signals: 1 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-51
+
+Total disclosure red flags (out of 24 possible): 12
+Numeric warning signals: 2 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-52
+
+Total disclosure red flags (out of 24 possible): 8
+Numeric warning signals: 1 of 3 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-53
+
+Total disclosure red flags (out of 24 possible): 8
+Numeric warning signals: 1 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)
+
+
+FACT CARD R9-54
+
+Total disclosure red flags (out of 24 possible): 6
+Numeric warning signals: 4 of 4 computable (Beneish M, Dechow F, accruals, cash flow vs income)

@@ -1,0 +1,1080 @@
+CANDIDATE COMPANIES (each fact card below belongs to exactly one of these; fiscal years 2024-2025):
+- American Resources Corp
+- Artiva Biotherapeutics, Inc.
+- BLUE DOLPHIN ENERGY CO
+- BONK, INC.
+- BayFirst Financial Corp.
+- Brownie's Marine Group, Inc
+- CREDITRISKMONITOR COM INC
+- Capstone Holding Corp.
+- Crexendo, Inc.
+- DUKE Robotics Corp.
+- Datavault AI Inc.
+- EON Resources Inc.
+- ESS Tech, Inc.
+- FutureTech II Acquisition Corp.
+- Galaxy Gaming, Inc.
+- GlobalTech Corp
+- Globaltek Ventures, Inc.
+- GoPro, Inc.
+- Greenlane Holdings, Inc.
+- Greenwave Technology Solutions, Inc.
+- HCW Biologics Inc.
+- HIGH WIRE NETWORKS, INC.
+- High Roller Technologies, Inc.
+- IMAX CORP
+- KIORA PHARMACEUTICALS INC
+- KonaTel, Inc.
+- Liberty Global Ltd.
+- Marygold Companies, Inc.
+- NACCO INDUSTRIES INC
+- Netcapital Inc.
+- New ERA Energy & Digital, Inc.
+- Newton Golf Company, Inc.
+- Northann Corp.
+- Nuburu, Inc.
+- OLENOX INDUSTRIES INC.
+- OMNIQ Corp.
+- Omnitek Engineering Corp
+- Optimum Communications, Inc.
+- PIXELWORKS, INC
+- Panamera Holdings Corp
+- Paysign, Inc.
+- Pelthos Therapeutics Inc.
+- Protopia Global Holdings Inc.
+- SDR Drone, Inc.
+- SOLESENCE, INC.
+- Securetech Innovations, Inc.
+- Skyline Bankshares, Inc.
+- Sports Entertainment Gaming Global Corp
+- Trans American Aquaculture, Inc
+- Trio Petroleum Corp
+- U. S. Premium Beef, LLC
+- WINDTREE THERAPEUTICS INC /DE/
+- Worksport Ltd
+- YUNHONG GREEN CTI LTD.
+
+FACT CARD R9-01
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 0 of 4
+  Prior-period corrections and accounting changes: 1 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 1 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 0 of 8
+  Numeric warning signals: 0 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-02
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 0 of 4
+  Prior-period corrections and accounting changes: 1 of 3
+  Investigations and litigation: 1 of 3
+  Financial pressure: 2 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 3 of 8
+  Numeric warning signals: 3 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-03
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 1 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 2 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 1 of 8
+  Numeric warning signals: 1 of 3 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-04
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 2 of 4
+  Prior-period corrections and accounting changes: 2 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 3 of 4
+  Management turnover: 1 of 2
+  Transaction complexity: 1 of 8
+  Numeric warning signals: 1 of 3 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-05
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 0 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 3 of 4
+  Management turnover: 1 of 2
+  Transaction complexity: 1 of 8
+  Numeric warning signals: 1 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-06
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 2 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 2 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 1 of 8
+  Numeric warning signals: 1 of 3 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-07
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 0 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 2 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 2 of 8
+  Numeric warning signals: 1 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-08
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 2 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 3 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 3 of 8
+  Numeric warning signals: 2 of 3 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-09
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 1 of 4
+  Prior-period corrections and accounting changes: 1 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 3 of 4
+  Management turnover: 1 of 2
+  Transaction complexity: 3 of 8
+  Numeric warning signals: 1 of 3 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-10
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 0 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 1 of 3
+  Financial pressure: 1 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 1 of 8
+  Numeric warning signals: 0 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-11
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 1 of 4
+  Prior-period corrections and accounting changes: 1 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 1 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 1 of 8
+  Numeric warning signals: 0 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-12
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 2 of 4
+  Prior-period corrections and accounting changes: 1 of 3
+  Investigations and litigation: 3 of 3
+  Financial pressure: 3 of 4
+  Management turnover: 1 of 2
+  Transaction complexity: 2 of 8
+  Numeric warning signals: 2 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-13
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 2 of 4
+  Prior-period corrections and accounting changes: 2 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 3 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 3 of 8
+  Numeric warning signals: 2 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-14
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 2 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 3 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 2 of 8
+  Numeric warning signals: 1 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-15
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 1 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 2 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 1 of 8
+  Numeric warning signals: 1 of 2 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-16
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 0 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 0 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 1 of 8
+  Numeric warning signals: 0 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-17
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 0 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 1 of 3
+  Financial pressure: 1 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 2 of 8
+  Numeric warning signals: 1 of 2 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-18
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 2 of 4
+  Prior-period corrections and accounting changes: 1 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 3 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 3 of 8
+  Numeric warning signals: 3 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-19
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 2 of 4
+  Prior-period corrections and accounting changes: 2 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 2 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 1 of 8
+  Numeric warning signals: 4 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-20
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 0 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 2 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 3 of 8
+  Numeric warning signals: 1 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-21
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 1 of 4
+  Prior-period corrections and accounting changes: 1 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 3 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 1 of 8
+  Numeric warning signals: 1 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-22
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 1 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 1 of 3
+  Financial pressure: 2 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 2 of 8
+  Numeric warning signals: 2 of 3 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-23
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 0 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 1 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 0 of 8
+  Numeric warning signals: 0 of 2 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-24
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 0 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 1 of 3
+  Financial pressure: 1 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 1 of 8
+  Numeric warning signals: 0 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-25
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 0 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 2 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 4 of 8
+  Numeric warning signals: 3 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-26
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 1 of 4
+  Prior-period corrections and accounting changes: 1 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 2 of 4
+  Management turnover: 1 of 2
+  Transaction complexity: 2 of 8
+  Numeric warning signals: 3 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-27
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 3 of 4
+  Prior-period corrections and accounting changes: 1 of 3
+  Investigations and litigation: 1 of 3
+  Financial pressure: 2 of 4
+  Management turnover: 1 of 2
+  Transaction complexity: 2 of 8
+  Numeric warning signals: 1 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-28
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 1 of 4
+  Prior-period corrections and accounting changes: 1 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 3 of 4
+  Management turnover: 1 of 2
+  Transaction complexity: 1 of 8
+  Numeric warning signals: 1 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-29
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 0 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 2 of 4
+  Management turnover: 1 of 2
+  Transaction complexity: 2 of 8
+  Numeric warning signals: 2 of 3 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-30
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 2 of 4
+  Prior-period corrections and accounting changes: 1 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 3 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 3 of 8
+  Numeric warning signals: 2 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-31
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 0 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 2 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 1 of 8
+  Numeric warning signals: 2 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-32
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 0 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 2 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 2 of 8
+  Numeric warning signals: 1 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-33
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 0 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 1 of 3
+  Financial pressure: 2 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 3 of 8
+  Numeric warning signals: 1 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-34
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 2 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 2 of 4
+  Management turnover: 1 of 2
+  Transaction complexity: 2 of 8
+  Numeric warning signals: 0 of 1 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-35
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 1 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 2 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 2 of 8
+  Numeric warning signals: 0 of 3 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-36
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 1 of 4
+  Prior-period corrections and accounting changes: 1 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 2 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 2 of 8
+  Numeric warning signals: 3 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-37
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 0 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 1 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 0 of 8
+  Numeric warning signals: 0 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-38
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 2 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 2 of 4
+  Management turnover: 1 of 2
+  Transaction complexity: 1 of 8
+  Numeric warning signals: 0 of 0 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-39
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 0 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 1 of 3
+  Financial pressure: 0 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 3 of 8
+  Numeric warning signals: 0 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-40
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 2 of 4
+  Prior-period corrections and accounting changes: 1 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 4 of 4
+  Management turnover: 1 of 2
+  Transaction complexity: 3 of 8
+  Numeric warning signals: 2 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-41
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 0 of 4
+  Prior-period corrections and accounting changes: 1 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 2 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 1 of 8
+  Numeric warning signals: 0 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-42
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 2 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 4 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 1 of 8
+  Numeric warning signals: 0 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-43
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 0 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 1 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 0 of 8
+  Numeric warning signals: 1 of 2 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-44
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 1 of 4
+  Prior-period corrections and accounting changes: 1 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 4 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 1 of 8
+  Numeric warning signals: 3 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-45
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 1 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 2 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 3 of 8
+  Numeric warning signals: 2 of 3 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-46
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 0 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 1 of 3
+  Financial pressure: 1 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 1 of 8
+  Numeric warning signals: 1 of 3 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-47
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 0 of 4
+  Prior-period corrections and accounting changes: 1 of 3
+  Investigations and litigation: 1 of 3
+  Financial pressure: 1 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 1 of 8
+  Numeric warning signals: 2 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-48
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 0 of 4
+  Prior-period corrections and accounting changes: 1 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 1 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 1 of 8
+  Numeric warning signals: 1 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-49
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 1 of 4
+  Prior-period corrections and accounting changes: 1 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 3 of 4
+  Management turnover: 0 of 2
+  Transaction complexity: 2 of 8
+  Numeric warning signals: 2 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-50
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 1 of 4
+  Prior-period corrections and accounting changes: 1 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 3 of 4
+  Management turnover: 1 of 2
+  Transaction complexity: 2 of 8
+  Numeric warning signals: 1 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-51
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 2 of 4
+  Prior-period corrections and accounting changes: 1 of 3
+  Investigations and litigation: 1 of 3
+  Financial pressure: 3 of 4
+  Management turnover: 2 of 2
+  Transaction complexity: 3 of 8
+  Numeric warning signals: 2 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-52
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 1 of 4
+  Prior-period corrections and accounting changes: 1 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 1 of 4
+  Management turnover: 1 of 2
+  Transaction complexity: 4 of 8
+  Numeric warning signals: 1 of 3 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-53
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 1 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 3 of 4
+  Management turnover: 2 of 2
+  Transaction complexity: 2 of 8
+  Numeric warning signals: 1 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
+
+
+FACT CARD R9-54
+
+Red-flag counts by area (from the annual report and as-filed XBRL; which specific items are present is withheld):
+  Internal control and audit: 0 of 4
+  Prior-period corrections and accounting changes: 0 of 3
+  Investigations and litigation: 0 of 3
+  Financial pressure: 2 of 4
+  Management turnover: 1 of 2
+  Transaction complexity: 3 of 8
+  Numeric warning signals: 4 of 4 computable
+
+Areas: internal control and audit = material weakness, adverse ICFR opinion, auditor change, disagreement;
+corrections = restatement/revision, voluntary accounting change, segment change; investigations = SEC, class action,
+other government; pressure = going concern, covenant problem, incentive pay tied to revenue/EPS, capital raise;
+turnover = CEO/CFO change, interim CFO; complexity = over-time revenue, contract assets, return rights/bill-and-hold,
+related parties, major acquisition, SPAC/reverse merger, inventory write-down, customer concentration >=25%;
+numeric = Beneish M > -1.78, Dechow F > 1.0, accruals > 3% of assets, operating cash flow < 0.8x net income.
