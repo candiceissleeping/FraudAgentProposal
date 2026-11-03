@@ -1,0 +1,785 @@
+[Item 1 Business has been removed for this study.] Industry: Electronic and other electrical equipment (SIC 36) | Size: total assets $100 million - $1 billion | Fiscal year ends in calendar quarter 4
+
+Item 1A.  Risk Factors
+The following are some of the factors that we believe could cause our actual results to differ materially from expected and historical results. The risks and uncertainties described below are not the only ones facing our company. Additional risks and uncertainties not currently known to us or those we currently view to be immaterial may also materially and adversely affect our business, financial condition or results of operations.
+We have a history of losses and may incur losses in the future.
+We have experienced net losses and negative cash flow from operations during Y0, Y-1 and Y-2, and we currently have an accumulated deficit. In order for us to attain profitability and growth, we will need to successfully execute our production, marketing and sales plans for our product lines, and improve our distribution and supply chain performance. We may fail to achieve profitability in the future, and our business may not be as successful as we envision. [NAME_145] losses could exhaust our capital resources and force us to scale back, suspend or discontinue our operations. Our operating expenses may continue to increase as we spend resources on growing our business, and if our revenue does not correspondingly increase, our operating results and financial condition will suffer.
+We may be unable to raise additional capital.
+We have funded our operations primarily through the issuance of common stock and bank financing. In addition, we have received financing primarily from our affiliate [NAME_65] 1, LLC (“[NAME_65]”) and [NAME_2], LLC (“[NAME_146]”), entities affiliated with our Chairman, Chief Executive Officer and President. The actual amount of funds that we will need to meet our operating needs will be determined by a number of factors, many of which are beyond our control. These factors include the timing and volume of sales transactions, the success of our marketing strategy, market acceptance of our products, the success of our manufacturing and research and product development efforts (including any unanticipated delays), the costs associated with obtaining and enforcing our intellectual property rights, regulatory changes, competition, technological developments in the market, evolving industry standards and the amount of working capital investments we are required to make. If we are unable to obtain sufficient capital when needed, our business and future prospects will be adversely affected and we could be forced to scale back, suspend or discontinue operations.
+The future issuance of additional shares of common stock and/or preferred stock could dilute existing stockholders.
+We are authorized to issue 45,286,500 shares of common stock, of which 27,627,848 shares were issued and outstanding at December Y0. To the extent that common shares are available for issuance, subject to compliance with applicable stock exchange listing rules, our board of directors has the ability to issue additional shares of common stock in the future for such consideration as the board of directors may consider sufficient. The issuance of any additional securities could, among other things, result in substantial dilution of the percentage ownership of our stockholders at the time of issuance, result in substantial dilution of our earnings per share and adversely affect the prevailing market price for our common stock.
+We are authorized to issue 6,469,500 shares of preferred stock, none of which were issued or outstanding at December Y0. Our board of directors may designate the rights and preferences of preferred stock without a vote by the stockholders. [NAME_93] new series of preferred stockholders could adversely affect the rights of holders of common stock insofar as such series:
+•  provides for voting, redemption and conversion rights to the detriment of the holders of common stock;
+•  provides for dividends that must be paid prior to any distributions on our common stock;
+•  receives preferences over the holders of common stock or surplus funds in the event of our dissolution or liquidation; or
+•  has the potential to delay, defer or prevent a change in control of our company, and discourage bids for our common stock.
+The future trading market for our common stock may not be active on a consistent basis and the market price of our common stock could be subject to significant fluctuations.
+Trading in our common stock has been limited and, at times, volatile since our shares were listed on The NASDAQ Capital Market. The trading volume of our common stock in the future depends in part on our ability to increase our revenue and reduce or eliminate our operating losses. If we are unable to achieve these goals, the trading market for our common stock may be negatively affected, which may make it difficult for you to sell your shares. An active trading market for our common stock may not develop or, if developed, be sustained, and the trading price of our common stock may fluctuate substantially. The price of our common stock may also fluctuate as a result of: (i) variations in our operating results; (ii) announcements by us, our competitors or others of significant business developments; (iii) changes in client relationships; (iv) acquisitions or expansion plans; or (v) analysts’ earnings estimates, ratings and research reports.
+Our loan agreement contains financial covenants that may limit our operating and strategic flexibility.
+Our loan and security agreement with Bank of America, [NAME_147]. (“Bank of America”), as amended (the “Revolving Credit Facility”), contains financial covenants and other restrictions that limit our ability to engage in certain types of transactions. For example, these restrictions require that we maintain a fixed charge ratio tied to our ability to borrow under the terms of the Revolving Credit Facility, and generally require us to obtain lender consents for acquisitions. There can be no assurance that we will be in compliance with all covenants in the future or that Bank of America will agree to modify the Revolving Credit Facility, should that become necessary.
+Events beyond our control could affect our ability to comply with these covenants and restrictions. Failure to comply with any of these covenants and restrictions would result in an event of default under the Revolving Credit Facility. If we do not cure an event of default or obtain necessary waivers within the required time periods, Bank of America would be permitted to accelerate the maturity of the debt under the Revolving Credit Facility, foreclose upon our assets securing the debt, and terminate any further commitments to lend to us. Under these circumstances, we may not have sufficient funds or other resources to satisfy our other obligations. In addition, the limitations imposed by the Revolving Credit Facility may significantly impair our ability to obtain other debt or equity financing.
+There can be no assurance that any waivers we request will be received on a timely basis, if at all, or that any waivers obtained will extend for a sufficient period of time to avoid an acceleration event, an event of default, or other restrictions on our business. The failure to obtain any necessary waivers could have a material adverse effect on our business, liquidity, and financial condition.
+Our net operating loss carryforwards provide a future benefit only if we are profitable and may be subject to limitation based upon ownership changes.
+We have significant federal net operating loss carryforwards and state net operating loss carryforwards. While our federal and state net operating loss carryforwards are fully reserved for, if we are unable to return to and maintain profitability, we may not be able to fully utilize these tax benefits. [NAME_148], generally a change of more than 50% in the ownership of a company’s stock, by value, over a three-year period constitutes an ownership change for federal income tax purposes. An ownership change may limit a company’s ability to use its net operating loss carryforwards attributable to the period prior to such change. Our ability to use our net operating loss carryforwards attributable to the period prior to such ownership change to offset taxable income will be subject to limitations in a particular year, which could potentially result in increased future tax liability for us.
+Our growth strategy may include strategic acquisitions. We have made strategic acquisitions in the past and may do so in the future, and if the acquired companies do not perform as expected, this could adversely affect our operating results, financial condition and existing business.
+We may continue to expand our business through strategic acquisitions. The success of any acquisition will depend on, among other things:
+•  the availability of suitable candidates;
+•  competition from other companies for the purchase of available candidates;
+•  our ability to value those candidates accurately and negotiate favorable terms for those acquisitions;
+•  the availability of funds to finance acquisitions and obtaining any consents necessary under our credit facility;
+•  the ability to establish new informational, operational and financial systems to meet the needs of our business;
+•  the ability to achieve anticipated synergies, including with respect to complementary products or services; and
+•  the availability of management resources to oversee the integration and operation of the acquired businesses.
+Integration of acquired businesses may be difficult to achieve and will consume significant financial and managerial resources which may adversely affect operations.
+Acquisitions involve risks related to the integration and management of technology, operations and personnel of separate companies. The integration of these businesses will be a complex, time-consuming and expensive process and may disrupt our business if not completed in a timely and efficient manner. We may encounter difficulties, costs and delays involved in integrating the operations, including:
+•  exposure to unknown liabilities of acquired companies or its assets;
+•  higher than anticipated acquisition costs and expenses;
+•  potential conflicts between business cultures;
+•  adverse changes in business focus perceived by third-party constituencies;
+•  disruption of our ongoing business;
+•  potential conflicts in distribution, marketing or other important relationships;
+•  potential constraints of management resources;
+•  inability to implement uniform standards, controls, procedures and policies;
+•  failure to maximize our financial and strategic position by the successful incorporation of acquired technology;
+•  failure to realize the potential of acquired technology, complete product development, or properly obtain or secure appropriate protection of intellectual property rights; and
+•  loss of key employees and/or the diversion of management’s attention from other ongoing business concerns.
+In addition, the geographic distance between the companies and their respective offices and operations increases the risk that the integration will not be completed successfully or in a timely and cost-effective manner. We may not successfully overcome these risks or any other problems encountered in connection with the integration of the companies.
+Our acquisitions could result in future impairment charges and other charges which could adversely affect our results of operations.
+As a result of certain prior acquisitions, and in consideration of future acquisitions, goodwill and other intangible assets have been and will be recorded. At the purchase date, the recorded amounts for goodwill and other intangible assets represent fair values estimated at a point in time and are based on valuations that require significant estimates and assumptions about future events, which are derived from information obtained from the management of the acquired businesses and our business plans for the acquired businesses or intellectual property. If estimates and assumptions used to initially record goodwill and intangible assets do not materialize, ongoing reviews of the carrying amounts of such goodwill and intangible assets may result in impairments which will require us to record a noncash charge in the period in which such an impairment is identified. Such charge could have a severe negative impact on our business, financial condition and results of operations.
+Our business is cyclical and seasonal, and cash flows could be adversely affected.
+Our business exhibits some seasonality, with net sales being affected by the impact of weather and seasonal demand on construction and installation programs, particularly during the winter months. Our revenues in the first half of the year may be affected by the impact of weather on construction and installation programs, as well as the annual budget cycles of major customers. The cyclical and seasonal nature of our business could have a negative impact on our business, financial condition and results of operations.
+If we are not able to compete effectively against companies with greater resources, our prospects for future success will be jeopardized.
+The lighting industry is highly competitive. In the high performance lighting markets in which we sell our LED lighting solutions, our products compete with lighting products utilizing traditional lighting technology provided by larger and better-established lighting operators. Management expects competition to intensify in the future. Many of our competitors have longer operating histories, larger customer bases, greater brand recognition and significantly greater financial, marketing, technical and other resources. Our competitors may acquire or be acquired by, receive investments from or enter into other commercial relationships with, larger, well established and well-financed competitors. [NAME_149], some of our competitors with other revenue sources may be able to devote greater resources to marketing and promotional campaigns, adopt more aggressive pricing policies, and devote substantially more resources to product development. It is difficult to effectively compete with companies that have these resources so we cannot assure that we will ever become a significant company in the industry.
+In the replacement lamp market where we sell our LED products, we expect to encounter competition from a number of companies. Our competitors are expected to include the large, established companies in the general lighting industry, such as [NAME_116] Lighting, [NAME_115] and [NAME_117] Lighting. We believe each of these competitors has undertaken initiatives to develop white light LED technology. These companies have global marketing capabilities and substantially greater resources to devote to research and development and other aspects of the development, manufacture and marketing of LED lighting products than we do. We may also face increased competition from traditional lighting fixture companies, such as [NAME_150] Brands, [NAME_14], [NAME_112] Lighting, [NAME_13], [NAME_114] Lighting and [NAME_117] Lighting. In each of our markets, we also anticipate the possibility that LED manufacturers, including those that currently supply us with [NAME_73], may seek to compete with us by introducing more complete systems that might not infringe on our patents. Our competitors’ lighting technologies and products may be more readily accepted by customers than our products. The relatively low barriers to entry into the lighting industry and the limited proprietary nature of many lighting products also permit new competitors to enter the industry easily.
+If our advanced lighting products do not gain wider market acceptance, prospects for our growth and profitability may be limited.
+We face competition from both traditional lighting technologies, such as incandescent, florescent and neon lighting, and from competitors engaged in providing LED lighting products. Traditional lighting technologies have the advantage of a long history of market acceptance and familiarity as compared to our LED lighting solutions. Potential customers for our LED products may be reluctant to adopt these as alternatives to traditional lighting technologies because of their higher initial cost to achieve comparable light output, although our LED lighting products tend to be more energy efficient and require less maintenance.
+Our success will depend upon both the increased acceptance of our LED products as an alternative to traditional lighting technologies and the development of higher lumen producing products to meet traditional lighting applications. [NAME_151] to adoption of LED lighting in the general lighting market include the high initial cost of high brightness white [NAME_73] and the need for further advances in brightness, color characteristics, efficiency and the predicted life of the [NAME_73] before they require replacement. Our future results are dependent upon sales growth in the military, municipal, commercial, industrial, warehouse, education, hospitality, retail, healthcare, multi-family and signage-media-accent markets. As part of our sales and marketing strategy, we actively seek to educate our target markets as to the advantages of our LED lighting solutions. We believe that achievement of this objective is critical to our future success. Our lighting
+If acceptance of our lighting products in general does not continue to grow, then opportunities to increase our revenue and operate profitably may be limited.
+The reduction or elimination of investments in, or incentives to adopt, LED lighting or the elimination of, or changes in, policies, incentives or rebates in certain states or countries that encourage the use of [NAME_73] over some traditional lighting technologies could cause the growth in demand for our products to slow, which could materially and adversely affect our revenues, profits and margins.
+[NAME_152] in (including as a result of any budgetary constraints), or the elimination of, government investment and favorable energy policies designed to accelerate the adoption of LED lighting could result in decreased demand for our products and decrease our revenues, profits and margins. Further, if our products fail to qualify for any financial incentives or rebates provided by governmental agencies or utilities for which our competitors’ products qualify, such programs may diminish or eliminate our ability to compete by offering products at lower prices than our competitors.
+We believe that certification and compliance issues are critical to adoption of our lighting systems, and failure to obtain such certification or compliance would harm our business.
+We are required to comply with certain legal requirements governing the materials in our products. Although we are not aware of any efforts to amend any existing legal requirements or implement new legal requirements in a manner with which we cannot comply, our revenue might be materially harmed if such an amendment or implementation were to occur.
+We cannot ensure that we will be able to obtain any required certifications for our new products or that, if certification standards are amended, we will be able to maintain any such certifications for our existing products, especially since existing codes and standards were not created with our lighting products in mind. [NAME_61], although we are not aware of any effort to amend any existing certification standard or implement a new certification standard in a manner that would render us unable to maintain certification for our existing products or obtain certification for new products, our revenue might be materially harmed if such an amendment or implementation were to occur.
+Customers may be unable to obtain financing to make purchases from us.
+Some of our customers require financing in order to purchase our products. The potential inability of these customers to access the capital needed to finance purchases of our products and meet their payment obligations to us could adversely impact our financial condition and results of operations. If our customers become insolvent due to market and economic conditions or otherwise, it could have a material adverse impact on our business, financial condition and results of operations.
+[NAME_153] or unexpected changes in a customer’s creditworthiness could result in accounts receivable write-offs.
+Historically, we have taken a conservative approach when extending credit to our customers. Customers are granted an appropriate credit limit based upon the due diligence performed on the customer. At any given time, we can have credit exposure with some of our customers.
+We rely on third-party manufacturers for the manufacture and development of certain of our products and product components.
+We depend on third-party suppliers for substantially all of our components and products. We currently depend on a small number of contract manufacturers to manufacture our products at plants in the [NAME_76]. and [COUNTRY_2]; however, we believe that alternative sources of supply are readily available for most products and components. Our reliance on contract manufacturers involves certain additional risks, including lack of direct control over production capacity, delivery schedules, quality assurance, manufacturing yields and production costs. Our business prospects, results of operations, financial condition or cash flows could be materially adversely affected if we were to experience problems with changes in government export/import regulations, quality, quantity, credit or liquidity issues, or disruptions or delays in the manufacturing process or delivery of products and components or raw materials used to make such products or components.
+We depend on distributors and independent sales representatives for a portion of our revenue and sales, and the failure to successfully manage our relationships with these third-parties, or the termination of these relationships, could cause our revenue to decline and harm our business.
+We intend to continue to seek strategic relationships to distribute, license and sell certain products. We intend to maximize organic growth within our market. [NAME_93] portion of our revenue comes from sales to distributors including systems integrators, distributors and resellers. We may not be able to negotiate acceptable relationships in the future and cannot predict whether current or future relationships will be successful.
+Some of these relationships have not been formalized in a detailed contract, and may be subject to termination at any time. The agreements that are formalized in a contract are generally short-term, not exclusive, and can be cancelled by these sales channels without significant financial consequence. In addition, these parties provide technical sales support to end-users. We cannot control how these sales channels perform and cannot be certain that end-users will be satisfied by their performance. If these distributors and agents significantly change their terms with us, or change their historical pattern of ordering products from us, there could be a significant impact on our revenue and profits.
+Claims by others that our products infringe their patents or other intellectual property rights could prevent us from manufacturing and selling some of our products or require us to pay royalties or incur substantial costs from litigation or development of non-infringing technology.
+In recent years, there has been significant litigation in the United States involving patents and other intellectual property rights. We may receive notices that claim we have infringed upon the intellectual property of others. Even if these claims are not valid, they could subject us to significant costs. Any such claims, with or without merit, could be time-consuming to defend, result in costly litigation, divert our attention and resources, cause product shipment delays or require us to enter into royalty or licensing agreements. Such royalty or licensing agreements, if required, may not be available on terms acceptable to us or at all. We have engaged in litigation and litigation may be necessary in the future to enforce our intellectual property rights or to determine the validity and scope of the proprietary rights of others. Litigation may also be necessary to defend against claims of infringement or invalidity by others. [NAME_93] successful claim of intellectual property infringement against us and our failure or inability to license the infringed technology or develop or license technology with comparable functionality could have a material adverse effect on our business, financial condition and operating results.
+If we are unable to adequately protect our intellectual property, we may lose some of our competitive advantage.
+Protection of our proprietary intellectual property is important to our business. Our ability to compete and the ability of our business to grow could suffer if our intellectual property rights are not adequately protected. Although we expect that several of our patent applications will issue, we cannot be certain that patents will be granted with respect to any of our pending patent applications or with respect to any patent applications filed by us in the future, nor can we be sure that any patents that may be granted to us in the future will be commercially useful in protecting our technology. In addition, despite our efforts to protect our intellectual property, unauthorized parties may attempt to copy aspects of our products or obtain and use information that we regard as proprietary.
+Our products could contain defects or they may be installed or operated incorrectly, which could reduce sales of those products or result in claims against us.
+Despite testing by us, errors have been found and may be found in the future in our existing or future products. These defects could cause us to incur significant warranty, support and repair costs, divert the attention of our engineering personnel from our product development efforts and harm our relationships with our customers. The occurrence of these problems could result in the delay or loss of market acceptance of our lighting products and would likely harm our business. Defects, integration issues or other performance problems in our lighting products could result in personal injury or financial or other damages to end-users or could damage market acceptance of our products. Our customers and end-users could also seek damages from us for their losses. [NAME_93] product liability claim brought against us, even if unsuccessful, would likely be time consuming and costly to defend.
+If we are unable to attract or retain qualified personnel, our business and product development efforts could be harmed.
+To a significant extent, our success will depend on our senior management team, including the Chairman, Chief Executive Officer and President [PERSON_3], and other members of the executive team. The loss of any of these individuals could severely harm the business. Our success also depends on our continued ability to identify, attract, hire, train, retain and motivate highly skilled technical, managerial, manufacturing, administrative and sales and marketing personnel. Competition for these individuals is intense, and we may not be able to successfully recruit, assimilate or retain sufficiently qualified personnel. In particular, we may encounter difficulties in recruiting and retaining a sufficient number of qualified technical personnel, which could harm our ability to develop new products and adversely impact our relationships with existing and future customers. The inability to attract and retain necessary technical, managerial, manufacturing, administrative and sales and marketing personnel could harm our ability to obtain new customers and develop new products and could adversely affect our business and operating results.
+If we fail to maintain an effective system of internal controls, we may be unable to report our financial results accurately or prevent fraud.
+Effective internal controls are necessary for us to provide reliable financial reports and prevent fraud. As a public company, we are subject to the reporting requirements of Section 404 of the Sarbanes-Oxley Act of Y-15, which requires us and our independent registered public accounting firm to annually evaluate and report on our internal control over financial reporting. Our efforts to maintain an effective system of internal controls may not be successful, and we may not be able to maintain adequate controls over our financial processes and reporting in the future. Even if we conclude, and our independent registered public accounting firm concurs, that our internal control over financial reporting provides reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles, because of its inherent limitations, internal control over financial reporting may not prevent or detect fraud or misstatements in the future. Failure to maintain proper and effective internal controls could harm our results of operations or cause us to fail to meet our reporting obligations. If we or our independent registered public accounting firm discovers a material weakness in our internal controls in the future, the disclosure of that fact, even if quickly remedied, could reduce the market’s confidence in our financial statements.
+Our results of operations and financial condition could be seriously impacted by security breaches, including cybersecurity incidents.
+Failure to effectively prevent, detect and recover from security breaches, including attacks on information technology and infrastructure by hackers; viruses; breaches due to employee error or actions; or other disruptions could result in misuse of our assets, business disruptions, loss of property including trade secrets and confidential business information, legal claims or proceedings, reporting errors, processing inefficiencies, negative media attention, loss of sales and interference with regulatory compliance. We have determined that such attacks could result in unauthorized parties gaining access to at least certain confidential business information. However, to date, we have not experienced any material financial impact, changes in the competitive environment or business operations that we attribute to these attacks. Although management does not believe that we have experienced any material losses to date related to security breaches, including cybersecurity incidents, there can be no assurance that we will not suffer such losses in the future. We actively manage the risks within our control that could lead to business disruptions and security breaches. As these threats continue to evolve, particularly around cybersecurity, we may be required to expend significant resources to enhance our control environment, processes, practices and other protective measures. Despite these efforts, such events could materially adversely affect our business, financial condition or results of operations.
+
+Item 1B.  [NAME_154].
+
+Item 3.  Legal Proceedings
+In the ordinary course of business, we may become a party to various legal proceedings generally involving contractual matters, infringement actions, product liability claims and other matters. We are not currently a party to any pending legal proceedings which we believe to be material.
+
+Item 7.  Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion should be read in conjunction with [COMPANY] consolidated financial statements and the related notes included elsewhere in this Annual Report on Form 10-K. This discussion contains forward looking statements. Actual results could differ materially from the results discussed in the forward-looking statements. [NAME_190] see “Risk Factors” and “[NAME_191] Note Regarding Forward-Looking Statements” for a discussion of some of the uncertainties, risks and assumptions associated with these statements.
+This Management’s Discussion and Analysis of Financial Condition and Results of Operations contains certain financial measures, which are not presented in accordance with accounting principles generally accepted in the United States (“[NAME_76]. GAAP”). We are presenting these non-[NAME_76]. GAAP financial measures because we believe they provide us, and readers of this Form 10-K, with additional insight into our operational performance relative to earlier periods and relative to our competitors. We do not intend for these non-[NAME_76] GAAP financial measures to be a substitute for any [NAME_76]. GAAP financial information. [NAME_192] of these statements should use these non-[NAME_76]. GAAP financial measures only in conjunction with the comparable [NAME_76]. GAAP financial measures.
+Executive [NAME_193]
+Through advanced LED technologies, we have created an innovative lighting company that offers a comprehensive advanced product platform of high-quality interior and exterior LED lamps and fixtures, including signage and control systems. We are uniquely positioned to act as an expert partner, offering full-service lighting solutions through our operating divisions, including [NAME_9], [NAME_6], [NAME_62] LED, [NAME_26], [NAME_7] and [NAME_10], to transform lighting into a source of superior energy savings, quality light and well-being.
+We generate revenue by selling lighting products for use in the commercial, industrial and government markets, which include vertical markets such as military, municipal, commercial office, industrial, warehouse, education, hospitality, retail, healthcare, multi-family and signage-media-accent markets. We market and distribute our products globally through networks of distributors, independent sales agencies and representatives, electrical supply companies, as well as internal marketing and sales forces.
+Our operations consist of one reportable segment for financial reporting purposes: Lighting Products and Solutions (principally LED fixtures and lamps).
+During the fourth quarter of Y0, we experienced poor performance of our common stock, which led management to believe that a triggering event occurred. As such, an updated goodwill impairment test was performed. The result of the impairment test indicated that the carrying value of goodwill was above the implied fair value. In accordance with Accounting Standards Codification (“ASC”) 350-20, Intangibles – Goodwill and Other (“ASC 350-20”), goodwill with a carrying amount of $68.0 million was reduced to its implied fair value of $57.9 million, resulting in an impairment charge of $10.1 million for the year ended December Y0 in the Consolidated Statements of Operations. See Note 6 of Notes to Consolidated Financial Statements.
+As a result of changes we made to our business, which included the consolidation and restructuring of our businesses and operations, we evaluated the recoverability of the carrying value of long-lived assets. The result of such evaluation indicated that gross intangible assets of $17.8 million and related accumulated amortization of $7.9 million were impaired, and we recognized an impairment of $9.9 million for the year ended December Y0 in the Consolidated Statements of Operations. See Note 7 of Notes to Consolidated Financial Statements.
+In the fourth quarter of Y0, we announced a restructuring plan to further streamline our operations, eliminate redundancies at certain divisions and address certain operational functions. As part of the restructuring, we (i) consolidated the operations of three divisions into one, (ii) consolidated sales, purchasing, bidding and proposal and accounting functions, (iii) expanded and refocused our marketing resources, including changes to key management positions at certain divisions, and (iv) exited certain product lines and related operations, including the eliminations of a number of warehouse locations. In connection with this restructuring, we abandoned certain assets, including inventory and other, totaling $14.1 million (net of expected recoveries), of which $8.7 million was recorded as part of “Cost of sales” in the Consolidated Statements of Operations. In addition, we recorded $1.8 million of accrued restructuring costs related to severance, outplacement and other employee costs, lease terminations and other relocation costs.
+Restructuring charges have been recorded in accordance with ASC 420-10, Exit or Disposal Cost Obligations (“ASC 420-10”). We account for one-time termination benefits, contract terminations and/or costs to terminate lease obligations less assumed sublease income in accordance with ASC 420-10, which addresses financial accounting and reporting for costs associated with restructuring activities. Under ASC 420-10, we established a liability for costs associated with an exit or disposal activity, including severance and lease termination obligations, and other related costs. We will reassess the expected cost to complete the exit or disposal activities at the end of each reporting period and adjust our remaining estimated liabilities, if necessary. It is expected that the actions taken for this restructuring will be substantially completed by the end of the second quarter of Y+1.
+Recent Developments
+Amended Revolving Credit Facility — On January Y0, we amended the Revolving Credit Facility which enabled us to borrow up to $47.1 million on a revolving basis, based upon specified percentages of eligible receivables and inventory, which matures on January Y+3 (the “amended Revolving Credit Facility”). See Note 9 of Notes to Consolidated Financial Statements.
+[NAME_194] American Act Facility – In March Y0, we opened a new 60,000 square foot state of the art facility in [NAME_126], [NAME_127], which expanded our warehouse and production space for our industry leading LED technologies, including our high performance [NAME_105] American Act (“[NAME_106]”) and Trade Agreements Act (“[NAME_195]”) compliant LED tubes and fixtures. The new facility offers significantly larger space for inventory, production and testing, and will be key in winning military, government, municipal and commercial projects.
+Certification by the [NAME_196] – In April Y0, the [NAME_196] certified our two foot [NAME_197] LED tube for the military standard, which is ready for use in the [NAME_196] fleet. [NAME_198], we received an official part number that can be used throughout the fleet to order our advanced high efficiency LED tube. [NAME_196] ships are now able to purchase our certified LED tube through the standard [NAME_196] supply chain. During the fourth quarter Y0, we received our first order for which delivery began in the fourth quarter and will be completed in the first quarter Y+1.
+Department of [NAME_199] Contract – In August Y0, we were awarded a Department of [NAME_199] contract through the [NAME_200] Agency to supply LED tubes to the [NAME_196]. We were selected because our LED lighting products incorporate [NAME_106] and [NAME_195] compliant components, ensuring they meet the strict requirements needed for implementation into [NAME_196] vessels. These tubes will be manufactured in our new state-of-the-art [NAME_126] production and warehouse facility.
+[NAME_76]. National [NAME_201] – In September Y0, we received our first award from the [NAME_76]. National [NAME_201], demonstrating that our [NAME_202] certified [NAME_106] and [NAME_195] compliant products could have a large market beyond the [NAME_196], including other [NAME_76]. and international governmental entities.
+Lighting as a Service Program – During the fourth quarter of Y0, we initiated our “Lighting as a Service” (“[NAME_203]”) program in two northeastern states. If fully implemented, this program will provide significant revenue opportunities in Y+1 and beyond.
+Lighting mobile management interface ([NAME_205]) – In Y0, we completed the development of our real-time, cloud based software system, which integrated, end-to-end, all operational aspects unique to our lighting products and service businesses. [NAME_205] is currently being implemented throughout our business units and we expect to begin marketing a variation of this groundbreaking system to energy service and other companies to significantly improve their operational processes and monitor projects and opportunities.
+Results of Operations
+Year Ended December Y0 Compared to the Year Ended December Y-1
+Year Ended December
+Y0  Y-1
+(In Millions)
+Revenue  $143.5  $162.1
+Cost of sales  95.5  109.4
+Restructuring costs  8.7  —
+Total cost of sales  104.2  109.4
+Gross profit  39.3  52.7
+Operating expenses:
+Selling, general and administrative  41.4  37.1
+Research and development  3.5  2.3
+Amortization and depreciation  5.7  5.7
+Acquisition, severance and transition costs  5.7  3.7
+Stock-based compensation  2.8  2.0
+Impairment of goodwill  10.1  —
+Impairment of intangible assets  9.9  —
+Restructuring costs  7.3  —
+Total operating expenses  86.5  50.8
+Operating income (loss)  (47.2)  1.9
+Interest expense and other charges  (3.6)  (2.4)
+Net loss  $(50.8)  $(0.5)
+Revenue for Y0 decreased $18.6 million, or 12%, as compared to Y-1. The decrease in revenue primarily reflects the impact of hurricane activity in [NAME_206] and the southeastern United States during the third quarter, which impacted multi-family lighting revenue. [NAME_198], we experienced a delay in a number of [NAME_9] division projects from the third and fourth quarters of Y0 to Y+1. Despite overall lower unit sale prices, gross profit margin, excluding restructuring charges, increased to 33% for Y0 compared to 32% for Y-1 reflecting a significantly expanded our product portfolio, including flat panels, wall packs, high bays and other products to capitalize on the changing product mix taking place in the LED space.
+Selling, general and administrative expenses increased $4.3 million, or 12%, which includes our ongoing investment in the expansion of sales and marketing resources focusing on agents, [NAME_63], dealers and distributors and our investment in resources to advance our [NAME_76]. government and [NAME_76]. military specific product lines.
+Research and development costs increased $1.2 million due to investments in our expanding portfolio of lighting products and controls, including our [NAME_76]. government and [NAME_76]. military specific product lines.
+Acquisition, severance and transition costs primarily consisted of costs associated with the continued streamlining of our operations and the elimination of redundancies at certain of our divisions, partially offset by changes in our assumptions utilized in the calculation of purchase price obligations related to our acquired businesses.
+During the fourth quarter of Y0, we experienced poor performance of our common stock, which led management to believe that a triggering event had occurred. As a result, an updated goodwill impairment test was performed. The result of the impairment test indicated that the carrying value of goodwill was above the implied fair value. In accordance with ASC 350-20, goodwill with a carrying amount of $68.0 million was reduced to its implied fair value of $57.9 million, resulting in an impairment charge of $10.1 million for the year ended December Y0 in the Consolidated Statements of Operations (see Note 6).
+In order to improve the effectiveness of our business operations, we effectuated certain changes. In light of such changes, we evaluated the recoverability of the carrying value of long-lived assets. The result of such evaluation indicated that the carrying value of intangible assets were impaired, and we recognized a charge of $9.9 million for the year ended December Y0 in the Consolidated Statements of Operations (see Note 7).
+In the fourth quarter of Y0, we announced a restructuring plan to further streamlining our operations, eliminate redundancies at certain divisions and address certain operational functions. As part of the restructuring, we (i) consolidated the operations of three divisions into one, (ii) consolidated sales, purchasing, bidding and proposal and accounting functions, (iii) expanded and refocused our marketing resources, including changes to key management positions at certain divisions, and (iv) exited certain product lines and related operations, including the eliminations of a number of warehouse locations. In connection with this restructuring, we abandoned certain assets, including inventory and other, totaling $14.1 million (net of expected recoveries), of which $8.7 million was recorded as part of “Cost of sales” in the Consolidated Statements of Operations. In addition, we recorded $1.8 million of accrued restructuring costs related to severance, outplacement and other employee costs, lease terminations and other relocation costs (see Note 20).
+Interest and other expenses for Y0 increased $1.2 million, primarily as a result of higher balances outstanding under our Bank of America Revolving Credit Facility (see Note 9) and the amended note payable with [NAME_2], LLC (“[NAME_146]”) (see Note 17), partially offset by the payoff of the $9.4 million [NAME_9] note on January Y0 (see Note 9).
+Year Ended December Y-1 Compared to the Year Ended December Y-2
+Year Ended December
+Y-1  Y-2
+(In Millions)
+Revenue  $162.1  $122.2
+Cost of sales  109.4  81.4
+Gross profit  52.7  40.8
+Operating expenses:
+Selling, general and administrative  37.1  30.3
+Research and development  2.3  2.3
+Amortization and depreciation  5.7  4.6
+Acquisition, severance and transition costs  3.7  1.9
+Stock-based compensation  2.0  2.5
+Total operating expenses  50.8  41.6
+Operating income (loss)  1.9  (0.8)
+Interest expense and other charges  (2.4)  (1.4)
+Net loss  $(0.5)  $(2.3)
+Revenue for Y-1 increased $39.9 million, or 33%, as compared to Y-2. The increase reflects strong volume growth in product sales, as LED market lighting demands continue to rise, as well as the acquisitions of [NAME_70] and [NAME_9], which were acquired in May Y-1 and August Y-2, respectively. These increases were partially offset by lower prices in certain retrofit and related-LED products. Despite overall lower unit sale prices, we maintained our gross profit margin of 32% for Y-1 compared to 33% for Y-2.
+Operating expenses increased $9.1 million, or 22%, during Y-1 as compared to the corresponding period in Y-2. As a percentage of revenue, operating expenses decreased to 31% in Y-1 compared to 34% in Y-2 as increased revenue enabled us to realize economies of scale. The increase in operating expenses was due to the following:
+•  Selling, general and administrative expenses increased by $6.8 million, which primarily reflects costs attributable to the acquisition of [NAME_70] during Y-1 and the full-year effect of the Y-2 acquisition of [NAME_9], increased sales related expenses and other.
+•  The $1.1 million increase in amortization and depreciation was primarily due to the acquisition of [NAME_70] during the second quarter of Y-1, as well as the channel distribution agreements entered into during Y-1.
+•  Acquisition, severance and transition costs during Y-1 included costs associated with the [NAME_70] acquisition, costs related to the streamlining of our operations and costs associated with eliminating redundancies at our divisions, partially offset by adjustments due to a change in assumptions utilized in the calculation of purchase price obligations related to our acquired businesses. Acquisition, severance and transition costs during Y-2 were primarily related to costs incurred related to the acquisition of [NAME_9].
+Interest and other expenses for Y-1 increased $0.9 million over the year-ago period, primarily as a result of higher balances outstanding under our Bank of America Revolving Credit Facility, as well as the [NAME_9] and [NAME_70] promissory notes.
+Liquidity and Capital Resources
+On January Y0, we entered into an amended Revolving Credit Facility, which enables us to borrow up to $47.1 million on a revolving basis, based upon specified percentages of eligible receivables and inventory.
+Our liquidity as of December Y0 and Y-1 was $7.0 million and $1.8 million, respectively, which consisted of cash and cash equivalents of $0.8 million and $0.8 million, respectively, and additional borrowing capacity under the Revolving Credit Facility of $6.1 million and $0.9 million, respectively.
+As of December Y0, we were in compliance with our covenants under the Bank of America Revolving Credit Facility.
+At December Y0 and Y-1, we had working capital of $32.3 million and $48.3 million, respectively. We believe we have adequate resources to meet our cash requirements for the foreseeable future.
+Although we realized revenues of $143.5 million during Y0, we may face challenges regarding profitability. There can be no assurance that we will achieve positive cash flows from operations or profitability in future periods. Our ability to meet our obligations in the ordinary course of business is dependent upon our ability to establish profitable operations, maintain our revolving credit facility, or raise additional capital through public or private debt or equity financing, or other sources of financing to fund operations, as well as support of our principal stockholder. There can be no assurance such financing will be available on terms acceptable to us or that any financing transaction will not be dilutive to our current stockholders. In addition, our significant shareholder, [NAME_65], and its affiliates have historically been a significant source of financing, and they continue to support our operations.
+Cash Flows
+Year Ended December
+Y0  Y-1  Y-2
+(In Millions)
+Cash used in operating activities  $(6.6)  $(5.8)  $(15.6)
+Cash used in investing activities  (1.8)  (12.2)  (10.4)
+Cash provided by financing activities  8.4  18.6  20.5
+Net increase (decrease) in cash and cash equivalents  $  —  $0.7  $(5.5)
+Cash Flows used in Operating Activities - Operating cash flows during Y0 primarily reflect increases in inventory, vendor deposits, and prepaid assets and a decrease in accounts payable to support or expand operations, partially offset by decreases in accounts receivable and unbilled receivables. Operating cash flows during Y-1 primarily reflect increased trade and other receivables and increased inventory due to increased revenue of 33% year-over-year. Operating cash flows during Y-2 reflect our higher working capital investment, particularly in accounts receivable and inventory, to support our greatly expanded operations.
+Cash Flows used in Investing Activities — The use of cash during Y0 was primarily attributable to purchases of property and equipment of $1.5 million and the payment of acquisition obligations of $0.3 million. The use of cash during Y-1 and Y-2 was primarily attributable to cash paid in connection with acquisitions of $10.7 million and $9.9 million, respectively. [NAME_198], during Y-1, we paid $0.9 million related to acquisition obligations.
+Cash Flows provided by Financing Activities — Net cash provided during Y0 was primarily attributable to $11.9 million of net proceeds from the Revolving Credit Facility and $10.1 million of net proceeds from related party notes payable, partially offset by repayments on notes payable of $13.6 million, including the $9.4 million [NAME_9] acquisition notes and the $1.9 million [NAME_70] acquisition notes. Net cash provided during Y-1 was primarily attributable to $15.3 million of net cash received from the issuance of common stock and $3.8 million of net proceeds from the Bank of America Revolving Credit Facility, partially offset by repayments on notes payable of $0.4 million. Net cash provided during Y-2 was primarily attributable to increased borrowings on the Bank of America Revolving Credit Facility of $12.5 million and net proceeds from the issuance of common stock of $8.5 million, partially offset by repayments of borrowings and notes of $0.4 million.
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America (“[NAME_76]. GAAP”) requires management to make certain estimates and assumptions regarding matters that are inherently uncertain and that ultimately affect the reported amounts of assets, liabilities, revenues and expense, and the disclosure of contingent assets and liabilities. The estimates and assumptions are based on management’s experience and understanding of current facts and circumstances. These estimates may differ from actual results. Certain of our accounting policies are considered critical as they are both important to reflect our financial position and results of operations and require significant or complex judgement on the part of management. The following is a summary of certain accounting policies considered critical by management.
+Business Combinations
+Business combinations are accounted for using the acquisition method under ASC 805, Business Combinations, which requires recording assets acquired and liabilities assumed at fair value as of the acquisition date. Under the acquisition method of accounting, each tangible and separately identifiable asset acquired and liability assumed is recorded based on their estimated fair values on the acquisition date. Acquisition related costs are expensed as incurred and are reported separately in the Consolidated Statements of Operations.
+Revenue recognition
+We recognize revenue from our product sales upon shipment or delivery to customers in accordance with the respective contractual arrangements, provided no significant obligations remain and collection is probable. For sales that include customer acceptance terms, revenue is recorded after customer acceptance. It is our policy that all sales are final. [NAME_207] for returns are reviewed on a case by case basis. As revenue is recorded, we accrue an estimated amount for product returns as a reduction of revenue.
+We recognize revenue from fixed-price and modified fixed-price contracts for turnkey energy conservation projects using the percentage-of-completion method of accounting. The percentage-of-completion is computed by dividing the actual incurred cost to date by the most recent estimated total cost to complete the project. The computed percentage is applied to the expected revenue for the project to calculate the contract revenue to be recognized in the current period. This method is used because management considers total cost to be the best available measure of progress on these contracts. Contract costs include all direct material and labor costs and indirect costs related to contract performance. Provisions for estimated losses on uncompleted contracts are made in the period in which such losses are determined.
+See “Recent accounting pronouncements” in Note 2 of Notes to Consolidated Financial Statements for a discussion of revenue recognition in future periods.
+Accounts Receivable
+Our strategy for managing doubtful accounts includes establishing credit limits, performing periodic credit evaluations of our customers’ financial condition and collection procedures for all customer accounts. We use a credit risk rating system in order to measure the quality of individual credit transactions. We strive to identify potential problem receivables early, take appropriate collection actions, and maintain adequate reserve levels. As revenue is recorded, we accrue an estimated amount for product returns as a reduction of revenue. Our estimate for product returns is based on our historical return experience and our expectation of future returns.
+Inventory Provisions
+Inventories are stated at the lower of cost (first-in, first-out) or market, net of allowances for obsolete inventory. [NAME_208], we review our inventory for both excessive and obsolete inventory (inventory that is no longer marketable for its intended use). In either case, we record any write-downs based on assumptions about alternative uses, market conditions and other factors.
+Goodwill
+We record goodwill as the excess of purchase price over the fair value of the identifiable net assets acquired. Goodwill is not amortized, but is subject to annual impairment testing unless circumstances dictate more frequent assessments. We perform an annual impairment assessment for goodwill during the fourth quarter of each year or more frequently if changes in circumstances indicate that the fair value of the asset may be less than the carrying amount. Goodwill impairment testing requires determining the fair value of a reporting unit, which is judgmental in nature and requires the use of significant estimates and assumptions, including revenue growth rates, strategic plans and future market conditions, among others. There can be no assurance that our estimates and assumptions made for purposes of the goodwill impairment testing will prove to be accurate predictions of the future. Changes in assumptions and estimates could cause us to perform an impairment test prior to the annual impairment test scheduled in the fourth quarter.
+Long-Lived Assets
+Key estimates related to long-lived assets, including property and equipment and intangible assets, include useful lives and the recoverability of carrying values. As a result of future decisions, such estimates could be significantly modified. The estimated useful lives of property and equipment range from three to seven years, and depreciation is recognized on a straight-line basis. Useful lives are estimated based upon our historical experience and industry information. Intangible assets with finite useful lives are amortized on the straight-line basis over their estimated useful lives.
+We evaluate the recoverability of the carrying value of long-lived assets whenever events or changes in circumstances indicate that the carrying value may not be recoverable. Under such circumstances, we assess whether the projected undiscounted cash flows of our long-lived assets are sufficient to recover the carrying amount of the asset group being assessed. If the undiscounted projected cash flows are less than the carrying value of the assets, we calculate the impairment amount by comparing the carrying value of the asset group to its fair value. The amount of the impairment of long-lived assets is written off against earnings in the period in which the impairment is determined.
+Income Taxes
+Deferred tax assets and liabilities are determined based on temporary differences between the financial reporting and tax bases of assets and liabilities using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. [NAME_93] valuation allowance is provided against a deferred tax asset when it is more likely than not that all or some portion of the deferred tax assets will not be recognized. We evaluate the adequacy of the valuation allowance annually and, if its assessment of whether it is more likely than not that the related tax benefits will be realized changes, the valuation allowance will be increased or reduced with a corresponding benefit or charge included in income.
+We have [NAME_76]. Federal net operating loss carryforwards, which may be used to reduce future taxable income. [NAME_209] of net operating loss carryforwards is dependent on generating future taxable income of the appropriate type and in the appropriate jurisdiction. In addition, as a result of transactions consummated during Y-4 and Y-5, including the issuance of common and preferred stock and the acquisitions of [NAME_23] and [NAME_68], substantially all of our net operating loss carryforwards are subject to limitations imposed by Section 382 of the Internal Revenue Code. The determination of such limitations is complex and requires a significant amount of analysis and review of past transactions, including those related transactions involving acquired companies and their predecessors. During Y-4, we performed an evaluation of the Section 382 limitations on the use of net operating loss carryforwards, and adjusted them accordingly.
+[NAME_210] tax positions are recognized if we determine that it is more likely than not that a tax position will be sustained based on the technical merits of the position, on the presumption that the position will be examined by the appropriate taxing authority that would have full knowledge of all relevant information.
+As further discussed in Note 13 of Notes to Consolidated Financial Statements, on December Y0, the United States enacted the Tax Cuts and Jobs Act (“[NAME_211]”), which institutes significant changes to [NAME_76]. tax laws. In accordance with the SEC’s [NAME_212] Accounting [NAME_213] No. 118 (“SAB 118”), we have recorded provisional estimates to reflect the effect of the provisions of the [NAME_211] on our income tax assets and liabilities as of December Y0. We continue to collect additional information to support and refine our calculations on the impact of these changes on our operations and recorded income tax assets and liabilities. The ultimate impact of the [NAME_211] may differ from our provisional estimates due to the changes in the interpretations and assumptions we made, as well as additional regulatory guidance.
+Contractual Obligations
+The following table sets forth information relating to our contractual obligations as of December Y0:
+Contractual [NAME_214] Due by Year (3)(4)
+Total  Less than1 year  1-3years  3-5years  More than5 years
+(Millions of [NAME_76]. dollars)
+Operating lease obligations  $12.7  $3.5  $5.7  $2.7  $0.8
+Purchase price obligations and other (1)  0.1  0.1  —  —  —
+Total debt, including interest  51.6  2.7  48.9  —  —
+Total  $64.4  $6.3  $54.6  $2.7  $0.8
+(1)  Includes $0.1 million that will be settled in share of common stock.
+RECENT ACCOUNTING PRONOUNCEMENTS
+See Note 2 to the Notes to the Consolidated Financial Statements included in this Annual Report on Form 10-K for information related to new accounting pronouncements.
+[NAME_215] ARRANGEMENTS
+We do not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that are material to our investors.
+
+Item 7A.  [NAME_51] and [NAME_52] Disclosures About Market Risk
+At December Y0, we were exposed to interest rate risk in connection with our variable-rate Bank of America Revolving Credit Facility pursuant to which we may borrow up to $47.1 million on a revolving basis. See Note 9 of the Notes to Consolidated Financial Statements.
+
+Item 8.  Financial Statements and [NAME_53] Data
+[NAME_216].
+[COMPANY] Audited Financial Statements
+Report of Independent Registered Public Accounting Firm on Internal Control Over Financial Reporting  27
+Report of Independent Registered Public Accounting Firm  28
+Consolidated Balance Sheets at December Y0 and Y-1  29
+Consolidated Statements of Operations for the Years Ended December Y0, Y-1 and Y-2  30
+Consolidated Statements of Stockholders’ Equity for the Years Ended December Y0, Y-1 and Y-2  31
+Consolidated Statements of Cash Flows for the Years Ended December Y0, Y-1 and Y-2  32
+Notes to Consolidated Financial Statements  33
+Report of Independent Registered Public Accounting Firm
+To the Stockholders and the Board of Directors of [COMPANY]
+Opinion on the Internal Control Over Financial Reporting
+We have audited [COMPANY] and subsidiaries’ (the Company) internal control over financial reporting as of December Y0, based on criteria established in Internal Control — [NAME_217] issued by the Committee of [NAME_218] of the [NAME_219] Commission in Y-4. In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December Y0, based on criteria established in Internal Control — [NAME_217] issued by the Committee of [NAME_218] of the [NAME_219] Commission in Y-4.
+We have also audited, in accordance with the standards of the Public Company Accounting [NAME_220] Board (United States) (PCAOB), the consolidated balance sheets as of December Y0 and Y-1, and the related consolidated statements of operations, stockholders’ equity and cash flows for each of the three years in the period ended December Y0 of the Company and our report dated March Y+1 expressed an unqualified opinion.
+Basis for Opinion
+The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting in the accompanying Management’s Annual Report on Internal Control over Financial Reporting appearing under Item 9A. Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit.
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audit also included performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion.
+[NAME_221] and Limitations of Internal Control Over Financial Reporting
+[NAME_93] company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. [NAME_93] company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of the company’s assets that could have a material effect on the financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+/s/ [AUDITOR]
+[ADDRESS], [NAME_222]
+March Y+1
+Report of Independent Registered Public Accounting Firm
+To the Stockholders and the Board of Directors of [COMPANY]
+Opinion on the Financial Statements
+We have audited the accompanying consolidated balance sheets of [COMPANY] and its subsidiaries (the Company) as of December Y0 and Y-1, the related consolidated statements of operations, stockholders’ equity and cash flows for each of the three years in the period ended December Y0, and the related notes to the consolidated financial statements (collectively, the financial statements). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of December Y0 and Y-1, and the results of its operations and its cash flows for each of the three years in the period ended December Y0, in conformity with accounting principles generally accepted in the United States of America.
+We have also audited, in accordance with the standards of the Public Company Accounting [NAME_220] Board (United States) (PCAOB), the Company’s internal control over financial reporting as of December Y0, based on criteria established in Internal Control — [NAME_217] issued by the Committee of [NAME_218] of the [NAME_219] Commission in Y-4, and our report dated March Y+1 expressed an unqualified opinion on the effectiveness of the Company’s internal control over financial reporting.
+Basis for Opinion
+These financial statements are the responsibility of the Company’s management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+/s/ [AUDITOR]
+We have served as the Company’s auditor since Y-7.
+[ADDRESS], [NAME_222]
+March Y+1
+[COMPANY]
+Consolidated Balance Sheets
+(In thousands, except per share data)
+December
+Y0  Y-1
+ASSETS
+Current Assets
+Cash and cash equivalents  $890  $832
+Trade receivable, net of allowance for doubtful accounts  32,940  50,248
+Unbilled contracts receivable  5,730  9,576
+Inventories, net  24,644  25,128
+Vendor deposits, prepaid expenses and other  8,957  7,877
+Total current assets  73,161  93,661
+Property and equipment, net  1,510  1,388
+Goodwill  57,934  67,887
+Intangible assets, net  26,724  41,264
+Other assets, net  1,014  663
+Total assets  $160,343  $204,862
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current Liabilities
+Accounts payable  $27,158  $30,526
+Accrued and other liabilities  10,898  9,929
+Notes payable  1,692  2,223
+Related party notes payable  942  1,413
+Purchase price obligations  122  1,250
+Total current liabilities  40,812  45,340
+Revolving credit facility  36,388  24,483
+Notes payable  254  11,365
+Related party notes payable  11,039  2,416
+Purchase price obligations  —  1,616
+Other noncurrent liabilities  395  1,233
+Total liabilities  88,888  86,453
+[NAME_223] and [NAME_224]
+Stockholders’ Equity
+Common stock, par value $0.001 — 45,286 shares authorized and 27,627 shares issued and outstanding at December Y0 and 45,286 shares authorized and 27,033 shares issued and outstanding at December Y-1  20  20
+Additional paid-in-capital  193,037  189,215
+Accumulated deficit  (121,601)  (70,826)
+Total stockholders’ equity  71,455  118,409
+Total liabilities and stockholders’ equity  $160,343  $204,862
+See accompanying notes to consolidated financial statements.
+[COMPANY]
+Consolidated Statements of Operations
+(In thousands, except per share data)
+Year Ended December
+Y0  Y-1  Y-2
+Revenue  $143,463  $162,121  $122,123
+Cost of sales  95,503  109,496  81,348
+Restructuring costs  8,718  —  —
+Total cost of sales  104,221  109,496  81,348
+Gross profit  39,241  52,625  40,775
+Operating expenses:
+Selling, general and administrative  41,472  37,118  30,309
+Research and development  3,496  2,234  2,331
+Amortization and depreciation  5,715  5,760  4,585
+Acquisition, severance and transition costs  5,742  3,627  1,837
+Stock-based compensation  2,803  2,017  2,561
+Impairment of goodwill  10,080  —  —
+Impairment of intangible assets  9,871  —  —
+Restructuring costs  7,207  —  —
+Total operating expenses  86,387  50,756  41,624
+Operating income (loss)  (47,146)  1,869  (849)
+Interest expense and other charges  (3,629)  (2,360)  (1,395)
+Net loss  $(50,775)  $(492)  $(2,244)
+Net loss per share, basic and diluted  $(1.89)  $(0.02)  $(0.12)
+Weighted average shares outstanding, basic and diluted  26,974  24,628  19,318
+See accompanying notes to consolidated financial statements.
+[COMPANY]
+Consolidated Statements of Stockholders’ Equity
+Years Ended December Y0, Y-1 and Y-2
+(In thousands)
+[NAME_225]
+Balance, January Y-2  $12  $140,903  $(68,091)  $72,824
+Stock-based compensation  —  2,064  —  2,064
+Issuance of common stock for cash, net of issuance costs  1  8,954  —  8,955
+Shares issued for contingent consideration and acquisition  2  15,085  —  15,087
+[NAME_226] of reacquired escrowed common stock  —  (515)  —  (515)
+Net loss  —  —  (2,244)  (2,244)
+Balance, December Y-2  15  166,490  (70,334)  96,171
+Stock-based compensation  1  1,234  —  1,235
+Issuance of common stock for cash, net of issuance costs  3  15,248  —  15,251
+Shares issued for contingent consideration and acquisition  1  6,243  —  6,244
+Net loss  —  —  (492)  (492)
+Balance, December Y-1  20  189,215  (70,826)  118,409
+Stock-based compensation  —  2,695  —  2,695
+Shares issued for contingent consideration  —  1,127  —  1,127
+Net loss  —  —  (50,775)  (50,775)
+Balance, December Y0  $20  $193,037  $(121,601)  $71,455
+See accompanying notes to consolidated financial statements.
+[COMPANY]
+Consolidated Statements of Cash Flows
+(In thousands)
+Year Ended December
+Y0  Y-1  Y-2
+Cash Flows from Operating Activities:
+Net loss  $(50,775)  $(492)  $(2,244)
+Adjustments to reconcile net loss to net cash used in operating activities:
+Amortization and depreciation  7,110  5,760  4,585
+Stock-based compensation  2,803  2,017  2,561
+Change in fair value of contingent consideration  (1,350)  (2,117)  814
+Impairment of goodwill  10,080  —  —
+Impairment of intangible assets  9,871  —  —
+Restructuring expense, including $8,718 recorded in Cost of sales  15,926  —  —
+Other noncash items affecting net income  (174)  1,271  —
+Changes in operating assets and liabilities, net of the effect of the acquisition:
+(Increase) decrease in trade receivables, net  12,822  (11,096)  (14,233)
+(Increase) decrease in unbilled contracts receivable  3,847  (4,920)  (2,116)
+(Increase) decrease in inventories, net  (6,943)  (4,173)  (6,814)
+(Increase) decrease in prepaid and other assets  (4,575)  (4,542)  (658)
+Increase (decrease) in accounts payable and accrued liabilities  (5,236)  12,448  2,385
+Net cash used in operating activities  (6,593)  (5,844)  (15,719)
+Cash Flows from Investing Activities:
+Payment of acquisition obligations  (267)  (956)  —
+Purchase of property and equipment and other  (997)  (523)  (435)
+Acquisition of business and other, net of cash acquired  (499)  (10,700)  (9,889)
+Net cash used in investing activities  (1,764)  (12,179)  (10,324)
+Cash Flows from Financing Activities:
+Net proceeds from revolving credit facility  11,906  3,737  12,495
+Proceeds from related party notes payable  10,036  —  —
+Repayments of notes payable and short-term borrowings  (11,642)  (339)  (367)
+Repayments of related party notes payable  (1,884)  —  —
+Proceeds from issuance of common stock, net of issuance costs  —  15,251  8,439
+Net cash provided by financing activities  8,416  18,649  20,567
+Net increase (decrease) in cash and cash equivalents  58  625  (5,476)
+Cash and cash equivalents, beginning of year  832  206  5,682
+Cash and cash equivalents, end of year  $890  $832  $206
+Supplemental Disclosure of Cash Flow Information:
+Cash paid during the period for interest  $2,919  $1,730  $648
+[NAME_227] Investing and Financing Activities:
+Issuance of common stock for contingent consideration  $1,127  $6,244  $5,949
+Contingent consideration for acquisitions  —  3,892  1,460
+Issuance of promissory notes for acquisition  —  1,884  9,419
+Issuance of common stock for acquisitions  —  —  9,138
+Deferred consideration for acquisition  —  —  330
+See accompanying notes to consolidated financial statements.
+[COMPANY]
+Notes to Consolidated Financial Statements
+(In millions, except share and per share data, or unless otherwise noted)
+1.  The Company
+Through advanced LED technologies, we have created an innovative lighting company that offers a comprehensive advanced product platform of high-quality interior and exterior LED lamps and fixtures, including signage and control systems. We are uniquely positioned to act as an expert partner, offering full-service lighting solutions through our operating divisions, including [NAME_9], [NAME_6], [NAME_62] LED, [NAME_26], [NAME_7] and [NAME_10], to transform lighting into a source of superior energy savings, quality light and well-being.
+We generate revenue by selling lighting products for use in the commercial, industrial and government markets, which include vertical markets such as military, municipal, commercial office, industrial, warehouse, education, hospitality, retail, healthcare, multi-family and signage-media-accent markets. We market and distribute our products globally through networks of distributors, independent sales agencies and representatives, electrical supply companies, as well as internal marketing and sales forces.
+Our operations consist of one reportable segment for financial reporting purposes: Lighting Products and Solutions (principally LED fixtures and lamps).
+Basis of presentation
+The consolidated financial statements included in this Form 10-K have been prepared in conformity with accounting principles generally accepted in the United States of America (“[NAME_76]. GAAP”). Our consolidated financial statements include the accounts of [COMPANY] and its wholly owned subsidiaries. All intercompany balances and transactions have been eliminated. Certain prior period amounts have been reclassified to conform to the manner and presentation in the current period.
+Use of estimates
+The preparation of financial statements in conformity with [NAME_76]. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. The most significant estimates relate to valuation of receivables and inventories, purchase price allocation of acquired businesses, impairment of goodwill and long-lived assets, income taxes, and contingencies. It is at least reasonably possible that the effect on the financial statements of a change in estimate due to one or more future confirming events could have a material effect on the financial statements.
+Stock Split
+On March Y-1, we filed a certificate of amendment to our Amended and Restated Certificate of Incorporation, as amended, to effect a 1-for-10 reverse stock split, as approved by the holder of a majority of the common stock and the Board (the “Split”), that became effective for trading purposes on March Y-1. The number of authorized shares and the par value of our common stock remained unchanged following the Split. All references to number of shares and per share data in the consolidated financial statements and applicable disclosures have been adjusted to reflect the reverse stock split, unless otherwise noted.
+Liquidity and Capital Resources
+On January Y0, we amended the Revolving Credit Facility which enabled us to borrow up to $47.1 million on a revolving basis, based upon specified percentages of eligible receivables and inventory, which matures on January Y+3. See Note 9.
+Our liquidity as of December Y0 and Y-1 was $7.0 million and $1.8 million, respectively, which consisted of cash and cash equivalents of $0.8 million and $0.8 million, respectively, and additional borrowing capacity under the Revolving Credit Facility of $6.1 million and $0.9 million, respectively.
+Historically, our significant shareholder, [NAME_65] 1 LLC (“[NAME_65]”), and its affiliates have been a significant source of financing, and they continue to support our operations. See Note 17.
+At December Y0 and Y-1, we had working capital of $32.3 million and $48.3 million, respectively. We believe we have adequate resources to meet our cash requirements for the foreseeable future.
+2.  Significant Accounting Policies
+Fair Value Measurement
+We measure fair value on a recurring basis utilizing valuation techniques that maximize the use of observable inputs and minimize the use of unobservable inputs, to the extent possible, and consider counterparty credit risk in our assessment of fair value. The fair value hierarchy is as follows:
+Level 1 – Quoted prices in active markets for identical assets and liabilities;
+Level 2 – Quoted prices for similar assets and liabilities in active markets, quoted prices for identical or similar assets and liabilities in markets that are not active or other inputs that are observable or can be corroborated by observable market data; and
+Level 3 – Unobservable inputs that are supported by little or no market activity and that are significant to the fair value of the assets and liabilities.
+Cash and cash equivalents, trade and unbilled contract receivables, inventories, other current assets, accounts payable, and accrued and other liabilities are classified as Level 1 as their carrying values approximate fair value since they are short term in nature and they are receivable or payable on demand.
+Based on the borrowing rates currently available for bank loans with similar terms and average maturities, the fair value of notes payable are equal to the carrying value. As such, notes payable are classified as Level 1. See Notes 9 and 17.
+The estimated fair value of the reporting unit in our goodwill impairment assessment utilized the market approach based on inputs that are readily available from public markets or can be derived from observable market transactions, and have been classified as level 2 in the fair value hierarchy. The fair values of intangible assets in our long-lived asset impairment assessment were established based on projected discounted cash flows, which were based on significant unobservable inputs and have been classified as Level 3 in the fair value hierarchy.
+The estimated fair value of assets and liabilities acquired in business combinations utilize inputs classified as Level 3 in the fair value hierarchy.
+Cash and Cash Equivalents
+We consider all investments with an original maturity of three months or less to be cash equivalents. We maintain cash and cash equivalents in bank accounts that may exceed federally insured limits. The financial institutions where our cash and cash equivalents are held are highly rated. We have not experienced any losses in such accounts, and believe we are not exposed to significant credit risk.
+Accounts Receivable
+Accounts receivable are customer obligations due under normal trade terms. We perform periodic credit evaluations of our customers’ financial condition. We record an allowance for doubtful accounts based upon factors surrounding the credit risk of certain customers, and specifically identified amounts that we believe to be uncollectible. [NAME_228] of bad debt amounts previously written off is recorded as a reduction of bad debt expense in the period the payment is collected. If our actual collection experience changes, revisions to our allowance may be required. After all attempts to collect a receivable have failed, the receivable is written off against the allowance. See Note 3.
+Inventories
+Inventories are stated at the lower of cost (first-in, first-out) or market. Quarterly, we review our inventory for both excessive and obsolete inventory (inventory that is no longer marketable for its intended use). In either case, we record any write-downs based on assumptions about alternative uses, market conditions and other factors. See Note 4.
+Property and Equipment
+Property and equipment, net is stated at cost (or fair value, if acquired as part of a business combination) less accumulated depreciation, and is depreciated over its estimated useful life using the straight-line method as follows:
+[NAME_229] and equipment  3-7 years
+[NAME_230] and fixtures  5-7 years
+[NAME_231] and software  3-7 years
+[NAME_232] vehicles  5 years
+[NAME_233] improvement  [NAME_234] of lease term or estimated useful life
+Maintenance and repairs are expensed as incurred. Upon retirement or sale, the cost and related accumulated depreciation are removed from the respective account, and any resulting gain or loss is recognized in the Consolidated Statements of Operations. See Note 5.
+Goodwill
+Goodwill is not amortized, but is subject to annual impairment testing unless circumstances dictate more frequent assessments. We perform an annual impairment assessment for goodwill during the fourth quarter of each year or more frequently whenever changes in circumstances indicate that the fair value of the asset may be less than the carrying amount. We have one reporting unit for goodwill impairment testing purposes. In testing goodwill for impairment, we compare the fair value of the reporting unit to its carrying amount. The fair value of the reporting unit is determined by calculating our market capitalization at the impairment test day. If the fair value of the reporting unit is greater than its carrying amount, there is no impairment. If the carrying amount of goodwill exceeds the implied fair value of goodwill, an impairment loss is recognized in an amount equal to the excess. On October Y0, we performed our annual goodwill impairment test and the estimated fair value exceeded carrying value. We concluded that goodwill, as of October Y0, was not impaired.
+During the fourth quarter of Y0, we experienced poor performance of our stock price, which led management to believe that a triggering event occurred. As such, an updated goodwill impairment test was performed. Because we elected to early adopt Accounting Standards Update (“ASU”) Y0-04, “[NAME_235] the Test for Goodwill Impairment”, the requirement to perform step 2 in the impairment test was not required. The result of the impairment test indicated that goodwill was impaired by $10.1 million. See Note 6.
+Intangible Assets
+Intangible assets, net is stated at cost or fair value, if acquired as part of a business combination, less accumulated amortization, and is amortized over its estimated useful life using the straight-line method as follows:
+Customer relationships  10-15 years
+[NAME_236] and trade names  12-17 years
+[NAME_237] agreements  6 years
+Favorable leases  10 years
+We evaluate the recoverability of the carrying value of long-lived assets whenever events or changes in circumstances indicate that the carrying value may not be recoverable. The long-lived asset is grouped with other assets at the lowest level for which identifiable cash flows are largely independent of the cash flows of other groups of assets and liabilities. We assess whether the projected undiscounted cash flows of our long-lived assets are sufficient to recover the carrying amount of the asset group being assessed. If the undiscounted projected cash flows are less than the carrying value of the assets, we calculate an impairment by comparing the carrying value of the asset group to its fair value. The amount of the impairment of long-lived assets is written off against earnings in the period in which the impairment is determined. During the fourth quarter of Y0, management performed an impairment test on certain long-lived asset groups. The result of the impairment test indicated that certain intangible assets were impaired by $9.9 million. See Note 7.
+Purchase Price Obligations
+In connection with certain prior acquisitions, we are obligated to issue contingent consideration. We determine the fair value of certain purchase price obligations on a recurring basis based on a probability-weighted discounted cash flow analysis and [NAME_238] simulation. The fair value remeasurement is based on significant inputs not observable in the market and thus represents a Level 3 measurement. On a quarterly basis, we reassess our current estimates of performance relative to the stated targets and adjust the liability to fair value. Any such adjustments are included in “Acquisition, severance and transition costs” in the Consolidated Statements of Operations. See Note 10.
+[NAME_223]
+In accordance with Accounting Standards Codification (“ASC”) 450, [NAME_223] (“ASC 450”), we recognize a loss and record an undiscounted liability when litigation has commenced or a claim or assessment has been asserted or, based on available information, commencement of litigation or assertion of a claim or assessment is probable, and the associated costs can be reasonably estimated.
+Revenue Recognition
+We recognize revenue from our product sales upon shipment or delivery to customers in accordance with the respective contractual arrangements, provided no significant obligations remain and collection is probable. For sales that include customer acceptance terms, revenue is recorded after customer acceptance at the applicable location. It is our policy that all sales are final. [NAME_207] for returns are reviewed on a case by case basis. As revenue is recorded, we accrue an estimated amount for product returns as a reduction of revenue.
+We recognize revenue from fixed-price and modified fixed-price contracts for turnkey energy conservation projects using the percentage-of-completion method of accounting. The percentage-of-completion is computed by dividing the actual incurred cost to date by the most recent estimated total cost to complete the project. The computed percentage is applied to the expected revenue for the project to calculate the contract revenue to be recognized in the current period. This method is used because management considers total cost to be the best available measure of progress on these contracts. Contract costs include all direct material and labor costs and indirect costs related to contract performance. Provisions for estimated losses on uncompleted contracts are made in the period in which such losses are determined. Revenues in excess of amounts billed, which management believes will generally be billed within the next twelve months, are recorded in “Unbilled contracts receivable” in the Consolidated Balance Sheets.
+See “Recent accounting pronouncements” below for a discussion of revenue recognition in future periods.
+[NAME_239] and product liability
+Our products typically carry a warranty that ranges from one to ten years and includes replacement of defective parts. [NAME_93] warranty reserve is recorded for the estimated costs associated with warranty expense related to recorded sales, which is included within accrued liabilities. We recorded warranty expense of $0.2 million for each of the years ended December Y0, Y-1 and Y-2, which was included in “Selling, general and administrative” in the Consolidated Statements of Operations. At both December Y0 and Y-1, we had recorded a warranty and product liability of $0.4 million in the Consolidated Balance Sheets.
+Sales Tax Revenue
+We record sales tax revenue on a gross basis (included in both “Revenues” and “Cost of sales” in the Consolidated Statements of Operations). For the years ended December Y0, Y-1 and Y-2, revenues from sales taxes were $3.9 million, $4.9 million and $4.2 million, respectively.
+Shipping and [NAME_240]
+Shipping and handling costs related to the acquisition of goods from vendors are included in cost of sales.
+Research and Development
+Research and development costs to develop new products, which consist of salaries, contractor fees, building cost, utilities, administrative expenses and allocations of corporate costs, are charged to expense as incurred.
+Advertising Expense
+Advertising costs, included in “Other selling, general and administrative” on the Consolidated Statements of Operations are expensed when the advertising first takes place. We promote our product lines through print media and trade shows, including trade publications and promotional brochures. Advertising expense was $0.3 million, $0.2 million and $0.3 million for the years ended December Y0, Y-1 and Y-2, respectively.
+Income taxes
+Income taxes are provided for the tax effects of transactions reported in the financial statements and consist of taxes currently due plus deferred taxes resulting from temporary differences. Such temporary differences result from differences in the carrying value of assets and liabilities for tax and financial reporting purposes. The deferred tax assets and liabilities represent the future tax consequences of those differences, which will either be taxable or deductible when the assets and liabilities are recovered or settled. Valuation allowances are established when necessary to reduce deferred tax assets to the amount expected to be realized.
+We applied the provisions of ASC 740, Income Taxes (“ASC 740”), and have not recognized a liability pursuant to that standard. In addition, a reconciliation of the beginning and ending amount of unrecognized tax benefits has not been provided since there are no unrecognized benefits since the date of adoption. If there were an unrecognized tax benefit, we would recognize interest accrued related to unrecognized tax benefits in interest expense and penalties in operating expenses.
+We evaluate the adequacy of the valuation allowance quarterly and, if our assessment of whether it is more likely than not that the related tax benefits will be realized changes, the valuation allowance will be increased or reduced with a corresponding benefit or charge included in income.
+In December Y0, the [NAME_76]., enacted the Tax Cuts and Jobs Act (“[NAME_211]”), which made significant changes to [NAME_76]. federal income tax law. [NAME_241] after enactment of the [NAME_211], the United States Securities and Exchange Commission’s (the “SEC”) staff issued [NAME_212] Accounting [NAME_213] No. 118 (“SAB 118”), which provides guidance on accounting for the impact of the [NAME_211]. Under SAB 118, an entity would use a similar approach as the measurement period provided in the Business Combinations Topic of the ASC. An entity will recognize those matters for which the accounting can be completed. For matters that have not been completed, the entity would either (1) recognize provisional amounts to the extent that they are reasonably estimable and adjust them over time as more information becomes available or (2) for any specific income tax effects of the [NAME_211] for which a reasonable estimate cannot be determined, continue to apply the Income Taxes Topic of the ASC on the basis of the provisions of the tax laws that were in effect immediately before the [NAME_211] was signed into law. We have prepared our consolidated financial statements for the fiscal year ended December Y0 in accordance with the Income Taxes Topic of the ASC as allowed by SAB 118. See Note 13.
+Loss per Share
+Basic loss per share is computed by dividing net loss attributable to common stockholders by the weighted average common shares outstanding for the period. Diluted loss per share is computed giving effect to all potentially dilutive common shares. Potentially
+dilutive common shares consist of incremental shares issuable upon the exercise of stock options and vesting of restricted shares and the conversion of outstanding convertible securities. In periods in which a net loss has been incurred, all potentially dilutive common shares are considered anti-dilutive and thus are excluded from the calculation. See Note 14.
+Stock-Based Compensation
+Restricted Stock and Restricted Stock Unit Awards (Equity) – The fair value of equity instruments is measured based on the share price on the grant date, and is recognized using the straight-line method over the vesting period. These awards contain service conditions. If the conditions are not met, no compensation cost is recognized and any previously recognized compensation cost is reversed. See Note 15.
+Restricted Stock Awards (Liability) - From time to time, we enter into arrangements with non-employee service providers pursuant to which we issues restricted stock vesting over specified periods for time-based services. These arrangements are accounted for under the provisions of ASC 505 “Equity-Based Payments to [NAME_242]” (“ASC 505”). In accordance with ASC 505, the restricted stock is valued at the quoted price at the date of vesting. Liability awards are re-measured to fair value based on quoted market prices at the end of each reporting period. See Note 15.
+Option Awards – The [NAME_243] option pricing model is utilized to measure the fair value of options on the grant date. We estimate the volatility of our common stock at the date of grant based on its historical volatility. We determine the expected life based on historical experience with similar awards, giving consideration to the contractual terms, vesting schedules and post-vesting forfeitures. For shares that vest contingent upon achievement of certain performance criteria, an estimate of the probability of achievement is applied in the estimate of fair value. If the conditions are not met, no compensation cost is recognized and any previously recognized compensation cost is reversed. We base the risk-free interest rate on the implied yield currently available on [NAME_76]. Treasury issues with an equivalent remaining term approximately equal to the expected life of the award. See Note 15.
+Business Acquisitions
+Business acquisitions are accounted for using the acquisition method of accounting, which requires recording assets acquired and liabilities assumed at fair value of the acquisition date. Under the acquisition method of accounting, each tangible and separately identifiable intangible asset acquired and liability assumed is recorded based on their preliminary estimated fair values on the acquisition date. Acquisition related costs are expensed as incurred, and are included in “Acquisition, severance and transition costs” in the Consolidated Statements of Operations. See Note 19.
+Recent accounting pronouncements not yet adopted
+In May Y-3, the Financial Accounting Standards Board (the “FASB”) issued ASU [no.], “Revenue from Contracts with Customers.” ASU [no.], along with the related updates (“ASC 606”), will replace all current GAAP guidance on this topic and eliminate all industry-specific guidance. ASC 606 provides a unified model to determine how revenue is recognized. The core principle of ASC 606 is that an entity should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. In doing so, companies will need to use more judgment and make more estimates than under prior guidance. [NAME_244] may include identifying performance obligations in the contract, estimating the amount of variable consideration to include in the transaction price, and allocating the transaction price to each performance obligation. ASC 606 allows companies to elect either full retrospective or modified retrospective approach to adoption. We will adopt ASC 606 on its effective date, January Y+1, using the modified retrospective approach.
+We have identified that the main types of contracts that require evaluation as to what, if any, changes will be necessary under ASC 606 as compared to legacy accounting guidance are (a) product sales that are shipped to customers from either our warehouses or directly from our vendors and (b) contracts that involve a combination of product and installation services.
+We have evaluated the provisions of ASC 606 against our existing accounting policies and practices, including reviewing standard purchase orders, invoices, shipping terms, and agreements with customers to determine the impact, if any, on the timing, measurement and presentation of revenue recognition and the cost of sales. The review considered, among other matters, the evaluation and identification of distinct performance obligations and the measurement of our progress toward satisfying identified performance obligations. We determined that the adoption of ASC 606 will not impact the timing of our billings to customers or the receipt of customer payments.
+Under ASC 606, incremental contract costs, which includes sales commissions, are required to be capitalized as contract assets and amortized over the period these costs are expected to be recovered. Although we incur such costs, our contracts are typically completed within one year. As such, we have elected the practical expedient provided in ASC 606 and expense incremental contract costs when incurred.
+We have evaluated this standard and determined that the adoption of ASC 606 will not have a material effect on our financial statements. We have evaluated our processes and controls necessary for implementing this standard, including the increased disclosure requirements.
+In February Y-1, the FASB issued ASU [no.], “Leases,” which requires lessees to recognize a right-of-use asset and a lease liability for virtually all of their leases. The standard is effective for fiscal years and interim periods within those fiscal years beginning after December Y+1. The adoption of this standard is not expected to have a material effect on our results of operations.
+In August Y-1, the FASB issued ASU [no.], “Statement of Cash Flows: Classification of Certain Cash Receipts and Cash Payments,” which provides guidance on eight specific cash flow issues. The provisions of this standard are effective for periods beginning after December Y0. The adoption of this standard is not expected to have a material effect on our financial statements.
+In January Y0, the FASB issued ASU [no.], “Business Combinations: [NAME_245] the [NAME_221] of a Business,” which assists entities with evaluating whether transactions should be accounted for as acquisitions of assets or businesses. The provisions of this standard are effective for periods beginning after December Y0. The adoption of this standard is not expected to have a material impact on our financial statements.
+In May Y0, the FASB issued ASU [no.], “Compensation—Stock Compensation: Scope of [NAME_246] Accounting” which provides guidance about which changes to the terms or conditions of a share-based payment award would require an entity to apply modification accounting. The provisions of this standard are effective for periods beginning after December Y0. The adoption of this standard is not expected to have a material impact on our financial statements.
+[NAME_247] adopted accounting pronouncements
+In July Y-2, the FASB issued ASU [no.], “[NAME_235] the Measurement of Inventory”,which require an entity to measure inventory at the lower of cost and net realizable value. The standard was effective for fiscal years beginning after December Y-1. The adoption of this standard did not have a material effect on our financial statements.
+In March Y-1, the FASB issued ASU [no.], “Compensation – Stock Compensation,” which is intended to simplify the accounting for share-based payment awards, including accounting for the income tax consequences, the classification of awards as either equity or liabilities and the classification on the statement of cash flows. The standard was effective for fiscal years beginning after December Y-1. The adoption of this standard did not have a material effect on our financial statements.
+In January Y0, the FASB issued ASU [no.], which simplifies the subsequent measure of goodwill by eliminating the second step from the goodwill impairment test. The provisions of this standard are effective for periods beginning after December Y+2. We elected to early adopt ASU [no.] in order to simplify the test for goodwill impairment and, as such, the requirement to perform step 2 in the impairment test was not required. The result of the impairment test indicated that goodwill was impaired by $10.1 million. See Note 6.
+3.  Accounts Receivable, Net of Allowance for Doubtful Accounts
+Accounts receivable, net of allowance for doubtful accounts, consisted of the following:
+Year Ended December
+Y0(1)  Y-1  Y-1
+Trade receivables  $33.4  $51.5  $39.7
+Allowance for doubtful accounts  (0.5)  (1.3)  (0.9)
+Accounts receivable, net of allowance for doubtful accounts  $33.0  $50.2  $38.7
+(1)  [NAME_248] adjustments related to restructuring acitivity. See Note 20.
+Bad debt expense, which was recorded in “Other selling, general and administrative” in the Consolidated Statements of Operations, was $0.5 million, $1.4 million and $1.2 million for the years ended December Y0, Y-1 and Y-2, respectively.
+4.  Inventories, Net
+Inventories, which are primarily purchased from third parties, consisted of the following:
+December
+Y0(1)  Y-1
+[NAME_249] materials  $0.3  $2.3
+[NAME_250] goods  25.5  24.6
+Total  25.8  26.8
+Less: Provision for obsolescence  (1.1)  (1.7)
+Inventories, net  $24.7  $25.1
+(1)  [NAME_248] adjustments related to restructuring activity. See Note 20.
+Activity related to inventory reserves was as follows:
+Year Ended December
+Y0(1)  Y-1  Y-2
+Inventory reserve, January  $(1.7)  $(1.9)  $(1.6)
+[NAME_251]  —  (0.1)  (1.0)
+[NAME_252]  0.6  0.3  0.8
+Inventory reserve, December  $(1.1)  $(1.7)  $(1.9)
+(1)  [NAME_248] adjustments related to restructuring activity. See Note 20.
+5.  Property and Equipment
+Property and equipment, net of accumulated depreciation, consisted of the following:
+December
+Y0  Y-1
+Total property and equipment  $2.8  $3.0
+Less accumulated depreciation  (1.3)  (1.6)
+Property and equipment, net  $1.5  $1.4
+Depreciation expense related to property and equipment, which was recorded in “Amortization and depreciation” in the Consolidated Statements of Operations, was $0.6 million, $0.4 million and $0.5 million for the years ended December Y0, Y-1 and Y-2, respectively.
+6.  Goodwill
+Changes in the carrying amount of goodwill were as follows:
+Year Ended December
+Y0  Y-1
+Goodwill, January  $67.9  $60.6
+Acquisitions (1)  0.1  7.3
+[NAME_253]  (10.1)  —
+Goodwill, December  $57.9  $67.9
+(1)  Reflects the effects of the [NAME_70] acquisition. See Note 19.
+During the fourth quarter of Y0, we experienced poor performance of our common stock, which led management to believe that a triggering event occurred. As such, an updated goodwill impairment test was performed. The result of the impairment test indicated that the carrying value of goodwill was above the implied fair value.
+For the purposes of the goodwill impairment test, we estimated the fair value of our sole reporting unit using the market approach. Under the market approach, we utilized the market capitalization of our common stock, and applied an estimated control premium
+based on an analysis of control premiums paid in acquisitions of companies in the same or similar industries. Because the significant inputs used in this analysis are readily available from public markets or can be derived from observable market transactions, they have been classified as level 2 in the fair value hierarchy. Based on this approach, we determined that the carrying value of our sole reporting unit exceeded the fair value by $10.1 million, which was recorded in “Impairment of goodwill” in the Consolidated Statement of Operations for the year ended December Y0.
+7.  Intangible Assets
+Intangible assets consisted of the following:
+December Y0  December Y-1
+[NAME_254]  Net [NAME_255]  Net [NAME_256]
+Customer relationships and product supply agreements  $23.2  $(6.2)  $17.0  $33.0  $(7.4)  $25.5
+[NAME_236]/Trade Names  11.5  (2.2)  9.3  16.6  (3.2)  13.4
+Other  1.2  (0.8)  0.5  6.9  (4.5)  2.4
+Intangible assets  $35.9  $(9.1)  $26.7  $56.4  $(15.2)  $41.3
+As a result of changes to our business, we evaluated the recoverability of the carrying value of long-lived assets. The result of such evaluation indicated that net intangible assets of $9.9 million (gross assets of $17.8 million and related accumulated amortization of $7.9 million) were impaired, and we recognized an impairment charge of such amount for the year ended December Y0 in the Consolidated Statements of Operations. Such impairment relates primarily to the consolidation of certain operations and the discontinuation of underperforming product lines.
+Amortization expense related to intangible assets, which was recorded in “Amortization and depreciation” in the Consolidated Statements of Operations, was $5.2 million, $4.9 million and $3.8 million for the years ended December Y0, Y-1 and Y-2, respectively. Estimated future amortization expense related to intangible assets is $3.2 million for Y+1, $2.6 million for Y+2, $2.4 million for Y+3, $2.4 million for Y+4, $2.4 million for Y+5, and $13.8 million thereafter.
+8.  Accrued and Other Current Liabilities
+Accrued and other current liabilities consisted of the following:
+December
+Y0  Y-1
+Compensation, benefits and commissions  $3.5  $4.1
+Accrued restructuring costs (1)  1.7  —
+[NAME_257] and other current liabilities  5.7  5.7
+Accrued and other current liabilities  $10.9  $9.9
+(1)  See Note 20 for additional information regarding restructuring activities.
+9.  [NAME_258]
+Revolving Credit Facility
+On January Y0, we amended the loan and security agreement with Bank of America to borrow up to $47.1 million on a revolving basis, based upon specified percentages of eligible receivables and inventory, which matures on January Y+3 (the “Revolving Credit Facility”). Under the Revolving Credit Facility, the maximum applicable margin for LIBOR rate loans is 2.75%, and the maximum applicable margin for base rate loans is 1.75%. As of December Y0, our Chairman, Chief Executive Officer and President had guaranteed $9.4 million of the borrowings under the Revolving Credit Facility (see Note 17). At December Y0 and Y-1, the balance outstanding on the Revolving Credit Facility was $36.4 million and $24.5 million, respectively.
+Borrowings under the Revolving Credit Facility bear interest at a LIBOR rate or a defined base rate, each plus an applicable margin, depending on the nature of the loan. We are also obligated to pay various fees monthly. At December Y0 and Y-1, the weighted average interest rate was 4.59% and 3.95%, respectively. We recorded interest expense of $1.7 million, $0.8 million and $0.7 million for the years ended December Y0, Y-1 and Y-2, respectively.
+Under the Revolving Credit Facility, outstanding loans become payable on demand to the extent that such loans exceed the defined Borrowing Base. All obligations under the Revolving Credit Facility are secured by the assets of [COMPANY], and are guaranteed by [COMPANY]. The Revolving Credit Facility contains covenants that limit our ability to incur other debt, allow a lien on any property, pay dividends, restrict any wholly owned subsidiary from paying dividends, make investments, dispose of property, make loans or advances or enter into transactions with affiliates, among other things. As of December Y0, we were in compliance with our covenants.
+In connection with obtaining the Revolving Credit Facility, we incurred debt issuance costs, which are being amortized through the maturity date. At December Y0 and Y-1, we had $0.6 million and $0.2 million, respectively, of deferred debt issuance costs, which are recorded in “Other assets, net” in the Consolidated Balance Sheets.” Amortization expense of deferred debt issuance costs was $0.3 million, $0.2 million and $0.2 million for the years ended December Y0, Y-1 and Y-2, respectively.
+Notes Payable
+Notes payable consisted of the following:
+December
+Y0  Y-1
+[NAME_6] acquisition note  $2.0  $2.3
+[NAME_70] acquisition notes  —  1.9
+[NAME_9] acquisition notes  —  9.4
+Total notes payable  $2.0  $13.6
+Less: Notes payable - current  (1.7)  (2.3)
+Notes payable - noncurrent  $0.3  $11.3
+[NAME_6] Acquisition Note
+In conjunction with the acquisition of [NAME_6], we refinanced $3.5 million of [NAME_6]’s trade accounts payable by issuing a note payable to the creditor. The note is payable in monthly installments through October Y+2 and a lump sum payment of $1.3 million due on November Y+1, which may be settled, at our option, in either cash or an equivalent amount of common shares based upon their then-current market value.
+[NAME_70] Acquisition Notes
+In connection with the acquisition of [NAME_70] in May Y-1, we issued $1.9 million in promissory notes bearing interest at 5% per annum, of which $0.9 million was due on April Y0 and $0.9 million was due on November Y0. In February Y0, the maturity date was extended to November Y0 for all of the [NAME_70] promissory notes. On November Y0, we repaid the [NAME_70] acquisition notes, including interest of $0.2 million. We recorded interest expense of less than $0.1 million for both the years ended December Y0 and Y-1.
+[NAME_9] Acquisition Notes
+In connection with the acquisition of [NAME_9] in August Y-2, we issued $9.4 million in promissory notes bearing interest at 5% per annum due July Y-1, which were supported by an irrevocable letter of credit from [NAME_65]. In July Y-1, the maturity date was extended to January Y0, with an interest rate of 7%. On January Y0, we repaid the [NAME_9] acquisition notes, including interest of $0.4 million, using proceeds from the amended Revolving Credit Facility, and the related guarantee provided by [NAME_65] was terminated. We recorded interest expense of less than $0.1 million, $0.6 million and $0.2 million during the years ended December Y0, Y-1 and Y-2, respectively.
+Debt Maturities
+At December Y0, the scheduled maturities of our borrowings were as follows:
+Total
+Notes Payable
+Y+1  $1.7
+Y+2  0.3
+Y+3  36.4
+Total borrowings  $38.3
+10.  Purchase Price Obligations
+In connection with prior acquisitions, we were obligated to issue contingent consideration. At December Y0, the remaining obligation relates to the acquisition of [NAME_9], which will be settled in shares of common stock during the first quarter of Y+1. Changes in the fair value of purchase price obligations during the year ended December Y0 were as follows:
+December
+Y0  Y-1
+Fair value, January  $2.8  $8.3
+Fair value of acquisition liabilities paid (1)  (1.4)  (7.2)
+Fair value of consideration issued  —  3.9
+Change in fair value (2)  (1.3)  (2.2)
+Fair value, December  $0.1  $2.8
+(1)  Acquisition liabilities settled in common stock totaled $1.2 million and $6.6 million during Y0 and Y-1, respectively.
+(2)  Change in fair value includes a reduction due to a change in assumptions utilized in the calculation of purchase price obligations and not meeting applicable thresholds, which were recorded in “Acquisition, severance and transition costs” on the Consolidated Statements of Operations.
+11.  [NAME_224] and [NAME_223]
+Leases – We lease office, warehouse and manufacturing facilities throughout the United States. Generally, the lease agreements require us to pay the operating expenses of the properties, in some cases including property taxes. The majority of our leases include renewal options at existing or current market rates. [NAME_259] expense related to operating leases was $3.0 million, $2.2 million and $1.9 million during the years ended December Y0, Y-1 and Y-2, respectively.
+The future minimum payment obligations as of December Y0 for operating leases are as follows:
+[NAME_260] Payments
+Y+1  $3.5
+Y+2  3.3
+Y+3  2.4
+Y+4  1.7
+Y+5  1.0
+[NAME_261]  0.8
+Total future payment obligations  $12.7
+Other Matters – In the ordinary course of business, we may become a party to various legal proceedings generally involving contractual matters, infringement actions, product liability claims and other matters. Based upon such evaluation, at December Y0, we were not party to any pending legal or administrative proceedings that may have a material adverse effect, either individually or in the aggregate, on our business, financial condition or results of operations. We may be required to make payments under a certain channel distribution agreement if certain revenue targets are achieved. The maximum amount of such payments is $0.5 million, which has been accrued as of December Y0.
+12.  Stockholders’ Equity
+Common Stock
+On March Y-1, we filed a certificate of amendment to our Amended and Restated Certificate of Incorporation, as amended, to effect the Split, that became effective for trading purposes on March Y-1. The number of authorized shares and the par value of our common stock remained unchanged following the Split. All share amounts in these financial statements have been restated to give effect to the Split, as applicable.
+The changes in issued and outstanding common stock during the years ended December Y-1, Y-2 and Y-3 were as follows:
+Shares
+Balance at January Y-2  12,217,797
+Shares issued for stock-based compensation  134,273
+Shares issued in private placement offering (1)  1,125,175
+Shares issued for contingent consideration and acquisition  1,865,818
+Balance at December Y-2  15,036,965
+Shares issued for stock-based compensation  292,892
+Shares issued for contingent consideration and acquisition  1,181,272
+Shares issued in public offering (2)  4,129,158
+Shares issued in private placement offering (3)  223,085
+Balance at December Y-1  19,679,363
+Shares issued for stock-based compensation  213,738
+Shares issued for contingent consideration and acquisition  218,708
+Balance at December Y0  27,627,848
+(1)  Shares sold in a private placement to one of our distributors. Net proceeds were used for general corporate purposes.
+(2)  [NAME_262] public offering of our common stock at an offering price of $5.25 per share. Net proceeds of the offering were $15.2 million, which were used to fund the cash portion of the [NAME_70] acquisition, pay down bank debt, and for general corporate purposes.
+(3)  Shares sold for $1.0 million in a private placement to one of our distributors. Net proceeds were used for general corporate purposes.
+At December Y0, 11,218,612 shares, or 41% of our outstanding shares, were owned by [NAME_65] and its affiliates. During the first quarter of Y+1, [NAME_65] and its affiliates purchased an additional 1,293,900 shares of common stock for $3.4 million. After such purchases, 9,670,386, or 43% of our outstanding shares were owned by [NAME_65] and its affiliates.
+Preferred Stock
+We are authorized to issue up to 6,469,500 shares of preferred stock. There were no shares of preferred stock outstanding at December Y0, Y-1 and Y-2.
+13.  Income Taxes
+New Tax [NAME_263]
+On December Y0, the President of the United States signed into law the [NAME_211]. This legislation makes broad and complex changes to the [NAME_76]. tax code, including, but not limited to, (i) reducing the [NAME_76]. federal statutory tax rate from 35% to 21%; (ii) eliminating the corporate alternative minimum tax ([NAME_264]) and changing how existing [NAME_264] credits can be realized; (iii) modifying the officer’s compensation limitation, and (iv) changing rules related to uses and limitations of net operating loss carryforwards created in tax years beginning after December Y0. Specifically, the [NAME_211] limits the amount the Company is able to deduct for net operating loss carryforwards generated in taxable years beginning after December Y0 to 80% of taxable income however these net operating loss carryforwards can be carried forward indefinitely.
+We recognize the effects of changes in tax law, including the [NAME_211], in the period the law is enacted. Accordingly, the effects of the [NAME_211] have been recognized in the financial statements for the year ended December Y0. Under the Act, our $19.4 million in federal net operating loss carryforwards generated as of December Y0 will continue to be carried forward for 20 years and are expected to be available to fully offset taxable income earned in future tax years. In the quarter ending December Y0, we revalued our deferred tax assets and liabilities due to these changes, including (a) revaluing our federal net deferred tax assets before valuation allowance using the 21% tax rate, resulting in a federal deferred tax provision of $8.3 million; (b) revaluing our federal valuation allowance using the 21% tax rate, including the impact of tax planning strategies, resulting in a federal deferred tax benefit to continuing operations of $(8.7) million; (c) recognizing a federal deferred tax benefit of $(0.7) million for 80% of indefinite lived deferred tax liabilities, which are anticipated to be available as a source of taxable income upon reversal of deferred tax assets that would also have indefinite lives; and (d) recognizing $0.2 million deferred tax benefit due to refundable [NAME_264] credits.
+At December Y0, we have not completed our accounting for the tax effects of the enactment of the [NAME_211]; however in certain cases we have made a reasonable estimate of the effects of the [NAME_211].
+Our preliminary estimate of the effects [NAME_211], including the remeasurement of deferred tax assets and liabilities and the recognition of an income tax benefit related to [NAME_264] tax credit carryforwards, is subject to the finalization of management’s analysis related to certain matters, such as developing interpretations of the provisions of the [NAME_211] and the filing of our tax returns. [NAME_76]. Treasury regulations, administrative interpretations or court decisions interpreting the [NAME_211] may require further adjustments and changes in our estimates. The final determination of the effects of the [NAME_211] will be completed as additional information becomes available, but no later than one year from the enactment of the [NAME_211]. In all cases, we will continue to make and refine our calculations as additional analysis is completed. In addition, our estimates may also be affected as we gain a more thorough understanding of the tax law.
+Income Taxes
+As of December Y0 and December Y-1, we reported net operating loss carry forwards for federal income tax purposes of $47.0 million and $19.8 million, respectively, which expire between Y+4 and Y+20. As of December Y0, we reported net operating loss carry forwards for state income tax purposes of $34.2 million which expire between Y+4 and Y+20. [NAME_209] of net operating loss carryforwards is dependent on generating future taxable income of the appropriate type and in the appropriate jurisdiction. In addition, as a result of transactions consummated during Y-5 and Y-4, including the issuance of common and preferred stock and the acquisitions of [NAME_23] and [NAME_68], substantially all of our net operating loss carryforwards since December Y-4 are subject to limitations imposed by Section 382 of the Internal Revenue Code. During Y-4, we performed an evaluation of the Section 382 limitations on the use of net operating loss carryforwards and adjusted them accordingly. We have recognized a full valuation allowance related to our remaining net deferred tax assets, including the remaining net operating loss carryforwards.
+In connection with prior asset acquisitions, including the acquisition of [NAME_9], LLC and [NAME_10], LLC, we have recorded a deferred tax liability related to indefinite lived intangibles. In connection with the Y0 tax reform, we released valuation allowance equal to the effect of the deferred tax assets that will create indefinite lived net operating losses and will be available to offset the
+indefinite lived deferred tax liability. We also released valuation allowance against [NAME_264] credits as they have been refundable under the new tax law.
+Components of deferred tax assets (liabilities) are as follows:
+December
+Y0  Y-1
+Accounts receivable  $2.0  $0.5
+Inventories  0.6  0.9
+Stock options  1.8  2.1
+Accrued liabilities  0.9  2.2
+Other  0.2  —
+Net operating loss carryforwards  15.4  9.2
+Total deferred tax assets  20.9  14.9
+Depreciation  (0.2)  (0.2)
+Intangible assets  (2.9)  (8.5)
+Total deferred tax liabilities  (3.1)  (8.7)
+Valuation allowance  (17.8)  (6.2)
+Net deferred tax liability  $  —  $  —
+In accordance with ASC 740, valuation allowances are provided against deferred tax assets if, based on the weight of available evidence, it is more likely than not that some or all of the deferred tax assets will not be realized.
+For the year ended December Y0, we recorded a provision for income taxes related to the deferred tax liabilities that was netted against deferred tax assets. For the year ended December Y-1, we recorded a provision of $0.1 million, respectively, related to [NAME_264] taxes as the deferred tax benefits of the net losses were offset by a corresponding increase in the deferred tax valuation allowance.
+The following is a reconciliation of tax computed at the statutory federal rate to the income tax expense in the statements of operations for the years ended December Y0, Y-1, and Y-2:
+December
+Y0  Y-1  Y-2
+Amount  %  Amount  %  Amount  %
+Tax benefit at statutory federal rate  $(18.1)  (34.0)  $(0.3)  (34.0)  $(0.8)  (34.0)
+Change in valuation allowance  7.1  13.3  1.4  168.4  0.4  15.3
+Change in income tax rate to 21%  8.8  16.6  —  —  —  —
+[NAME_265] expenses  2.2  4.1  0.5  53.7  1.0  42.4
+[NAME_266] to net operating loss carryforwards  —  —  —  —  (0.5)  (19.9)
+Other adjustments  (0.5)  (0.2)  (1.6)  (190.1)  (0.2)  (5.7)
+Income tax benefit  $  —  0.8  $  —  —  $  —  —
+14.  Loss per Share
+The computation of basic and diluted net loss per share for the periods indicated is as follows:
+Year Ended December
+Y0  Y-1  Y-1
+[NAME_267]:
+Net loss  $(50.8)  $(0.5)  $(2.3)
+[NAME_268]:
+Weighted-average common shares (in thousands) - diluted  26,974  24,628  19,318
+Basic and Diluted net loss per share  $(1.89)  $(0.02)  $(0.12)
+At December Y0, Y-1 and Y-2, we were contingently obligated to pay $0.1 million, $0.8 million and $0.5 million, which may be settled, at our option, in either cash or an equivalent amount of common shares based upon their then-current market value, if certain performance criteria had been met. The equivalent amount of common shares have been excluded from the computation of diluted net loss per share for the years ended December Y0, Y-1 and Y-2, as they were antidilutive.
+Included in the computation of basic net loss per share for the years ended December Y-1 and Y-2 were 53,335 and 292,967 potentially dilutive shares, respectively, representing $0.6 million and $6.1 million, respectively, of the total contingent obligation related to shares we unconditionally agreed to issue.
+At December Y0, Y-1 and Y-2, 24,875, 27,828 and 31,483 outstanding options, respectively, with an average exercise price of $32.36, $42.16 and $41.10, respectively, were not recognized in the diluted earnings per share calculation as they were antidilutive.
+15.  Stock-Based Compensation
+The Y-14 Plan
+On September Y-14, we adopted a stock option plan (the “Y-14 Plan”) that provided for the grant of incentive stock options and nonqualified stock options. The option price of incentive stock options were required to be at least 100% of market value at the date of the grant. Incentive stock options had a maximum term of 10 years. Options granted typically vested ratably over a three-year period or were based on achievement of performance criteria. We granted selected executives and other key employees share option awards, whose vesting was contingent upon meeting various departmental and company-wide performance goals including meeting sales targets and net profit targets. In March Y-8, we amended the Y-14 Plan to extend the post-service termination exercise period of non-statutory stock options granted to directors for their service as directors from three months after the director’s termination date to the tenth anniversary of the date of grant. The Y-14 Plan does not contain any provisions which would trigger automatic vesting upon a change in control. The Board has determined that no further awards will be made pursuant to the Y-14 Plan.
+The following table presents a summary of activity for the year ended December Y0:
+Number ofOptions  [NAME_269] Price  [NAME_270] Life
+Outstanding, January Y0  26,211  $42.16  2.84
+[NAME_271]  (2,781)  44.65
+Outstanding and expected to vest, December Y0  23,430  $41.87  2.42
+[NAME_272], December Y0  23,430  $41.87  2.42
+During the years ended December Y0 and Y-1, no options were issued. We issue new shares upon the exercise of options. Options outstanding at December Y0 had no intrinsic value. At December Y0, unrecognized compensation expense related to options was less than $0.1 million, which is expected to be recognized over a weighted-average period of one year.
+The Y-4 Plan
+Under our Y-4 Stock Incentive Plan, as amended (the “Y-4 Plan”), an aggregate of 2,070,240 shares (which includes an additional 646,950 shares approved by the shareholders on May Y0) of our common stock may be issued to officers, employees, non-employee directors and consultants of [COMPANY] and its affiliates. Awards under the Y-4 Plan may be in the form of stock options, which may constitute incentive stock options, or non-qualified stock options, restricted shares, restricted stock units, performance awards, stock bonus awards, share appreciation rights and other stock-based awards. Stock options will be issued at an exercise price not less than 100% of the market value at the date of grant and expire no later than ten years after the date of grant. Stock awards typically vest over three years but vesting periods for non-employees may be longer or based on the achievement of performance goals.
+Restricted Shares
+The following table presents a summary of activity for the year ended December Y0:
+Number ofShares  Weighted [NAME_273] Value
+Outstanding, January Y0  339,371  $6.89
+Vested  (128,135)  8.17
+[NAME_274]  (722)  16.24
+Outstanding and expected to vest, December Y0  210,514  $6.08
+At December Y0, there was $0.2 million of unrecognized compensation expense related to nonvested restricted shares, which is expected to be recognized over a weighted-average period of 1.9 years. During the years ended December Y-1 and Y-2, we granted 327,508 and 142,782 shares, respectively, at a weighted average grant date fair value of $5.89 and $12.53, respectively. The total fair value of restricted shares that vested during the years ended December Y0, Y-1 and Y-2 was $1.1 million, $1.2 million and $1.4 million, respectively.
+Restricted Share Units
+During the year ended December Y0, we granted restricted share units to employees which vest ratably over a three-year period. These awards are classified as equity awards, and are accounted for using the fair value established at the grant date.
+The following table presents a summary of activity for the year ended December Y0:
+Number ofUnits  Weighted [NAME_273] Value
+Outstanding, January Y0  124,818  $6.44
+Granted  331,030  6.78
+Vested  (214,460)  6.62
+[NAME_274]  (12,803)  6.78
+Outstanding and expected to vest, December Y0  228,584  $6.75
+At December Y0, there was $1.6 million of unrecognized compensation expense related to nonvested restricted share units, which is expected to be recognized over a weighted-average period of 2.7 years. The total fair value of restricted shares that vested during the year ended December Y0 was $1.5 million.
+16.  Defined [NAME_275] Plan
+We have established a 401(k) plan that permits participants to make contributions by salary reduction, and we match these contributions up to a predefined threshold. During the years ended December Y0, Y-1 and Y-2, compensation expense associated with our matching contribution was $0.4 million, $0.3 million and $0.2 million, respectively.
+17.  Related Party Transactions
+Chairman, Chief Executive Officer and President
+As of December Y0, our Chairman, Chief Executive Officer, and President has guaranteed $9.4 million of borrowings under our Revolving Credit Facility. See Note 9.
+[NAME_2], LLC
+On April Y-1, we entered into a $2.4 million amended and restated promissory note with [NAME_2], LLC (“[NAME_146]”), which bears interest at 9% annually and matures on April Y+2, which can be prepaid at our option. In May Y0, we amended the promissory note with [NAME_146] to include an additional $8.6 million of borrowings.
+In March Y0, [NAME_146] provided a $1.4 million advance that bears interest annually at 9%, which is included in “Related party notes payable” in the Consolidated Balance Sheets at December Y0. During Y0, we repaid $0.5 million of the advance. On November Y-1, [NAME_146] provided a $1.4 million advance that bore interest annually at 9%, which is included in “Related party notes payable” in the Consolidated Balance Sheets at December Y-1, and was repaid on January Y0 using proceeds from the amended Revolving Credit Facility.
+At December Y0 and Y-1, we had accrued interest of $0.1 million and $0.2 million, respectively. During the years ended December Y0, Y-1 and Y-2, we recorded interest expense related to financing agreements with [NAME_146] of $0.8 million, $0.2 million and $0.2 million, respectively.
+On January Y0, we ratified a management services agreement with [NAME_146] (the “Management Agreement”) to memorialize certain management services that [NAME_146] has been providing to us since [NAME_65] acquired majority control of our voting securities in September Y-5. Pursuant to the Management Agreement, [NAME_146] provides consulting services in connection with financing matters, budgeting, strategic planning and business development, including, without limitation, assisting us in (i) analyzing the operations and historical performance of target companies; (ii) analyzing and evaluating the transactions with such target companies; (iii) conducting financial, business and operational due diligence, and (iv) evaluating related structuring and other matters. In addition, two of the [NAME_146] members hold executive positions in [COMPANY], and receive no compensation. On May Y-1, we granted 323,475 shares of restricted stock to [NAME_146], which vest in three annual installments on May Y0, Y+1, and Y+2. The Audit Committee of the Board will consider from time to time (at a minimum at such times when the Compensation Committee of the Board evaluates director compensation) whether additional compensation to [NAME_146] is appropriate given the nature of the services provided.
+Our proportionate share of the space under the underlying lease, which we paid to [NAME_146], was $0.3 million during each of the years ended December Y0, Y-1 and Y-2.
+18. Segment, Geographic and [NAME_276] Information
+Our operations consist of one reportable segment for financial reporting purposes, Lighting Products and Solutions (principally LED fixtures and lamps), for which financial information is available and which is utilized on a regular basis by our Chief Executive Officer, who is our chief operating decision maker (“[NAME_277]”), to assess performance.
+Revenue by geographic location, based on location of customers, were as follows:
+Year Ended December
+Y0  Y-1  Y-2
+United States  $143.4  $162.0  $121.8
+Other  0.1  0.1  0.4
+Revenue  $143.5  $162.1  $122.2
+All long-lived assets were held at locations within the United States. [NAME_93] portion of our [NAME_73] and LED lighting products and systems are manufactured by select contract manufacturers. While we believe alternative manufacturers for the production of these products are available, we have selected these particular manufacturers based on their ability to consistently produce these products per our specifications ensuring the best quality product at the most cost effective price. We depend on these manufacturers to satisfy performance and quality specifications and to dedicate sufficient production capacity for finished products within scheduled delivery times. Accordingly, the loss of one or more of these manufacturers or delays in obtaining shipments could have a material adverse effect on our operations until such time as an alternative manufacturer could be found.
+19.  Acquisition of [NAME_10], LLC
+In May Y-1, we completed the acquisition of [NAME_70], a turnkey provider of LED lighting-based energy savings projects within the commercial, industrial, hospitality, retail, education and municipal sectors. The acquisition of [NAME_70] is expected to expand our footprint within key lighting retrofit markets in the United States. We believe this is a direct complementary fit with our division, [NAME_9], based in [NAME_169], [NAME_170]. In addition to its broad existing customer base, [NAME_70] is a contract vendor for the [NAME_280] Business Programs of northeast utility companies, with a defined territory of approximately 120 municipalities throughout [NAME_279]. We acquired [NAME_70] for its management team, its client base and operational and business development synergies.
+We accounted for the acquisition of [NAME_70] under ASC 805, Business Combinations (“ASC 805”), which requires recording assets and liabilities at fair value. Under the acquisition method of accounting, each tangible and separately identifiable intangible asset acquired and liabilities assumed were recorded based on their estimated fair values on the date of the acquisition.
+Consideration:
+Cash paid  $8.1
+Promissory note  1.9
+Contingent consideration  3.9
+Net Assets  $13.8
+Fair Value of Assets Acquired and Liabilities Assumed:
+Working capital, net  $0.8
+Goodwill (1)  7.4
+Intangible assets  5.6
+Net Assets  $13.8
+(1)  Since our initial valuation on the date of the acquisition, we recorded a $1.7 million increase to goodwill related to adjustments in working capital, including $0.1 million in the second quarter of Y0. Goodwill is expected to be deductible for income tax purposes.
+20.  Restructuring Activities
+In the fourth quarter of Y0, we announced a restructuring plan to further streamline our operations, eliminate redundancies at certain divisions and address certain operational functions. As part of the restructuring, we (i) consolidated the operations of three divisions into one, (ii) consolidated sales, purchasing, bidding and proposal and accounting functions, (iii) expanded and refocused our marketing resources, including changes to key management positions at certain divisions, and (iv) exited certain product lines and related operations, including the eliminations of a number of warehouse locations.
+In connection with this restructuring, we abandoned certain assets, including inventory of $8.7 million and certain discontinued customer accounts and other, totaling $14.1 million (net of expected recoveries), of which $8.7 million was recorded as part of “Cost of sales” in the Consolidated Statements of Operations. In addition, we recorded $1.8 million of accrued restructuring costs related to severance, outplacement and other employee costs, lease terminations and other relocation costs.
+Restructuring charges have been recorded in accordance with ASC 420-10, “Exit or Disposal Cost Obligations.” We account for one-time termination benefits, contract terminations and/or costs to terminate lease obligations less assumed sublease income in accordance with ASC 420-10, which addresses financial accounting and reporting for costs associated with restructuring activities. Under ASC 420-10, we established a liability for costs associated with an exit or disposal activity, including severance and lease termination obligations, and other related costs. We will reassess the expected cost to complete the exit or disposal activities at the end of each reporting period and adjusted our remaining estimated liabilities, if necessary. It is expected that the actions taken for this restructuring will be substantially completed by the end of the second quarter of Y+1.
+The actions taken for this restructuring will be substantially completed by the end of the first quarter of Y+1.
+21.  Quarterly Results of Operations ([NAME_281])
+The following represents our unaudited quarterly results for the years ended December Y0 and Y-1. These quarterly results were prepared in conformity with GAAP and reflect all adjustments that are, in the opinion of management, fair and necessary for a fair statement of results, and were of a normal recurring nature. The Y0 and Y-1 acquisitions are included in the quarterly consolidated results of operations from their respectively acquisition dates.
+[NAME_281] quarterly results for Y0:
+First Quarter  Second Quarter  Third Quarter  Fourth Quarter
+Revenues  $28.8  $40.9  $40.6  $33.2
+Gross profit  9.5  13.4  13.1  3.3
+Net loss  $(4.7)  $(0.7)  $(2.4)  $(43.0)
+Basic and diluted net loss per common share  $(0.17)  $(0.02)  $(0.09)  $(1.58)
+[NAME_281] quarterly results for Y-1:
+First Quarter  Second Quarter  Third Quarter  Fourth Quarter
+Revenues  $26.0  $40.6  $47.3  $48.2
+Gross profit  8.6  12.5  15.0  16.6
+Net income (loss)  $(2.4)  $(1.0)  $1.5  $1.5
+Basic and diluted net income (loss) per common share  $(0.12)  $(0.04)  $0.06  $0.06
+The sum of the quarterly per share amounts may not equal the annual per share amounts due to relative changes in the weighted average number of shares used to calculated net income (loss) per share.
+
+Item 9. Changes In and [NAME_54] with [NAME_55] on Accounting and Financial Disclosure
+[NAME_37].
+
+Item 9A. Controls and Procedures
+The certifications of our principal executive officer and principal financial officer in accordance with Rule 13a-14(a) under the Exchange Act are attached as exhibits to this Annual Report on Form 10-K. The disclosures set forth in this Item 9A contain information concerning the evaluation of our disclosure controls and procedures, and changes in our internal control over financial reporting referred to in paragraph 4 of such certifications. Such certifications should be read in conjunction with this Item 9A for a more complete understanding of the matters covered by the certifications.
+(a) Evaluation of disclosure controls and procedures
+We maintain disclosure controls and procedures (as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of Y-83, as amended) that are designed to ensure that information required to be disclosed in the reports we file under the Securities Exchange Act of Y-83, as amended, is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission’s rules and forms, and that such information is accumulated and communicated to our management, including our chief executive officer and chief financial officer as appropriate, to allow timely decisions regarding required disclosure.
+In designing and evaluating the disclosure controls and procedures, our management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives, and our management necessarily was required to apply its judgment in evaluating the cost-benefit relationship of possible controls and procedures. [NAME_148], our controls and procedures can be circumvented by the individual acts of some persons, by collusion of two or more people or by management override of the control and misstatements due to error or fraud may occur and not be detected on a timely basis.
+An evaluation was performed under the supervision and with the participation of our management, including our chief executive officer and chief financial officer, of the effectiveness of our disclosure controls and procedures as of the end of the period covered by this Annual Report on Form 10-K. Based on this evaluation, our management concluded that our disclosure controls and procedures were effective at a reasonable assurance level as of the end of the period covered by this report.
+(b) Management’s annual report on internal control over financial reporting
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting for our Company. Internal control over financial reporting is a process to provide reasonable assurance regarding the reliability of our financial reporting and the preparation of financial statements for external purposes in accordance with accounting principles generally accepted in the United States of America. Internal control over financial reporting includes maintaining records that in reasonable detail accurately and fairly reflect our transactions; providing reasonable assurance that transactions are recorded as necessary for preparation of our financial statements; providing reasonable assurance that receipts and expenditures of our assets are made in accordance with management’s authorization; and providing reasonable assurance that unauthorized acquisition, use or disposition of our assets that could have a material effect on the financial statements would be prevented or detected on a timely basis. Because of its inherent limitations, internal control over financial reporting is not intended to provide absolute assurance that a misstatement of our financial statements would be prevented or detected. [NAME_148], our controls and procedures can be circumvented by the individual acts of some persons, by collusion of two or more people or by management override of the control and misstatements due to error or fraud may occur and not be detected on a timely basis.
+Management conducted its evaluation of the effectiveness of our Company’s internal control over financial reporting based on the framework in Internal Control — [NAME_217] issued by the Committee of [NAME_218] of the [NAME_219]
+Commission in Y-4, and concluded that our Company’s internal control over financial reporting was effective as of December Y0.
+The effectiveness of our internal control over financial reporting as of December Y0 has been audited by [AUDITOR], an independent registered public accounting firm, as stated in their attestation report, which appears herein.
+(c) Changes in internal controls
+There was no change in our internal control over financial reporting that occurred during the quarter ended December Y0 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+
+Item 9B.  Other Information
+[NAME_37].
+PART III
