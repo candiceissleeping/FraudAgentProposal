@@ -1,5 +1,6 @@
 """Audit another Claude Code cloud session for web access. Run from the repo root; data goes to $AUDIT_DIR (default audit_store/).
-"""accumulate.py <tag> <saved_list_events_file> <cutoff_iso>
+
+accumulate.py <tag> <saved_list_events_file> <cutoff_iso>
 Appends the page's events to store/<tag>.jsonl (dedup by uuid) and prints one status line:
 NEXT before_id=<first_id> | oldest=<ts> | ...   or   STOP (reached cutoff / no more pages)."""
 import json, os, sys
