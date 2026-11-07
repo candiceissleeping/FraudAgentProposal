@@ -1,0 +1,170 @@
+[
+ {
+  "id": 1,
+  "company": "SAExploration Holdings, Inc.",
+  "risk_score": 95,
+  "knows_later_problems": true
+ },
+ {
+  "id": 2,
+  "company": "Plug Power Inc.",
+  "risk_score": 75,
+  "knows_later_problems": true
+ },
+ {
+  "id": 3,
+  "company": "AerSale Corporation",
+  "risk_score": 10,
+  "knows_later_problems": false
+ },
+ {
+  "id": 4,
+  "company": "Ideanomics, Inc.",
+  "risk_score": 65,
+  "knows_later_problems": true
+ },
+ {
+  "id": 5,
+  "company": "Thermon Group Holdings, Inc.",
+  "risk_score": 10,
+  "knows_later_problems": false
+ },
+ {
+  "id": 6,
+  "company": "GTT Communications, Inc.",
+  "risk_score": 92,
+  "knows_later_problems": true
+ },
+ {
+  "id": 7,
+  "company": "Ducommun Incorporated",
+  "risk_score": 8,
+  "knows_later_problems": false
+ },
+ {
+  "id": 8,
+  "company": "Evoqua Water Technologies Corp.",
+  "risk_score": 65,
+  "knows_later_problems": true
+ },
+ {
+  "id": 9,
+  "company": "Latch, Inc.",
+  "risk_score": 88,
+  "knows_later_problems": true
+ },
+ {
+  "id": 10,
+  "company": "National Presto Industries, Inc.",
+  "risk_score": 5,
+  "knows_later_problems": false
+ },
+ {
+  "id": 11,
+  "company": "TransAtlantic Petroleum Ltd.",
+  "risk_score": 15,
+  "knows_later_problems": false
+ },
+ {
+  "id": 12,
+  "company": "Mitek Systems, Inc.",
+  "risk_score": 15,
+  "knows_later_problems": false
+ },
+ {
+  "id": 13,
+  "company": "Gentex Corporation",
+  "risk_score": 3,
+  "knows_later_problems": false
+ },
+ {
+  "id": 14,
+  "company": "Consolidated Communications Holdings, Inc.",
+  "risk_score": 10,
+  "knows_later_problems": false
+ },
+ {
+  "id": 15,
+  "company": "Welbilt, Inc.",
+  "risk_score": 75,
+  "knows_later_problems": true
+ },
+ {
+  "id": 16,
+  "company": "Archer-Daniels-Midland Company",
+  "risk_score": 65,
+  "knows_later_problems": true
+ },
+ {
+  "id": 17,
+  "company": "PDS Biotechnology Corporation",
+  "risk_score": 10,
+  "knows_later_problems": false
+ },
+ {
+  "id": 18,
+  "company": "CPI Aerostructures, Inc.",
+  "risk_score": 90,
+  "knows_later_problems": true
+ },
+ {
+  "id": 19,
+  "company": "Malvern Bancshares, Inc.",
+  "risk_score": 50,
+  "knows_later_problems": true
+ },
+ {
+  "id": 20,
+  "company": "Adamis Pharmaceuticals Corporation",
+  "risk_score": 55,
+  "knows_later_problems": true
+ },
+ {
+  "id": 21,
+  "company": "Visteon Corporation",
+  "risk_score": 5,
+  "knows_later_problems": false
+ },
+ {
+  "id": 22,
+  "company": "TheMaven, Inc.",
+  "risk_score": 55,
+  "knows_later_problems": true
+ },
+ {
+  "id": 23,
+  "company": "Provident Financial Holdings, Inc.",
+  "risk_score": 5,
+  "knows_later_problems": false
+ },
+ {
+  "id": 24,
+  "company": "Becton, Dickinson and Company",
+  "risk_score": 25,
+  "knows_later_problems": true
+ },
+ {
+  "id": 25,
+  "company": "USA Technologies, Inc.",
+  "risk_score": 92,
+  "knows_later_problems": true
+ },
+ {
+  "id": 26,
+  "company": "Bunge Limited",
+  "risk_score": 5,
+  "knows_later_problems": false
+ },
+ {
+  "id": 27,
+  "company": "Boston Scientific Corporation",
+  "risk_score": 8,
+  "knows_later_problems": false
+ },
+ {
+  "id": 28,
+  "company": "AMMO, Inc.",
+  "risk_score": 65,
+  "knows_later_problems": true
+ }
+]

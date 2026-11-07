@@ -1,0 +1,211 @@
+{
+ "seed": 20261108,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "scores": [
+  {
+   "id": 1,
+   "company": "Latch, Inc.",
+   "risk_score": 92,
+   "knows_later_problems": true,
+   "basis": "Later restated 2021-2022 for revenue recognition errors; delayed filings, delisting and SEC scrutiny"
+  },
+  {
+   "id": 2,
+   "company": "Malvern Bancshares, Inc.",
+   "risk_score": 70,
+   "knows_later_problems": true,
+   "basis": "Recall FY2020 restatement tied to classification and impairment of a problem loan relationship; moderate confidence"
+  },
+  {
+   "id": 3,
+   "company": "USA Technologies, Inc.",
+   "risk_score": 95,
+   "knows_later_problems": true,
+   "basis": "Restated FY2017-2018 after audit committee probe; SEC enforcement against company and former executives"
+  },
+  {
+   "id": 4,
+   "company": "Archer-Daniels-Midland Company",
+   "risk_score": 75,
+   "knows_later_problems": true,
+   "basis": "Nutrition segment intersegment pricing issue; restated segment data for 2021-2023; SEC/DOJ probes"
+  },
+  {
+   "id": 5,
+   "company": "PDS Biotechnology Corporation",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Clinical-stage biotech with simple financials; no known issues"
+  },
+  {
+   "id": 6,
+   "company": "Becton, Dickinson and Company",
+   "risk_score": 30,
+   "knows_later_problems": true,
+   "basis": "SEC settlement over misleading Alaris pump risk disclosures around 2019-2020; disclosure issue rather than a restatement"
+  },
+  {
+   "id": 7,
+   "company": "Mitek Systems, Inc.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Later control and restatement problems around FY2022 do not, to my knowledge, affect FY2017"
+  },
+  {
+   "id": 8,
+   "company": "Boston Scientific Corporation",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Product-related securities suits only; no accounting restatement known"
+  },
+  {
+   "id": 9,
+   "company": "Visteon Corporation",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues for this period"
+  },
+  {
+   "id": 10,
+   "company": "Plug Power Inc.",
+   "risk_score": 90,
+   "knows_later_problems": true,
+   "basis": "2021 restatement of 2018-2019 financials (cost of service, leases, impairments); SEC inquiry"
+  },
+  {
+   "id": 11,
+   "company": "Bunge Limited",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues for FY2022"
+  },
+  {
+   "id": 12,
+   "company": "Ducommun Incorporated",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues"
+  },
+  {
+   "id": 13,
+   "company": "AMMO, Inc.",
+   "risk_score": 85,
+   "knows_later_problems": true,
+   "basis": "Undisclosed related-party and control issues; delayed filings and restatement around FY2023; SEC action"
+  },
+  {
+   "id": 14,
+   "company": "Thermon Group Holdings, Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues"
+  },
+  {
+   "id": 15,
+   "company": "GTT Communications, Inc.",
+   "risk_score": 92,
+   "knows_later_problems": true,
+   "basis": "Audit committee investigation; prior periods including 2019 deemed unreliable; SEC charges and bankruptcy"
+  },
+  {
+   "id": 16,
+   "company": "TheMaven, Inc.",
+   "risk_score": 55,
+   "knows_later_problems": false,
+   "basis": "Long-delayed filings and material weaknesses after acquisitions; no specific restatement known"
+  },
+  {
+   "id": 17,
+   "company": "Ideanomics, Inc.",
+   "risk_score": 65,
+   "knows_later_problems": true,
+   "basis": "SEC charged company and executives over misstatements around 2019-2020; weak controls; 2018 at elevated risk"
+  },
+  {
+   "id": 18,
+   "company": "Adamis Pharmaceuticals Corporation",
+   "risk_score": 60,
+   "knows_later_problems": true,
+   "basis": "Recall restatement of 2019-2020 periods related to its compounding subsidiary; moderate confidence"
+  },
+  {
+   "id": 19,
+   "company": "AerSale Corporation",
+   "risk_score": 12,
+   "knows_later_problems": false,
+   "basis": "Newly public SPAC merger company; no known restatement"
+  },
+  {
+   "id": 20,
+   "company": "Consolidated Communications Holdings, Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues"
+  },
+  {
+   "id": 21,
+   "company": "Provident Financial Holdings, Inc.",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "Small conservative thrift; no known issues"
+  },
+  {
+   "id": 22,
+   "company": "SAExploration Holdings, Inc.",
+   "risk_score": 97,
+   "knows_later_problems": true,
+   "basis": "Restated 2015-2018 for undisclosed related-party fraud; SEC and criminal charges"
+  },
+  {
+   "id": 23,
+   "company": "CPI Aerostructures, Inc.",
+   "risk_score": 95,
+   "knows_later_problems": true,
+   "basis": "Restated 2018 for revenue recognition errors; SEC enforcement"
+  },
+  {
+   "id": 24,
+   "company": "Gentex Corporation",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Clean record"
+  },
+  {
+   "id": 25,
+   "company": "National Presto Industries, Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Earlier SEC dispute over investment company status long resolved; no known FY2022 issues"
+  },
+  {
+   "id": 26,
+   "company": "Evoqua Water Technologies Corp.",
+   "risk_score": 25,
+   "knows_later_problems": false,
+   "basis": "Securities suit alleging misleading growth claims; no restatement known"
+  },
+  {
+   "id": 27,
+   "company": "Welbilt, Inc.",
+   "risk_score": 85,
+   "knows_later_problems": true,
+   "basis": "Restated 2018 and earlier quarters (tax and other errors); material weaknesses"
+  },
+  {
+   "id": 28,
+   "company": "TransAtlantic Petroleum Ltd.",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "Small distressed E&P company; no known restatement"
+  }
+ ]
+}

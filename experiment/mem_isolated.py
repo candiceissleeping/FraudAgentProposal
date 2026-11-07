@@ -194,6 +194,91 @@ def cmd_verify(args):
     sys.exit(1 if bad else 0)
 
 
+def _pairs_auc(s):
+    """s: {pid: score}. AUC (T vs C), bootstrap CI and within-pair wins / ties / losses."""
+    from experiment.edgar_risk.round3 import auc, auc_ci
+    pos = [v for k, v in s.items() if k.endswith("T")]
+    neg = [v for k, v in s.items() if k.endswith("C")]
+    w = t = l = 0
+    for k, v in s.items():
+        if k.endswith("T") and k[:-1] + "C" in s:
+            c = s[k[:-1] + "C"]
+            w, t, l = w + (v > c), t + (v == c), l + (v < c)
+    lo, hi = auc_ci(pos, neg)
+    return auc(pos, neg), lo, hi, w, t, l
+
+
+def _by_pid(entries, listing, key):
+    """Map a model reply (entries with id) to {pid: (score, knows)} using the listing the model was shown."""
+    names = {i: re.sub(r"\s+—\s+fiscal year.*$", "", re.sub(r"^\s*\d+\.\s*", "", l)).strip()
+             for i, l in enumerate([l for l in listing.splitlines() if l.strip()], 1)}
+    out = {}
+    for e in entries:
+        pid = key[names[int(e["id"])]]
+        out[pid] = (int(e["risk_score"]), bool(e["knows_later_problems"]))
+    if len(out) != len(key):
+        raise SystemExit(f"reply covers {len(out)} of {len(key)} companies")
+    return out
+
+
+def cmd_evaluate(args):
+    from experiment.edgar_risk.round8 import spearman
+    runs = sorted(glob.glob(f"{OUT}/run*.json"), key=lambda p: int(re.search(r"run(\d+)", p).group(1)))
+    # Gate: every raw log passes, and every raw log / reply is committed unchanged before labels are read.
+    for r in runs:
+        k = re.search(r"run(\d+)", r).group(1)
+        raw = f"{OUT}/raw/run{k}.jsonl"
+        if not verify(load_events(raw))["all_pass"]:
+            raise SystemExit(f"{raw} fails verification")
+        for p in (raw, r, f"{OUT}/inputs/run{k}.txt"):
+            if subprocess.run(["git", "diff", "--quiet", "HEAD", "--", p]).returncode or \
+                    subprocess.run(["git", "ls-files", "--error-unmatch", p], capture_output=True).returncode:
+                raise SystemExit(f"{p} is not committed unchanged; commit raw outputs before evaluating")
+    key = {}
+    for row in csv.DictReader(open(f"{OUT}/key.tsv", encoding="utf-8"), delimiter="\t"):
+        key[row["company"]] = row["pid"]
+    res = {}
+    for r in runs:
+        k = re.search(r"run(\d+)", r).group(1)
+        res[f"run{k}"] = _by_pid(json.load(open(r))["scores"], open(f"{OUT}/inputs/run{k}.txt").read(), key)
+    ref_in = open(INPUT, encoding="utf-8").read()
+    ref = {"claude.ai rerun 1": _by_pid(json.load(open(f"{OUT}/reference/claudeai_rerun1.json")), ref_in, key),
+           "claude.ai rerun 2": _by_pid(json.load(open(f"{OUT}/reference/claudeai_rerun2.json")), ref_in, key),
+           "round 8 original": {r["pid"]: (int(r["risk_score"]), r["knows_later_problems"] == "True")
+                                for r in csv.DictReader(open(f"{OUT}/reference/round8_MEM_original.csv"))}}
+    pids = sorted(key.values())
+    mean = {p: sum(v[p][0] for v in res.values()) / len(res) for p in pids}
+    orig = [ref["round 8 original"][p][0] for p in pids]
+    lines = ["# 第八輪 MEM 隔離重跑：結果", "",
+             f"{len(res)} 次 `claude -p --tools \"\"` 執行，全部通過 7 項無上網檢查（`verification.csv`），原始紀錄在算分前已 commit。", "",
+             "| 條件 | AUC | 95% CI | 組內勝 / 平 / 負 | 問題公司「知道出事」 | 對照公司「知道出事」 | 與原始 MEM 的 Spearman ρ |",
+             "|---|---|---|---|---|---|---|"]
+
+    def row(name, d):
+        a, lo, hi, w, t, l = _pairs_auc({p: d[p][0] for p in pids})
+        kt = sum(d[p][1] for p in pids if p.endswith("T")); kc = sum(d[p][1] for p in pids if p.endswith("C"))
+        rho = spearman([d[p][0] for p in pids], orig)
+        return f"| {name} | {a:.2f} | {lo:.2f}–{hi:.2f} | {w} / {t} / {l} | {kt}/14 | {kc}/14 | {rho:.2f} |"
+    lines += [row(n, d) for n, d in res.items()]
+    a, lo, hi, w, t, l = _pairs_auc(mean)
+    lines.append(f"| **隔離 {len(res)} 次平均分數** | **{a:.2f}** | {lo:.2f}–{hi:.2f} | {w} / {t} / {l} | | | "
+                 f"{spearman([mean[p] for p in pids], orig):.2f} |")
+    lines += [row(n, d) for n, d in ref.items()]
+    names = list(res)
+    rhos = [spearman([res[x][p][0] for p in pids], [res[y][p][0] for p in pids])
+            for i, x in enumerate(names) for y in names[i + 1:]]
+    if rhos:
+        lines += ["", f"隔離各次之間的 Spearman ρ：最低 {min(rhos):.2f}，中位數 {sorted(rhos)[len(rhos) // 2]:.2f}"]
+    lines += ["", "## 逐家（分數）", "", "| pid | 公司 | " + " | ".join(names) + " | 平均 | 原始 MEM |",
+              "|---|---|" + "---|" * (len(names) + 2)]
+    inv = {v: k for k, v in key.items()}
+    for p in pids:
+        lines.append(f"| {p} | {inv[p]} | " + " | ".join(str(res[n][p][0]) for n in names) +
+                     f" | {mean[p]:.0f} | {ref['round 8 original'][p][0]} |")
+    open(f"{OUT}/evaluation.md", "w", encoding="utf-8").write("\n".join(lines) + "\n")
+    print("\n".join(lines[:len(res) + len(ref) + 10]))
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = ap.add_subparsers(dest="cmd", required=True)
@@ -203,6 +288,7 @@ def main():
     r.add_argument("--input", default=INPUT); r.add_argument("--prompt", default=PROMPT); r.add_argument("--effort")
     r.set_defaults(fn=cmd_run)
     v = sub.add_parser("verify"); v.add_argument("paths", nargs="+"); v.set_defaults(fn=cmd_verify)
+    e = sub.add_parser("evaluate"); e.set_defaults(fn=cmd_evaluate)
     a = ap.parse_args()
     a.fn(a)
 

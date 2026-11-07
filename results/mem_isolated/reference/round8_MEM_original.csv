@@ -1,0 +1,29 @@
+pid,company,risk_score,knows_later_problems,basis
+P01C,AERSALE CORP,12,False,No known restatement or enforcement for FY2021; recently de-SPACed aviation aftermarket firm.
+P04T,Adamis,70,True,"Recall 2021 non-reliance/restatement of 2019-2020 financials tied to US Compounding subsidiary errors, plus SEC investigation."
+P03T,Ammo,72,True,"Recall special committee investigation, delayed filings and restatement of FY2023-era results; undisclosed related-party/executive issues and later SEC action."
+P02T,Archer-Daniels-Midland,55,True,"2024 Nutrition segment intersegment-sales issue led to restated segment results for 2018-2023, SEC/DOJ investigations; consolidated totals largely unaffected."
+P05C,BOSTON SCIENTIFIC CORP,6,False,Large established issuer; no known accounting problems for FY2019.
+P02C,BUNGELTD,6,False,Large agribusiness; no known accounting problems for FY2022.
+P05T,Becton Dickinson,30,True,SEC 2024 settlement over misleading disclosures about Alaris pump risks/remediation costs around FY2019-2020; disclosure issue rather than restatement.
+P08C,"CONSOLIDATED COMMUNICATIONS HOLDINGS, INC.",10,False,No known restatement or enforcement for FY2019.
+P07T,CPI Aerostructures,85,True,Announced in 2020 that 2018 and 2019 financials required restatement for revenue recognition errors; later SEC action.
+P07C,DUCOMMUN INC /DE/,8,False,No known accounting problems for FY2018.
+P13T,Evoqua Water,55,True,Recall securities litigation and SEC settlement over improper/premature revenue recognition around FY2017-2018.
+P08T,GTT Communications,88,True,"2020-21 non-reliance on 2019 financials due to telecom cost accounting/ capitalization issues; never restated, bankruptcy, SEC charges against former execs."
+P14T,Gentex,4,False,"Conservative, well-capitalized issuer; no known problems for FY2017."
+P06T,Ideanomics,60,True,History of material weaknesses and questionable related-party revenue; SEC charged company and executives in 2024 over disclosure/accounting misconduct.
+P01T,Latch,85,True,Restated 2021 and 2022 financials for revenue recognition and other errors; long delinquent filings and delisting.
+P11C,MITEK SYSTEMS INC,10,False,"No known restatement for FY2017 (later late-filing issues related to FY2022 stock comp accounting, not this period)."
+P10T,Malvern Bancorp,55,True,Recall restatement/10-K amendment of FY2020 results relating to classification/impairment of a problem loan.
+P03C,NATIONAL PRESTO INDUSTRIES INC,10,False,No known accounting problems for FY2022.
+P04C,PDS BIOTECHNOLOGY CORP,10,False,Clinical-stage biotech; no known accounting problems for FY2020.
+P10C,PROVIDENT FINANCIAL HOLDINGS INC,6,False,Small conservative thrift; no known accounting problems.
+P09T,Plug Power,80,True,"2021 restatement of 2018-2019 (and 2020 quarters) for lease, cost-of-service and impairment accounting errors; SEC inquiry."
+P12T,SAExploration,95,True,"Massive accounting fraud uncovered 2019; restated 2015-2018, SEC charged company and executives."
+P06C,"THEMAVEN, INC.",60,True,FY2018 10-K filed years late with material weaknesses; recall restatement of 2018 interim periods; SEC delinquency issues.
+P09C,"THERMON GROUP HOLDINGS, INC.",8,False,No known accounting problems for FY2020.
+P12C,TRANSATLANTIC PETROLEUM LTD.,18,False,Small Turkish E&P with related-party dealings; no known restatement for FY2018.
+P11T,USA Technologies,90,True,Restated FY2017-2018 for improper revenue recognition and other errors; SEC charged company and former executives.
+P14C,VISTEON CORP,6,False,No known accounting problems for FY2017.
+P13C,"WELBILT, INC.",65,True,Recall 2019 restatement of 2016-2018 financials (largely income tax accounting errors) and material weaknesses.

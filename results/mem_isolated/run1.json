@@ -1,0 +1,211 @@
+{
+ "seed": 20261107,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "scores": [
+  {
+   "id": 1,
+   "company": "Bunge Limited",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Large established agribusiness; no known restatement or enforcement for FY2022"
+  },
+  {
+   "id": 2,
+   "company": "SAExploration Holdings, Inc.",
+   "risk_score": 92,
+   "knows_later_problems": true,
+   "basis": "Restated 2015-2018 over undisclosed related-party scheme and inflated revenue; SEC fraud charges against company and executives"
+  },
+  {
+   "id": 3,
+   "company": "Consolidated Communications Holdings, Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "No known restatement or enforcement; leveraged telecom with impairment risk only"
+  },
+  {
+   "id": 4,
+   "company": "Latch, Inc.",
+   "risk_score": 85,
+   "knows_later_problems": true,
+   "basis": "Internal review of revenue recognition led to restatement of 2021 and later periods and long-delayed filings"
+  },
+  {
+   "id": 5,
+   "company": "Boston Scientific Corporation",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "No known restatement or enforcement for FY2019"
+  },
+  {
+   "id": 6,
+   "company": "Mitek Systems, Inc.",
+   "risk_score": 18,
+   "knows_later_problems": false,
+   "basis": "Later restatement and delayed filings concerned FY2021-2022 periods, not FY2017 as far as I know"
+  },
+  {
+   "id": 7,
+   "company": "TransAtlantic Petroleum Ltd.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Small E&P operating in Turkey; no known restatement"
+  },
+  {
+   "id": 8,
+   "company": "PDS Biotechnology Corporation",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Clinical-stage biotech with simple financials; no known issues"
+  },
+  {
+   "id": 9,
+   "company": "GTT Communications, Inc.",
+   "risk_score": 92,
+   "knows_later_problems": true,
+   "basis": "Audit committee investigation found cost accounting and expense misstatements; prior financials including 2019 deemed unreliable; SEC charges; bankruptcy"
+  },
+  {
+   "id": 10,
+   "company": "USA Technologies, Inc.",
+   "risk_score": 92,
+   "knows_later_problems": true,
+   "basis": "Restated FY2017-2018 over revenue recognition errors and misconduct; SEC charged company and former executives"
+  },
+  {
+   "id": 11,
+   "company": "Provident Financial Holdings, Inc.",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "Small thrift holding company; no known problems"
+  },
+  {
+   "id": 12,
+   "company": "Becton, Dickinson and Company",
+   "risk_score": 30,
+   "knows_later_problems": true,
+   "basis": "SEC settled charges in 2024 over misleading disclosures about Alaris infusion pump risks during 2019-2020; disclosure-related rather than a restatement"
+  },
+  {
+   "id": 13,
+   "company": "AMMO, Inc.",
+   "risk_score": 82,
+   "knows_later_problems": true,
+   "basis": "Special committee investigation into undisclosed related-party transactions and executive misconduct; restatement covering FY2023-2024 and delayed filings; SEC investigation"
+  },
+  {
+   "id": 14,
+   "company": "Ideanomics, Inc.",
+   "risk_score": 70,
+   "knows_later_problems": true,
+   "basis": "SEC charged the company and former executives over misleading statements and accounting issues; history of questionable revenue and governance"
+  },
+  {
+   "id": 15,
+   "company": "Archer-Daniels-Midland Company",
+   "risk_score": 65,
+   "knows_later_problems": true,
+   "basis": "Nutrition segment intersegment sales issues led to restated segment data for 2018-2023, plus SEC and DOJ investigations"
+  },
+  {
+   "id": 16,
+   "company": "CPI Aerostructures, Inc.",
+   "risk_score": 92,
+   "knows_later_problems": true,
+   "basis": "Restated 2018 and 2019 for revenue recognition errors; SEC charges against the company and former executives"
+  },
+  {
+   "id": 17,
+   "company": "Visteon Corporation",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known restatement or enforcement for FY2017"
+  },
+  {
+   "id": 18,
+   "company": "AerSale Corporation",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Recent SPAC listing; no known restatement for FY2021 beyond common SPAC warrant reclassification"
+  },
+  {
+   "id": 19,
+   "company": "Ducommun Incorporated",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known problems"
+  },
+  {
+   "id": 20,
+   "company": "Evoqua Water Technologies Corp.",
+   "risk_score": 22,
+   "knows_later_problems": false,
+   "basis": "Securities class action over IPO-era guidance and disclosures; no known restatement"
+  },
+  {
+   "id": 21,
+   "company": "National Presto Industries, Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Conservative company; no known restatement"
+  },
+  {
+   "id": 22,
+   "company": "Adamis Pharmaceuticals Corporation",
+   "risk_score": 50,
+   "knows_later_problems": true,
+   "basis": "Internal investigation, SEC inquiry and material weakness issues around 2020-2021; I believe some periods were restated; small-cap with turbulent governance"
+  },
+  {
+   "id": 23,
+   "company": "Thermon Group Holdings, Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known problems"
+  },
+  {
+   "id": 24,
+   "company": "Plug Power Inc.",
+   "risk_score": 85,
+   "knows_later_problems": true,
+   "basis": "2021 restatement of 2018-2019 and 2020 quarters over lease accounting, cost classification and impairments; material weaknesses; SEC inquiry"
+  },
+  {
+   "id": 25,
+   "company": "Welbilt, Inc.",
+   "risk_score": 85,
+   "knows_later_problems": true,
+   "basis": "Restated 2016-2018 and 2019 quarters over accounting errors including income tax and other items; material weaknesses"
+  },
+  {
+   "id": 26,
+   "company": "Gentex Corporation",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Conservative, cash-rich company; no known problems"
+  },
+  {
+   "id": 27,
+   "company": "TheMaven, Inc.",
+   "risk_score": 70,
+   "knows_later_problems": true,
+   "basis": "FY2018 10-K filed about a year late amid acquisition accounting complexity and material weaknesses; SEC delinquency issues"
+  },
+  {
+   "id": 28,
+   "company": "Malvern Bancshares, Inc.",
+   "risk_score": 70,
+   "knows_later_problems": true,
+   "basis": "Restated FY2020-era results over loan classification and impairment accounting for problem commercial loans"
+  }
+ ]
+}
