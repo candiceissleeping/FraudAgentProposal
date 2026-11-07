@@ -1,0 +1,211 @@
+{
+ "seed": 20261110,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "scores": [
+  {
+   "id": 1,
+   "company": "Plug Power Inc.",
+   "risk_score": 85,
+   "knows_later_problems": true,
+   "basis": "In 2021 it restated 2018-2020 financials (lease/PPA accounting, impairments, cost of goods); later SEC settlement"
+  },
+  {
+   "id": 2,
+   "company": "SAExploration Holdings, Inc.",
+   "risk_score": 95,
+   "knows_later_problems": true,
+   "basis": "Restated 2015-2018 over undisclosed related-party scheme; SEC fraud charges against company and executives"
+  },
+  {
+   "id": 3,
+   "company": "AMMO, Inc.",
+   "risk_score": 70,
+   "knows_later_problems": true,
+   "basis": "Special committee probe into undisclosed related-party/insider influence; restatement and delayed filings for the FY2023-era periods"
+  },
+  {
+   "id": 4,
+   "company": "PDS Biotechnology Corporation",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Clinical-stage biotech with simple financials; no known accounting issues"
+  },
+  {
+   "id": 5,
+   "company": "Ideanomics, Inc.",
+   "risk_score": 55,
+   "knows_later_problems": true,
+   "basis": "Aggressive revenue claims; SEC later charged the company and execs over misleading statements and accounting; later restatements (2021-22)"
+  },
+  {
+   "id": 6,
+   "company": "Thermon Group Holdings, Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known restatement or enforcement"
+  },
+  {
+   "id": 7,
+   "company": "Becton, Dickinson and Company",
+   "risk_score": 30,
+   "knows_later_problems": true,
+   "basis": "2024 SEC settlement over misleading Alaris pump disclosures/accounting for 2019-2020; no full restatement"
+  },
+  {
+   "id": 8,
+   "company": "Consolidated Communications Holdings, Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues"
+  },
+  {
+   "id": 9,
+   "company": "AerSale Corporation",
+   "risk_score": 12,
+   "knows_later_problems": false,
+   "basis": "Post-SPAC; no known restatement for 2021"
+  },
+  {
+   "id": 10,
+   "company": "Boston Scientific Corporation",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues for 2019"
+  },
+  {
+   "id": 11,
+   "company": "Ducommun Incorporated",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues"
+  },
+  {
+   "id": 12,
+   "company": "Welbilt, Inc.",
+   "risk_score": 85,
+   "knows_later_problems": true,
+   "basis": "2019 restatement of 2016-2018 financials (tax accounting and other errors); material weaknesses"
+  },
+  {
+   "id": 13,
+   "company": "Latch, Inc.",
+   "risk_score": 85,
+   "knows_later_problems": true,
+   "basis": "Revenue recognition investigation; restated 2021 and later periods; prolonged delinquent filings"
+  },
+  {
+   "id": 14,
+   "company": "USA Technologies, Inc.",
+   "risk_score": 90,
+   "knows_later_problems": true,
+   "basis": "Restated FY2017 and prior; SEC charged the company and former executives over improper revenue recognition"
+  },
+  {
+   "id": 15,
+   "company": "Gentex Corporation",
+   "risk_score": 4,
+   "knows_later_problems": false,
+   "basis": "Conservative accounting; no known issues"
+  },
+  {
+   "id": 16,
+   "company": "Evoqua Water Technologies Corp.",
+   "risk_score": 60,
+   "knows_later_problems": true,
+   "basis": "SEC 2022 settlement over improper revenue recognition and disclosures around 2017-2018"
+  },
+  {
+   "id": 17,
+   "company": "Adamis Pharmaceuticals Corporation",
+   "risk_score": 65,
+   "knows_later_problems": true,
+   "basis": "Restated 2019-2020 financials (US Compounding-related accounting); material weaknesses; delayed 2020 10-K"
+  },
+  {
+   "id": 18,
+   "company": "CPI Aerostructures, Inc.",
+   "risk_score": 90,
+   "knows_later_problems": true,
+   "basis": "Restated 2018 and quarterly periods over revenue recognition errors; SEC action"
+  },
+  {
+   "id": 19,
+   "company": "Bunge Limited",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues for 2022"
+  },
+  {
+   "id": 20,
+   "company": "TransAtlantic Petroleum Ltd.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Small E&P company; no known restatement"
+  },
+  {
+   "id": 21,
+   "company": "Mitek Systems, Inc.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Later restatement covered FY2022-era periods, not FY2017"
+  },
+  {
+   "id": 22,
+   "company": "TheMaven, Inc.",
+   "risk_score": 55,
+   "knows_later_problems": true,
+   "basis": "Severely delayed 2018 10-K; material weaknesses after acquisitions"
+  },
+  {
+   "id": 23,
+   "company": "Archer-Daniels-Midland Company",
+   "risk_score": 45,
+   "knows_later_problems": true,
+   "basis": "Nutrition segment intersegment pricing probe; restated segment data for 2018-2023; SEC/DOJ inquiry"
+  },
+  {
+   "id": 24,
+   "company": "Provident Financial Holdings, Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 25,
+   "company": "Malvern Bancshares, Inc.",
+   "risk_score": 75,
+   "knows_later_problems": true,
+   "basis": "Restated FY2020 over loan impairment/classification accounting"
+  },
+  {
+   "id": 26,
+   "company": "GTT Communications, Inc.",
+   "risk_score": 90,
+   "knows_later_problems": true,
+   "basis": "Audit committee probe found improper accounting (cost of telecom services, etc.); restatement; bankruptcy; SEC investigation"
+  },
+  {
+   "id": 27,
+   "company": "Visteon Corporation",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues for 2017"
+  },
+  {
+   "id": 28,
+   "company": "National Presto Industries, Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Conservative company; no known restatement"
+  }
+ ]
+}

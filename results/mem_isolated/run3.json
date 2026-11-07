@@ -1,0 +1,211 @@
+{
+ "seed": 20261109,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "scores": [
+  {
+   "id": 1,
+   "company": "USA Technologies, Inc.",
+   "risk_score": 90,
+   "knows_later_problems": true,
+   "basis": "Restated FY2017-2018 after an audit committee investigation into revenue and other accounting; SEC enforcement against the company and former executives"
+  },
+  {
+   "id": 2,
+   "company": "Malvern Bancshares, Inc.",
+   "risk_score": 65,
+   "knows_later_problems": true,
+   "basis": "Recall a restatement of fiscal 2020 results tied to loan classification and impairment accounting; moderate confidence"
+  },
+  {
+   "id": 3,
+   "company": "Latch, Inc.",
+   "risk_score": 88,
+   "knows_later_problems": true,
+   "basis": "Internal review of revenue recognition led to restatement of 2021 and later periods and long-delayed filings"
+  },
+  {
+   "id": 4,
+   "company": "CPI Aerostructures, Inc.",
+   "risk_score": 90,
+   "knows_later_problems": true,
+   "basis": "Restated 2018 and 2019 for revenue recognition errors on contracts; SEC enforcement followed"
+  },
+  {
+   "id": 5,
+   "company": "Boston Scientific Corporation",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Large, well-audited company; no known restatement for 2019"
+  },
+  {
+   "id": 6,
+   "company": "Bunge Limited",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues for 2022"
+  },
+  {
+   "id": 7,
+   "company": "TheMaven, Inc.",
+   "risk_score": 55,
+   "knows_later_problems": true,
+   "basis": "2018 10-K filed very late, with material weaknesses and acquisition accounting complexity; some subsequent corrections"
+  },
+  {
+   "id": 8,
+   "company": "TransAtlantic Petroleum Ltd.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "No known restatement"
+  },
+  {
+   "id": 9,
+   "company": "Visteon Corporation",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known issues for 2017"
+  },
+  {
+   "id": 10,
+   "company": "Provident Financial Holdings, Inc.",
+   "risk_score": 7,
+   "knows_later_problems": false,
+   "basis": "Small thrift with no known issues"
+  },
+  {
+   "id": 11,
+   "company": "Gentex Corporation",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Conservative accounting; no known issues"
+  },
+  {
+   "id": 12,
+   "company": "AerSale Corporation",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "Post-SPAC company; no known restatement for 2021"
+  },
+  {
+   "id": 13,
+   "company": "Becton, Dickinson and Company",
+   "risk_score": 40,
+   "knows_later_problems": true,
+   "basis": "SEC charges in 2024 over misleading Alaris pump disclosures around FY2019-2020; disclosure issues rather than a full restatement"
+  },
+  {
+   "id": 14,
+   "company": "PDS Biotechnology Corporation",
+   "risk_score": 12,
+   "knows_later_problems": false,
+   "basis": "Clinical-stage biotech with simple financials"
+  },
+  {
+   "id": 15,
+   "company": "Evoqua Water Technologies Corp.",
+   "risk_score": 60,
+   "knows_later_problems": true,
+   "basis": "SEC settlement (2022) over improper revenue recognition in fiscal 2017-2018"
+  },
+  {
+   "id": 16,
+   "company": "Ducommun Incorporated",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 17,
+   "company": "Ideanomics, Inc.",
+   "risk_score": 70,
+   "knows_later_problems": true,
+   "basis": "Questionable revenue in the 2018-2019 era; SEC charges against the company and executives for misstatements; later restatements"
+  },
+  {
+   "id": 18,
+   "company": "Welbilt, Inc.",
+   "risk_score": 85,
+   "knows_later_problems": true,
+   "basis": "Restated 2016-2018 financials in 2019 for accounting errors including tax and other items; material weaknesses"
+  },
+  {
+   "id": 19,
+   "company": "SAExploration Holdings, Inc.",
+   "risk_score": 97,
+   "knows_later_problems": true,
+   "basis": "Restated 2015-2019 for an undisclosed related-party scheme; SEC fraud charges; bankruptcy"
+  },
+  {
+   "id": 20,
+   "company": "AMMO, Inc.",
+   "risk_score": 60,
+   "knows_later_problems": true,
+   "basis": "Special committee investigation over an undisclosed de facto executive and related-party matters; delayed filings; SEC action"
+  },
+  {
+   "id": 21,
+   "company": "Mitek Systems, Inc.",
+   "risk_score": 12,
+   "knows_later_problems": false,
+   "basis": "Later restatement issues concerned FY2022-era periods, not FY2017"
+  },
+  {
+   "id": 22,
+   "company": "Consolidated Communications Holdings, Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 23,
+   "company": "Thermon Group Holdings, Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 24,
+   "company": "Adamis Pharmaceuticals Corporation",
+   "risk_score": 60,
+   "knows_later_problems": true,
+   "basis": "Delayed 2020 10-K and restatement of prior periods tied to the US Compounding subsidiary; SEC investigation; moderate confidence"
+  },
+  {
+   "id": 25,
+   "company": "National Presto Industries, Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "No known issues for 2022"
+  },
+  {
+   "id": 26,
+   "company": "Archer-Daniels-Midland Company",
+   "risk_score": 55,
+   "knows_later_problems": true,
+   "basis": "Nutrition segment intersegment pricing investigation in 2024; corrected segment reporting for 2018-2023; SEC/DOJ inquiries"
+  },
+  {
+   "id": 27,
+   "company": "Plug Power Inc.",
+   "risk_score": 85,
+   "knows_later_problems": true,
+   "basis": "Restated 2018-2020 in 2021 for lease, service-loss and other accounting errors; SEC investigation"
+  },
+  {
+   "id": 28,
+   "company": "GTT Communications, Inc.",
+   "risk_score": 95,
+   "knows_later_problems": true,
+   "basis": "Audit committee found improper accounting for 2018-2020; prior financials declared unreliable; delisting and bankruptcy"
+  }
+ ]
+}
