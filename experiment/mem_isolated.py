@@ -221,8 +221,27 @@ def _by_pid(entries, listing, key):
     return out
 
 
+def spearman(x, y):
+    """Spearman rank correlation (average ranks for ties); same as round8.spearman on the round 8 branch."""
+    def rank(v):
+        order = sorted(range(len(v)), key=lambda i: v[i])
+        r, i = [0.0] * len(v), 0
+        while i < len(v):
+            j = i
+            while j + 1 < len(v) and v[order[j + 1]] == v[order[i]]:
+                j += 1
+            for k in range(i, j + 1):
+                r[order[k]] = (i + j) / 2
+            i = j + 1
+        return r
+    rx, ry = rank(x), rank(y)
+    mx, my = sum(rx) / len(rx), sum(ry) / len(ry)
+    num = sum((a - mx) * (b - my) for a, b in zip(rx, ry))
+    den = (sum((a - mx) ** 2 for a in rx) * sum((b - my) ** 2 for b in ry)) ** 0.5
+    return num / den if den else float("nan")
+
+
 def cmd_evaluate(args):
-    from experiment.edgar_risk.round8 import spearman
     runs = sorted(glob.glob(f"{OUT}/run*.json"), key=lambda p: int(re.search(r"run(\d+)", p).group(1)))
     # Gate: every raw log passes, and every raw log / reply is committed unchanged before labels are read.
     for r in runs:
