@@ -1,0 +1,55 @@
+pid,company,risk_score,knows_later_problems,basis
+O05T,American Resources Corp,50,False,"Distressed microcap coal/critical-minerals company with going-concern doubt, heavy related-party dealings and weak controls; no specific restatement for FY2025 known."
+O12C,"Artiva Biotherapeutics, Inc.",8,False,"Recently IPO'd clinical-stage biotech; simple cash-burn financials, no known accounting issues."
+O22C,BLUE DOLPHIN ENERGY CO,30,False,Small refiner with extensive related-party transactions (Kenlan/Lazarus) and history of going-concern and control weaknesses; nothing specific for FY2025.
+O15C,"BONK, INC.",50,False,"Formerly Safety Shot; pivot to memecoin treasury, volatile digital-asset valuation, microcap with weak controls; no known restatement."
+O02T,BayFirst Financial Corp.,20,False,"Community bank with SBA lending credit losses and strategic shift in 2025; allowance estimates add some risk, no known misstatement."
+O16T,"Brownie's Marine Group, Inc",35,False,Small OTC company with material weaknesses and going-concern history; no specific FY2025 problem known.
+O08T,CREDITRISKMONITOR COM INC,8,False,"Small, stable subscription business with simple accounting; no known issues."
+O11T,Capstone Holding Corp.,30,False,"Small building-products holding company (TotalStone) recently uplisted; limited scale and controls, no known issues."
+O20C,"Crexendo, Inc.",12,False,Profitable small-cap UCaaS provider; no known accounting problems.
+O17C,DUKE Robotics Corp.,30,False,Small Israeli drone company (formerly UAS Drone) with minimal revenue and small-company control risk; no known issues.
+O26T,Datavault AI Inc.,45,False,"Formerly WiSA Technologies; serial dilution, promotional AI/tokenization claims, IP-related acquisitions and intangible valuation risk; no known restatement."
+O22T,EON Resources Inc.,40,False,"De-SPAC oil producer (formerly HNR Acquisition) with material weaknesses, disputes with sellers and going-concern pressure."
+O18C,"ESS Tech, Inc.",20,False,De-SPAC flow-battery maker with going-concern doubt and restructuring; impairment judgments but no known misstatement.
+O01T,FutureTech II Acquisition Corp.,25,False,"SPAC with extensions and sponsor-funded trust deposits; typical SPAC control weaknesses, no known misstatement."
+O25C,"Galaxy Gaming, Inc.",10,False,"Casino table-game licensor being acquired by Evolution; stable licensing revenue, no known issues."
+O20T,GlobalTech Corp,45,False,"US holding company for Pakistan telecom WorldCall; complex foreign operations, related parties and limited audit transparency."
+O23T,"Globaltek Ventures, Inc.",40,False,Obscure OTC microcap with little public information; generic shell-like risk.
+O24T,"GoPro, Inc.",8,False,Established large-company reporter with declining sales but no known accounting issues.
+O11C,"Greenlane Holdings, Inc.",35,False,Distressed cannabis-accessory distributor that pivoted to a crypto treasury in 2025; big dilution and valuation risk.
+O09C,"Greenwave Technology Solutions, Inc.",45,False,"Scrap-metal microcap with heavy dilution, related-party dealings, material weaknesses and governance concerns."
+O13T,HCW Biologics Inc.,25,False,"Small biotech with litigation/arbitration, going-concern doubt and reverse splits; no known misstatement."
+O03T,"HIGH WIRE NETWORKS, INC.",40,False,"OTC cybersecurity/managed-services microcap with divestitures, derivative liabilities and material weaknesses."
+O25T,"High Roller Technologies, Inc.",25,False,Recent small IPO online casino operator with losses and regulatory exposure; no known accounting issues.
+O24C,IMAX CORP,6,False,Established mid-cap with Big Four audit; no known issues for this period.
+O13C,KIORA PHARMACEUTICALS INC,12,False,Small clinical-stage biotech funded by partnership payments; simple financials.
+O03C,"KonaTel, Inc.",25,False,"Small Lifeline/ACP telecom provider hit by ACP end; government-program revenue risk, no known misstatement."
+O19C,Liberty Global Ltd.,8,False,Large telecom holding company with complex but well-audited accounting; no known issues.
+O14C,"Marygold Companies, Inc.",15,False,"Small diversified holding company (USCF fund management); modest risk, no known issues."
+O05C,NACCO INDUSTRIES INC,6,False,Long-established mining services company; no known accounting issues.
+O14T,Netcapital Inc.,55,False,"Crowdfunding platform carrying large balances of illiquid equity received as fees at questionable valuations, with large subsequent impairments and going-concern doubt."
+O06T,"New ERA Energy & Digital, Inc.",50,False,"Formerly New Era Helium (de-SPAC); promotional data-center/helium pivot, reserve and asset valuation questions, short-seller scrutiny."
+O16C,"Newton Golf Company, Inc.",25,False,Formerly Sacks Parente Golf; small recent IPO with losses and small-company control risk.
+O10T,Northann Corp.,40,False,"Small China-linked vinyl flooring maker with recent IPO, related parties and going-concern risk."
+O18T,"Nuburu, Inc.",45,False,"De-SPAC laser maker with going-concern doubt, toxic financing and acquisitions in unrelated areas; elevated control risk."
+O09T,OLENOX INDUSTRIES INC.,50,False,Obscure energy microcap formed via reverse merger; limited disclosure and asset valuation risk.
+O08C,OMNIQ Corp.,50,False,"Delisted AI/supply-chain company with severe going-concern issues, defaults and material weaknesses."
+O23C,Omnitek Engineering Corp,25,False,Tiny OTC engine-conversion company; small-company control risk only.
+O19T,"Optimum Communications, Inc.",10,False,"Rebranded Altice USA; large highly levered cable operator with Big Four audit, no known accounting issues."
+O21C,"PIXELWORKS, INC",12,False,Established small-cap semiconductor firm; divestiture of China subsidiary adds complexity but no known issues.
+O27T,Panamera Holdings Corp,45,False,Obscure OTC shell-like company with minimal operations and little information.
+O26C,"Paysign, Inc.",15,False,"Prior restatement/material weaknesses and SEC matter related to 2018-2019 periods; remediated since, nothing known for FY2025."
+O12T,Pelthos Therapeutics Inc.,20,False,"Newly formed via Channel Therapeutics/LNHC merger launching Zelsuvmi; merger accounting complexity, no known issues."
+O27C,Protopia Global Holdings Inc.,45,False,Obscure microcap with little public information; generic small-issuer risk.
+O17T,"SDR Drone, Inc.",40,False,Obscure small drone company with little public information.
+O15T,"SOLESENCE, INC.",15,False,"Formerly Nanophase; small manufacturer with long reporting history and related-party financing, no known issues."
+O07T,"Securetech Innovations, Inc.",35,False,Tiny OTC company with minimal revenue; small-company control risk.
+O02C,"Skyline Bankshares, Inc.",6,False,Community bank holding company; no known issues.
+O21T,Sports Entertainment Gaming Global Corp,45,False,Obscure OTC microcap with little public information; shell-like risk.
+O04T,"Trans American Aquaculture, Inc",50,False,"Tiny OTC shrimp-farming startup with going-concern doubt, convertible financing and weak controls."
+O06C,Trio Petroleum Corp,35,False,"Small oil explorer with going-concern doubt, impairment and dilution; no known misstatement."
+O04C,"U. S. Premium Beef, LLC",5,False,Cooperative holding interest in National Beef; simple equity-method financials.
+O01C,WINDTREE THERAPEUTICS INC /DE/,40,False,"Distressed biotech with heavy dilution, intangible impairments and later crypto-treasury pivot and delisting."
+O07C,Worksport Ltd,25,False,Small truck-accessory maker with losses and dilution; no known accounting issues.
+O10C,YUNHONG GREEN CTI LTD.,40,False,"Formerly CTI Industries; history of restatement and material weaknesses, China-linked controlling shareholder."

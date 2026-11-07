@@ -24,6 +24,10 @@ Usage
   python -m experiment.mem_isolated canary                       # positive control + post-cutoff question
   python -m experiment.mem_isolated run --runs 5 --seed 20261106 # MEM runs, shuffled list per run
   python -m experiment.mem_isolated verify results/mem_isolated/raw/*.jsonl
+  python -m experiment.mem_isolated evaluate                      # after raw runs are committed
+  Out-of-time sample (round 9, 27 pairs of 8-K Item 4.02 filers, events after the model's cutoff):
+  python -m experiment.mem_isolated run --out results/mem_isolated_oot --input data/mem_isolated_oot/input_round9.txt \
+      --prompt data/mem_isolated_oot/prompt.md --runs 5 --seed 20261107
 """
 import argparse
 import csv
@@ -241,6 +245,20 @@ def spearman(x, y):
     return num / den if den else float("nan")
 
 
+def _references(key):
+    """Comparison runs in OUT/reference: claude.ai reruns (round 8 only) and *_MEM_original.csv files."""
+    ref = {}
+    for k in (1, 2):
+        p = f"{OUT}/reference/claudeai_rerun{k}.json"
+        if os.path.exists(p):
+            ref[f"claude.ai rerun {k}"] = _by_pid(json.load(open(p)), open(INPUT, encoding="utf-8").read(), key)
+    for p in sorted(glob.glob(f"{OUT}/reference/*_MEM_original.csv")):
+        label = re.sub(r"round(\d+)", r"round \1", os.path.basename(p).replace("_MEM_original.csv", "")) + " original"
+        ref[label] = {r["pid"]: (int(r["risk_score"]), r["knows_later_problems"] == "True")
+                      for r in csv.DictReader(open(p, encoding="utf-8"))}
+    return ref
+
+
 def cmd_evaluate(args):
     runs = sorted(glob.glob(f"{OUT}/run*.json"), key=lambda p: int(re.search(r"run(\d+)", p).group(1)))
     # Gate: every raw log passes, and every raw log / reply is committed unchanged before labels are read.
@@ -260,15 +278,13 @@ def cmd_evaluate(args):
     for r in runs:
         k = re.search(r"run(\d+)", r).group(1)
         res[f"run{k}"] = _by_pid(json.load(open(r))["scores"], open(f"{OUT}/inputs/run{k}.txt").read(), key)
-    ref_in = open(INPUT, encoding="utf-8").read()
-    ref = {"claude.ai rerun 1": _by_pid(json.load(open(f"{OUT}/reference/claudeai_rerun1.json")), ref_in, key),
-           "claude.ai rerun 2": _by_pid(json.load(open(f"{OUT}/reference/claudeai_rerun2.json")), ref_in, key),
-           "round 8 original": {r["pid"]: (int(r["risk_score"]), r["knows_later_problems"] == "True")
-                                for r in csv.DictReader(open(f"{OUT}/reference/round8_MEM_original.csv"))}}
+    ref = _references(key)
+    base = next(n for n in ref if n.endswith("original"))   # the original MEM run of that round
     pids = sorted(key.values())
+    npair = sum(p.endswith("T") for p in pids)
     mean = {p: sum(v[p][0] for v in res.values()) / len(res) for p in pids}
-    orig = [ref["round 8 original"][p][0] for p in pids]
-    lines = ["# 第八輪 MEM 隔離重跑：結果", "",
+    orig = [ref[base][p][0] for p in pids]
+    lines = [f"# {args.title}：結果", "",
              f"{len(res)} 次 `claude -p --tools \"\"` 執行，全部通過 7 項無上網檢查（`verification.csv`），原始紀錄在算分前已 commit。", "",
              "| 條件 | AUC | 95% CI | 組內勝 / 平 / 負 | 問題公司「知道出事」 | 對照公司「知道出事」 | 與原始 MEM 的 Spearman ρ |",
              "|---|---|---|---|---|---|---|"]
@@ -277,7 +293,7 @@ def cmd_evaluate(args):
         a, lo, hi, w, t, l = _pairs_auc({p: d[p][0] for p in pids})
         kt = sum(d[p][1] for p in pids if p.endswith("T")); kc = sum(d[p][1] for p in pids if p.endswith("C"))
         rho = spearman([d[p][0] for p in pids], orig)
-        return f"| {name} | {a:.2f} | {lo:.2f}–{hi:.2f} | {w} / {t} / {l} | {kt}/14 | {kc}/14 | {rho:.2f} |"
+        return f"| {name} | {a:.2f} | {lo:.2f}–{hi:.2f} | {w} / {t} / {l} | {kt}/{npair} | {kc}/{npair} | {rho:.2f} |"
     lines += [row(n, d) for n, d in res.items()]
     a, lo, hi, w, t, l = _pairs_auc(mean)
     lines.append(f"| **隔離 {len(res)} 次平均分數** | **{a:.2f}** | {lo:.2f}–{hi:.2f} | {w} / {t} / {l} | | | "
@@ -293,8 +309,9 @@ def cmd_evaluate(args):
     inv = {v: k for k, v in key.items()}
     for p in pids:
         lines.append(f"| {p} | {inv[p]} | " + " | ".join(str(res[n][p][0]) for n in names) +
-                     f" | {mean[p]:.0f} | {ref['round 8 original'][p][0]} |")
-    open(f"{OUT}/evaluation.md", "w", encoding="utf-8").write("\n".join(lines) + "\n")
+                     f" | {mean[p]:.0f} | {ref[base][p][0]} |")
+    report = args.report or f"{OUT}/evaluation.md"
+    open(report, "w", encoding="utf-8").write("\n".join(lines) + "\n")
     print("\n".join(lines[:len(res) + len(ref) + 10]))
 
 
@@ -333,18 +350,24 @@ def cmd_watch(args):
 
 
 def main():
+    global OUT
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    common = argparse.ArgumentParser(add_help=False)
+    common.add_argument("--out", default=OUT, help="results folder (default results/mem_isolated)")
     sub = ap.add_subparsers(dest="cmd", required=True)
-    c = sub.add_parser("canary"); c.add_argument("--effort"); c.set_defaults(fn=cmd_canary)
-    r = sub.add_parser("run")
+    c = sub.add_parser("canary", parents=[common]); c.add_argument("--effort"); c.set_defaults(fn=cmd_canary)
+    r = sub.add_parser("run", parents=[common])
     r.add_argument("--runs", type=int, default=5); r.add_argument("--seed", type=int, default=20261106)
     r.add_argument("--input", default=INPUT); r.add_argument("--prompt", default=PROMPT); r.add_argument("--effort")
     r.set_defaults(fn=cmd_run)
-    v = sub.add_parser("verify"); v.add_argument("paths", nargs="+"); v.set_defaults(fn=cmd_verify)
-    e = sub.add_parser("evaluate"); e.set_defaults(fn=cmd_evaluate)
+    v = sub.add_parser("verify", parents=[common]); v.add_argument("paths", nargs="+"); v.set_defaults(fn=cmd_verify)
+    e = sub.add_parser("evaluate", parents=[common])
+    e.add_argument("--title", default="第八輪 MEM 隔離重跑"); e.add_argument("--report")
+    e.set_defaults(fn=cmd_evaluate)
     w = sub.add_parser("watch", help="pretty-print a stream-json log from stdin, then verify it")
     w.set_defaults(fn=cmd_watch)
     a = ap.parse_args()
+    OUT = getattr(a, "out", OUT)
     a.fn(a)
 
 
