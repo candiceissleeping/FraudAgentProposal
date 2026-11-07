@@ -1,0 +1,214 @@
+{
+ "seed": "listing from results/mem_isolated/inputs/run5.txt",
+ "model": "claude-sonnet-5-5",
+ "attempts": 1,
+ "complete": true,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "scores": [
+  {
+   "id": 1,
+   "company": "Gentex Corporation",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Clean, conservative, cash-rich auto supplier; no known issues"
+  },
+  {
+   "id": 2,
+   "company": "Boston Scientific Corporation",
+   "risk_score": 12,
+   "knows_later_problems": false,
+   "basis": "Large medtech; mesh litigation but no known misstatement"
+  },
+  {
+   "id": 3,
+   "company": "Becton, Dickinson and Company",
+   "risk_score": 18,
+   "knows_later_problems": true,
+   "basis": "Alaris infusion pump issues; later FY2020 Alaris-related disclosure and SEC inquiry on pump accounting/reserves"
+  },
+  {
+   "id": 4,
+   "company": "Ducommun Incorporated",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Stable aerospace supplier; no known issues"
+  },
+  {
+   "id": 5,
+   "company": "National Presto Industries, Inc.",
+   "risk_score": 10,
+   "knows_later_problems": true,
+   "basis": "Earlier SEC Investment Company Act case (2000s); FY2022 had material weakness disclosures but no known fraud"
+  },
+  {
+   "id": 6,
+   "company": "Provident Financial Holdings, Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Small thrift; no known issues"
+  },
+  {
+   "id": 7,
+   "company": "SAExploration Holdings, Inc.",
+   "risk_score": 97,
+   "knows_later_problems": true,
+   "basis": "Restatement 2019, SEC fraud charges over fictitious revenue, backdated documents, executives charged"
+  },
+  {
+   "id": 8,
+   "company": "Adamis Pharmaceuticals Corporation",
+   "risk_score": 40,
+   "knows_later_problems": true,
+   "basis": "Compounding unit (US Compounding) issues, going-concern, impairments, securities suits; accounting questions"
+  },
+  {
+   "id": 9,
+   "company": "Bunge Limited",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Large agribusiness; no known misstatement"
+  },
+  {
+   "id": 10,
+   "company": "PDS Biotechnology Corporation",
+   "risk_score": 7,
+   "knows_later_problems": false,
+   "basis": "Clinical-stage biotech; no known issues"
+  },
+  {
+   "id": 11,
+   "company": "TheMaven, Inc.",
+   "risk_score": 92,
+   "knows_later_problems": true,
+   "basis": "Filed 2018 10-K very late, restatements, material weaknesses, SEC enforcement/ investigation"
+  },
+  {
+   "id": 12,
+   "company": "Consolidated Communications Holdings, Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Telecom; no known issues"
+  },
+  {
+   "id": 13,
+   "company": "CPI Aerostructures, Inc.",
+   "risk_score": 90,
+   "knows_later_problems": true,
+   "basis": "Restated 2018 and prior for revenue recognition on long-term contracts (ASC 606 misapplication); SEC action"
+  },
+  {
+   "id": 14,
+   "company": "Thermon Group Holdings, Inc.",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "Industrial heat tracing; no known issues"
+  },
+  {
+   "id": 15,
+   "company": "Evoqua Water Technologies Corp.",
+   "risk_score": 40,
+   "knows_later_problems": true,
+   "basis": "Later FY2018 restatement-related issues disclosed in 2019 and SEC investigation over accounting practices"
+  },
+  {
+   "id": 16,
+   "company": "Archer-Daniels-Midland Company",
+   "risk_score": 55,
+   "knows_later_problems": true,
+   "basis": "2024 Nutrition segment intersegment sales accounting; restated segment results for 2022-2023; SEC investigation"
+  },
+  {
+   "id": 17,
+   "company": "Plug Power Inc.",
+   "risk_score": 70,
+   "knows_later_problems": true,
+   "basis": "Restated 2018-2019 (and 2020 quarters) for errors in lease accounting, impairments, etc.; SEC inquiry"
+  },
+  {
+   "id": 18,
+   "company": "AerSale Corporation",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 19,
+   "company": "USA Technologies, Inc.",
+   "risk_score": 88,
+   "knows_later_problems": true,
+   "basis": "Restated FY2017-2018; SEC enforcement for misstated revenue/ non-GAAP; material weaknesses"
+  },
+  {
+   "id": 20,
+   "company": "Ideanomics, Inc.",
+   "risk_score": 75,
+   "knows_later_problems": true,
+   "basis": "SEC charges against company and executives, restatements, internal investigation, material weaknesses"
+  },
+  {
+   "id": 21,
+   "company": "Malvern Bancshares, Inc.",
+   "risk_score": 65,
+   "knows_later_problems": true,
+   "basis": "Restated FY2020 for troubled debt restructuring/ loan classification; material weakness; SEC subpoena"
+  },
+  {
+   "id": 22,
+   "company": "Visteon Corporation",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 23,
+   "company": "TransAtlantic Petroleum Ltd.",
+   "risk_score": 20,
+   "knows_later_problems": true,
+   "basis": "Material weaknesses and tax-related restatements in earlier years; later financial distress"
+  },
+  {
+   "id": 24,
+   "company": "AMMO, Inc.",
+   "risk_score": 80,
+   "knows_later_problems": true,
+   "basis": "Restated FY2023 and prior; SEC investigation; former CEO/CFO disputes; special committee findings"
+  },
+  {
+   "id": 25,
+   "company": "GTT Communications, Inc.",
+   "risk_score": 85,
+   "knows_later_problems": true,
+   "basis": "Delayed FY2019 10-K, restatements, SEC investigation, revenue and unbilled/ receivables issues, bankruptcy"
+  },
+  {
+   "id": 26,
+   "company": "Mitek Systems, Inc.",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 27,
+   "company": "Latch, Inc.",
+   "risk_score": 90,
+   "knows_later_problems": true,
+   "basis": "Restated 2021 and prior, delayed filings, SEC investigation and charges, revenue recognition errors"
+  },
+  {
+   "id": 28,
+   "company": "Welbilt, Inc.",
+   "risk_score": 55,
+   "knows_later_problems": true,
+   "basis": "Restated 2016-2017 due to accounting errors; SEC investigation; FY2018 impacted by remediation"
+  }
+ ]
+}

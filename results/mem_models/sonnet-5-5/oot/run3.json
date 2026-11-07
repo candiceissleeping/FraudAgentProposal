@@ -1,0 +1,396 @@
+{
+ "seed": "listing from results/mem_isolated_oot/inputs/run3.txt",
+ "model": "claude-sonnet-5-5",
+ "attempts": 1,
+ "complete": true,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "scores": [
+  {
+   "id": 1,
+   "company": "FutureTech II Acquisition Corp.",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "SPAC with extension/trust withdrawal issues, sponsor related-party items, merger delays; weak controls typical"
+  },
+  {
+   "id": 2,
+   "company": "Globaltek Ventures, Inc.",
+   "risk_score": 55,
+   "knows_later_problems": false,
+   "basis": "Tiny shell-like issuer, limited controls, little public information"
+  },
+  {
+   "id": 3,
+   "company": "Datavault AI Inc.",
+   "risk_score": 60,
+   "knows_later_problems": false,
+   "basis": "Complex acquisitions, warrants, heavy dilution, going concern, impairments, prior material weaknesses"
+  },
+  {
+   "id": 4,
+   "company": "Kiora Pharmaceuticals, Inc.",
+   "risk_score": 25,
+   "knows_later_problems": false,
+   "basis": "Small biotech with licensing revenue and warrants; modest complexity"
+  },
+  {
+   "id": 5,
+   "company": "Trio Petroleum Corp.",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "Small oil company, going concern, prior restatement-type issues around oil and gas accounting and IPO-era controls"
+  },
+  {
+   "id": 6,
+   "company": "Duke Robotics Corp.",
+   "risk_score": 40,
+   "knows_later_problems": false,
+   "basis": "Tiny development-stage company, limited controls, related-party and merger complexity"
+  },
+  {
+   "id": 7,
+   "company": "Netcapital Inc.",
+   "risk_score": 60,
+   "knows_later_problems": false,
+   "basis": "Capitalized software and equity-securities-as-revenue, going concern, Nasdaq compliance and prior control weaknesses"
+  },
+  {
+   "id": 8,
+   "company": "Blue Dolphin Energy Co.",
+   "risk_score": 45,
+   "knows_later_problems": true,
+   "basis": "History of late filings and restatements tied to related-party Lazarus accounting and material weaknesses"
+  },
+  {
+   "id": 9,
+   "company": "Marygold Companies, Inc.",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "Small, stable fund-management and operating businesses; low complexity"
+  },
+  {
+   "id": 10,
+   "company": "Northann Corp.",
+   "risk_score": 50,
+   "knows_later_problems": false,
+   "basis": "Small China-linked manufacturer with going concern, customer concentration, and controls weaknesses"
+  },
+  {
+   "id": 11,
+   "company": "Paysign, Inc.",
+   "risk_score": 40,
+   "knows_later_problems": true,
+   "basis": "Restated 2022 and prior periods and had a material weakness; period shown is later but controls history raises risk"
+  },
+  {
+   "id": 12,
+   "company": "American Resources Corp.",
+   "risk_score": 55,
+   "knows_later_problems": false,
+   "basis": "Going concern, heavy related-party and financing complexity, history of control weaknesses and impairments"
+  },
+  {
+   "id": 13,
+   "company": "Newton Golf Company, Inc.",
+   "risk_score": 50,
+   "knows_later_problems": false,
+   "basis": "Microcap with going concern, reverse merger history, thin controls"
+  },
+  {
+   "id": 14,
+   "company": "Yunhong Green CTI Ltd.",
+   "risk_score": 50,
+   "knows_later_problems": true,
+   "basis": "Prior material weaknesses and SEC-related inventory and reporting issues at predecessor CTI Industries; small firm with thin controls"
+  },
+  {
+   "id": 15,
+   "company": "Artiva Biotherapeutics, Inc.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Recent IPO biotech with collaboration revenue; standard biotech risk"
+  },
+  {
+   "id": 16,
+   "company": "BayFirst Financial Corp.",
+   "risk_score": 30,
+   "knows_later_problems": false,
+   "basis": "Community bank with SBA loan sale gains and credit/valuation judgments; prior restatement of earlier quarter"
+  },
+  {
+   "id": 17,
+   "company": "Nuburu, Inc.",
+   "risk_score": 60,
+   "knows_later_problems": false,
+   "basis": "Going concern, SPAC-merged, inventory and liability complexity, material weaknesses"
+  },
+  {
+   "id": 18,
+   "company": "Panamera Holdings Corp.",
+   "risk_score": 50,
+   "knows_later_problems": false,
+   "basis": "Tiny shell-type company with minimal controls"
+  },
+  {
+   "id": 19,
+   "company": "Worksport Ltd.",
+   "risk_score": 40,
+   "knows_later_problems": false,
+   "basis": "Prior restatements and material weaknesses, warrant accounting, small company with growing revenue"
+  },
+  {
+   "id": 20,
+   "company": "BONK, Inc.",
+   "risk_score": 60,
+   "knows_later_problems": false,
+   "basis": "Crypto-linked small company with digital asset valuation, related-party and shell history"
+  },
+  {
+   "id": 21,
+   "company": "Capstone Holding Corp.",
+   "risk_score": 40,
+   "knows_later_problems": false,
+   "basis": "Small company with acquisitions and prior restatements, weak controls"
+  },
+  {
+   "id": 22,
+   "company": "GoPro, Inc.",
+   "risk_score": 25,
+   "knows_later_problems": false,
+   "basis": "Large company, going concern and debt pressures but established auditing; inventory and revenue estimates"
+  },
+  {
+   "id": 23,
+   "company": "GlobalTech Corp.",
+   "risk_score": 55,
+   "knows_later_problems": false,
+   "basis": "Holding company with foreign operations, complex structure, history of going concern and control issues"
+  },
+  {
+   "id": 24,
+   "company": "High Roller Technologies, Inc.",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "Recent small IPO, online gaming, going concern and material weaknesses"
+  },
+  {
+   "id": 25,
+   "company": "Greenlane Holdings, Inc.",
+   "risk_score": 50,
+   "knows_later_problems": false,
+   "basis": "Going concern, restructuring, heavy dilution, impairments, delisting pressure"
+  },
+  {
+   "id": 26,
+   "company": "Brownie's Marine Group, Inc.",
+   "risk_score": 30,
+   "knows_later_problems": false,
+   "basis": "Small operating company with limited controls but straightforward business"
+  },
+  {
+   "id": 27,
+   "company": "CreditRiskMonitor.com, Inc.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Stable subscription business with simple accounting"
+  },
+  {
+   "id": 28,
+   "company": "Sports Entertainment Gaming Global Corp.",
+   "risk_score": 55,
+   "knows_later_problems": false,
+   "basis": "Tiny shell-like company with limited information and weak controls"
+  },
+  {
+   "id": 29,
+   "company": "Liberty Global Ltd.",
+   "risk_score": 25,
+   "knows_later_problems": false,
+   "basis": "Large complex multinational with Big Four audit; complexity in tax, derivatives and deconsolidations"
+  },
+  {
+   "id": 30,
+   "company": "ESS Tech, Inc.",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "Going concern, inventory impairments, SPAC history, material weakness risk"
+  },
+  {
+   "id": 31,
+   "company": "Securetech Innovations, Inc.",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "Tiny company with minimal controls and small-scale revenue"
+  },
+  {
+   "id": 32,
+   "company": "NACCO Industries, Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Stable coal royalty and mining company, conservative reporting"
+  },
+  {
+   "id": 33,
+   "company": "High Wire Networks, Inc.",
+   "risk_score": 55,
+   "knows_later_problems": false,
+   "basis": "Small roll-up with going concern, restatement history, material weaknesses, discontinued operations"
+  },
+  {
+   "id": 34,
+   "company": "Crexendo, Inc.",
+   "risk_score": 25,
+   "knows_later_problems": false,
+   "basis": "Small cloud telecom with acquisitions and goodwill; moderate complexity"
+  },
+  {
+   "id": 35,
+   "company": "U.S. Premium Beef, LLC",
+   "risk_score": 12,
+   "knows_later_problems": false,
+   "basis": "Large cooperative-type entity with investment in National Beef, audited and stable"
+  },
+  {
+   "id": 36,
+   "company": "KonaTel, Inc.",
+   "risk_score": 40,
+   "knows_later_problems": false,
+   "basis": "Small telecom dependent on Lifeline/ACP subsidies; regulatory and revenue recognition risk"
+  },
+  {
+   "id": 37,
+   "company": "Optimum Communications, Inc.",
+   "risk_score": 25,
+   "knows_later_problems": false,
+   "basis": "Large cable company (formerly Altice USA) with heavy debt; established auditor and controls"
+  },
+  {
+   "id": 38,
+   "company": "Olenox Industries Inc.",
+   "risk_score": 55,
+   "knows_later_problems": false,
+   "basis": "Small acquisitive company, limited track record, thin controls"
+  },
+  {
+   "id": 39,
+   "company": "Pelthos Therapeutics Inc.",
+   "risk_score": 35,
+   "knows_later_problems": false,
+   "basis": "New reverse-merger pharma with product launch, financing complexity and warrants"
+  },
+  {
+   "id": 40,
+   "company": "Galaxy Gaming, Inc.",
+   "risk_score": 30,
+   "knows_later_problems": false,
+   "basis": "Small licensor with debt and prior control issues; stable revenue"
+  },
+  {
+   "id": 41,
+   "company": "SDR Drone, Inc.",
+   "risk_score": 55,
+   "knows_later_problems": false,
+   "basis": "Obscure microcap with limited controls"
+  },
+  {
+   "id": 42,
+   "company": "OMNIQ Corp.",
+   "risk_score": 65,
+   "knows_later_problems": true,
+   "basis": "Prior restatement, material weaknesses, going concern, delayed filings"
+  },
+  {
+   "id": 43,
+   "company": "Windtree Therapeutics, Inc.",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "Going concern, delisting, impairment of intangible assets, warrants and financing complexity"
+  },
+  {
+   "id": 44,
+   "company": "HCW Biologics Inc.",
+   "risk_score": 55,
+   "knows_later_problems": true,
+   "basis": "Restated prior financials in 2024 over arbitration award accrual; litigation with MD Anderson"
+  },
+  {
+   "id": 45,
+   "company": "IMAX Corp.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Established company with Big Four audit; revenue recognition complexity but stable"
+  },
+  {
+   "id": 46,
+   "company": "Protopia Global Holdings Inc.",
+   "risk_score": 55,
+   "knows_later_problems": false,
+   "basis": "Obscure shell-like company with limited controls"
+  },
+  {
+   "id": 47,
+   "company": "Trans American Aquaculture, Inc.",
+   "risk_score": 65,
+   "knows_later_problems": true,
+   "basis": "Biological asset valuation concerns, history of SEC issues and unreliable reporting"
+  },
+  {
+   "id": 48,
+   "company": "New Era Energy & Digital, Inc.",
+   "risk_score": 50,
+   "knows_later_problems": false,
+   "basis": "Business transformation, acquisitions, financing and digital pivot with limited history"
+  },
+  {
+   "id": 49,
+   "company": "Solesence, Inc.",
+   "risk_score": 25,
+   "knows_later_problems": false,
+   "basis": "Formerly Nanophase; small operating company with straightforward accounting"
+  },
+  {
+   "id": 50,
+   "company": "Skyline Bankshares, Inc.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Community bank with typical allowance and valuation judgments"
+  },
+  {
+   "id": 51,
+   "company": "Omnitek Engineering Corp.",
+   "risk_score": 30,
+   "knows_later_problems": false,
+   "basis": "Tiny engine maker, limited controls but simple business"
+  },
+  {
+   "id": 52,
+   "company": "EON Resources Inc.",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "SPAC-merged oil company with going concern, reserves estimates and warrant complexity"
+  },
+  {
+   "id": 53,
+   "company": "Pixelworks, Inc.",
+   "risk_score": 35,
+   "knows_later_problems": false,
+   "basis": "Going concern pressures, China subsidiary deconsolidation, impairments, delisting risk"
+  },
+  {
+   "id": 54,
+   "company": "Greenwave Technology Solutions, Inc.",
+   "risk_score": 55,
+   "knows_later_problems": false,
+   "basis": "Going concern, acquisition accounting, prior material weaknesses, scrap metal inventory"
+  }
+ ]
+}

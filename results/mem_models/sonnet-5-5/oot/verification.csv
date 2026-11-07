@@ -1,0 +1,6 @@
+run,tools_empty,mcp_empty,no_tool_blocks,server_web_zero,no_subagents,single_turn,completed,all_pass,expected_all_pass,web_search_requests,tool_blocks,init_model,served_models,claude_code_version,raw_sha256,note
+run1,True,True,True,True,True,True,True,True,True,0,0,claude-sonnet-5-5,claude-sonnet-5-5,2.1.319,5a1abfac3f4569fa2d1ff3ac61e0d0f73f52fa2ad0c6843b7cd95f413b67a722,model=claude-sonnet-5-5 attempts=1 complete=True parsed=54
+run2,True,True,True,True,True,True,True,True,True,0,0,claude-sonnet-5-5,claude-sonnet-5-5,2.1.319,e185538abd0dbd8e64edb22c8ca5db6ad9a1fc1cca08658112398d1cb72ada05,model=claude-sonnet-5-5 attempts=1 complete=True parsed=54
+run3,True,True,True,True,True,True,True,True,True,0,0,claude-sonnet-5-5,claude-sonnet-5-5,2.1.319,3a6e77ddfd22049cfcb3d50598303e1cb1c20cdd34b19e7b74e6ca086a665d1f,model=claude-sonnet-5-5 attempts=1 complete=True parsed=54
+run4,True,True,True,True,True,True,True,True,True,0,0,claude-sonnet-5-5,claude-sonnet-5-5,2.1.319,c38ecf1eb02a0fe295550e286760b129a56afb503743813df196c51513336324,model=claude-sonnet-5-5 attempts=1 complete=True parsed=54
+run5,True,True,True,True,True,True,True,True,True,0,0,claude-sonnet-5-5,claude-sonnet-5-5,2.1.319,33a39476620ddb6479cfabfb7799b1adbb5cdd586c3193948a6b23c3998e6b63,model=claude-sonnet-5-5 attempts=1 complete=True parsed=54

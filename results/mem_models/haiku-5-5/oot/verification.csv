@@ -1,0 +1,6 @@
+run,tools_empty,mcp_empty,no_tool_blocks,server_web_zero,no_subagents,single_turn,completed,all_pass,expected_all_pass,web_search_requests,tool_blocks,init_model,served_models,claude_code_version,raw_sha256,note
+run1,True,True,True,True,True,True,True,True,True,0,0,claude-haiku-5-5,claude-haiku-5-5,2.1.319,f370486d1ec1b77c3958efac716b26d0af300b592e399e4b312d2c722dab1155,model=claude-haiku-5-5 attempts=1 complete=True parsed=54
+run2,True,True,True,True,True,True,True,True,True,0,0,claude-haiku-5-5,claude-haiku-5-5,2.1.319,49c8d9fe7ea6c7548d481a0c94910aeaa68004e0511a8790a7281c5de4df5c3a,model=claude-haiku-5-5 attempts=1 complete=True parsed=54
+run3,True,True,True,True,True,True,True,True,True,0,0,claude-haiku-5-5,claude-haiku-5-5,2.1.319,59e8cc652c3bd37c992d78942c3842381b9388f0463a333334b9802e7d3a4eb6,model=claude-haiku-5-5 attempts=1 complete=True parsed=54
+run4,True,True,True,True,True,True,True,True,True,0,0,claude-haiku-5-5,claude-haiku-5-5,2.1.319,2a9c196b3b2e9afe01b38abb40d6d1df3beff8e23dc8ed935fdd5d0174a93cfc,model=claude-haiku-5-5 attempts=1 complete=True parsed=54
+run5,True,True,True,True,True,True,True,True,True,0,0,claude-haiku-5-5,claude-haiku-5-5,2.1.319,50be1f5bde431cd5eccb63072acfbb2ea4ce208b23dc988f59d66bff5c901494,model=claude-haiku-5-5 attempts=1 complete=True parsed=54

@@ -1,0 +1,214 @@
+{
+ "seed": "listing from results/mem_isolated/inputs/run2.txt",
+ "model": "claude-haiku-5-5",
+ "attempts": 1,
+ "complete": true,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "scores": [
+  {
+   "id": 1,
+   "company": "Latch, Inc.",
+   "risk_score": 60,
+   "knows_later_problems": true,
+   "basis": "Delayed filings and restatement of 2021 quarterly results; material weaknesses in controls"
+  },
+  {
+   "id": 2,
+   "company": "Malvern Bancshares, Inc.",
+   "risk_score": 35,
+   "knows_later_problems": true,
+   "basis": "Recollection of a restatement of recent periods tied to loan accounting; low confidence on details"
+  },
+  {
+   "id": 3,
+   "company": "USA Technologies, Inc.",
+   "risk_score": 90,
+   "knows_later_problems": true,
+   "basis": "Major restatement, material weaknesses, SEC investigation, and CEO/CFO departures around FY2017"
+  },
+  {
+   "id": 4,
+   "company": "Archer-Daniels-Midland Company",
+   "risk_score": 70,
+   "knows_later_problems": true,
+   "basis": "Nutrition segment overstated operating profit over multiple years including 2022; later SEC settlement"
+  },
+  {
+   "id": 5,
+   "company": "PDS Biotechnology Corporation",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "No known restatement or enforcement for FY2020"
+  },
+  {
+   "id": 6,
+   "company": "Becton, Dickinson and Company",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "No known fraud or restatement for FY2019"
+  },
+  {
+   "id": 7,
+   "company": "Mitek Systems, Inc.",
+   "risk_score": 12,
+   "knows_later_problems": false,
+   "basis": "No known accounting restatement or enforcement for FY2017"
+  },
+  {
+   "id": 8,
+   "company": "Boston Scientific Corporation",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known accounting problems for FY2019"
+  },
+  {
+   "id": 9,
+   "company": "Visteon Corporation",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "No known restatement or enforcement for FY2017"
+  },
+  {
+   "id": 10,
+   "company": "Plug Power Inc.",
+   "risk_score": 55,
+   "knows_later_problems": true,
+   "basis": "Restatement of 2019 and 2020 results (warrant and other accounting errors) and later SEC scrutiny"
+  },
+  {
+   "id": 11,
+   "company": "Bunge Limited",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "No known restatement or enforcement for FY2022"
+  },
+  {
+   "id": 12,
+   "company": "Ducommun Incorporated",
+   "risk_score": 12,
+   "knows_later_problems": false,
+   "basis": "No known accounting problems for FY2018"
+  },
+  {
+   "id": 13,
+   "company": "AMMO, Inc.",
+   "risk_score": 30,
+   "knows_later_problems": false,
+   "basis": "Small-cap with control weaknesses and shareholder litigation, but no confirmed restatement I can recall"
+  },
+  {
+   "id": 14,
+   "company": "Thermon Group Holdings, Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known accounting problems for FY2020"
+  },
+  {
+   "id": 15,
+   "company": "GTT Communications, Inc.",
+   "risk_score": 90,
+   "knows_later_problems": true,
+   "basis": "Restatement of 2016–2019 results from revenue and accounting errors, delayed 10-K, material weaknesses, SEC inquiry"
+  },
+  {
+   "id": 16,
+   "company": "TheMaven, Inc.",
+   "risk_score": 80,
+   "knows_later_problems": true,
+   "basis": "Delayed FY2018 10-K with material weaknesses, quarterly restatements, and auditor resignation"
+  },
+  {
+   "id": 17,
+   "company": "Ideanomics, Inc.",
+   "risk_score": 65,
+   "knows_later_problems": true,
+   "basis": "Later SEC investigation of revenue recognition in 2017–2018 periods"
+  },
+  {
+   "id": 18,
+   "company": "Adamis Pharmaceuticals Corporation",
+   "risk_score": 25,
+   "knows_later_problems": false,
+   "basis": "Small-cap pharma with control concerns but no confirmed restatement I can recall for FY2020"
+  },
+  {
+   "id": 19,
+   "company": "AerSale Corporation",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "No known accounting problems for FY2021"
+  },
+  {
+   "id": 20,
+   "company": "Consolidated Communications Holdings, Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known accounting problems for FY2019"
+  },
+  {
+   "id": 21,
+   "company": "Provident Financial Holdings, Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known accounting problems for FY2020"
+  },
+  {
+   "id": 22,
+   "company": "SAExploration Holdings, Inc.",
+   "risk_score": 95,
+   "knows_later_problems": true,
+   "basis": "Fraud-driven restatement of 2015–2018 results, executive misconduct, and SEC enforcement"
+  },
+  {
+   "id": 23,
+   "company": "CPI Aerostructures, Inc.",
+   "risk_score": 85,
+   "knows_later_problems": true,
+   "basis": "Restatement of 2018 and prior periods from revenue recognition errors, with SEC investigation"
+  },
+  {
+   "id": 24,
+   "company": "Gentex Corporation",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "No known accounting problems for FY2017"
+  },
+  {
+   "id": 25,
+   "company": "National Presto Industries, Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "No known accounting problems for FY2022"
+  },
+  {
+   "id": 26,
+   "company": "Evoqua Water Technologies Corp.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known accounting problems for FY2018"
+  },
+  {
+   "id": 27,
+   "company": "Welbilt, Inc.",
+   "risk_score": 80,
+   "knows_later_problems": true,
+   "basis": "Restatement of 2016–2018 results from material weaknesses, followed by an SEC settlement"
+  },
+  {
+   "id": 28,
+   "company": "TransAtlantic Petroleum Ltd.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "No known restatement or enforcement for FY2018"
+  }
+ ]
+}
