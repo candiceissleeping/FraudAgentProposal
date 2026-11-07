@@ -1,2 +1,8 @@
 run,tools_empty,mcp_empty,no_tool_blocks,server_web_zero,no_subagents,single_turn,completed,all_pass,expected_all_pass,web_search_requests,tool_blocks,init_model,served_models,claude_code_version,raw_sha256,note
 canary_hardened,True,True,True,True,True,True,True,True,True,0,0,claude-opus-5-5,claude-opus-5-5,2.1.319,f5206073de9fb906c9b04cb98636d4bd1c819590c666a439be29cbd874e6a7b7,answer: 不知道。2026 年 11 月 5 日在我的訓練資料截止時間（2026 年 6 月）之後，我手上沒有那天的收盤資料，所以不會猜。  若要查證，可到臺灣證券交易所網站（twse.com.tw）的「每日市場成交資訊」查詢。如果需要，我也可以試著
+canary_web_allowed,False,True,False,False,True,False,True,False,False,0,1,claude-opus-5-5,claude-opus-5-5,2.1.319,d12bd099d4035d3c336a74956e0853bb101ecbfb9cdd264f75259886a3ae77f0,"answer: 2026 年 11 月 5 日台股加權指數（TAIEX）收在 **41,574.72 點**，比前一天跌 1,374.19 點，跌幅約 3.20%，已經連跌六個交易日。  鏡新聞、財報狗、FinLab 三個來源的收盤點數都一樣，所以這個數字"
+run1,True,True,True,True,True,True,True,True,True,0,0,claude-opus-5-5,claude-opus-5-5,2.1.319,ed51ee6eb00cf63b88b2eec95776262891e30616e1eef1bb69cdb17b925fb799,seed=20261108 parsed=54
+run2,True,True,True,True,True,True,True,True,True,0,0,claude-opus-5-5,claude-opus-5-5,2.1.319,f8baf0eca9afe9c8838d1e2bad19c19e3536f5eba7a62245057fd80f1f06a176,seed=20261109 parsed=54
+run3,True,True,True,True,True,True,True,True,True,0,0,claude-opus-5-5,claude-opus-5-5,2.1.319,8513a2c40d80560122ba3d623417b1b60f2ccf034f1dfae4e9bc5ad70c473e35,seed=20261110 parsed=54
+run4,True,True,True,True,True,True,True,True,True,0,0,claude-opus-5-5,claude-opus-5-5,2.1.319,b10cf9df58c9d48b5156a6ff3cbd365f5da35e8b2aa88bffa937b7c727819ad3,seed=20261111 parsed=54
+run5,True,True,True,True,True,True,True,True,True,0,0,claude-opus-5-5,claude-opus-5-5,2.1.319,22ad36b3feb756dd504ccf25bf24c2e0bc336ac105f1b665a455ceaabf8db2aa,seed=20261112 parsed=54
