@@ -160,14 +160,25 @@ def record(name, raw, v, expect_pass=True, note=""):
 def cmd_canary(args):
     # C1: hardened session, a question only the web can answer. Expect all checks pass and "don't know".
     raw = f"{OUT}/raw/canary_hardened.jsonl"
-    v = verify(claude(CANARY_Q, HARDENED, raw, effort=args.effort))
+    v = verify(claude(CANARY_Q, HARDENED, raw, model=args.model, effort=args.effort))
     record("canary_hardened", raw, v, True, "answer: " + v["answer"][:120].replace("\n", " "))
     # C2: positive control. Same question, WebSearch allowed. Expect the checks to FAIL (search detected),
     # which shows the counters and the block scan really see a web search when there is one.
     raw = f"{OUT}/raw/canary_web_allowed.jsonl"
     v = verify(claude(CANARY_Q, ["--tools", "WebSearch", "--allowedTools", "WebSearch", "--strict-mcp-config",
-                                 "--setting-sources", "", "--no-session-persistence"], raw, effort=args.effort))
+                                 "--setting-sources", "", "--no-session-persistence"], raw,
+                      model=args.model, effort=args.effort))
     record("canary_web_allowed", raw, v, False, "answer: " + v["answer"][:120].replace("\n", " "))
+
+
+def complete_reply(scores, n):
+    """True when the reply is a list with exactly one entry for each id 1..n and the needed fields."""
+    try:
+        return (isinstance(scores, list) and sorted(int(e["id"]) for e in scores) == list(range(1, n + 1))
+                and all(isinstance(e["knows_later_problems"], bool) and 0 <= int(e["risk_score"]) <= 100
+                        for e in scores))
+    except (KeyError, TypeError, ValueError):
+        return False
 
 
 def cmd_run(args):
@@ -175,17 +186,29 @@ def cmd_run(args):
     lines = open(args.input, encoding="utf-8").read().splitlines()
     for k in range(1, args.runs + 1):
         seed = args.seed + k
-        listing = shuffled_list(lines, seed)
+        if args.listings:   # reuse another run's list so that only the model differs
+            listing = open(f"{args.listings}/run{k}.txt", encoding="utf-8").read().rstrip("\n")
+            seed = f"listing from {args.listings}/run{k}.txt"
+        else:
+            listing = shuffled_list(lines, seed)
+        n = len([l for l in listing.splitlines() if l.strip()])
         os.makedirs(f"{OUT}/inputs", exist_ok=True)
         with open(f"{OUT}/inputs/run{k}.txt", "w", encoding="utf-8") as fh:
             fh.write(listing + "\n")
         raw = f"{OUT}/raw/run{k}.jsonl"
-        v = verify(claude(prompt + listing + "\n", HARDENED, raw, effort=args.effort))
-        scores = parse_scores(v["answer"])
+        for attempt in (1, 2):   # an incomplete or unparseable reply is rerun once on the same list
+            v = verify(claude(prompt + listing + "\n", HARDENED, raw, model=args.model, effort=args.effort))
+            scores = parse_scores(v["answer"])
+            if complete_reply(scores, n) or attempt == 2:
+                break
+            os.replace(raw, f"{OUT}/raw/run{k}_incomplete{attempt}.jsonl")
+            print(f"run{k}: incomplete reply, kept as run{k}_incomplete{attempt}.jsonl; rerunning the same list")
         with open(f"{OUT}/run{k}.json", "w", encoding="utf-8") as fh:
-            json.dump({"seed": seed, "verification": {c: v[c] for c in CHECKS + ("all_pass",)},
+            json.dump({"seed": seed, "model": args.model, "attempts": attempt, "complete": complete_reply(scores, n),
+                       "verification": {c: v[c] for c in CHECKS + ("all_pass",)},
                        "scores": scores}, fh, ensure_ascii=False, indent=1)
-        record(f"run{k}", raw, v, True, f"seed={seed} parsed={scores is not None and len(scores)}")
+        record(f"run{k}", raw, v, True, f"model={args.model} attempts={attempt} "
+                                         f"complete={complete_reply(scores, n)} parsed={scores is not None and len(scores)}")
 
 
 def cmd_verify(args):
@@ -355,10 +378,13 @@ def main():
     common = argparse.ArgumentParser(add_help=False)
     common.add_argument("--out", default=OUT, help="results folder (default results/mem_isolated)")
     sub = ap.add_subparsers(dest="cmd", required=True)
-    c = sub.add_parser("canary", parents=[common]); c.add_argument("--effort"); c.set_defaults(fn=cmd_canary)
+    c = sub.add_parser("canary", parents=[common]); c.add_argument("--effort"); c.add_argument("--model", default=MODEL)
+    c.set_defaults(fn=cmd_canary)
     r = sub.add_parser("run", parents=[common])
     r.add_argument("--runs", type=int, default=5); r.add_argument("--seed", type=int, default=20261106)
     r.add_argument("--input", default=INPUT); r.add_argument("--prompt", default=PROMPT); r.add_argument("--effort")
+    r.add_argument("--model", default=MODEL)
+    r.add_argument("--listings", help="folder with run1.txt.. to reuse (same lists as another model's runs)")
     r.set_defaults(fn=cmd_run)
     v = sub.add_parser("verify", parents=[common]); v.add_argument("paths", nargs="+"); v.set_defaults(fn=cmd_verify)
     e = sub.add_parser("evaluate", parents=[common])
