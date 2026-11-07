@@ -298,6 +298,40 @@ def cmd_evaluate(args):
     print("\n".join(lines[:len(res) + len(ref) + 10]))
 
 
+def cmd_watch(args):
+    """Read stream-json from stdin, print a readable line per event as it arrives, then run verify()."""
+    events = []
+    for line in sys.stdin:
+        if not line.strip().startswith("{"):
+            continue
+        e = json.loads(line)
+        events.append(e)
+        t, st = e.get("type"), e.get("subtype")
+        if t == "system" and st == "init":
+            print(f"[啟動] 模型={e.get('model')}  CLI={e.get('claude_code_version')}  目錄={e.get('cwd')}")
+            print(f"[啟動] 可用工具={e.get('tools')}  MCP 伺服器={e.get('mcp_servers')}")
+        elif t == "system" and st == "thinking_tokens":
+            print("[思考中] …", flush=True)
+        elif t == "assistant":
+            for c in (e.get("message") or {}).get("content") or []:
+                ct = c.get("type")
+                if ct == "text":
+                    print("[回答]\n" + c.get("text", ""))
+                elif ct == "thinking":
+                    print(f"[思考區塊] 回傳內容 {len(c.get('thinking') or '')} 字（目前模型不回傳原始思考）")
+                else:
+                    print(f"[!! 工具呼叫] {ct} {c.get('name')} {json.dumps(c.get('input'), ensure_ascii=False)[:150]}")
+        elif t == "result":
+            u = (e.get("usage") or {}).get("server_tool_use")
+            mu = {k: v.get("webSearchRequests") for k, v in (e.get("modelUsage") or {}).items()}
+            print(f"[結束] 輪數={e.get('num_turns')}  子代理={(e.get('subagent_stats') or {}).get('spawned')}  "
+                  f"伺服器端搜尋/抓取={u}  各模型搜尋次數={mu}  花費=${e.get('total_cost_usd', 0):.3f}")
+        sys.stdout.flush()
+    v = verify(events)
+    print("\n[檢查] " + "  ".join(f"{k}={'通過' if v[k] else '失敗'}" for k in CHECKS))
+    print("[檢查] 全部通過：無法上網" if v["all_pass"] else "[檢查] 有項目失敗：這次不能當作純記憶結果")
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = ap.add_subparsers(dest="cmd", required=True)
@@ -308,6 +342,8 @@ def main():
     r.set_defaults(fn=cmd_run)
     v = sub.add_parser("verify"); v.add_argument("paths", nargs="+"); v.set_defaults(fn=cmd_verify)
     e = sub.add_parser("evaluate"); e.set_defaults(fn=cmd_evaluate)
+    w = sub.add_parser("watch", help="pretty-print a stream-json log from stdin, then verify it")
+    w.set_defaults(fn=cmd_watch)
     a = ap.parse_args()
     a.fn(a)
 
