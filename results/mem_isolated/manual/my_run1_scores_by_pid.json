@@ -1,0 +1,114 @@
+{
+ "P01C": {
+  "risk_score": 12,
+  "knows_later_problems": false
+ },
+ "P01T": {
+  "risk_score": 90,
+  "knows_later_problems": true
+ },
+ "P02C": {
+  "risk_score": 5,
+  "knows_later_problems": false
+ },
+ "P02T": {
+  "risk_score": 55,
+  "knows_later_problems": true
+ },
+ "P03C": {
+  "risk_score": 10,
+  "knows_later_problems": false
+ },
+ "P03T": {
+  "risk_score": 60,
+  "knows_later_problems": true
+ },
+ "P04C": {
+  "risk_score": 8,
+  "knows_later_problems": false
+ },
+ "P04T": {
+  "risk_score": 60,
+  "knows_later_problems": true
+ },
+ "P05C": {
+  "risk_score": 5,
+  "knows_later_problems": false
+ },
+ "P05T": {
+  "risk_score": 35,
+  "knows_later_problems": true
+ },
+ "P06C": {
+  "risk_score": 70,
+  "knows_later_problems": true
+ },
+ "P06T": {
+  "risk_score": 65,
+  "knows_later_problems": true
+ },
+ "P07C": {
+  "risk_score": 7,
+  "knows_later_problems": false
+ },
+ "P07T": {
+  "risk_score": 90,
+  "knows_later_problems": true
+ },
+ "P08C": {
+  "risk_score": 8,
+  "knows_later_problems": false
+ },
+ "P08T": {
+  "risk_score": 92,
+  "knows_later_problems": true
+ },
+ "P09C": {
+  "risk_score": 8,
+  "knows_later_problems": false
+ },
+ "P09T": {
+  "risk_score": 88,
+  "knows_later_problems": true
+ },
+ "P10C": {
+  "risk_score": 5,
+  "knows_later_problems": false
+ },
+ "P10T": {
+  "risk_score": 85,
+  "knows_later_problems": true
+ },
+ "P11C": {
+  "risk_score": 15,
+  "knows_later_problems": false
+ },
+ "P11T": {
+  "risk_score": 92,
+  "knows_later_problems": true
+ },
+ "P12C": {
+  "risk_score": 15,
+  "knows_later_problems": false
+ },
+ "P12T": {
+  "risk_score": 95,
+  "knows_later_problems": true
+ },
+ "P13C": {
+  "risk_score": 88,
+  "knows_later_problems": true
+ },
+ "P13T": {
+  "risk_score": 20,
+  "knows_later_problems": false
+ },
+ "P14C": {
+  "risk_score": 6,
+  "knows_later_problems": false
+ },
+ "P14T": {
+  "risk_score": 4,
+  "knows_later_problems": false
+ }
+}
