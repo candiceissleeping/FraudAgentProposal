@@ -66,11 +66,10 @@
    "year": 2026,
    "doi": "10.1146/annurev-economics-120925-105620",
    "arxiv_id": null,
-   "doi_record_title": "Large Language Models: An Applied Econometric Framework",
-   "doi_similarity": 1.0,
-   "doi_year": 2026,
-   "status": "VERIFIED",
-   "via": "doi"
+   "notes": [
+    "doi lookup failed"
+   ],
+   "status": "LOOKUP_FAILED"
   },
   {
    "key": "gao2025detecting",
@@ -239,6 +238,246 @@
    "arxiv_year": 2026,
    "status": "VERIFIED",
    "via": "arxiv"
+  }
+ ],
+ "T2": [
+  {
+   "key": "han2025search",
+   "title": "Search-Time Data Contamination",
+   "year": 2025,
+   "doi": null,
+   "arxiv_id": "2508.13180",
+   "arxiv_record_title": "Search-Time Data Contamination",
+   "arxiv_similarity": 1.0,
+   "arxiv_year": 2025,
+   "status": "VERIFIED",
+   "via": "arxiv"
+  },
+  {
+   "key": "wang2026searchtime",
+   "title": "Search-Time Contamination in Deep Research Agents: Measuring Performance Inflation in Public Benchmark Evaluation",
+   "year": 2026,
+   "doi": null,
+   "arxiv_id": "2606.05241",
+   "arxiv_record_title": "Search-Time Contamination in Deep Research Agents: Measuring Performance Inflation in Public Benchmark Evaluation",
+   "arxiv_similarity": 1.0,
+   "arxiv_year": 2026,
+   "status": "VERIFIED",
+   "via": "arxiv"
+  },
+  {
+   "key": "kapoor2026holistic",
+   "title": "Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation",
+   "year": 2026,
+   "doi": null,
+   "arxiv_id": "2510.11977",
+   "arxiv_record_title": "Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation",
+   "arxiv_similarity": 1.0,
+   "arxiv_year": 2025,
+   "status": "VERIFIED",
+   "via": "arxiv"
+  },
+  {
+   "key": "coleman2026eval",
+   "title": "Eval awareness in Claude Opus 4.6's BrowseComp performance",
+   "year": 2026,
+   "doi": null,
+   "arxiv_id": null,
+   "status": "PLAUSIBLE",
+   "via": "websearch",
+   "evidence": "WebSearch 2026-11-09: original post found at https://www.anthropic.com/engineering/eval-awareness-browsecomp with the exact title; dated March 2026 by a mirror (pkm-wiki 2026-03-06). Author name 'Coleman, R.' not confirmed in the search results; cite as Anthropic (2026) unless the author is confirmed on the page."
+  },
+  {
+   "key": "ellahib2026temporal",
+   "title": "Temporal Leakage in Search-Engine Date-Filtered Web Retrieval: A Retrospective Forecasting Case Study",
+   "year": 2026,
+   "doi": "10.18653/v1/2026.acl-short.65",
+   "arxiv_id": "2602.00758",
+   "doi_record_title": "Temporal Leakage in Search-Engine Date-Filtered Web Retrieval: A Retrospective Forecasting Case Study",
+   "doi_similarity": 1.0,
+   "doi_year": 2026,
+   "status": "VERIFIED",
+   "via": "doi"
+  },
+  {
+   "key": "paleka2026pitfalls",
+   "title": "Pitfalls in Evaluating Language Model Forecasters",
+   "year": 2026,
+   "doi": null,
+   "arxiv_id": "2506.00723",
+   "arxiv_record_title": "Pitfalls in Evaluating Language Model Forecasters",
+   "arxiv_similarity": 1.0,
+   "arxiv_year": 2025,
+   "status": "VERIFIED",
+   "via": "arxiv"
+  },
+  {
+   "key": "roberts2020much",
+   "title": "How Much Knowledge Can You Pack Into the Parameters of a Language Model?",
+   "year": 2020,
+   "doi": "10.18653/v1/2020.emnlp-main.437",
+   "arxiv_id": "2002.08910",
+   "doi_record_title": "How Much Knowledge Can You Pack Into the Parameters of a Language Model?",
+   "doi_similarity": 1.0,
+   "doi_year": 2020,
+   "status": "VERIFIED",
+   "via": "doi"
+  },
+  {
+   "key": "jacovi2023stop",
+   "title": "Stop Uploading Test Data in Plain Text: Practical Strategies for Mitigating Data Contamination by Evaluation Benchmarks",
+   "year": 2023,
+   "doi": "10.18653/v1/2023.emnlp-main.308",
+   "arxiv_id": "2305.10160",
+   "doi_record_title": "Stop Uploading Test Data in Plain Text: Practical Strategies for Mitigating Data Contamination by Evaluation Benchmarks",
+   "doi_similarity": 1.0,
+   "doi_year": 2023,
+   "status": "VERIFIED",
+   "via": "doi"
+  },
+  {
+   "key": "balloccu2024leak",
+   "title": "Leak, Cheat, Repeat: Data Contamination and Evaluation Malpractices in Closed-Source LLMs",
+   "year": 2024,
+   "doi": "10.18653/v1/2024.eacl-long.5",
+   "arxiv_id": "2402.03927",
+   "doi_record_title": "Leak, Cheat, Repeat: Data Contamination and Evaluation Malpractices in Closed-Source LLMs",
+   "doi_similarity": 1.0,
+   "doi_year": 2024,
+   "status": "VERIFIED",
+   "via": "doi"
+  },
+  {
+   "key": "chen2025benchmarking",
+   "title": "Benchmarking Large Language Models Under Data Contamination: A Survey from Static to Dynamic Evaluation",
+   "year": 2025,
+   "doi": "10.18653/v1/2025.emnlp-main.511",
+   "arxiv_id": null,
+   "doi_record_title": "Benchmarking Large Language Models Under Data Contamination: A Survey from Static to Dynamic Evaluation",
+   "doi_similarity": 1.0,
+   "doi_year": 2025,
+   "status": "VERIFIED",
+   "via": "doi"
+  },
+  {
+   "key": "zhu2025establishing",
+   "title": "Establishing Best Practices in Building Rigorous Agentic Benchmarks",
+   "year": 2025,
+   "doi": "10.52202/085713-5547",
+   "arxiv_id": "2507.02825",
+   "doi_record_title": "Establishing Best Practices in Building Rigorous Agentic Benchmarks",
+   "doi_similarity": 1.0,
+   "doi_year": 2025,
+   "status": "VERIFIED",
+   "via": "doi"
+  },
+  {
+   "key": "stein2026detecting",
+   "title": "Detecting Safety Violations Across Many Agent Traces",
+   "year": 2026,
+   "doi": null,
+   "arxiv_id": "2604.11806",
+   "arxiv_record_title": "Detecting Safety Violations Across Many Agent Traces",
+   "arxiv_similarity": 1.0,
+   "arxiv_year": 2026,
+   "status": "VERIFIED",
+   "via": "arxiv"
+  },
+  {
+   "key": "wang2026agenttraces",
+   "title": "From Agent Traces to Trust: A Survey of Evidence Tracing and Execution Provenance in LLM Agents",
+   "year": 2026,
+   "doi": null,
+   "arxiv_id": "2606.04990",
+   "arxiv_record_title": "From Agent Traces to Trust: A Survey of Evidence Tracing and Execution Provenance in LLM Agents",
+   "arxiv_similarity": 1.0,
+   "arxiv_year": 2026,
+   "status": "VERIFIED",
+   "via": "arxiv"
+  },
+  {
+   "key": "uppala2026prompts",
+   "title": "Prompts Don't Protect: Architectural Enforcement via MCP Proxy for LLM Tool Access Control",
+   "year": 2026,
+   "doi": null,
+   "arxiv_id": "2605.18414",
+   "arxiv_record_title": "Prompts Don't Protect: Architectural Enforcement via MCP Proxy for LLM Tool Access Control",
+   "arxiv_similarity": 1.0,
+   "arxiv_year": 2026,
+   "status": "VERIFIED",
+   "via": "arxiv"
+  },
+  {
+   "key": "prasad2026baitbench",
+   "title": "BAITBENCH: Measuring Agent Reward Hacking with Optional Shortcuts Planted in ML Tasks",
+   "year": 2026,
+   "doi": null,
+   "arxiv_id": "2608.30724",
+   "arxiv_record_title": "BAITBENCH: Measuring Agent Reward Hacking with Optional Shortcuts Planted in ML Tasks",
+   "arxiv_similarity": 1.0,
+   "arxiv_year": 2026,
+   "status": "VERIFIED",
+   "via": "arxiv"
+  },
+  {
+   "key": "bondarenko2025demonstrating",
+   "title": "Demonstrating specification gaming in reasoning models",
+   "year": 2025,
+   "doi": null,
+   "arxiv_id": "2502.13295",
+   "arxiv_record_title": "Demonstrating specification gaming in reasoning models",
+   "arxiv_similarity": 1.0,
+   "arxiv_year": 2025,
+   "status": "VERIFIED",
+   "via": "arxiv"
+  },
+  {
+   "key": "zhang2024toolbehonest",
+   "title": "ToolBeHonest: A Multi-level Hallucination Diagnostic Benchmark for Tool-Augmented Large Language Models",
+   "year": 2024,
+   "doi": "10.18653/v1/2024.emnlp-main.637",
+   "arxiv_id": "2406.20015",
+   "doi_record_title": "ToolBeHonest: A Multi-level Hallucination Diagnostic Benchmark for Tool-Augmented Large Language Models",
+   "doi_similarity": 1.0,
+   "doi_year": 2024,
+   "status": "VERIFIED",
+   "via": "doi"
+  },
+  {
+   "key": "ross2025when2call",
+   "title": "When2Call: When (not) to Call Tools",
+   "year": 2025,
+   "doi": "10.18653/v1/2025.naacl-long.174",
+   "arxiv_id": "2504.18851",
+   "doi_record_title": "When2Call: When (not) to Call Tools",
+   "doi_similarity": 1.0,
+   "doi_year": 2025,
+   "status": "VERIFIED",
+   "via": "doi"
+  },
+  {
+   "key": "ludwig2026large",
+   "title": "Large Language Models: An Applied Econometric Framework",
+   "year": 2026,
+   "doi": "10.1146/annurev-economics-120925-105620",
+   "arxiv_id": null,
+   "doi_record_title": "Large Language Models: An Applied Econometric Framework",
+   "doi_similarity": 1.0,
+   "doi_year": 2026,
+   "status": "VERIFIED",
+   "via": "doi"
+  },
+  {
+   "key": "sarkar2024lookahead",
+   "title": "Lookahead Bias in Pretrained Language Models",
+   "year": 2024,
+   "doi": "10.2139/ssrn.4754678",
+   "arxiv_id": null,
+   "doi_record_title": "Lookahead Bias in Pretrained Language Models",
+   "doi_similarity": 1.0,
+   "doi_year": 2024,
+   "status": "VERIFIED",
+   "via": "doi"
   }
  ],
  "T3": [

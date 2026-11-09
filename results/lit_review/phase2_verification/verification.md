@@ -4,7 +4,8 @@
 
 | 主題 | 篇數 | VERIFIED（DOI） | VERIFIED（arXiv） | PLAUSIBLE（WebSearch） | 不符／失敗／待查 |
 |---|---|---|---|---|---|
-| T1 | 20 | 7 | 13 | 0 | 0 |
+| T1 | 20 | 6 | 13 | 0 | 1：ludwig2026large |
+| T2 | 20 | 10 | 9 | 1 | 0 |
 | T3 | 20 | 10 | 10 | 0 | 0 |
 | T4 | 20 | 10 | 10 | 0 | 0 |
 | T5 | 20 | 13 | 7 | 0 | 0 |
@@ -18,7 +19,7 @@
 | T1 | lopezlira2025memorization | VERIFIED | arxiv | 1.0 | The Memorization Problem: Can We Trust LLMs' Economic Forecasts? |
 | T1 | levy2026caution | VERIFIED | doi | 1.0 | Caution Ahead: Numerical Reasoning and Look‐Ahead Bias in AI Models |
 | T1 | didisheim2025predictable | VERIFIED | doi | 1.0 | AI’s predictable memory in financial analysis |
-| T1 | ludwig2026large | VERIFIED | doi | 1.0 | Large Language Models: An Applied Econometric Framework |
+| T1 | ludwig2026large | LOOKUP_FAILED |  |  |  |
 | T1 | gao2025detecting | VERIFIED | arxiv | 1.0 | Detecting Lookahead Bias in LLM Forecasts |
 | T1 | roy2026memguard | VERIFIED | arxiv | 1.0 | MemGuard-Alpha: Limits of Membership Inference for Detecting and Filtering Memorization-Co |
 | T1 | eliseev2026fake | VERIFIED | arxiv | 1.0 | Fake Date Tests: Can We Trust In-sample Accuracy of LLMs in Macroeconomic Forecasting? |
@@ -33,6 +34,26 @@
 | T1 | wu2024reasoning | VERIFIED | doi | 1.0 | Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Throu |
 | T1 | sugiura2026edinet | VERIFIED | arxiv | 1.0 | EDINET-Bench: Evaluating LLMs on Complex Financial Tasks using Japanese Financial Statemen |
 | T1 | efe2026earnings | VERIFIED | arxiv | 1.0 | Do Earnings Calls Help Predict Financial Restatements? Evaluating Text Beyond Public Firm  |
+| T2 | han2025search | VERIFIED | arxiv | 1.0 | Search-Time Data Contamination |
+| T2 | wang2026searchtime | VERIFIED | arxiv | 1.0 | Search-Time Contamination in Deep Research Agents: Measuring Performance Inflation in Publ |
+| T2 | kapoor2026holistic | VERIFIED | arxiv | 1.0 | Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation |
+| T2 | coleman2026eval | PLAUSIBLE | websearch |  | WebSearch 2026-11-09: original post found at https://www.anthropic.com/engineering/eval-aw |
+| T2 | ellahib2026temporal | VERIFIED | doi | 1.0 | Temporal Leakage in Search-Engine Date-Filtered Web Retrieval: A Retrospective Forecasting |
+| T2 | paleka2026pitfalls | VERIFIED | arxiv | 1.0 | Pitfalls in Evaluating Language Model Forecasters |
+| T2 | roberts2020much | VERIFIED | doi | 1.0 | How Much Knowledge Can You Pack Into the Parameters of a Language Model? |
+| T2 | jacovi2023stop | VERIFIED | doi | 1.0 | Stop Uploading Test Data in Plain Text: Practical Strategies for Mitigating Data Contamina |
+| T2 | balloccu2024leak | VERIFIED | doi | 1.0 | Leak, Cheat, Repeat: Data Contamination and Evaluation Malpractices in Closed-Source LLMs |
+| T2 | chen2025benchmarking | VERIFIED | doi | 1.0 | Benchmarking Large Language Models Under Data Contamination: A Survey from Static to Dynam |
+| T2 | zhu2025establishing | VERIFIED | doi | 1.0 | Establishing Best Practices in Building Rigorous Agentic Benchmarks |
+| T2 | stein2026detecting | VERIFIED | arxiv | 1.0 | Detecting Safety Violations Across Many Agent Traces |
+| T2 | wang2026agenttraces | VERIFIED | arxiv | 1.0 | From Agent Traces to Trust: A Survey of Evidence Tracing and Execution Provenance in LLM A |
+| T2 | uppala2026prompts | VERIFIED | arxiv | 1.0 | Prompts Don't Protect: Architectural Enforcement via MCP Proxy for LLM Tool Access Control |
+| T2 | prasad2026baitbench | VERIFIED | arxiv | 1.0 | BAITBENCH: Measuring Agent Reward Hacking with Optional Shortcuts Planted in ML Tasks |
+| T2 | bondarenko2025demonstrating | VERIFIED | arxiv | 1.0 | Demonstrating specification gaming in reasoning models |
+| T2 | zhang2024toolbehonest | VERIFIED | doi | 1.0 | ToolBeHonest: A Multi-level Hallucination Diagnostic Benchmark for Tool-Augmented Large La |
+| T2 | ross2025when2call | VERIFIED | doi | 1.0 | When2Call: When (not) to Call Tools |
+| T2 | ludwig2026large | VERIFIED | doi | 1.0 | Large Language Models: An Applied Econometric Framework |
+| T2 | sarkar2024lookahead | VERIFIED | doi | 1.0 | Lookahead Bias in Pretrained Language Models |
 | T3 | engelberg2025neutering | VERIFIED | doi | 1.0 | Entity Neutering |
 | T3 | lopezlira2025memorization | VERIFIED | arxiv | 1.0 | The Memorization Problem: Can We Trust LLMs' Economic Forecasts? |
 | T3 | wu2025anonymization | VERIFIED | arxiv | 1.0 | Anonymization and Information Loss |
