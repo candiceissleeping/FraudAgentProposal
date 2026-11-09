@@ -1,0 +1,31 @@
+{
+ "pid": "O03T",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K198",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Restatement history is consistent with the 2024 non-reliance of the June 30, 2024 interim statements; going concern isn't covered by the record and names no specific accounting problem."
+  },
+  {
+   "id": "K164",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "A generic restatement claim matches the record of the 2024-11-22 Item 4.02 restatement within FY2024."
+  },
+  {
+   "id": "K204",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Restatement history is consistent with the 4.02 filings, and no specific kind of problem is named."
+  }
+ ]
+}
