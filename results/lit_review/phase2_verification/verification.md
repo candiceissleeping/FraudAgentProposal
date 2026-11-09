@@ -37,7 +37,7 @@
 | T2 | han2025search | VERIFIED | arxiv | 1.0 | Search-Time Data Contamination |
 | T2 | wang2026searchtime | VERIFIED | arxiv | 1.0 | Search-Time Contamination in Deep Research Agents: Measuring Performance Inflation in Publ |
 | T2 | kapoor2026holistic | VERIFIED | arxiv | 1.0 | Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation |
-| T2 | coleman2026eval | PLAUSIBLE | websearch |  | WebSearch 2026-11-09: original post found at https://www.anthropic.com/engineering/eval-aw |
+| T2 | coleman2026eval | PLAUSIBLE | websearch |  | WebSearch 2026-11-09 found the post at https://www.anthropic.com/engineering/eval-awarenes |
 | T2 | ellahib2026temporal | VERIFIED | doi | 1.0 | Temporal Leakage in Search-Engine Date-Filtered Web Retrieval: A Retrospective Forecasting |
 | T2 | paleka2026pitfalls | VERIFIED | arxiv | 1.0 | Pitfalls in Evaluating Language Model Forecasters |
 | T2 | roberts2020much | VERIFIED | doi | 1.0 | How Much Knowledge Can You Pack Into the Parameters of a Language Model? |

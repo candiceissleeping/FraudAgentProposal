@@ -1,0 +1,2173 @@
+[
+ {
+  "key": "balloccu2024leak",
+  "aliases": [],
+  "title": "Leak, Cheat, Repeat: Data Contamination and Evaluation Malpractices in Closed-Source LLMs",
+  "authors": [
+   "Balloccu, S.",
+   "Schmidtová, P.",
+   "Lango, M.",
+   "Dušek, O."
+  ],
+  "year": 2024,
+  "venue": "Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "type": "conference",
+  "tier": 1,
+  "doi": "10.18653/v1/2024.eacl-long.5",
+  "arxiv_id": "2402.03927",
+  "url": "https://doi.org/10.18653/v1/2024.eacl-long.5",
+  "topics": [
+   "T2"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "bao2020detecting",
+  "aliases": [],
+  "title": "Detecting Accounting Fraud in Publicly Traded U.S. Firms Using a Machine Learning Approach",
+  "authors": [
+   "Bao, Y.",
+   "Ke, B.",
+   "Li, B.",
+   "Yu, Y. J.",
+   "Zhang, J."
+  ],
+  "year": 2020,
+  "venue": "Journal of Accounting Research (Erratum: 60(4), 1635-1646, 2022, doi:10.1111/1475-679X.12454)",
+  "type": "journal",
+  "tier": 1,
+  "doi": "10.1111/1475-679X.12292",
+  "arxiv_id": null,
+  "url": "https://doi.org/10.1111/1475-679X.12292",
+  "topics": [
+   "T5"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "barton2024importance",
+  "aliases": [],
+  "title": "The Importance of Separating the Probability of Committing and Detecting Misstatements in the Restatement Setting",
+  "authors": [
+   "Barton, F. J.",
+   "Burnett, B. M.",
+   "Gunny, K.",
+   "Miller, B. P."
+  ],
+  "year": 2024,
+  "venue": "Management Science",
+  "type": "journal",
+  "tier": 1,
+  "doi": "10.1287/mnsc.2022.4627",
+  "arxiv_id": null,
+  "url": "https://doi.org/10.1287/mnsc.2022.4627",
+  "topics": [
+   "T5"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "beneish1999detection",
+  "aliases": [],
+  "title": "The Detection of Earnings Manipulation",
+  "authors": [
+   "Beneish, M. D."
+  ],
+  "year": 1999,
+  "venue": "Financial Analysts Journal",
+  "type": "journal",
+  "tier": 1,
+  "doi": "10.2469/faj.v55.n5.2296",
+  "arxiv_id": null,
+  "url": "https://doi.org/10.2469/faj.v55.n5.2296",
+  "topics": [
+   "T5"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "bertomeu2021using",
+  "aliases": [],
+  "title": "Using machine learning to detect misstatements",
+  "authors": [
+   "Bertomeu, J.",
+   "Cheynel, E.",
+   "Floyd, E.",
+   "Pan, W."
+  ],
+  "year": 2021,
+  "venue": "Review of Accounting Studies",
+  "type": "journal",
+  "tier": 1,
+  "doi": "10.1007/s11142-020-09563-8",
+  "arxiv_id": null,
+  "url": "https://doi.org/10.1007/s11142-020-09563-8",
+  "topics": [
+   "T5"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "bondarenko2025demonstrating",
+  "aliases": [],
+  "title": "Demonstrating specification gaming in reasoning models",
+  "authors": [
+   "Bondarenko, A.",
+   "Volk, D.",
+   "Volkov, D.",
+   "Ladish, J."
+  ],
+  "year": 2025,
+  "venue": "arXiv",
+  "type": "preprint",
+  "tier": 2,
+  "doi": null,
+  "arxiv_id": "2502.13295",
+  "url": "https://arxiv.org/abs/2502.13295",
+  "topics": [
+   "T2"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "brown2020what",
+  "aliases": [],
+  "title": "What Are You Saying? Using topic to Detect Financial Misreporting",
+  "authors": [
+   "Brown, N. C.",
+   "Crowley, R. M.",
+   "Elliott, W. B."
+  ],
+  "year": 2020,
+  "venue": "Journal of Accounting Research",
+  "type": "journal",
+  "tier": 1,
+  "doi": "10.1111/1475-679X.12294",
+  "arxiv_id": null,
+  "url": "https://doi.org/10.1111/1475-679X.12294",
+  "topics": [
+   "T5"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "carlini2023quantifying",
+  "aliases": [],
+  "title": "Quantifying Memorization Across Neural Language Models",
+  "authors": [
+   "Carlini, N.",
+   "Ippolito, D.",
+   "Jagielski, M.",
+   "Lee, K.",
+   "Tramèr, F.",
+   "Zhang, C."
+  ],
+  "year": 2023,
+  "venue": "ICLR 2023",
+  "type": "conference",
+  "tier": 1,
+  "doi": null,
+  "arxiv_id": "2202.07646",
+  "url": "https://arxiv.org/abs/2202.07646",
+  "topics": [
+   "T1"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "chen2025benchmarking",
+  "aliases": [],
+  "title": "Benchmarking Large Language Models Under Data Contamination: A Survey from Static to Dynamic Evaluation",
+  "authors": [
+   "Chen, S.",
+   "Chen, Y.",
+   "Li, Z.",
+   "Jiang, Y.",
+   "Wan, Z.",
+   "He, Y.",
+   "Ran, D.",
+   "Gu, T.",
+   "Li, H.",
+   "Xie, T.",
+   "Ray, B."
+  ],
+  "year": 2025,
+  "venue": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+  "type": "conference",
+  "tier": 1,
+  "doi": "10.18653/v1/2025.emnlp-main.511",
+  "arxiv_id": null,
+  "url": "https://doi.org/10.18653/v1/2025.emnlp-main.511",
+  "topics": [
+   "T2"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "cheng2024dated",
+  "aliases": [],
+  "title": "Dated Data: Tracing Knowledge Cutoffs in Large Language Models",
+  "authors": [
+   "Cheng, J.",
+   "Marone, M.",
+   "Weller, O.",
+   "Lawrie, D.",
+   "Khashabi, D.",
+   "Van Durme, B."
+  ],
+  "year": 2024,
+  "venue": "Conference on Language Modeling (COLM 2024)",
+  "type": "conference",
+  "tier": 1,
+  "doi": null,
+  "arxiv_id": "2403.12958",
+  "url": "https://arxiv.org/abs/2403.12958",
+  "topics": [
+   "T4"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "coleman2026eval",
+  "aliases": [],
+  "title": "Eval awareness in Claude Opus 4.6's BrowseComp performance",
+  "authors": [
+   "Coleman, R."
+  ],
+  "year": 2026,
+  "venue": "Anthropic Engineering (technical blog)",
+  "type": "report",
+  "tier": 3,
+  "doi": null,
+  "arxiv_id": null,
+  "url": "https://www.anthropic.com/engineering/eval-awareness-browsecomp",
+  "topics": [
+   "T2"
+  ],
+  "verification": "PLAUSIBLE",
+  "via": "websearch"
+ },
+ {
+  "key": "dechow2011predicting",
+  "aliases": [],
+  "title": "Predicting Material Accounting Misstatements",
+  "authors": [
+   "Dechow, P. M.",
+   "Ge, W.",
+   "Larson, C. R.",
+   "Sloan, R. G."
+  ],
+  "year": 2011,
+  "venue": "Contemporary Accounting Research",
+  "type": "journal",
+  "tier": 1,
+  "doi": "10.1111/j.1911-3846.2010.01041.x",
+  "arxiv_id": null,
+  "url": "https://doi.org/10.1111/j.1911-3846.2010.01041.x",
+  "topics": [
+   "T5"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "dhingra2022time",
+  "aliases": [],
+  "title": "Time-Aware Language Models as Temporal Knowledge Bases",
+  "authors": [
+   "Dhingra, B.",
+   "Cole, J. R.",
+   "Eisenschlos, J. M.",
+   "Gillick, D.",
+   "Eisenstein, J.",
+   "Cohen, W. W."
+  ],
+  "year": 2022,
+  "venue": "Transactions of the Association for Computational Linguistics",
+  "type": "journal",
+  "tier": 1,
+  "doi": "10.1162/tacl_a_00459",
+  "arxiv_id": "2106.15110",
+  "url": "https://doi.org/10.1162/tacl_a_00459",
+  "topics": [
+   "T4"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "didisheim2025predictable",
+  "aliases": [],
+  "title": "AI's predictable memory in financial analysis",
+  "authors": [
+   "Didisheim, A.",
+   "Fraschini, M.",
+   "Somoza, L."
+  ],
+  "year": 2025,
+  "venue": "Economics Letters",
+  "type": "journal",
+  "tier": 1,
+  "doi": "10.1016/j.econlet.2025.112602",
+  "arxiv_id": null,
+  "url": "https://doi.org/10.1016/j.econlet.2025.112602",
+  "topics": [
+   "T1"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "duan2024membership",
+  "aliases": [],
+  "title": "Do Membership Inference Attacks Work on Large Language Models?",
+  "authors": [
+   "Duan, M.",
+   "Suri, A.",
+   "Mireshghallah, N.",
+   "Min, S.",
+   "Shi, W.",
+   "Zettlemoyer, L.",
+   "Tsvetkov, Y.",
+   "Choi, Y.",
+   "Evans, D.",
+   "Hajishirzi, H."
+  ],
+  "year": 2024,
+  "venue": "COLM 2024",
+  "type": "conference",
+  "tier": 1,
+  "doi": null,
+  "arxiv_id": "2402.07841",
+  "url": "https://arxiv.org/abs/2402.07841",
+  "topics": [
+   "T1",
+   "T4"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "dyck2024pervasive",
+  "aliases": [],
+  "title": "How pervasive is corporate fraud?",
+  "authors": [
+   "Dyck, A.",
+   "Morse, A.",
+   "Zingales, L."
+  ],
+  "year": 2024,
+  "venue": "Review of Accounting Studies (Correction: 30(4), 3996-3998, 2025, doi:10.1007/s11142-025-09919-y)",
+  "type": "journal",
+  "tier": 1,
+  "doi": "10.1007/s11142-022-09738-5",
+  "arxiv_id": null,
+  "url": "https://doi.org/10.1007/s11142-022-09738-5",
+  "topics": [
+   "T5"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "efe2026earnings",
+  "aliases": [],
+  "title": "Do Earnings Calls Help Predict Financial Restatements? Evaluating Text Beyond Public Firm Information",
+  "authors": [
+   "Efe, A.",
+   "Sapra, S.",
+   "Ahmed, B."
+  ],
+  "year": 2026,
+  "venue": "arXiv",
+  "type": "preprint",
+  "tier": 2,
+  "doi": null,
+  "arxiv_id": "2611.01123",
+  "url": "https://arxiv.org/abs/2611.01123",
+  "topics": [
+   "T1",
+   "T3",
+   "T5"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "ellahib2026temporal",
+  "aliases": [],
+  "title": "Temporal Leakage in Search-Engine Date-Filtered Web Retrieval: A Retrospective Forecasting Case Study",
+  "authors": [
+   "El Lahib, A.",
+   "Xia, Y.-J.",
+   "Li, Z.",
+   "Wang, Y.",
+   "Pi, X."
+  ],
+  "year": 2026,
+  "venue": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+  "type": "conference",
+  "tier": 1,
+  "doi": "10.18653/v1/2026.acl-short.65",
+  "arxiv_id": "2602.00758",
+  "url": "https://doi.org/10.18653/v1/2026.acl-short.65",
+  "topics": [
+   "T2"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "eliseev2026fake",
+  "aliases": [],
+  "title": "Fake Date Tests: Can We Trust In-sample Accuracy of LLMs in Macroeconomic Forecasting?",
+  "authors": [
+   "Eliseev, A.",
+   "Seleznev, S."
+  ],
+  "year": 2026,
+  "venue": "arXiv",
+  "type": "preprint",
+  "tier": 2,
+  "doi": null,
+  "arxiv_id": "2601.07992",
+  "url": "https://arxiv.org/abs/2601.07992",
+  "topics": [
+   "T1"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "engelberg2025neutering",
+  "aliases": [],
+  "title": "Entity Neutering",
+  "authors": [
+   "Engelberg, J.",
+   "Manela, A.",
+   "Mullins, W.",
+   "Vulicevic, L."
+  ],
+  "year": 2025,
+  "venue": "SSRN Working Paper",
+  "type": "preprint",
+  "tier": 2,
+  "doi": "10.2139/ssrn.5182756",
+  "arxiv_id": null,
+  "url": "https://doi.org/10.2139/ssrn.5182756",
+  "topics": [
+   "T3"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "farquhar2024detecting",
+  "aliases": [],
+  "title": "Detecting hallucinations in large language models using semantic entropy",
+  "authors": [
+   "Farquhar, S.",
+   "Kossen, J.",
+   "Kuhn, L.",
+   "Gal, Y."
+  ],
+  "year": 2024,
+  "venue": "Nature",
+  "type": "journal",
+  "tier": 1,
+  "doi": "10.1038/s41586-024-07421-0",
+  "arxiv_id": null,
+  "url": "https://doi.org/10.1038/s41586-024-07421-0",
+  "topics": [
+   "T4"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "fu2025does",
+  "aliases": [],
+  "title": "Does Data Contamination Detection Work (Well) for LLMs? A Survey and Evaluation on Detection Assumptions",
+  "authors": [
+   "Fu, Y.",
+   "Uzuner, O.",
+   "Yetisgen, M.",
+   "Xia, F."
+  ],
+  "year": 2025,
+  "venue": "Findings of the Association for Computational Linguistics: NAACL 2025",
+  "type": "conference",
+  "tier": 1,
+  "doi": "10.18653/v1/2025.findings-naacl.291",
+  "arxiv_id": "2410.18966",
+  "url": "https://doi.org/10.18653/v1/2025.findings-naacl.291",
+  "topics": [
+   "T4"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "gao2025detecting",
+  "aliases": [],
+  "title": "Detecting Lookahead Bias in LLM Forecasts",
+  "authors": [
+   "Gao, Z.",
+   "Jiang, W.",
+   "Yan, Y."
+  ],
+  "year": 2025,
+  "venue": "arXiv",
+  "type": "preprint",
+  "tier": 2,
+  "doi": null,
+  "arxiv_id": "2512.23847",
+  "url": "https://arxiv.org/abs/2512.23847",
+  "topics": [
+   "T1",
+   "T4"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "glasserman2024assessing",
+  "aliases": [
+   "glasserman2024lookahead"
+  ],
+  "title": "Assessing Look-Ahead Bias in Stock Return Predictions Generated by GPT Sentiment Analysis",
+  "authors": [
+   "Glasserman, P.",
+   "Lin, C."
+  ],
+  "year": 2024,
+  "venue": "The Journal of Financial Data Science",
+  "type": "journal",
+  "tier": 1,
+  "doi": "10.3905/jfds.2023.1.143",
+  "arxiv_id": "2309.17322",
+  "url": "https://doi.org/10.3905/jfds.2023.1.143",
+  "topics": [
+   "T1",
+   "T3"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "golchin2024time",
+  "aliases": [],
+  "title": "Time Travel in LLMs: Tracing Data Contamination in Large Language Models",
+  "authors": [
+   "Golchin, S.",
+   "Surdeanu, M."
+  ],
+  "year": 2024,
+  "venue": "International Conference on Learning Representations (ICLR 2024)",
+  "type": "conference",
+  "tier": 1,
+  "doi": null,
+  "arxiv_id": "2308.08493",
+  "url": "https://iclr.cc/virtual/2024/poster/19550",
+  "topics": [
+   "T4"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "greve2025swapping",
+  "aliases": [],
+  "title": "Named Entity Swapping for Metadata Anonymization in a Text Corpus",
+  "authors": [
+   "Greve, J.",
+   "Sablica, L."
+  ],
+  "year": 2025,
+  "venue": "arXiv",
+  "type": "preprint",
+  "tier": 2,
+  "doi": null,
+  "arxiv_id": "2505.21128",
+  "url": "https://arxiv.org/abs/2505.21128",
+  "topics": [
+   "T3"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "han2025search",
+  "aliases": [],
+  "title": "Search-Time Data Contamination",
+  "authors": [
+   "Han, Z.",
+   "Mankikar, M.",
+   "Michael, J.",
+   "Wang, Z."
+  ],
+  "year": 2025,
+  "venue": "arXiv",
+  "type": "preprint",
+  "tier": 2,
+  "doi": null,
+  "arxiv_id": "2508.13180",
+  "url": "https://arxiv.org/abs/2508.13180",
+  "topics": [
+   "T2"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "he2025chronologically",
+  "aliases": [],
+  "title": "Chronologically Consistent Large Language Models",
+  "authors": [
+   "He, S.",
+   "Lv, L.",
+   "Manela, A.",
+   "Wu, J."
+  ],
+  "year": 2025,
+  "venue": "arXiv",
+  "type": "preprint",
+  "tier": 2,
+  "doi": null,
+  "arxiv_id": "2502.21206",
+  "url": "https://arxiv.org/abs/2502.21206",
+  "topics": [
+   "T1"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "hoberg2017fraudulent",
+  "aliases": [],
+  "title": "Do fraudulent firms produce abnormal disclosure?",
+  "authors": [
+   "Hoberg, G.",
+   "Lewis, C."
+  ],
+  "year": 2017,
+  "venue": "Journal of Corporate Finance",
+  "type": "journal",
+  "tier": 1,
+  "doi": "10.1016/j.jcorpfin.2016.12.007",
+  "arxiv_id": null,
+  "url": "https://doi.org/10.1016/j.jcorpfin.2016.12.007",
+  "topics": [
+   "T5"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "huang2025survey",
+  "aliases": [],
+  "title": "A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions",
+  "authors": [
+   "Huang, L.",
+   "Yu, W.",
+   "Ma, W.",
+   "Zhong, W.",
+   "Feng, Z.",
+   "Wang, H.",
+   "Chen, Q.",
+   "Peng, W.",
+   "Feng, X.",
+   "Qin, B.",
+   "Liu, T."
+  ],
+  "year": 2025,
+  "venue": "ACM Transactions on Information Systems",
+  "type": "journal",
+  "tier": 1,
+  "doi": "10.1145/3703155",
+  "arxiv_id": "2311.05232",
+  "url": "https://doi.org/10.1145/3703155",
+  "topics": [
+   "T4"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "jacovi2023stop",
+  "aliases": [],
+  "title": "Stop Uploading Test Data in Plain Text: Practical Strategies for Mitigating Data Contamination by Evaluation Benchmarks",
+  "authors": [
+   "Jacovi, A.",
+   "Caciularu, A.",
+   "Goldman, O.",
+   "Goldberg, Y."
+  ],
+  "year": 2023,
+  "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+  "type": "conference",
+  "tier": 1,
+  "doi": "10.18653/v1/2023.emnlp-main.308",
+  "arxiv_id": "2305.10160",
+  "url": "https://doi.org/10.18653/v1/2023.emnlp-main.308",
+  "topics": [
+   "T2"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "kadavath2022language",
+  "aliases": [],
+  "title": "Language Models (Mostly) Know What They Know",
+  "authors": [
+   "Kadavath, S.",
+   "Conerly, T.",
+   "Askell, A.",
+   "Henighan, T.",
+   "Drain, D.",
+   "Perez, E.",
+   "Schiefer, N.",
+   "Hatfield-Dodds, Z.",
+   "DasSarma, N.",
+   "Tran-Johnson, E.",
+   "Johnston, S.",
+   "El-Showk, S.",
+   "Jones, A.",
+   "Elhage, N.",
+   "Hume, T.",
+   "Chen, A.",
+   "Bai, Y.",
+   "Bowman, S.",
+   "Fort, S.",
+   "Ganguli, D.",
+   "Hernandez, D.",
+   "Jacobson, J.",
+   "Kernion, J.",
+   "Kravec, S.",
+   "Lovitt, L.",
+   "Ndousse, K.",
+   "Olsson, C.",
+   "Ringer, S.",
+   "Amodei, D.",
+   "Brown, T.",
+   "Clark, J.",
+   "Joseph, N.",
+   "Mann, B.",
+   "McCandlish, S.",
+   "Olah, C.",
+   "Kaplan, J."
+  ],
+  "year": 2022,
+  "venue": "arXiv",
+  "type": "preprint",
+  "tier": 2,
+  "doi": null,
+  "arxiv_id": "2207.05221",
+  "url": "https://arxiv.org/abs/2207.05221",
+  "topics": [
+   "T4"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "kalai2025why",
+  "aliases": [],
+  "title": "Why Language Models Hallucinate",
+  "authors": [
+   "Kalai, A. T.",
+   "Nachum, O.",
+   "Vempala, S. S.",
+   "Zhang, E."
+  ],
+  "year": 2025,
+  "venue": "arXiv",
+  "type": "preprint",
+  "tier": 2,
+  "doi": null,
+  "arxiv_id": "2509.04664",
+  "url": "https://arxiv.org/abs/2509.04664",
+  "topics": [
+   "T4"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "kandpal2023large",
+  "aliases": [],
+  "title": "Large Language Models Struggle to Learn Long-Tail Knowledge",
+  "authors": [
+   "Kandpal, N.",
+   "Deng, H.",
+   "Roberts, A.",
+   "Wallace, E.",
+   "Raffel, C."
+  ],
+  "year": 2023,
+  "venue": "ICML 2023",
+  "type": "conference",
+  "tier": 1,
+  "doi": null,
+  "arxiv_id": "2211.08411",
+  "url": "https://arxiv.org/abs/2211.08411",
+  "topics": [
+   "T1",
+   "T4"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "kapoor2026holistic",
+  "aliases": [],
+  "title": "Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation",
+  "authors": [
+   "Kapoor, S.",
+   "Stroebl, B.",
+   "Kirgis, P.",
+   "Nadgir, N.",
+   "Siegel, Z. S.",
+   "Wei, B.",
+   "Xue, T.",
+   "Chen, Z.",
+   "Chen, F.",
+   "Utpala, S.",
+   "Ndzomga, F.",
+   "Oruganty, D.",
+   "Luskin, S.",
+   "Liu, K.",
+   "Yu, B.",
+   "Arora, A.",
+   "Hahm, D.",
+   "Trivedi, H.",
+   "Sun, H.",
+   "Lee, J.",
+   "Jin, T.",
+   "Mai, Y.",
+   "Zhou, Y.",
+   "Zhu, Y.",
+   "Bommasani, R.",
+   "Kang, D.",
+   "Song, D.",
+   "Henderson, P.",
+   "Su, Y.",
+   "Liang, P.",
+   "Narayanan, A."
+  ],
+  "year": 2026,
+  "venue": "International Conference on Learning Representations (ICLR 2026)",
+  "type": "conference",
+  "tier": 1,
+  "doi": null,
+  "arxiv_id": "2510.11977",
+  "url": "https://arxiv.org/abs/2510.11977",
+  "topics": [
+   "T2"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "karger2025forecastbench",
+  "aliases": [],
+  "title": "ForecastBench: A Dynamic Benchmark of AI Forecasting Capabilities",
+  "authors": [
+   "Karger, E.",
+   "Bastani, H.",
+   "Chen, Y.-H.",
+   "Jacobs, Z.",
+   "Halawi, D.",
+   "Zhang, F.",
+   "Tetlock, P. E."
+  ],
+  "year": 2025,
+  "venue": "International Conference on Learning Representations (ICLR 2025)",
+  "type": "conference",
+  "tier": 1,
+  "doi": null,
+  "arxiv_id": "2409.19839",
+  "url": "https://arxiv.org/abs/2409.19839",
+  "topics": [
+   "T5"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "karpoff2017proxies",
+  "aliases": [],
+  "title": "Proxies and Databases in Financial Misconduct Research",
+  "authors": [
+   "Karpoff, J. M.",
+   "Koester, A.",
+   "Lee, D. S.",
+   "Martin, G. S."
+  ],
+  "year": 2017,
+  "venue": "The Accounting Review",
+  "type": "journal",
+  "tier": 1,
+  "doi": "10.2308/accr-51766",
+  "arxiv_id": null,
+  "url": "https://doi.org/10.2308/accr-51766",
+  "topics": [
+   "T5"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "krco2026ratbench",
+  "aliases": [],
+  "title": "RAT-Bench: A Comprehensive Benchmark for Text Anonymization",
+  "authors": [
+   "Krčo, N.",
+   "Yao, Z.",
+   "Meeus, M.",
+   "de Montjoye, Y.-A."
+  ],
+  "year": 2026,
+  "venue": "arXiv",
+  "type": "preprint",
+  "tier": 2,
+  "doi": null,
+  "arxiv_id": "2602.12806",
+  "url": "https://arxiv.org/abs/2602.12806",
+  "topics": [
+   "T3"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "lermen2026deanonymization",
+  "aliases": [],
+  "title": "Large-scale online deanonymization with LLMs",
+  "authors": [
+   "Lermen, S.",
+   "Paleka, D.",
+   "Swanson, J.",
+   "Aerni, M.",
+   "Carlini, N.",
+   "Tramèr, F."
+  ],
+  "year": 2026,
+  "venue": "arXiv (journal_ref lists USENIX Security 26; not independently confirmed)",
+  "type": "preprint",
+  "tier": 2,
+  "doi": null,
+  "arxiv_id": "2602.16800",
+  "url": "https://arxiv.org/abs/2602.16800",
+  "topics": [
+   "T3"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "levy2026caution",
+  "aliases": [],
+  "title": "Caution Ahead: Numerical Reasoning and Look-Ahead Bias in AI Models",
+  "authors": [
+   "Levy, B."
+  ],
+  "year": 2026,
+  "venue": "Journal of Accounting Research",
+  "type": "journal",
+  "tier": 1,
+  "doi": "10.1111/1475-679X.70058",
+  "arxiv_id": null,
+  "url": "https://doi.org/10.1111/1475-679X.70058",
+  "topics": [
+   "T1"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "li2025deepfund",
+  "aliases": [],
+  "title": "Time Travel is Cheating: Going Live with DeepFund for Real-Time Fund Investment Benchmarking",
+  "authors": [
+   "Li, C.",
+   "Shi, Y.",
+   "Wang, C.",
+   "Duan, Q.",
+   "Ruan, R.",
+   "Huang, W.",
+   "Long, H.",
+   "Huang, L.",
+   "Tang, N.",
+   "Luo, Y."
+  ],
+  "year": 2025,
+  "venue": "Advances in Neural Information Processing Systems (NeurIPS 2025), Datasets and Benchmarks Track",
+  "type": "conference",
+  "tier": 1,
+  "doi": null,
+  "arxiv_id": "2505.11065",
+  "url": "https://arxiv.org/abs/2505.11065",
+  "topics": [
+   "T5"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "loiseau2026adaptive",
+  "aliases": [],
+  "title": "Adaptive Text Anonymization: Learning Privacy-Utility Trade-offs via Prompt Optimization",
+  "authors": [
+   "Loiseau, G.",
+   "Sileo, D.",
+   "Riquet, D.",
+   "Meyer, M.",
+   "Tommasi, M."
+  ],
+  "year": 2026,
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2026, pp. 8207-8229",
+  "type": "conference",
+  "tier": 1,
+  "doi": "10.18653/v1/2026.findings-acl.401",
+  "arxiv_id": "2602.20743",
+  "url": "https://doi.org/10.18653/v1/2026.findings-acl.401",
+  "topics": [
+   "T3"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "longpre2021entity",
+  "aliases": [],
+  "title": "Entity-Based Knowledge Conflicts in Question Answering",
+  "authors": [
+   "Longpre, S.",
+   "Perisetla, K.",
+   "Chen, A.",
+   "Ramesh, N.",
+   "DuBois, C.",
+   "Singh, S."
+  ],
+  "year": 2021,
+  "venue": "Proceedings of EMNLP 2021",
+  "type": "conference",
+  "tier": 1,
+  "doi": "10.18653/v1/2021.emnlp-main.565",
+  "arxiv_id": "2109.05052",
+  "url": "https://doi.org/10.18653/v1/2021.emnlp-main.565",
+  "topics": [
+   "T1"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "lopezlira2025memorization",
+  "aliases": [],
+  "title": "The Memorization Problem: Can We Trust LLMs' Economic Forecasts?",
+  "authors": [
+   "Lopez-Lira, A.",
+   "Tang, Y.",
+   "Zhu, M."
+  ],
+  "year": 2025,
+  "venue": "arXiv",
+  "type": "preprint",
+  "tier": 2,
+  "doi": null,
+  "arxiv_id": "2504.14765",
+  "url": "https://arxiv.org/abs/2504.14765",
+  "topics": [
+   "T1",
+   "T3"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "ludwig2026large",
+  "aliases": [],
+  "title": "Large Language Models: An Applied Econometric Framework",
+  "authors": [
+   "Ludwig, J.",
+   "Mullainathan, S.",
+   "Rambachan, A."
+  ],
+  "year": 2026,
+  "venue": "Annual Review of Economics",
+  "type": "journal",
+  "tier": 1,
+  "doi": "10.1146/annurev-economics-120925-105620",
+  "arxiv_id": null,
+  "url": "https://doi.org/10.1146/annurev-economics-120925-105620",
+  "topics": [
+   "T1",
+   "T2"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "mallen2023when",
+  "aliases": [],
+  "title": "When Not to Trust Language Models: Investigating Effectiveness of Parametric and Non-Parametric Memories",
+  "authors": [
+   "Mallen, A.",
+   "Asai, A.",
+   "Zhong, V.",
+   "Das, R.",
+   "Khashabi, D.",
+   "Hajishirzi, H."
+  ],
+  "year": 2023,
+  "venue": "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  "type": "conference",
+  "tier": 1,
+  "doi": "10.18653/v1/2023.acl-long.546",
+  "arxiv_id": "2212.10511",
+  "url": "https://doi.org/10.18653/v1/2023.acl-long.546",
+  "topics": [
+   "T4"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "manzanaressalor2024disclosure",
+  "aliases": [],
+  "title": "Evaluating the disclosure risk of anonymized documents via a machine learning-based re-identification attack",
+  "authors": [
+   "Manzanares-Salor, B.",
+   "Sánchez, D.",
+   "Lison, P."
+  ],
+  "year": 2024,
+  "venue": "Data Mining and Knowledge Discovery, 38(6), 4040-4075",
+  "type": "journal",
+  "tier": 1,
+  "doi": "10.1007/s10618-024-01066-3",
+  "arxiv_id": null,
+  "url": "https://doi.org/10.1007/s10618-024-01066-3",
+  "topics": [
+   "T3"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "min2023factscore",
+  "aliases": [],
+  "title": "FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation",
+  "authors": [
+   "Min, S.",
+   "Krishna, K.",
+   "Lyu, X.",
+   "Lewis, M.",
+   "Yih, W.",
+   "Koh, P. W.",
+   "Iyyer, M.",
+   "Zettlemoyer, L.",
+   "Hajishirzi, H."
+  ],
+  "year": 2023,
+  "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+  "type": "conference",
+  "tier": 1,
+  "doi": "10.18653/v1/2023.emnlp-main.741",
+  "arxiv_id": "2305.14251",
+  "url": "https://doi.org/10.18653/v1/2023.emnlp-main.741",
+  "topics": [
+   "T4"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "narayanan2008robust",
+  "aliases": [],
+  "title": "Robust De-anonymization of Large Sparse Datasets",
+  "authors": [
+   "Narayanan, A.",
+   "Shmatikov, V."
+  ],
+  "year": 2008,
+  "venue": "2008 IEEE Symposium on Security and Privacy, pp. 111-125",
+  "type": "conference",
+  "tier": 1,
+  "doi": "10.1109/SP.2008.33",
+  "arxiv_id": null,
+  "url": "https://doi.org/10.1109/SP.2008.33",
+  "topics": [
+   "T3"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "ni2026popular",
+  "aliases": [],
+  "title": "Popular but Wrong: Understanding and Mitigating LLM Overconfidence through Knowledge Popularity",
+  "authors": [
+   "Ni, S.",
+   "Bi, K.",
+   "Guo, J.",
+   "Cheng, X."
+  ],
+  "year": 2026,
+  "venue": "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing",
+  "type": "conference",
+  "tier": 1,
+  "doi": "10.18653/2026.emnlp-main.1231",
+  "arxiv_id": "2505.17537",
+  "url": "https://doi.org/10.18653/2026.emnlp-main.1231",
+  "topics": [
+   "T4"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "oren2024proving",
+  "aliases": [],
+  "title": "Proving Test Set Contamination in Black-Box Language Models",
+  "authors": [
+   "Oren, Y.",
+   "Meister, N.",
+   "Chatterji, N.",
+   "Ladhak, F.",
+   "Hashimoto, T. B."
+  ],
+  "year": 2024,
+  "venue": "ICLR 2024",
+  "type": "conference",
+  "tier": 1,
+  "doi": null,
+  "arxiv_id": "2310.17623",
+  "url": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/46e624c244cff669223d488defd4e835-Abstract-Conference.html",
+  "topics": [
+   "T1"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "paleka2026pitfalls",
+  "aliases": [],
+  "title": "Pitfalls in Evaluating Language Model Forecasters",
+  "authors": [
+   "Paleka, D.",
+   "Goel, S.",
+   "Geiping, J.",
+   "Tramèr, F."
+  ],
+  "year": 2026,
+  "venue": "International Conference on Learning Representations (ICLR 2026)",
+  "type": "conference",
+  "tier": 1,
+  "doi": null,
+  "arxiv_id": "2506.00723",
+  "url": "https://arxiv.org/abs/2506.00723",
+  "topics": [
+   "T2"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "perols2011financial",
+  "aliases": [],
+  "title": "Financial Statement Fraud Detection: An Analysis of Statistical and Machine Learning Algorithms",
+  "authors": [
+   "Perols, J."
+  ],
+  "year": 2011,
+  "venue": "Auditing: A Journal of Practice & Theory",
+  "type": "journal",
+  "tier": 1,
+  "doi": "10.2308/ajpt-50009",
+  "arxiv_id": null,
+  "url": "https://doi.org/10.2308/ajpt-50009",
+  "topics": [
+   "T5"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "petroni2019language",
+  "aliases": [],
+  "title": "Language Models as Knowledge Bases?",
+  "authors": [
+   "Petroni, F.",
+   "Rocktäschel, T.",
+   "Riedel, S.",
+   "Lewis, P.",
+   "Bakhtin, A.",
+   "Wu, Y.",
+   "Miller, A."
+  ],
+  "year": 2019,
+  "venue": "Proceedings of EMNLP-IJCNLP 2019",
+  "type": "conference",
+  "tier": 1,
+  "doi": "10.18653/v1/D19-1250",
+  "arxiv_id": "1909.01066",
+  "url": "https://doi.org/10.18653/v1/D19-1250",
+  "topics": [
+   "T4"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "pilan2022tab",
+  "aliases": [],
+  "title": "The Text Anonymization Benchmark (TAB): A Dedicated Corpus and Evaluation Framework for Text Anonymization",
+  "authors": [
+   "Pilán, I.",
+   "Lison, P.",
+   "Øvrelid, L.",
+   "Papadopoulou, A.",
+   "Sánchez, D.",
+   "Batet, M."
+  ],
+  "year": 2022,
+  "venue": "Computational Linguistics, 48(4), 1053-1101",
+  "type": "journal",
+  "tier": 1,
+  "doi": "10.1162/coli_a_00458",
+  "arxiv_id": "2202.00443",
+  "url": "https://doi.org/10.1162/coli_a_00458",
+  "topics": [
+   "T3"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "prasad2026baitbench",
+  "aliases": [],
+  "title": "BAITBENCH: Measuring Agent Reward Hacking with Optional Shortcuts Planted in ML Tasks",
+  "authors": [
+   "Prasad, P. S.",
+   "Anto, M.",
+   "Eshuijs, L.",
+   "Moncarz, J.",
+   "Kislay, K.",
+   "Vazquez, J. J."
+  ],
+  "year": 2026,
+  "venue": "arXiv",
+  "type": "preprint",
+  "tier": 2,
+  "doi": null,
+  "arxiv_id": "2608.30724",
+  "url": "https://arxiv.org/abs/2608.30724",
+  "topics": [
+   "T2"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "purda2015accounting",
+  "aliases": [],
+  "title": "Accounting Variables, Deception, and a Bag of Words: Assessing the Tools of Fraud Detection",
+  "authors": [
+   "Purda, L.",
+   "Skillicorn, D."
+  ],
+  "year": 2015,
+  "venue": "Contemporary Accounting Research",
+  "type": "journal",
+  "tier": 1,
+  "doi": "10.1111/1911-3846.12089",
+  "arxiv_id": null,
+  "url": "https://doi.org/10.1111/1911-3846.12089",
+  "topics": [
+   "T5"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "roberts2020much",
+  "aliases": [],
+  "title": "How Much Knowledge Can You Pack Into the Parameters of a Language Model?",
+  "authors": [
+   "Roberts, A.",
+   "Raffel, C.",
+   "Shazeer, N."
+  ],
+  "year": 2020,
+  "venue": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+  "type": "conference",
+  "tier": 1,
+  "doi": "10.18653/v1/2020.emnlp-main.437",
+  "arxiv_id": "2002.08910",
+  "url": "https://doi.org/10.18653/v1/2020.emnlp-main.437",
+  "topics": [
+   "T2"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "roberts2024cutoff",
+  "aliases": [
+   "roberts2023data"
+  ],
+  "title": "To the Cutoff... and Beyond? A Longitudinal Perspective on LLM Data Contamination (arXiv title: Data Contamination Through the Lens of Time)",
+  "authors": [
+   "Roberts, M.",
+   "Thakur, H.",
+   "Herlihy, C.",
+   "White, C.",
+   "Dooley, S."
+  ],
+  "year": 2024,
+  "venue": "International Conference on Learning Representations (ICLR 2024)",
+  "type": "conference",
+  "tier": 1,
+  "doi": null,
+  "arxiv_id": "2310.10628",
+  "url": "https://arxiv.org/abs/2310.10628",
+  "topics": [
+   "T1",
+   "T5"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "rocher2019estimating",
+  "aliases": [],
+  "title": "Estimating the success of re-identifications in incomplete datasets using generative models",
+  "authors": [
+   "Rocher, L.",
+   "Hendrickx, J. M.",
+   "de Montjoye, Y.-A."
+  ],
+  "year": 2019,
+  "venue": "Nature Communications, 10, Article 3069",
+  "type": "journal",
+  "tier": 1,
+  "doi": "10.1038/s41467-019-10933-3",
+  "arxiv_id": null,
+  "url": "https://doi.org/10.1038/s41467-019-10933-3",
+  "topics": [
+   "T3"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "ross2025when2call",
+  "aliases": [],
+  "title": "When2Call: When (not) to Call Tools",
+  "authors": [
+   "Ross, H.",
+   "Mahabaleshwarkar, A. S.",
+   "Suhara, Y."
+  ],
+  "year": 2025,
+  "venue": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+  "type": "conference",
+  "tier": 1,
+  "doi": "10.18653/v1/2025.naacl-long.174",
+  "arxiv_id": "2504.18851",
+  "url": "https://doi.org/10.18653/v1/2025.naacl-long.174",
+  "topics": [
+   "T2"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "roy2026memguard",
+  "aliases": [],
+  "title": "MemGuard-Alpha: Limits of Membership Inference for Detecting and Filtering Memorization-Contaminated Signals in LLM-Based Financial Forecasting",
+  "authors": [
+   "Roy, A.",
+   "Roy, D."
+  ],
+  "year": 2026,
+  "venue": "arXiv",
+  "type": "preprint",
+  "tier": 2,
+  "doi": null,
+  "arxiv_id": "2603.26797",
+  "url": "https://arxiv.org/abs/2603.26797",
+  "topics": [
+   "T1"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "sarkar2024lookahead",
+  "aliases": [],
+  "title": "Lookahead Bias in Pretrained Language Models",
+  "authors": [
+   "Sarkar, S.",
+   "Vafa, K."
+  ],
+  "year": 2024,
+  "venue": "SSRN",
+  "type": "preprint",
+  "tier": 2,
+  "doi": "10.2139/ssrn.4754678",
+  "arxiv_id": null,
+  "url": "https://doi.org/10.2139/ssrn.4754678",
+  "topics": [
+   "T1",
+   "T2"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "shah2025beyond",
+  "aliases": [],
+  "title": "Beyond the Reported Cutoff: Where Large Language Models Fall Short on Financial Knowledge",
+  "authors": [
+   "Shah, A.",
+   "Ye, L.",
+   "Jaskowski, S.",
+   "Xu, W.",
+   "Chava, S."
+  ],
+  "year": 2025,
+  "venue": "Conference on Language Modeling (COLM 2025)",
+  "type": "conference",
+  "tier": 1,
+  "doi": null,
+  "arxiv_id": "2504.00042",
+  "url": "https://arxiv.org/abs/2504.00042",
+  "topics": [
+   "T4"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "shi2024detecting",
+  "aliases": [],
+  "title": "Detecting Pretraining Data from Large Language Models",
+  "authors": [
+   "Shi, W.",
+   "Ajith, A.",
+   "Xia, M.",
+   "Huang, Y.",
+   "Liu, D.",
+   "Blevins, T.",
+   "Chen, D.",
+   "Zettlemoyer, L."
+  ],
+  "year": 2024,
+  "venue": "ICLR 2024",
+  "type": "conference",
+  "tier": 1,
+  "doi": null,
+  "arxiv_id": "2310.16789",
+  "url": "https://proceedings.iclr.cc/paper_files/paper/2024/hash/e32ad85fa27be4a9868d55703f01323e-Abstract-Conference.html",
+  "topics": [
+   "T1"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "shlomo2010releasing",
+  "aliases": [],
+  "title": "Releasing Microdata: Disclosure Risk Estimation, Data Masking and Assessing Utility",
+  "authors": [
+   "Shlomo, N."
+  ],
+  "year": 2010,
+  "venue": "Journal of Privacy and Confidentiality, 2(1)",
+  "type": "journal",
+  "tier": 1,
+  "doi": "10.29012/jpc.v2i1.584",
+  "arxiv_id": null,
+  "url": "https://doi.org/10.29012/jpc.v2i1.584",
+  "topics": [
+   "T3"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "staab2024beyond",
+  "aliases": [],
+  "title": "Beyond Memorization: Violating Privacy Via Inference with Large Language Models",
+  "authors": [
+   "Staab, R.",
+   "Vero, M.",
+   "Balunović, M.",
+   "Vechev, M."
+  ],
+  "year": 2024,
+  "venue": "International Conference on Learning Representations (ICLR 2024)",
+  "type": "conference",
+  "tier": 1,
+  "doi": null,
+  "arxiv_id": "2310.07298",
+  "url": "https://arxiv.org/abs/2310.07298",
+  "topics": [
+   "T3"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "staab2025anonymizers",
+  "aliases": [],
+  "title": "Language Models are Advanced Anonymizers",
+  "authors": [
+   "Staab, R.",
+   "Vero, M.",
+   "Balunović, M.",
+   "Vechev, M."
+  ],
+  "year": 2025,
+  "venue": "International Conference on Learning Representations (ICLR 2025)",
+  "type": "conference",
+  "tier": 1,
+  "doi": null,
+  "arxiv_id": "2402.13846",
+  "url": "https://arxiv.org/abs/2402.13846",
+  "topics": [
+   "T3"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "stein2026detecting",
+  "aliases": [],
+  "title": "Detecting Safety Violations Across Many Agent Traces",
+  "authors": [
+   "Stein, A.",
+   "Brown, D.",
+   "Hassani, H.",
+   "Naik, M.",
+   "Wong, E."
+  ],
+  "year": 2026,
+  "venue": "arXiv",
+  "type": "preprint",
+  "tier": 2,
+  "doi": null,
+  "arxiv_id": "2604.11806",
+  "url": "https://arxiv.org/abs/2604.11806",
+  "topics": [
+   "T2"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "sugiura2026edinet",
+  "aliases": [],
+  "title": "EDINET-Bench: Evaluating LLMs on Complex Financial Tasks using Japanese Financial Statements",
+  "authors": [
+   "Sugiura, I.",
+   "Ishida, T.",
+   "Makino, T.",
+   "Tazuke, C.",
+   "Nakagawa, T.",
+   "Nakago, K.",
+   "Ha, D."
+  ],
+  "year": 2026,
+  "venue": "ICLR 2026",
+  "type": "conference",
+  "tier": 1,
+  "doi": null,
+  "arxiv_id": "2506.08762",
+  "url": "https://arxiv.org/abs/2506.08762",
+  "topics": [
+   "T1",
+   "T3",
+   "T5"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "sun2024head",
+  "aliases": [],
+  "title": "Head-to-Tail: How Knowledgeable are Large Language Models (LLMs)? A.K.A. Will LLMs Replace Knowledge Graphs?",
+  "authors": [
+   "Sun, K.",
+   "Xu, Y.",
+   "Zha, H.",
+   "Liu, Y.",
+   "Dong, X. L."
+  ],
+  "year": 2024,
+  "venue": "Proceedings of NAACL-HLT 2024 (Volume 1: Long Papers)",
+  "type": "conference",
+  "tier": 1,
+  "doi": "10.18653/v1/2024.naacl-long.18",
+  "arxiv_id": "2308.10168",
+  "url": "https://doi.org/10.18653/v1/2024.naacl-long.18",
+  "topics": [
+   "T4"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "sweeney2002kanonymity",
+  "aliases": [],
+  "title": "k-Anonymity: A Model for Protecting Privacy",
+  "authors": [
+   "Sweeney, L."
+  ],
+  "year": 2002,
+  "venue": "International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems, 10(5), 557-570",
+  "type": "journal",
+  "tier": 1,
+  "doi": "10.1142/S0218488502001648",
+  "arxiv_id": null,
+  "url": "https://doi.org/10.1142/S0218488502001648",
+  "topics": [
+   "T3"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "thees2026agentic",
+  "aliases": [],
+  "title": "Agentic AI-Powered Re-identification: An Emerging, Scalable Threat to Mobility Microdata Privacy",
+  "authors": [
+   "Thees, O.",
+   "Müller, R.",
+   "Templ, M."
+  ],
+  "year": 2026,
+  "venue": "Privacy in Statistical Databases (PSD 2026), Lecture Notes in Computer Science, pp. 319-332",
+  "type": "conference",
+  "tier": 1,
+  "doi": "10.1007/978-3-032-37883-5_21",
+  "arxiv_id": "2606.27936",
+  "url": "https://doi.org/10.1007/978-3-032-37883-5_21",
+  "topics": [
+   "T3"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "uppala2026prompts",
+  "aliases": [],
+  "title": "Prompts Don't Protect: Architectural Enforcement via MCP Proxy for LLM Tool Access Control",
+  "authors": [
+   "Uppala, R."
+  ],
+  "year": 2026,
+  "venue": "arXiv",
+  "type": "preprint",
+  "tier": 2,
+  "doi": null,
+  "arxiv_id": "2605.18414",
+  "url": "https://arxiv.org/abs/2605.18414",
+  "topics": [
+   "T2"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "waffodzuyo2026benchmarking",
+  "aliases": [],
+  "title": "Benchmarking Generalization in Financial Statement Fraud Detection: robust evaluation and novel tasks",
+  "authors": [
+   "Waffo Dzuyo, G. S.",
+   "Guibon, G.",
+   "Cerisara, C.",
+   "Belmar-Letelier, L."
+  ],
+  "year": 2026,
+  "venue": "arXiv (accepted at FinLLM@IJCAI 2026)",
+  "type": "preprint",
+  "tier": 2,
+  "doi": null,
+  "arxiv_id": "2607.19259",
+  "url": "https://arxiv.org/abs/2607.19259",
+  "topics": [
+   "T5"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "wang2026searchtime",
+  "aliases": [],
+  "title": "Search-Time Contamination in Deep Research Agents: Measuring Performance Inflation in Public Benchmark Evaluation",
+  "authors": [
+   "Wang, Y.",
+   "Zhang, X.",
+   "Yao, K.",
+   "Zeng, Z.",
+   "Song, K.",
+   "Lin, J.",
+   "Shen, Z."
+  ],
+  "year": 2026,
+  "venue": "arXiv",
+  "type": "preprint",
+  "tier": 2,
+  "doi": null,
+  "arxiv_id": "2606.05241",
+  "url": "https://arxiv.org/abs/2606.05241",
+  "topics": [
+   "T2"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "wang2026agenttraces",
+  "aliases": [],
+  "title": "From Agent Traces to Trust: A Survey of Evidence Tracing and Execution Provenance in LLM Agents",
+  "authors": [
+   "Wang, Y.",
+   "Zhang, J.",
+   "Wu, Z.",
+   "Cai, T.",
+   "Liu, Z.",
+   "Sun, Z.",
+   "Zheng, M.",
+   "Dong, M.",
+   "Qiu, Y.-X.",
+   "Yin, X.",
+   "Zhu, Y."
+  ],
+  "year": 2026,
+  "venue": "arXiv",
+  "type": "preprint",
+  "tier": 2,
+  "doi": null,
+  "arxiv_id": "2606.04990",
+  "url": "https://arxiv.org/abs/2606.04990",
+  "topics": [
+   "T2"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "wang2026umar",
+  "aliases": [],
+  "title": "Multi-Agent Framework for Audit Risk Assessment with Explicit Uncertainty and Evidence Conflict Modeling",
+  "authors": [
+   "Wang, Y.",
+   "Wang, M.",
+   "Lu, Y.",
+   "Peng, Z.",
+   "Lin, S."
+  ],
+  "year": 2026,
+  "venue": "arXiv",
+  "type": "preprint",
+  "tier": 2,
+  "doi": null,
+  "arxiv_id": "2606.15640",
+  "url": "https://arxiv.org/abs/2606.15640",
+  "topics": [
+   "T5"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "wei2024measuring",
+  "aliases": [],
+  "title": "Measuring short-form factuality in large language models",
+  "authors": [
+   "Wei, J.",
+   "Karina, N.",
+   "Chung, H. W.",
+   "Jiao, Y. J.",
+   "Papay, S.",
+   "Glaese, A.",
+   "Schulman, J.",
+   "Fedus, W."
+  ],
+  "year": 2024,
+  "venue": "arXiv",
+  "type": "preprint",
+  "tier": 2,
+  "doi": null,
+  "arxiv_id": "2411.04368",
+  "url": "https://arxiv.org/abs/2411.04368",
+  "topics": [
+   "T4"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "wen2026agentdoxx",
+  "aliases": [],
+  "title": "AgentDoxx: Agentic Re-identification of Anonymized Text with Web Search",
+  "authors": [
+   "Wen, J.",
+   "Li, T."
+  ],
+  "year": 2026,
+  "venue": "arXiv",
+  "type": "preprint",
+  "tier": 2,
+  "doi": null,
+  "arxiv_id": "2610.05586",
+  "url": "https://arxiv.org/abs/2610.05586",
+  "topics": [
+   "T3"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "wu2025anonymization",
+  "aliases": [],
+  "title": "Anonymization and Information Loss",
+  "authors": [
+   "Wu, K.",
+   "Yang, B.",
+   "Ying, Z.",
+   "Zhou, D."
+  ],
+  "year": 2025,
+  "venue": "arXiv",
+  "type": "preprint",
+  "tier": 2,
+  "doi": null,
+  "arxiv_id": "2511.15364",
+  "url": "https://arxiv.org/abs/2511.15364",
+  "topics": [
+   "T3"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "wu2024reasoning",
+  "aliases": [],
+  "title": "Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks",
+  "authors": [
+   "Wu, Z.",
+   "Qiu, L.",
+   "Ross, A.",
+   "Akyürek, E.",
+   "Chen, B.",
+   "Wang, B.",
+   "Kim, N.",
+   "Andreas, J.",
+   "Kim, Y."
+  ],
+  "year": 2024,
+  "venue": "Proceedings of NAACL-HLT 2024 (Volume 1: Long Papers)",
+  "type": "conference",
+  "tier": 1,
+  "doi": "10.18653/v1/2024.naacl-long.102",
+  "arxiv_id": "2307.02477",
+  "url": "https://doi.org/10.18653/v1/2024.naacl-long.102",
+  "topics": [
+   "T1"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "xiong2024can",
+  "aliases": [],
+  "title": "Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs",
+  "authors": [
+   "Xiong, M.",
+   "Hu, Z.",
+   "Lu, X.",
+   "Li, Y.",
+   "Fu, J.",
+   "He, J.",
+   "Hooi, B."
+  ],
+  "year": 2024,
+  "venue": "International Conference on Learning Representations (ICLR 2024)",
+  "type": "conference",
+  "tier": 1,
+  "doi": null,
+  "arxiv_id": "2306.13063",
+  "url": "https://iclr.cc/virtual/2024/poster/18135",
+  "topics": [
+   "T4"
+  ],
+  "verification": "VERIFIED",
+  "via": "arxiv"
+ },
+ {
+  "key": "yin2023large",
+  "aliases": [],
+  "title": "Do Large Language Models Know What They Don't Know?",
+  "authors": [
+   "Yin, Z.",
+   "Sun, Q.",
+   "Guo, Q.",
+   "Wu, J.",
+   "Qiu, X.",
+   "Huang, X."
+  ],
+  "year": 2023,
+  "venue": "Findings of the Association for Computational Linguistics: ACL 2023",
+  "type": "conference",
+  "tier": 1,
+  "doi": "10.18653/v1/2023.findings-acl.551",
+  "arxiv_id": "2305.18153",
+  "url": "https://doi.org/10.18653/v1/2023.findings-acl.551",
+  "topics": [
+   "T4"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "yue2026frauddebate",
+  "aliases": [],
+  "title": "FraudDebate-Agent: A Multi-Agent LLM Framework with an Evidence-Based Debate Mechanism for Financial Statement Fraud Detection",
+  "authors": [
+   "Yue, X.",
+   "Yang, J.",
+   "Liu, W."
+  ],
+  "year": 2026,
+  "venue": "Mathematics",
+  "type": "journal",
+  "tier": 1,
+  "doi": "10.3390/math14152695",
+  "arxiv_id": null,
+  "url": "https://doi.org/10.3390/math14152695",
+  "topics": [
+   "T5"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "zavitsanos2021financial",
+  "aliases": [],
+  "title": "Financial misstatement detection: a realistic evaluation",
+  "authors": [
+   "Zavitsanos, E.",
+   "Mavroeidis, D.",
+   "Bougiatiotis, K.",
+   "Spyropoulou, E.",
+   "Loukas, L.",
+   "Paliouras, G."
+  ],
+  "year": 2021,
+  "venue": "Proceedings of the Second ACM International Conference on AI in Finance (ICAIF '21)",
+  "type": "conference",
+  "tier": 1,
+  "doi": "10.1145/3490354.3494453",
+  "arxiv_id": "2305.17457",
+  "url": "https://doi.org/10.1145/3490354.3494453",
+  "topics": [
+   "T5"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "zhang2024toolbehonest",
+  "aliases": [],
+  "title": "ToolBeHonest: A Multi-level Hallucination Diagnostic Benchmark for Tool-Augmented Large Language Models",
+  "authors": [
+   "Zhang, Y.",
+   "Chen, J.",
+   "Wang, J.",
+   "Liu, Y.",
+   "Yang, C.",
+   "Shi, C.",
+   "Zhu, X.",
+   "Lin, Z.",
+   "Wan, H.",
+   "Yang, Y.",
+   "Sakai, T.",
+   "Feng, T.",
+   "Yamana, H."
+  ],
+  "year": 2024,
+  "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+  "type": "conference",
+  "tier": 1,
+  "doi": "10.18653/v1/2024.emnlp-main.637",
+  "arxiv_id": "2406.20015",
+  "url": "https://doi.org/10.18653/v1/2024.emnlp-main.637",
+  "topics": [
+   "T2"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ },
+ {
+  "key": "zhu2025establishing",
+  "aliases": [],
+  "title": "Establishing Best Practices in Building Rigorous Agentic Benchmarks",
+  "authors": [
+   "Zhu, Y.",
+   "Jin, T.",
+   "Pruksachatkun, Y.",
+   "Zhang, A.",
+   "Liu, S.",
+   "Cui, S.",
+   "Kapoor, S.",
+   "Longpre, S.",
+   "Meng, K.",
+   "Weiss, R.",
+   "Barez, F.",
+   "Gupta, R.",
+   "Dhamala, J.",
+   "Merizian, J.",
+   "Giulianelli, M.",
+   "Coppock, H.",
+   "Ududec, C.",
+   "Sekhon, J.",
+   "Steinhardt, J.",
+   "Kellermann, A.",
+   "Schwettmann, S.",
+   "Zaharia, M.",
+   "Stoica, I.",
+   "Liang, P.",
+   "Kang, D."
+  ],
+  "year": 2025,
+  "venue": "Advances in Neural Information Processing Systems 38",
+  "type": "conference",
+  "tier": 1,
+  "doi": "10.52202/085713-5547",
+  "arxiv_id": "2507.02825",
+  "url": "https://doi.org/10.52202/085713-5547",
+  "topics": [
+   "T2"
+  ],
+  "verification": "VERIFIED",
+  "via": "doi"
+ }
+]

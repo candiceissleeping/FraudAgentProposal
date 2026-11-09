@@ -286,7 +286,7 @@
    "arxiv_id": null,
    "status": "PLAUSIBLE",
    "via": "websearch",
-   "evidence": "WebSearch 2026-11-09: original post found at https://www.anthropic.com/engineering/eval-awareness-browsecomp with the exact title; dated March 2026 by a mirror (pkm-wiki 2026-03-06). Author name 'Coleman, R.' not confirmed in the search results; cite as Anthropic (2026) unless the author is confirmed on the page."
+   "evidence": "WebSearch 2026-11-09 found the post at https://www.anthropic.com/engineering/eval-awareness-browsecomp with the exact title. Page read 2026-11-09 (web-fetch): 'Written by Russell Coleman.' under Authors & acknowledgements; 'Published Mar 6, 2026'. Author and date confirmed; no DOI or arXiv ID, so status stays PLAUSIBLE."
   },
   {
    "key": "ellahib2026temporal",
