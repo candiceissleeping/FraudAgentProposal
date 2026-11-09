@@ -278,11 +278,7 @@ def cmd_evaluate(args):
             for p, mm in zip(pids, memmean):
                 wr.writerow([p, card(json.load(open(f"{D}/facts.json"))[p], args.level)] +
                             [runs[k][p]["risk_score"] for k in range(5)] + [f"{mean[p]:.1f}", f"{mm:.1f}"])
-    # L3 (version 1) keeps results/mem_type/evaluation.md; other levels write into their own folder
-    report = f"{R}/evaluation.md" if args.level == "L3" else f"{R}/{args.level}/evaluation.md"
-    if args.level == "L3" and os.path.exists(report):
-        report = f"{R}/L3/evaluation_rerun.md"
-    open(report, "w", encoding="utf-8").write("\n".join(L) + "\n")
+    open(f"{R}/evaluation.md", "w", encoding="utf-8").write("\n".join(L) + "\n")
     print("\n".join(L))
 
 
