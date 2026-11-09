@@ -1,0 +1,55 @@
+pid,card,run1,run2,run3,run4,run5,mean,name_only_mem_mean
+O01C,fiscal year 2024; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more,18,18,26,20,16,19.6,44.0
+O01T,fiscal year 2024; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years,22,22,30,22,20,23.2,22.0
+O02C,fiscal year 2025; total assets: $1 billion or more; public float: $75-700 million; exchange listing (Section 12(b)): none; filing with the SEC for: 10-20 years,12,12,15,12,12,12.6,7.8
+O02T,fiscal year 2025; total assets: $1 billion or more; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years,20,20,20,15,18,18.6,20.0
+O03C,fiscal year 2024; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 10-20 years,30,28,35,28,22,28.6,23.0
+O03T,fiscal year 2024; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 10-20 years,30,28,35,28,22,28.6,45.0
+O04C,fiscal year 2024; total assets: $100 million-$1 billion; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 20 years or more,20,18,28,18,17,20.2,7.2
+O04T,fiscal year 2024; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: under 3 years,35,34,38,35,28,34.0,51.0
+O05C,fiscal year 2025; total assets: $100 million-$1 billion; public float: $75-700 million; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 20 years or more,10,10,12,9,8,9.8,6.8
+O05T,fiscal year 2025; total assets: $100 million-$1 billion; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 10-20 years,16,16,20,15,15,16.4,48.0
+O06C,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): NYSE American; filing with the SEC for: 3-10 years,24,24,28,22,20,23.6,36.0
+O06T,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: under 3 years,28,30,32,28,24,28.4,41.0
+O07C,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more,18,18,22,20,16,18.8,28.0
+O07T,fiscal year 2025; total assets: under $100 million; public float: $75-700 million; exchange listing (Section 12(b)): none; filing with the SEC for: 3-10 years,30,30,30,22,22,26.8,42.0
+O08C,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 20 years or more,27,26,30,25,20,25.6,54.0
+O08T,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 20 years or more,27,26,30,25,20,25.6,8.4
+O09C,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 10-20 years,20,20,24,20,18,20.4,53.0
+O09T,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more,18,18,22,20,16,18.8,45.0
+O10C,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more,18,18,22,20,16,18.8,40.0
+O10T,fiscal year 2025; total assets: not reported; public float: not reported; exchange listing (Section 12(b)): NYSE American; filing with the SEC for: 3-10 years,25,25,30,20,18,23.6,42.0
+O11C,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years,22,22,28,22,20,22.8,45.0
+O11T,fiscal year 2025; total assets: under $100 million; public float: not reported; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more,22,22,28,22,19,22.6,33.0
+O12C,fiscal year 2025; total assets: $100 million-$1 billion; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years,18,18,22,15,16,17.8,10.4
+O12T,fiscal year 2025; total assets: $100 million-$1 billion; public float: under $75 million; exchange listing (Section 12(b)): NYSE American; filing with the SEC for: 3-10 years,18,18,22,17,17,18.4,26.0
+O13C,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 10-20 years,20,20,24,20,18,20.4,16.0
+O13T,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years,22,22,28,22,20,22.8,34.0
+O14C,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): NYSE American; filing with the SEC for: 20 years or more,20,18,22,18,17,19.0,15.4
+O14T,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 10-20 years,20,20,24,20,18,20.4,50.0
+O15C,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years,22,22,28,22,20,22.8,49.0
+O15T,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more,18,18,22,20,16,18.8,17.0
+O16C,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years,22,22,28,22,20,22.8,30.0
+O16T,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 20 years or more,27,26,30,25,20,25.6,41.0
+O17C,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 10-20 years,30,28,33,28,22,28.2,38.0
+O17T,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 20 years or more,27,26,30,25,20,25.6,46.0
+O18C,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 3-10 years,22,20,26,20,17,21.0,26.4
+O18T,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): NYSE American; filing with the SEC for: 3-10 years,24,24,28,22,20,23.6,51.0
+O19C,fiscal year 2025; total assets: $1 billion or more; public float: $700 million or more; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 10-20 years,6,6,8,6,5,6.2,7.0
+O19T,fiscal year 2025; total assets: $1 billion or more; public float: $75-700 million; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 3-10 years,10,10,12,9,9,10.0,20.8
+O20C,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more,18,18,22,20,16,18.8,11.4
+O20T,fiscal year 2025; total assets: $100 million-$1 billion; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 3-10 years,24,20,25,20,20,21.8,45.0
+O21C,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more,18,18,22,20,16,18.8,17.4
+O21T,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years,22,22,28,22,20,22.8,48.0
+O22C,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 20 years or more,27,26,30,25,20,25.6,30.0
+O22T,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): NYSE American; filing with the SEC for: 3-10 years,24,24,28,22,20,23.6,39.0
+O23C,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 10-20 years,30,28,33,28,22,28.2,30.0
+O23T,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 10-20 years,30,28,33,28,22,28.2,47.0
+O24C,fiscal year 2025; total assets: $100 million-$1 billion; public float: $700 million or more; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 20 years or more,7,7,10,7,6,7.4,7.2
+O24T,fiscal year 2025; total assets: $100 million-$1 billion; public float: $75-700 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 10-20 years,11,11,14,10,10,11.2,11.4
+O25C,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 20 years or more,27,26,30,25,20,25.6,12.4
+O25T,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): NYSE American; filing with the SEC for: 3-10 years,24,24,28,22,20,23.6,29.0
+O26C,fiscal year 2025; total assets: $100 million-$1 billion; public float: $75-700 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 10-20 years,11,11,14,10,10,11.2,20.4
+O26T,fiscal year 2025; total assets: $100 million-$1 billion; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years,18,18,22,15,16,17.8,45.0
+O27C,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: under 3 years,35,34,38,35,28,34.0,49.0
+O27T,fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 10-20 years,30,28,33,28,22,28.2,47.0
