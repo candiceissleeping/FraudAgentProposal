@@ -1,0 +1,452 @@
+{
+ "seed": 20261114,
+ "order": [
+  "O25C",
+  "O04T",
+  "O27T",
+  "O07T",
+  "O26T",
+  "O01C",
+  "O24T",
+  "O11T",
+  "O21C",
+  "O12C",
+  "O02C",
+  "O26C",
+  "O12T",
+  "O19C",
+  "O06C",
+  "O20C",
+  "O10T",
+  "O20T",
+  "O23C",
+  "O03T",
+  "O25T",
+  "O02T",
+  "O24C",
+  "O17T",
+  "O07C",
+  "O22C",
+  "O06T",
+  "O04C",
+  "O10C",
+  "O09C",
+  "O11C",
+  "O21T",
+  "O15T",
+  "O22T",
+  "O08C",
+  "O09T",
+  "O13T",
+  "O13C",
+  "O18C",
+  "O14C",
+  "O23T",
+  "O05T",
+  "O14T",
+  "O27C",
+  "O15C",
+  "O01T",
+  "O16T",
+  "O05C",
+  "O17C",
+  "O16C",
+  "O19T",
+  "O18T",
+  "O08T",
+  "O03C"
+ ],
+ "listing": "1. industry: Services-Amusement & Recreation Services; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 20 years or more\n2. industry: not reported; fiscal year 2024; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: under 3 years\n3. industry: Services-Engineering, Accounting, Research, Management; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 10-20 years\n4. industry: not reported; fiscal year 2025; total assets: under $100 million; public float: $75-700 million; exchange listing (Section 12(b)): none; filing with the SEC for: 3-10 years\n5. industry: not reported; fiscal year 2025; total assets: $100 million-$1 billion; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years\n6. industry: Chemicals & Allied Products; fiscal year 2024; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n7. industry: not reported; fiscal year 2025; total assets: $100 million-$1 billion; public float: $75-700 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 10-20 years\n8. industry: Wholesale-Durable Goods; fiscal year 2025; total assets: under $100 million; public float: not reported; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n9. industry: not reported; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n10. industry: Chemicals & Allied Products; fiscal year 2025; total assets: $100 million-$1 billion; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years\n11. industry: not reported; fiscal year 2025; total assets: $1 billion or more; public float: $75-700 million; exchange listing (Section 12(b)): none; filing with the SEC for: 10-20 years\n12. industry: not reported; fiscal year 2025; total assets: $100 million-$1 billion; public float: $75-700 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 10-20 years\n13. industry: Chemicals & Allied Products; fiscal year 2025; total assets: $100 million-$1 billion; public float: under $75 million; exchange listing (Section 12(b)): NYSE American; filing with the SEC for: 3-10 years\n14. industry: not reported; fiscal year 2025; total assets: $1 billion or more; public float: $700 million or more; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 10-20 years\n15. industry: not reported; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): NYSE American; filing with the SEC for: 3-10 years\n16. industry: not reported; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n17. industry: not reported; fiscal year 2025; total assets: not reported; public float: not reported; exchange listing (Section 12(b)): NYSE American; filing with the SEC for: 3-10 years\n18. industry: not reported; fiscal year 2025; total assets: $100 million-$1 billion; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 3-10 years\n19. industry: not reported; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 10-20 years\n20. industry: not reported; fiscal year 2024; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 10-20 years\n21. industry: Services-Amusement & Recreation Services; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): NYSE American; filing with the SEC for: 3-10 years\n22. industry: not reported; fiscal year 2025; total assets: $1 billion or more; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years\n23. industry: not reported; fiscal year 2025; total assets: $100 million-$1 billion; public float: $700 million or more; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 20 years or more\n24. industry: not reported; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 20 years or more\n25. industry: not reported; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n26. industry: not reported; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 20 years or more\n27. industry: not reported; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: under 3 years\n28. industry: not reported; fiscal year 2024; total assets: $100 million-$1 billion; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 20 years or more\n29. industry: not reported; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n30. industry: Wholesale-Durable Goods; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 10-20 years\n31. industry: Wholesale-Durable Goods; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years\n32. industry: not reported; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years\n33. industry: Chemicals & Allied Products; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n34. industry: not reported; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): NYSE American; filing with the SEC for: 3-10 years\n35. industry: not reported; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 20 years or more\n36. industry: Wholesale-Durable Goods; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n37. industry: Chemicals & Allied Products; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years\n38. industry: Chemicals & Allied Products; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 10-20 years\n39. industry: Electronic & Other Electrical Equipment (No Computer Equip); fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 3-10 years\n40. industry: not reported; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): NYSE American; filing with the SEC for: 20 years or more\n41. industry: not reported; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 10-20 years\n42. industry: not reported; fiscal year 2025; total assets: $100 million-$1 billion; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 10-20 years\n43. industry: not reported; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 10-20 years\n44. industry: Services-Engineering, Accounting, Research, Management; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: under 3 years\n45. industry: Chemicals & Allied Products; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years\n46. industry: Chemicals & Allied Products; fiscal year 2024; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years\n47. industry: not reported; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 20 years or more\n48. industry: not reported; fiscal year 2025; total assets: $100 million-$1 billion; public float: $75-700 million; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 20 years or more\n49. industry: not reported; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 10-20 years\n50. industry: not reported; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years\n51. industry: not reported; fiscal year 2025; total assets: $1 billion or more; public float: $75-700 million; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 3-10 years\n52. industry: Electronic & Other Electrical Equipment (No Computer Equip); fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): NYSE American; filing with the SEC for: 3-10 years\n53. industry: not reported; fiscal year 2025; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 20 years or more\n54. industry: not reported; fiscal year 2024; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 10-20 years",
+ "attempts": 1,
+ "complete": true,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "reply": [
+  {
+   "id": 1,
+   "risk_score": 30,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small unlisted OTC registrant; long filing history slightly offsets weak controls risk"
+  },
+  {
+   "id": 2,
+   "risk_score": 42,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "New, tiny, unlisted filer with no industry reported; shell-like profile"
+  },
+  {
+   "id": 3,
+   "risk_score": 32,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small unlisted services filer; limited oversight"
+  },
+  {
+   "id": 4,
+   "risk_score": 28,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small assets but moderate float with no listing; valuation/asset mismatch is mild flag"
+  },
+  {
+   "id": 5,
+   "risk_score": 20,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Mid-size Nasdaq filer with low float; moderate baseline"
+  },
+  {
+   "id": 6,
+   "risk_score": 20,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small Nasdaq chemicals/biotech, long history; going-concern type risk more than misstatement"
+  },
+  {
+   "id": 7,
+   "risk_score": 12,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Established mid-size Nasdaq company"
+  },
+  {
+   "id": 8,
+   "risk_score": 22,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small Nasdaq distributor; float not reported is a minor disclosure gap"
+  },
+  {
+   "id": 9,
+   "risk_score": 20,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small long-standing Nasdaq microcap"
+  },
+  {
+   "id": 10,
+   "risk_score": 18,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Mid-size Nasdaq chemicals/pharma with low float"
+  },
+  {
+   "id": 11,
+   "risk_score": 15,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Large unlisted registrant, likely debt issuer or non-traded vehicle"
+  },
+  {
+   "id": 12,
+   "risk_score": 12,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Established mid-size Nasdaq company"
+  },
+  {
+   "id": 13,
+   "risk_score": 18,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Mid-size NYSE American chemicals with low float"
+  },
+  {
+   "id": 14,
+   "risk_score": 7,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Large accelerated Nasdaq filer; strong audit/ICFR oversight"
+  },
+  {
+   "id": 15,
+   "risk_score": 24,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small, relatively recent NYSE American microcap"
+  },
+  {
+   "id": 16,
+   "risk_score": 20,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small long-standing Nasdaq microcap"
+  },
+  {
+   "id": 17,
+   "risk_score": 25,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "NYSE American filer with missing size data; limited information"
+  },
+  {
+   "id": 18,
+   "risk_score": 22,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Mid-size unlisted registrant with small float; possibly non-traded fund/REIT"
+  },
+  {
+   "id": 19,
+   "risk_score": 32,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small unlisted OTC filer"
+  },
+  {
+   "id": 20,
+   "risk_score": 32,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small unlisted OTC filer"
+  },
+  {
+   "id": 21,
+   "risk_score": 25,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small NYSE American recreation company, relatively recent"
+  },
+  {
+   "id": 22,
+   "risk_score": 18,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Large assets but tiny float on Nasdaq; possible distressed or controlled company"
+  },
+  {
+   "id": 23,
+   "risk_score": 7,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Long-established NYSE large-float company"
+  },
+  {
+   "id": 24,
+   "risk_score": 30,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small unlisted filer; long history slightly mitigates"
+  },
+  {
+   "id": 25,
+   "risk_score": 20,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small long-standing Nasdaq microcap"
+  },
+  {
+   "id": 26,
+   "risk_score": 30,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small unlisted filer"
+  },
+  {
+   "id": 27,
+   "risk_score": 32,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Recent Nasdaq microcap IPO; elevated risk for small new listings"
+  },
+  {
+   "id": 28,
+   "risk_score": 20,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Mid-size unlisted, long history; possibly bank holding or private-debt filer"
+  },
+  {
+   "id": 29,
+   "risk_score": 20,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small long-standing Nasdaq microcap"
+  },
+  {
+   "id": 30,
+   "risk_score": 22,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small Nasdaq distributor"
+  },
+  {
+   "id": 31,
+   "risk_score": 28,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small, relatively recent Nasdaq distributor; small foreign-based listings carry elevated risk"
+  },
+  {
+   "id": 32,
+   "risk_score": 26,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small, relatively recent Nasdaq microcap"
+  },
+  {
+   "id": 33,
+   "risk_score": 18,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small long-standing Nasdaq chemicals/biotech"
+  },
+  {
+   "id": 34,
+   "risk_score": 24,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small, relatively recent NYSE American microcap"
+  },
+  {
+   "id": 35,
+   "risk_score": 30,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small unlisted filer"
+  },
+  {
+   "id": 36,
+   "risk_score": 20,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small long-standing Nasdaq distributor"
+  },
+  {
+   "id": 37,
+   "risk_score": 22,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small, relatively recent Nasdaq chemicals/biotech"
+  },
+  {
+   "id": 38,
+   "risk_score": 20,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small Nasdaq chemicals/biotech"
+  },
+  {
+   "id": 39,
+   "risk_score": 22,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small NYSE electrical equipment, relatively recent listing (possibly de-SPAC)"
+  },
+  {
+   "id": 40,
+   "risk_score": 20,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small long-standing NYSE American filer"
+  },
+  {
+   "id": 41,
+   "risk_score": 32,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small unlisted OTC filer"
+  },
+  {
+   "id": 42,
+   "risk_score": 18,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Mid-size Nasdaq filer with low float"
+  },
+  {
+   "id": 43,
+   "risk_score": 22,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small Nasdaq microcap"
+  },
+  {
+   "id": 44,
+   "risk_score": 40,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "New, tiny, unlisted services filer; startup/shell-like profile"
+  },
+  {
+   "id": 45,
+   "risk_score": 22,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small, relatively recent Nasdaq chemicals/biotech"
+  },
+  {
+   "id": 46,
+   "risk_score": 22,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small, relatively recent Nasdaq chemicals/biotech"
+  },
+  {
+   "id": 47,
+   "risk_score": 30,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small unlisted filer"
+  },
+  {
+   "id": 48,
+   "risk_score": 10,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Long-established mid-size NYSE company"
+  },
+  {
+   "id": 49,
+   "risk_score": 32,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small unlisted OTC filer"
+  },
+  {
+   "id": 50,
+   "risk_score": 26,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small, relatively recent Nasdaq microcap"
+  },
+  {
+   "id": 51,
+   "risk_score": 12,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Large NYSE company, relatively recent listing (possible spin-off/de-SPAC)"
+  },
+  {
+   "id": 52,
+   "risk_score": 25,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small, relatively recent NYSE American electrical equipment company"
+  },
+  {
+   "id": 53,
+   "risk_score": 30,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small unlisted filer"
+  },
+  {
+   "id": 54,
+   "risk_score": 32,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small unlisted OTC filer"
+  }
+ ]
+}
