@@ -1,0 +1,15 @@
+{
+ "pid": "O06C",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K226",
+   "issue": "not_stated",
+   "consequence": "not_stated",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "The claim cites only generic auditor and accounting problems and going-concern doubt, which the record does not cover, and states no restatement, SEC action or delayed filing."
+  }
+ ]
+}

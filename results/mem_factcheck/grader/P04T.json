@@ -1,0 +1,87 @@
+{
+ "pid": "P04T",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K230",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "It names the compounding unit, where the revenue fraud occurred, without the specific kind; a restatement of 2020 interim periods and SEC action both occurred."
+  },
+  {
+   "id": "K183",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The compounding unit link fits the AAER, the 2020 interim periods were subject to non-reliance, and the SEC did investigate."
+  },
+  {
+   "id": "K248",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "It names only restatement, material weaknesses and delays, which are consistent with the 2021 non-reliance and the late-filing notices."
+  },
+  {
+   "id": "K088",
+   "issue": "partial",
+   "consequence": "not_stated",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "It points to compounding unit issues; going concern, impairments and lawsuits are not covered by the record, and it states no restatement or SEC event."
+  },
+  {
+   "id": "K135",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The restatement and SEC inquiry around 2020-2021 match the 2021 non-reliance and the SEC investigation."
+  },
+  {
+   "id": "K147",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The 2020 periods were restated, though for warrant liabilities rather than compounding; the compounding link fits the AAER subject matter."
+  },
+  {
+   "id": "K253",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The compounding unit link matches the AAER, and the restatement and SEC investigation are both supported."
+  },
+  {
+   "id": "K218",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "US Compounding-related accounting fits the AAER, the 2020 periods were restated, and late filings are on record."
+  },
+  {
+   "id": "K097",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "It gives only a generic internal investigation and material weakness; the SEC inquiry and restated periods are consistent with the record."
+  },
+  {
+   "id": "K186",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The US Compounding link fits the AAER, and the restatement, SEC investigation and late filings are consistent with the record."
+  }
+ ]
+}

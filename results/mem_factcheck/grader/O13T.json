@@ -1,0 +1,39 @@
+{
+ "pid": "O13T",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K192",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "Going concern matches the 2024 restatement of FY2023, which the claim correctly treats as prior; the MD Anderson arbitration is not in the record."
+  },
+  {
+   "id": "K001",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "Going-concern doubt and a prior restatement match the 2024 non-reliance on FY2023; the arbitration dispute is not covered by the record."
+  },
+  {
+   "id": "K250",
+   "issue": "mismatch",
+   "consequence": "correct",
+   "contradiction": "yes",
+   "record_exists": "no",
+   "reason": "A 2024 restatement did happen, but the record attributes it to a flawed going-concern assumption and a financing-transaction control weakness, not an arbitration award accrual."
+  },
+  {
+   "id": "K098",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "Going-concern pressure and a prior restatement fit the 2024 record, which arose from a financing default; the lender dispute itself is not covered."
+  }
+ ]
+}

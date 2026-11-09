@@ -1,0 +1,15 @@
+{
+ "pid": "O14T",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K223",
+   "issue": "mismatch",
+   "consequence": "not_stated",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "The record shows no 4.02 or AAER before the cutoff, so it names no problem kind; the claim cites valuation concerns and going-concern doubt without asserting a restatement or SEC enforcement."
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "pid": "P13C",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K213",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "Tax errors are part of the recorded issue, and a restatement covering 2016 did occur; the date is within a year."
+  },
+  {
+   "id": "K123",
+   "issue": "not_stated",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "no",
+   "reason": "The record shows no SEC settlement or AAER."
+  },
+  {
+   "id": "K049",
+   "issue": "not_stated",
+   "consequence": "incorrect",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "The 2016-2017 restatement/revision is correct, but the record does not show an SEC investigation."
+  },
+  {
+   "id": "K043",
+   "issue": "not_stated",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "no",
+   "reason": "The restatement and a late filing are on record, but the 'SEC resolution' implies enforcement with no AAER."
+  },
+  {
+   "id": "K181",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "Tax errors partly match, and the claimed period includes the asked year and earlier periods that were restated."
+  },
+  {
+   "id": "K002",
+   "issue": "not_stated",
+   "consequence": "incorrect",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "The 2018 restatement announcement is correct, but the record does not show an SEC investigation."
+  },
+  {
+   "id": "K034",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "Income tax errors partly match the recorded issue, and the claimed period includes the restated years."
+  },
+  {
+   "id": "K219",
+   "issue": "not_stated",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "no",
+   "reason": "The record shows no SEC enforcement action."
+  },
+  {
+   "id": "K069",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "Income tax errors partly match, and the restatement covering 2016 is on record."
+  },
+  {
+   "id": "K182",
+   "issue": "mismatch",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "no",
+   "reason": "Revenue and inventory accounting conflicts with the recorded intercompany tax errors, and the record does not show an SEC inquiry."
+  },
+  {
+   "id": "K040",
+   "issue": "not_stated",
+   "consequence": "incorrect",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "The restatement is correct, but the record does not show an SEC inquiry."
+  },
+  {
+   "id": "K065",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "Tax errors partly match, and the restatement is on record; the date is within a year."
+  },
+  {
+   "id": "K132",
+   "issue": "partial",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "no",
+   "reason": "Tax errors partly match, but the record shows no SEC enforcement."
+  },
+  {
+   "id": "K214",
+   "issue": "not_stated",
+   "consequence": "incorrect",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "The 2016-2017 restatement is correct, but the record does not show an SEC investigation."
+  },
+  {
+   "id": "K103",
+   "issue": "partial",
+   "consequence": "incorrect",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "Tax items partly match, but the record does not show an SEC probe."
+  }
+ ]
+}

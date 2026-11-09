@@ -1,0 +1,15 @@
+{
+ "pid": "P11C",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K019",
+   "issue": "partial",
+   "consequence": "not_stated",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "Revenue recognition errors appear only in the later FY2022 restatement, not FY2017, and the claim itself says no FY2017 restatement is known, which matches the record."
+  }
+ ]
+}

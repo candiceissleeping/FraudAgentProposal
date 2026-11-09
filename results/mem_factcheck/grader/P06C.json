@@ -1,0 +1,119 @@
+{
+ "pid": "P06C",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K073",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Late filing and restatement of 2018 financials fit the record (Q2 2018 non-reliance, very late 10-K); no accounting type is named."
+  },
+  {
+   "id": "K116",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The delayed 2018 10-K fits the record; material weaknesses after acquisitions does not name a specific accounting problem."
+  },
+  {
+   "id": "K038",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Delayed filings and a restatement of 2018 results fit the late 10-K and the Q2 2018 non-reliance."
+  },
+  {
+   "id": "K066",
+   "issue": "not_stated",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "yes",
+   "reason": "The record shows no AAER, so the claimed SEC enforcement conflicts with it."
+  },
+  {
+   "id": "K086",
+   "issue": "mismatch",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The late 10-K fits the record; acquisition complexity is given as background and differs from the record's derivative and notes-payable misstatement."
+  },
+  {
+   "id": "K111",
+   "issue": "mismatch",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The very late 10-K and delinquency fit the record (25 late notices); acquisition accounting differs from the derivative and notes-payable errors."
+  },
+  {
+   "id": "K005",
+   "issue": "not_stated",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "yes",
+   "reason": "The late 10-K and restatement fit the record, but the record shows no SEC investigation or enforcement."
+  },
+  {
+   "id": "K070",
+   "issue": "not_stated",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "yes",
+   "reason": "The claimed SEC enforcement or investigation is not in the record, which shows no AAER."
+  },
+  {
+   "id": "K224",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Quarterly restatements fit the Q2 2018 non-reliance and the 10-K was delayed; the record does not cover auditor resignation."
+  },
+  {
+   "id": "K011",
+   "issue": "not_stated",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "yes",
+   "reason": "The record shows no AAER, so the claimed SEC enforcement action conflicts with it."
+  },
+  {
+   "id": "K217",
+   "issue": "not_stated",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "yes",
+   "reason": "The record does not show the claimed SEC charges."
+  },
+  {
+   "id": "K187",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The restated 2018 interim results match the June 30, 2018 10-Q non-reliance, and the 10-K was late."
+  },
+  {
+   "id": "K110",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The late FY2018 10-K and the restatement fit the record."
+  },
+  {
+   "id": "K010",
+   "issue": "mismatch",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The very late 10-K and later corrections fit the record; acquisition accounting differs from the derivative and notes-payable errors."
+  }
+ ]
+}

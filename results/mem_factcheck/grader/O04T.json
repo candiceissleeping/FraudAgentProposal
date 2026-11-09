@@ -1,0 +1,39 @@
+{
+ "pid": "O04T",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K080",
+   "issue": "not_stated",
+   "consequence": "not_stated",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "The claim only calls the venture dubious and long-troubled; it names no accounting problem and no later event."
+  },
+  {
+   "id": "K227",
+   "issue": "mismatch",
+   "consequence": "not_stated",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "The record shows no biological asset valuation problem, and the vague 'SEC issues' and 'unreliable reporting' do not clearly claim a restatement or enforcement."
+  },
+  {
+   "id": "K137",
+   "issue": "not_stated",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "no",
+   "reason": "The claim implies SEC fraud enforcement, but no AAER names the company before the cutoff."
+  },
+  {
+   "id": "K222",
+   "issue": "not_stated",
+   "consequence": "not_stated",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "'Financial reporting problems' is generic and names no restatement or SEC action that conflicts with the record."
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "pid": "P09T",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K120",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Lease and impairment errors and the 2021 restatement of FY2019 match the record, and the SEC did take action."
+  },
+  {
+   "id": "K180",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Lease, service-contract loss accrual and impairment errors and the 2021 restatement of 2018-2019 match the record."
+  },
+  {
+   "id": "K119",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Lease and impairment errors, the 2021 restatement, the material weakness and SEC action all match the record."
+  },
+  {
+   "id": "K026",
+   "issue": "mismatch",
+   "consequence": "correct",
+   "contradiction": "yes",
+   "record_exists": "yes",
+   "reason": "Warrant accounting was not a restatement item; the errors were leases, cost classification, loss accruals and impairments, though the restatement and SEC action are correct."
+  },
+  {
+   "id": "K225",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Only a generic restatement and control weaknesses are named, consistent with the record, and the period covers 2019."
+  },
+  {
+   "id": "K200",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Service cost, lease and impairment errors and the 2021 restatement of 2018-2019 match the record."
+  },
+  {
+   "id": "K036",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The restatement of 2018-2019 and the 2020 quarters for lease and impairment errors matches the record."
+  },
+  {
+   "id": "K047",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Lease/PPA, impairment and cost classification errors, the 2021 restatement and the SEC settlement all match the record."
+  },
+  {
+   "id": "K176",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Lease, cost classification and impairment errors, the restatement and the material weakness match the record."
+  },
+  {
+   "id": "K113",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Generic restatement and material weakness claims with SEC involvement are consistent with the record."
+  },
+  {
+   "id": "K101",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Lease and service-loss accrual errors and the 2021 restatement of 2018-2020 match the record."
+  },
+  {
+   "id": "K064",
+   "issue": "mismatch",
+   "consequence": "correct",
+   "contradiction": "yes",
+   "record_exists": "yes",
+   "reason": "Warrant accounting errors are not the record's issues, although a restatement did occur."
+  },
+  {
+   "id": "K155",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Generic accounting errors with a restatement of interim periods and SEC involvement are consistent with the record."
+  },
+  {
+   "id": "K055",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The 2021 restatement of FY2019 for lease and impairment errors matches the record."
+  },
+  {
+   "id": "K167",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The restatement of FY2019 in 2021, the material weakness and SEC action are consistent with the record."
+  }
+ ]
+}

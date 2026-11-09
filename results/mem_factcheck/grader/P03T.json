@@ -1,0 +1,103 @@
+{
+ "pid": "P03T",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K102",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Undisclosed related-party dealings and insider influence (Larson) fit the record, as do the restatement and late filings."
+  },
+  {
+   "id": "K145",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The record shows FY2023 restated in May 2025, related-party and governance (undisclosed officer) issues, and SEC enforcement."
+  },
+  {
+   "id": "K089",
+   "issue": "not_stated",
+   "consequence": "not_stated",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Names only an internal investigation and control issues, with no specific problem or covered consequence."
+  },
+  {
+   "id": "K023",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Delayed filings, SEC action and the FY2023 restatement are all in the record; no kind of problem is named."
+  },
+  {
+   "id": "K146",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Undisclosed related-party dealings, the restatement and the SEC action (AAER-4581) match the record."
+  },
+  {
+   "id": "K172",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Delayed filings, SEC action and the FY2023 restatement are consistent with the record; only material weaknesses are named."
+  },
+  {
+   "id": "K241",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Related-party and control issues, delayed filings, the restatement and SEC action all match the record."
+  },
+  {
+   "id": "K215",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The special committee investigation, FY2023 restatement, late filings and SEC matter are consistent with the record; no issue type is named."
+  },
+  {
+   "id": "K059",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Larson as an undisclosed de facto executive with related-party matters, plus late filings and SEC action, matches the record."
+  },
+  {
+   "id": "K129",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Related-party and executive concealment issues match; FY2024 was covered by non-reliance and the claimed period includes FY2023."
+  },
+  {
+   "id": "K046",
+   "issue": "partial",
+   "consequence": "not_stated",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Governance and expense problems relate only partly to the undisclosed officer and the investor-relations cost capitalization; no covered consequence is stated."
+  },
+  {
+   "id": "K033",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The restatement of FY2023 and prior periods and the SEC matter are consistent with the record; no kind of problem is named."
+  }
+ ]
+}

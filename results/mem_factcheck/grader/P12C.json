@@ -1,0 +1,47 @@
+{
+ "pid": "P12C",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K037",
+   "issue": "mismatch",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "no",
+   "reason": "The claim says tax-accounting restatements happened, but the record shows no 8-K Item 4.02 and no AAER."
+  },
+  {
+   "id": "K050",
+   "issue": "mismatch",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "no",
+   "reason": "The claim says tax-related restatements happened, but the record shows no restatement or non-reliance filing."
+  },
+  {
+   "id": "K104",
+   "issue": "mismatch",
+   "consequence": "not_stated",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "The claim names tax issues and material weaknesses but no restatement or SEC action, so nothing conflicts with the record."
+  },
+  {
+   "id": "K165",
+   "issue": "mismatch",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "no",
+   "reason": "The claim implies a tax-related restatement, but the record shows no Item 4.02 filing."
+  },
+  {
+   "id": "K142",
+   "issue": "mismatch",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "no",
+   "reason": "The claim asserts a restatement history, but the record shows no restatement or non-reliance and no AAER."
+  }
+ ]
+}

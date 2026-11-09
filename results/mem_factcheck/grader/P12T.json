@@ -1,0 +1,127 @@
+{
+ "pid": "P12T",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K220",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Fictitious revenue matches the revenue inflation; the 2019 restatement and SEC charges against executives match the record, and backdated documents is extra detail without conflict."
+  },
+  {
+   "id": "K067",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Fictitious revenue matches the core issue; the 2015-2018 restatement and SEC charges against executives are consistent with the record."
+  },
+  {
+   "id": "K203",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Names no kind of problem; the 2018 restatement and SEC charges against executives are consistent with the record."
+  },
+  {
+   "id": "K090",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Undisclosed related-party scheme matches; non-reliance covered 2015-2018 and Q1 2019, the SEC charges are real, and bankruptcy is not covered by the record."
+  },
+  {
+   "id": "K171",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Generic 'accounting irregularities'; the 2015-2018 restatement and SEC enforcement match the record."
+  },
+  {
+   "id": "K216",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Revenue fraud matches; the restatement, SEC enforcement and the criminal case against Hastings are in the record."
+  },
+  {
+   "id": "K024",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Fraud and executive misconduct name no specific accounting issue; the 2015-2018 restatement and SEC enforcement match."
+  },
+  {
+   "id": "K136",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Generic 'accounting fraud'; the 2019 discovery, the 2015-2018 restatement and SEC charges against the company and executives match."
+  },
+  {
+   "id": "K205",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Undisclosed related-party fraud matches; the restatement, SEC charges and criminal charges are in the record."
+  },
+  {
+   "id": "K051",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Names no specific issue; the claimed 2016-2018 restatement period includes FY2018, and SEC enforcement matches."
+  },
+  {
+   "id": "K236",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Related-party scheme and inflated revenue match; the restatement and SEC charges against the company and executives match."
+  },
+  {
+   "id": "K027",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Executive misconduct and accounting fraud are generic; the restatement and SEC enforcement are consistent with the record."
+  },
+  {
+   "id": "K122",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Fake revenue matches the revenue inflation; the 2015-2018 restatement and the 2020 SEC charges match the record."
+  },
+  {
+   "id": "K075",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Misconduct findings name no specific issue; the 2015-2018 restatement and SEC investigation match."
+  },
+  {
+   "id": "K057",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Undisclosed related-party scheme matches; the restatement and SEC charges against the company and executives match."
+  }
+ ]
+}

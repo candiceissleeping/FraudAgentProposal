@@ -1,0 +1,31 @@
+{
+ "pid": "P03C",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K210",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "The claim correctly ties the earlier SEC matter to Investment Company Act status, consistent with the 2006 Item 4.02 record, and asserts no FY2022 restatement or enforcement; the FY2022 material weakness is not covered by the record."
+  },
+  {
+   "id": "K199",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "The claim places an Investment Company Act SEC matter in the 2000s, consistent with the 2006 SEC dispute in the record, and claims no FY2022 restatement or enforcement."
+  },
+  {
+   "id": "K247",
+   "issue": "partial",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "no",
+   "reason": "The claim dates the Investment Company Act SEC case to 2011, but the record shows the SEC matter in 2006 and no AAER or other SEC event around 2011."
+  }
+ ]
+}

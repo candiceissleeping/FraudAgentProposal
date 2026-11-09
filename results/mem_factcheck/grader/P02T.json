@@ -1,0 +1,127 @@
+{
+ "pid": "P02T",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K112",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Nutrition intersegment transactions, the restatement of 2021-2023 segment data and the SEC action all match the record."
+  },
+  {
+   "id": "K190",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The 2024 investigation, the restated 2022 segment data and the SEC follow-up are consistent with the record."
+  },
+  {
+   "id": "K121",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "It names Nutrition segment reporting but not the intersegment sales mechanism; the restatement and SEC action are correct."
+  },
+  {
+   "id": "K231",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Restating Nutrition segment reporting for 2021-2023 matches the 10-K/A; the intersegment mechanism is not named."
+  },
+  {
+   "id": "K177",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Intersegment pricing matches; 2018-2023 includes FY2022; DOJ is not covered by the record."
+  },
+  {
+   "id": "K170",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The 2024 investigation and segment corrections match; the claimed period includes FY2022; DOJ is not covered."
+  },
+  {
+   "id": "K141",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Intersegment sales issues, the segment restatement and the SEC action are consistent; DOJ is not covered."
+  },
+  {
+   "id": "K078",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Overstated Nutrition operating profit for years including 2022, and the SEC settlement (AAER-4582), match without naming the intersegment mechanism."
+  },
+  {
+   "id": "K017",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The segment reporting restatement (2024) and the SEC action (2026) covering FY2022 are consistent; the intersegment mechanism is not named."
+  },
+  {
+   "id": "K158",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Intersegment sales accounting, the restated 2022-2023 segment results and the SEC investigation all match."
+  },
+  {
+   "id": "K149",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Restating 2021-2023 segment data matches the 8-K 4.02; DOJ is not covered by the record."
+  },
+  {
+   "id": "K071",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The intersegment pricing misstatement covering 2022 and the SEC probe are consistent; DOJ is not covered."
+  },
+  {
+   "id": "K154",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Intersegment pricing and the segment restatement match; the 2018-2023 period includes FY2022."
+  },
+  {
+   "id": "K178",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The SEC settlement and restated segment results match; it says only 'Nutrition segment accounting' without the intersegment mechanism."
+  },
+  {
+   "id": "K139",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Intersegment pricing, the SEC action and the restated 2022 segment results are consistent with the record."
+  }
+ ]
+}

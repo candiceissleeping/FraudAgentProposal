@@ -1,0 +1,23 @@
+{
+ "pid": "O09C",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K209",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "Names only restatements, material weaknesses and going concern with no specific issue; 'prior restatements' fits the 2021 Item 4.02 non-reliance for earlier periods."
+  },
+  {
+   "id": "K173",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "Names only prior restatements, weak controls and going concern with no specific issue; prior restatements match the 2021 non-reliance on an earlier period."
+  }
+ ]
+}

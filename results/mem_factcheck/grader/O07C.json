@@ -1,0 +1,15 @@
+{
+ "pid": "O07C",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K045",
+   "issue": "mismatch",
+   "consequence": "correct",
+   "contradiction": "yes",
+   "record_exists": "no",
+   "reason": "The only record is a 2017 non-reliance for 2016 reports over an unrecorded stock issuance, not revenue recognition, and nothing involves FY2025, though 'prior restatements' fits that earlier event."
+  }
+ ]
+}

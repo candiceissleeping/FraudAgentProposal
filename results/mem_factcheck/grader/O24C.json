@@ -1,0 +1,31 @@
+{
+ "pid": "O24C",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K239",
+   "issue": "mismatch",
+   "consequence": "correct",
+   "contradiction": "yes",
+   "record_exists": "no",
+   "reason": "The 2006-2007 restatement matches the record, but the record's errors were capitalized costs, branch-level taxes and lease accounting, not a China revenue matter."
+  },
+  {
+   "id": "K052",
+   "issue": "not_stated",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "no",
+   "reason": "The 2000s restatement is consistent with the 2007 filings, but the record shows no AAER or China-related SEC enforcement matter."
+  },
+  {
+   "id": "K143",
+   "issue": "not_stated",
+   "consequence": "incorrect",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "The earlier restatement is consistent, but the record shows no China-related SEC inquiry; an inquiry is not enforcement, so it is not a contradiction."
+  }
+ ]
+}

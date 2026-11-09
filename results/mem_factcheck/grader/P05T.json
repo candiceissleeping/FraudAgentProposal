@@ -1,0 +1,87 @@
+{
+ "pid": "P05T",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K133",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The 2024 SEC settlement over misleading Alaris disclosures with no restatement matches the record, but the claim omits the failure to accrue recall costs."
+  },
+  {
+   "id": "K072",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Names both the Alaris disclosure problems and FY2019 accounting, and the SEC action is consistent with AAER-4547."
+  },
+  {
+   "id": "K131",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The SEC settlement over Alaris risk disclosures with no restatement is consistent, but the claim omits the cost-accrual failure."
+  },
+  {
+   "id": "K207",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The SEC action over Alaris disclosure and no FY2019 restatement are consistent, but the claim omits the accounting misstatement."
+  },
+  {
+   "id": "K068",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The 2024 SEC settlement over misleading Alaris disclosures and accounting, with no restatement, matches the record."
+  },
+  {
+   "id": "K109",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Alaris disclosure and pump reserve accounting match the unaccrued recall costs, and the SEC action is consistent."
+  },
+  {
+   "id": "K105",
+   "issue": "partial",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "yes",
+   "reason": "Alaris disclosure and pump charges match, but inventory issues and a restatement are not in the record."
+  },
+  {
+   "id": "K150",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The SEC action over Alaris disclosures with no FY2019 restatement is consistent, but the claim omits the accrual failure."
+  },
+  {
+   "id": "K166",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The 2024 SEC charges over Alaris disclosures for FY2019-2020 with no restatement are consistent, but the claim omits the accrual failure."
+  },
+  {
+   "id": "K251",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The 2024 SEC settlement over Alaris risk disclosures with no restatement is consistent, but the claim omits the overstated income from unaccrued costs."
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "pid": "O10C",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K079",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "The claim cites a past CTI Industries restatement and control weaknesses without naming a kind of problem; this matches the earlier 2006 and 2020 Item 4.02 filings and does not assert any FY2025 event."
+  },
+  {
+   "id": "K234",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "The prior restatement it cites matches the earlier non-reliance filings; controls issues and Chinese ownership do not name an accounting problem type."
+  },
+  {
+   "id": "K096",
+   "issue": "partial",
+   "consequence": "not_stated",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "The 2006 non-reliance did stem from SEC comment-letter review of classification and reporting issues, but the excerpts do not show inventory; no restatement or SEC enforcement for FY2025 is asserted."
+  }
+ ]
+}

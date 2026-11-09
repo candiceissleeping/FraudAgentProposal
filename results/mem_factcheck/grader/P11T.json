@@ -1,0 +1,127 @@
+{
+ "pid": "P11T",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K237",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The audit committee investigation led to restatement of FY2017 and FY2018 revenue, and the SEC brought enforcement (AAER-4417); the record shows no charges against executives, but it does not cover that point."
+  },
+  {
+   "id": "K193",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "FY2017 and prior periods (FY2015-16) were restated and an SEC investigation and enforcement followed; the claim names no specific kind of accounting problem."
+  },
+  {
+   "id": "K184",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Revenue recognition restatement of FY2017 and prior periods matches the record; SEC enforcement against the company is confirmed."
+  },
+  {
+   "id": "K196",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "FY2017 was restated and SEC charges followed; 'non-GAAP/misstatements' only loosely describes the improper revenue recognition."
+  },
+  {
+   "id": "K008",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Improper revenue recognition, the FY2017 and prior restatement, and the SEC charges against the company all match the record."
+  },
+  {
+   "id": "K032",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "FY2017 was restated, and the SEC action covered revenue recognition and internal control failures."
+  },
+  {
+   "id": "K021",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The audit committee probe led to the FY2017-2018 restatement and SEC enforcement; the claim names no specific kind of problem."
+  },
+  {
+   "id": "K179",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The record shows delayed filings (FY2018 10-K), restatements and SEC involvement; the claim names no specific kind of problem."
+  },
+  {
+   "id": "K074",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The FY2017-2018 restatement and SEC enforcement are confirmed; 'misstated revenue/non-GAAP' only partly captures the improper revenue recognition."
+  },
+  {
+   "id": "K246",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Revenue recognition misconduct, the FY2017-2018 restatement and the SEC charges against the company match the record."
+  },
+  {
+   "id": "K058",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The FY2017 restatement and SEC enforcement are confirmed; 'non-GAAP and revenue reporting' only partly matches the improper revenue recognition."
+  },
+  {
+   "id": "K208",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The restatement of FY2017 and prior periods, the late filings and the SEC investigation are all consistent with the record."
+  },
+  {
+   "id": "K030",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Late filings, restatement of prior periods and later SEC involvement are consistent with the record; no problem type is named."
+  },
+  {
+   "id": "K083",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The restatement and SEC investigation are consistent with the record; the executive departures are not covered by it."
+  },
+  {
+   "id": "K249",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The FY2017-2018 restatement and SEC action are confirmed; 'revenue classification errors' only partly describes the improper revenue recognition."
+  }
+ ]
+}

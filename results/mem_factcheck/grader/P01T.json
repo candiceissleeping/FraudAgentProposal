@@ -1,0 +1,127 @@
+{
+ "pid": "P01T",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K015",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Revenue recognition restatement covering 2021 and Q1 2022, delayed filings and SEC enforcement all match the record; delisting is not covered."
+  },
+  {
+   "id": "K061",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Names only material weaknesses; the delayed filings and restated 2021 quarters are consistent with the record."
+  },
+  {
+   "id": "K028",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Revenue recognition restatement of 2021 and earlier periods, delayed filings and SEC enforcement (AAER-4604) match the record."
+  },
+  {
+   "id": "K054",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Restatement of 2021 and prior years, delayed filings and the SEC investigation and settled charges all match the record."
+  },
+  {
+   "id": "K175",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Revenue recognition review led to restatement of 2021 and Q1 2022, with long-delayed filings, as the record shows."
+  },
+  {
+   "id": "K063",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Names only material weaknesses; late filings and the 2021 restatement are consistent with the record."
+  },
+  {
+   "id": "K242",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "A revenue restatement relates to the revenue recognition errors; delayed filings and the SEC investigation are consistent with the record."
+  },
+  {
+   "id": "K148",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Revenue recognition investigation, restatement of 2021 and Q1 2022, and delinquent filings match the record."
+  },
+  {
+   "id": "K006",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Revenue recognition restatement of 2021 and prior years, delayed filings and the SEC settlement match the record."
+  },
+  {
+   "id": "K041",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Names only material weaknesses; delayed filings and restated 2021 quarterly results are consistent with the record."
+  },
+  {
+   "id": "K044",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Revenue recognition review led to restatement of 2021 and Q1 2022, with long-delayed filings, as the record shows."
+  },
+  {
+   "id": "K009",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Restatement of 2021 and Q1 2022 for revenue recognition errors and the SEC investigation match the record."
+  },
+  {
+   "id": "K039",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Names only material weaknesses; delayed filings and restatement of 2021 and prior periods are consistent with the record."
+  },
+  {
+   "id": "K188",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Revenue recognition errors, restatement of 2021 and Q1 2022, and delinquent filings match the record."
+  },
+  {
+   "id": "K211",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Names only material weaknesses; restated 2021 interim results and delayed filings are consistent with the record."
+  }
+ ]
+}

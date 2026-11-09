@@ -1,0 +1,127 @@
+{
+ "pid": "P06T",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K191",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "AAER-4512 covers the overstated 2018 revenue from oil trades booked gross instead of net, plus other misstatements."
+  },
+  {
+   "id": "K169",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The SEC order covers the misleading guidance and misstated FY2018 revenue, and a later restatement (2021 quarters) is on record."
+  },
+  {
+   "id": "K160",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Names only generic reporting, restatement and material-weakness issues; the SEC action on 2018-2019 filings and the 2021 restatement are on record."
+  },
+  {
+   "id": "K108",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Revenue misstatement in 2018-2019 and SEC charges against the company, Poor and Tovar match the record; a later restatement occurred in 2021."
+  },
+  {
+   "id": "K124",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Names no specific kind of problem; the SEC charges against the company and executives and the later restatement are consistent with the record."
+  },
+  {
+   "id": "K128",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Misleading statements and questionable revenue match the AAER findings against the company and its former executives."
+  },
+  {
+   "id": "K151",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The SEC matter covers revenue misstatement and guidance in the 2017-2018 period."
+  },
+  {
+   "id": "K114",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Revenue recognition concerns and SEC scrutiny are consistent with AAER-4512."
+  },
+  {
+   "id": "K252",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The general fraud allegation fits the SEC's accounting and disclosure fraud findings; SEC enforcement and a restatement both occurred."
+  },
+  {
+   "id": "K082",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The 2024 SEC charges for accounting and disclosure failures and the later 2021 restatement are consistent with the record."
+  },
+  {
+   "id": "K060",
+   "issue": "match",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "yes",
+   "reason": "SEC enforcement over 2018-2019 revenue is correct, but the only restatement on record covers 2021 quarters, not the 2018-2019 period."
+  },
+  {
+   "id": "K126",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The aggressive revenue guidance and SEC charges match the record, and the restatement filed in 2021 fits the claimed 2021-22 timing."
+  },
+  {
+   "id": "K244",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The settled SEC order covers revenue recognition and related-party disclosure failures in 2017-2019."
+  },
+  {
+   "id": "K194",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Generic misstatements; the SEC charges against the company and executives exist, and the 2019 period overlaps the record."
+  },
+  {
+   "id": "K168",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "SEC charges, the ICFR failures, the 2018 revenue overstatement and a later restatement are all on record."
+  }
+ ]
+}

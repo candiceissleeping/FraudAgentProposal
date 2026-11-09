@@ -1,0 +1,71 @@
+{
+ "pid": "P13T",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K012",
+   "issue": "partial",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "yes",
+   "reason": "Names revenue/expense errors and an SEC investigation, which fit, but no restatement of FY2018 appears in the record."
+  },
+  {
+   "id": "K107",
+   "issue": "partial",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "yes",
+   "reason": "Revenue errors and the SEC settlement fit, but the record shows no restatement of FY2018."
+  },
+  {
+   "id": "K029",
+   "issue": "not_stated",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "yes",
+   "reason": "Names only generic errors, and claims a restatement that the record does not show."
+  },
+  {
+   "id": "K232",
+   "issue": "not_stated",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "yes",
+   "reason": "The SEC settlement is real, but the claimed restatement of FY2018 and earlier periods does not appear in the record."
+  },
+  {
+   "id": "K157",
+   "issue": "mismatch",
+   "consequence": "not_stated",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Names IPO-era growth/integration statements rather than revenue recognition; a class action falls outside the record, and saying no restatement is consistent with it."
+  },
+  {
+   "id": "K014",
+   "issue": "not_stated",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "yes",
+   "reason": "Generic 'accounting practices' and an SEC probe fit, but the implied FY2018 restatement is not in the record (the 2019 10-K/A was not a 4.02 restatement)."
+  },
+  {
+   "id": "K018",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "An SEC settlement over improper revenue recognition in 2017-2018 matches the record; the 2022 date is off by less than one year from March 2023."
+  },
+  {
+   "id": "K087",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "An SEC settlement over improper revenue recognition in fiscal 2017-2018 matches the record; the date is within a year of the March 2023 action."
+  }
+ ]
+}

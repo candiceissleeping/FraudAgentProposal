@@ -1,0 +1,127 @@
+{
+ "pid": "P10T",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K161",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The FY2020 10-K was restated over loan impairment errors and a material weakness was disclosed; 'loan accounting errors' is generic but consistent."
+  },
+  {
+   "id": "K228",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The FY2020 10-K was restated over loan impairment and collateral-dependent classification errors."
+  },
+  {
+   "id": "K202",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "A restatement tied to loan accounting is consistent with the record, though the claim gives no specifics."
+  },
+  {
+   "id": "K003",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The FY2020 10-K and the Dec 2019 10-Q were restated over loan impairment errors; 'loan accounting errors' is generic."
+  },
+  {
+   "id": "K081",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The FY2020 and interim restatements over loan-related errors are consistent with the record."
+  },
+  {
+   "id": "K189",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The record shows restatements over impairment and classification of problem commercial real estate loans."
+  },
+  {
+   "id": "K022",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The FY2020 10-K was restated for loan impairment and classification errors."
+  },
+  {
+   "id": "K243",
+   "issue": "partial",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "A restatement of recent periods tied to loan accounting is consistent with the record, though the claim is vague."
+  },
+  {
+   "id": "K053",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The record shows a FY2020 restatement involving loan classification and TDR issues, and a late filing notice for the 10-K."
+  },
+  {
+   "id": "K156",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The FY2020 restatement for loan classification and TDR errors and the material weakness are both in the record."
+  },
+  {
+   "id": "K007",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Loan classification and TDR accounting errors, the FY2020 restatement and the material weakness all match the record."
+  },
+  {
+   "id": "K099",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The FY2020 10-K was restated over classification and impairment of a $13.5M problem loan."
+  },
+  {
+   "id": "K093",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The TDR and loan classification restatement and material weakness match, and SEC involvement is consistent with the 2023 enforcement action."
+  },
+  {
+   "id": "K031",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The FY2020 restatement over misclassification of a troubled loan, TDR issues and control weaknesses matches the record."
+  },
+  {
+   "id": "K162",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The fiscal 2020 restatement tied to loan classification and impairment matches the record."
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "pid": "O08C",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K138",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "Names no specific problem type; the restatement history matches the 2011 Item 4.02 non-reliance filings for old periods."
+  },
+  {
+   "id": "K221",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "Generic labels only; the prior restatements and the 46 late-filing notices are in the record, and going concern is not covered."
+  },
+  {
+   "id": "K163",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "Late filings and the prior restatement are consistent with the record; going concern and control issues name no problem type."
+  },
+  {
+   "id": "K212",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "The prior restatements match the 2011 filings; the claim names no specific accounting issue."
+  },
+  {
+   "id": "K254",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "The past restatement is consistent with the 2011 non-reliance filings; the claim names no specific issue type."
+  },
+  {
+   "id": "K195",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "The prior restatement and delayed filings are both in the record; going concern is not covered, and no issue type is named."
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "pid": "O26C",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K062",
+   "issue": "not_stated",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "no",
+   "reason": "Names only a restatement and material weakness, but the record shows no Item 4.02 non-reliance or restatement of 2022 or earlier periods."
+  },
+  {
+   "id": "K240",
+   "issue": "not_stated",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "no",
+   "reason": "Claims a prior restatement and SEC issues, but the record shows no 4.02 restatement and no AAER, only 10-K/As and late-filing notices."
+  },
+  {
+   "id": "K174",
+   "issue": "not_stated",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "no",
+   "reason": "Claims a restatement and an SEC inquiry, neither of which the record shows (no 4.02, no AAER)."
+  },
+  {
+   "id": "K144",
+   "issue": "not_stated",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "no",
+   "reason": "Claims a restatement of 2020-era financials, but the record has no Item 4.02 filing, only 10-K/As and late-filing notices."
+  },
+  {
+   "id": "K118",
+   "issue": "not_stated",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "no",
+   "reason": "Claims a restatement of 2019-era financials and SEC scrutiny, but the record shows no 4.02 non-reliance and no AAER."
+  }
+ ]
+}

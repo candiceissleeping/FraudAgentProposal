@@ -1,0 +1,39 @@
+{
+ "pid": "O22C",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K084",
+   "issue": "mismatch",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "no",
+   "reason": "The record does show late-filing notices, but it shows no related-party accounting problem; the only Item 4.02 concerns 2005 stock-option accounting."
+  },
+  {
+   "id": "K233",
+   "issue": "mismatch",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "no",
+   "reason": "The claim implies a restatement tied to related-party Lazarus dealings, but the record's only non-reliance is from 2005 and concerns stock-option accounting, with none for FY2025."
+  },
+  {
+   "id": "K042",
+   "issue": "mismatch",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "no",
+   "reason": "The record shows no restatement involving FY2025 and no related-party issue; the only non-reliance is the 2005 stock-option matter."
+  },
+  {
+   "id": "K076",
+   "issue": "mismatch",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "no",
+   "reason": "Late filings are supported, but the record shows no restatement tied to related-party Lazarus accounting and none covering FY2025."
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "pid": "P07T",
+ "attempts": 1,
+ "checks_pass": true,
+ "grades": [
+  {
+   "id": "K201",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The FY2018 10-K and its quarters were restated for ASC 606 revenue recognition errors, and material weaknesses were reported."
+  },
+  {
+   "id": "K020",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "2018 and 2019 were restated for revenue recognition errors, and AAER-4510 followed in 2024."
+  },
+  {
+   "id": "K092",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "2018 was restated for contract revenue (ASC 606) errors, and material weaknesses were disclosed."
+  },
+  {
+   "id": "K238",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "2018 was restated for revenue recognition errors, and the AAER references a Commission investigation."
+  },
+  {
+   "id": "K152",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The restatement concerned cost-to-cost revenue recognition on long-term programs, and SEC enforcement came in 2024."
+  },
+  {
+   "id": "K140",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The 2018 annual and quarterly periods were restated for revenue recognition, and the SEC issued a cease-and-desist order."
+  },
+  {
+   "id": "K025",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The percentage-of-completion revenue errors under ASC 606 led to the 2018 restatement and the SEC order."
+  },
+  {
+   "id": "K127",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "2018 and 2019 were restated for contract revenue recognition errors, and SEC enforcement followed in 2024."
+  },
+  {
+   "id": "K085",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The contract revenue restatement and SEC investigation are on record; class actions are not covered by the record."
+  },
+  {
+   "id": "K095",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The ASC 606 misapplication on long-term programs is exactly what the AAER describes, along with the SEC order."
+  },
+  {
+   "id": "K094",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The contract revenue accounting errors caused the 2018 restatement, and the SEC brought a cease-and-desist proceeding."
+  },
+  {
+   "id": "K106",
+   "issue": "match",
+   "consequence": "incorrect",
+   "contradiction": "yes",
+   "record_exists": "yes",
+   "reason": "The SEC action was against the company only; the record shows no charges against former executives."
+  },
+  {
+   "id": "K115",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "2018 was restated for revenue recognition errors, and SEC enforcement (AAER-4510) followed."
+  },
+  {
+   "id": "K197",
+   "issue": "not_stated",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "The claim names only a restatement and material weaknesses, which are consistent with the record but name no kind of accounting problem."
+  },
+  {
+   "id": "K134",
+   "issue": "match",
+   "consequence": "correct",
+   "contradiction": "no",
+   "record_exists": "yes",
+   "reason": "Long-term contract revenue recognition caused the 2018 restatement, and the SEC charged the company in 2024."
+  }
+ ]
+}
