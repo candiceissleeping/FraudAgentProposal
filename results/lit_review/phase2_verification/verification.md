@@ -5,6 +5,7 @@
 | 主題 | 篇數 | VERIFIED（DOI） | VERIFIED（arXiv） | PLAUSIBLE（WebSearch） | 不符／失敗／待查 |
 |---|---|---|---|---|---|
 | T1 | 20 | 7 | 13 | 0 | 0 |
+| T4 | 20 | 10 | 10 | 0 | 0 |
 
 ## 逐筆
 
@@ -30,3 +31,23 @@
 | T1 | wu2024reasoning | VERIFIED | doi | 1.0 | Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Throu |
 | T1 | sugiura2026edinet | VERIFIED | arxiv | 1.0 | EDINET-Bench: Evaluating LLMs on Complex Financial Tasks using Japanese Financial Statemen |
 | T1 | efe2026earnings | VERIFIED | arxiv | 1.0 | Do Earnings Calls Help Predict Financial Restatements? Evaluating Text Beyond Public Firm  |
+| T4 | kadavath2022language | VERIFIED | arxiv | 1.0 | Language Models (Mostly) Know What They Know |
+| T4 | yin2023large | VERIFIED | doi | 1.0 | Do Large Language Models Know What They Don’t Know? |
+| T4 | xiong2024can | VERIFIED | arxiv | 1.0 | Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in L |
+| T4 | wei2024measuring | VERIFIED | arxiv | 1.0 | Measuring short-form factuality in large language models |
+| T4 | ni2026popular | VERIFIED | doi | 1.0 | Popular but Wrong: Understanding and Mitigating LLM Overconfidence through Knowledge Popul |
+| T4 | huang2025survey | VERIFIED | doi | 1.0 | A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and  |
+| T4 | kalai2025why | VERIFIED | arxiv | 1.0 | Why Language Models Hallucinate |
+| T4 | farquhar2024detecting | VERIFIED | doi | 1.0 | Detecting hallucinations in large language models using semantic entropy |
+| T4 | petroni2019language | VERIFIED | doi | 1.0 | Language Models as Knowledge Bases? |
+| T4 | kandpal2023large | VERIFIED | arxiv | 1.0 | Large Language Models Struggle to Learn Long-Tail Knowledge |
+| T4 | mallen2023when | VERIFIED | doi | 1.0 | When Not to Trust Language Models: Investigating Effectiveness of Parametric and Non-Param |
+| T4 | sun2024head | VERIFIED | doi | 1.0 | Head-to-Tail: How Knowledgeable are Large Language Models (LLMs)? A.K.A. Will LLMs Replace |
+| T4 | dhingra2022time | VERIFIED | doi | 1.0 | Time-Aware Language Models as Temporal Knowledge Bases |
+| T4 | cheng2024dated | VERIFIED | arxiv | 1.0 | Dated Data: Tracing Knowledge Cutoffs in Large Language Models |
+| T4 | min2023factscore | VERIFIED | doi | 1.0 | FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generatio |
+| T4 | shah2025beyond | VERIFIED | arxiv | 1.0 | Beyond the Reported Cutoff: Where Large Language Models Fall Short on Financial Knowledge |
+| T4 | golchin2024time | VERIFIED | arxiv | 1.0 | Time Travel in LLMs: Tracing Data Contamination in Large Language Models |
+| T4 | gao2025detecting | VERIFIED | arxiv | 1.0 | Detecting Lookahead Bias in LLM Forecasts |
+| T4 | duan2024membership | VERIFIED | arxiv | 1.0 | Do Membership Inference Attacks Work on Large Language Models? |
+| T4 | fu2025does | VERIFIED | doi | 1.0 | Does Data Contamination Detection Work (Well) for LLMs? A Survey and Evaluation on Detecti |
