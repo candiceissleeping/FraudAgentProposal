@@ -111,11 +111,14 @@ def parse_scores(answer):
 # ---------------------------------------------------------------- running
 def claude(prompt, extra, path, model=MODEL, effort=None):
     """One fresh `claude -p` in a new empty directory; raw stream-json saved to path. Returns the events."""
-    cmd = ["claude", "-p", prompt, "--model", model, *extra, *STREAM]
+    # A single command-line argument is limited to 128 KB on Linux, so long prompts go through stdin instead.
+    via_stdin = len(prompt.encode("utf-8")) > 100_000
+    cmd = ["claude", "-p", *([] if via_stdin else [prompt]), "--model", model, *extra, *STREAM]
     if effort:
         cmd += ["--effort", effort]
     with tempfile.TemporaryDirectory(prefix="mem_jail_") as jail:
-        p = subprocess.run(cmd, cwd=jail, stdin=subprocess.DEVNULL, capture_output=True, text=True, timeout=900)
+        p = subprocess.run(cmd, cwd=jail, input=prompt if via_stdin else None,
+                           stdin=None if via_stdin else subprocess.DEVNULL, capture_output=True, text=True, timeout=900)
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8") as fh:
         fh.write(p.stdout)
