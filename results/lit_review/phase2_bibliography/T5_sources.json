@@ -1,0 +1,405 @@
+[
+  {
+    "key": "beneish1999detection",
+    "title": "The Detection of Earnings Manipulation",
+    "authors": [
+      "Beneish, M. D."
+    ],
+    "year": 1999,
+    "venue": "Financial Analysts Journal",
+    "type": "journal",
+    "tier": 1,
+    "doi": "10.2469/faj.v55.n5.2296",
+    "arxiv_id": null,
+    "url": "https://doi.org/10.2469/faj.v55.n5.2296",
+    "read_scope": "abstract_only",
+    "subtheme": "經典會計舞弊／錯報預測模型",
+    "from_dreamy_corpus": false
+  },
+  {
+    "key": "dechow2011predicting",
+    "title": "Predicting Material Accounting Misstatements",
+    "authors": [
+      "Dechow, P. M.",
+      "Ge, W.",
+      "Larson, C. R.",
+      "Sloan, R. G."
+    ],
+    "year": 2011,
+    "venue": "Contemporary Accounting Research",
+    "type": "journal",
+    "tier": 1,
+    "doi": "10.1111/j.1911-3846.2010.01041.x",
+    "arxiv_id": null,
+    "url": "https://doi.org/10.1111/j.1911-3846.2010.01041.x",
+    "read_scope": "abstract_only",
+    "subtheme": "經典會計舞弊／錯報預測模型",
+    "from_dreamy_corpus": false
+  },
+  {
+    "key": "perols2011financial",
+    "title": "Financial Statement Fraud Detection: An Analysis of Statistical and Machine Learning Algorithms",
+    "authors": [
+      "Perols, J."
+    ],
+    "year": 2011,
+    "venue": "Auditing: A Journal of Practice & Theory",
+    "type": "journal",
+    "tier": 1,
+    "doi": "10.2308/ajpt-50009",
+    "arxiv_id": null,
+    "url": "https://doi.org/10.2308/ajpt-50009",
+    "read_scope": "abstract_only",
+    "subtheme": "經典會計舞弊／錯報預測模型",
+    "from_dreamy_corpus": false
+  },
+  {
+    "key": "bao2020detecting",
+    "title": "Detecting Accounting Fraud in Publicly Traded U.S. Firms Using a Machine Learning Approach",
+    "authors": [
+      "Bao, Y.",
+      "Ke, B.",
+      "Li, B.",
+      "Yu, Y. J.",
+      "Zhang, J."
+    ],
+    "year": 2020,
+    "venue": "Journal of Accounting Research (Erratum: 60(4), 1635-1646, 2022, doi:10.1111/1475-679X.12454)",
+    "type": "journal",
+    "tier": 1,
+    "doi": "10.1111/1475-679X.12292",
+    "arxiv_id": null,
+    "url": "https://doi.org/10.1111/1475-679X.12292",
+    "read_scope": "abstract_only",
+    "subtheme": "經典會計舞弊／錯報預測模型",
+    "from_dreamy_corpus": true
+  },
+  {
+    "key": "bertomeu2021using",
+    "title": "Using machine learning to detect misstatements",
+    "authors": [
+      "Bertomeu, J.",
+      "Cheynel, E.",
+      "Floyd, E.",
+      "Pan, W."
+    ],
+    "year": 2021,
+    "venue": "Review of Accounting Studies",
+    "type": "journal",
+    "tier": 1,
+    "doi": "10.1007/s11142-020-09563-8",
+    "arxiv_id": null,
+    "url": "https://doi.org/10.1007/s11142-020-09563-8",
+    "read_scope": "abstract_only",
+    "subtheme": "經典會計舞弊／錯報預測模型",
+    "from_dreamy_corpus": true
+  },
+  {
+    "key": "purda2015accounting",
+    "title": "Accounting Variables, Deception, and a Bag of Words: Assessing the Tools of Fraud Detection",
+    "authors": [
+      "Purda, L.",
+      "Skillicorn, D."
+    ],
+    "year": 2015,
+    "venue": "Contemporary Accounting Research",
+    "type": "journal",
+    "tier": 1,
+    "doi": "10.1111/1911-3846.12089",
+    "arxiv_id": null,
+    "url": "https://doi.org/10.1111/1911-3846.12089",
+    "read_scope": "abstract_only",
+    "subtheme": "文字型舞弊與錯報偵測（LLM 之前）",
+    "from_dreamy_corpus": false
+  },
+  {
+    "key": "hoberg2017fraudulent",
+    "title": "Do fraudulent firms produce abnormal disclosure?",
+    "authors": [
+      "Hoberg, G.",
+      "Lewis, C."
+    ],
+    "year": 2017,
+    "venue": "Journal of Corporate Finance",
+    "type": "journal",
+    "tier": 1,
+    "doi": "10.1016/j.jcorpfin.2016.12.007",
+    "arxiv_id": null,
+    "url": "https://doi.org/10.1016/j.jcorpfin.2016.12.007",
+    "read_scope": "abstract_only",
+    "subtheme": "文字型舞弊與錯報偵測（LLM 之前）",
+    "from_dreamy_corpus": false
+  },
+  {
+    "key": "brown2020what",
+    "title": "What Are You Saying? Using topic to Detect Financial Misreporting",
+    "authors": [
+      "Brown, N. C.",
+      "Crowley, R. M.",
+      "Elliott, W. B."
+    ],
+    "year": 2020,
+    "venue": "Journal of Accounting Research",
+    "type": "journal",
+    "tier": 1,
+    "doi": "10.1111/1475-679X.12294",
+    "arxiv_id": null,
+    "url": "https://doi.org/10.1111/1475-679X.12294",
+    "read_scope": "abstract_only",
+    "subtheme": "文字型舞弊與錯報偵測（LLM 之前）",
+    "from_dreamy_corpus": true
+  },
+  {
+    "key": "yue2026frauddebate",
+    "title": "FraudDebate-Agent: A Multi-Agent LLM Framework with an Evidence-Based Debate Mechanism for Financial Statement Fraud Detection",
+    "authors": [
+      "Yue, X.",
+      "Yang, J.",
+      "Liu, W."
+    ],
+    "year": 2026,
+    "venue": "Mathematics",
+    "type": "journal",
+    "tier": 1,
+    "doi": "10.3390/math14152695",
+    "arxiv_id": null,
+    "url": "https://doi.org/10.3390/math14152695",
+    "read_scope": "abstract_only",
+    "subtheme": "LLM 財報舞弊／重編偵測",
+    "from_dreamy_corpus": true
+  },
+  {
+    "key": "wang2026umar",
+    "title": "Multi-Agent Framework for Audit Risk Assessment with Explicit Uncertainty and Evidence Conflict Modeling",
+    "authors": [
+      "Wang, Y.",
+      "Wang, M.",
+      "Lu, Y.",
+      "Peng, Z.",
+      "Lin, S."
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "tier": 2,
+    "doi": null,
+    "arxiv_id": "2606.15640",
+    "url": "https://arxiv.org/abs/2606.15640",
+    "read_scope": "abstract_only",
+    "subtheme": "LLM 財報舞弊／重編偵測",
+    "from_dreamy_corpus": true
+  },
+  {
+    "key": "sugiura2026edinet",
+    "title": "EDINET-Bench: Evaluating LLMs on Complex Financial Tasks using Japanese Financial Statements",
+    "authors": [
+      "Sugiura, I.",
+      "Ishida, T.",
+      "Makino, T.",
+      "Tazuke, C.",
+      "Nakagawa, T.",
+      "Nakago, K.",
+      "Ha, D."
+    ],
+    "year": 2026,
+    "venue": "International Conference on Learning Representations (ICLR 2026)",
+    "type": "conference",
+    "tier": 1,
+    "doi": null,
+    "arxiv_id": "2506.08762",
+    "url": "https://arxiv.org/abs/2506.08762",
+    "read_scope": "abstract_only",
+    "subtheme": "LLM 財報舞弊／重編偵測",
+    "from_dreamy_corpus": true
+  },
+  {
+    "key": "waffodzuyo2026benchmarking",
+    "title": "Benchmarking Generalization in Financial Statement Fraud Detection: robust evaluation and novel tasks",
+    "authors": [
+      "Waffo Dzuyo, G. S.",
+      "Guibon, G.",
+      "Cerisara, C.",
+      "Belmar-Letelier, L."
+    ],
+    "year": 2026,
+    "venue": "arXiv (accepted at FinLLM@IJCAI 2026)",
+    "type": "preprint",
+    "tier": 2,
+    "doi": null,
+    "arxiv_id": "2607.19259",
+    "url": "https://arxiv.org/abs/2607.19259",
+    "read_scope": "abstract_only",
+    "subtheme": "LLM 財報舞弊／重編偵測",
+    "from_dreamy_corpus": true
+  },
+  {
+    "key": "efe2026earnings",
+    "title": "Do Earnings Calls Help Predict Financial Restatements? Evaluating Text Beyond Public Firm Information",
+    "authors": [
+      "Efe, A.",
+      "Sapra, S.",
+      "Ahmed, B."
+    ],
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "tier": 2,
+    "doi": null,
+    "arxiv_id": "2611.01123",
+    "url": "https://arxiv.org/abs/2611.01123",
+    "read_scope": "abstract_only",
+    "subtheme": "LLM 財報舞弊／重編偵測",
+    "from_dreamy_corpus": true
+  },
+  {
+    "key": "karpoff2017proxies",
+    "title": "Proxies and Databases in Financial Misconduct Research",
+    "authors": [
+      "Karpoff, J. M.",
+      "Koester, A.",
+      "Lee, D. S.",
+      "Martin, G. S."
+    ],
+    "year": 2017,
+    "venue": "The Accounting Review",
+    "type": "journal",
+    "tier": 1,
+    "doi": "10.2308/accr-51766",
+    "arxiv_id": null,
+    "url": "https://doi.org/10.2308/accr-51766",
+    "read_scope": "abstract_only",
+    "subtheme": "標籤：AAER、重編與偵測機率",
+    "from_dreamy_corpus": false
+  },
+  {
+    "key": "dyck2024pervasive",
+    "title": "How pervasive is corporate fraud?",
+    "authors": [
+      "Dyck, A.",
+      "Morse, A.",
+      "Zingales, L."
+    ],
+    "year": 2024,
+    "venue": "Review of Accounting Studies (Correction: 30(4), 3996-3998, 2025, doi:10.1007/s11142-025-09919-y)",
+    "type": "journal",
+    "tier": 1,
+    "doi": "10.1007/s11142-022-09738-5",
+    "arxiv_id": null,
+    "url": "https://doi.org/10.1007/s11142-022-09738-5",
+    "read_scope": "abstract_only",
+    "subtheme": "標籤：AAER、重編與偵測機率",
+    "from_dreamy_corpus": false
+  },
+  {
+    "key": "barton2024importance",
+    "title": "The Importance of Separating the Probability of Committing and Detecting Misstatements in the Restatement Setting",
+    "authors": [
+      "Barton, F. J.",
+      "Burnett, B. M.",
+      "Gunny, K.",
+      "Miller, B. P."
+    ],
+    "year": 2024,
+    "venue": "Management Science",
+    "type": "journal",
+    "tier": 1,
+    "doi": "10.1287/mnsc.2022.4627",
+    "arxiv_id": null,
+    "url": "https://doi.org/10.1287/mnsc.2022.4627",
+    "read_scope": "abstract_only",
+    "subtheme": "標籤：AAER、重編與偵測機率",
+    "from_dreamy_corpus": true
+  },
+  {
+    "key": "zavitsanos2021financial",
+    "title": "Financial misstatement detection: a realistic evaluation",
+    "authors": [
+      "Zavitsanos, E.",
+      "Mavroeidis, D.",
+      "Bougiatiotis, K.",
+      "Spyropoulou, E.",
+      "Loukas, L.",
+      "Paliouras, G."
+    ],
+    "year": 2021,
+    "venue": "Proceedings of the Second ACM International Conference on AI in Finance (ICAIF '21)",
+    "type": "conference",
+    "tier": 1,
+    "doi": "10.1145/3490354.3494453",
+    "arxiv_id": "2305.17457",
+    "url": "https://doi.org/10.1145/3490354.3494453",
+    "read_scope": "abstract_only",
+    "subtheme": "時間外驗證、偵測時滯與滾動 benchmark",
+    "from_dreamy_corpus": true
+  },
+  {
+    "key": "roberts2024cutoff",
+    "title": "To the Cutoff... and Beyond? A Longitudinal Perspective on LLM Data Contamination (arXiv title: Data Contamination Through the Lens of Time)",
+    "authors": [
+      "Roberts, M.",
+      "Thakur, H.",
+      "Herlihy, C.",
+      "White, C.",
+      "Dooley, S."
+    ],
+    "year": 2024,
+    "venue": "International Conference on Learning Representations (ICLR 2024)",
+    "type": "conference",
+    "tier": 1,
+    "doi": null,
+    "arxiv_id": "2310.10628",
+    "url": "https://arxiv.org/abs/2310.10628",
+    "read_scope": "abstract_only",
+    "subtheme": "時間外驗證、偵測時滯與滾動 benchmark",
+    "from_dreamy_corpus": false
+  },
+  {
+    "key": "karger2025forecastbench",
+    "title": "ForecastBench: A Dynamic Benchmark of AI Forecasting Capabilities",
+    "authors": [
+      "Karger, E.",
+      "Bastani, H.",
+      "Chen, Y.-H.",
+      "Jacobs, Z.",
+      "Halawi, D.",
+      "Zhang, F.",
+      "Tetlock, P. E."
+    ],
+    "year": 2025,
+    "venue": "International Conference on Learning Representations (ICLR 2025)",
+    "type": "conference",
+    "tier": 1,
+    "doi": null,
+    "arxiv_id": "2409.19839",
+    "url": "https://arxiv.org/abs/2409.19839",
+    "read_scope": "abstract_only",
+    "subtheme": "時間外驗證、偵測時滯與滾動 benchmark",
+    "from_dreamy_corpus": false
+  },
+  {
+    "key": "li2025deepfund",
+    "title": "Time Travel is Cheating: Going Live with DeepFund for Real-Time Fund Investment Benchmarking",
+    "authors": [
+      "Li, C.",
+      "Shi, Y.",
+      "Wang, C.",
+      "Duan, Q.",
+      "Ruan, R.",
+      "Huang, W.",
+      "Long, H.",
+      "Huang, L.",
+      "Tang, N.",
+      "Luo, Y."
+    ],
+    "year": 2025,
+    "venue": "Advances in Neural Information Processing Systems (NeurIPS 2025), Datasets and Benchmarks Track",
+    "type": "conference",
+    "tier": 1,
+    "doi": null,
+    "arxiv_id": "2505.11065",
+    "url": "https://arxiv.org/abs/2505.11065",
+    "read_scope": "abstract_only",
+    "subtheme": "時間外驗證、偵測時滯與滾動 benchmark",
+    "from_dreamy_corpus": false
+  }
+]

@@ -6,6 +6,7 @@
 |---|---|---|---|---|---|
 | T1 | 20 | 7 | 13 | 0 | 0 |
 | T4 | 20 | 10 | 10 | 0 | 0 |
+| T5 | 20 | 13 | 7 | 0 | 0 |
 
 ## 逐筆
 
@@ -51,3 +52,25 @@
 | T4 | gao2025detecting | VERIFIED | arxiv | 1.0 | Detecting Lookahead Bias in LLM Forecasts |
 | T4 | duan2024membership | VERIFIED | arxiv | 1.0 | Do Membership Inference Attacks Work on Large Language Models? |
 | T4 | fu2025does | VERIFIED | doi | 1.0 | Does Data Contamination Detection Work (Well) for LLMs? A Survey and Evaluation on Detecti |
+| T5 | beneish1999detection | VERIFIED | doi | 1.0 | The Detection of Earnings Manipulation |
+| T5 | dechow2011predicting | VERIFIED | doi | 1.0 | Predicting Material Accounting Misstatements* |
+| T5 | perols2011financial | VERIFIED | doi | 1.0 | Financial Statement Fraud Detection: An Analysis of Statistical and Machine Learning Algor |
+| T5 | bao2020detecting | VERIFIED | doi | 1.0 | Detecting Accounting Fraud in Publicly Traded U.S. Firms Using a Machine Learning Approach |
+| T5 | bertomeu2021using | VERIFIED | doi | 1.0 | Using machine learning to detect misstatements |
+| T5 | purda2015accounting | VERIFIED | doi | 1.0 | Accounting Variables, Deception, and a Bag of Words: Assessing the Tools of Fraud Detectio |
+| T5 | hoberg2017fraudulent | VERIFIED | doi | 1.0 | Do fraudulent firms produce abnormal disclosure? |
+| T5 | brown2020what | VERIFIED | doi | 1.0 | What Are You Saying? Using
+                    <i>topic</i>
+                    to Detect  |
+| T5 | yue2026frauddebate | VERIFIED | doi | 1.0 | FraudDebate-Agent: A Multi-Agent LLM Framework with an Evidence-Based Debate Mechanism for |
+| T5 | wang2026umar | VERIFIED | arxiv | 1.0 | Multi-Agent Framework for Audit Risk Assessment with Explicit Uncertainty and Evidence Con |
+| T5 | sugiura2026edinet | VERIFIED | arxiv | 1.0 | EDINET-Bench: Evaluating LLMs on Complex Financial Tasks using Japanese Financial Statemen |
+| T5 | waffodzuyo2026benchmarking | VERIFIED | arxiv | 1.0 | Benchmarking Generalization in Financial Statement Fraud Detection: robust evaluation and  |
+| T5 | efe2026earnings | VERIFIED | arxiv | 1.0 | Do Earnings Calls Help Predict Financial Restatements? Evaluating Text Beyond Public Firm  |
+| T5 | karpoff2017proxies | VERIFIED | doi | 1.0 | Proxies and Databases in Financial Misconduct Research |
+| T5 | dyck2024pervasive | VERIFIED | doi | 1.0 | How pervasive is corporate fraud? |
+| T5 | barton2024importance | VERIFIED | doi | 1.0 | The Importance of Separating the Probability of Committing and Detecting Misstatements in  |
+| T5 | zavitsanos2021financial | VERIFIED | doi | 1.0 | Financial misstatement detection |
+| T5 | roberts2024cutoff | VERIFIED | arxiv | 1.0 | Data Contamination Through the Lens of Time |
+| T5 | karger2025forecastbench | VERIFIED | arxiv | 1.0 | ForecastBench: A Dynamic Benchmark of AI Forecasting Capabilities |
+| T5 | li2025deepfund | VERIFIED | arxiv | 1.0 | Time Travel is Cheating: Going Live with DeepFund for Real-Time Fund Investment Benchmarki |
