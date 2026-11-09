@@ -199,7 +199,8 @@ def cmd_probe(args):
         v = verify(claude(prompt, HARDENED, raw))
         rep = parse_scores(v["answer"]) or []
         guess = {int(e["id"]): str(e.get("company", "")) for e in rep if "id" in e}
-        correct = [cp[i - 1] for i, g in guess.items() if 1 <= i <= len(cp) and g.strip() == names[cp[i - 1]].strip()]
+        bare = lambda x: x.split(" (fiscal")[0].strip().lower()   # the model answers with the name, without the year
+        correct = [cp[i - 1] for i, g in guess.items() if 1 <= i <= len(cp) and bare(g) == bare(names[cp[i - 1]])]
         json.dump({"level": args.level, "sample": s, "checks_pass": v["all_pass"], "card_order": cp, "name_order": np_,
                    "reply": rep, "correct": correct}, open(f"{R}/probe/{args.level}_{s}.json", "w"), indent=1)
         print(f"{args.level} {s}: checks_pass={v['all_pass']} matched {len(correct)}/{len(pids)} correct; replies={len(rep)}")

@@ -1,0 +1,416 @@
+{
+ "level": "L2",
+ "sample": "oot",
+ "checks_pass": true,
+ "card_order": [
+  "O13T",
+  "O17T",
+  "O18C",
+  "O22C",
+  "O02T",
+  "O05T",
+  "O21T",
+  "O24T",
+  "O12T",
+  "O20T",
+  "O09C",
+  "O18T",
+  "O07C",
+  "O21C",
+  "O15T",
+  "O23T",
+  "O03C",
+  "O12C",
+  "O14C",
+  "O14T",
+  "O27T",
+  "O08C",
+  "O16T",
+  "O02C",
+  "O13C",
+  "O24C",
+  "O19C",
+  "O26C",
+  "O01C",
+  "O07T",
+  "O10T",
+  "O23C",
+  "O06C",
+  "O26T",
+  "O25T",
+  "O09T",
+  "O17C",
+  "O04T",
+  "O01T",
+  "O27C",
+  "O22T",
+  "O05C",
+  "O11C",
+  "O08T",
+  "O04C",
+  "O16C",
+  "O25C",
+  "O03T",
+  "O10C",
+  "O11T",
+  "O06T",
+  "O15C",
+  "O19T",
+  "O20C"
+ ],
+ "name_order": [
+  "O14T",
+  "O01C",
+  "O02T",
+  "O18T",
+  "O13C",
+  "O12T",
+  "O18C",
+  "O14C",
+  "O13T",
+  "O01T",
+  "O05C",
+  "O04T",
+  "O27T",
+  "O06C",
+  "O09C",
+  "O23C",
+  "O16T",
+  "O05T",
+  "O21C",
+  "O22C",
+  "O25T",
+  "O12C",
+  "O24T",
+  "O26T",
+  "O07T",
+  "O07C",
+  "O04C",
+  "O16C",
+  "O10C",
+  "O11T",
+  "O22T",
+  "O23T",
+  "O15C",
+  "O03T",
+  "O20T",
+  "O10T",
+  "O26C",
+  "O06T",
+  "O08C",
+  "O20C",
+  "O24C",
+  "O08T",
+  "O17T",
+  "O03C",
+  "O19C",
+  "O02C",
+  "O19T",
+  "O17C",
+  "O25C",
+  "O21T",
+  "O15T",
+  "O09T",
+  "O27C",
+  "O11C"
+ ],
+ "reply": [
+  {
+   "id": 1,
+   "company": "Newton Golf Company, Inc.",
+   "confidence": 10
+  },
+  {
+   "id": 2,
+   "company": "Globaltek Ventures, Inc.",
+   "confidence": 15
+  },
+  {
+   "id": 3,
+   "company": "ESS Tech, Inc.",
+   "confidence": 60
+  },
+  {
+   "id": 4,
+   "company": "OMNIQ Corp.",
+   "confidence": 25
+  },
+  {
+   "id": 5,
+   "company": "BayFirst Financial Corp.",
+   "confidence": 60
+  },
+  {
+   "id": 6,
+   "company": "American Resources Corp.",
+   "confidence": 25
+  },
+  {
+   "id": 7,
+   "company": "Netcapital Inc.",
+   "confidence": 25
+  },
+  {
+   "id": 8,
+   "company": "GoPro, Inc.",
+   "confidence": 40
+  },
+  {
+   "id": 9,
+   "company": "Pelthos Therapeutics Inc.",
+   "confidence": 45
+  },
+  {
+   "id": 10,
+   "company": "Blue Dolphin Energy Co.",
+   "confidence": 20
+  },
+  {
+   "id": 11,
+   "company": "Worksport Ltd.",
+   "confidence": 35
+  },
+  {
+   "id": 12,
+   "company": "Nuburu, Inc.",
+   "confidence": 55
+  },
+  {
+   "id": 13,
+   "company": "Sports Entertainment Gaming Global Corp.",
+   "confidence": 10
+  },
+  {
+   "id": 14,
+   "company": "Crexendo, Inc.",
+   "confidence": 20
+  },
+  {
+   "id": 15,
+   "company": "Solesence, Inc.",
+   "confidence": 30
+  },
+  {
+   "id": 16,
+   "company": "Securetech Innovations, Inc.",
+   "confidence": 25
+  },
+  {
+   "id": 17,
+   "company": "KonaTel, Inc.",
+   "confidence": 30
+  },
+  {
+   "id": 18,
+   "company": "Artiva Biotherapeutics, Inc.",
+   "confidence": 40
+  },
+  {
+   "id": 19,
+   "company": "Marygold Companies, Inc.",
+   "confidence": 45
+  },
+  {
+   "id": 20,
+   "company": "BONK, Inc.",
+   "confidence": 15
+  },
+  {
+   "id": 21,
+   "company": "Duke Robotics Corp.",
+   "confidence": 35
+  },
+  {
+   "id": 22,
+   "company": "Brownie's Marine Group, Inc.",
+   "confidence": 20
+  },
+  {
+   "id": 23,
+   "company": "Omnitek Engineering Corp.",
+   "confidence": 20
+  },
+  {
+   "id": 24,
+   "company": "Skyline Bankshares, Inc.",
+   "confidence": 35
+  },
+  {
+   "id": 25,
+   "company": "Kiora Pharmaceuticals, Inc.",
+   "confidence": 35
+  },
+  {
+   "id": 26,
+   "company": "IMAX Corp.",
+   "confidence": 45
+  },
+  {
+   "id": 27,
+   "company": "Liberty Global Ltd.",
+   "confidence": 50
+  },
+  {
+   "id": 28,
+   "company": "Paysign, Inc.",
+   "confidence": 30
+  },
+  {
+   "id": 29,
+   "company": "Windtree Therapeutics, Inc.",
+   "confidence": 45
+  },
+  {
+   "id": 30,
+   "company": "Protopia Global Holdings Inc.",
+   "confidence": 15
+  },
+  {
+   "id": 31,
+   "company": "GlobalTech Corp.",
+   "confidence": 10
+  },
+  {
+   "id": 32,
+   "company": "Panamera Holdings Corp.",
+   "confidence": 20
+  },
+  {
+   "id": 33,
+   "company": "EON Resources Inc.",
+   "confidence": 35
+  },
+  {
+   "id": 34,
+   "company": "Datavault AI Inc.",
+   "confidence": 20
+  },
+  {
+   "id": 35,
+   "company": "High Roller Technologies, Inc.",
+   "confidence": 45
+  },
+  {
+   "id": 36,
+   "company": "Yunhong Green CTI Ltd.",
+   "confidence": 20
+  },
+  {
+   "id": 37,
+   "company": "Olenox Industries Inc.",
+   "confidence": 15
+  },
+  {
+   "id": 38,
+   "company": "FutureTech II Acquisition Corp.",
+   "confidence": 40
+  },
+  {
+   "id": 39,
+   "company": "Trans American Aquaculture, Inc.",
+   "confidence": 10
+  },
+  {
+   "id": 40,
+   "company": "SDR Drone, Inc.",
+   "confidence": 30
+  },
+  {
+   "id": 41,
+   "company": "Trio Petroleum Corp.",
+   "confidence": 35
+  },
+  {
+   "id": 42,
+   "company": "NACCO Industries, Inc.",
+   "confidence": 45
+  },
+  {
+   "id": 43,
+   "company": "Greenlane Holdings, Inc.",
+   "confidence": 35
+  },
+  {
+   "id": 44,
+   "company": "CreditRiskMonitor.com, Inc.",
+   "confidence": 30
+  },
+  {
+   "id": 45,
+   "company": "U.S. Premium Beef, LLC",
+   "confidence": 55
+  },
+  {
+   "id": 46,
+   "company": "New Era Energy & Digital, Inc.",
+   "confidence": 20
+  },
+  {
+   "id": 47,
+   "company": "Galaxy Gaming, Inc.",
+   "confidence": 40
+  },
+  {
+   "id": 48,
+   "company": "High Wire Networks, Inc.",
+   "confidence": 30
+  },
+  {
+   "id": 49,
+   "company": "Pixelworks, Inc.",
+   "confidence": 30
+  },
+  {
+   "id": 50,
+   "company": "Greenwave Technology Solutions, Inc.",
+   "confidence": 20
+  },
+  {
+   "id": 51,
+   "company": "Northann Corp.",
+   "confidence": 30
+  },
+  {
+   "id": 52,
+   "company": "HCW Biologics Inc.",
+   "confidence": 35
+  },
+  {
+   "id": 53,
+   "company": "Optimum Communications, Inc.",
+   "confidence": 45
+  },
+  {
+   "id": 54,
+   "company": "Capstone Holding Corp.",
+   "confidence": 15
+  }
+ ],
+ "correct": [
+  "O18C",
+  "O02T",
+  "O05T",
+  "O24T",
+  "O12T",
+  "O18T",
+  "O15T",
+  "O03C",
+  "O12C",
+  "O14C",
+  "O02C",
+  "O13C",
+  "O24C",
+  "O19C",
+  "O26C",
+  "O01C",
+  "O26T",
+  "O25T",
+  "O05C",
+  "O11C",
+  "O08T",
+  "O04C",
+  "O25C",
+  "O03T",
+  "O19T"
+ ]
+}

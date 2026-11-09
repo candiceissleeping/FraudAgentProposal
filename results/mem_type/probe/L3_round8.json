@@ -1,0 +1,229 @@
+{
+ "level": "L3",
+ "sample": "round8",
+ "checks_pass": true,
+ "card_order": [
+  "P07C",
+  "P14C",
+  "P10C",
+  "P01C",
+  "P03T",
+  "P06C",
+  "P12C",
+  "P09T",
+  "P08T",
+  "P05T",
+  "P04T",
+  "P11T",
+  "P04C",
+  "P05C",
+  "P12T",
+  "P13C",
+  "P14T",
+  "P01T",
+  "P09C",
+  "P02C",
+  "P13T",
+  "P08C",
+  "P07T",
+  "P03C",
+  "P06T",
+  "P10T",
+  "P11C",
+  "P02T"
+ ],
+ "name_order": [
+  "P08C",
+  "P12T",
+  "P10T",
+  "P13T",
+  "P13C",
+  "P11C",
+  "P05C",
+  "P04C",
+  "P02C",
+  "P06C",
+  "P04T",
+  "P14C",
+  "P01T",
+  "P08T",
+  "P02T",
+  "P07T",
+  "P09T",
+  "P06T",
+  "P03T",
+  "P05T",
+  "P07C",
+  "P10C",
+  "P11T",
+  "P12C",
+  "P03C",
+  "P09C",
+  "P14T",
+  "P01C"
+ ],
+ "reply": [
+  {
+   "id": 2,
+   "company": "Visteon Corporation (fiscal year ended 2017-12-31)",
+   "confidence": 70
+  },
+  {
+   "id": 17,
+   "company": "Gentex Corporation (fiscal year ended 2017-12-31)",
+   "confidence": 70
+  },
+  {
+   "id": 12,
+   "company": "Mitek Systems, Inc. (fiscal year ended 2017-09-30)",
+   "confidence": 50
+  },
+  {
+   "id": 27,
+   "company": "USA Technologies, Inc. (fiscal year ended 2017-06-30)",
+   "confidence": 50
+  },
+  {
+   "id": 16,
+   "company": "Evoqua Water Technologies Corp. (fiscal year ended 2018-09-30)",
+   "confidence": 50
+  },
+  {
+   "id": 21,
+   "company": "Welbilt, Inc. (fiscal year ended 2018-12-31)",
+   "confidence": 50
+  },
+  {
+   "id": 1,
+   "company": "Ducommun Incorporated (fiscal year ended 2018-12-31)",
+   "confidence": 80
+  },
+  {
+   "id": 23,
+   "company": "CPI Aerostructures, Inc. (fiscal year ended 2018-12-31)",
+   "confidence": 75
+  },
+  {
+   "id": 7,
+   "company": "TransAtlantic Petroleum Ltd. (fiscal year ended 2018-12-31)",
+   "confidence": 70
+  },
+  {
+   "id": 15,
+   "company": "SAExploration Holdings, Inc. (fiscal year ended 2018-12-31)",
+   "confidence": 75
+  },
+  {
+   "id": 6,
+   "company": "TheMaven, Inc. (fiscal year ended 2018-12-31)",
+   "confidence": 75
+  },
+  {
+   "id": 25,
+   "company": "Ideanomics, Inc. (fiscal year ended 2018-12-31)",
+   "confidence": 70
+  },
+  {
+   "id": 10,
+   "company": "Boston Scientific Corporation (fiscal year ended 2019-12-31)",
+   "confidence": 50
+  },
+  {
+   "id": 14,
+   "company": "Becton, Dickinson and Company (fiscal year ended 2019-09-30)",
+   "confidence": 50
+  },
+  {
+   "id": 9,
+   "company": "GTT Communications, Inc. (fiscal year ended 2019-12-31)",
+   "confidence": 75
+  },
+  {
+   "id": 22,
+   "company": "Consolidated Communications Holdings, Inc. (fiscal year ended 2019-12-31)",
+   "confidence": 75
+  },
+  {
+   "id": 8,
+   "company": "Plug Power Inc. (fiscal year ended 2019-12-31)",
+   "confidence": 75
+  },
+  {
+   "id": 19,
+   "company": "Thermon Group Holdings, Inc. (fiscal year ended 2020-03-31)",
+   "confidence": 80
+  },
+  {
+   "id": 3,
+   "company": "Provident Financial Holdings, Inc. (fiscal year ended 2020-06-30)",
+   "confidence": 70
+  },
+  {
+   "id": 26,
+   "company": "Malvern Bancshares, Inc. (fiscal year ended 2020-09-30)",
+   "confidence": 70
+  },
+  {
+   "id": 11,
+   "company": "Adamis Pharmaceuticals Corporation (fiscal year ended 2020-12-31)",
+   "confidence": 45
+  },
+  {
+   "id": 13,
+   "company": "PDS Biotechnology Corporation (fiscal year ended 2020-12-31)",
+   "confidence": 45
+  },
+  {
+   "id": 18,
+   "company": "Latch, Inc. (fiscal year ended 2021-12-31)",
+   "confidence": 70
+  },
+  {
+   "id": 4,
+   "company": "AerSale Corporation (fiscal year ended 2021-12-31)",
+   "confidence": 70
+  },
+  {
+   "id": 24,
+   "company": "National Presto Industries, Inc. (fiscal year ended 2022-12-31)",
+   "confidence": 85
+  },
+  {
+   "id": 20,
+   "company": "Archer-Daniels-Midland Company (fiscal year ended 2022-12-31)",
+   "confidence": 50
+  },
+  {
+   "id": 28,
+   "company": "Bunge Limited (fiscal year ended 2022-12-31)",
+   "confidence": 50
+  },
+  {
+   "id": 5,
+   "company": "AMMO, Inc. (fiscal year ended 2023-03-31)",
+   "confidence": 90
+  }
+ ],
+ "correct": [
+  "P14C",
+  "P14T",
+  "P07C",
+  "P07T",
+  "P12C",
+  "P12T",
+  "P06C",
+  "P06T",
+  "P08T",
+  "P08C",
+  "P09T",
+  "P09C",
+  "P10C",
+  "P10T",
+  "P04T",
+  "P04C",
+  "P01T",
+  "P01C",
+  "P03C",
+  "P03T"
+ ]
+}

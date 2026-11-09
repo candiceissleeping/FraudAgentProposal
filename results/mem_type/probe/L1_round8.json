@@ -1,0 +1,235 @@
+{
+ "level": "L1",
+ "sample": "round8",
+ "checks_pass": true,
+ "card_order": [
+  "P05C",
+  "P01T",
+  "P11T",
+  "P04C",
+  "P03T",
+  "P06C",
+  "P07T",
+  "P02C",
+  "P09T",
+  "P11C",
+  "P13C",
+  "P14T",
+  "P13T",
+  "P07C",
+  "P01C",
+  "P08C",
+  "P09C",
+  "P04T",
+  "P12C",
+  "P12T",
+  "P02T",
+  "P10T",
+  "P08T",
+  "P03C",
+  "P14C",
+  "P05T",
+  "P10C",
+  "P06T"
+ ],
+ "name_order": [
+  "P01C",
+  "P11T",
+  "P10T",
+  "P06T",
+  "P03C",
+  "P08T",
+  "P04C",
+  "P14T",
+  "P09T",
+  "P08C",
+  "P03T",
+  "P09C",
+  "P10C",
+  "P12C",
+  "P13C",
+  "P06C",
+  "P04T",
+  "P07T",
+  "P02C",
+  "P12T",
+  "P13T",
+  "P05T",
+  "P14C",
+  "P11C",
+  "P07C",
+  "P02T",
+  "P01T",
+  "P05C"
+ ],
+ "reply": [
+  {
+   "id": 1,
+   "company": "Boston Scientific Corporation",
+   "confidence": 95
+  },
+  {
+   "id": 26,
+   "company": "Becton, Dickinson and Company",
+   "confidence": 95
+  },
+  {
+   "id": 2,
+   "company": "Latch, Inc.",
+   "confidence": 85
+  },
+  {
+   "id": 15,
+   "company": "AerSale Corporation",
+   "confidence": 85
+  },
+  {
+   "id": 3,
+   "company": "USA Technologies, Inc.",
+   "confidence": 95
+  },
+  {
+   "id": 10,
+   "company": "Mitek Systems, Inc.",
+   "confidence": 95
+  },
+  {
+   "id": 4,
+   "company": "PDS Biotechnology Corporation",
+   "confidence": 55
+  },
+  {
+   "id": 18,
+   "company": "Adamis Pharmaceuticals Corporation",
+   "confidence": 55
+  },
+  {
+   "id": 5,
+   "company": "AMMO, Inc.",
+   "confidence": 95
+  },
+  {
+   "id": 24,
+   "company": "National Presto Industries, Inc.",
+   "confidence": 95
+  },
+  {
+   "id": 28,
+   "company": "Ideanomics, Inc.",
+   "confidence": 85
+  },
+  {
+   "id": 6,
+   "company": "TheMaven, Inc.",
+   "confidence": 85
+  },
+  {
+   "id": 7,
+   "company": "CPI Aerostructures, Inc.",
+   "confidence": 90
+  },
+  {
+   "id": 14,
+   "company": "Ducommun Incorporated",
+   "confidence": 90
+  },
+  {
+   "id": 8,
+   "company": "Archer-Daniels-Midland Company",
+   "confidence": 50
+  },
+  {
+   "id": 21,
+   "company": "Bunge Limited",
+   "confidence": 50
+  },
+  {
+   "id": 9,
+   "company": "Plug Power Inc.",
+   "confidence": 95
+  },
+  {
+   "id": 17,
+   "company": "Thermon Group Holdings, Inc.",
+   "confidence": 95
+  },
+  {
+   "id": 13,
+   "company": "Evoqua Water Technologies Corp.",
+   "confidence": 95
+  },
+  {
+   "id": 11,
+   "company": "Welbilt, Inc.",
+   "confidence": 95
+  },
+  {
+   "id": 12,
+   "company": "Gentex Corporation",
+   "confidence": 90
+  },
+  {
+   "id": 25,
+   "company": "Visteon Corporation",
+   "confidence": 90
+  },
+  {
+   "id": 16,
+   "company": "Consolidated Communications Holdings, Inc.",
+   "confidence": 85
+  },
+  {
+   "id": 23,
+   "company": "GTT Communications, Inc.",
+   "confidence": 85
+  },
+  {
+   "id": 19,
+   "company": "TransAtlantic Petroleum Ltd.",
+   "confidence": 90
+  },
+  {
+   "id": 20,
+   "company": "SAExploration Holdings, Inc.",
+   "confidence": 90
+  },
+  {
+   "id": 22,
+   "company": "Malvern Bancshares, Inc.",
+   "confidence": 95
+  },
+  {
+   "id": 27,
+   "company": "Provident Financial Holdings, Inc.",
+   "confidence": 95
+  }
+ ],
+ "correct": [
+  "P05C",
+  "P05T",
+  "P01T",
+  "P01C",
+  "P11T",
+  "P11C",
+  "P04C",
+  "P04T",
+  "P03T",
+  "P03C",
+  "P06T",
+  "P06C",
+  "P07T",
+  "P07C",
+  "P09T",
+  "P09C",
+  "P13T",
+  "P13C",
+  "P14T",
+  "P14C",
+  "P08C",
+  "P08T",
+  "P12C",
+  "P12T",
+  "P10T",
+  "P10C"
+ ]
+}
