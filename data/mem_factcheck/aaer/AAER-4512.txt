@@ -1,0 +1,1186 @@
+AAER-4512 | 2024-08-09 | Ideanomics, Inc. (f/k/a Seven Star Cloud Group, Inc., Alfred Poor, and Federico Tovar)
+Source: https://www.sec.gov/files/litigation/admin/2024/33-11296.pdf
+
+                                 UNITED STATES OF AMERICA
+                                          Before the
+                            SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES ACT OF 1933
+Release No. 11296 / August 9, 2024
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 100684 / August 9, 2024
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4512 / August 9, 2024
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-21988
+
+                                                               ORDER INSTITUTING PUBLIC
+    In the Matter of                                           ADMINISTRATIVE AND CEASE-AND-
+                                                               DESIST PROCEEDINGS PURSUANT TO
+           IDEANOMICS, INC. (f/k/a                             SECTION 8A OF THE SECURITIES ACT
+           SEVEN STARS CLOUD                                   OF 1933, SECTIONS 4C AND 21C OF THE
+           GROUP, INC.),                                       SECURITIES EXCHANGE ACT OF 1934
+           ALFRED POOR, AND                                    AND RULE 102(e) OF THE
+           FEDERICO TOVAR.                                     COMMISSION’S RULES OF PRACTICE,
+                                                               MAKING FINDINGS, IMPOSING
+    Respondents.                                               REMEDIAL SANCTIONS AND A CEASE-
+                                                               AND-DESIST ORDER
+
+
+                                                             I.
+
+        The Securities and Exchange Commission (“Commission”) deems it appropriate that public
+administrative and cease-and-desist proceedings be, and hereby are, instituted pursuant to Section
+8A of the Securities Act of 1933 (“Securities Act”), Sections 4C1 and 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), and Rule 102(e)(1)(iii) of the Commission’s Rules of
+Practice2 against Ideanomics, Inc. (f/k/a Seven Stars Cloud Group, Inc.) (“Ideanomics” or “the
+Company”), Alfred P. Poor (“Poor”), and Federico Tovar (“Tovar”) (collectively, “Respondents”).
+
+1
+          Section 4C provides, in relevant part, that:
+
+          The Commission may censure any person, or deny, temporarily or permanently, to any person the privilege
+          of appearing or practicing before the Commission in any way, if that person is found . . . (1) not to possess
+          the requisite qualifications to represent others; (2) to be lacking in character or integrity, or to have engaged
+          in unethical or improper professional conduct; or (3) to have willfully violated, or willfully aided and
+          abetted the violation of, any provision of the securities laws or the rules and regulations issued thereunder.
+2
+          Rule 102(e)(1)(iii) provides, in pertinent part, that:
+
+                                                             1
+                                                         II.
+
+        In anticipation of the institution of these proceedings, Respondents have submitted Offers
+of Settlement (the “Offers”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over them and the subject matter of these
+proceedings, which are admitted, and except as provided herein in Section V, Respondents consent
+to the entry of this Order Instituting Public Administrative and Cease-and-Desist Proceedings
+Pursuant to Section 8A of the Securities Act of 1933, Sections 4C and 21C of the Securities
+Exchange Act of 1934 and Rule 102(e) of the Commission’s Rules of Practice, Making Findings,
+Imposing Remedial Sanctions and a Cease-and-Desist Order (the “Order”).
+
+                                                        III.
+
+        On the basis of this Order and Respondents’ Offers, the Commission finds3 that:
+
+                                                  SUMMARY
+
+       1.     These proceedings involve multiple acts of accounting and disclosure fraud by
+Ideanomics, a publicly traded company, and its senior management. Beginning in at least 2017
+and continuing through at least 2019, Ideanomics and its senior executives engaged in the
+following misconduct:
+
+    •   Ideanomics issued a false and misleading press release on November 13, 2017, in which it
+        provided $300 million revenue guidance for fiscal year 2017.4 At the time this press
+        release was issued, there were numerous facts known to Company management indicating
+        that the Company would not be able to meet this guidance.
+
+    •   In December 2017 and March 2019, Ideanomics’s then-Chairman Bruno Wu was
+        substantively involved in negotiating agreements between Ideanomics and Tiger Sports
+        Media, Ltd. (“Tiger Sports”) and Beijing Financial Holdings, Ltd. (“Beijing Financial”),
+        Hong Kong-based entities, relating to transactions that benefited Wu personally. Wu
+        falsely told Company management that those entities were not related to him or his
+        companies, and Company management failed to properly investigate Wu’s connection to
+        those entities. In fact, Wu exercised control over Tiger Sports and Beijing Financial and
+        used cash and other assets from those companies for his personal benefit. In addition,
+
+
+        The Commission may . . . deny, temporarily or permanently, the privilege of appearing or practicing before
+        it . . . to any person who is found . . . (iii) to have willfully violated, or willfully aided and abetted the
+        violation of any provision of the Federal securities laws or the rules and regulations thereunder.
+3
+         The findings herein are made pursuant to Respondents’ Offers of Settlement and are not binding on any
+other person or entity in this or any other proceeding.
+
+4
+        Ideanomics’s fiscal year is concurrent with the calendar year.
+                                                         2
+    Ideanomics overstated the value of assets acquired in connection with these agreements.
+    As a result, Ideanomics did not disclose in public filings that Tiger Sports and Beijing
+    Financial were related parties and improperly overstated the value of its investments.
+
+•   Ideanomics fraudulently and materially misstated the financial statements in its 2017 and
+    2018 Form 10-K filings, as well as its Form 10-Q filings for the first, second, and third
+    quarters of 2018, by failing to impair the value of certain licensed video content that it
+    valued at $17 million. Ideanomics supported the value of the video content with a non-
+    binding letter of intent to acquire the assets from a shell company. Ideanomics failed to
+    record any impairment of the asset despite having recognized minimal revenue, if any,
+    from the licensed content since 2015. Ideanomics’s misstatements resulted from the
+    deliberate actions of Wu, as well as the failure of the Company’s then-CFO, Federico
+    Tovar.
+
+•   Ideanomics materially misstated revenue in its 2018 Form 10-K, as well as its Form 10-Q
+    filings for the first three quarters of 2018, by improperly accounting for oil transactions on
+    a gross, rather than net, basis. Ideanomics improperly accounted for the transactions as a
+    principal even though it purchased and sold the oil simultaneously and had little or no
+    discretion over the purchase or sale prices. Ideanomics’s misstatements resulted from
+    Tovar’s failure to understand Ideanomics’s oil trading business and the propriety of the oil
+    trading accounting.
+
+•   Ideanomics materially misstated revenue in its financial statements for the first and second
+    quarters of 2019 by improperly recognizing revenue totaling $40.7 million in a transaction
+    with Counterparty A. Wu told Tovar the amount of profit to report in those quarters, an
+    amount which eliminated the potential tax liability. Tovar knew, or should have known,
+    that this approach was not consistent with U.S. GAAP. Additionally, CEO Alfred Poor
+    certified the first and second quarter Form 10-Q filings even though he knew or should
+    have known of problems related to the underlying assets received from Counterparty Athat
+    would affect their value and the amount of Ideanomics’s reported revenue.
+
+•   Ideanomics falsely stated in its 2018 Form 10-K that its principal executive and principal
+    financial officers, Poor and Tovar, had performed evaluations of the Company’s internal
+    control over financial reporting (“ICFR”) even though the evaluation of ICFR was
+    incomplete. Given their roles and responsibilities as CEO and CFO respectively, Poor and
+    Tovar knew or should have known that these statements were false.
+
+•   Ideanomics’s Form 10-Q for the second quarter of 2019 was signed by Carla Zhou as
+    interim CFO and attached to it were two SOX certifications that were purportedly signed
+    by Zhou as interim CFO, which Poor facilitated. In fact, Zhou could not speak or read
+    English and had not actually reviewed or signed the Form 10-Q or the certifications prior to
+    the filing. Poor knew or should have known that the certifications purportedly signed by
+    Zhou were inaccurate and that Zhou did not have a chance to review and approve of the
+    Form 10-Q before it was filed.
+
+
+                                               3
+                                        RESPONDENTS
+
+        2.      Ideanomics, Inc., is a company incorporated in the State of Nevada, with its
+principal executive offices in New York, New York. In 2016 and 2017, Ideanomics’s principal
+executive offices were in Beijing, China. Ideanomics is listed on the NASDAQ stock exchange
+under the ticker symbol “IDEX,” and its securities are registered with the Commission under
+Section 12(b) of the Exchange Act. Ideanomics makes required filings, including annual reports
+on Form 10-K, with the Commission.
+
+       3.      Alfred Poor, 54, has been Chief Executive Officer of Ideanomics since February 20,
+2019. Poor previously served as Chief Operating Officer of Ideanomics from September 2018 to
+February 2019, and as Chief Administrative Officer of Ideanomics from August 2018 to
+September 2018. He is not registered with the Commission in any capacity. Poor currently resides
+in Montclair, New Jersey.
+
+        4.     Federico Tovar, 50, served as Chief Financial Officer of Ideanomics from June 1,
+2018, to April 30, 2019. Tovar currently resides in Edgewater, NJ. He is not registered with the
+Commission in any capacity.
+
+                     OTHER RELEVANT INDIVIDUAL AND ENTITY
+
+        5.      Zheng (Bruno) Wu, 57, served as Chairman of the Board of Directors of
+Ideanomics from January 12, 2016, to November 12, 2018, and from February 20, 2019, to
+December 31, 2020. Wu also served as CEO of Ideanomics from October 9, 2017, to November
+12, 2018. At all relevant times, Wu was also the Co-Chairman and CEO of privately held media
+and investment company located in China, which was the largest investor and shareholder of
+Ideanomics. Wu resides in China but is an American citizen with a residence in New York. He is
+not registered with the Commission in any capacity.
+
+        6.     Beijing Financial Holdings Limited (f/k/a Tiger Sports Media Limited) is a Hong
+Kong based entity, established in 2012. Its principal activity originally was the promotion of
+mixed martial arts events. The entity had minimal operations from 2012 through August 2017,
+when it was sold by an entity controlled by Wu to a business associate of Wu’s located in China
+for approximately $15. Notwithstanding the formal change in ownership, Wu exercised control
+over the company from 2017 through at least 2020.
+
+                                             FACTS
+
+       A.      Background on Ideanomics
+
+       7.       Since its inception in 2004, Ideanomics has sought to engage in a variety of
+business activities. From 2010 through 2017, Ideanomics’s primary line of business was providing
+video-on-demand services under the brand name “You-on-Demand,” with its primary operations in
+China. Starting in early 2017, the Company changed its name several times, first to “Wecast
+Network, Inc.,” then to “Seven Stars Cloud Group, Inc.,” and finally to Ideanomics. It also
+changed its business model several times, including attempting to develop petroleum trading
+                                                4
+products, artificial intelligence, and financial technology. In 2020, the Company pivoted to its
+current business model, which is to assist businesses and governments transition their fleets from
+gas to electric vehicles.
+
+       8.      At all relevant times, Ideanomics offered and sold securities, including by issuing
+Ideanomics shares as compensation to certain employees, permitting employees to exercise stock
+options, and by using Company shares to acquire assets.
+
+       B.      In November 2017, Ideanomics Issued False and Misleading Revenue
+               Guidance for Fiscal Year 2017
+
+        9.      On November 13, 2017, Ideanomics issued a press release reporting its third quarter
+revenue and reiterating the fiscal year 2017 revenue guidance of $300 million that it had stated in
+press releases in March, May, and August 2017. In this press release, then-Chairman and CEO
+Bruno Wu stated that Ideanomics was “on track to reach its top-line revenue guidance of $300
+million.” In a conference call with investors held on November 13, Wu reiterated that the
+Company would meet the $300 million revenue forecast.
+
+        10.     In each of the two prior fiscal years 2015 and 2016, Ideanomics’s annual revenue
+was approximately $4.6 million. In the November 13, 2017, press release Ideanomics reported $30
+million in revenue for the quarter, and a total of $107 million through the first three quarters of
+2017. Thus, to meet the guidance, the Company would have needed to obtain an additional $193
+million in revenue in the fourth quarter of 2017, nearly double what it had achieved in the first
+three quarters of the year combined.
+
+        11.     The vast majority of Ideanomics’s revenue in 2017 was projected to come from two
+sources: (1) an electronics components trading business run through Ideanomics’s subsidiary Amer
+Global Technology Ltd. (“Amer”), a Hong Kong company, and (2) a newly established crude oil
+trading joint venture called Seven Stars Energy Pte. Ltd. (“SSE”), a Singapore company. At the
+time Wu and the Company reiterated the $300 million forecast in November 2017, they were
+aware of material adverse facts relating to each of these revenue sources that would potentially
+prevent – and in fact did prevent – Ideanomics from achieving its revenue guidance.
+
+        12.     Specifically, as of November 2017, Amer was the only revenue-generating vehicle
+for Ideanomics, as SSE had not yet begun operations. However, during the summer of 2017,
+Amer’s bank accounts in Hong Kong and China had been frozen by governmental authorities,
+which significantly limited Ideanomics’s ability to generate revenue from this business. Wu was
+aware of the frozen Amer accounts prior to the issuance of the November 2017 press release and
+knew that the freezing of the accounts had a material adverse effect on the Company’s revenue.
+
+        13.     In addition, at the time the November 2017 press release was issued, Wu and other
+senior personnel at the Company were aware that there had been significant delays in setting up
+SSE, the entity that was expected to earn much of the revenue in the third and fourth quarters of
+2017. As a result of these delays, SSE had not begun to generate any revenue as of mid-November
+2017. On November 10, 2017, just three days before the press release was issued, Wu sent a
+WeChat message to Ideanomics board members and senior executives informing them that SSE’s
+                                                 5
+bank accounts were still in the process of being set up and that the delays in setting up the joint
+venture had “cost [the Company] dearly.”
+
+        14.     Moreover, in the days leading up to issuance of the November 2017 press release,
+senior Ideanomics personnel had concerns about the revenue guidance. During a November 9,
+2017, board meeting, senior personnel discussed the Company’s $300 million revenue guidance,
+and the consensus of the board was to recommend to Wu that the guidance be lowered because of
+the facts discussed above. Although Ideanomics’s President and Chief Revenue Officer advised
+Wu that he did not believe the Company should issue guidance, Wu decided to keep the $300
+million guidance in place.
+
+        15.     Despite knowledge of the material adverse facts discussed above, which were not
+disclosed to investors, Ideanomics and Wu reiterated the $300 million forecast in the November 13
+press release and conference call. In light of such knowledge, Wu knew or should have known that
+Ideanomics’s and Wu’s November 13, 2017, statements were misleading because they omitted
+material information indicating that Ideanomics would not achieve the $300 million revenue
+forecast for 2017.
+
+        16.      Ultimately, on February 23, 2018, Ideanomics announced that it expected that it
+would miss the guidance by a wide margin, resulting in a 39% decrease in the price of
+Ideanomics’s stock. On March 30, 2018, the Company reported $144 million in revenue for 2017,
+a shortfall of $156 million.
+
+       C.      Ideanomics Failed to Disclose and Improperly Accounted for Related Party
+               Transactions Involving Entities Controlled by Wu
+
+        17.     In October 2017, Ideanomics created a joint venture whose ownership was shared
+amongst Tiger Sports Media Limited (“Tiger Sports”), Ideanomics, and a third-party, with interests
+of 20%, 40% and 40% respectively (the “JV”). The JV was established to provide financial data
+services and transactional trading platforms for global commodity and energy clients.
+
+        18.     In December 2017, Ideanomics entered into an agreement with Tiger Sports in
+which Ideanomics purchased Tiger Sports’ 20% interest in the JV for approximately $9.8 million,
+comprised of $2 million in cash and three million Ideanomics shares valued at approximately $7.8
+million. Wu signed the agreement on behalf of Ideanomics and presented the Tiger Sports
+transaction to Ideanomics’s Board of Directors for approval.
+
+         19.    Ideanomics’s 2017 Form 10-K and 2018 Form 10-Q filings, which discussed
+Ideanomics’s acquisition of Tiger Sports’ interest in the JV, failed to identify Tiger Sports as a
+related party as required by U.S. GAAP. Additionally, Ideanomics’s 2018 and 2019 Form 10-K
+filings, which also discussed Ideanomics’s acquisition of Tiger Sports’ interest in the JV, referred
+to Tiger Sports as an unrelated party. Further, Ideanomics overstated the value of the acquired
+20% interest in its June 30, 2018 Form 10-Q by failing to record an other than temporary loss in
+value as required by U.S. GAAP. None of the JV partners had contributed the monetary capital to
+the JV identified in the JV agreement. The JV had no legal rights to the intellectual property being
+
+
+                                                   6
+developed. Wu signed Ideanomics’s 2017 Form 10-K and its Form 10-Qs for the first, second, and
+third quarters of 2018.
+
+        20.      Although Wu had nominally transferred his ownership interest in Tiger Sports to a
+third party for $15 just prior to the creation of the joint venture, Wu continued to exercise control
+over Tiger Sports. For example, under Wu’s direction, employees of another Wu-owned entity
+maintained sole signature authority over Tiger Sports’ bank accounts and performed Tiger Sports’
+bookkeeping. Of the $2 million cash that Ideanomics paid to Tiger Sports pursuant to the
+December 2017 transaction, more than $1 million was promptly transferred by Tiger Sports at
+Wu’s direction and for his benefit, including to Wu’s associates, controlled entities and affiliates,
+and creditors. Tiger Sports made additional payments to certain of Wu’s creditors from 2018
+through 2020. Moreover, Wu retained the voting rights over the Ideanomics shares transferred to
+Tiger Sports and advised Tiger Sports to transfer some of these shares to investors in Wu’s private
+businesses.
+
+         21.     In 2019, Tiger Sports changed its name to Beijing Financial. In March 2019, Wu
+was substantively involved with a transaction on behalf of Ideanomics in which Ideanomics paid
+Beijing Financial 12.2 million Ideanomics shares, valued at approximately $25 million, in
+exchange for Beijing Financial’s interest in a Malaysian entity (the “March 2019 Transaction”).
+Prior to Ideanomics’s announcement of the March 2019 Transaction, Wu had agreed to purchase
+the interest in the Malaysian entity on behalf of Beijing Financial for less than $1 million. Once
+again Ideanomics improperly failed to recognize the other than temporary decrease in value of its
+investment purchased from Beijing Financial as required by U.S. GAAP when filing its Form 10-Q
+for the third quarter of 2019 by failing to consider the fair value paid for the interest by Wu and
+other relevant factors.
+
+        22.     Both before and after the March 2019 Transaction, Wu continued to exercise
+control and influence over Beijing Financial. In addition, some of the proceeds from Beijing
+Financial’s sale of Ideanomics shares went to pay Wu’s debt to various entities, including
+consultants and lawyers who had provided services to Wu.
+
+         23.    Ideanomics’s 2019 Forms 10-K and 10-Q filings discussed the March 2019
+Transaction. Despite Wu’s continued control and significant influence over Beijing Financial,
+Ideanomics failed to disclose it as a related party in its 2019 Form 10-K and Form 10-Q filings. As
+Chairman of Ideanomics’s Board of Directors, Wu was responsible for providing accurate
+information that was critical to the preparation of these filings, including details about the
+transaction with Beijing Financial. However, Wu caused the filings to contain false information by
+telling Ideanomics management that Beijing Financial was not a related party even though he knew
+that it was under his control.
+
+        24.      Item 404(a) of Regulation S-K requires disclosure in Forms 10-K and proxy
+statements of any transaction or series of transactions exceeding $120,000 in which the registrant is
+a party and in which any director, executive officer, or any member of their immediate families has
+a direct or indirect material interest. In its 2017, 2018 and 2019 proxy filings, which were filed on
+December 14, 2018, December 13, 2019, and September 18, 2020, respectively, Ideanomics and
+Wu failed to disclose Wu’s relationship with, and material direct and indirect benefit from,
+                                                  7
+Ideanomics’s transactions with Tiger Sports and Beijing Financial, in contravention of Item 404(a)
+of Regulation S-K.
+
+       D.      Ideanomics Misstated Its 2017 and 2018 Financial Statements Due to
+               Improper Accounting Treatment of Licensed Content Assets
+
+         25.    In November 2015, Ideanomics acquired the non-exclusive rights to broadcast a
+catalog of video on-demand titles (the “Licensed Content”) from Wu’s private entity, Beijing Sun
+Seven Stars Culture Development Ltd., in exchange for Ideanomics shares that were then valued at
+$17.7 million. Over the next three years, the Licensed Content generated no more than $800,000
+in total revenue for Ideanomics. By December 31, 2017, Ideanomics was in the process of exiting
+the Licensed Content business and no longer focused on generating revenue from the asset.
+
+         26.    In early March 2018, Ideanomics’s independent auditor informed the Company’s
+Director of Finance of its view that the Licensed Content should be written off as impaired in the
+year-end 2017 financial statement unless the Company could produce a signed letter of intent from
+a qualified buyer. The Director of Finance promptly informed Wu of this view. Shortly thereafter,
+Wu caused Ideanomics to provide the independent auditor with a purported letter of intent (the
+“LOI”), indicating that a Canadian entity would purchase the Licensed Content, along with other
+assets, for $32 million.
+
+        27.     In fact, the LOI was part of a fraudulent effort by Wu to avoid having to impair the
+Licensed Content. On or about March 10, 2018, Wu contacted a Canadian business associate and
+asked him to do him a favor and sign an LOI provided by Wu so that Ideanomics would not have
+to impair the Licensed Content. Wu told the associate that the LOI should come from a shell
+company unrelated to Wu. Wu reassured the business associate that the LOI would be non-
+binding, provided him with the draft of the LOI, and determined the $32 million price. Wu was
+aware that the purported purchaser of the Licensed Content was a shell company that did not have
+any assets, that the business associate did not know specifically which assets were involved, and
+that the purchaser had not conducted any due diligence. The business associate returned a signed
+LOI to Wu, who subsequently caused it to be provided to Ideanomics’s independent auditor.
+
+        28.     In its financial statement for the year-end 2017, Ideanomics valued the Licensed
+Content at $17.0 million, when under U.S. GAAP, it should have been written down to its fair
+value of $0. In accordance with U.S. GAAP, the Company should have tested the asset for
+recoverability when indicators of impairment existed, such as a lack of revenue from the asset and
+the Company’s decision to move away from that line of business. Once deemed non-recoverable,
+the Company should have written down the asset to its fair value of $0 at least as of December 31,
+2017. As CEO, Wu signed Ideanomics’s 10-K for 2017, which falsely understated Ideanomics’s
+operating loss and overstated its assets by approximately $17 million. This amount represented
+62% of Ideanomics’s year-end 2017 operating loss and 27% of Ideanomics’s year-end 2017 total
+assets. When he signed the filing, Wu knew, or was reckless in not knowing, that the financial
+statements were false.
+
+
+
+
+                                                 8
+       29.      In June 2018, Federico Tovar joined Ideanomics as CFO. In that role, Tovar had
+responsibility for the financial accuracy of the Company’s second quarter, third quarter, and year-
+end 2018 financial statements.
+
+         30.     Soon after joining the Company, Tovar learned that Ideanomics received little to no
+revenue from the Licensed Content, which indicated that the Licensed Content might not be
+recoverable. Tovar knew that U.S. GAAP stated the asset should be tested for recoverability when
+indicators of impairment existed, yet he failed to do this in either the second or third quarter of
+2018. Additionally, although Tovar received a copy of the LOI in June 2018, he was aware that
+the proposed acquisition still had not occurred as of the date of each of the Company’s quarterly
+filings for the second and third quarters of 2018, filed on August 13, 2018, and November 14,
+2018, respectively.
+
+        31.     For year-end 2018, Tovar commissioned a valuation report of the Licensed Content
+in connection with its impairment assessment. In preparing its valuation, the valuation firm relied
+upon a new cash flow forecast provided to it by Ideanomics. However, the cash flow forecast,
+which projected twenty years’ worth of significant revenue from the Licensed Content, was
+unsupported as Ideanomics had no substantive business plan to achieve the projected revenues.
+Tovar failed to obtain an understanding of how Ideanomics’s cash flow forecasts were prepared,
+despite knowing that the Company had reported material weaknesses in its ICFR in 2017 and 2018
+related to cash flow forecasts for the Licensed Content. The Company then relied upon this
+valuation report to conclude that there was no impairment to the Licensed Content for year-end
+2018.
+
+        32.    As a result of the false LOI and the failure to test and impair the Licensed Content
+throughout 2018, Ideanomics’s financial statements for the first, second, and third quarters of
+2018, and year-end of 2018, all were materially misstated. Specifically, each financial statement
+overstated Ideanomics’s total assets by approximately $17 million or over 10%. As CFO, Tovar
+signed the 2018 Form 10-K and Form 10-Qs for the second and third quarters. Tovar knew or
+should have known that the financial statements in those public filings were false.
+
+        33.     Wu signed management representation letters that Ideanomics provided to its
+independent auditor in connection with the year-end 2017 audit and its reviews of the first three
+quarters of 2018. Those letters represented that the LOI had been provided by a third party
+interested in buying the Licensed Content, and that the potential buyer was qualified to close the
+deal. These representations were false and misleading, as the purported buyer had no intent to
+purchase the Licensed Content and, since it had no assets or operations, was not qualified to close
+the deal. Wu knew, or was reckless in not knowing, that the letters were false, and that the
+independent auditor would rely upon the LOI and his letters of representation in assessing the
+value of the Licensed Content and whether it should be impaired.
+
+        34.     In connection with the independent auditor’s quarterly reviews for the second and
+third quarters of 2018, relying on Wu, Tovar signed management representation letters
+representing to Ideanomics’s independent auditor that the LOI was from a third-party buyer
+interested and qualified to make the purchase, and that the LOI, along with a valuation report
+prepared by a third-party firm, provided support for the Company’s decision not to impair the
+                                                 9
+Licensed Content. However, Tovar did not conduct any diligence to verify that the buyer was
+interested and qualified. Tovar knew or should have known that the statements in the management
+representation letters were false.
+
+        E.      Ideanomics Overstated Its 2018 Revenue by 220% Based on Improper
+                Treatment of Oil Trading Revenue
+
+         35.      As discussed above, SSE began operations in November 2017. Ideanomics’s 49%
+minority partner in SSE was an experienced crude oil trader who owned several oil tankers through
+his private companies. Ideanomics’s role was to purchase crude oil from the minority partner and
+simultaneously record a sale at substantially the same price to buyers located in Asia. Ideanomics
+never took physical possession of the crude oil, nor did it handle the financing for the purchase or
+the transportation of the oil. Further, Ideanomics’s 2018 Form 10-K stated that SSE did not enter
+the oil trading business to generate profits, but rather to learn the business in order to develop an
+artificial intelligence (“AI”) and blockchain-enabled platform for logistics management.
+Ideanomics exited the oil trading business in the fourth quarter of 2018.
+
+         36.     The proper accounting treatment of Ideanomics’s 2018 oil trading revenue is
+governed by U.S. GAAP standard ASC 606 “Revenue from Contracts with Customers.” Under
+ASC 606, factors such as primary responsibility for providing goods and services, inventory risk,
+and price discretion are considered when determining if an entity is acting as a principal or agent in
+the transaction. ASC 606 specifically states, “An entity does not necessarily control a specified
+good if the entity obtains legal title to that good only momentarily before legal title is transferred to
+a customer.” Ideanomics had neither inventory risk nor price discretion because it purchased and
+sold inventory simultaneously and set the customer price of oil at substantially the same price
+charged by its supplier and did not have other evidence that would support a conclusion that it
+acted as a principal. Therefore, Ideanomics acted as an agent rather than a principal with regard to
+the oil trading transactions.
+
+        37.     Under U.S. GAAP, a principal recognizes revenue on a gross basis, but an agent
+should recognize revenue on a net basis. Ideanomics, as an agent and not a principal in the oil
+trading transactions, should have deducted the cost of oil purchases from the sales amounts and
+reported revenue on a net basis.
+
+        38.     However, for year-end 2018, Ideanomics recognized the oil trading revenue on a
+gross basis, determining that Ideanomics was a principal in the transactions. On this improper
+basis, Ideanomics reported oil trading revenue of $260 million, which constituted 67% of
+Ideanomics’s total revenue for that year, when it should have reported $0 since it earned no net
+revenue on these transactions.
+
+        39.    As a result of its improper accounting, Ideanomics overstated its 2018 revenue by
+$260 million, or 220%. Ideanomics also overstated its revenue in its Form 10-Qs for the first
+quarter of 2018 by $178 million (2,292%) and second quarter of 2018 by $81.9 million (160%).
+
+        40.     Despite his role as CFO and responsibility for the accuracy of Ideanomics’s
+financial statements, Tovar failed to take additional steps sufficient to understand the specific role
+                                                   10
+of Ideanomics’s joint venture partner in the pricing, purchase, financing, and delivery of oil, and
+how its role impacted the agent versus principal considerations under ASC 606. Additionally,
+Tovar was made aware in 2018 that Ideanomics’s former independent auditor had raised concerns
+the previous year about the recognition of revenue relating to the oil trading business and wanted to
+perform additional audit procedures.
+
+        41.     Nevertheless, Tovar signed multiple management representation letters stating that
+the 2018 financial statements were in accordance with U.S. GAAP and signed the Form 10-Qs for
+the second and third quarters of 2018 and the 2018 Form 10-K. Tovar knew or should have known
+that the financial statements were not prepared in accordance with U.S. GAAP and that the revenue
+was improperly stated in Ideanomics’s financial statements and public filings.
+
+       F.      Ideanomics Made Material Misstatements Regarding Its Internal Control
+               Over Financial Reporting for 2018
+
+          42.     Ideanomics made material misstatements in its 2018 Form 10-K regarding the
+company’s assessments of its internal control over financial reporting (“ICFR”). First,
+Ideanomics’s Form 10-K represented that “management assessed the effectiveness of ICFR,” and
+that “management used the framework set forth” under the 2013 framework of the Committee of
+Sponsoring Organizations (COSO). Tovar signed the 2018 Form 10-K and accompanying
+certifications as CFO, and Poor signed the 2018 Form 10-K and certifications as CEO. Poor and
+Tovar signed certifications to Ideanomics’s 2018 Form 10-K, which stated that the signers
+“disclosed, based on our most recent evaluation of internal control over financial reporting, to the .
+. . registrant’s auditors and the audit committee of the registrant’s board of directors (or persons
+performing the equivalent functions)…1) All significant deficiencies and material weaknesses …
+b) Any fraud, whether or not material, that involves management …”
+
+        43.      Ideanomics did not attempt to assess the effectiveness of ICFR until October 2018
+at the earliest when Tovar assigned the responsibility of assessing the effectiveness of ICFR to
+Ideanomics’s Corporate Controller. However, even after the Corporate Controller was assigned
+this responsibility, she did not identify or test key controls, as she believed that Tovar had
+responsibility for those areas.
+
+      44.     At the time he signed the 2018 Form 10-K and certification on April 1, 2019, Tovar
+knew or should have known that the filing was inaccurate and the evaluation of ICFR was
+incomplete.
+
+       45.       Poor became familiar with the accounting and record-keeping problems at
+Ideanomics when he became CEO in February 2019. In his view, the record-keeping done for
+Ideanomics, which included tracking the source of all 2018 revenue through a series of Excel
+spreadsheets, was not appropriate for a public company. Nevertheless, he signed Ideanomics’s
+2018 Form 10-K which represented that Ideanomics management had evaluated the effectiveness
+of ICFR, relying solely on his belief that Tovar and the Company’s audit committee had performed
+an evaluation of ICFR. As the Company’s CEO with responsibility over ICFR, Poor should have
+conducted more diligence than relying on Tovar and the audit committee’s representations,
+especially in light of the known weaknesses in the Company’s accounting and record-keeping. As
+                                                  11
+a result, Poor knew or should have known that disclosures stating that management had assessed
+the effectiveness of ICFR in the 2018 Form 10-K were false.
+
+
+       G.      Ideanomics’s Financial Statements for the First and Second Quarters of 2019
+               were Materially Misstated Due to Improper Accounting for the Counterparty
+               A Transaction
+
+        46.     In March 2019, Ideanomics entered into an agreement with Counterparty A.
+Created as a digital technology company in 2014, Counterparty A launched a crypto token shortly
+before its agreement with Ideanomics. At the time it entered into its agreement with Ideanomics,
+the two were related parties because Counterparty A was a minority shareholder of Ideanomics.
+
+        47.     The March 2019 agreement, signed by Wu on behalf of Ideanomics, provided that
+Ideanomics would assist Counterparty A in developing and marketing its token on an exclusive
+basis for three years. In exchange, Counterparty A would pay Ideanomics 7,083,333 tokens in
+advance. The contract stipulated a token value of $24 per token for a purported total contract value
+of $170 million. The contract also provided that Ideanomics would receive an annual service fee
+equal to 3% of the market value of all tokens. Ideanomics claimed in a March 2019 press release
+that the total market value of tokens was over $90 billion, and therefore the 3% annual service fee
+would generate $2.7 billion of annual revenue for the Company.
+
+        48.    After the agreement was signed, Ideanomics devised a plan to change the terms of
+the agreement to allow for accelerated revenue recognition as opposed to deferred revenue over
+time. Pursuant to U.S. GAAP, the type of contractual services provided over the three-year
+consulting period would generally be recognized ratably over this period, as such services are
+performed.
+
+       49.      To accelerate the revenue, Tovar suggested defining some initial services that could
+be provided on day one. As a result, Poor, with Tovar and Wu’s knowledge, sent Counterparty A a
+supplemental agreement that stated consulting, advisory and management services had been
+provided to Counterparty A’s satisfaction. Ideanomics planned to recognize the entirety of the
+contract’s stipulated $170 million value as revenue in the first quarter of 2019.
+
+        50.    Shortly thereafter, Ideanomics’s tax advisor informed Ideanomics management that
+this revenue would trigger a corresponding tax liability of $38.7 million, payable in cash, even
+though the crypto tokens received in payment were not readily convertible to cash. This proved
+problematic for Ideanomics because as of December 31, 2018, the Company only had
+approximately $3.1 million in cash on its balance sheet.
+
+        51.    Upon learning of the potential tax liability, Wu instructed Ideanomics management,
+including Poor and Tovar, to restructure the deal. On April 20, 2019, after speaking with Wu, the
+corporate controller wrote to Poor and Tovar, “[Wu] wants to lower the total revenue in Q1 to
+offset our NOL (tax net operating loss), so we do not need to pay any taxes.” Ideanomics’s NOL
+for 2018 was approximately $38 million. Ultimately, through consultation with its tax and
+
+
+                                                12
+accounting advisors, Ideanomics management determined to discount the value of the tokens that
+Ideanomics had received from Counterparty A.
+
+        52.     To calculate the discount, at the recommendation of independent accounting
+advisers, a put option pricing model was used to determine the appropriate discount rate, whereby
+such a model would account for the lack of token marketability as the tokens were not widely
+traded. Such a model would also account for the token’s volatility, as volatility was an input into
+the model.
+
+         53.      Through this approach, Ideanomics manipulated the revenue from its services
+agreement to recognize as much revenue as it could without incurring any tax liability. On April
+29, 2019, three days prior to the filing of the Form 10-Q for the first quarter of 2019, Wu told
+Tovar that the Company should book profit from Counterparty A of $20 million and $18 million,
+respectively, in the first and second quarters of 2019, to offset the $38 million tax loss
+carryforward. He further told Tovar that “all you needed to do is to adjust the discount to the
+tokens,” and that he “listen[ed] too much to professionals who do not really know [the] company. .
+.” Wu then left Tovar a voice message in which he told him not to book exactly $20 million profit
+in the first quarter, but rather to book $19.8 million and leave the remainder for the second quarter.
+Tovar replied by telling Wu that the Company could adopt a scenario in which pre-tax profit would
+be $19.8 million. Tovar knew or should have known that the pre-tax profit number was
+manipulated, yet he then sent a memo to Ideanomics’s corporate controller that included an amount
+in revenue from the Counterparty A transaction that would result in the $19.8 million pre-tax profit
+that Wu and Tovar had discussed. Tovar resigned prior to the filing of the Form 10-Q, but the
+numbers he provided to the corporate controller were incorporated into the filing. On May 2,
+2019, the Company reported the $19.8 million pre-tax profit, which was fully offset by
+Ideanomics’s tax loss carryforward.
+
+        54.   In assessing the fair value of the crypto tokens for purposes of recognizing revenue,
+Ideanomics assumed it could successfully convert the tokens into fiat currency. Ideanomics,
+however, never obtained the crypto keys for the wallet in which its tokens were held, without
+which Ideanomics could not convert its tokens into fiat. Poor knew the tokens were held in a
+wallet owned by Counterparty A and not by Ideanomics. Accordingly, Poor knew or should have
+known that Ideanomics lacked the current ability to successfully convert the tokens to fiat.
+
+        55.     Despite the Company’s difficulty obtaining ownership of the tokens and effecting
+conversion, in the earnings call for the second quarter of 2019, Poor stated that Ideanomics planned
+to convert the tokens to fiat in the second half of the year and told investors that he did not foresee
+any problems in making the tokens tangible assets. Ideanomics was never successful in obtaining
+access to the wallet or in converting any of its tokens. Without Ideanomics having the ability to
+convert the tokens to fiat, they had little or no value.
+
+        56.    By engaging in the conduct described above, Ideanomics materially overstated the
+revenue reported in its financial statements for the first and second quarters of 2019 by $40.7
+million. Poor signed both filings as CEO and knew, or should have known, that the revenue was
+overstated because he knew that Ideanomics lacked the ability to convert the tokens to fiat. Poor
+also signed multiple auditor representation letters representing that the Counterparty A transaction
+                                                  13
+was properly accounted for and disclosed. Eventually, in the fourth quarter of 2019, Ideanomics
+fully impaired the carrying value of its tokens.
+
+       H.      Ideanomics Filed the False Certification of Interim CFO Carla Zhou
+
+         57.     Ideanomics’s Form 10-Q for the second quarter of 2019 identified Carla Zhou as
+the Company’s interim CFO, and Zhou purportedly signed the filing and two attached SOX
+certifications as interim CFO. Among other things, those certifications stated that Zhou had
+reviewed the quarterly report, that the report did not contain any untrue statement of a material
+fact, and that the report fairly presented the financial condition and results of operations of
+Ideanomics.
+
+       58.     In fact, Zhou had not reviewed the Form 10-Q or its attachments prior to the filing.
+Shortly before filing, Poor realized that the Company’s then-interim CFO would be unable to
+review and sign the Form 10-Q because she was on maternity leave. Poor contacted Wu and asked
+whether Zhou, who had been the chief revenue officer for Ideanomics and financial controller of
+one of Wu’s privately-owned entities, could act as interim CFO for purposes of the filing. Wu
+represented to Poor that she would do so. However, Poor knew that Zhou could not speak or read
+English.
+
+         59.    Shortly thereafter, the Company filed the Form 10-Q, without having sent it to
+Zhou for her review and signature. Poor did not confirm with Zhou that she had reviewed and
+approved the Form 10-Q before it was filed. Poor knew or should have known that the
+certifications purportedly signed by Zhou were inaccurate and that Zhou did not have a chance to
+review and approve of the Form 10-Q before it was filed.
+
+                                           VIOLATIONS
+
+        60.     Section 10(b) of the Exchange Act and Exchange Act Rule 10b-5 prohibits, in
+connection with the purchase or sale of any security, the use of any “device, scheme, or artifice to
+defraud, ” “[mak]ing any untrue statement of a material fact or [omission of] a material fact
+necessary in order to make the statements made, in the light of the circumstances under which they
+were made, not misleading,” and any “act, practice or course of business which operates or would
+operate as a fraud or deceit upon any person.” As a result of conduct described above, Ideanomics
+violated Section 10(b) of the Exchange Act and Rule 10b-5 thereunder.
+
+        61.     Section 17(a)(1) of the Securities Act prohibits “any device, scheme, or artifice to
+defraud” in the offer or sale of securities. As a result of conduct described above, Ideanomics
+violated Section 17(a)(1) of the Securities Act.
+
+        62.     Section 17(a)(2) of the Securities Act prohibits any person from directly or
+indirectly obtaining money or property in the offer or sale of securities by means of any untrue
+statement of a material fact or any omission to state a material fact necessary in order to make the
+statements made, in light of the circumstances under which they were made, not misleading.
+Negligence is sufficient for liability under Section 17(a)(2). As a result of conduct described
+
+                                                  14
+above, Ideanomics violated, and Poor and Tovar caused Ideanomics’s violation of, Section
+17(a)(2).
+
+        63.      Section 17(a)(3) of the Securities Act prohibits any person from directly or
+indirectly engaging in any transaction, practice, or course of business which operates or would
+operate as a fraud or deceit upon the purchaser in the offer or sale of securities. Negligence is
+sufficient for liability under Section 17(a)(3). As a result of conduct described above, Ideanomics
+and Poor violated, Tovar willfully violated,5 and Poor and Tovar caused Ideanomics’s violation of,
+Section 17(a)(3).
+
+        64.    Section 13(a) of the Exchange Act and Rules 13a-1, 13a-13, and 12b-20
+promulgated thereunder, require public issuers to file annual and quarterly reports with the
+Commission, and mandate that such reports contain such further material information necessary to
+make the required statements not misleading. As a result of conduct described above, Ideanomics
+violated, and Poor and Tovar caused Ideanomics’s violations of Section 13(a) of the Exchange Act
+and Rules 13a-1, 13a-13, and 12b-20 thereunder.
+
+        65.    Section 13(b)(2)(A) of the Exchange Act requires reporting companies to make and
+keep books, records and accounts which, in reasonable detail, accurately and fairly reflect their
+transactions and dispositions of their assets. As a result of conduct described above, Ideanomics
+violated, and Poor and Tovar caused Ideanomics’s violation of Section 13(b)(2)(A) of the
+Exchange Act.
+
+        66.     Section 13(b)(2)(B) of the Exchange Act requires reporting companies to devise
+and maintain a system of internal accounting controls sufficient, among other things, to permit
+preparation of financial statements in conformity with U.S. GAAP or any other criteria applicable
+to such statements. Exchange Act Rules 13a-15(a) and (c) require issuers to maintain and evaluate
+the effectiveness of internal control over financial reporting. As a result of conduct described
+above, Ideanomics violated, and Poor and Tovar caused Ideanomics’s violation of, Section
+13(b)(2)(B) of the Exchange Act and Exchange Act Rules 13a-15(a) and (c).
+
+        67.    Section 14(a) of the Exchange Act makes it unlawful for any person to solicit any
+proxy with respect to any security registered pursuant to Section 12 of the Exchange Act in
+violation of Commission rules and regulations. Rule 14a-9 prohibits the use of proxy statements
+containing materially false or misleading statements or materially misleading omissions. As a
+result of conduct described above, Ideanomics violated Section 14(a) of the Exchange Act and
+Rule 14a-9 thereunder.
+
+
+
+5
+          “Willfully,” for purposes of imposing relief under Exchange Act Section 4C and Rule 102(e)(1)(iii),
+“‘means no more than that the person charged with the duty knows what he is doing.’” Wonsover v. SEC, 205 F.3d
+408, 414 (D.C. Cir. 2000) (quoting Hughes v. SEC, 174 F.2d 969, 977 (D.C. Cir. 1949)). There is no requirement
+that the actor “also be aware that he is violating one of the Rules or Acts.” Tager v. SEC, 344 F.2d 5, 8 (2d Cir.
+1965). The decision in The Robare Group, Ltd. v. SEC, which construed the term “willfully” for purposes of a
+differently structured statutory provision, does not alter that standard. 922 F.3d 468, 478-79 (D.C. Cir. 2019)
+(setting forth the showing required to establish that a person has “willfully omit[ted]” material information from a
+required disclosure in violation of Section 207 of the Advisers Act).
+                                                         15
+        68.      Rule 13b2-1 under the Exchange Act prohibits any person from, directly or
+indirectly, falsifying or causing to be falsified, any book, record, or account subject to Exchange
+Act Section 13(b)(2)(A). As a result of conduct described above, Poor violated, and Tovar
+willfully violated, Rule 13b2-1.
+
+        69.     Rule 13b2-2 under the Exchange Act prohibits officers and directors from making
+(or causing to be made) materially false or misleading statements to an accountant in connection
+with any audit, review, or examination of a company’s financial statements or in connection with
+the preparation or filing of any document with the Commission. As a result of conduct described
+above, Poor violated, and Tovar willfully violated, Rule 13b2-2.
+
+        70.      Rule 13a-14 under the Exchange Act provides that an issuer’s annual and quarterly
+reports shall include certain certifications signed by the principal executive and principal financial
+officer of the issuer. As a result of conduct described above, Poor violated, and Tovar willfully
+violated, Rule 13a-14.
+
+                                             FINDINGS
+
+        71.    Based on the foregoing, the Commission finds that Ideanomics violated Section
+17(a) of the Securities Act and Sections 10(b), 13(a), 14(a), 13(b)(2)(A) and 13(b)(2)(B) of the
+Exchange Act and Rules 10b-5, 12b-20, 13a-1, 13a-13, 13a-15(a), 13a-15(c), and 14a-9
+thereunder.
+
+        72.     Based on the foregoing, the Commission finds that Poor violated Section 17(a)(3)
+of the Securities Act; Exchange Act Rules 13a-14, 13b2-1, and 13b2-2; and caused Ideanomics’s
+violations of Sections 17(a)(2) and 17(a)(3) of the Securities Act; Sections 13(a), 13(b)(2)(A) and
+13(b)(2)(B) of the Exchange Act and Rules 12b-20, 13a-1, 13a-13, 13a-15(a), and 13a-15(c)
+thereunder.
+
+       73.      Based on the foregoing, the Commission finds that Tovar willfully violated Section
+17(a)(3) of the Securities Act; Exchange Act Rules 13a-14, 13b2-1, and 13b2-2; and caused
+Ideanomics’s violations of Sections 17(a)(2) and 17(a)(3) of the Securities Act; Sections 13(a),
+13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act and Rules 12b-20, 13a-1, 13a-13, 13a-15(a), and
+13a-15(c) thereunder.
+
+                                        UNDERTAKINGS
+
+       Respondent Ideanomics has undertaken to:
+
+        74.     Retain, within ninety (90) days of the date of entry of the Order, at its own expense,
+a qualified independent consultant (the “Consultant”) not unacceptable to the Commission staff, to
+review Respondent’s internal accounting controls and internal control over financial reporting. The
+Consultant’s review and evaluation shall include an assessment of the following:
+
+             a.      the sufficiency of Ideanomics’s internal accounting controls in light of
+       Ideanomics’s business strategy. The review shall include, but not be limited to, a review of
+                                                  16
+       Ideanomics’s policies, procedures, and controls, relating to (i) revenue recognition and (ii)
+       the assessment and testing of assets for impairment;
+
+               b.      Ideanomics’s compliance with Commission requirements related to internal
+       control over financial reporting, including but not limited to, the adequacy of Respondent
+       Ideanomics’s control environment and risk assessment based upon criteria established in
+       the Internal Control – Integrated Framework (2013) by the Committee of Sponsoring
+       Organizations of the Treadway Commission (“COSO”);
+
+                c.     Ideanomics’s employment of a sufficient number of accounting and finance
+       personnel with an understanding of U.S. GAAP and financial reporting requirements, as
+       well as the reporting lines of accounting and finance personnel to management and the
+       Board of Directors; and
+
+               d.      Ideanomics’s training of its employees on matters related to U.S. GAAP as
+       well as financial reporting requirements.
+
+         75.     Provide, within 105 days of the issuance of this Order, a copy of the engagement
+letter detailing the Consultant’s responsibilities to Stacy Bogert, Associate Director, Division of
+Enforcement, Securities and Exchange Commission, 100 F Street, N.E., Washington, DC 20549.
+
+       76.     Require the Consultant, at the conclusion of the review, which in no event shall be
+more than 180 days after the entry of the Order, to submit a report of the Consultant to the
+Respondent Ideanomics and the Commission staff. The report shall address the Consultant’s
+findings and shall include a description of the review performed, the conclusions reached, and the
+Consultant’s recommendations for changes or improvements.
+
+       77.    Adopt, implement, and maintain all policies, procedures and practices
+recommended in the report of the Consultant within 120 days of receiving the report from the
+Consultant. As to any of the Consultant’s recommendations about which the Respondent
+Ideanomics and the Consultant do not agree, such parties shall attempt in good faith to reach
+agreement within 180 days of the date of the entry of the Order. In the event that the Respondent
+Ideanomics and the Consultant are unable to agree on an alternative proposal, the Respondent
+Ideanomics will abide by the determination of the Consultant and adopt those recommendations
+deemed appropriate by the Consultant.
+
+       78.     Cooperate fully with the Consultant in its review, including making such
+information and documents available as the Consultant may reasonably request, and by permitting
+and requiring the Respondent Ideanomics’s employees and agents to supply such information and
+documents as the Consultant may reasonably request, subject to any applicable privilege.
+
+        79.     To ensure the independence of the Consultant, the Respondent Ideanomics (i) shall
+not have received legal, auditing, or other services from, or have had any affiliations with, the
+Consultant during the two years prior to the issuance of this Order; (ii) shall not have the authority
+to terminate the Consultant without prior written approval of the Commission staff; and (iii) shall
+
+                                                  17
+compensate the Consultant for services rendered pursuant to the Order at their reasonable and
+customary rates.
+
+        80.      Require the Consultant to enter into an agreement that provides that for the period
+of engagement and for a period of two years from completion of the engagement, the Consultant
+shall not enter into any employment, consultant, attorney-client, auditing or other professional
+relationship with Respondent Ideanomics, or any of its present or former affiliates, directors,
+officers, employees, or agents acting in their capacity. The agreement will also provide that the
+Consultant will require that any firm with which he/she is affiliated or of which he/she is a
+member, and any person engaged to assist the Consultant in performance of his/her duties under
+this Order shall not, without prior written consent of the Commission staff, enter into any
+employment, consultant, attorney-client, auditing or other professional relationship with
+Respondent Ideanomics, or any of its present or former affiliates, directors, officers, employees, or
+agents acting in their capacity as such for the period of the engagement and for a period of two
+years after the engagement.
+
+        81.     The reports by the Consultant will likely include confidential financial, proprietary,
+competitive business or commercial information. Public disclosure of the reports could discourage
+cooperation, impede pending or potential government investigations or undermine the objectives of
+the reporting requirement. For these reasons, among others, the reports and the contents thereof
+are intended to remain and shall remain non-public, except (1) pursuant to court order, (2) as
+agreed to by the parties in writing, (3) to the extent that the Commission determines in its sole
+discretion that disclosure would be in furtherance of the Commission’s discharge of its duties and
+responsibilities, or (4) as otherwise required by law.
+
+       82.   Require the Consultant to report to the Commission staff on its activities as the staff
+may request.
+
+        83.      Respondent Ideanomics agrees that the Commission staff may extend any of the
+dates set forth above at its discretion.
+
+         84.     Certify, in writing, compliance with the undertaking(s) set forth above. The
+certification shall identify the undertaking(s), provide written evidence of compliance in the form
+of a narrative, and be supported by exhibits sufficient to demonstrate compliance. The Commission
+staff may make reasonable request for further evidence of compliance, and the Respondent agrees
+to provide such evidence. The certification and reporting material shall be submitted to Stacy
+Bogert, Associate Director, Division of Enforcement, Securities and Exchange Commission, 100 F
+Street, N.E., Washington, DC 20549, with a copy to the Office of the Chief Counsel of the
+Division of Enforcement, no later than thirty (30) days from the date of the completion of the
+undertakings.
+
+                                                 IV.
+
+       In view of the foregoing, the Commission deems it appropriate and in the public interest to
+impose the sanctions agreed to in Respondents’ Offers.
+
+                                                 18
+      Accordingly, pursuant to Section 8A of the Securities Act, Sections 4C and 21C of the
+Exchange Act, and Rule 102(e) of the Commission’s Rules of Practice, it is hereby ORDERED
+that:
+
+        A.      Respondent Ideanomics cease-and-desist from committing or causing any violations
+and any future violations of Section 17(a) of the Securities Act and Sections 10(b), 13(a),
+13(b)(2)(A) and (B), and 14(a) of the Exchange Act, and Rules 10b-5, 12b-20, 13a-1, 13a-13, 13a-
+15(a) and (c), and 14a-9 thereunder.
+
+        B.      Respondents Poor and Tovar cease-and-desist from committing or causing any
+violations and any future violations of Sections 17(a)(2) and (3) of the Securities Act and Sections
+13(a), 13(b)(2)(A) and (B) of the Exchange Act, and Rules 12b-20, 13a-1, 13a-13, 13a-14, 13a-
+15(a) and (c), 13b2-1, and 13b2-2 thereunder.
+
+       C.     Respondent Ideanomics shall comply with the undertakings enumerated in
+Paragraphs 74-84 above.
+
+      D.    Respondent Ideanomics shall pay civil penalties of $1,400,000 to the Securities and
+Exchange Commission. Payment shall be made in the following installments:
+
+       $280,000 shall be paid by September 5, 2024;
+       An additional $102,000 shall be paid by October 15, 2024;
+       An additional $102,000 shall be paid by November 15, 2024;
+       An additional $102,000 shall be paid by December 15, 2024;
+       An additional $102,000 shall be paid by January 15, 2025;
+       An additional $102,000 shall be paid by February 15, 2025;
+       An additional $102,000 shall be paid by March 15, 2025;
+       An additional $102,000 shall be paid by April 15, 2025;
+       An additional $102,000 shall be paid by May 15, 2025;
+       An additional $102,000 shall be paid by June 15, 2025;
+       An additional $102,000 shall be paid by July 15, 2025;
+       An additional $100,000, plus all accrued interest, shall be paid within 365 days of the entry
+       of this Order.
+
+         Payments shall be applied first to post order interest, which accrues pursuant to 31 U.S.C. §
+3717. Prior to making the final payment set forth herein, Respondent Ideanomics shall contact the
+staff of the Commission for the amount due. If Respondent Ideanomics fails to make any payment
+by the date agreed and/or in the amount agreed according to the schedule set forth above, all
+outstanding payments under this Order, including post-order interest, minus any payments made,
+shall become due and payable immediately at the discretion of the staff of the Commission without
+further application to the Commission.
+
+     E.      Respondent Poor shall pay civil penalties of $75,000 to the Securities and Exchange
+Commission. Payment shall be made in the following installments:
+
+       $20,000 shall be paid within 30 days of the entry of this Order;
+                                                 19
+       An additional $5,000 shall be paid by October 15, 2024;
+       An additional $5,000 shall be paid by November 15, 2024;
+       An additional $5,000 shall be paid by December 15, 2024;
+       An additional $5,000 shall be paid by January 15, 2025;
+       An additional $5,000 shall be paid by February 15, 2025;
+       An additional $5,000 shall be paid by March 15, 2025;
+       An additional $5,000 shall be paid by April 15, 2025;
+       An additional $5,000 shall be paid by May 15, 2025;
+       An additional $5,000 shall be paid by June 15, 2025;
+       An additional $5,000 shall be paid by July 15, 2025;
+       An additional $5,000, plus all accrued interest, shall be paid within 365 days of the entry of
+       this Order.
+
+        Payments shall be applied first to post order interest, which accrues pursuant to 31 U.S.C. §
+3717. Prior to making the final payment set forth herein, Respondent Poor shall contact the staff of
+the Commission for the amount due. If Respondent Poor fails to make any payment by the date
+agreed and/or in the amount agreed according to the schedule set forth above, all outstanding
+payments under this Order, including post-order interest, minus any payments made, shall become
+due and payable immediately at the discretion of the staff of the Commission without further
+application to the Commission.
+
+      F.    Respondent Tovar shall pay civil penalties of $75,000 to the Securities and
+Exchange Commission. Payment shall be made in the following installments:
+
+       $30,000 shall be paid within 30 days of the entry of this Order;
+       An additional $7,500 shall be paid within 180 days of the entry of this Order;
+       An additional $7,500 shall be paid within 270 days of the entry of this Order; and
+       An additional $30,000, plus all accrued interest, shall be paid within 365 days of the entry
+       of this Order.
+
+        Payments shall be applied first to post order interest, which accrues pursuant to 31 U.S.C. §
+3717. Prior to making the final payment set forth herein, Respondent Tovar shall contact the staff
+of the Commission for the amount due. If Respondent Tovar fails to make any payment by the
+date agreed and/or in the amount agreed according to the schedule set forth above, all outstanding
+payments under this Order, including post-order interest, minus any payments made, shall become
+due and payable immediately at the discretion of the staff of the Commission without further
+application to the Commission.
+
+       G.      Payment must be made in one of the following ways:
+
+               (1)     Respondents may transmit payment electronically to the Commission,
+                       which will provide detailed ACH transfer/Fedwire instructions upon
+                       request;
+
+               (2)     Respondents may make direct payment from a bank account via Pay.gov
+                       through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+                                                 20
+               (3)     Respondents may pay by certified check, bank cashier’s check, or United
+                       States postal money order, made payable to the Securities and Exchange
+                       Commission and hand-delivered or mailed to:
+
+               Enterprise Services Center
+               Accounts Receivable Branch
+               HQ Bldg., Room 181, AMZ-341
+               6500 South MacArthur Boulevard
+               Oklahoma City, OK 73169
+
+       Payments by check or money order must be accompanied by a cover letter identifying
+Ideanomics, Alfred Poor, or Federico Tovar as a Respondent in these proceedings, and the file
+number of these proceedings; a copy of the cover letter and check or money order must be sent to
+Stacy Bogert, Division of Enforcement, Securities and Exchange Commission, 100 F St., NE,
+Washington, DC 20549.
+
+        H.        Monies paid in this proceeding may be combined with any other Distribution Fund
+or Fair Fund in a related proceeding arising out of the same underlying facts, including but not
+limited to, the related action captioned In the Matter of Zheng (Bruno) Wu, for the purposes of
+distribution, if feasible, to harmed investors.
+
+         I.      Pursuant to Section 308(a) of the Sarbanes-Oxley Act of 2002, a Fair Fund is created
+for the penalties referenced in Paragraph IV.D. through IV.F., above. Amounts ordered to be paid
+as civil money penalties pursuant to this Order shall be treated as penalties paid to the government
+for all purposes, including all tax purposes. To preserve the deterrent effect of the civil penalty,
+each Respondents agrees that in any Related Investor Action, they shall not argue that they are
+entitled to, nor shall they benefit by, offset or reduction of any award of compensatory damages by
+the amount of any part of any Respondents’ payments of a civil penalty in this action (“Penalty
+Offset”). If the court in any Related Investor Action grants such a Penalty Offset, each Respondent
+agrees to, within 30 days after entry of a final order granting the Penalty Offset, notify the
+Commission's counsel in this action and pay the amount of the Penalty Offset to the Securities and
+Exchange Commission. Such a payment shall not be deemed an additional civil penalty and shall
+not be deemed to change the amount of the civil penalty imposed in this proceeding. For purposes
+of this paragraph, a "Related Investor Action" means a private damages action brought against any
+Respondent by or on behalf of one or more investors based on substantially the same facts as
+alleged in the Order instituted by the Commission in this proceeding.
+
+     J.      Respondent Tovar is denied the privilege of appearing or practicing before the
+Commission as an accountant.
+
+        K.     After two years from the date of the Order, Respondent Tovar may request that the
+Commission consider his reinstatement by submitting an application to the attention of the Office
+of the Chief Accountant.
+
+
+
+                                                 21
+        L.      In support of any application for reinstatement to appear and practice before the
+Commission as a preparer or reviewer, or a person responsible for the preparation or review, of
+financial statements of a public company to be filed with the Commission, other than as a member
+of an audit committee, as that term is defined in Section 3(a)(58) of the Exchange Act, Respondent
+Tovar shall submit a written statement attesting to an undertaking to have Respondent’s work
+reviewed by the independent audit committee of any public company for which Respondent works
+or in some other manner acceptable to the Commission, as long as Respondent practices before the
+Commission in this capacity and will comply with any Commission or other requirements related
+to the appearance and practice before the Commission as an accountant.
+
+        M.      In support of any application for reinstatement to appear and practice before the
+Commission as a member of an audit committee, as that term is defined in Section 3(a)(58) of the
+Exchange Act, as a preparer or reviewer, or as a person responsible for the preparation or review,
+of any public company’s financial statements that are filed with the Commission, Respondent
+Tovar shall submit a statement prepared by the audit committee(s) with which Respondent Tovar
+will be associated, including the following information:
+
+               1. A summary of the responsibilities and duties of the specific audit committee(s)
+                  with which Respondent Tovar will be associated;
+
+               2. A description of Respondent Tovar’s role on the specific audit committee(s)
+                  with which Respondent Tovar will be associated;
+
+               3. A description of any policies, procedures, or controls designed to mitigate any
+                  potential risk to the Commission by such service;
+
+               4. A description relating to the necessity of Respondent Tovar’s service on the
+                  specific audit committee; and
+
+               5. A statement noting whether Respondent Tovar will be able to act unilaterally on
+                  behalf of the Audit Committee as a whole.
+
+       N.      In support of any application for reinstatement to appear and practice before the
+Commission as an independent accountant (auditor) before the Commission, Respondent Tovar
+must be associated with a public accounting firm registered with the Public Company Accounting
+Oversight Board (the “PCAOB”) and Respondent Tovar shall submit the following additional
+information:
+
+               1. A statement from the public accounting firm (the “Firm”) with which
+                  Respondent Tovar is associated, stating that the firm is registered with the
+                  PCAOB in accordance with the Sarbanes-Oxley Act of 2002;
+
+               2. A statement from the Firm with which the Respondent Tovar is associated that
+                  the Firm has been inspected by the PCAOB and that the PCAOB did not
+                  identify any criticisms of or potential defects in the Firm’s quality control
+
+                                                22
+                   system that would indicate that Respondent Tovar will not receive appropriate
+                   supervision; and
+
+               3. A statement from Respondent Tovar indicating that the PCAOB has taken no
+                  disciplinary actions against Respondent Tovar since seven (7) years prior to the
+                  date of the Order other than for the conduct that was the basis for the Order.
+
+        O.      If Respondent Tovar is licensed as a certified public accountant (“CPA”), then in
+support of any application for reinstatement, Respondent Tovar shall provide documentation
+showing that Respondent Tovar’s license is current and that Respondent Tovar has resolved all
+other disciplinary issues with any applicable state boards of accountancy. If Respondent Tovar’s
+CPA licensure is dependent upon reinstatement by the Commission, then Respondent Tovar shall
+provide documents reflecting this requirement. If Respondent Tovar has never been licensed as a
+CPA, then Respondent Tovar shall submit a signed affidavit truthfully stating under penalty of
+perjury that Respondent Tovar has never been licensed as a CPA.
+
+        P.      In support of any application for reinstatement, Respondent Tovar shall also submit
+a signed affidavit truthfully stating, under penalty of perjury:
+
+               1. That Respondent Tovar has complied with the Commission suspension Order,
+                  and with any related orders and undertakings, including any orders in this
+                  proceeding, or any related Commission proceedings, including any orders
+                  requiring payment of disgorgement or penalties;
+
+               2. That Respondent Tovar undertakes to notify the Commission immediately in
+                  writing if any information submitted in support of the application for
+                  reinstatement becomes materially false or misleading or otherwise changes in
+                  any material way while the application is pending;
+
+               3. That Respondent Tovar, since the entry of the Order, has not been convicted of
+                  a felony or a misdemeanor involving moral turpitude that would constitute a
+                  basis for a forthwith suspension from appearing or practicing before the
+                  Commission pursuant to Rule 102(e)(2);
+
+               4. That Respondent Tovar, since the entry of the Order:
+
+                              (a) has not been charged with a felony or a misdemeanor involving
+                                  moral turpitude as set forth in Rule 102(e)(2) of the
+                                  Commission’s Rules of Practice, except for any charge
+                                  concerning the conduct that was the basis for the Order;
+
+                              (b) has not been found by the Commission or a court of the United
+                                  States to have committed a violation of the federal securities
+                                  laws, and has not been enjoined from violating the federal
+                                  securities laws, except for any finding or injunction concerning
+                                  the conduct that was the basis for the Order;
+                                                23
+                              (c) has not been charged by the Commission or the United States
+                                  with a violation of the federal securities laws, except for any
+                                  charge concerning the conduct that was the basis for the Order;
+
+                              (d) has not been found by a court of the United States (or any
+                                  agency of the United States) or any state, territory, district,
+                                  commonwealth, or possession, or any bar thereof to have
+                                  committed an offense (civil or criminal) involving moral
+                                  turpitude, except for any finding concerning the conduct that
+                                  was the basis for the Order; and
+
+                              (e) has not been charged by the United States (or any agency of the
+                                  United States) or any state, territory, district, commonwealth, or
+                                  possession, civilly or criminally, with having committed an act
+                                  of moral turpitude, except for any charge concerning the conduct
+                                  that was the basis for the Order.
+
+               5.     That Respondent Tovar’s conduct is not at issue in any pending
+                      investigation of the Commission’s Division of Enforcement, the PCAOB’s
+                      Division of Enforcement and Investigations, any criminal law enforcement
+                      investigation, or any pending proceeding of a State Board of Accountancy,
+                      except to the extent that such conduct concerns that which was the basis for
+                      the Order.
+
+               6.     That Respondent Tovar has complied with any and all orders, undertakings,
+                      or other remedial, disciplinary, or punitive sanctions resulting from any
+                      action taken by any State Board of Accountancy, or other regulatory body.
+
+       Q.      Respondent Tovar shall also provide a detailed description of:
+
+               1. Respondent Tovar’s professional history since the imposition of the Order,
+                  including:
+
+                              (a) all job titles, responsibilities and role at any employer;
+
+                              (b) the identification and description of any work performed for
+                                  entities regulated by the Commission, and the persons to whom
+                                  Respondent reported for such work; and
+
+               2. Respondent Tovar’s plans for any future appearance or practice before the
+                  Commission.
+
+         R.      The Commission may conduct its own investigation to determine if the foregoing
+attestations are accurate.
+
+                                                 24
+        S.       If Respondent Tovar provides the documentation and attestations required in this
+Order and the Commission (1) discovers no contrary information therein, and (2) determines that
+Respondent Tovar truthfully and accurately attested to each of the items required in Respondent
+Tovar’s affidavit, and the Commission discovers no information, including under Paragraph R,
+indicating that Respondent Tovar has violated a federal securities law, rule or regulation or rule of
+professional conduct applicable to Respondent since entry of the Order (other than by conduct
+underlying Respondent Tovar’s original Rule 102(e) suspension), then, unless the Commission
+determines that reinstatement would not be in the public interest, the Commission shall reinstate
+the respondent for cause shown.
+
+       T.       If Respondent Tovar is not able to provide the documentation and truthful and
+accurate attestations required in this Order or if the Commission has discovered contrary
+information, including under Paragraph R, the burden shall be on the Respondent Tovar to provide
+an explanation as to the facts and circumstances pertaining to the matter setting forth why
+Respondent Tovar believes cause for reinstatement nonetheless exists and reinstatement would not
+be contrary to the public interest. The Commission may then, in its discretion, reinstate
+Respondent Tovar for cause shown.
+
+        U.      If the Commission declines to reinstate Respondent Tovar pursuant to Paragraphs S
+and T, it may, at Respondent Tovar’s request, hold a hearing to determine whether cause has been
+shown to permit Respondent Tovar to resume appearing and practicing before the Commission as
+an accountant.
+
+                                                  V.
+
+         IT IS FURTHER ORDERED that, solely for purposes of exceptions to discharge set forth
+in Section 523 of the Bankruptcy Code, 11 U.S.C. § 523, the findings in this Order are true and
+admitted by Respondents Tovar and Poor, and further, any debt for disgorgement, prejudgment
+interest, civil penalty or other amounts due by Respondents Tovar and Poor under this Order or any
+other judgment, order, consent order, decree or settlement agreement entered in connection with
+this proceeding, is a debt for the violation by Respondents Tovar and Poor of the federal securities
+laws or any regulation or order issued under such laws, as set forth in Section 523(a)(19) of the
+Bankruptcy Code, 11 U.S.C. § 523(a)(19).
+
+       By the Commission.
+
+
+                                                               Vanessa A. Countryman
+                                                               Secretary
+
+
+
+
+                                                 25
+

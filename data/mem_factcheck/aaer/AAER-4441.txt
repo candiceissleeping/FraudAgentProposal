@@ -1,0 +1,593 @@
+AAER-4441 | 2023-08-15 | Malvern Bancorp, Inc. and Joseph D. Gangemi
+Source: https://www.sec.gov/files/litigation/admin/2023/33-11223.pdf
+
+                           UNITED STATES OF AMERICA
+                                    Before the
+                      SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES ACT OF 1933
+Release No. 11223 / August 15, 2023
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 98132 / August 15, 2023
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4441 / August 15, 2023
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-21562
+
+
+                                                 ORDER INSTITUTING CEASE-AND-
+ In the Matter of                                DESIST PROCEEDINGS PURSUANT TO
+                                                 SECTION 8A OF THE SECURITIES ACT
+ MALVERN BANCORP, INC.                           OF 1933 AND SECTION 21C OF THE
+ and                                             SECURITIES EXCHANGE ACT OF 1934,
+ JOSEPH D. GANGEMI                               MAKING FINDINGS, AND IMPOSING A
+                                                 CEASE-AND-DESIST ORDER
+ Respondents.
+
+
+
+
+                                                I.
+
+        The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act
+of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 1934 (“Exchange
+Act”), against Malvern Bancorp, Inc. (“Malvern”) and Joseph D. Gangemi (“Gangemi”)
+(collectively “Respondents”).
+
+                                               II.
+
+        In anticipation of the institution of these proceedings, Respondents have submitted Offers
+of Settlement (the “Offers”), which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over them and the subject matter of these
+proceedings, which are admitted, and except as provided in Section V, Respondents consent to the
+entry of this Order Instituting Cease-and-Desist Proceedings Pursuant to Section 8A of the
+Securities Act of 1933 and Section 21C of the Securities Exchange Act of 1934, Making Findings,
+and Imposing a Cease-and-Desist Order (“Order”), as set forth below.
+
+                                                III.
+
+       On the basis of this Order and Respondents’ Offers, the Commission finds that:
+
+                                           SUMMARY
+
+        1.      Between December 2017 and February 2021 (“Relevant Period”), Malvern
+repeatedly failed to timely recognize and appropriately account for issues related to several large
+commercial real estate loans resulting in material misstatements of Malvern’s financial statements
+for several quarters. Gangemi was Malvern’s Chief Financial Officer and principal accounting
+officer and reviewed and approved Malvern’s accounting that was improper. During the Relevant
+Period, Malvern failed to properly account for troubled debt restructurings, loan impairments and
+charge-offs, and impairment of other real estate owned. This led to Malvern’s restatement of its
+financial statements in its amended Form 10-Q for the quarter-ended December 31, 2019 and in its
+amended Form 10-K for the fiscal year-ended September 30, 2020. Throughout the Relevant
+Period, Malvern’s books and records with respect to these loans were inaccurate and its related
+internal accounting controls were ineffective.
+
+        2.      Gangemi knew or should have known information indicating that Malvern’s
+accounting for the assets was incorrect. As Chief Financial Officer and principal accounting
+officer, Gangemi also failed to maintain accurate books and records and implement effective
+internal controls over financial reporting.
+
+        3.      As a result of this conduct, Malvern violated Section 17(a)(2) and 17(a)(3) of the
+Securities Act, Section 13(a) of the Exchange Act and Rules 12b-20, 13a-1, 13a-11, and 13a-13
+thereunder, and Section 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act. Gangemi caused
+Malvern’s violations.
+
+                                         RESPONDENTS
+
+         4.     Malvern Bancorp, Inc. (“Malvern”) was a corporation with its headquarters in Paoli,
+Pennsylvania. Malvern was a bank holding company. At all relevant times, Malvern’s common
+stock was registered under Section 12(b) of the Exchange Act, and traded on the NASDAQ under
+ticker symbol MVLF. Malvern had a fiscal year-end of September 30. During the Relevant Period,
+Malvern primarily operated through its wholly-owned subsidiary, Malvern Bank, National
+Association (“Bank”). The Bank had its principal place of business in Paoli, Pennsylvania, with
+other locations in Pennsylvania, New Jersey, and Florida. The principal business of Malvern,
+through its Bank subsidiary, was making commercial real estate loans, residential real estate loans,
+construction and development loans, commercial business loans, home equity loans and lines of
+credit, and other consumer loans. On July 17, 2023, pursuant to an Agreement and Plan of Merger
+By and Among First Bank, Malvern Bancorp, Inc. and Malvern Bank, National Association,
+dated December 13, 2022 ("Agreement"), Malvern Bancorp, Inc. merged with and into First
+Bank. Pursuant to the Agreement, First Bank is the surviving corporation and the successor to
+Malvern.
+        5.      Joseph D. Gangemi, age 39, is a resident of Downingtown, Pennsylvania. Gangemi
+became Malvern’s Chief Financial Officer in 2015 and continued to serve in that role throughout
+the relevant time. Gangemi is not a Certified Public Accountant.
+
+                                                       FACTS
+
+    A. Accounting for Company A Loan
+
+             a. December 31, 2017 Troubled Debt Restructuring
+
+         6.       Company A was a commercial real estate company incorporated to lease a large big
+box retail property it owned. Company A refinanced the property through a $7.2 million loan from
+the Bank in July 2016. The loan was secured by the retail property. Company A had a national
+retailer as its sole tenant. The loan to Company A was not guaranteed by the company’s principals.
+
+        7.      In March 2017, Company A’s sole tenant declared bankruptcy. Company A did not
+have any other sources of operational cash flow. Company A attempted to re-tenant its property
+throughout 2017 and 2018 but failed to do so. After the tenant’s bankruptcy, Company A’s
+principals refused to continue paying on the loan until the Bank provided payment relief through a
+loan modification. In September 2017, the Bank approved a fifteen-month interest-only
+modification. In December 2017, the Bank approved a reduced interest rate. Company A then paid
+the delinquent loan payments to bring the loan current.
+
+        8.       Despite the interest rate and payment term concessions granted by the Bank and
+Company A’s financial difficulties and unwillingness to continue paying absent a modification, the
+Bank did not classify the restructuring of the loan as a Troubled Debt Restructuring (“TDR”) as of
+December 31, 2017.1 Gangemi reviewed the Bank’s analysis and approved the decision not to
+classify the loan as a TDR. Malvern’s conclusion that the loan restructuring was not a TDR as of
+December 31, 2017 was not appropriate. Malvern’s TDR analysis did not address relevant
+circumstances surrounding the restructuring, including the borrower’s poor financial condition
+after the loss of the property’s lease (i.e., no cash flow), the borrower’s stated intention not to
+continue paying on the loan under the original loan terms, the lack of guarantors, the loan’s
+delinquency, and the concessions provided by Malvern to reduce the borrower’s loan payments
+due to the borrower’s lack of cash flow. These facts demonstrate that the restructuring of the loan
+was a TDR as of December 31, 2017. Gangemi knew the relevant facts indicating that the loan was
+a TDR and that they were not incorporated into the TDR analysis. The Bank’s analysis relied on
+irrelevant and unsupported assumptions, such as the potential of new leases materializing.
+
+       9.     By failing to identify this significant loan as a TDR, Malvern materially
+misrepresented the true status of the loan. Gangemi caused the misstatement.
+
+
+
+
+1
+  As defined within Accounting Standard Codification (“ASC”) 310-40-20, a TDR is a restructuring of a debt
+whereby “the creditor for economic or legal reasons related to the debtor's financial difficulties grants a concession
+to the debtor that it would not otherwise consider.”
+            b. March 31, 2018 Loan Impairment
+
+        10.      Malvern reported the loan as a TDR in its March 31, 2018 Form 10-Q, after a
+review of the loan by the Bank’s primary federal banking regulator. Per ASC 310-40-35-10, “[a]
+loan restructured in a troubled debt restructuring is an impaired loan.” Per ASC 310-10-35-22,
+when a loan is impaired, “a creditor shall measure impairment based on the present value of
+expected future cash flows discounted at the loan’s effective interest rate, except that as a practical
+expedient, a creditor may measure impairment based on […] the fair value of the collateral if the
+loan is a collateral-dependent loan. If that practical expedient is used, Topic 820 shall apply.” The
+Bank’s March 31, 2018 impairment analysis treated the loan as collateral dependent and – relying
+on an April 2016 appraisal – concluded no impairment was required as of March 31, 2018. As
+defined within ASC 310-10-20, a collateral-dependent loan is a “loan for which the repayment is
+expected to be provided solely by the underlying collateral.” Bank policy stated the Bank should
+obtain an updated appraisal for a collateral dependent loan. However, contrary to this policy, the
+Bank did not obtain an updated appraisal until July 2018 and thus delayed recognizing any
+impairment until then.
+
+         11.     The Bank concluded no impairment was required as of March 31, 2018 based on a
+brief impairment analysis, which was reviewed by Gangemi. The impairment measurement was
+unreasonable and failed to accurately determine fair value because it relied on an appraisal that was
+21-months old. Per ASC 820-10-35-2, fair value is “the price that would be received to sell an
+asset or paid to transfer a liability in an orderly transaction between market participants at the
+measurement date.” As the April 2016 appraisal did not consider the current condition of the
+property as of the measurement date of March 31, 2018, it was an inappropriate representation of
+the fair value of the property as of that date. Gangemi knew these relevant facts indicating the
+appraisal did not reflect the current conditions of the property. When the Bank obtained an updated
+appraisal in July 2018, it provided a valuation that indicated a material loan impairment. The
+Bank’s failure to timely recognize and record a loan impairment caused a material misstatement of
+its financial statements for the quarter ended March 31, 2018. Gangemi caused the misstatement.
+
+            c. June 30, 2018 Loan Impairment
+
+        12.      The August 2018 appraisal reported an “as is” value of $6.2 million and a
+“Prospective Market Value at Stabilization” value of $7.6 million. The calculated impairment
+based on the as-is value was approximately $1.3 million, and the impairment based on the as-
+stabilized value was $172,000. The Bank determined to use a weighted average of the two
+appraisal values to determine impairment of the loan. The Bank assigned an 85% probability that a
+new lease for the property would be signed and assigned an 85% weight to the lower impairment
+calculation based on the as-stabilized value. It assigned a 15% weight to the higher impairment
+calculation based on the as-is value. Gangemi approved the use of the weighted average method,
+which resulted in an impairment of $356,000, reported in Malvern’s financial statements filed in its
+June 30, 2018 Form 10-Q. The weighted average method reduced the loan impairment by
+approximately $1 million when compared to the impairment it would have recognized using only
+the as-is value.
+
+       13.   The Bank’s use of an 85% probability of lease-up was primarily based on the fact
+that Company A had been negotiating with a potential tenant in late 2017 and early 2018.
+However, at the time of the impairment analysis in July 2018, the Bank and Gangemi were aware
+that this potential tenant was no longer interested in leasing the property.
+
+        14.      The Bank’s reliance on a draft lease that was no longer under consideration to value
+the collateral was not appropriate. There were no prospective leases under consideration at the time
+of impairment. Gangemi’s approval of the Bank’s selection of 85% was not supported. None of the
+Bank’s internal documentation prepared under Gangemi’s supervision supported or explained the
+appropriateness of an 85% probability of lease-up. Based on the facts and circumstances that
+existed at the time of the measurement date, the Bank should have impaired the loan using the as-is
+value of the property as of June 30, 2018. Per ASC 820-10-35-9, “[a] reporting entity shall
+measure the fair value of an asset or a liability using the assumptions that market participants
+would use in pricing the asset or liability, assuming that market participants act in their economic
+best interest.” Gangemi knew or should have known the Bank’s reliance on the “Prospective
+Market Value at Stabilization” when determining the fair value of the property as of June 30, 2018
+was unreasonable, as such a value would not be considered by a market participant, acting in their
+economic best interest, under the circumstances that existed at that time.
+
+       15.    As a result, Malvern materially misstated its financial statements in its June 30,
+2018 Form 10-Q. Gangemi caused the misstatement. Had the Bank properly accounted for the
+impairment on the Company A loan, the Bank’s income before taxes would have decreased from
+approximately $2.3 million to $1.3 million. Thus, Malvern's income before taxes was overstated by
+approximately 77%.
+
+        16.     As Gangemi was aware, Malvern incorporated these materially misstated financial
+statements in the June 30, 2018 Form 10-Q into a prospectus for an October 2018 $25 million
+offering and sale of common stock.
+
+           d. September 30, 2018 Loan Charge-Off
+
+        17.    During the quarter ended September 30, 2018, the Bank changed its impairment
+calculation and recorded an impairment of approximately $1.4 million based on the as-is value.
+The Bank’s documentation stated that it changed its impairment calculation because the new lease
+did not materialize. As noted above, the Bank was aware in the prior quarter that the lease likely
+would not materialize.
+
+       18.     The property owned by Company A remained vacant and the loan became
+delinquent again in 2018. In June 2018, the principals began discussing providing a deed-in-lieu
+(“DIL”) of foreclosure to exit the loan. In December 2018, the Bank executed a DIL with
+Company A and recorded the collateral as an other real estate owned (“OREO”) asset. The Bank
+charged off the loan for the amount that exceeded the collateral value based on the July 2018
+appraisal.
+
+       19.     The Bank’s decision to charge off the loan as of December 31, 2018 instead of
+September 30, 2018 was not appropriate because the amount of the loan balance in excess of the
+appraised value was uncollectable as of September 30, 2018. Gangemi reviewed and approved the
+Bank’s decision to charge off the loan as of December 31, 2018 instead of September 30, 2018.
+Per ASC 310-10-35-41, a “loan or trade receivable balance shall be charged off in the period in
+which the loans or trade receivables are deemed uncollectible.” There were numerous indications
+of uncollectability of the loan balance prior to September 30, 2018 (e.g., no tenant, no operational
+cash flow, no guarantor, significant delinquencies in 2017 and 2018, loan concessions, and
+discussions of a possible DIL as early as June 2018). Gangemi knew these relevant facts indicating
+the loan was uncollectable. Gangemi also knew that the Bank decided to accept the DIL and
+approved the charge-off prior to the filing of the financial statements for the quarter-end and fiscal
+year end September 30, 2018 in the company’s Form 10-K, which further demonstrates the Bank
+should have recorded the charge-off in that period.
+
+        20.    As a result, Malvern materially misstated its financial statements in its September
+30, 2018 Form 10-K. Gangemi caused the misstatement. The Bank should have recognized a loan
+charge-off of $1.2 million and recognized a $1.2 million provision for loan losses in connection
+with the charge-off, which would have reduced Malvern’s quarterly income before taxes from
+approximately $3 million to $1.8 million. Thus, Malvern’s quarterly income before taxes was
+overstated by approximately 67%.
+
+           e. December 31, 2020 Impairment of Company A OREO
+
+        21.    The Bank did not obtain an updated appraisal for the OREO property until April
+2021 (approximately two-and-a-half years after its prior appraisal). The Bank purportedly did not
+obtain an updated appraisal sooner due to the COVID-19 pandemic. Management, including
+Gangemi, later determined that it should have obtained appraisals sooner when it became apparent
+that the COVID-19 pandemic would be a long term impact. Between January 2019 and September
+2020, the Bank did not record a material impairment of the asset as it continued to rely on the July
+2018 appraised value
+
+        22.     In its impairment analysis for the period ending September 30, 2020, the Bank
+continued to rely on the July 2018 appraisal to conclude no impairment was required. Because of
+the age of the appraisal, the Bank’s policy stated the Bank should discount the appraisal by 20%.
+The Bank failed to do so and provided no justification for the departure from Bank policy.
+
+        23.     During the December 31, 2020 quarter, Gangemi negotiated and executed a letter of
+intent (“LOI”) to sell the property on behalf of the Bank. The Bank’s policy stated that the Bank
+should record a charge-off for an asset when a LOI is signed with a lower purchase price than the
+Bank’s recorded investment in the asset unless the Bank could document why the Bank would not
+take a loss. The policy also stated that the Bank must obtain approval from the relevant
+management committee if it did not record a charge-off. The Bank failed to perform an updated
+impairment analysis as of December 31, 2020 incorporating the information from the LOI. The
+Bank did not record an impairment as of December 31, 2020 and did not obtain the required
+approval under its policy. Gangemi knew these relevant facts.
+
+        24.     In April 2021, the Bank obtained an updated appraisal of the OREO, which showed
+an impairment to the asset. The Bank did not record an impairment in the March 31, 2021 quarter.
+In the June 30, 2021 Form 10-Q, the Bank recorded an $850,000 impairment after obtaining an
+updated appraisal in June 2021.
+        25.      The Bank’s accounting for the Company A OREO asset as of December 31, 2020
+was not appropriate. Gangemi was ultimately responsible for the Bank’s OREO impairment
+analysis. The purchase price within the LOI had been recently negotiated and represented what a
+willing buyer was willing to pay to purchase the property in an arms-length transaction. The
+Bank’s policy, which Gangemi did not follow, expressly recognized that an LOI was a reliable
+indicator of fair value. The value in the LOI was a better indicator of fair value than the two-year
+old appraisal relied upon by the Bank. The Bank’s internal documentation did not support the
+Bank’s decision to rely on the outdated appraisal when there was a more recent and reliable
+indicator of fair value available. Gangemi did not incorporate the information from the LOI into
+Malvern’s analysis.
+
+        26.     As a result, Malvern materially misstated its financial statements in its December
+31, 2020 Form 10-Q. Gangemi caused the misstatement. Had the Bank properly accounted for the
+OREO property, it would have been written down by approximately $980,000 in its financial
+statements in the December 31, 2020 Form 10-Q. This would have reduced Malvern’s income
+before taxes from approximately $3 million to $2.02 million. Thus, Malvern’s income before taxes
+was overstated by approximately 49%.
+
+   B. Accounting for Loan to Company B
+
+           a. December 31, 2017 Troubled Debt Restructuring
+
+        27.     Company B was a commercial real estate company incorporated to lease a large big
+box retail property that it owned. Company B refinanced the property through a $9.7 million loan
+from the Bank in July 2016. Company B’s principals were the same as Company A. Company B
+had a national retailer as its sole tenant. The tenant was the same national retailer as Company A.
+The loan to Company B had limited guarantees at origination of approximately 6% of the loan
+balance. The guarantees reduced each month by the amount of principal repaid.
+
+         28.    Like Company A, Company B’s tenant declared bankruptcy in March 2017.
+Company B did not have any other sources of operational cash flow. After the tenant’s bankruptcy,
+Company B’s principals refused to continue paying on the loan until the Bank provided payment
+relief through a loan modification. In September 2017, the Bank approved a one-year interest-only
+modification. In December 2017, the Bank approved a reduced interest rate. Company B then paid
+the delinquent loan payment to bring the loan current.
+
+        29.    The Bank did not classify the loan as a TDR during its initial assessment of the loan
+modification as of December 31, 2017. The Bank’s analysis and conclusion was similar to its
+analysis and conclusion when it concluded the loan to Company A was not a TDR.
+
+       30.      Malvern reported the loan as a TDR in its March 31, 2018 Form 10-Q after a
+review of the loan by the Bank’s primary federal banking regulator.
+
+       31.     Gangemi reviewed and approved the Bank’s analysis and conclusion that the loan
+was not a TDR. Malvern’s conclusion that the loan to Company B was not a TDR as of December
+31, 2017 did not address relevant circumstances surrounding the restructuring, including the
+borrower’s poor financial condition after the loss of the properties’ lease (i.e., no cash flow), the
+borrower’s stated intention not to continue paying on the loan under the original loan terms, the
+loan’s delinquency, the absence of full guarantees, and the concessions provided by Malvern to
+reduce the borrower’s loan payments due to the borrower’s lack of cash flow. Gangemi knew these
+relevant facts indicating the loan was a TDR. These facts demonstrate that the loan was a TDR as
+of December 31, 2017. The Bank’s analysis relied on unsupported assumptions, such as new leases
+and the purported willingness of limited guarantors to pay the entire loan balance.
+
+       32.      As a result, Malvern materially misstated its reported aggregate outstanding loan
+balances for TDRs in its December 31, 2017 Form 10-Q. Gangemi caused the misstatement. Had
+the Bank properly classified the loans to Company A and Company B as TDRs, Malvern’s
+reported aggregate outstanding loan balances for TDRs would have increased from approximately
+$2.2 million to $18.8 million, an approximate 750% increase.
+
+           b. December 31, 2019 Impairment / Charge-Off
+
+        33.     The Company B loan was impaired and a TDR. Throughout 2018 and 2019, the
+Bank did not consider the loan to be collateral dependent because of the limited guarantee. During
+this time, the Bank only required small amounts of impairment based on a present value of future
+cash flows impairment analysis.
+
+        34.     By January 2020, the guarantee had reduced to zero and the loan was due to reset at
+a higher interest rate. The Bank attempted to restructure the loan to obtain a new limited guarantee.
+For impairment purposes at December 31, 2019, the Bank – at Gangemi’s direction – initially
+calculated two different impairment amounts. The first assumed the loan was collateral dependent
+and used the fair value of the collateral, which resulted in a $3.1 million impairment. The second
+assumed the loan was not collateral dependent and used the present value of the loan’s future cash
+flows, which resulted in a $36,000 impairment. The Bank assumed a 50% probability that
+Company B would accept the loan restructuring and applied a 50% weight to the present value of
+future cash flows approach. The Bank assumed a 50% probability that Company B would not
+accept the restructuring and applied a 50% weight to the fair value of the collateral approach.
+Using this weighted approach, Malvern recorded a $1.56 million impairment based on this
+methodology in its financial statements in the originally filed December 31, 2019 Form 10-Q. This
+impairment was approximately $1.5 million less than had the impairment been calculated using
+only the collateral’s fair value.
+
+        35.     The Bank attributed the change in impairment methodology for December 31, 2019
+to the death of one of the guarantors. The Bank’s internal documentation suggested that the
+guarantor died in January 2020. However, the guarantor actually died in August 2018, a fact that
+some Bank employees were aware of but was not clearly communicated to management, including
+Gangemi.
+
+        36.      In March 2020, the Bank obtained an updated appraisal showing a $2.3 million
+collateral shortfall compared to the Bank’s recorded investment in the loan.
+
+       37.     After an examination by the Bank’s primary federal banking regulator, the Bank
+determined the loan to Company B was collateral dependent as of December 31, 2019 and that a
+charge-off should have been recognized in its financial statements during that quarter. As a result,
+the Bank determined there was an error in the originally filed Form 10-Q and restated its financial
+statements because the loan was collateral dependent and the $2.3 million impairment should have
+been charged off in the December 31, 2019 quarter based on the appraised value. The Bank never
+filed a Form 8-K Item 4.02 to report non-reliance on the financial statements filed in the original
+Form 10-Q. Despite the restatement to correct errors in the financial statements, management
+concluded there was no material weakness in internal controls.
+
+        38.      The Bank’s accounting for the loan to Company B in its originally filed December
+31, 2019 Form 10-Q was not appropriate. Gangemi reviewed and approved the impairment
+analysis. The loan was collateral dependent as of December 31, 2019 based on the borrower’s
+limited cash flow (i.e., the new tenant’s lease was not sufficient to establish a realistic repayment
+plan), the looming balloon payment at maturity, the elimination of the loan guarantee, and
+discussions with the loan sponsor of additional loan modifications due to higher reset interest rate.
+Because the loan was collateral dependent, the Bank’s policy stated it should have immediately
+ordered an updated appraisal and charged down the amount of the loan balance in excess of the
+appraised value. However, the Bank did not obtain an updated appraisal for December 31, 2019
+reporting purposes. Moreover, the use of a 50%-50% blended impairment methodology that relied
+in part on the loan’s cash flows was not appropriate for a collateral dependent loan. Such a
+methodology that relied in part on the loan’s cash flows is not consistent with the definition of a
+collateral dependent loan, which states that payment is expected to come “solely” from the
+collateral. Gangemi knew or should have known that the Bank’s methodology was not consistent
+with the definition of a collateral dependent loan.
+
+        39.     As a result, Malvern materially misstated its financial statements in its originally
+filed December 31, 2019 Form 10-Q. Gangemi caused the misstatement. Had the Bank properly
+accounted for the impairment of the Company B loan, its net income would have been reduced
+from approximately $2.5 million to $785,000. Thus, Malvern’s net income was overstated by
+approximately 218%. This adjustment was reported in the amended December 31, 2019 Form 10-
+Q to restate the financial statements.
+
+   C. Accounting for Loan to Company C
+
+        40.    Company C was a commercial real estate company incorporated to lease retail
+space it owned in a mixed-use commercial and residential building in New York City. Company C
+obtained a $20.5 million loan from the Bank in 2017 with $18.7 million advanced initially. The
+loan eventually had cash flow issues due to difficulty finding tenants. Throughout 2019 and 2020,
+the Bank did not classify the loan as collateral dependent citing the strength of the guarantor.
+
+        38.    Beginning in March 2020, the Bank granted three consecutive 90-day deferrals to
+the borrower due to COVID-19. During this time, the Bank requested – but never received –
+updated financial information on the borrower and its guarantor.
+
+        41.    On November 9, 2020, the Bank issued a preliminary earnings release for the
+quarter-ended and fiscal year ended September 30, 2020 based on financial statements that
+provided for no impairment of the Company C loan. The preliminary earnings release was
+furnished on Form 8-K. At the time of this release, the Bank, including Gangemi, knew that the
+borrower was having financial difficulties. Subsequent to the release, the Bank, including
+Gangemi, learned the guarantor was having financial difficulties.
+
+        42.    On December 29, 2020, Malvern filed a late filing notice of the Form 10-K
+notifying investors it was evaluating the loan to Company C as collateral dependent. On January
+20, 2021, Malvern filed a Form 8-K signed by Gangemi notifying investors not to rely on the
+preliminary earnings release and that the Bank was recording a $2.9 million charge-down and
+$581,000 impairment related to the Company C loan. On January 29, 2021, Malvern filed its Form
+10-K with the information regarding Company C from the January 20, 2021 Form 8-K
+incorporated.
+
+        43.     On February 26, 2021, the Bank amended its Form 10-K after receiving an updated
+appraisal to record an additional $3.1 million impairment. Management also disclosed a material
+weakness in its Internal Control over Financial Reporting based on its failure to timely identify the
+loan to Company C as collateral dependent, which resulted in the inaccurate November 9, 2020
+earnings release. Bank management later concluded the company’s decision not to order an
+appraisal in 2020 due to COVID-19 was incorrect.
+
+        44.      These errors caused Malvern’s net income reported in its November 9, 2020
+earnings release and January 29, 2021 Form 10-K to be materially misstated. Gangemi caused the
+misstatements. Malvern reported net income for the quarter of $2.2 million in its earnings release,
+compared to a net loss of $3.5 million reported in the amended Form 10-K filed on February 26,
+2021, an overstatement in the earnings release of approximately $5.7 million or 164%. The
+originally filed Form 10-K reported net loss for the quarter of $546,000, an overstatement of
+approximately $3 million or 84%.
+
+        45.     The Bank’s failure to recognize the loan to Company C as collateral dependent and
+impaired as of September 30, 2020 prior to issuing an earnings release was inappropriate. Gangemi
+was ultimately responsible for the Bank’s impairment analysis. The Bank should have determined
+the loan was collateral dependent and impaired as of September 30, 2020. The Bank requested
+updated financial information from the borrower and the guarantor but never received it throughout
+2020. The Bank relied on outdated information when approving loan deferrals and measuring
+impairment. The loan to Company C was collateral dependent at the time of the earnings release
+based upon the cash flow concerns and the borrower’s inability or unwillingness to provide
+updated financial information concerning the guarantor, which prevented the Bank from
+reasonably concluding that the guarantor’s financial condition had sufficiently improved to
+alleviate such concerns. Gangemi knew facts indicating the loan was impaired and collateral
+dependent as of the date of the preliminary earnings release. Moreover, as the Bank later
+concluded, it should have obtained an updated appraisal for purposes of September 30, 2020
+financial reporting and immediately charged the loan down to appraised value and recognized a
+corresponding loan loss provision. As a result, on November 9, 2020, Malvern issued a materially
+inaccurate September 30, 2020 preliminary earnings release signed by Gangemi. On February 26,
+2021, Malvern restated its September 30, 2020 Form 10-K, and concluded there was a material
+weakness in internal controls.
+                                           VIOLATIONS
+
+         46.    Section 17(a)(2) of the Securities Act proscribes, in the offer or sale of a security,
+obtaining “money or property by means of any untrue statement of a material fact or any omission
+to state a material fact necessary in order to make the statements made, in light of the circumstances
+under which they were made, not misleading.” As a result of the conduct described above, Malvern
+violated Section 17(a)(2) of the Securities Act. Gangemi caused Malvern’s violation of Section
+17(a)(2).
+
+        47.     Section 17(a)(3) of the Securities Act proscribes, in the offer or sale of a security,
+engaging “in any transaction, practice, or course of business which operates or would operate as a
+fraud or deceit upon the purchaser.” As a result of the conduct described above, Malvern violated
+Section 17(a)(3) of the Securities Act. Gangemi caused Malvern’s violation of Section 17(a)(3).
+
+        48.     Section 13(a) of the Exchange Act and Rules 13a-1, 13a-11, and 13a-13 thereunder
+require issuers with a class of securities registered pursuant to Section 12 of the Exchange Act to
+file such periodic reports and other reports as the Commission may prescribe and in conformity with
+such rules as the Commission may promulgate. The obligation to file such reports embodies the
+requirement that they be true and correct. In addition to the information expressly required to be
+included in such reports, Rule 12b-20 of the Exchange Act requires issuers to add such further
+material information, if any, as may be necessary to make the required statements, in light of the
+circumstances under which they are made, not misleading. As a result of the conduct described
+above, Malvern violated Section 13(a) of the Exchange Act and Rules 12b-20, 13a-1, 13a-11, and
+13a-13 thereunder. Gangemi caused Malvern’s violations of Section 13(a) of the Exchange Act and
+Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder.
+
+         49.    Section 13(b)(2)(A) of the Exchange Act, which requires reporting companies to
+make and keep books, records, and accounts which, in reasonable detail, accurately and fairly reflect
+their transactions and dispositions of their assets. As a result of the conduct described above,
+Malvern violated Section 13(b)(2)(A) of the Exchange Act. Gangemi caused Malvern’s violations
+of Section 13(b)(2)(A) of the Exchange Act.
+
+         50.     Section 13(b)(2)(B) of the Exchange Act, which requires issuers of securities
+registered pursuant to Section 12 of the Exchange Act to devise and maintain a system of internal
+accounting controls sufficient, among other things, to provide reasonable assurances that
+transactions are recorded as necessary to permit preparation of financial statements in accordance
+with generally accepted accounting principles or any other criteria applicable to such statements. As
+a result of the conduct described above, Malvern violated Section 13(b)(2)(B) of the Exchange Act.
+Gangemi caused Malvern’s violations of Section 13(b)(2)(B) of the Exchange Act.
+
+                                                  IV.
+
+        In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondents’ Offers.
+
+        Accordingly, it is hereby ORDERED that:
+        A.      Pursuant to Section 8A of the Securities Act and Section 21C of the Exchange Act,
+Respondent Malvern cease and desist from committing or causing any violations and any future
+violations of Section 17(a)(2) and 17(a)(3) of the Securities Act and Sections 13(a), 13(b)(2)(A),
+and 13(b)(2)(B) of the Exchange Act and Rules 12b-20, 13a-1, 13a-11, 13a-13 thereunder.
+
+        B.      Pursuant to Section 8A of the Securities Act and Section 21C of the Exchange Act,
+Respondent Gangemi cease and desist from committing or causing any violations and any future
+violations of Section 17(a)(2) and 17(a)(3) of the Securities Act and Sections 13(a), 13(b)(2)(A),
+and 13(b)(2)(B) of the Exchange Act and Rules 12b-20, 13a-1, 13a-11, 13a-13 thereunder.
+
+        C.       Respondent Malvern shall, within ten (10) business days of the entry of this Order,
+pay a civil money penalty in the amount of $350,000 to the Securities and Exchange Commission
+for transfer to the general fund of the United States Treasury, subject to Exchange Act Section
+21F(g)(3). If timely payment is not made, additional interest shall accrue pursuant to 31 U.S.C.
+§3717.
+
+        D.       Respondent Gangemi shall, within ten (10) business days of the entry of this Order,
+pay a civil money penalty in the amount of $40,000 to the Securities and Exchange Commission
+for transfer to the general fund of the United States Treasury, subject to Exchange Act Section
+21F(g)(3). If timely payment is not made, additional interest shall accrue pursuant to 31 U.S.C.
+§3717.
+
+               Payment must be made in one of the following ways:
+
+               (1)     Respondents may transmit payment electronically to the Commission,
+                       which will provide detailed ACH transfer/Fedwire instructions upon
+                       request;
+
+               (2)     Respondents may make direct payment from a bank account via Pay.gov
+                       through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+               (3)     Respondents may pay by certified check, bank cashier’s check, or United
+                       States postal money order, made payable to the Securities and Exchange
+                       Commission and hand-delivered or mailed to:
+
+               Enterprise Services Center
+               Accounts Receivable Branch
+               HQ Bldg., Room 181, AMZ-341
+               6500 South MacArthur Boulevard
+               Oklahoma City, OK 73169
+
+       Payments by check or money order must be accompanied by a cover letter identifying
+Malvern Bancorp, Inc., or Joseph D. Gangemi, as a Respondent in these proceedings, and the file
+number of these proceedings; a copy of the cover letter and check or money order must be sent to
+Carolyn Welshhans, Associate Director, Division of Enforcement, Securities and Exchange
+Commission, 100 F St., NE, Washington, DC 20549.
+         E.     Amounts ordered to be paid as civil money penalties pursuant to this Order shall be
+treated as penalties paid to the government for all purposes, including all tax purposes. To preserve
+the deterrent effect of the civil penalty, Respondents agree that in any Related Investor Action, it
+shall not argue that it is entitled to, nor shall it benefit by, offset or reduction of any award of
+compensatory damages by the amount of any part of Respondents’ payment of a civil penalty in
+this action ("Penalty Offset"). If the court in any Related Investor Action grants such a Penalty
+Offset, Respondents agree that it shall, within 30 days after entry of a final order granting the
+Penalty Offset, notify the Commission's counsel in this action and pay the amount of the Penalty
+Offset to the Securities and Exchange Commission. Such a payment shall not be deemed an
+additional civil penalty and shall not be deemed to change the amount of the civil penalty imposed
+in this proceeding. For purposes of this paragraph, a "Related Investor Action" means a private
+damages action brought against Respondents by or on behalf of one or more investors based on
+substantially the same facts as alleged in the Order instituted by the Commission in this
+proceeding.
+
+                                                 V.
+
+        It is further Ordered that, solely for purposes of exceptions to discharge set forth in
+Section 523 of the Bankruptcy Code, 11 U.S.C. §523, the findings in this Order are true and
+admitted by Respondent Gangemi, and further, any debt for disgorgement, prejudgment interest,
+civil penalty or other amounts due by Respondent Gangemi under this Order or any other
+judgment, order, consent order, decree or settlement agreement entered in connection with this
+proceeding, is a debt for the violation by Respondent Gangemi of the federal securities laws or
+any regulation or order issued under such laws, as set forth in Section 523(a)(19) of the
+Bankruptcy Code, 11 U.S.C. §523(a)(19).
+
+
+       By the Commission.
+
+
+
+                                                      Vanessa A. Countryman
+                                                      Secretary
+

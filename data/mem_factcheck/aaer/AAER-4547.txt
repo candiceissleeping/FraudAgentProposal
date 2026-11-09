@@ -1,0 +1,969 @@
+AAER-4547 | 2024-12-16 | Becton, Dickinson and Company
+Source: https://www.sec.gov/files/litigation/admin/2024/33-11344.pdf
+
+                           UNITED STATES OF AMERICA
+                                    Before the
+                      SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES ACT OF 1933
+Release No. 11344 / December 16, 2024
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 101931 / December 16, 2024
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4547 / December 16, 2024
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-22361
+                                                     ORDER INSTITUTING CEASE-AND-
+ In the Matter of                                    DESIST PROCEEDINGS PURSUANT TO
+                                                     SECTION 8A OF THE SECURITIES ACT
+        BECTON, DICKINSON                            OF 1933 AND SECTION 21C OF THE
+        AND COMPANY,                                 SECURITIES EXCHANGE ACT OF 1934,
+                                                     MAKING FINDINGS, AND IMPOSING A
+ Respondent.                                         CEASE-AND-DESIST ORDER
+
+
+                                                I.
+
+        The Securities and Exchange Commission (“Commission” or “SEC”) deems it appropriate
+that cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the
+Securities Act of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 1934
+(“Exchange Act”) against Becton, Dickinson and Company (“BD” or “Respondent”).
+
+                                               II.
+
+        In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over Respondent and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 8A of the Securities Act of 1933 and Section 21C of
+the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order
+(“Order”), as set forth below.
+                                                        III.
+
+         On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+
+                                                    Summary
+
+         1.      This matter involves Becton Dickinson’s repeated misrepresentations to investors
+regarding the risks it was taking in selling one of its most important products. From 2016 to early
+2020, BD understood its Alaris infusion pump, whose sales contributed about 10% of BD’s profits,
+required new regulatory clearance from the FDA to address historical changes to the device and to
+fix multiple software flaws that posed safety risks to patients. BD misrepresented these risks and
+failed to disclose the risk that the FDA would prohibit sales of Alaris until the company obtained
+new clearance and fixed its software. BD also overstated its income by failing to properly account
+for the costs of fixing the device.
+
+        2.      In 2016, BD’s regulatory experts determined that Alaris required new clearance
+from the FDA because of cumulative historical changes made to the device since its last regulatory
+clearance. In June 2016, BD began work internally to seek this clearance. Within several months,
+however, BD realized it was unable at that time to give the FDA information it would require to
+clear the device. So BD decided to change course. Instead, BD sought FDA clearance only for
+certain new features it wanted to add to Alaris in the future. However, even for this substantially
+narrowed submission, BD could not then give the FDA the information it needed for clearance.
+BD withdrew that application in June 2018 and advised the FDA it would work on a new
+submission. Nevertheless, BD continued to sell Alaris until 2020 while misleading investors about
+the company’s regulatory compliance and without informing investors of the material risk that the
+FDA would prohibit BD from continuing to sell the device without the necessary clearance.
+
+        3.      In FY2019 and FY2020, BD also materially misled investors and failed to make
+required disclosures about the increased risk that the FDA would prohibit sales of Alaris in light of
+flaws in the device’s software that presented risks to patient safety. One involved the pump’s low
+battery alarm, which was intended, but sometimes failed, to alert clinicians that Alaris was on the
+verge of shutting down during infusions if the device was not plugged in. Another involved error
+codes the device would generate in certain circumstances that delayed the start of infusions. By
+2018, BD had received reports that there had been over 30 deaths or serious injuries potentially
+associated with these issues.2
+
+
+
+1
+         The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding on any
+other person or entity in this or any other proceeding.
+2
+          Further investigation ultimately determined in 2020 that these issues were potentially associated with 24
+serious injuries, but no deaths. In this time period, about 2 million Alaris pumps were used to deliver approximately
+2.7 billion infusions to patients.
+
+
+
+                                                          2
+        4.    By January 2019, BD had identified over 25 additional flaws in Alaris’s software
+that the company’s experts categorized as presenting risks of the greatest potential harm to patients.
+BD did not, however, fix any of these flaws or inform investors of the heightened risk that the FDA
+would limit BD’s ability to continue selling Alaris in light of these issues.
+
+       5.      By this point, it was probable that BD would need to conduct a recall to fix Alaris.
+However, BD failed to comply with Generally Accepted Accounting Principles by not disclosing
+or properly accounting for these recall costs.
+
+        6.      In October 2019, after the FDA3 raised new concerns about Alaris’s alarms, BD
+proposed a plan to the agency for fixing all of the software issues. In doing so, BD informed the
+FDA for the first time about the additional flaws it had found, including those categorized as
+presenting risks of the greatest potential harm to patients, which by then totaled 37. BD asked the
+FDA to allow the company to continue selling Alaris while it worked on addressing these issues
+over time. BD proposed to do this by fixing the issues with a new software version while deferring
+the regulatory clearance process it had tried and failed to complete previously.
+
+        7.      On October 31, 2019, the FDA rejected BD’s proposal, warning BD it was putting
+a “violative” device into the market with “defects and safety issues.” The FDA informed BD that
+continuing to sell Alaris was “problematic” and “not an acceptable way to proceed.” The FDA
+said, “These issues cannot be propagated in current manufacturing products. We cannot allow that
+to happen.” The FDA added that the changes BD had proposed required regulatory clearance, and
+that the devices already in medical facilities needed to be recalled and remediated more quickly
+than BD had proposed.
+
+        8.    BD understood it needed to stop selling new Alaris units until it addressed the
+FDA’s concerns. It told the agency it would develop a new plan to fix the software
+issues. Immediately following this meeting, BD ceased shipping Alaris.
+
+        9.      Within a few days, however, BD’s then-senior management, in consultation with
+multiple attorneys, senior internal experts, and executives in various roles, agreed to a different
+plan proposed by the Alaris team that was similar to the one the FDA had already rejected: BD
+would, within three months, resume shipping Alaris with a new software version but without first
+completing the regulatory clearance process. Notwithstanding the concerns raised by the FDA
+several days prior, BD’s plan assumed the FDA would exercise its enforcement discretion to allow
+BD to make changes to Alaris’s software that otherwise required prior FDA clearance so that BD
+could resume selling the device with new software that fixed all of the issues presenting risks of the
+greatest potential harm.
+
+
+
+
+3
+         The FDA communications discussed in this Order refer to those made by and to the FDA team directly
+responsible for overseeing Alaris’s compliance with regulatory requirements and were not binding on the agency.
+
+
+
+                                                        3
+         10.      On November 5, 2019, BD held an earnings call in which it told investors it was
+pausing Alaris shipments during its first fiscal quarter to make software “upgrades” to the device.
+On that call and in a concurrent Form 8-K, BD issued earnings and revenue forecasts that assumed
+the company would recoup in the remainder of FY2020 most of the sales it would not make during
+this pause. BD’s statements materially misled investors about Alaris’s regulatory status and the
+reliability of its forecasts because they implied the company was merely enhancing the device and
+were based on the company’s undisclosed conjecture that the FDA would reverse course and allow
+BD to continue selling Alaris without clearance.
+
+        11.     During this call and in the Form 8-K, BD also overstated its Q4 FY2019 operating
+income.4 By this point, BD estimated the Alaris recall would cost the company $50 million. Yet it
+did not reserve for these costs as GAAP required. BD’s failure to record the costs in Q4 FY2019
+resulted in BD overstating its operating income for that quarter by 82%.
+
+       12.      Later in November 2019, BD filed a Form 10-K that included various statements
+regarding the regulatory status of Alaris and the company’s interactions with the FDA. These
+statements continued to mislead investors about Alaris and BD’s ability to continue selling the
+device without new regulatory clearance.
+
+        13.     In that filing, BD also materially misstated its financial results by again failing to
+record the estimated costs of remediating and recalling Alaris—this time overstating its FY2019
+annual income before taxes by over 5%.
+
+        14.     BD made additional misrepresentations to investors regarding Alaris over the
+following two months. At a widely attended healthcare investor conference in November 2019,
+BD again said it was “upgrading” Alaris and reaffirmed its previously issued earnings and revenue
+guidance. In December 2019, BD told participants at another investor conference it believed
+Alaris would continue to take market share from its competitors, and that the pause in sales would
+be short-lived. In neither case did BD inform investors that it had ceased shipping Alaris to
+address concerns raised by the FDA about the device, or that its forecasts depended on the FDA
+allowing the company to resume sales.
+
+        15.     In December 2019, BD finalized the interim software version it had been
+developing and resumed selling Alaris without receiving FDA concurrence. At another investor
+conference in January 2020, BD told investors Alaris sales had resumed and reaffirmed its 2020
+revenue forecast. BD did not, however, inform investors of the material fact that its forecast
+hinged on its assumption that the FDA would allow BD to continue selling the device without new
+regulatory clearance.
+
+        16.    When the FDA learned in mid-January 2020 that BD had resumed shipping Alaris,
+it warned the company that its decision to resume sales was “misaligned with our previous
+
+
+4
+        BD’s fiscal year end is September 30.
+
+                                                    4
+conversations regarding your software issues and our mutual agreement that your firm should not
+be distributing devices to new customers.”
+
+        17.     On January 23, BD again stopped shipping Alaris. BD did not know how long this
+“ship hold” would last, but understood it would likely have a substantially negative impact on the
+company’s revenue in FY2020. Nevertheless, during its January 28 annual shareholders’ meeting,
+BD again reaffirmed the FY2020 revenue forecasts that assumed the company would continue
+selling Alaris without limitation in FY2020.
+
+       18.      In February 2020, BD informed investors it had ceased shipping Alaris to new
+customers and would not fully resume selling the device until it obtained clearance from the
+FDA. That announcement led to a 12% decline in the company’s share price. Following the call,
+one analyst texted a senior member of BD’s investor relations group, “I just can’t even . . . I do not
+understand what happened here. 10 days ago we heard everything in pumps was ok and back on
+market and better than expected . . . I’m stunned and have a lot of angry people with pitchforks.”
+
+                                            Respondent
+
+       19.     Becton, Dickinson and Company is a New Jersey corporation headquartered in
+Franklin Lakes, New Jersey. BD is a global medical technology company that develops,
+manufactures, and sells medical supplies and devices. BD’s stock is registered with the
+Commission pursuant to Exchange Act Section 12(b) and trades on the New York Stock
+Exchange. BD files periodic reports, including Forms 10-K and 10-Q, with the Commission
+pursuant to Section 13(a) of the Exchange Act and related rules thereunder.
+
+                                            Background
+
+        20.    BD’s Alaris infusion pump delivers fluids, medications, and blood to patients in
+hospitals throughout the United States. Alaris was a highly profitable and important product for
+BD that contributed a material portion of BD’s total operating income in FY2019 and early
+FY2020, when the violations described below occurred.
+
+        21.     Infusion pumps like Alaris are Class II medical devices that present moderate to
+high risk to patients. Section 510(k) of the Food, Drug and Cosmetic Act requires manufacturers
+of such devices to obtain FDA “clearance” before they can be legally marketed and sold in the U.S.
+To obtain this clearance, a manufacturer must demonstrate to the FDA that the device is safe and
+effective through a “510(k)” submission.
+
+        22.     Manufacturers often make changes to medical devices after obtaining 510(k)
+clearance. If a manufacturer makes a modification that could significantly affect a device’s safety
+or effectiveness—or if a manufacturer has made multiple modifications at once or over time that
+cumulatively could have such an effect—new 510(k) clearance from the FDA is required to
+
+
+
+
+                                                  5
+continue selling the device. However the FDA may exercise “enforcement discretion” not to bring
+an enforcement action for devices that require new 510(k) clearance but continue to be sold.5
+
+                    BD’s Decision Not to Obtain New 510(k) Clearance for Alaris
+
+        23.    In 2016, BD’s regulatory experts within the business unit responsible for the
+manufacture and sale of Alaris determined that because of cumulative changes made over time to
+Alaris’s software, Alaris needed new 510(k) clearance. In June 2016, the company began working
+on a 510(k) submission that would cover these changes. Soon after beginning this work, however,
+the Alaris team realized it did not have readily available the data and documentation the FDA
+would require to obtain new 510(k) clearance for those historical changes.6
+
+        24.     At that time, the Alaris team was developing new features to include in Alaris.
+Concerned that generating the data and documentation necessary for new 510(k) clearance would
+delay the release of the new features and disadvantage its competitive position, the Alaris team
+changed course. Rather than seek new FDA clearance for the cumulative historical changes it had
+made to Alaris, the Alaris team decided it would instead seek clearance for only certain new
+features it wanted to commercialize quickly.
+
+        25.    After BD filed this narrowed 510(k) in October 2017, the FDA notified BD that its
+submission was inadequate. The FDA informed BD that to begin its substantive review, the
+company would need to provide, among other things, information concerning previous changes to
+Alaris’s software, the requisite data to support those changes, and BD’s rationale for not submitting
+a 510(k) application to cover the prior changes.
+
+        26.     Because BD’s data and documentation about the previous changes to Alaris was
+incomplete, it could not timely provide the FDA the information it requested. BD believed
+pushing forward with this 510(k) application posed a “High Probability of Regulatory /
+Compliance Risk,” which included, among other things, the FDA determining Alaris was
+“adulterated,” meaning out of compliance and in need of a new 510(k) clearance because of
+cumulative historical changes to the device.
+
+         27.   BD withdrew this application in June 2018. The Alaris team indicated to the FDA
+that it would work to pursue a new 510(k) submission, including for cumulative historical
+changes—but without informing the agency that it had previously determined those changes
+necessitated new regulatory clearance. BD continued selling Alaris nonetheless.
+
+
+5
+         A manufacturer may ask the FDA for a determination that the agency would not require it to stop sales of a
+product that requires new 510(k) clearance. The FDA exercises this enforcement discretion from time to time.
+6
+         BD’s subsidiary responsible for Alaris (“CFN 303”) had significant gaps in its data about Alaris’s software
+development. For example, it lacked information the FDA required for new 510(k) clearance about how the
+software had changed over time.
+
+
+                                                         6
+        28.     BD knew or should have known this presented heightened risk to the company.
+When BD acquired the Alaris product line in 2015, Alaris was (and remains) subject to a
+preexisting consent decree with the FDA that resulted from longstanding compliance and safety
+issues with Alaris.7 The consent decree subjects BD’s subsidiary responsible for Alaris to
+heightened FDA scrutiny concerning its infusion pumps and gives the FDA enhanced authority to
+take unilateral actions for violations of FDA rules, including limiting its sales of Alaris or even
+prohibiting sales of the device. SEC disclosure rules required BD to disclose to investors the
+material uncertainty that the FDA would prohibit BD from continuing to sell Alaris without new
+FDA clearance.8 However BD did not do so.
+
+         29.    To the contrary, BD materially misled investors about the company’s regulatory
+compliance risks relating to Alaris. In FY2019, BD disclosed to investors in its periodic reports
+that the consent decree gave the FDA authority to stop the company from continuing to sell Alaris
+“in the event of any violations in the future.” And in its annual report during this period, BD stated
+that it had “made substantial progress in its compliance efforts” in connection with the consent
+decree. These disclosures were misleading given that (i) BD had not obtained the new 510(k)
+clearance its Alaris team had concluded was required and (ii) the company was unlikely to obtain
+such clearance in the near future.
+
+        30.      By December 2018, numerous members of BD’s then-executive leadership knew or
+should have known of significant deficiencies in how the company’s business unit responsible for
+Alaris had been managing Alaris’s regulatory requirements. They were informed that the business
+unit’s regulatory experts had concluded in 2016 that new 510(k) clearance was needed for past
+changes to Alaris, that the business unit had a historical strategy of avoiding FDA engagement and
+510(k)s, that there was a need for additional training regarding the quality system relating to
+Alaris,9 that the withdrawn submission for new 510(k) clearance had been driven by business
+
+
+7
+         The consent decree was first entered into in 2007, following safety issues in an earlier version of the Alaris
+infusion pump that was not manufactured by BD. Starting in 2009, Alaris was manufactured and sold by CFN 303,
+which BD acquired in 2015.
+
+8
+         See 17 CFR § 229.303 (Regulation S-K Item 303, Management’s discussion and analysis of financial
+condition and results of operations, including description of known trends and uncertainties that have had or are
+reasonably likely to have a material favorable or unfavorable impact on net sales or revenues or income from
+continuing operations). By no later than January 2019, the risk that the FDA would restrict BD’s ability to sell
+Alaris was a known uncertainty that would have such a material unfavorable impact if it came to fruition. However,
+BD did not conduct the requisite analyses to determine that no disclosure was required. Accordingly, disclosure was
+required in BD’s periodic filings during its FY2019. See Management’s Discussion and Analysis of Financial
+Condition and Results of Operations, Exchange Act Release No. 6835, 43 S.E.C. Docket 1330, 1989 WL 1092885,
+at *6 (May 18, 1989).
+9
+          FDA rules require medical device manufacturers to “establish and follow quality systems to help ensure
+that their products consistently meet applicable requirements and specifications.” FDA, Quality System (QS)
+Regulation/Medical Device Current Good Manufacturing Practices (CGMP), https://www.fda.gov/medical-
+devices/postmarket-requirements-devices/quality-system-qs-regulationmedical-device-current-good-manufacturing-
+practices-cgmp.
+
+                                                           7
+decisions instead of regulatory strategy, and that there was a lack of internal transparency and a
+lack of respect for the regulatory experts within the business unit.
+
+                       Misrepresentations Relating to Risks in Alaris’s Software
+
+        31.     Postponing a new 510(k) submission for the cumulative changes to Alaris had
+additional consequences beyond the heightened risk that the FDA could prohibit BD from
+continuing to sell the device. Obtaining clearance would have allowed BD to update Alaris’s
+software and fix over 140 software flaws it had found. These issues had varying degrees of
+severity and risk. BD categorized over 15 of them as presenting risks of the greatest potential harm
+to patients.
+
+        32.      One of these flaws involved Alaris’s low battery alarm. This issue could cause
+Alaris, if not plugged in, to shut down when its battery was depleted without warning to the
+clinician. In November 2016, BD’s regulatory experts planned to address this issue by modifying
+Alaris’s software. But this fix required new 510(k) clearance before it could be implemented.
+That month, BD issued a recall notification informing clinicians using Alaris of the issue and ways
+to mitigate it and prepared a software update to fix it. This update was included in the software for
+which BD sought 510(k) clearance in 2017, but because BD withdrew that application in 2018, it
+did not fix this the flaw in units it had already sold or in new units it was selling.
+
+        33.      Another issue related to a “system error code” Alaris would spontaneously generate
+in certain circumstances. This could interrupt or delay the start of infusions, posing an additional
+safety risk to patients. In June 2017, BD issued a recall notification informing clinicians of the
+issue and ways to mitigate it, but again, the company did not fix the software because it had
+withdrawn its 510(k) application in 2018. This issue therefore also persisted in devices BD had
+already sold and in new devices the company was continuing to sell.
+
+        34.     By the end of 2018, BD had received reports of over 30 serious injuries or deaths
+potentially associated with the low battery alarm and system error code issues.10
+
+        35.    Over time, BD learned of more issues with Alaris’s software. By January 2019,
+BD was tracking over 160. By August 2019, the number had surpassed 200. Of these, BD’s
+experts categorized over 25 as presenting risks of the greatest potential harm to patients. Though
+BD had told the FDA about the low battery alarm and system error code issues, it did not inform
+the agency of the other issues it was tracking until October 2019.
+
+       36.     In August 2019, the FDA alerted BD to two additional alarm issues with Alaris that
+presented potential safety risks. The agency informed BD that Alaris’s alarms for notifying
+
+10
+         As noted above, these reports led BD to conduct risk evaluations and make certain associated field
+communications. BD subsequently investigated these reports further. By February 2020, the company determined
+these issues were potentially associated with 24 serious injuries, but no deaths. In this time period, about 2 million
+Alaris pumps were used to deliver approximately 2.7 billion infusions to patients.
+
+
+                                                           8
+clinicians that infusions had ended were not sufficiently audible and should be designated as “high
+priority” rather than “medium priority.” The FDA told BD this “alarm prioritization” issue posed
+safety risks because clinicians may not immediately respond to medium or low priority alarms, and
+when the delivery of critical medication stops, a clinician’s unresponsiveness could lead to a
+patient’s death. The FDA told BD to prioritize addressing this issue on an expedited basis.11
+
+         37.     Though SEC disclosure rules required BD to inform investors in its periodic reports
+that these software issues increased the risk of regulatory action by the FDA to limit BD’s ability
+to sell Alaris,12 BD did not do so.
+
+        38.      To the contrary, BD misled investors by giving them a materially incomplete view
+of the potential for recalls of its products. From 2016 to 2020, BD’s annual and quarterly filings
+on Forms 10-K and 10-Q made generic disclosures relating to the possibility of recalls, regulatory
+action, loss of sales, and injuries or other adverse events due to potential product defects or safety
+concerns.13 By no later than FY2019, BD’s disclosures were materially misleading. They
+presented such events as contingent or merely possible while omitting that BD was aware of
+multiple issues with one of its most important products that created a heightened risk the FDA
+would take regulatory action to limit BD’s ability to continue selling the device. Moreover, in
+November 2018, BD had explicitly committed to the FDA that it would recall Alaris to remediate
+the low battery alarm issue.
+
+        39.     BD also failed to properly account for the costs of fixing these software issues. By
+November 2018, it was probable that fixing devices it had already sold would require BD to send
+technicians to medical facilities using Alaris to update the device’s software. Generally Accepted
+Accounting Principles required BD to record or otherwise disclose its expected costs to implement
+these fixes.14 BD did not do so.
+
+
+11
+         The FDA explained to BD that the only other pump manufacturer that had a similar issue had already
+undertaken a Class I recall. Such a recall reflects the highest degree of health hazard because it involves a situation
+in which there is a reasonable probability that the use of, or exposure to, a violative product will cause serious
+adverse health consequences or death.
+12
+         See supra note 8.
+
+13
+          BD’s Forms 10-K, in describing a risk factor concerning defects or quality issues, state: “Manufacturing or
+design defects . . . can lead to injury or other serious adverse events. These events could lead to recalls . . . and
+could result, in certain cases, in the removal of a product from the market. A recall could result in significant costs
+and lost sales and customers . . . as well as negative publicity and damage to our reputation that could reduce future
+demand for our products. . . . In some circumstances, such adverse events could also cause delays in regulatory
+approval of new products.” BD’s Forms 10-Q referred readers to these risk factors.
+14
+           GAAP Accounting Standards Codification (ASC) Subtopic 450 requires accrual and disclosure of material
+loss contingencies that are probable and reasonably estimable. A loss contingency is probable when the future event
+is likely to occur. BD failed to comply with GAAP with respect to its annual and quarterly periodic reports for
+FY2019. The company ultimately disclosed and recorded a reserve for these recall costs in Q1 FY2020.
+
+
+                                                           9
+                  BD’s Proposal to Fix Alaris’s Software Before 510(k) Clearance
+
+        40.    After the FDA notified BD that it needed to fix Alaris’s alarm prioritization issue,
+BD told the FDA it would submit a proposal to the agency that would address that issue as part of
+a plan the company had been discussing with the FDA since November 2018 to fix Alaris’s low
+battery alarm.
+
+        41.     BD presented its proposal in October 2019. In it, BD revealed to the FDA that
+Alaris had hundreds of other software flaws, including what by then were 37 that BD categorized
+as presenting risks of the greatest potential harm to patients. BD proposed to develop and release
+new software for Alaris within several months that would fix most of these issues while it worked
+on preparing a submission for new 510(k) clearance.15
+
+        42.    As for the two million Alaris pumps being used in medical facilities across the
+country, BD proposed to recall those devices by sending technicians to remediate their software
+over a three-and-a-half-year period.
+
+        43.     BD acknowledged to the FDA that Alaris required new 510(k) clearance for some
+of these fixes and said it would prepare a filing to cover them, as well as historical cumulative
+changes made to the device. But it told the FDA it did not expect to be able to file the 510(k)
+submission for over a year, until late 2020 or early 2021. In effect, BD was proposing that the
+agency exercise enforcement discretion to allow the company to continue selling Alaris with the
+new changes, while the company worked on a 510(k) filing for a year or more.
+
+                                  The FDA’s Rejection of BD’s Proposal
+
+         44.    On October 31, 2019, the FDA’s team responsible for overseeing Alaris’s
+compliance with FDA rules firmly rejected BD’s proposal. Concerned by the number of software
+issues, they warned BD it was putting a “violative” device into the market with “defects and safety
+issues” and that continuing to sell Alaris was “problematic” and “not an acceptable way to
+proceed.” The FDA team said, “These issues cannot be propagated in current manufacturing
+products. We cannot allow that to happen.”
+
+        45.    The FDA team also told BD its proposed three-and-a-half-year timeline to fix the
+Alaris devices already in medical facilities was “unacceptable” and would need to happen more
+quickly.
+
+       46.     BD asked the FDA whether it could submit a limited 510(k) submission in the near
+term that would cover only the most significant safety fixes, and leave for later a comprehensive
+510(k) application for the remaining software issues and the historical changes it had made to
+
+15
+         BD had internally assessed that Alaris was safe for use even with the software flaws and shared this view
+with the FDA during the meeting. The FDA did not agree with BD’s methodology concerning the risk assessment.
+
+
+                                                        10
+Alaris. The FDA team rejected this too, telling BD, “[w]e cannot clear the device piecemeal since
+the agency is aware of other safety issues.”
+
+        47.     To understand how rapidly BD could remediate the software issues in already-sold
+devices in the field, the FDA team asked BD for a timeline to fix software issues that did not
+require regulatory clearance. The FDA also asked BD for a timeline for fixing issues that did
+require clearance, in the event the agency allowed BD to make such fixes to devices it had already
+sold before the company obtained new 510(k) clearance. Though the FDA told BD “there are
+issues that BD can take action [on] now in the interim,” the agency did not indicate any such fixes
+would be sufficient for BD to resume normal sales of Alaris before it obtained new 510(k)
+clearance.
+
+        48.      BD understood from the October 31 meeting that the FDA team believed BD
+should stop selling the current version of Alaris.16 BD told the FDA it would develop and propose
+a revised plan to fix the issues. Immediately afterwards, BD put Alaris on a “ship hold” to stop
+further sales of the device while it worked to address the FDA’s questions and concerns.
+
+       49.      Various BD internal experts responsible for regulatory affairs and the quality of its
+products—both at the corporate level and in the BD business unit that manufactured and sold
+Alaris—testified they had no idea how long the ship hold would last when it was implemented.
+Indeed, the BD regulatory expert responsible for Alaris who participated in the October 31 FDA
+meeting told at least one colleague that they believed the FDA would not allow BD to resume
+shipping Alaris until the company obtained new 510(k) clearance for the device.
+
+        50.    BD’s October 31 meeting with the FDA team occurred five days before the
+company’s scheduled Q4 FY2019 earnings call on November 5, 2019. On November 4, one
+senior executive asked a senior member of BD’s investor relations group, “[a]ny thought to delay
+earnings? That would prob cause hysteria?”
+
+           BD’s Risky Plan to Resume Shipping Alaris Without New 510(k) Clearance
+
+        51.     On November 4, 2019, in preparation for the earnings call the next day, BD’s then-
+senior management, in consultation with company lawyers, senior internal experts, and executives
+in various roles—but not the regulatory expert from the business unit responsible for Alaris—
+agreed to proceed with a plan proposed by certain members of the Alaris team that was similar to
+the one the team had proposed to the FDA and that the FDA had rejected: BD would, within three
+months, resume shipping Alaris with a new software version but without first completing the
+regulatory clearance process. Notwithstanding the concerns raised by the FDA several days prior,
+BD’s plan assumed the FDA would exercise its enforcement discretion to allow BD to make
+changes to Alaris’s software that otherwise required prior 510(k) clearance so that BD could
+
+16
+        BD’s notes of the meeting reflect the company’s regulatory expert responsible for Alaris acknowledging to
+the FDA, “we understand you asked for a ship hold.” As discussed below, in January 2020, the FDA described one
+outcome of the meeting as reaching a “mutual agreement that your firm should not be distributing devices to new
+customers.”
+
+                                                       11
+resume selling the device with new software that fixed all of the issues presenting risks of the
+greatest potential harm.
+
+        52.     Because BD expected this software fix to be developed within three months, it
+expected this plan would limit the revenue impact of the ship hold to just the first fiscal quarter and
+allow the company to recoup most of that forgone revenue during the remainder of FY2020.
+
+                         BD’s November 2019 Misrepresentations to Investors
+
+         53.     Having adopted that plan, on its November 5, 2019 earnings call, BD told investors
+certain revenue would shift from Q1 FY2020 to the rest of the fiscal year because it “expected to
+move the timing” of Alaris sales to make “some improvements” to the device as part of BD’s
+process and strategy to “continually iterate and make enhancements to the platform.” BD said it
+was “in discussions with the FDA about the timing” of the “upgrades” to the software’s “alarm
+prioritization and optimization.” On that call and in a concurrent Form 8-K, BD issued earnings
+and revenue forecasts that assumed the company would recoup most of the sales it would not make
+during its first quarter in the remainder of FY2020.
+
+         54.     BD’s statements materially misled investors about Alaris’s regulatory status, and
+the reliability of its financial forecasts. BD’s statements implied the company was merely
+enhancing the device. In reality, BD had stopped shipping Alaris after the FDA team responsible
+for overseeing the device had expressed significant concerns about its software issues and
+compliance and referred to the device as “violative.”17 Moreover, Alaris’s software issues went
+significantly beyond “alarm prioritization and optimization.”
+
+         55.    BD’s statements were also misleading by omission: they failed to inform investors
+that the company’s ability to resume Alaris sales in FY2020 hinged on the assumption that the
+FDA would, despite its team’s recent statements, exercise enforcement discretion to permit BD to
+do so. BD’s statements further misled investors by omitting the substantial risk of a long-term ship
+hold if, as one of its key regulatory experts believed, the FDA would require BD to obtain a new
+510(k) clearance to resume Alaris sales to new customers.
+
+       56.     In reporting its earnings during the call and in a contemporaneous Form 8-K, BD
+also misled investors about its financial results. By that time, BD had estimated that recalling
+
+17
+          BD’s uses of the terms “improvements,” “upgrades,” and “enhancements” in the earnings call were false
+and misleading. The fixes BD was making to Alaris’s software were not “enhancements.” An enhancement to a
+medical device is “(1) a change to improve the performance or quality of a device that is (2) not a change to remedy
+a violation” of the Food, Drug and Cosmetic Act “or associated regulations enforced by the [FDA].” FDA Center
+for Devices and Radiological Health, Distinguishing Medical Device Recalls from Medical Device Enhancements
+(Oct. 15, 2014), https://www.fda.gov/media/89909/download?attachment (emphasis in original). BD had begun the
+October 31 meeting with the FDA by referring to the company’s proposed fixes for the low battery alarm issue and
+alarm prioritization issues as enhancements. The FDA immediately corrected BD: “Want to be clear that [the low
+battery alarm and alarm prioritization issues] are not software enhancements. They are all recall issues.” Later in
+the meeting, the FDA suggested that other software issues might be as well.
+
+
+                                                        12
+Alaris to fix the software issues would cost the company $50 million. BD’s failure to record these
+probable costs in Q4 FY2019 as GAAP required resulted in the company overstating its reported
+operating income for the fourth quarter of 2019 by 82%.18
+
+                                    BD Continues to Mislead Investors
+
+        57.     By mid-November 2019, BD changed its plan for resuming Alaris sales. BD
+decided not to seek enforcement discretion from the FDA to fix all the flaws presenting risks of the
+greatest potential harm to patients that required prior 510(k) clearance. This would mean the new
+version BD was developing would exclude fixes for several software issues that the FDA had
+expressed significant concerns about. This made the possibility that the FDA would permit BD to
+fully resume Alaris sales even more remote in light of the FDA team’s statements that it could not
+allow BD to further propagate such issues in currently manufactured products.
+
+         58.     BD echoed its prior misrepresentations at an investor conference in late November
+2019. BD told investors it was “upgrading some software in the pumps, and that will delay some
+installations and shipment into the subsequent quarters, and we anticipate getting all of that back
+inside of the fiscal year.” BD further stated, “we posted our strongest ever revenue dollars in the
+[business unit responsible for Alaris] in the fourth quarter [of 2019], and we expect that momentum
+to continue when you look at the full year of fiscal ’20.”
+
+      59.     BD made similar misrepresentations during another investor conference in early
+December 2019, stating that it believed Alaris would continue to take market share from its
+competitors and that the pause in sales would be short-lived.
+
+        60.      In neither of these investor conferences did BD inform investors that its forecasts
+depended on the FDA allowing BD to resume selling Alaris with a new version of the software that
+did not fix all of the safety issues that the FDA team had raised significant concerns about during
+their October 31 meeting.
+
+             BD’s Material Misrepresentations and Omissions in Its 2019 Form 10-K
+
+        61.      On November 27, 2019, BD filed its FY2019 Form 10-K. As in earlier filings, this
+Form 10-K included several materially misleading statements concerning regulatory risks as well
+as the possibility of recalls, lost sales, and injuries or other adverse events due to potential product
+defects or safety concerns. BD presented these risks as contingent or merely possible even though
+it knew Alaris was on a ship hold because the FDA had told BD the device was violative, that the
+
+18
+         BD’s accounting practice at that time was not to disclose or record the costs of a recall until the company
+had publicly announced the recall. BD erroneously believed no GAAP obligation existed before the public
+announcement of a recall based on interpretative guidance it found online from a “Big Four” audit firm. It was
+wrong for BD to narrowly rely on this guidance. In evaluating whether to record or disclose a loss from a recall,
+ASC 450 requires consideration of all available information to assess whether a loss was probable or reasonably
+possible. BD made no such assessment. BD’s written policy regarding accounting for recall costs was inconsistent
+with GAAP for similar reasons.
+
+                                                         13
+FDA might require the ship hold to last until BD obtained new 510(k) clearance, that Alaris had
+numerous software flaws categorized as presenting risks of the greatest potential harm to patients,
+and that BD planned to recall Alaris.
+
+       62.     Also as in earlier filings, BD failed to comply with SEC disclosure rules requiring
+the company to inform investors of the material uncertainty that BD might be unable to resume
+shipping Alaris until it had obtained new 510(k) clearance.
+
+        63.     And BD again materially overstated its financial results. By the time BD filed this
+Form 10-K, it had updated its estimate of the remediation costs to recall Alaris to $59 million. As
+in its November 5, 2019 Form 8-K, BD failed to disclose and accrue these costs in its Form 10-K’s
+financial statements as GAAP required. Had BD recorded the $59 million estimated cost in its
+financial statements for FY2019, its annual income before taxes would have been over 5% lower.
+
+        64.     Pursuant to BD’s disclosure controls and procedures, BD’s Disclosure Committee,
+Audit Committee, outside auditor, and BD’s board of directors reviewed the draft filing before it
+was submitted.19 These procedures did not, however, include any review by, or consultations with,
+the regulatory or quality experts in the business unit who had participated in the October 31, 2019
+discussions with the FDA about Alaris.
+
+     BD Resumes Shipping Alaris Without New Clearance and Continues to Mislead Investors
+
+       65.    In December 2019, BD finalized the new interim software version it had been
+developing and resumed regular sales of Alaris with the updated software, including to new
+customers. BD did so without any indication from the FDA that it concurred with BD’s
+approach.20
+
+        66.     At a healthcare conference on January 14, 2020, BD told investors it had resumed
+shipping Alaris and reaffirmed the 2020 revenue guidance it had given in November. After an
+analyst at the conference asked BD for an update on Alaris “as you await guidance from the FDA
+
+
+
+
+19
+          BD’s disclosure controls and procedures required Disclosure Committee members to certify, prior to the
+filing of any periodic report, that the report did not contain any untrue statement of material fact or omit to state a
+material fact. These certifications were not distributed to Disclosure Committee members in connection with the
+2019 Form 10-K, and none were executed, in contravention of BD’s own controls and procedures.
+20
+          While BD and the FDA had discussions following their October 31 meeting about the company developing
+a new version of its software, those discussions focused on BD’s plan to “remediate all devices in the field”—i.e. to
+fix the pumps it had already sold. At no point during or following the October 31 meeting did the FDA indicate that
+it would grant BD enforcement discretion to resume regular sales of Alaris. On December 16, 2019, BD informed
+the FDA that it had finalized the new software and added “BD would like to initiate remediating the products in the
+field as soon as possible and will begin offering this new software version to all customers.” In the context of their
+prior discussions, this only suggested that BD would offer the update to remediate devices already sold to customers
+rather than to resume sales of new devices.
+
+                                                           14
+around fixing some of the alarms,” BD responded it had “[f]ully resumed shipping in the first
+quarter” and that the situation played out “exactly as expected.”
+
+        67.     BD knew or should have known these statements were materially false or
+misleading in multiple respects. In the context of its prior statements about Alaris, BD’s
+statements at the conference misleadingly suggested it had fixed the Alaris alarm issues. However,
+the software version it developed did not include those fixes because BD had determined they
+required 510(k) clearance. BD’s statements further suggested that BD had resumed shipping with
+the FDA’s concurrence. This was not the case.
+
+    BD Reinstates Ship Hold But Again Misleadingly Reaffirms Prior Revenue Guidance
+
+         68.      In mid-January 2020, while discussing BD’s efforts to remediate Alaris devices in
+the field, the FDA learned BD had resumed regular sales of Alaris with the new software version
+that did not fix certain significant safety issues the FDA had warned the company about on
+October 31. The FDA team responded by telling BD they had understood from the company that it
+had “ceased distribution of devices to customers . . . due to the many issues that have been
+identified, except in the case of remediation.” The FDA team further told BD that its decision to
+resume selling Alaris was “misaligned with our previous conversations regarding your software
+issues . . . and our mutual agreement that your firm should not be distributing devices to new
+customers.”
+
+       69.     BD reinstated the Alaris ship hold on January 23, 2020. Though BD did not know
+how long the ship hold would last, the company understood it would likely have a materially
+negative impact on the company’s revenue in FY2020.
+
+        70.     On January 28, 2020, BD held its annual shareholders meeting. Despite the Alaris
+team having prepared a financial forecast several days prior showing the ship hold would likely
+have a materially unfavorable revenue impact in FY2020, BD again reaffirmed the FY2020
+revenue guidance it had originally made in November 2019 when it planned to fully resume Alaris
+sales after one quarter.
+
+                  BD Informs Investors About Need for New 510(k) Clearance
+
+         71.    On February 6, 2020, BD conducted an earnings call for Q1 FY2020. During this
+call, the company finally told investors about its need to obtain new 510(k) clearance for Alaris
+and revised its financial guidance for the full fiscal year. It told investors that until the FDA
+granted that clearance, it would not sell the device to new customers; sales would be limited only
+to cases of medical necessity to existing customers. That day, BD’s share price fell by about 12%.
+
+       72.     During the call, one analyst asked management “how you got caught off guard and
+how this went from sort of a software upgrade to something much more significant.” That day,
+another analyst texted a senior member of BD’s investor relations group, “I just can’t even . . . I do
+not understand what happened here. 10 days ago we heard everything in pumps was ok and back
+
+
+                                                  15
+on market and better than expected . . . I’m stunned and have a lot of angry people with
+pitchforks.”
+
+                                                    Violations
+
+        73.     As a result of the conduct described above, BD violated Sections 17(a)(2) and
+(a)(3) of the Securities Act, which prohibit any person from directly or indirectly obtaining money
+or property by means of any untrue statement of a material fact or any omission to state a material
+fact necessary in order to make the statements made, in light of the circumstances under which
+they were made, not misleading, or engaging in any transaction, practice, or course of business
+which operates or would operate as a fraud or deceit upon the purchaser, in the offer or sale of
+securities.21
+
+        74.     BD violated Section 13(a) of the Exchange Act and Rules 13a-1, 13a-11, and
+13a-13 thereunder, which require that every issuer of a security registered pursuant to Exchange
+Act Section 12 file with the Commission, among other things, annual, quarterly, and current
+reports as the Commission may require. BD also violated Rule 12b-20 of the Exchange Act, which
+requires an issuer to include in a statement or report filed with the Commission any information
+necessary to make the required statements in the filing not materially misleading.
+
+        75.     BD violated Exchange Act Section 13(b)(2)(A), which requires reporting
+companies to make and keep books, records and accounts which, in reasonable detail, accurately
+and fairly reflect their transactions and dispositions of their assets. BD also violated Section
+13(b)(2)(B), which requires all reporting companies to devise and maintain a system of internal
+accounting controls sufficient to provide reasonable assurances that, among other things,
+transactions are recorded as necessary to permit preparation of financial statements in accordance
+with GAAP.
+
+        76.     BD violated Exchange Act Rule 13a-15, which requires that every issuer of a
+security registered pursuant to Exchange Act Section 12 maintain disclosure controls and
+procedures as defined in Exchange Act Rule 13a-15(e), and, for issuers required to file an annual
+report pursuant to Section 13(a) or 15(d) for the prior fiscal year, internal control over financial
+reporting as defined in Rule 13a-15(f).
+
+                                                 Undertakings
+
+        77.      Respondent has undertaken to complete the following actions:
+
+
+
+21
+          Violations of Sections 17(a)(2) and (a)(3) of the Securities Act do not require scienter. See Aaron v. SEC,
+446 U.S. 686, 695-96 (1980). During its FY2019 and FY2020, BD offered and sold stock to its employees through
+an Employee and Director Equity-Based Compensation Plan, for which a Form S-8 was filed with the
+Commission. The S-8 incorporated by reference all subsequent filings by BD under the Exchange Act, including the
+filings containing statements and omissions at issue herein.
+
+
+                                                        16
+a. Retention of Independent Compliance Consultant. Within 30 days of the issuance of
+   this Order, Respondent shall retain the services of an Independent Compliance
+   Consultant (“Independent Consultant”) acceptable to the staff of the Commission and
+   provide a copy of this Order to the Independent Consultant. Respondent shall provide
+   the Commission staff with a copy of the engagement letter detailing the Independent
+   Consultant’s responsibilities, which shall include the reviews and reports to be made
+   by the Independent Consultant as set forth in this Order. The Independent
+   Consultant’s compensation and expenses shall be borne exclusively by Respondent.
+
+b. Independent Consultant’s Reviews. Respondent shall require the Independent
+   Consultant to:
+
+   i.      Review the company’s practices and procedures relating to: its evaluation of
+           product recalls and remediation under GAAP and its disclosure controls and
+           procedures, including but not limited to controls and procedures relating to
+           collection and assessment of information concerning potential risks,
+           contingencies, operating events, trends, and uncertainties.
+
+   ii.     At the end of the review, but no later than 365 days after the entry of this
+           Order, submit a written report to Respondent and the Commission staff that
+           shall include a description of the review performed, the names of the
+           individuals who performed the review, the Independent Consultant’s findings
+           and recommendations for changes or improvements to the disclosure controls,
+           policies, and procedures, and a procedure for implementing the recommended
+           changes and improvements.
+
+c. Respondent shall, within 60 days of receipt of the Independent Consultant’s report,
+   adopt all recommendations contained in the report, provided, however, that within 45
+   days after the date of receipt of the report, Respondent shall in writing advise the
+   Independent Consultant and the Commission staff of any recommendations that it
+   considers to be unduly burdensome, impractical, or inappropriate. With respect to
+   any recommendation that Respondent considers to be unduly burdensome,
+   impractical, or inappropriate, Respondent need not adopt that recommendation at that
+   time but Respondent shall instead propose in writing to the Independent Consultant
+   and Commission staff an alternative policy or procedure designed to achieve the same
+   objective or purpose as that recommended by the Independent Consultant, or a
+   different timeline for implementation in light of the recommendation. Respondent
+   shall attempt in good faith to reach an agreement with the Independent Consultant on
+   any recommendations objected to by Respondent. Within 15 days after the
+   conclusion of the discussion and evaluation by Respondent and the Independent
+   Consultant, Respondent shall require that the Independent Consultant inform
+   Respondent and the Commission staff in writing of the Independent Consultant’s
+   final determination concerning any recommendation. At the same time, Respondent
+   may seek approval from the Commission staff to not adopt the recommendations that
+
+                                       17
+   Respondent can demonstrate to be unduly burdensome, impractical, or inappropriate.
+   In the event that Respondent and the Independent Consultant are unable to agree on
+   an alternative proposal within 30 days and the Commission staff does not agree that
+   any proposed recommendations are unduly burdensome, impractical, or
+   inappropriate, Respondent shall abide by the determinations of the Independent
+   Consultant.
+
+d. Within 30 days of Respondent’s adoption and implementation of all of the
+   recommendations in the Independent Consultant’s report that the Independent
+   Consultant deems appropriate, as determined pursuant to the procedures set forth
+   herein, Respondent shall certify in writing to the Independent Consultant and the
+   Commission staff that Respondent has adopted and implemented all
+   recommendations in the applicable report. The Commission staff may make
+   reasonable requests for further evidence of compliance, and Respondent agrees to
+   provide such evidence.
+
+e. Respondent shall cooperate fully with the Independent Consultant and shall provide
+   the Independent Consultant with access to such of its files, books, records, and
+   personnel as reasonably requested for the Independent Consultant’s review, including
+   access by on-site inspection. To ensure the independence of the Independent
+   Consultant, Respondent (1) shall not have the authority to terminate the Independent
+   Consultant or substitute another independent consultant for the initial Independent
+   Consultant without prior written approval of the Commission staff; and (2) shall
+   compensate the Independent Consultant and persons engaged to assist the
+   Independent Consultant for services rendered pursuant to this Order at their
+   reasonable and customary rates.
+
+f. The deadlines in this Undertaking shall be counted in calendar days, except that if the
+   last day falls on a weekend or federal holiday, the next business day shall be
+   considered the last day.
+
+g. For the period of engagement and for a period of two years from completion of the
+   engagement, Respondent shall not (i) retain the Independent Consultant for any other
+   professional services outside of the services described in this Order; (ii) enter into any
+   other professional relationship with the Independent Consultant, including any
+   employment, consultant, attorney-client, auditing or other professional relationship; or
+   (iii) enter, without prior written consent of the Commission staff, into any such
+   professional relationship with any of the Independent Consultant’s present or former
+   affiliates, employers, directors, officers, employees, or agents acting in their capacity as
+   such.
+
+h. Respondent shall not be in, and shall not have, an attorney-client relationship with the
+   Independent Consultant and shall not seek to invoke the attorney-client privilege or any
+
+
+
+                                          18
+           other doctrine of privilege to prevent the Independent Consultant from transmitting any
+           information, reports, or documents to the Commission.
+
+       i. The reports by the Independent Consultant will likely include confidential financial,
+          proprietary, competitive business, or commercial information. Public disclosure of the
+          reports could discourage cooperation, impede pending or potential government
+          investigations, or undermine the objectives of the reporting requirement. For these
+          reasons, among others, the reports and the contents thereof are intended to remain and
+          shall remain non-public, except (1) pursuant to court order, (2) as agreed to by the
+          parties in writing, (3) to the extent that the Commission determines in its sole discretion
+          that disclosure would be in furtherance of the Commission’s discharge of its duties and
+          responsibilities, or (4) as otherwise required by law.
+
+       j. Respondent shall certify, in writing, compliance with the undertaking(s) set forth
+          above. The certification shall identify the undertaking(s), provide written evidence of
+          compliance in the form of a narrative, and be supported by exhibits sufficient to
+          demonstrate compliance. The Commission staff may make reasonable requests for
+          further evidence of compliance, and Respondent agrees to provide such evidence. The
+          certification and supporting material shall be submitted to Pei Chung, Associate
+          Director, Division of Enforcement, Securities and Exchange Commission, 100 F St.,
+          NE, Washington, DC 20549, with a copy to the Office of Chief Counsel of the
+          Enforcement Division, 100 F St., NE, Washington, DC 20549, no later than sixty (60)
+          days from the date of the completion of the undertakings.
+
+       Respondent may apply to the Commission staff for an extension of the deadlines described
+       above before their expiration, and upon a showing of good cause by the Respondent, the
+       Commission staff may, in its sole discretion, grant such extensions for whatever time
+       period it deems appropriate.
+
+                                                IV.
+
+       In view of the foregoing, the Commission deems it appropriate and in the public interest to
+impose the sanctions agreed to in Respondent’s Offer.
+
+       Accordingly, it is hereby ORDERED that:
+
+        A.     Pursuant to Section 8A of the Securities Act and Section 21C of the Exchange Act,
+Respondent shall cease and desist from committing or causing any violations and future violations
+of Sections 17(a)(2) and (a)(3) of the Securities Act and Sections 13(a), 13(b)(2)(A) and 13(b)(2)(B)
+of the Exchange Act, and Rules 12b-20, 13a-1, 13a-11, 13a-13, and 13a-15 promulgated thereunder.
+
+       B.       Respondent shall, within 10 days of the entry of this Order, pay a civil money
+penalty in the amount of $175,000,000 to the Securities and Exchange Commission. If timely
+payment is not made, additional interest shall accrue pursuant to 31 U.S.C. § 3717.
+
+
+                                                 19
+Payment must be made in one of the following ways:
+
+       (1)     Respondent may transmit payment electronically to the Commission, which will
+               provide detailed ACH transfer/Fedwire instructions upon request;
+
+       (2)     Respondent may make direct payment from a bank account via Pay.gov through the
+               SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+       (3)     Respondent may pay by certified check, bank cashier’s check, or United States
+               postal money order, made payable to the Securities and Exchange Commission and
+               hand-delivered or mailed to:
+
+               Enterprise Services Center
+               Accounts Receivable Branch
+               HQ Bldg., Room 181, AMZ-341
+               6500 South MacArthur Boulevard
+               Oklahoma City, OK 73169
+
+         Payments by check or money order must be accompanied by a cover letter identifying BD
+as Respondent in these proceedings, and the file number of these proceedings; a copy of the cover
+letter and check or money order must be sent to Pei Chung, Associate Director, Division of
+Enforcement, Securities and Exchange Commission, 100 F St., NE, Washington, DC 20549.
+
+         C.      Pursuant to Section 308(a) of the Sarbanes-Oxley Act of 2002, a Fair Fund is created
+for the penalty referenced in paragraph B above. Amounts ordered to be paid as civil money
+penalties pursuant to this Order shall be treated as penalties paid to the government for all
+purposes, including all tax purposes. To preserve the deterrent effect of the civil penalty,
+Respondent agrees that in any Related Investor Action, it shall not argue that it is entitled to, nor
+shall it benefit by, offset or reduction of any award of compensatory damages by the amount of any
+part of Respondent’s payment of a civil penalty in this action (“Penalty Offset”). If the court in
+any Related Investor Action grants such a Penalty Offset, Respondent agrees that it shall, within 30
+days after entry of a final order granting the Penalty Offset, notify the Commission's counsel in this
+action and pay the amount of the Penalty Offset to the Securities and Exchange Commission. Such
+a payment shall not be deemed an additional civil penalty and shall not be deemed to change the
+amount of the civil penalty imposed in this proceeding. For purposes of this paragraph, a “Related
+Investor Action” means a private damages action brought against Respondent by or on behalf of
+one or more investors based on substantially the same facts as alleged in the Order instituted by the
+Commission in this proceeding.
+
+
+
+
+                                                 20
+D.   Respondent shall comply with the undertakings enumerated in paragraph 77 above.
+
+                                         By the Commission.
+
+
+                                         Vanessa A. Countryman
+                                         Secretary
+
+
+
+
+                                    21
+

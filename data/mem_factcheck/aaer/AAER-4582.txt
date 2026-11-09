@@ -1,0 +1,599 @@
+AAER-4582 | 2026-01-27 | Archer-Daniels-Midland Company, Vince Macciocchi, and Ray Young
+Source: https://www.sec.gov/files/litigation/admin/2026/33-11403.pdf
+
+                           UNITED STATES OF AMERICA
+                                    Before the
+                      SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES ACT OF 1933
+Release No. 11403 / January 27, 2026
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 104697 / January 27, 2026
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4582 / January 27, 2026
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-22588
+
+
+ In the Matter of                                    ORDER INSTITUTING CEASE-AND-
+                                                     DESIST PROCEEDINGS PURSUANT TO
+    ARCHER-DANIELS-                                  SECTION 8A OF THE SECURITIES ACT
+    MIDLAND COMPANY, VINCE                           OF 1933 AND SECTION 21C OF THE
+    MACCIOCCHI, AND RAY                              SECURITIES EXCHANGE ACT OF 1934,
+    YOUNG,                                           MAKING FINDINGS, AND IMPOSING A
+                                                     CEASE-AND-DESIST ORDER
+ Respondents.
+
+
+                                                I.
+
+        The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act
+of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 1934 (“Exchange
+Act”), against Archer-Daniels-Midland Company (“ADM”), Vince Macciocchi, and Ray Young
+(collectively, “Respondents”).
+
+                                                II.
+
+        In anticipation of the institution of these proceedings, Respondents have submitted Offers
+of Settlement (the “Offers”) that the Commission has determined to accept. Solely for the purpose
+of these proceedings and any other proceedings brought by or on behalf of the Commission, or to
+which the Commission is a party, and without admitting or denying the findings herein, except as
+to the Commission’s jurisdiction over them and the subject matter of these proceedings, which are
+admitted, and except as provided herein in Section V, Respondents consent to the entry of this
+Order Instituting Cease-and-Desist Proceedings Pursuant to Section 8A of the Securities Act of
+1933 and Section 21C of the Securities Exchange Act of 1934, Making Findings, and Imposing a
+Cease-and-Desist Order (“Order”), as set forth below.
+                                                       III.
+
+        On the basis of this Order and Respondents’ Offers, the Commission finds 1 that:
+
+                                                 SUMMARY
+
+      1.     This matter concerns accounting and disclosure fraud at Archer-Daniels-Midland
+Company that materially inflated the performance of a key business segment, “Nutrition,” which the
+company touted to investors as an important driver of the company’s overall growth.
+
+        2.      Vikram Luthar, former CFO of Nutrition and subsequently ADM, along with Vince
+Macciocchi, Nutrition’s former President, led a series of transactions that inflated Nutrition’s
+operating profit at the expense of ADM’s other segments. ADM’s former CFO Ray Young acted
+negligently in overseeing and approving certain transactions. Each officer played a role in certain
+improper adjustments to sales between ADM’s business segments that boosted Nutrition’s
+operating profit in 2019, 2021, and 2022 (the “relevant period”). As a result, ADM’s periodic
+reports filed with the Commission contained materially false and misleading statements concerning
+Nutrition’s financial condition and results of operations.
+
+        3.        On January 21, 2024, ADM announced an internal investigation regarding certain
+accounting practices and procedures in connection with the Nutrition segment, and that it had
+withdrawn Nutrition’s forward-looking outlook due to the ongoing investigation and placed Luthar
+on administrative leave. The next trading day, ADM’s stock price fell by 24 percent. In March
+2024 ADM corrected prior period errors, and in November restated its previously issued 2023
+Form 10-K and Forms 10-Q for the first and second quarters of 2024, in each instance to address
+errors in its historical segment reporting.
+
+                                              RESPONDENTS
+
+       4.      Archer-Daniels-Midland Company is a Delaware corporation with its principal
+executive offices in Chicago, Illinois. ADM’s common stock is registered with the Commission
+pursuant to Section 12(b) of the Exchange Act and trades on the New York Stock Exchange under
+the symbol ADM.
+
+      5.      Vince Macciocchi, 59, of Lake Mary, Florida, was President of Nutrition from
+March 2018 through December 2023.
+
+       6.      Ray Young, 64, of Chicago, Illinois, was ADM’s CFO from November 2010
+through early April 2022. In February 2022 Young was named Vice Chairman, and when Luthar
+became CFO in April 2022, Young remained at the company as Vice Chairman through December
+2022.
+
+1
+         The findings herein are made pursuant to Respondents’ Offers of Settlement and are not binding on any
+other person or entity in this or any other proceeding.
+
+                                                        2
+                                 OTHER RELEVANT PERSON
+
+        7.      Vikram Luthar, 57, of Chicago, Illinois, was Nutrition’s CFO from January 2020
+through April 2022. From April 2022 through January 2024, Luthar was ADM’s CFO and was a
+Senior Vice President from March 2015 through April 2024. Prior to his role as Nutrition’s CFO,
+Luthar held various other roles at ADM since 2004. In January 2024, ADM placed Luthar on
+administrative leave following the company’s internal investigation, and he later agreed to resign
+effective September 30, 2024.
+
+                                              FACTS
+
+        8.      ADM is one of the world’s largest agricultural, supply chain management, and food
+processing companies. Its operations are organized into three segments. ADM’s Nutrition
+segment serves various end markets, including ingredients and related products used in human
+foods and animal feeds. ADM’s Ag Services and Oilseeds (“AS&O”) and its Carbohydrate
+Solutions (“CarbSol”) segments are agricultural businesses involved in production, processing, and
+services related to agricultural commodities. ADM’s segments routinely transact with each other.
+For example, Nutrition regularly purchases commodities and other products from both AS&O and
+CarbSol for use in the manufacturing of its products.
+
+        9.       In accordance with Accounting Standards Codification Topic 280, Segment
+Reporting, ADM identified three reportable segments throughout the relevant period: AS&O,
+CarbSol, and Nutrition. From at least 2018 through the third quarter 2023, ADM included required
+disclosures in its financial statements concerning the revenues, operating profits, and assets of each
+reportable segment and noted that “[i]ntersegment sales have been recorded at amounts
+approximating market.”
+
+        10.     ADM’s accounting policy for intersegment transactions described and incorporated
+market concepts. Specifically, ADM’s policy required the application of arm’s length charges in
+intersegment transactions. ADM defined “arm’s length” as “a transaction in which [the parties] act
+independently as if they have no relationship to each other and treat the other as if they would a
+third party.” The definition further provided that the “concept of an arm’s length transaction is to
+ensure that both parties involved are acting in their own self-interest and not granting favorable
+conditions or terms to the other party simply because both entities are part of the enterprise’s
+worldwide group of companies.”
+
+        11.     ADM reported each segment’s operating profit in the notes to its financial
+statements and reported each segment’s operating profit growth in the management discussion and
+analysis section of its periodic filings. In addition, ADM regularly discussed Nutrition’s operating
+profit and growth in earnings calls and other investor communications.
+
+       12.     Beginning in 2014, ADM began making significant investments in businesses that
+process commodities into ingredients for consumer products, which generally trade at higher
+earnings multiples than mature commodity-based companies. In 2018, ADM reorganized these
+
+                                                  3
+businesses to form a new Nutrition segment. Although Nutrition remained its smallest business
+segment, ADM described it to investors as an important driver of the company’s growth strategy
+throughout the relevant period. From January 2020 to July 2022, ADM repeatedly told investors
+that its Nutrition segment was poised to provide 15 to 20 percent annual growth in operating profit.
+
+        13.    Investment analysts responded positively to ADM’s emphasis on Nutrition’s
+growth and profitability, regularly citing its importance in equity research. For example, a January
+2021 analyst report stated, “the introduction of upbeat 2021 commentary around Nutrition growth
+should continue the drive towards a more balanced portfolio with less volatile earnings and cash
+flows, deserving of a higher multiple, in our view.”
+
+        14.     To incentivize its management, certain ADM compensation plans were tied, in part,
+to Nutrition’s performance. Nutrition’s operating profit growth targets were metrics in ADM’s
+2020 and 2021 cash bonus and equity long-term incentive plans for all eligible ADM employees,
+including Luthar, Macciocchi, and Young.
+
+               The Fraudulent Adjustments to Improve Nutrition’s Performance
+
+         15.     Even as management publicly promoted Nutrition’s strong overall performance and
+growth prospects, Nutrition repeatedly struggled to meet expectations. To achieve ADM’s growth
+forecasts for Nutrition, Young instructed employees in certain instances and Luthar and
+Macciocchi led in certain instances — and Young negligently approved — a series of adjustments
+to intersegment transactions that improved Nutrition’s operating profit to the detriment of AS&O’s
+and CarbSol’s operating profits. Each of those officers was involved in either identifying,
+structuring, or approving intersegment transactions that were not recorded at amounts
+approximating market.
+
+        16.     Over the relevant period, the adjustments varied in form, but the pattern was
+consistent. Though their individual involvement shifted from year to year as described below,
+when Luthar, Macciocchi, and Young recognized that Nutrition was in danger of falling short of its
+operating profit forecast in a given reporting period, they pressured employees across the three
+segments to find adjustments that would inflate Nutrition’s reported operating profit.
+
+        17.     Luthar and Macciocchi oversaw efforts to identify and effectuate adjustments to
+intersegment sales targeted to specific dollar amounts to hit operating profit growth goals, or in
+certain instances, to mask or minimize a shortfall. These adjustments rendered the disclosure in
+ADM’s filings false as they resulted in intersegment transactions being recorded on terms that did
+not approximate market.
+
+       18.     Young acted negligently in approving certain of the improper transactions.
+
+       19.     As a result, ADM overstated Nutrition’s operating profit as reported in its Forms
+10-K for 2019, 2021, and 2022 and its Forms 10-Q for the third quarter of 2019 and all quarters in
+2021. Importantly, the adjustments resulted in ADM overstating the year-over-year operating
+
+
+                                                 4
+profit growth of Nutrition. In 2021, without the adjustment, Nutrition would have missed its
+forecasted 20 percent growth target in operating profit for the fiscal year.
+
+        20.      Throughout the relevant period, ADM offered and sold securities through
+registration statements that incorporated its misstated SEC filings for 2019, 2021 and 2022.
+Additionally, ADM obtained money when it sold notes on several occasions between March 2020
+and March 2023. Macciocchi obtained money by selling ADM shares between February 2022 and
+February 2023. Young obtained money by selling ADM shares between February 2020 and
+February 2022.
+
+                                  The Fiscal Year 2019 Adjustment
+
+        21.     Over the course of 2019, Nutrition’s performance fluctuated. Despite
+characterizing Nutrition’s performance as strong on earnings calls, Young expressed concerns
+internally that Nutrition would not meet its forecast. For example, in a March 2019 email to an
+ADM executive, Young acknowledged Nutrition’s first quarter performance was “very
+disappointing,” and also reported that he underscored to a Nutrition executive that “it is of utmost
+imperative that we deliver >$500m [operating profit] this year for Nutrition.”
+
+        22.     In September 2019, Young sought ways to shift operating profit to Nutrition. He
+requested certain intersegment transactions to be “reviewed” and raised the prospect of increasing
+Nutrition’s profitability through intersegment transactions with ADM executives and finance
+employees. Subsequently, Young wrote to a CarbSol senior finance employee, “I am still looking
+for the $5m from [CarbSol] to [Nutrition] for [current year]. . . . I did not want to talk about this in
+this meeting.” In response to this request, the CarbSol senior finance employee proposed
+adjustments totaling approximately $5 million to intersegment transactions and included various
+rationalizations for the adjustments that were not supported by any agreement and would not have
+been provided to a third party.
+
+        23.    Young instructed the CarbSol senior finance employee to document the transaction
+carefully. Once the adjustment was approved, other senior CarbSol executives exchanged
+messages about Nutrition owing them “golf, a steak dinner and bottle of caymus” for shifting
+nearly $5 million to Nutrition. ADM ultimately recorded a $4.7 million adjustment that decreased
+CarbSol’s operating profit and increased Nutrition’s operating profit.
+
+        24.    Young should have known that the adjustment resulted in intersegment transactions
+being recorded at amounts that did not approximate market. Young should have taken steps to
+determine whether the adjustment conformed with ADM’s disclosures regarding intersegment
+transactions. Contrary to those disclosures, the justifications for the adjustment included various
+product rebates not contemplated in the original sales agreement. Moreover, ADM employees
+provided no support that such rebates would be done with a third party transacting on market
+terms. Finally, the rebates resulted in CarbSol selling one of its products to Nutrition for amounts
+below cost.
+
+
+
+                                                    5
+        25.     On a January 2020 earnings call announcing the full year results, Young affirmed
+Nutrition’s “substantially higher year-over-year” performance and annual 23 percent growth in
+operating profit, stating “2019 was an impressive year of growth for Nutrition.” This statement
+was misleading because Young negligently omitted any reference to the adjustment or its impact.
+
+       26.      Following the internal investigation, ADM concluded this adjustment was improper
+because it resulted in intersegment transactions that were not recorded at amounts approximating
+market
+
+                                The Fiscal Year 2021 Adjustment
+
+        27.     Nutrition routinely purchased an agricultural product called “white flake” from
+AS&O for use in products sold to external customers. In the fourth quarter of 2020, Luthar and
+Macciocchi learned of a substantial and unexpected increase in the price of the commodity used to
+make white flake that would negatively affect Nutrition’s 2021 operating margins. Rather than
+revise Nutrition’s growth forecast downward as certain ADM executives suggested, Luthar and
+Macciocchi devised, and Young ultimately approved, a plan to reprice historic transactions with
+AS&O to improve Nutrition’s operating profit.
+
+        28.      Luthar, Macciocchi, and other Nutrition personnel worked with AS&O executives
+to document support for an adjustment to intersegment transactions. A Nutrition executive
+characterized the adjustment as a “$5M-$8M [operating profit] transfer” to “help ADM’s
+performance and financial health to our investors.” As these discussions began, Macciocchi
+informed Luthar, “[AS&O executive] is willing to work with us on white flake too. We spoke
+privately last night and [AS&O executive] is severely motivated by [the Performance Incentive
+Plan] and [Performance Share Units] to help us.”
+
+        29.      ADM executives, led by Luthar, initially sought support for the adjustment as a
+“volume discount.” However, some ADM executives expressed concern about the support for
+such a volume discount and suggested an alternative adjustment that would be recorded over time,
+rather than all in 2021. Ultimately, Luthar rejected proposals that did not enable Nutrition to meet
+its operating profit growth target for 2021.
+
+        30.     After further meetings between Nutrition and AS&O executives, including Luthar
+and Macciocchi, the two segments agreed to a series of quarterly adjustments that would lower the
+white flake price sufficient to meet the Nutrition forecast. Luthar informed Macciocchi that he had
+discussed the issue with Young and assured Young that Nutrition was doing everything it could to
+meet its targets. In response, Macciocchi asked if Young was satisfied with the update to which
+Luthar stated, “I think so but obviously pressure is on us to deliver.”
+
+        31.     Macciocchi and Luthar expressed concern regarding the appearance of the
+adjustment and sought to recharacterize it. In March 2021, as the agreement was being finalized,
+Macciocchi wrote to Luthar, “I don’t like calling the white flake profit share a rebate. Sounds like
+AS&O is giving us a gift.” Luthar responded that he was calling it “risk sharing,” and Macciocchi
+indicated he also preferred that description.
+
+                                                 6
+      32.     Ultimately, Luthar and Macciocchi directed, and Young negligently approved, the
+improper adjustment that provided Nutrition with a $20.7 million rebate in 2021.
+
+         33.    The adjustment was improper because it resulted in intersegment transactions being
+recorded on terms that did not approximate market as it had disclosed. There were no terms for
+such an adjustment in the original sales contracts between AS&O and Nutrition. In documenting
+the adjustment, ADM provided no evidence that similar adjustments would be done with third
+parties transacting on market terms.
+
+       34.    Without this adjustment, Nutrition would not have met its 2021 operating profit
+growth goal, which ADM raised to 20 percent from 15 percent in July 2021. On earnings calls,
+Young reported Nutrition’s 2021 results, but negligently failed to disclose the adjustment or its
+impact on Nutrition’s results.
+
+        35.     The 2021 adjustment resulted in Nutrition’s operating profit growth reported in its
+Forms 10-Q for the first, second, and third quarters of 2021 being overstated by 6 percent, 4
+percent, and 3 percent, respectively. Notably, Nutrition’s annual operating profit growth without
+the adjustment would have been 17 percent rather than the 20 percent operating profit growth
+reported in the company’s 2021 Form 10-K and touted on a January 2022 earnings call for fiscal
+year 2021.
+
+        36.    Following the internal investigation, ADM concluded this adjustment resulted in
+intersegment transactions that were not recorded at amounts approximating market.
+
+                                 The Fiscal Year 2022 Adjustments
+
+        37.     In April and July 2022, Luthar continued to publicize Nutrition’s expected
+operating profit growth, projecting an annual increase of 15 to 20 percent. However, beginning
+that May, Nutrition experienced global pricing pressure and operational issues that threatened that
+projection. In July 2022, a Nutrition senior finance employee notified Macciocchi that Nutrition’s
+operating profit for the second quarter was less than initially reported internally, predicted that part
+of the business “may deteriorate further,” and suggested that the maximum growth rate for the year
+would be “‘around’ 20%.” Macciocchi responded, “[w]e need to stop the bleeding, this is a
+disaster.” In August 2022, Nutrition internally lowered its internal operating profit forecast. In
+October, Macciocchi understood that Nutrition’s operating profit was projected at $770 million,
+$20 million short of the amount needed to reach the lower bound of the growth target. Internal
+forecasts continued to trend lower in 2022, and by December 2022, Nutrition’s internal forecasted
+operating profit had fallen to $735 million.
+
+        38.     To address the projected operating profit shortfall, in August, Luthar directed ADM
+finance employees to identify $10 to $20 million in adjustments to benefit Nutrition. In October,
+an AS&O executive relayed a message to Macciocchi that, given ADM had already surpassed
+fourth quarter guidance, “nobody cares anymore about Q4, but they will be watching Nutrition Q4
+numbers, so that is our corporate priority, we all need to help Nutrition deliver 15-20% OP
+
+                                                   7
+growth.” On the same day, Young emailed other ADM executives relaying that an ADM
+executive had stressed the importance of Nutrition meeting its growth targets and, given ADM had
+already surpassed fourth quarter guidance, had asked for “focus to help Nutrition perform in Q4.
+Not concerned about overall ADM for Q4.” The pressure on Nutrition intensified in November
+when ADM identified an inventory error that reduced Nutrition’s operating profit by an additional
+$21 million.
+
+        39.     From August through December 2022, Nutrition once again worked with AS&O
+and CarbSol to identify adjustments that would benefit Nutrition’s reported results. Luthar and
+Macciocchi pressured ADM employees to find adjustments that would increase Nutrition’s 2022
+operating profit. Macciocchi was informed in August 2022 that AS&O agreed to transfer $10
+million in operating profit to Nutrition, but an ADM executive would need to approve it because
+$7 million constituted a retroactive adjustment. Macciocchi responded, “I’m guessing [ADM
+executive] will not approve the retro adjustments.”
+
+        40.      In an August exchange with a Nutrition executive, Macciocchi wrote that AS&O
+executives were “running around saying we are begging for money” and noted that “[t]hey get paid
+per Nutrition performance.” In other messages, Macciocchi recounted that an AS&O executive
+took him aside “to officially inform [him] that the charitable bank is closed.” Even after this
+exchange, Macciocchi conveyed to the AS&O and CarbSol executives that Luthar was “really
+pushing” Nutrition to go back to AS&O and CarbSol to “find some relief.” Macciocchi relayed
+that he pushed back against further adjustments, writing, “I told [Luthar and an ADM executive]
+absolutely NOT and we simply need to wear our numbers. In good conscience, you guys
+[referring to the AS&O and Carb Sol executives] have both already done too much for us.”
+
+        41.      Ultimately, ADM made adjustments that shifted operating profit to Nutrition in two
+ways. The first adjustment was to fertilizer sales already recognized between Nutrition and
+CarbSol. As the sales had already occurred, the adjustment applied retroactively. After initially
+rejecting a retroactive adjustment, an ADM executive ultimately approved an adjustment
+structured as a $2.5 million rebate from CarbSol to Nutrition.
+
+         42.    The second adjustment was to sales between Nutrition and AS&O. In August
+2022, the two segments began negotiating standardized prices for prospective sales of white flake.
+Nutrition executives, with the agreement of AS&O executives and an ADM executive, adjusted
+sales transactions already recognized in 2022 to retroactively apply certain beneficial pricing terms
+that were not finalized until 2023. The adjustment ultimately increased Nutrition’s reported
+operating profit for 2022 by $6.6 million for sales occurring in the first and second quarters of the
+fiscal year, before the price negotiation began.
+
+         43.    Both adjustments were made retroactive to boost Nutrition’s performance. Neither
+was made on market terms. When entered, the sales agreements did not contemplate these
+adjustments. ADM provided no evidence that similar adjustments would be consistent with third
+parties transacting on market terms, but rather were enacted to arrive at a pre-determined financial
+objective consistent with achieving Nutrition’s operating profit goals.
+
+
+                                                  8
+        44.    On ADM’s January 2023 earnings call for fiscal year 2022, Luthar stated that “the
+Nutrition business continued its strong growth trajectory in 2022.” Luthar acknowledged results
+were down from the prior year quarter but did not disclose the fraudulent adjustments from AS&O
+and CarbSol to Nutrition or their impact on Nutrition’s results.
+
+        45.     The 2022 adjustments resulted in Nutrition’s operating profit for the fourth quarter
+of 2022 to be overstated by 7 percent as reported in the company’s January 26, 2023 Form 8-K
+announcing fourth quarter and annual results. Furthermore, Nutrition’s annual operating profit
+growth for the full year without the adjustment would have been 5 percent rather than the 7 percent
+operating profit growth reported in the company’s Form 10-K for the period ended December 31,
+2022.
+
+        46.    Following the internal investigation, ADM concluded these adjustments resulted in
+intersegment transactions that were not recorded at amounts approximating market.
+
+                                           VIOLATIONS
+
+        47.     As a result of the conduct described above, ADM violated Securities Act Section
+17(a), which prohibits any person from, in the offer or sale of any securities, employing “any
+device, scheme, or artifice to defraud,” or obtaining money or property by means of any materially
+false or misleading statements, or engaging in any “transaction, practice, or course of business
+which operates or would operate as a fraud or deceit upon the purchaser.”
+
+        48.     As a result of the conduct described above, ADM violated Exchange Act Section
+10(b) and Rule 10b-5 thereunder, which prohibit any person from, in connection with the purchase
+or sale of any security, employing “any device, scheme, or artifice to defraud,” or the making of
+any untrue statement of material fact or the omission of a material fact necessary in order to make
+the statements made not misleading, or engaging in any “act, practice, or course of business which
+operates or would operate as a fraud or deceit upon any person.”
+
+        49.      As a result of the conduct described above, ADM violated Exchange Act Section
+13(a) and Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder, which require issuers with a class
+of securities registered pursuant to Section 12 to file annual, current, and quarterly reports with the
+Commission in accordance with such rules and regulations as the Commission may prescribe, and
+mandate that those reports contain such further material information as may be necessary to make
+the required statements made in the report not misleading.
+
+        50.    As a result of the conduct described above, ADM violated Exchange Act Section
+13(b)(2)(A), which requires issuers with securities registered pursuant to Section 12 to “make and
+keep books, records, and accounts, which, in reasonable detail, accurately and fairly reflect the
+transactions and dispositions of the assets of the issuer.”
+
+       51.    As a result of the conduct described above, ADM violated Exchange Act Section
+13(b)(2)(B), which, among other things, requires issuers to devise and maintain a system of
+
+
+                                                   9
+internal accounting controls sufficient to provide reasonable assurances that transactions are
+recorded as necessary to permit preparation of financial statements in conformity with GAAP.
+
+       52.     As a result of the conduct described above, Macciocchi violated Securities Act
+Section 17(a) and Exchange Act Section 10(b) and Rules 10b-5(a) and (c) thereunder, and caused
+ADM’s violations of Exchange Act Sections 10(b), 13(a), 13(b)(2)(A), and 13(b)(2)(B) and Rules
+10b-5(b), 12b-20, 13a-1, 13a-11, and 13a-13 thereunder.
+
+       53.     As a result of the conduct described above, Young violated Securities Act Section
+17(a)(2) and (3) and caused ADM’s violations of Exchange Act Sections 13(a), 13(b)(2)(A), and
+13(b)(2)(B) and Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder.
+
+        54.     The disgorgement and prejudgment interest ordered in paragraphs IV.F. and IV.G.
+is consistent with equitable principles and does not exceed Respondents Macciocchi’s or
+Young’s net profits from their respective violations and will be distributed to harmed investors to
+the extent feasible. The Commission will hold funds paid pursuant to paragraphs IV.F. and
+IV.G. in an account at the United States Treasury pending distribution. Upon approval of the
+distribution final accounting by the Commission, any amounts remaining that are infeasible to
+return to investors, and any amounts returned to the Commission in the future that are infeasible
+to return to investors, may be transferred to the general fund of the U.S. Treasury, subject to
+Section 21F(g)(3) of the Exchange Act.
+
+                   ADM’s COOPERATION AND REMEDIAL EFFORTS
+
+        55.    After learning of potential misconduct, ADM acted to ensure that outside counsel
+conducted an internal investigation under the direction and oversight of the Audit Committee of the
+Board of Directors. ADM voluntarily reported on its findings to Commission staff and provided
+relevant documents. Upon request, ADM also provided staff with detailed explanations and
+summaries of specific factual issues and provided staff with detailed financial analyses from an
+outside accounting expert.
+
+        56.    In determining to accept ADM’s Offer, the Commission considered ADM’s
+significant remedial measures, including implementing amended policies and procedures,
+improving the documentation of pricing guidelines for intersegment sales, implementing new
+internal accounting controls around intersegment transaction pricing, developing training on the
+new policies and controls, and testing the effectiveness of the new controls.
+
+                                       UNDERTAKINGS
+
+       Respondent ADM undertakes to:
+
+        57.    Cooperate fully with the Commission in any and all investigations, litigations, or
+other proceedings relating to or arising from the matters described in the Order. This includes:
+
+
+
+                                                10
+               a.      producing, without service of a notice or subpoena, any and all non-
+privileged documents and other information reasonably requested by the Commission’s staff, with
+a custodian declaration as to their authenticity, if requested;
+
+                 b.      using its best efforts to cause ADM’s current and former employees,
+officers, directors, and consultants to be interviewed by the Commission’s staff at such times and
+places as the staff reasonably may direct; and
+
+                 c.      using its best efforts to cause ADM’s current and former employees,
+officers, directors, and consultants to appear and testify without service of a notice or subpoena in
+such investigations, depositions, hearings, or trials as may be reasonably requested by the
+Commission’s staff.
+
+       In determining whether to accept Respondent ADM’s Offer, the Commission has
+considered these undertakings.
+
+                                                  IV.
+
+       In view of the foregoing, the Commission deems it appropriate and in the public interest to
+impose the sanctions agreed to in Respondents’ Offers.
+
+        Accordingly, it is hereby ORDERED that:
+
+        A.      ADM cease and desist from committing or causing any violations and any future
+violations of Section 17(a) of the Securities Act and Sections 10(b), 13(a), 13(b)(2)(A), and
+13(b)(2)(B) of the Exchange Act and Rules 10b-5, 12b-20, 13a-1, 13a-11, and 13a-13 thereunder.
+
+        B.      Macciocchi cease and desist from committing or causing any violations and any
+future violations of Section 17(a) of the Securities Act and Sections 10(b), 13(a), 13(b)(2)(A), and
+13(b)(2)(B) of the Exchange Act and Rules 10b-5, 12b-20, 13a-1, 13a-11, and 13a-13 thereunder.
+
+        C.      Young cease and desist from committing or causing any violations and any future
+violations of Sections 17(a)(2) and (3) of the Securities Act and Sections 13(a), 13(b)(2)(A), and
+13(b)(2)(B) of the Exchange Act and Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder.
+
+        D.      Macciocchi is prohibited for three (3) years from the date of this Order from acting
+as an officer or director of any issuer that has a class of securities registered pursuant to Section 12
+of the Exchange Act or that is required to file reports pursuant to Section 15(d) of the Exchange
+Act
+
+       E.      ADM shall, within 10 days of the entry of this Order, pay a civil money penalty in
+the amount of $40,000,000 to the Securities and Exchange Commission. If timely payment is not
+made, additional interest shall accrue pursuant to 31 U.S.C. § 3717.
+
+
+
+                                                   11
+        F.      Macciocchi shall, within 10 days of the entry of this Order, pay a civil money
+penalty in the amount of $125,000, disgorgement of $330,000, and prejudgment interest of
+$74,343 to the Securities and Exchange Commission. If timely payment of the civil money penalty
+is not made, additional interest shall accrue pursuant to 31 U.S.C. § 3717. If timely payment of
+disgorgement and prejudgment interest is not made, additional interest shall accrue pursuant to
+SEC Rule of Practice 600.
+
+        G.      Young shall, within 10 days of the entry of this Order, pay a civil money penalty in
+the amount of $75,000, disgorgement of $450,000, and prejudgment interest of $125,610 to the
+Securities and Exchange Commission. If timely payment of the civil money penalty is not made,
+additional interest shall accrue pursuant to 31 U.S.C. § 3717. If timely payment of disgorgement
+and prejudgment interest is not made, additional interest shall accrue pursuant to SEC Rule of
+Practice 600.
+
+       H.      Payment must be made in one of the following ways:
+
+               (1)     Respondents may transmit payment electronically to the Commission,
+                       which will provide detailed ACH transfer/Fedwire instructions upon
+                       request;
+
+               (2)     Respondents may make direct payment from a bank account via Pay.gov
+                       through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+               (3)     Respondents may pay by certified check, bank cashier’s check, or United
+                       States postal money order, made payable to the Securities and Exchange
+                       Commission and hand-delivered or mailed to:
+
+                               Enterprise Services Center
+                               Accounts Receivable Branch
+                               HQ Bldg., Room 181, AMZ-341
+                               6500 South MacArthur Boulevard
+                               Oklahoma City, OK 73169
+
+                 Payments by check or money order must be accompanied by a cover letter
+identifying Respondents in these proceedings, and the file number of these proceedings; a copy of
+the cover letter and check or money order must be sent to Paul A. Montoya, Associate Director,
+Division of Enforcement, Securities and Exchange Commission, 175 West Jackson Blvd., Suite
+1450, Chicago, IL 60604.
+
+         I.      Pursuant to Section 308(a) of the Sarbanes-Oxley Act of 2002, a Fair Fund is created
+for the penalties, disgorgement, and prejudgment interest referenced in paragraphs E, F, and G
+above. The Fair Fund may be added to or combined with any other fair fund created in a related
+district court action or administrative proceeding arising out of the same violations. Amounts
+ordered to be paid as civil money penalties pursuant to this Order shall be treated as penalties paid
+to the government for all purposes, including all tax purposes. To preserve the deterrent effect of
+
+                                                 12
+the civil penalty, Respondents agree that in any Related Investor Action, they shall not argue that
+they are entitled to, nor shall they benefit by, offset or reduction of any award of compensatory
+damages by the amount of any part of Respondents’ payment of a civil penalty in this action
+(“Penalty Offset”). If the court in any Related Investor Action grants such a Penalty Offset,
+Respondents agree that they shall, within 30 days after entry of a final order granting the Penalty
+Offset, notify the Commission’s counsel in this action and pay the amount of the Penalty Offset to
+the Securities and Exchange Commission. Such a payment shall not be deemed an additional civil
+penalty and shall not be deemed to change the amount of the civil penalty imposed in this
+proceeding. For purposes of this paragraph, a “Related Investor Action” means a private damages
+action brought against Respondents by or on behalf of one or more investors based on substantially
+the same facts as alleged in the Order instituted by the Commission in this proceeding.
+
+                                                  V.
+
+        It is further Ordered that, solely for purposes of exceptions to discharge set forth in Section
+523 of the Bankruptcy Code, 11 U.S.C. § 523, the findings in this Order are true and admitted by
+Respondents Macciocchi and Young, and further, any debt for disgorgement, prejudgment interest,
+civil penalty or other amounts due by Respondents Macciocchi and Young under this Order or any
+other judgment, order, consent order, decree or settlement agreement entered in connection with
+this proceeding, is a debt for the violation by Respondents Macciocchi and Young of the federal
+securities laws or any regulation or order issued under such laws, as set forth in Section 523(a)(19)
+of the Bankruptcy Code, 11 U.S.C. § 523(a)(19).
+
+       By the Commission.
+
+
+
+                                                       Vanessa A. Countryman
+                                                       Secretary
+
+
+
+
+                                                  13
+

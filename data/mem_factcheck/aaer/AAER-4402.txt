@@ -1,0 +1,62 @@
+AAER-4402 | 2023-04-25 | SAExploration Holdings, Inc., et al.
+Source: https://www.sec.gov/enforcement-litigation/litigation-releases/lr-25700
+
+
+        More in this Section
+Enforcement & Litigation
+Litigation Releases
+Administrative Proceedings
+Administrative Law Judge Orders and Initial Decisions
+Trading Suspensions
+Distributions to Harmed Investors
+Receiverships
+Electronic Filings in Administrative Proceedings (eFAP)
+Rules of Practice
+Applications for Reentry
+Reports of Investigations
+Whistleblower Program
+Public Alert: Unregistered Soliciting Entities (PAUSE)
+SEC Action Lookup - Individuals (SALI)
+Enforcement Data Delivery Standards
+Small Businesses
+Appellate Briefs
+Amicus / Friend of the Court Briefs
+Enforcement & Litigation
+Litigation Releases
+Administrative Proceedings
+Administrative Law Judge Orders and Initial Decisions
+Trading Suspensions
+Distributions to Harmed Investors
+Receiverships
+Electronic Filings in Administrative Proceedings (eFAP)
+Rules of Practice
+Applications for Reentry
+Reports of Investigations
+Whistleblower Program
+Public Alert: Unregistered Soliciting Entities (PAUSE)
+SEC Action Lookup - Individuals (SALI)
+Enforcement Data Delivery Standards
+Small Businesses
+Appellate Briefs
+Amicus / Friend of the Court Briefs
+Home
+Enforcement and Litigation
+Litigation Releases
+              SAExploration Holdings, Inc., et al.
+        SAExploration Holdings, Inc., et al.
+U.S. SECURITIES AND EXCHANGE COMMISSION
+Litigation Release No. 25700 / April 25, 2023
+Accounting and Auditing Enforcement No. 4402 / April 25, 2023
+Securities and Exchange Commission v. SAExploration Holdings, Inc., et al.
+, No. 1:20-CV-08423 (S.D.N.Y. filed Oct. 8, 2020)
+SEC Obtains Final Judgment from Former Executive for His Role in $100 Million Accounting Fraud
+On April 21, 2023, the U.S. District Court for the Southern District of New York entered final judgment against Jeffrey Hastings for his role in a multi-year accounting fraud engaged in while he was CEO of Houston-based seismic data company SAExploration Holdings, Inc. (SAE). The SEC's amended complaint alleges that Hastings and three other former SAE executives falsely inflated the revenue of SAE by approximately $100 million and concealed their theft of millions of dollars from the company.
+According to the SEC's amended complaint, Hastings, along with his co-defendants, caused SAE to enter into a series of seismic data acquisition contracts totaling approximately $140 million with a purportedly unrelated Alaska-based company that was in fact controlled by Hastings and co-defendant Brent Whiteley. The amended complaint alleges that SAE improperly recorded approximately $100 million in revenue in light of the Alaskan company's inability to pay and the SAE executives' control of the company. As also alleged, Hastings and his co-defendants misappropriated $12 million from SAE and routed approximately half of those funds back to SAE to create the false impression that the related Alaskan company was actually paying SAE for seismic data, and then kept the remainder of the misappropriated funds for themselves.
+Without denying the SEC's allegations, Hastings consented to the entry of a final judgment permanently enjoining him from violating Section 17(a) of the Securities Act of 1933 and Sections 10(b), 13(a), 13(b)(2)(A), 13(b)(2)(B), and 13(b)(5) of the Securities Exchange Act of 1934, Rules 10b-5, 12b-20, 13a-1, 13a-11, 13a-13, 13b2-1, 13b2-2, and 13a-14 thereunder, and Section 304(a) of the Sarbanes-Oxley Act of 2002 ("SOX"). The final judgment also orders Hastings to pay $1,116,987.27 in disgorgement plus $194,835.52 in prejudgment interest, for a total of $1,311,822.79, which shall be deemed satisfied by the Order of Restitution entered against Hastings in the criminal case of United States v. Hastings, No. 1:20-cr-534-GHW-1 (S.D.N.Y.). Hastings was also ordered to reimburse SAE $1,206,626 pursuant to Section 304(a) of the SOX.
+On December 17, 2020, the U.S. District Court for the Southern District of New York entered a final
+consent judgment
+ against SAE.
+The SEC's ongoing litigation against other defendants is being conducted by Nick Margida, Peter Lallas and Yael Berger, and supervised by James Connor.
+Resources
+Final Judgment - Jeffrey A. Hastings
+Order - Lori Hastings

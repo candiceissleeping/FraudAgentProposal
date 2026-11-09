@@ -1,0 +1,495 @@
+AAER-4510 | 2024-06-20 | CPI Aerostructures, Inc.
+Source: https://www.sec.gov/files/litigation/admin/2024/34-100389.pdf
+
+                           UNITED STATES OF AMERICA
+                                    Before the
+                      SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 100389 / June 20, 2024
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4510 / June 20, 2024
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-21975
+
+                                                     ORDER INSTITUTING CEASE-AND-
+ In the Matter of                                    DESIST PROCEEDINGS PURSUANT
+                                                     TO SECTION 21C OF THE SECURITIES
+        CPI AEROSTRUCTURES,                          EXCHANGE ACT OF 1934, MAKING
+        INC.,                                        FINDINGS, AND IMPOSING A CEASE-
+                                                     AND-DESIST ORDER
+ Respondent.
+
+
+
+
+                                                I.
+
+       The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (“Exchange Act”), against CPI Aerostructures, Inc. (“CPI Aero” or
+“Respondent”).
+
+                                               II.
+
+        In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-And-Desist Order (“Order”), as set forth below.
+                                                  III.
+
+       On the basis of this Order and Respondent’s Offer, the Commission finds that:
+
+                                             Summary
+
+        1.      This matter involves financial reporting, accounting, internal accounting controls,
+and disclosure controls and procedures failures by CPI Aero, an aerospace structural products
+manufacturer. These failures led to multiple restatements of CPI Aero’s financial statements for
+fiscal periods between January 1, 2018 and December 31, 2022 concerning, among other things,
+reported revenue, inventory, loss reserves, and deferred tax asset and liability balances contained in
+the Income Taxes footnote. In addition, CPI Aero reported multiple material weaknesses in its
+internal control over financial reporting (“ICFR”) and failed to maintain effective disclosure
+controls and procedures (“DCP”) for the six consecutive annual reporting periods from 2018
+through 2023.
+
+       2.       As a result of this conduct, CPI Aero violated Sections 13(a), 13(b)(2)(A), and
+13(b)(2)(B) of the Exchange Act, and Rules 12b-20, 13a-1, 13a-11, 13a-13, and 13a-15(a)
+thereunder.
+
+                                            Respondent
+
+       3.       CPI Aerostructures, Inc. is a New York corporation headquartered in Edgewood,
+New York. CPI Aero is a manufacturer of structural assemblies, integrated systems, and kitted
+components for the domestic and international aerospace and defense markets. CPI Aero’s
+common stock is registered with the Commission pursuant to Section 12(b) of the Exchange Act.
+Respondent’s securities trade on the NYSE American exchange under the symbol “CVU.” At all
+relevant times, Respondent filed periodic reports with the Commission, including Forms 10-K and
+10-Q, pursuant to Section 13(a) of the Exchange Act and related rules thereunder.
+
+             CPI Aero’s Third Quarter 2018 Restatement and Material Weakness
+
+        4.       On February 8, 2019, CPI Aero filed a Form 8-K announcing that its prior quarterly
+report for the third quarter of 2018 should no longer be relied upon due to an error in the financial
+statements. Respondent stated that its review control procedures failed to identify, in a timely
+manner, the miscoding of an invoice in its records resulting in an overstatement of revenue. The
+financial statements as of and for the three and nine months ended September 30, 2018 were
+restated on February 27, 2019, resulting in a reduction of net income of approximately $742,000.
+As a result of this error, CPI Aero disclosed in its 2018 Form 10-K that ICFR and DCP were not
+effective and identified the miscoding error as a material weakness in ICFR.
+
+
+
+
+                                              2
+                                    CPI Aero’s 2018 and 2019 Restatements
+
+        5.      On February 14, 2020, CPI Aero filed a Form 8-K announcing that its prior annual
+report on Form 10-K for 2018 and quarterly reports on Form 10-Q for 2018 and 2019 should no
+longer be relied upon due to revenue recognition errors in the financial statements resulting from
+the misapplication of ASC Topic 606, and that management’s reports on the effectiveness of ICFR,
+press releases, and investor communications describing Respondent’s financial statements for such
+periods also should no longer be relied upon.
+
+        6.      Respondent recognizes revenues and profits for contracts with customers using
+the cost-to-cost percentage of completion method of accounting. Historically, for long-term
+programs, CPI Aero applied the cost-to-cost percentage of completion method at the program
+level, which considered the entire duration of expected production activity on a particular
+program. Respondent estimated its revenue recognition utilizing the life of the program,
+including unexercised and non-binding customer purchase options, to both measure progress and
+estimate profit margin. Management subsequently concluded that its life of the program
+accounting was not an appropriate application of ASC Topic 606.
+
+        7.     CPI Aero determined the performance obligation, rather than the life of the
+program, to be the appropriate unit of accounting for its long-term programs. Respondent
+considers only the costs incurred relative to the total expected costs of satisfying the performance
+obligations identified in the contract when measuring progress, and no longer includes
+unexercised and non-binding customer purchase options in its application of ASC Topic 606.
+
+         8.     On August 25, 2020, CPI Aero filed its 2019 Form 10-K, which included restated
+amounts for its previously filed 2018 Form 10-K. On this same date, CPI Aero filed amended
+quarterly reports on Form 10-Q/A for 2019, which included restated amounts for its previously
+filed quarterly reports for 2019 and 2018. The restatements corrected numerous accounting
+errors, including the following:
+
+     Balance Sheet
+                                         As of December 31                           As of September 30
+                                                          2018                                         2019
+                                    2018             (As Previously              2019             (As Previously
+                                (As Restated)          Reported)             (As Restated)          Reported)
+Contract Assets             $         17,588,866 $         113,333,491   $         14,487,015 $         121,458,084
+Total Current Assets        $         44,208,723 $         140,204,589   $         38,956,888 $         146,016,968
+Contract Liabilities        $          5,252,579 $           3,588,500   $          1,561,543 $           1,606,649
+Loss Reserve                $          3,663,558 $             216,606   $          2,895,045 $             216,606
+Total Current Liabilities   $         22,925,751 $          17,815,728   $         21,282,110 $          18,346,825
+Retained Earnings
+(Accumulated Deficit)       $        (74,596,536) $        22,760,215    $         (6,430,353) $       100,165,509
+
+
+
+
+                                                       3
+Statement of Operations
+                                             For the 3 Months Ended March 31
+
+                                                  2018                                2019
+                               2018          (As Previously        2019          (As Previously
+                           (As Restated)       Reported)       (As Restated)       Reported)
+
+Revenue                   $    14,989,951 $     18,191,623    $   21,988,384 $      25,583,531
+Net Income (Loss)         $    (1,442,907) $     1,256,765    $     (934,716) $      1,658,598
+
+                                             For the 3 Months Ended June 30
+
+                                             2018                                 2019
+                              2018      (As Previously            2019       (As Previously
+                          (As Restated)   Reported)           (As Restated)    Reported)
+Revenue                   $ 17,175,679 $ 20,261,239           $ 20,101,713 $ 23,158,251
+Net Income (Loss)         $ (1,884,106) $    1,257,225        $    (881,167) $    2,710,457
+
+                                           For the 3 Months Ended September 30
+
+                                             2018                                2019
+                              2018      (As Previously            2019      (As Previously
+                          (As Restated)   Reported)           (As Restated)   Reported)
+Revenue                   $ 15,842,610 $ 19,017,301           $ 22,689,762 $ 25,711,153
+Net Income (Loss)         $ (2,524,326) $      585,896        $ (1,255,051) $    1,666,913
+
+
+                          For the Year Ended December 31
+
+                                             2018
+                              2018      (As Previously
+                          (As Restated)   Reported)
+Revenue                   $ 70,366,016 $ 83,929,270
+Net Income (Loss)         $ (7,546,753) $    2,211,563
+
+        9.    The misstated financial statement amounts were also included in several current
+reports on Form 8-K, including those filed on March 22, 2018, August 8, 2018, November 8,
+2018, March 13, 2019, May 10, 2019, August 7, 2019, and November 6, 2019.
+
+                              CPI Aero’s 2018 and 2019 Material Weaknesses
+
+       10.   CPI Aero disclosed in its 2019 Form 10-K that ICFR and DCP were not effective
+as of December 31, 2019 or December 31, 2018. Respondent identified several material
+
+                                                4
+weaknesses in ICFR relating to the control environment, risk assessment, control activities and
+monitoring, revenue recognition, accounting for significant non-routine complex transactions,
+and information technology general controls. Specific material weaknesses included, among
+other things, failure to hire and retain personnel with an appropriate level of knowledge and
+experience in certain areas of financial accounting, lack of technical proficiency and training of
+management to provide adequate oversight of accounting and financial reporting in the
+implementation of certain accounting practices, and insufficiently documented and detailed
+accounting policies and procedures.
+
+                            CPI Aero’s 2019 and 2020 Restatements
+
+        11.    On June 7, 2021, CPI Aero filed a Form 8-K announcing that its prior annual report
+on Form 10-K for 2020 and quarterly reports on Form 10-Q for 2020 should no longer be relied
+upon due to inventory costing and related internal accounting controls errors, and that
+management’s reports on the effectiveness of ICFR, press releases, and investor communications
+describing Respondent’s financial statements for such periods also should no longer be relied upon.
+
+        12.     On November 17, 2021, CPI Aero filed a Form 8-K announcing that its prior
+annual report on Form 10-K for 2019 should no longer be relied upon due to additional accounting
+impacts resulting from correcting the inventory costing errors, and that management’s reports on
+the effectiveness of ICFR, press releases, and investor communications describing Respondent’s
+financial statements for such periods also should no longer be relied upon. Specifically, CPI Aero
+anticipated previously reported reserves would be insufficient upon the correction of the inventory
+costing errors.
+
+         13.     CPI Aero’s inventory cost accounting errors resulted from software processing and
+coding errors when a December 2018 acquisition was integrated into CPI Aero’s software system.
+These accounting errors impacted CPI Aero’s product lines for which revenue is recognized when
+a product ships to customers, which represented approximately 15% of total 2020 revenue.
+Accounting errors included, among other things, inconsistent units of measure being used for
+quantities ordered and quantities received of certain purchased parts, incorrect accrual of inventory
+received but awaiting quality inspection, the double counting of labor attributable to inventory, and
+the failure to record over or under absorbed overhead costs at the end of accounting periods.
+
+        14.     The correction of the inventory cost accounting errors resulted in the determination
+that certain contracts previously believed to be in a profitable position were actually in a loss
+position and required the recording of additional allowance for losses. Certain other inventory
+items also required additional allowances. Respondent re-evaluated the sufficiency of its
+provisions for loss contracts and inventory reserves that it had previously recorded and concluded
+that increases to these reserves were required. It was further determined that the correction of these
+errors began with the fourth quarter of 2019.
+
+
+
+
+                                              5
+         15.    On November 24, 2021, CPI Aero filed its amended 2020 Form 10-K/A and
+included corrected balances for each quarter. The restatements corrected numerous accounting
+errors, including the following:
+
+
+     Balance Sheet
+                                         As of December 31                              As of December 31
+                                                          2019                                           2020
+                                    2019             (As Previously                2020             (As Previously
+                                (As Restated)          Reported)               (As Restated)          Reported)
+Inventory                   $          4,906,253 $           5,891,386     $          6,386,288 $           9,567,921
+Total Current Assets        $         33,846,323 $          34,831,456     $         37,687,226 $          40,868,859
+Loss Reserve                $          3,965,913 $           2,650,963     $          2,009,247 $             800,971
+Total Current Liabilities   $         22,294,687 $          20,979,737     $         30,012,252 $          28,559,487
+Retained Earnings
+(Accumulated Deficit)       $        (81,346,771) $         (79,046,688)   $        (85,001,254) $        (80,367,126)
+
+Statement of Operations
+                                                         For the Year Ended December 31
+                                                           2019                                           2020
+                                    2019              (As Previously              2020               (As Previously
+                                (As Restated)           Reported)             (As Restated)            Reported)
+
+Cost of Sales               $         80,687,080 $          78,386,997     $         77,824,732 $          75,490,503
+Net Income (Loss)           $         (6,750,235) $         (4,450,152)    $         (3,654,753) $         (1,320,438)
+
+In addition, net loss for the three months ended March 31, 2020 and June 30, 2020 increased by
+approximately $545,000 and $764,000, respectively; and net income for the three months ended
+September 30, 2020 increased by approximately $24,000.
+
+        16.   The misstated financial statement amounts were also included in several current
+reports on Form 8-K including those filed on August 25, 2020, September 30, 2020, November
+12, 2020, December 31, 2020, and April 16, 2021.
+
+                                CPI Aero’s 2019 and 2020 Material Weaknesses
+
+         17.    Prior to the restatements, CPI Aero’s 2020 Form 10-K filed on April 15, 2021
+disclosed material weaknesses related to the control environment, risk assessment, and control
+activities and monitoring that resulted in ineffective ICFR. The 2020 Form 10-K also disclosed
+that DCP were not effective as of December 31, 2020. Specifically, the material weaknesses
+related to cut-off procedures and the preparation and review of financial statement disclosures, as
+well as insufficiently documented policies and detailed procedures.
+
+        18.    In its 2020 Form 10-K/A filed on November 24, 2021, CPI Aero disclosed several
+additional material weaknesses in ICFR related to the control environment, risk assessment, control
+
+
+                                                        6
+activities and monitoring, and accounting for inventory and the related IT environment.
+Specifically, the material weaknesses included, among other things:
+
+               a. insufficiently documented accounting policies;
+
+               b. insufficiently designed and implemented controls related to cut-off
+                  procedures for in-transit inventory items;
+
+               c. insufficiently designed and implemented controls related to the
+                  establishment, monitoring, and review of loss contracts and excess and
+                  obsolete inventory reserves;
+
+               d. insufficient controls related to financial statement preparation and
+                  disclosures; and
+
+               e. insufficient controls related to accounting for inventory costing, including
+                  the double counting of labor and overhead, inconsistent use of units of measure,
+                  and inappropriate accounting for under or over absorbed overhead.
+
+   CPI Aero Continued to Report Material Weaknesses in ICFR and Ineffective DCP For
+                                    Several Years
+
+        19.     CPI Aero disclosed in its 2021 Form 10-K that ICFR was not effective due to
+material weaknesses related to the insufficient design and implementation of internal controls
+related to monitoring and review of inventory costing to ensure proper valuation and
+appropriately stated inventory costs and the preparation and review of financial statement
+disclosures to ensure the completeness and accuracy of required disclosures. CPI Aero also
+disclosed in its 2021 Form 10-K that DCP were not effective.
+
+        20.     CPI Aero disclosed in its 2022 Form 10-K that ICFR was not effective.
+Respondent reported material weaknesses related to the processing and accrual of vendor
+invoices, the reconciliation of accounts receivable and contract assets, and the documentation
+with respect to its internal controls over inventory. CPI Aero also disclosed that DCP were not
+effective.
+
+        21.     CPI Aero disclosed in its second quarter 2023 Form 10-Q that ICFR continued to
+be ineffective due to a material weakness related to the accounting for the quarterly accrual of
+goods in transit, including the effects on revenue and cost of sales. CPI Aero also disclosed that
+DCP were not effective. CPI Aero disclosed in its third quarter 2023 Form 10-Q that ICFR and
+DCP continued to be ineffective.
+
+             CPI Aero’s 2022 Footnote Restatement and 2023 Material Weakness
+
+        22.   On April 3, 2024, CPI Aero filed a Form 8-K announcing that its prior annual
+report on Form 10-K for 2022 should no longer be relied upon due to errors within the Income
+
+                                             7
+Taxes footnote to the financial statements, and that management’s report on the effectiveness of
+ICFR for the same period also should no longer be relied upon. Respondent disclosed that the
+deferred tax asset and deferred tax liability balances reported in the footnote were each overstated
+by approximately $2.6 million due to computational errors and incomplete analyses of temporary
+differences between book and taxable income.
+
+       23.      There was no impact on the balance sheet or income statement because the net
+deferred tax asset reported on the Respondent’s balance sheet did not change. Respondent’s net
+deferred tax asset consists primarily of net operating loss carryforwards large enough to absorb the
+other miscalculated timing differences.
+
+        24.      On April 8, 2024, CPI Aero filed its 2023 Form 10-K and included corrected
+balances in the Income Taxes footnote for 2022. CPI Aero disclosed that this error resulted from
+the inadequate review, assessment, and reporting of the deferred tax asset and deferred tax liability
+balances and represented a material weakness in ICFR. The material weakness resulted in
+ineffective ICFR and DCP for the year ended December 31, 2023.
+
+                                             Violations
+
+        25.     As a result of the conduct described above, CPI Aero violated Section 13(a) of the
+Exchange Act and Rules 12b-20, 13a-1, 13-11, and 13a-13 thereunder, which require every issuer
+of a security registered pursuant to Section 12 of the Exchange Act file with the Commission
+information, documents, and annual, current, and quarterly reports as the Commission may
+require and mandate that such reports contain such further material information as may be
+necessary to make the required statements not misleading.
+
+         26.     As a result of the conduct described above, CPI Aero violated Section 13(b)(2)(A)
+of the Exchange Act, which requires reporting companies to make and keep books, records, and
+accounts which, in reasonable detail, accurately and fairly reflect their transactions and dispositions
+of their assets.
+
+        27.    As a result of the conduct described above, CPI Aero violated Section 13(b)(2)(B)
+of the Exchange Act, which requires all reporting companies to devise and maintain a system of
+internal accounting controls sufficient to provide reasonable assurances that transactions are
+recorded as necessary to permit preparation of financial statements in accordance with generally
+accepted accounting principles.
+
+       28.    Finally, as a result of the conduct described above, CPI Aero violated Exchange
+Act Rule 13a-15(a), which requires every issuer of a security registered pursuant to Section 12 of
+the Exchange Act to maintain ICFR and DCP.
+
+
+
+
+                                              8
+                                  CPI Aero’s Remedial Efforts
+
+        29.      In determining to accept the Offer, the Commission considered remedial acts
+promptly undertaken by Respondent and cooperation afforded the Commission staff.
+Specifically, CPI Aero implemented the following remedial measures: (i) as material
+weaknesses were identified, CPI Aero implemented corrective action to address the miscoded
+invoice error; reviewed, updated, and implemented its revenue recognition policies and procedures
+in accordance with ASC Topic 606; revised its Sarbanes-Oxley compliance program; and
+implemented various policies and procedures to address the inventory costing and allowance for
+losses errors; (ii) CPI Aero retained new personnel with expanded expertise in financial reporting,
+including a new Chief Financial Officer and Controller; and (iii) CPI Aero’s Audit and Finance
+Committee hired a consultant to assist CPI Aero with identifying, documenting, and testing
+internal controls, including an assessment of internal control effectiveness, as well as working with
+management to identify and rate any deficiencies noted.
+
+                                           Undertakings
+
+       30.     Respondent has undertaken to:
+
+               a.      Fully remediate its outstanding material weaknesses in ICFR and have
+                       effective ICFR and DCP by December 31, 2024.
+
+               b.      Publicly disclose, concurrent with the filing of the 2024 Form 10-K,
+                       whether in management’s opinion, CPI Aero has fully remediated its
+                       material weaknesses in ICFR and has effective ICFR and DCP.
+
+               c.      CPI Aero shall certify, in writing, compliance with the undertaking(s) set
+                       forth above. The certification shall be made by CPI Aero’s CEO and
+                       identify the undertaking(s), provide written evidence of compliance in the
+                       form of a narrative, and be supported by exhibits sufficient to demonstrate
+                       compliance. The Commission staff may make reasonable requests for
+                       further evidence of compliance, and Respondent agrees to provide such
+                       evidence. The certification and supporting material shall be submitted to
+                       Paul Pashkoff, Assistant Director, with a copy to the Office of Chief
+                       Counsel of the Enforcement Division, no later than sixty (60) days from
+                       the date of the completion of the undertakings.
+
+                                                  IV.
+
+        In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondent CPI Aero’s Offer.
+
+       Accordingly, it is hereby ORDERED that:
+
+
+
+                                              9
+         A.    Pursuant to Section 21C of the Exchange Act, Respondent CPI Aero cease and
+desist from committing or causing any violations and any future violations of Sections 13(a),
+13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 12b-20, 13a-1, 13a-11, 13a-13, and
+13a-15(a) thereunder.
+
+        B.     Respondent shall comply with the undertakings enumerated in Paragraph 30, above.
+
+         C.      If Respondent fails to comply with the undertakings enumerated in Paragraph 30,
+above, Respondent shall, by June 30, 2025, pay a civil money penalty in the amount of $400,000 to
+the Securities and Exchange Commission for transfer to the general fund of the United States
+Treasury, subject to Exchange Act Section 21F(g)(3). If timely payment is not made, additional
+interest shall accrue pursuant to 31 U.S.C. § 3717.
+
+        D.     If Respondent must pay a penalty, payment must be made in one of the following
+ways:
+
+               (1)     Respondent may transmit payment electronically to the Commission, which
+                       will provide detailed ACH transfer/Fedwire instructions upon request;
+
+               (2)     Respondent may make direct payment from a bank account via Pay.gov
+                       through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+               (3)     Respondent may pay by certified check, bank cashier’s check, or United
+                       States postal money order, made payable to the Securities and Exchange
+                       Commission and hand-delivered or mailed to:
+
+               Enterprise Services Center
+               Accounts Receivable Branch
+               HQ Bldg., Room 181, AMZ-341
+               6500 South MacArthur Boulevard
+               Oklahoma City, OK 73169
+
+        Payments by check or money order must be accompanied by a cover letter identifying CPI
+Aero as a Respondent in these proceedings, and the file number of these proceedings; a copy of the
+cover letter and check or money order must be sent to Melissa Hodgman, Associate Director,
+Division of Enforcement, Securities and Exchange Commission, 100 F St., NE, Washington, DC
+20549.
+
+        E.       Amounts ordered to be paid as civil money penalties pursuant to this Order shall be
+treated as penalties paid to the government for all purposes, including all tax purposes. To
+preserve the deterrent effect of the civil penalty, Respondent agrees that in any Related Investor
+Action, it shall not argue that it is entitled to, nor shall it benefit by, offset or reduction of any
+award of compensatory damages by the amount of any part of Respondent’s payment of a civil
+penalty in this action (“Penalty Offset”). If the court in any Related Investor Action grants such a
+
+
+                                              10
+Penalty Offset, Respondent agrees that it shall, within 30 days after entry of a final order granting
+the Penalty Offset, notify the Commission's counsel in this action and pay the amount of the
+Penalty Offset to the Securities and Exchange Commission. Such a payment shall not be deemed
+an additional civil penalty and shall not be deemed to change the amount of the civil penalty
+imposed in this proceeding. For purposes of this paragraph, a “Related Investor Action” means a
+private damages action brought against Respondent by or on behalf of one or more investors based
+on substantially the same facts as alleged in the Order instituted by the Commission in this
+proceeding.
+
+        F.       Respondent acknowledges that the Commission is not imposing a civil penalty if
+Respondent timely complies with the undertakings set forth in Paragraph 30 above based upon its
+cooperation in a Commission investigation. If at any time following the entry of the Order, the
+Division of Enforcement (“Division”) obtains information indicating that Respondent knowingly
+provided materially false or misleading information or materials to the Commission, or in a related
+proceeding, the Division may, at its sole discretion and with prior notice to the Respondent,
+petition the Commission to reopen this matter and seek an order directing that the Respondent pay
+a civil money penalty even if Respondent has complied with the undertakings set forth in
+Paragraph 30. Respondent may contest by way of defense in any resulting administrative
+proceeding whether it knowingly provided materially false or misleading information, but may not:
+(1) contest the findings in the Order; or (2) assert any defense to liability or remedy, including, but
+not limited to, any statute of limitations defense.
+
+       By the Commission.
+
+
+
+                                                       Vanessa A. Countryman
+                                                       Secretary
+
+
+
+
+                                              11
+

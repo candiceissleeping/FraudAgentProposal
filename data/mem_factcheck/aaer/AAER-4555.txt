@@ -1,0 +1,340 @@
+AAER-4555 | 2025-01-14 | DMK Pharmaceuticals Corporation (f/k/a Adamis Pharmaceuticals Corporation) and Robert O. Hopkins
+Source: https://www.sec.gov/files/litigation/admin/2025/33-11353.pdf
+
+                                UNITED STATES OF AMERICA
+                                       Before the
+                         SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES ACT OF 1933
+Release No. 11353 / January 14, 2025
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 102195 / January 14, 2025
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4555 / January 14, 2025
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-22416
+
+
+    In the Matter of                                       ORDER INSTITUTING
+                                                           ADMINISTRATIVE AND CEASE-AND-
+           DMK PHARMACEUTICALS                             DESIST PROCEEDINGS, PURSUANT
+           CORPORATION (f/k/a ADAMIS                       TO SECTION 8A OF THE SECURITIES
+           PHARMACEUTICALS                                 ACT OF 1933, SECTIONS 4C AND 21C
+           CORPORATION) and ROBERT                         OF THE SECURITIES EXCHANGE
+           O. HOPKINS,                                     ACT OF 1934, AND RULE 102(e) OF
+                                                           THE COMMISSION’S RULES OF
+    Respondents.                                           PRACTICE, MAKING FINDINGS, AND
+                                                           IMPOSING REMEDIAL SANCTIONS
+                                                           AND A CEASE-AND-DESIST ORDER
+
+
+                                                   I.
+
+       The Securities and Exchange Commission (“Commission”) deems it appropriate that public
+administrative and cease-and-desist proceedings be, and hereby are, instituted pursuant to
+Section 8A of the Securities Act of 1933 (“Securities Act”), Sections 4C1 and 21C of the Securities
+
+
+
+1
+    Section 4C provides, in relevant part, that:
+
+          The Commission may censure any person, or deny, temporarily or permanently, to any
+          person the privilege of appearing or practicing before the Commission in any way, if that
+          person is found . . . (1) not to possess the requisite qualifications to represent others;
+          (2) to be lacking in character or integrity, or to have engaged in unethical or improper
+          professional conduct; or (3) to have willfully violated, or willfully aided and abetted the
+Exchange Act of 1934 (“Exchange Act”), and Rule 102(e)(1)(iii)2 of the Commission’s Rules of
+Practice against DMK Pharmaceuticals Corporation, formerly known as Adamis Pharmaceuticals
+Corporation, and Robert O. Hopkins (together, “Respondents”).
+
+                                                     II.
+
+        In anticipation of the institution of these proceedings, Respondents have each submitted an
+Offer of Settlement (the “Offers”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, Respondents admit the Commission’s
+jurisdiction over them and the subject matter of these proceedings, and consent to the entry of this
+Order Instituting Administrative and Cease-and-Desist Proceedings, Pursuant to Section 8A of the
+Securities Act of 1933, Sections 4C and 21C of the Securities Exchange Act of 1934, and
+Rule 102(e) of the Commission’s Rules of Practice, Making Findings, and Imposing Remedial
+Sanctions and a Cease-and-Desist Order (“Order”), as set forth below.
+
+                                                    III.
+
+          On the basis of this Order and Respondents’ Offers, the Commission finds that:
+
+                                                Summary
+
+      1.      These proceedings arise out of an accounting and disclosure fraud case concerning
+DMK Pharmaceuticals Corporation f/k/a Adamis Pharmaceuticals Corporation (“DMK
+Pharmaceuticals” or “Adamis”) and Robert O. Hopkins, its former Chief Financial Officer.
+
+         2.     From 2016 through 2021, Adamis and Hopkins generated a material percentage of
+the company’s revenues through illegal prescriptions written by a veterinarian who was
+compensated under a sham consulting agreement, and falsely recorded payments to the veterinarian
+as legitimate consulting expenses. Adamis’s periodic reports filed with the Commission from 2016
+through 2021 included improperly recognized revenue and had materially false and misleading
+statements concerning risk factors. Hopkins was responsible for the company’s financial reporting
+and periodic reports, and knew that the periodic reports were materially misleading because of the
+sham agreement and payments to the veterinarian.
+
+
+          violation of, any provision of the securities laws or the rules and regulations issued
+          thereunder.
+2
+    Rule 102(e)(1)(iii) provides, in pertinent part, that:
+
+          The Commission may . . . deny, temporarily or permanently, the privilege of appearing or
+          practicing before it . . . to any person who is found…to have willfully violated, or
+          willfully aided and abetted the violation of any provision of the Federal securities laws or
+          the rules and regulations thereunder.
+                                                     2
+                                          Respondents
+
+        3.      Respondent Adamis is a Delaware corporation with its principal executive offices
+in San Diego, California. Its securities are registered pursuant to Section 12(g) of the Exchange
+Act, formerly traded on the Nasdaq Capital Market, and currently trade on the Over-the-Counter
+market Pink Limited Information tier operated by the OTC Markets Group under the symbol
+DMKPQ. It filed periodic reports with the Commission during the relevant time period. It has no
+disciplinary history.
+
+        4.     The conduct at issue occurred in Adamis’s wholly-owned subsidiary, US
+Compounding Inc., which during the relevant time was an Arkansas corporation with its principal
+place of business in Conway, Arkansas. US Compounding ceased doing business at the end of
+October 2021.
+
+        5.       On May 25, 2023, Adamis merged with DMK Pharmaceuticals, a privately held
+company, and the name of the surviving publicly traded Delaware corporation was changed to
+DMK Pharmaceuticals Corporation. On February 2, 2024, DMK Pharmaceuticals and its
+subsidiaries filed for bankruptcy under Chapter 11 of the U.S. Bankruptcy Code in the United
+States Bankruptcy Court for the District of Delaware.
+
+       6.      Respondent Robert O. Hopkins, age 64, resides in San Diego, California. He was
+Vice President of Finance, Chief Financial Officer and Secretary of Adamis from 2009 until he left
+in August 2021. He has an undergraduate degree in finance and a Master of Business
+Administration. He has never been a Certified Public Accountant and has no disciplinary history.
+
+                                              Facts
+
+        7.     Adamis was a specialty biopharmaceutical company focused on developing and
+commercializing products in various therapeutic areas, including allergy, opioid overdose,
+respiratory and inflammatory disease.
+
+        8.     Adamis’s wholly-owned subsidiary, US Compounding, was a registered drug
+compounding outsourcing facility under the U.S. Food, Drug & Cosmetic Act. US Compounding
+provided prescription compounded medications to patients, physician clinics, hospitals, surgery
+centers and other clients throughout most of the United States, including veterinary pharmaceutical
+products. As of July 30, 2021, Adamis began to wind down US Compounding’s business, and
+effective October 31, 2021, US Compounding surrendered its Arkansas retail pharmacy permit and
+wholesaler/outsourcer permit and was no longer selling compounded pharmaceutical or veterinary
+products.
+
+       9.      Hopkins joined a predecessor to Adamis in 2007 and continued working for
+Adamis in San Diego until his departure in August 2021. As Adamis’s Vice President of Finance,
+Chief Financial Officer and Secretary, Hopkins’s responsibilities included running the US
+Compounding subsidiary as well as financial reporting by Adamis and its US Compounding
+
+                                                 3
+subsidiary. Hopkins was responsible for the company’s financial reporting and periodic reports.
+Hopkins signed (i) management representation letters to the auditor, (ii) Adamis’s periodic reports
+as the Principal Financial Officer and the Principal Accounting Officer, and (iii) the certifications
+pursuant to Sections 302 and 906 of the Sarbanes-Oxley Act of 2002 (“SOX”).
+
+        10.     Adamis filed with the Commission annual reports on Forms 10-K for the six
+fiscal years ended December 31, 2016 through December 31, 2021, and quarterly reports on
+Forms 10-Q for the 17 interim quarters beginning June 2016 that included improperly recognized
+revenue and had materially false and misleading statements concerning risk factors.
+
+                            Reporting of Revenues from Illegal Conduct
+
+       11.      Adamis generated revenues from illegal conduct. During the period beginning with
+Adamis’s acquisition of US Compounding in April 2016 until US Compounding stopped doing
+business at the end of October 2021, the primary source of Adamis’s revenue was its US
+Compounding subsidiary. From 2016 through 2018, US Compounding generated all of Adamis’s
+revenue, and from 2019 through the first quarter of 2021 US Compounding generated over 80% of
+Adamis’s revenue.
+
+        12.      From 2016 through the first quarter of 2021, US Compounding sales
+representatives improperly submitted some orders for animal medications that listed a veterinarian
+as the prescribing doctor when he was not the actual veterinarian for the equine patients. Hopkins,
+on behalf of Adamis, agreed to enter a “consulting agreement” with the veterinarian that falsely
+stated that the veterinarian would be paid monthly based on an hourly consulting rate of $100,
+while in fact the veterinarian’s monthly fee was based on an oral side agreement that he would be
+paid a 10% commission on the illegal prescriptions. Adamis paid the veterinarian kickbacks
+disguised as “consulting payments” that were actually a percentage of the sales on which he was
+identified as the veterinarian.
+
+         13.   Revenues relating to this illegal conduct were improperly recognized. The impact
+of the fraud was material to Adamis’s reporting of revenues in its annual reports filed on
+Forms 10-K and in its quarterly reports filed on Forms 10-Q.
+
+         14.     In addition, the fraudulent revenues from prescriptions were also material because
+they involved (i) unlawful acts conducted and concealed with the knowledge of the CFO,
+(ii) intentional misstatements to the financial statements, and (iii) intentional false and misleading
+statements by the CFO.
+
+                                Disclosures about Two Risk Factors
+
+       15.      In its annual reports on Forms 10-K, Adamis’s disclosures of two items as
+hypothetical “risks” were materially misleading because the “risks” were things that had already
+happened.
+
+
+                                                   4
+        16.     First, the annual reports for 2016 through 2020 disclosed risk about effective sales
+infrastructure. When Adamis filed its annual reports for years 2016 through 2020, its CFO and
+certain of US Compounding’s sales representatives were already engaged in the illegal conduct
+described above. Therefore, noncompliant sales representatives were not a theoretical risk, but the
+way of doing business for sales of certain equine prescription medication through one important
+veterinarian.
+
+         17.     Second, the annual reports for 2016 through 2021 disclosed risk about
+noncompliance with federal and state statutes and regulations associated with its drug
+compounding business. Noncompliance with federal laws was not a risk, but a reality. The sales
+of prescription medications to equine patients using the veterinarian’s license when he did not have
+a doctor-patient relationship violated the Food, Drug & Cosmetic Act. Furthermore, when he
+prescribed medications in states where he did not have a license to practice veterinary medicine,
+this also violated the law.
+
+              Management Representation Letters and SOX Certifications by Hopkins
+
+        18.     From 2016 through 2020, Hopkins signed management representation letters to the
+auditor and certifications pursuant to SOX Sections 302 and 906 for both the annual reports on
+Forms 10-K and the quarterly reports on Forms 10-Q. Contrary to Hopkins’s representations, he
+knew that the filings (i) contained inaccurate financial statements with improperly recognized
+revenue, and (ii) contained materially false and misleading statements.
+
+                                 Securities Registration Statements
+
+        19.      Between the time Adamis acquired US Compounding in April 2016 and the time
+US Compounding ceased doing business in October 2021, Adamis offered and sold securities
+pursuant to eight securities registration statements. Each of the periodic reports were incorporated
+into the registration statements. Therefore, the improperly recognized revenue and false and
+misleading statements concerning risk factors in the periodic reports discussed above were also
+made in connection with these securities offerings.
+
+                                    Adamis’s Remedial Efforts
+
+        20.      In determining whether to accept the Offer, the Commission considered remedial
+acts promptly undertaken by Adamis and cooperation afforded the Commission staff, including but
+not limited to, the swift termination of all employees involved in the misconduct, the asset sale of
+US Compounding, and the implementation of new leadership under DMK Pharmaceuticals who
+had no involvement in the conduct at issue.
+
+                                  Hopkins’s Cooperation Efforts
+
+       21.     In determining whether to accept the Offer, the Commission considered
+cooperation afforded the Commission staff by Hopkins, including but not limited to, appearing for
+
+                                                 5
+an interview and answering all staff questions concerning the conduct at issue in the Commission’s
+investigation.
+
+                                              Violations
+
+        22.      As a result of the conduct described above, Adamis and Hopkins violated
+Sections 17(a)(1) and (3) of the Securities Act, and Adamis violated, and Hopkins caused the
+violation of, Section 17(a)(2) of the Securities Act, which prohibit any person from, in the offer or
+sale of a security, employing “any device, scheme, or artifice to defraud” or engaging in any
+“transaction, practice, or course of business” which operates or would operate as a fraud or deceit
+upon the purchaser, or obtaining money or property by means of any materially false or misleading
+statements.
+
+        23.     As a result of the conduct described above, Adamis and Hopkins violated
+Section 10(b) of the Exchange Act and Rule 10b-5 thereunder, which prohibit any person from, in
+connection with the purchase or sale of a security, employing “any device, scheme, or artifice to
+defraud” or engaging in any “transaction, practice, or course of business” which operates or would
+operate as a fraud or deceit upon any person, or the making of any untrue statement of material fact
+or the omission of a material fact necessary in order to make the statements made not misleading.
+
+        24.     As a result of the conduct described above, Adamis violated, and Hopkins caused
+the violations of, Section 13(a) of the Exchange Act and Rules 12b-20, 13a-1 and 13a-13
+thereunder, which require issuers with a class of securities registered pursuant to Section 12 to file
+accurate and complete annual and quarterly reports with the Commission and mandate that
+periodic reports contain such further material information as may be necessary to make the
+required statements not misleading.
+
+         25.    As a result of the conduct described above, Adamis violated, and Hopkins caused
+the violations of, Section 13(b)(2)(A) of the Exchange Act, which requires issuers with securities
+registered pursuant to Section 12 to “make and keep books, records, and accounts, which, in
+reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the
+issuer.”
+
+        26.     As a result of the conduct described above, Hopkins willfully violated Exchange
+Act Rule 13b2-1, which prohibits any person from, directly or indirectly, falsifying or causing to
+be falsified any book, record, or account subject to Section 13(b)(2)(A) of the Exchange Act.
+
+        27.     As a result of the conduct described above, Adamis violated, and Hopkins caused
+the violations of, Section 13(b)(2)(B) of the Exchange Act, which, among other things, requires
+issuers to devise and maintain a system of internal accounting controls sufficient to provide
+reasonable assurances that transactions are recorded as necessary to permit preparation of financial
+statements in conformity with GAAP.
+
+
+
+                                                   6
+       28.     As a result of the conduct described above, Hopkins willfully violated
+Section 13(b)(5) of the Exchange Act by circumventing internal accounting controls concerning
+the vendor payment processes by approving payments to the veterinarian that he knew were
+improper.
+
+        29.    As a result of the conduct described above, Hopkins willfully violated Exchange
+Act Rule 13b2-2, which, among other things, prohibits an officer from making a materially false or
+misleading statement to an accountant in connection with any required audit, review or
+examination of the issuer’s financial statements or the preparation of a report required to be filed
+with the Commission.
+
+        30.     As a result of the conduct described above, Hopkins willfully violated Exchange
+Act Rule 13a-14, which requires financial officers, among other things, to certify that the periodic
+reports filed on Forms 10-K and 10-Q do not contain any untrue statement of a material fact or
+omit to state a material fact necessary in order to make the statements made, in light of the
+circumstances under which such statements were made, not misleading.
+
+                                                 IV.
+        In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondents’ Offers.
+
+       Accordingly, it is hereby ORDERED that:
+
+        A.      Pursuant to Section 8A of the Securities Act and Section 21C of the Exchange Act,
+Respondent Adamis shall cease and desist from committing or causing any violations and any
+future violations of Section 17(a) of the Securities Act and Sections 10(b), 13(a), 13(b)(2)(A) and
+13(b)(2)(B) of the Exchange Act and Rules 10b-5, 12b-20, 13a-1, and 13a-13 thereunder.
+
+       B.       Pursuant to Section 8A of the Securities Act and Section 21C of the Exchange Act,
+Respondent Adamis is ordered to pay disgorgement $313,613 and prejudgment interest of
+$20,701, for a total payment of $334,314, which amount is deemed satisfied by the forfeiture
+payments ordered in a parallel criminal action.
+
+        C.      Pursuant to Section 8A of the Securities Act and Section 21C of the Exchange Act,
+Respondent Hopkins shall cease and desist from committing or causing any violations and any
+future violations of Section 17(a) of the Securities Act and Sections 10(b), 13(a), 13(b)(2)(A),
+13(b)(2)(B) and 13(b)(5) of the Exchange Act and Rules 10b-5, 12b-20, 13a-1, 13a-13, Rule 13a-
+14, 13b2-1 and 13b2-2 thereunder.
+
+        D.       Pursuant to Section 8A of the Securities Act and Sections 4C of the Exchange Act,
+Respondent Hopkins is permanently barred from acting as an officer or director of any issuer that
+has a class of securities registered pursuant to Section 12 of the Exchange Act or that is required to
+file reports pursuant to Section 15(d) of the Exchange.
+
+                                                  7
+       E.      Pursuant to Section 4C of the Exchange Act and Rule 102(e) of the Commission’s
+Rules of Practice, Respondent Hopkins is denied the privilege of appearing or practicing before the
+Commission as an accountant.
+
+       By the Commission.
+
+
+
+                                                     Vanessa A. Countryman
+                                                     Secretary
+
+
+
+
+                                                 8
+

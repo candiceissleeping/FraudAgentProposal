@@ -1,0 +1,467 @@
+AAER-4452 | 2023-08-30 | Plug Power Inc.
+Source: https://www.sec.gov/files/litigation/admin/2023/34-98243.pdf
+
+                           UNITED STATES OF AMERICA
+                                    Before the
+                      SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 98243 / August 30, 2023
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4452 / August 30, 2023
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-21588
+
+                                                 ORDER INSTITUTING CEASE-AND-
+In the Matter of                                 DESIST PROCEEDINGS PURSUANT TO
+                                                 SECTION 21C OF THE SECURITIES
+       Plug Power Inc.,                          EXCHANGE ACT OF 1934, MAKING
+                                                 FINDINGS, AND IMPOSING A CEASE-
+Respondent.                                      AND-DESIST ORDER
+
+
+                                                I.
+
+        The Securities and Exchange Commission (“Commission”) deems it appropriate that
+cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the
+Securities Exchange Act of 1934 (“Exchange Act”), against Plug Power Inc. (“Plug Power,”
+or the “Company,” or “Respondent”).
+
+                                               II.
+
+        In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the purpose
+of these proceedings and any other proceedings brought by or on behalf of the Commission, or to
+which the Commission is a party, and without admitting or denying the findings herein, except as
+to the Commission’s jurisdiction over it and the subject matter of these proceedings, which are
+admitted, Respondent consents to the entry of this Order Insituting Cease-and-Desist Proceedings
+Pursuant to Section 21C of the Securities Exchange Act of 1934, Making Findings, and Imposing
+a Cease-and-Desist Order (“Order”), as set forth below.
+
+                                               III.
+
+       On the basis of this Order and Respondent’s Offer, the Commission finds that:
+                                              Summary
+
+        1.      This matter involves financial reporting, accounting, and controls failures by Plug
+Power, a provider of green hydrogen and hydrogen-fuel-cell systems. These failures led to a multi-
+year restatement of Plug Power’s financial statements concerning, among other things, reported
+assets and liabilities for leases, classification of certain operating costs, and loss accruals for
+service contracts.
+
+          2.     From 2018 through the third quarter of 2020, Plug Power failed to properly account
+for its right-of-use (“ROU”) assets and lease liabilities for certain sale-leaseback transactions,
+failed to properly classify and present certain costs related to research and development (“R&D”)
+activities as cost of revenue, and failed to properly estimate loss accruals for extended-maintenance
+contracts. Plug Power also failed to properly account for other items, including bonus expense in
+the third quarter of 2020, and certain conversions of the Company’s convertible preferred stock.
+On March 16, 2021, Plug Power announced that its prior annual reports on Form 10-K for 2018
+and 2019, and prior quarterly reports on Form 10-Q for 2019 and 2020, should no longer be relied
+upon due to the Company’s accounting errors. Plug Power subsequently restated these financial
+statements in the Company’s 2020 Form 10-K filing on May 14, 2021. In the restatement,
+management identified a material weakness in internal control over financial reporting (“ICFR”),
+and ineffective disclosure controls and procedures (“DCP”), due to Plug Power’s failure to
+maintain a sufficient complement of trained, knowledgeable personnel to execute their
+responsibilities for certain financial statement accounts and disclosures. Despite these control
+deficiencies, the Company raised over $5 billion from investors during the relevant Filing Period. 1
+Plug Power’s remediation efforts are ongoing but the Company’s material weakness in ICFR and
+ineffective DCP have not been fully remediated.
+
+       3.       As a result of this conduct, Plug Power violated Sections 13(a), 13(b)(2)(A), and
+13(b)(2)(B) of the Exchange Act, and Rules 13a-1, 13a-13, and 13a-15(a) – (c) thereunder.
+
+                                             Respondent
+
+       4.      Plug Power is a Delaware corporation headquartered in Latham, New York. Plug
+Power provides green hydrogen and hydrogen-fuel-cell solutions for electric motors in supply
+chain and logistics applications, electric vehicles, stationary power, and other markets. The
+Company’s common stock is registered under Section 12(b) of the Exchange Act, and trades
+on the Nasdaq Stock Market under the symbol “PLUG.”
+
+                                Plug Power Releases 2020 Earnings
+
+        5.      On February 24, 2021, Plug Power’s management and its independent accounting
+firm at the time, KPMG LLP (“KPMG”), met with the Company’s Audit Committee. During the
+meeting, management informed the Audit Committee that Plug Power’s 2020 Form 10-K was
+
+1
+  The “Filing Period” begins on March 13, 2019, which is the date when Plug Power filed its first
+financial statements that required restatement, and ends on May 14, 2021, which is the date when Plug
+Power filed the restated financial statements in the Company’s 2020 Form 10-K.
+                                                   2
+substantially complete. Management and KPMG also reported that there were no significant audit
+issues, and any pending items were considered immaterial. The following day, February 25, 2021,
+Plug Power released its financial results for the fourth quarter and year-ended December 31, 2020.
+
+        6.      As audit work continued over the next few days, KPMG’s audit team examined
+Plug Power’s impairment analysis for certain lease assets and questioned whether the Company
+had failed to identify a triggering event and potential impairment. KPMG’s audit team also tried
+to address open questions concerning Plug Power’s reclassification of certain hydrogen-fuel costs
+as R&D expenses. Plug Power and KPMG tried to resolve these issues before the prescribed filing
+date for the Company’s Form 10-K, but Plug Power ultimately missed the March 1, 2021 date.
+
+                 Plug Power Discloses Delayed Filing and Possible Restatement
+
+        7.       On March 2, 2021, Plug Power filed a Notification of Late Filing on Form 12b-25
+and disclosed that the Company needed “additional time to complete the procedures relating to its
+year-end reporting process,” including “procedures relating to management’s assessment of the
+effectiveness of internal controls.” Plug Power stated that it was “working diligently to complete
+the necessary work, including review and assessment of the treatment of certain costs with regards
+to classification between [R&D] versus Costs of Goods Sold, the recoverability of [ROU] assets
+associated with certain leases, and certain internal controls over these and other areas.” The
+Company also disclosed that “one or more of these items may result in charges or adjustments
+to current and/or prior period financial statements.”
+
+        8.     Over the next two weeks, KPMG’s audit team continued to perform audit
+procedures on Plug Power’s impairment analysis for certain lease assets and the reclassified costs.
+The audit team eventually concluded that Plug Power’s ROU assets and lease liabilities for certain
+sale-leaseback transactions had been calculated incorrectly and materially overstated. They also
+concluded that certain hydrogen-fuel costs should not be reclassified and reported as R&D
+expenses. KPMG notified Plug Power about the accounting errors. Management consulted
+KPMG and Plug Power’s Audit Committee about these issues, and on March 12, 2021, the
+Audit Committee concluded that the Company should restate its prior financial statements.
+
+                               Plug Power Announces Restatement
+
+         9.     On March 16, 2021, Plug Power filed a Form 8-K and announced that its prior
+annual reports on Form 10-K for 2018 and 2019, and quarterly reports on Form 10-Q for 2019
+and 2020, should no longer be relied upon. Plug Power disclosed that it would restate the prior-
+period financial statements to correct numerous accounting errors, including: (i) the reported book
+value of ROU assets and related finance obligations; (ii) loss accruals for certain service contracts;
+(iii) impairment of certain long-lived assets; and (iv) classification of certain costs relating to R&D
+expense and cost of revenue. Plug Power stated that it expected to restate the impacted financial
+statements in the Company’s 2020 Form 10-K.
+
+
+
+
+                                                   3
+                                   Plug Power Files Restatement
+
+       10.     On May 14, 2021, Plug Power filed a Form 10-K for 2020 that included restated
+annual financial statements for 2018 and 2019, and interim quarterly reports for 2019 and 2020.
+The restatement corrected numerous accounting errors, including the following:
+
+                a.   $112.7 million overstatement of ROU assets and lease liabilities as of
+                     December 31, 2019 due to the failure to correctly calculate lease liabilities
+                     for certain sale-leaseback transactions (“Sale-Leaseback Errors”);
+
+                b.   $19.5 million overstatement of gross profit for 2019, and $21.2 million
+                     overstatement of gross profit for 2018, due to the failure to properly classify
+                     and present certain costs related to R&D activities as cost of revenue (“Cost-
+                     Classification Errors”); and
+
+                c.   $1.6 million understatement of the benefit for loss accruals in 2019, and
+                     $5.3 million understatement of the provision for loss accruals in 2018, due
+                     to the failure to properly estimate loss accruals for extended-maintenance
+                     contracts (“Loss-Accrual Errors”).
+
+The restatement also corrected other accounting errors, including the Company’s reported bonus
+expense in the third quarter of 2020, an error in prior lease accounting, an error from certain
+conversions of the Company’s convertible preferred stock, and other items. Management
+concluded that the aggregate impact of these accounting errors was material to the Company’s
+prior-period financial statements. Additionally, while not part of the restatement, Plug Power
+initially failed to identify triggering events in the fourth quarter of 2020 that caused a $5.7 million
+impairment of certain ROU assets.
+
+        11.     In the 2020 Form 10-K, Plug Power’s management also identified the following
+deficiency in the Company’s ICFR:
+
+                the Company did not maintain a sufficient complement of trained,
+                knowledgeable resources to execute their responsibilities with
+                respect to [ICFR] for certain financial statement accounts and
+                disclosures. As a consequence, the Company did not conduct an
+                effective risk assessment process that was responsive to changes in
+                the Company’s operating environment and did not design and
+                implement effective process-level controls activities in the following
+                areas: presentation of operating expenses; accounting for lease-
+                related transactions; identification and evaluation of impairment,
+                loss-contract accrual, certain expense accruals, and deemed
+                dividends; and timely identification of adjustments to physical
+                inventory in interim periods.
+
+
+
+                                                   4
+Management concluded that this deficiency constituted a material weakness in ICFR, and the
+Company’s DCP were not effective, as of December 31, 2020. Plug Power later filed an amended
+Form 10-K on March 14, 2022 that provided management’s discussion and analysis for the
+quarterly periods, and disclosed that the material weakness in ICFR and ineffective DCP also
+existed in 2018 and 2019. Despite these control deficiencies, Plug Power raised over $5 billion
+from investors during the relevant Filing Period, including approximately $4.8 billion from the sale
+of common stock, and approximately $244 million from the sale of convertible senior notes.
+
+                               Plug Power’s Sale-Leaseback Errors
+
+        12.      In some sales transactions, Plug Power sells its hydrogen-power equipment to
+financial institutions and then leases the equipment back to provide power to customers under
+Power Purchase Agreements (“PPAs”). Sometimes Plug Power also sells its contractual future
+revenue streams from customers under the PPAs to financial institutions in exchange for cash.
+Plug Power repays that separate obligation to the financial institutions as the Company receives
+payments from customers under the PPAs.
+
+         13.     There are two elements to these transactions with financial institutions: (i) a sale
+and leaseback of equipment; and (ii) a debt component for the proceeds that Plug Power received
+from financial institutions related to the sale of future revenues. Plug Power’s lease liabilities and
+corresponding ROU assets for the sale and leaseback of equipment should be based on the present
+value of the portion of the Company’s future payments to financial institutions that represent the
+lease component (i.e., excluding the portion representing the Company’s debt-service repayments).
+Historically, Plug Power incorrectly included the entire repayment amount when determining lease
+liabilities and corresponding ROU assets even though the Company had separately recorded a debt
+obligation related to the cash received from the sale of future revenues.
+
+         14.     To correct these errors, Plug Power reduced the lease liabilities and corresponding
+ROU assets to exclude the double-counting of the debt obligation at the inception of the leases.
+The restatement reduced Plug Power’s ROU assets and lease liabilities on December 31, 2019 by
+$112.7 million. Relative to the Company’s previously reported ROU assets of $245 million, and
+total assets of $771 million, the correction reduced Plug Power’s ROU assets by approximately
+46%, and total assets by nearly 15%.
+
+                             Plug Power’s Cost-Classification Errors
+
+        15.     When Plug Power started deploying its GenKey hydrogen-power systems in
+2014, the Company had to learn how to install and maintain these systems at different sites. Plug
+Power encountered numerous problems during this process, including the loss of hydrogen fuel
+that occurs during transportation, delivery, installation, and maintenance of equipment. Over time,
+however, Plug Power developed better methods and generally reduced the amount of lost fuel.
+
+        16.      To account for these efforts, the Company reclassified a portion of such fuel-loss
+costs to R&D expenses rather than cost-of-sales expenses. During the 2020 audit, KPMG
+identified the reclassified costs as a potential adjustment because the audit team believed the
+
+                                                  5
+reclassification was a departure from generally accepted accounting principles (“GAAP”).
+KPMG continued to perform audit procedures on these accounts in early March 2021, and the
+audit team eventually concluded that the costs should be reported as cost of revenue (i.e., cost-of-
+sales expenses). Management decided to restate the previously reported amounts.
+
+         17.     In the restatement, management concluded that Plug Power should have properly
+classified these fuel costs as cost of revenue rather than R&D expenses. The restated expenses
+negatively impacted the Company’s previously reported gross profit. For example, Plug Power’s
+gross profit for 2019 decreased by $19.5 million — a 68% decrease in the previously reported
+gross profit of $28 million — and its gross profit for 2018 decreased by $21.2 million — which
+turned a $2.6 million gross profit into a gross loss of $18.6 million.
+
+                                Plug Power’s Loss-Accrual Errors
+
+        18.     Plug Power sells extended-maintenance contracts to customers that generally
+provide five-to-ten-year coverage in exchange for up-front payments. The Company’s future
+service obligations are recorded as deferred revenue, which is recognized over the life of the
+contract, generally on a straight-line basis. When expected future service costs are projected to
+exceed revenues over the remaining term of a contract, the Company records an accrual for loss.
+
+        19.     Plug Power failed to properly estimate loss accruals for extended-maintenance
+contracts for two reasons. First, due to the Company’s prior reclassification of certain fuel costs
+as R&D expenses, the Company failed to consider these historical costs when estimating future
+services and potential loss accruals. Second, Plug Power also failed to properly consider certain
+service costs for hydrogen infrastructure, and costs from stock warrants issued to large customers,
+when estimating potential loss accruals. Initially, these costs were considered immaterial, but
+over time the costs became material and the Company failed to include them in the loss-accrual
+estimates.
+
+        20.    The restatement increased Plug Power’s 2018 loss accrual by $5.3 million — which
+turned a $2.6 million gross profit into a gross loss of $2.7 million — and reduced the 2019 loss
+accrual by $394,000 due to a partial release of the 2018 loss accrual.
+
+                           Plug Power’s Internal Control Deficiencies
+
+        21.      During the restatement process, Plug Power identified numerous control failures,
+design deficiencies, and absent controls related to the Company’s accounting errors. In particular,
+management determined that Plug Power did not have the appropriate level of accounting
+personnel and technical expertise to properly assess the accounting implications of many complex
+business transactions. Management concluded that this design deficiency was primarily caused
+by a lack of sufficient qualified technical accounting and financial reporting personnel to perform
+control activities for complex and non-routine transactions.
+
+        22.     Due to this deficiency, management determined that certain process-level controls
+did not operate effectively to mitigate identified risks in the following areas: (i) accounting for
+
+                                                  6
+certain sale-leaseback transactions; (ii) classification of certain operating expenses; and
+(iii) identification and evaluation of certain management estimates concerning loss accruals,
+quarterly bonus expenses, and impairment. Management also determined that: (i) the Company’s
+process when applying GAAP to complex accounting matters was insufficient; (ii) its estimation
+policies and procedures were not consistent with overall market dynamics; and (iii) it did not
+have sufficient tools and tracking mechanisms to maintain appropriate documentation for the
+classification of certain operating expenses. Plug Power also failed to design sufficient controls
+for: (i) lease accounting; (ii) presentation of operating expenses; (iii) identification and evaluation
+of impairment; (iv) accrual for loss contracts; (v) accruals for certain expenses; and (vi) physical
+inventory controls at interim periods.
+
+               Plug Power’s Material Weakness Has Not Been Fully Remediated
+
+        23.     Management concluded that the failure of Plug Power’s process-level controls
+resulted in material misstatements of the Company’s financial statements, and when considered
+in aggregate, the deficiencies constituted a material weakness in ICFR in 2018, 2019, and 2020.
+Management also concluded that Plug Power’s DCP were not effective during these periods
+because of this material weakness in ICFR.
+
+        24.    Plug Power prepared a remediation plan during the restatement process, and began
+implementing the plan in 2021, which includes numerous measures to remediate the material
+weakness in ICFR and ineffective DCP. In Plug Power’s 2022 Form 10-K, filed on March 1,
+2023, the Company disclosed management’s determination that certain enhancements to
+Plug Power’s risk-management process, and enhancements to certain process-level controls and
+information-technology controls, are operating effectively. The Company also disclosed that
+management considers the risk-management process, process-level and general information-
+technology material weaknesses that were identified in 2021 to be remediated as of December 31,
+2022. Despite Plug Power’s ongoing remediation efforts, however, the Company’s material
+weakness has not been fully remediated.
+
+                                              Violations
+
+        25.    As a result of the conduct described above, Plug Power violated Section 13(a) of
+the Exchange Act and Rules 13a-1 and 13a-13 thereunder, which require every issuer of a security
+registered under Section 12 of the Exchange Act to file with the Commission complete and
+accurate annual and quarterly reports.
+
+        26.    In addition, as a result of the conduct described above, Plug Power violated
+Section 13(b)(2)(A) of the Exchange Act, which requires issuers such as Plug Power to make and
+keep books, records and accounts which, in reasonable detail, accurately and fairly reflect their
+transactions and dispositions of assets.
+
+       27.     In addition, as a result of the conduct described above, Plug Power violated
+Section 13(b)(2)(B) of the Exchange Act, which, among other things, requires issuers such as
+Plug Power to devise and maintain a system of internal accounting controls sufficient to provide
+
+                                                   7
+reasonable assurances that transactions are recorded as necessary to permit preparation of
+financial statements in conformity with GAAP or any other criteria applicable to such
+statements.
+
+        28.     In addition, as a result of the conduct described above, Plug Power violated
+Exchange Act Rules 13a-15(a) – (c), which require issuers such as Plug Power to maintain and
+evaluate the effectiveness of: (i) disclosure controls and procedures that are designed to ensure
+that information required to be disclosed by the issuer in the reports that it files or submits under
+the Exchange Act is recorded, processed, summarized and reported, within the time periods
+specified in the Commission’s rules and forms, and that such information is accumulated and
+communicated to the issuer’s management to allow timely decisions regarding required
+disclosure; and (ii) internal control over financial reporting to provide reasonable assurance
+regarding the reliability of financial reporting and the preparation of financial statements for
+external purposes in accordance with GAAP. Under Item 308 of Regulation S-K, management
+must provide an annual report that discloses management’s assessment of the effectiveness of
+ICFR and any material weakness in ICFR, and management is not permitted to conclude that
+the registrant’s ICFR is effective if there are one or more material weaknesses in the
+registrant’s ICFR.
+
+                                  Plug Power’s Remedial Efforts
+
+         29.    In determining to accept Plug Power’s Offer, the Commission considered remedial
+acts promptly undertaken by the Company and cooperation afforded the Commission staff.
+Specifically, Plug Power prepared and began implementing a remediation plan in 2021, which
+includes the following remedial measures: (i) hiring additional resources, including approximately
+60 new employees in its accounting and finance department and internal audit; (ii) utilizing third-
+party resources with appropriate technical accounting expertise, and strengthening internal training,
+to help the Company’s employees identify and address complex technical accounting issues that
+affect the financial statements; (iii) designing and implementing a continuous risk-assessment
+process to identify and assess risks of material misstatements, and to help ensure that financial-
+reporting processes and related internal controls are properly designed, maintained, and
+documented to respond to such risks in financial reporting; (iv) implementing more analysis and
+review procedures and documentation for the application of GAAP, complex accounting matters,
+and key accounting policies; (v) augmenting estimation policies and procedures to be more robust
+and consistent with overall market dynamics, including evaluating the Company’s operating
+environment to ensure operating effectiveness of certain process-level controls; (vi) deploying new
+tools and tracking mechanisms to enhance and maintain appropriate documentation concerning the
+classification of certain operating expenses; and (vii) reporting regularly to Plug Power’s Audit
+Committee concerning progress and results, including the identification, status, and resolution of
+control deficiencies.
+
+                                           Undertakings
+
+       30.     Plug Power has undertaken to:
+
+
+                                                  8
+               a.    Fully remediate its material weakness in ICFR, and ineffective DCP, within
+                     one year from the date of this Order.
+
+               b.    Publicly disclose, within one year from the date of this Order, whether in
+                     management’s opinion, Plug Power has fully remediated its material weakness
+                     in ICFR and ineffective DCP.
+
+               c.    Certify, in writing, compliance with the undertakings set forth above. The
+                     Commission staff may make reasonable requests for evidence of compliance,
+                     including a narrative and supporting exhibits, and Plug Power agrees to
+                     provide such evidence. The certification and any requested supporting
+                     materials shall be submitted to James E. Etri, Assistant Director, with a copy
+                     to the Office of Chief Counsel of the Enforcement Division, no later than
+                     sixty (60) days from the date of the completion of the undertakings.
+
+                                                 IV.
+
+       In view of the foregoing, the Commission deems it appropriate to impose the agreed
+sanctions in Respondent’s Offer.
+
+       Accordingly, it is hereby ORDERED that:
+
+         A.    Pursuant to Section 21C of the Exchange Act, Respondent Plug Power cease and
+desist from committing or causing any violations and any future violations of Sections 13(a),
+13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 13a-1, 13a-13, and 13a-15(a) – (c)
+thereunder.
+
+       B.      Respondent shall comply with the undertakings enumerated in Paragraph 30 above.
+
+        C.      Respondent shall, within 30 days of the entry of this Order, pay a civil money
+penalty in the amount of $1,250,000 to the Securities and Exchange Commission for transfer to the
+general fund of the United States Treasury, subject to Exchange Act Section 21F(g)(3). If timely
+payment is not made, additional interest shall accrue pursuant to 31 U.S.C. §3717.
+
+        D.      If Respondent fails to comply with the undertakings enumerated in Paragraph
+30 above, Respondent shall, within ninety (90) days after one year from the date of this Order, pay
+an additional civil money penalty in the amount of $5,000,000 to the Securities and Exchange
+Commission for transfer to the general fund of the United States Treasury, subject to Exchange Act
+Section 21F(g)(3). If timely payment is not made, additional interest shall accrue pursuant to 31
+U.S.C. §3717.
+
+       E.      Payment(s) must be made in one of the following ways:
+
+               (1)      Respondent may transmit payment electronically to the Commission, which
+                        will provide detailed ACH transfer/Fedwire instructions upon request;
+
+                                                  9
+               (2)     Respondent may make direct payment from a bank account via Pay.gov
+                       through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+               (3)     Respondent may pay by certified check, bank cashier’s check, or United
+                       States postal money order, made payable to the Securities and Exchange
+                       Commission and hand-delivered or mailed to:
+
+               Enterprise Services Center
+               Accounts Receivable Branch
+               HQ Bldg., Room 181, AMZ-341
+               6500 South MacArthur Boulevard
+               Oklahoma City, OK 73169
+
+Payment(s) by check or money order must be accompanied by a cover letter identifying Plug
+Power as a Respondent in these proceedings, and the file number of these proceedings; a copy of
+the cover letter and check or money order must be sent to Eric Werner, Division of Enforcement,
+Securities and Exchange Commission, 801 Cherry Street, Suite 1900, Fort Worth, Texas 76102.
+
+        F.       Amounts ordered to be paid as civil money penalties pursuant to this Order shall
+be treated as penalties paid to the government for all purposes, including all tax purposes. To
+preserve the deterrent effect of the civil penalty, Respondent agrees that in any Related Investor
+Action, it shall not argue that it is entitled to, nor shall it benefit by, offset or reduction of any
+award of compensatory damages by the amount of any part of Respondent’s payment of a civil
+penalty in this action (“Penalty Offset”). If the court in any Related Investor Action grants such a
+Penalty Offset, Respondent agrees that it shall, within 30 days after entry of a final order granting
+the Penalty Offset, notify the Commission’s counsel in this action and pay the amount of the
+Penalty Offset to the Securities and Exchange Commission. Such a payment shall not be deemed
+an additional civil penalty and shall not be deemed to change the amount of any civil penalty
+imposed in this proceeding. For purposes of this paragraph, a “Related Investor Action” means a
+private damages action brought against Respondent by or on behalf of one or more investors based
+on substantially the same facts as alleged in the Order instituted by the Commission in this
+proceeding.
+
+       By the Commission.
+
+
+
+                                                       Vanessa A. Countryman
+                                                       Secretary
+
+
+
+
+                                                  10
+

@@ -1,0 +1,550 @@
+AAER-4581 | 2025-12-15 | Ammo, Inc. n/k/a Outdoor Holding Company
+Source: https://www.sec.gov/files/litigation/admin/2025/33-11397.pdf
+
+                             UNITED STATES OF AMERICA
+                                    Before the
+                      SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES ACT OF 1933
+Release No. 11397 / December 15, 2025
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 104409 / December 15, 2025
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4581 / December 15, 2025
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-22571
+                                                     ORDER INSTITUTING CEASE-AND-
+ In the Matter of                                    DESIST PROCEEDINGS PURSUANT TO
+                                                     SECTION 8A OF THE SECURITIES ACT
+        AMMO, INC. N/K/A                             OF 1933 AND SECTION 21C OF THE
+        OUTDOOR HOLDING                              SECURITIES EXCHANGE ACT OF 1934,
+        COMPANY,                                     MAKING FINDINGS, AND IMPOSING A
+                                                     CEASE-AND-DESIST ORDER
+ Respondent.
+
+
+
+
+                                                I.
+
+        The Securities and Exchange Commission (“Commission” or “SEC”) deems it appropriate
+that cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the
+Securities Act of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 1934
+(“Exchange Act”) against Ammo, Inc. n/k/a Outdoor Holding Company (“Ammo” or
+“Respondent”).
+
+                                               II.
+
+        In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the purpose
+of these proceedings and any other proceedings brought by or on behalf of the Commission, or to
+which the Commission is a party, and without admitting or denying the findings herein, except as
+to the Commission’s jurisdiction over it and the subject matter of these proceedings, which are
+admitted, Respondent consents to the entry of this Order Instituting Cease-and-Desist Proceedings
+Pursuant to Section 8A of the Securities Act of 1933 and Section 21C of the Securities Exchange
+Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order (“Order”), as set forth
+below.
+
+                                                   III.
+
+          On the basis of this Order and Respondent’s Offer, the Commission finds 1 that:
+
+                                               Summary
+
+        1.     These proceedings arise from Ammo’s accounting and disclosure fraud perpetrated
+by former senior executives at Ammo during the period August 2020 through July 2023 (the
+“Relevant Period”). 2 Ammo, which continues to operate under a different name, was a publicly
+traded company that manufactured ammunition and related components during the Relevant
+Period.
+
+        2.      Ammo filed annual reports with the Commission on Forms 10-K and one Form 10-
+K/A during the Relevant Period in which Ammo misleadingly failed to disclose (1) that Christopher
+D. Larson, a Commission-sanctioned accountant barred from working as an officer or director for
+public companies, acted as an undisclosed executive officer of Ammo, and (2) two related-party
+transactions involving Larson. In addition, in these same filings, as well as in accompanying
+earnings releases filed with the Commission on Forms 8-K, Ammo presented materially misstated
+financial statements including net income/loss figures by failing to follow Ammo’s disclosed
+method of calculating stock compensation expense and, in some of these filings, improperly
+capitalizing certain investor relations costs. Ammo also filed certain quarterly reports with the
+Commission on Forms 10-Q during the Relevant Period in which Ammo misleadingly failed to
+disclose related-party transactions involving Larson. On May 20, 2025, Ammo restated its financial
+statements, which included its fiscal years 2022 and 2023, to correct these accounting errors and to
+make the required disclosures regarding Larson (the “May 2025 Restatement”).
+
+        3.      Ammo also filed definitive proxy statements with the Commission during the
+Relevant Period, in which it likewise failed to disclose Larson as an executive officer or the related-
+party transactions involving Larson.
+
+        4.       Further, in the quarter ended September 30, 2020, Ammo reported, for the first time,
+positive adjusted EBITDA but misleadingly claimed that the positive adjusted EBITDA was the
+result of activities such as improved manufacturing capacity, while in reality the positive adjusted
+EBITDA figure was achieved by changing its accounting presentation to add back to earnings a
+pass-through cost.
+
+
+
+1
+ The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding on any
+other person or entity in this or any other proceeding.
+
+2
+    During the Relevant Period, Ammo had a fiscal year ending on March 31.
+                                                    2
+         5.     As a result of the conduct described herein, Ammo violated Sections 17(a)(1) and
+(3) of the Securities Act and Sections 10(b), 13(a), 13(b)(2)(A), 13(b)(2)(B), and 14(a) of the
+Exchange Act and Rules 10b-5, 12b-20, 13a-1, 13a-11, 13a-13, 14a-3, and 14a-9 thereunder.
+
+                                         Respondent
+
+        6.      Ammo, Inc. n/k/a Outdoor Holding Company is a Delaware corporation with its
+principal office in Scottsdale, Arizona. In December 2020, Ammo completed its initial public
+offering and began trading on the Nasdaq Capital Market under the symbol POWW. Ammo
+operates an online firearms and outdoor gear marketplace called GunBroker.com. Ammo’s
+common stock is registered with the Commission pursuant to Section 12(b) of the Exchange Act.
+Ammo files periodic reports, including Forms 10-K and 10-Q, with the Commission pursuant to
+Section 13(a) of the Exchange Act and related rules thereunder.
+
+                                     Other Relevant Persons
+
+        7.      Christopher D. Larson co-founded Ammo in 2016 and separated from the
+company in November 2022. Larson was a Certified Public Accountant (“CPA”) licensed in
+Minnesota until his license was revoked in July 2021. On June 1, 2020, in settlement of a civil
+action brought by the Commission unrelated to Ammo, Larson was enjoined from violating the
+antifraud provisions of the federal securities laws and prohibited from acting as an officer or
+director of a public company for a period of five years. See Partial Final Consent Judgment, SEC v.
+Zouvas, Case No. CV-17-00427-PHX-SPL (D. Ariz. June 1, 2020), adopting as an order of the
+court, Consent of Defendant Christopher D. Larson to Final Judgment, Zouvas, Case No. CV-17-
+00427-PHX-SPL (Apr. 13, 2020). On June 3, 2020, the Commission suspended Larson from
+appearing or practicing before the Commission as an accountant, based on Larson’s settlement
+offer and the district court judgment, pursuant to Rule 102(e) of the Commission’s Rules of
+Practice.
+
+       8.      Fred W. Wagenhals co-founded Ammo in 2016. He served as Ammo’s chief
+executive officer (“CEO”) and chairman of the board from 2016 until July 2023, and served as
+Ammo’s executive chairman from July 2023 to April 2025.
+
+        9.      Robert D. Wiley, CPA, is a CPA licensed in the state of Arizona. From May 2018
+through January 2019, Wiley was Ammo’s controller, and from January 2019 through September
+20, 2024, when he resigned at the request of Ammo’s board of directors, Wiley served as Ammo’s
+chief financial officer (“CFO”).
+
+                                           Background
+
+        10.     Shortly after the Commission sued Larson in April 2016 alleging that he
+perpetrated a fraudulent scheme while acting as an undisclosed executive officer of another
+company, Larson co-founded Ammo and began working under the title of Vice President of
+Finance.
+
+
+                                                 3
+       11.  Ammo was founded as a business that manufactured and sold ammunition. In April
+2021, Ammo acquired GunBroker.com, an online firearms and outdoor gear marketplace.
+
+        12.     In the summer of 2022, GunBroker.com’s former owner, dissatisfied with
+Ammo’s management, initiated a proxy contest to nominate an alternate slate of directors. As
+part of a settlement of the proxy contest, Ammo agreed to, among other things, Larson’s
+separation from Ammo in November 2022.
+
+        13.    Ammo sold its manufacturing division in April 2025, leaving GunBroker.com’s
+online platform as Ammo’s only business line. In May 2025, GunBroker.com’s former owner took
+over as Ammo’s CEO and chairman of the board. As such, Ammo is now operating under new
+senior management that is different from those responsible for the conduct leading to the violations
+described herein.
+
+             Ammo’s Failure to Disclose Larson’s Employment and Role at Ammo
+
+        14.     Larson worked as a senior executive at Ammo from its inception until he separated
+from Ammo in November 2022. For example, Larson shared an office suite with Wagenhals and
+the two were in almost daily contact. Larson also had frequent communications with Wiley and
+others concerning Ammo’s business. Larson’s day-to-day activities at Ammo included, for
+example, working to raise money in the capital markets, leading Ammo’s mergers and acquisitions
+activity, leading Ammo’s investor relations activities, securing critical components for Ammo’s
+manufacturing operations, and leading improvements to Ammo’s credit card processing
+capabilities.
+
+        15.     Larson received more total compensation than any named executive officer of
+Ammo besides Wagenhals in fiscal years 2021 and 2022, and, in part due to a large separation
+payment, Larson received more total compensation than any other Ammo executive officer in
+fiscal year 2023. Indeed, during his employment, Ammo’s organizational charts often depicted
+Larson as holding the second-highest ranking position at Ammo. Moreover, the public documents
+for Ammo’s largest transaction in its history—its acquisition of GunBroker.com—listed Larson as
+among one of four “Key Employees” whose knowledge was imputed to the company.
+
+        16.     Item 401 of Regulation S-K requires companies that file periodic reports with the
+Commission to disclose their executive officers and to disclose, among other things, certain legal
+proceedings from the last ten years “that are material to an evaluation of the ability or integrity of
+any director, person nominated to become a director or executive officer of the registrant.” 17
+C.F.R. § 229.401(b), (f). The legal proceedings listed include proceedings alleging a violation of
+securities law and resulting in a judgment. See id. § 229.401(f)(7).
+
+         17.    Nevertheless, Ammo kept Larson’s role as an executive officer, and therefore his
+disciplinary history, compensation, and holdings of Ammo shares, hidden from investors. During
+the Relevant Period, Wagenhals and Wiley signed Ammo’s annual reports on Forms 10-K, which
+listed themselves as named executive officers and disclosed that none of Ammo’s executive
+officers had in the past ten years been subject to any order limiting their “involvement in any type
+
+                                                   4
+of business, securities or banking activities,” but excluded Larson and his disciplinary history,
+compensation, and holdings of Ammo shares.
+
+        18.     Additionally, in its Form 10-K filed with the Commission on August 19, 2020, its
+proxy statement filed with the Commission on September 9, 2020, and its Form S-1 filed with the
+Commission on September 15, 2020, Ammo failed to disclose Larson’s role and compensation
+even though the filings purportedly disclosed all Ammo employees receiving more than $100,000
+in annual cash compensation. Larson’s compensation exceeded this threshold for the applicable
+period. Larson was also not listed as an executive officer of Ammo in any of the subsequent proxy
+statements filed during the Relevant Period.
+
+        19.     In furtherance of the scheme to hide Larson’s role at Ammo, Wagenhals and Wiley
+repeatedly made false representations to Ammo’s external auditors that Larson was not employed
+at the company and would not return to the company as an employee. Wiley also engaged in other
+deceptive acts to conceal Larson’s employment and role at Ammo from Ammo’s auditors.
+
+        20.     Because Larson acted as an undisclosed executive officer during the Relevant
+Period, had been enjoined from violating the antifraud provisions of the federal securities laws and
+prohibited from acting as an officer or director of a public company for a period of five years, and
+suspended from appearing or practicing before the Commission as an accountant, Ammo’s Forms
+10-K stating that none of Ammo’s executive officers had in the past ten years been subject to any
+order limiting their “involvement in any type of business, securities or banking activities” were
+false and materially misleading. Further, Ammo’s omissions regarding Larson’s role,
+compensation, disciplinary history, and holdings of Ammo shares in its public filings with the
+Commission rendered the statements made (listing other executive officers) incomplete and
+therefore materially misleading.
+
+       21.    In its May 2025 Restatement, which amended Ammo’s Forms 10-K for fiscal years
+2022 and 2023, Ammo identified Larson as an executive officer of Ammo holding the title of
+“Vice President of Finance.”
+
+                   Undisclosed Related-Party Transactions Involving Larson
+
+         22.     Item 404 of Regulation S-K requires companies that file periodic reports with the
+Commission to disclose past or proposed future transactions exceeding $120,000 with related
+persons if the company is a participant and the related person has a direct or indirect material
+interest. See 17 C.F.R. § 229.404(a). Related persons include, among others, any director or
+executive officer of the registrant, and any immediate family member of the director or executive
+officer of the registrant, including spouses and siblings. See id. In addition, under generally
+accepted accounting principles (“GAAP”), an entity’s financial statements must contain
+disclosures of material related-party transactions. See Accounting Standard Codification (“ASC”)
+850-10-50-1, Related Party Disclosures, General.
+
+
+
+
+                                                  5
+        23.     Ammo, while disclosing other related-party transactions, failed to disclose two
+related-party transactions involving Larson in its Forms 10-K, annual proxy statements, and certain
+Forms 10-Q during the Relevant Period.
+
+        24.     In late 2020, Ammo hired a construction company (“Company A”) that was owned
+and managed by Larson’s brother to build a new $25 million manufacturing facility for Ammo.
+The contract retaining Company A was a related-party transaction. Wagenhals and Wiley both
+knew that Larson’s brother owned and managed Company A. Ammo selected Company A based
+on Larson’s recommendation, and without securing bids from other general contractors to
+construct a new manufacturing facility. Ammo made payments to Company A exceeding $1.4
+million in each quarter from the second quarter of fiscal year 2022 through the third quarter of
+fiscal year 2023.
+
+        25.     Moreover, Wiley misled Ammo’s auditor regarding the transaction with Company
+A. In February 2022, as part of its related-party audit procedures, Ammo’s auditor specifically
+asked Wiley to confirm that the $25 million construction contract with Company A was a “separate
+party” from Chris Larson. In response, Wiley stated that Company A “is a separate party from
+Chris Larson” without disclosing that Company A was owned by Larson’s brother. Wiley’s
+response, in the context of the question, was misleading because it implied falsely that the $25
+million construction contract had no connection to Larson, and served to conceal Larson’s role at
+Ammo.
+
+        26.      In early 2021, Larson negotiated an agreement between Ammo and an investor
+relations firm (“Company B”). The agreement required Ammo to make an upfront payment to
+Company B in the form of registered (i.e., free-trading) shares of Ammo common stock. Larson
+told Wiley that because Ammo was not permitted to issue such shares to an entity, Larson would
+direct his wife to transfer 200,000 shares of her Ammo stock to Company B or its designee, and
+then Ammo would later reimburse Larson for the 200,000 shares. Larson’s wife then transferred
+200,000 Ammo shares, then valued at approximately $770,000, to Company B.
+
+        27.    Instead of having Ammo reimburse Larson’s wife directly, however, Larson
+arranged for the creation of a shell company called RW Cabo, LLC (“RW Cabo”) to take the
+shares. Ammo subsequently filed a Form S-3 registration statement, signed by Wiley, assigning
+200,000 Ammo shares to RW Cabo, therefore masking the connection to Larson. The payments by
+Larson’s wife on behalf of Ammo to Company B and the reimbursement by Ammo to a shell
+company created by Larson were related-party transactions.
+
+       28.      Wiley’s email communications reflect that he knew the shares were repaid to
+Larson’s shell entity, but he took no action to disclose the related-party transactions with Larson’s
+wife and RW Cabo (a/k/a Larson), and Wiley did not consult with Ammo’s auditor about them.
+
+        29.    Ammo’s omissions regarding the related-party transactions with Larson rendered
+the statements made in Ammo’s Forms 10-K, certain Forms 10-Q, and annual proxy statements
+during the Relevant Period (listing other related-party transactions) incomplete and therefore
+materially misleading.
+
+                                                  6
+       30.    In its May 2025 Restatement, which amended Ammo’s Forms 10-K for fiscal years
+2022 and 2023, Ammo disclosed the related party transactions with Company A and Company B.
+
+                        Additional Financial Statement Misstatements
+
+       31.    Ammo materially misstated its financial statements for fiscal years 2021 through
+2023 due to improper accounting concerning (1) equity issuance costs, and (2) stock compensation
+expense (employee compensation and goods/services paid for with Ammo stock in lieu of cash).
+
+          Equity Issuance Costs - Improper Capitalization of Investor Relations Expenses
+
+        32.     During its 2021 and 2022 fiscal years, Ammo improperly capitalized as a reduction
+to equity amounts paid to two investor relations firms, Company B (described above) and
+Company C. As reflected in Ammo’s May 2025 Restatement, under GAAP, expenses are
+generally recognized as they are incurred. Accordingly, general investor relations services cannot
+be capitalized but must instead be treated as an expense deducted from income.
+
+        33.     Wiley determined that Ammo would capitalize the Company B costs based on
+Larson’s representation that the services provided by Company B directly related to Ammo’s
+Series A preferred stock offering that closed in May 2021, rather than general investor relations
+services. This was false as Company B did not perform any work related to that securities offering.
+
+        34.     To support the accounting treatment, Wiley sent Ammo’s auditor invoices from
+Company B. However, before Wiley sent them, Larson caused Company B to “change the
+description on [its] invoices” to add a reference to the preferred stock offering when such a
+reference had not initially been included.
+
+        35.     Ammo also improperly capitalized costs for investor relations services purportedly
+provided by Company C. Wiley based the accounting treatment on an unexecuted service
+agreement, dated April 1, 2021, provided by Larson, with no supporting documentation showing
+that any services directly attributable to a securities offering were, in fact, performed by Company
+C. Company C did not perform any services related to an Ammo securities offering.
+
+       36.      As a result of its improper capitalization of investor relations costs, Ammo
+understated its general and administrative expenses by approximately $1 million in fiscal year
+2021 and approximately $5.8 million in fiscal year 2022.
+
+     37.    As part of its May 2025 Restatement, Ammo re-classified the amounts paid to both
+Company B and Company C and treated them as expenses deducted from income.
+
+   Failure to Follow Accounting Policy Resulting in Understated Stock Compensation Expense
+
+      38.     In Forms 10-K filed for fiscal years 2021 through 2023, Ammo stated that it
+measured stock compensation expense based on “the closing fair market value of our Common
+
+                                                  7
+Stock on the date of grant.” (emphasis added). However, Wiley did not follow Ammo’s disclosed
+policy for computing its stock compensation expense for those fiscal years. Rather, Wiley
+calculated Ammo’s stock compensation expense by reference to prices associated with various
+common stock and restricted stock transactions occurring within those fiscal years or by using
+other valuation methods, which caused Ammo’s stock compensation expense to be based on share
+prices that were often significantly discounted from the applicable closing market price on the
+grant dates.
+
+       39.     As a result of Ammo’s failure to follow its disclosed accounting policy for stock
+compensation expense, it understated its employee salaries and general and administrative
+expenses by approximately $4.2 million in fiscal year 2021; approximately $1.4 million in fiscal
+year 2022; and approximately $4.1 million in fiscal year 2023.
+
+         40.    In its May 2025 Restatement, Ammo corrected its financial statements to account
+for its stock compensation expenses consistent with its disclosed policy – i.e., based on Ammo’s
+closing stock price on the dates of grant.
+
+        41.     Ammo’s improper capitalization of investor relations costs and miscalculation of
+stock compensation expense caused Ammo to materially understate its fiscal year 2021 and 2023
+net losses by approximately 66.5% and 90.1%, respectively, and to overstate its fiscal 2022 net
+income by approximately 21.6%. These materially misstated figures were included in Ammo’s
+Forms 10-K, and corresponding earnings releases filed on Forms 8-K, for the respective periods.
+
+              False and Misleading Statements Concerning Adjusted EBITDA
+
+         42.   Ammo historically reported adjusted EBITDA, a non-GAAP performance metric,
+in its Forms 10-K and Forms 10-Q filed with the Commission. In its filings, Ammo calculated
+adjusted EBITDA by excluding the impact of various items, including certain non-cash expenses
+and receipts/payments that are not components of Ammo’s core operations.
+
+        43.      During the Relevant Period, Ammo charged and collected from customers an 11%
+federal excise tax on its sales of ammunition. Ammo then paid applicable excise taxes to the
+federal government. In its financial statements, Ammo included the amounts collected for federal
+excise tax in its sales revenue and its cost of goods sold. As such, excise taxes had no effect on
+Ammo’s net income and were effectively a pass-through cost. Historically, Ammo had not
+included an adjustment related to the excise taxes paid by Ammo in its adjusted EBITDA
+calculation.
+
+          44.    In August 2020, Ammo announced that it expected to report in the second quarter
+of its fiscal year 2021, for the first time in its history, positive adjusted EBITDA. But when the
+books were closed for the quarter, the numbers showed Ammo’s adjusted EBITDA would still be
+negative.
+
+     45.     Thereafter, following a discussion with Larson about adding excise taxes to
+Ammo’s adjusted EBITDA calculation, Wiley changed Ammo’s calculation of adjusted EBITDA
+
+                                                 8
+to add back the federal excise taxes Ammo paid. As a result, Ammo’s adjusted EBITDA changed
+from a $438,750 loss to a $425,820 profit, a swing of $864,570.
+
+       46.    On November 16, 2020, Ammo issued a press release, which Wiley reviewed and
+approved, in which Wagenhals stated:
+
+       We continue to make further progress with the manufacturing capabilities,
+       infrastructure and capacity improvements deployed in fiscal year 2020 and 2021.
+       As a result, we achieved our first ever quarter of adjusted EBITDA profitability
+       during the second quarter.
+
+     47.    Ammo’s press release did not disclose the company’s change to its adjusted
+EBITDA calculation.
+
+         48.    Ammo’s press release was false and misleading because it was the changed
+calculation that resulted in positive adjusted EBITDA rather than the reasons listed in the press
+release.
+
+                           Inadequate Internal Accounting Controls
+
+        49.    Throughout the Relevant Period, Ammo had inadequate internal accounting
+controls.
+
+        50.     For example, as set forth in Ammo’s May 2025 Restatement, Ammo did not
+maintain, among other things: (1) “a sufficient complement of qualified personnel within the
+accounting and financial reporting function, including reliance on unqualified personnel, with an
+appropriate level of technical expertise to provide for sufficient oversight, accountability and
+monitoring over the performance of control activities;” (2) “controls over the effective review of
+the models, assumptions and data used in developing estimates or changes made to models,
+assumptions and data to ensure the appropriate application of GAAP;” (3) sufficient “governance
+to monitor compliance with the Company’s Code of Conduct to identify, evaluate, and report
+potential fraud as well as related director and management behavior;” (4) “controls over the
+identification and disclosure of related-party transactions and executive compensation;” and (5)
+“controls over period-end financial reporting, including tie-out and review of supporting
+documentation.”
+
+       51.     These material control weaknesses contributed to Ammo’s (1) failure to report
+Larson as an executive officer; (2) failure to report related-party transactions involving Larson; and
+(3) material misstatements of financial statement information due to the accounting issues
+discussed herein.
+
+                                             Violations
+
+         52.    As a result of the conduct described above, Ammo violated Sections 17(a)(1) and
+(3) of the Securities Act, which prohibit, among other things, fraudulent schemes and practices in
+
+                                                  9
+the offer or sale of securities, and Section 10(b) of the Exchange Act and Rule 10b-5 thereunder,
+which prohibit fraud, including making any untrue statement of material fact or omitting to state a
+material fact necessary to make the statements made, in the light of the circumstances under which
+they are made, not misleading, in connection with the purchase or sale of securities.
+
+        53.      As a result of the conduct described above, Ammo violated Section 13(a) of the
+Exchange Act, and Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder, which require issuers of
+securities registered pursuant to Section 12 of the Exchange Act to file periodic and other reports
+with the Commission, including annual (Form 10-K), quarterly (Form 10-Q), and current (Form 8-
+K) reports, and mandate that such reports contain any material information necessary to make the
+required statements made in the report not misleading.
+
+       54.     As a result of the conduct described above, Ammo violated Section 13(b)(2)(A) of
+the Exchange Act, which requires issuers of securities registered pursuant to Section 12 of the
+Exchange Act to make and keep books, records, and accounts which, in reasonable detail,
+accurately and fairly reflect their transactions and dispositions of their assets.
+
+        55.     As a result of the conduct described above, Ammo violated Section 13(b)(2)(B) of
+the Exchange Act, which requires issuers of securities registered pursuant to Section 12 of the
+Exchange Act to devise and maintain a system of internal accounting controls sufficient to, among
+other things, provide reasonable assurances that transactions are recorded as necessary to permit
+preparation of financial statements in accordance with GAAP.
+
+        56.     Finally, as a result of the conduct described above, Ammo violated Section 14(a) of
+the Exchange Act and Rules 14a-3 and 14a-9 thereunder. Section 14(a) of the Exchange Act makes it
+unlawful to solicit any proxy with respect to any security (other than an exempted security) registered
+pursuant to Section 12 of the Exchange Act in contravention of such rules and regulations as the
+Commission may prescribe. Rule 14a-3 prohibits issuers from soliciting proxies without furnishing
+proxy statements containing the information specified by Schedule 14A (Rule 14a-101), including
+information required by Items 401 and 404(a) of Regulation S-K. Rule 14a-9 prohibits the use of
+proxy statements containing materially false or misleading statements or materially misleading
+omissions.
+
+                                  Ammo’s Remediation Efforts
+
+        57.     Ammo has undertaken remedial measures, including conducting an internal
+investigation, hiring an accounting advisory firm to assist with its restatement, and hiring a
+compliance consultant (“Compliance Consultant”) to assist with its remediation of material
+weaknesses in internal control over financial reporting, which is ongoing. To date, Ammo also has:
+(1) replaced members of senior management, including its CEO and CFO; (2) increased its
+accounting staff, including hiring a vice president of accounting and external reporting and
+engaging a full-time GAAP accounting consultant; (3) addressed the problems that led to misstated
+stock compensation expenses; (4) increased its training for accounting staff, including on the
+subject of proper expense capitalization; (5) amended its accounting policies and procedures
+related to journal entries, invoice approval, account reconciliations, and variance thresholds; (6)
+
+                                                  10
+created a new process for identifying and disclosing related-party transactions; and (7) established
+a formal disclosure committee that includes key members of management.
+
+       58.    In determining to accept the Offer, the Commission considered remedial acts
+undertaken by Respondent.
+
+                                           Undertakings
+
+        59.     Prior to this action, Respondent engaged the Compliance Consultant to conduct a
+comprehensive review of and assist with Respondent’s remediation of material weaknesses in
+internal control over financial reporting, which is ongoing. As part of the remedial measures
+already in progress, and given the nature and scope of the Commission’s claims, Respondent has
+undertaken to:
+
+                a.      Within two years from the issuance of this Order, adopt and implement all
+of the Compliance Consultant’s recommendations. Respondent shall also direct the Compliance
+Consultant to, no later than 120 days thereafter, in its professional judgment, conduct such review
+as it deems appropriate to verify that Respondent has appropriately implemented the Compliance
+Consultant’s recommendations necessary to remediate material weaknesses in internal control over
+financial reporting; and
+
+               b.    Cooperate fully with the Compliance Consultant and provide the
+Compliance Consultant with access to such files, books, records, and personnel as are reasonably
+requested by the Compliance Consultant for review.
+
+        60.      Respondent shall certify, in writing, compliance with the undertakings set forth
+above. The certification shall identify the undertakings, provide written evidence of compliance in
+the form of a narrative, and be supported by exhibits sufficient to demonstrate compliance. The
+Commission staff may make reasonable requests for further evidence of compliance, and
+Respondent agrees to provide such evidence. Unless otherwise directed by the Commission staff,
+all reports, certifications, and other documents required to be provided to the Commission staff
+pursuant to this Order shall be sent to Ian S. Karpel, Assistant Director, Denver Regional Office,
+1961 Stout Street, Suite 1700, Denver, CO 80294,with a copy to the Office of Chief Counsel of the
+Enforcement Division, no later than sixty (60) days from the date of the completion of the
+undertakings.
+
+        61.      For good cause shown, the Commission staff may extend any of the procedural
+dates relating to the undertakings, or permit the Respondent to retain, at its own expense, another
+Compliance Consultant not unacceptable to the staff of the Commission. Deadlines for procedural
+dates shall be counted in calendar days, except that if the last day falls on a weekend or federal
+holiday, the next business day shall be considered the last day.
+
+        62.    The reports by the Compliance Consultant will likely include confidential financial,
+proprietary, competitive business, or commercial information. Public disclosure of the reports
+could discourage cooperation, impede pending or potential government investigations, or
+undermine the objectives of the reporting requirement. For these reasons, among others, the reports
+                                                 11
+and the contents thereof are intended to remain and shall remain non-public, except (1) pursuant to
+court order, (2) as agreed to by the parties in writing, (3) to the extent that the Commission
+determines in its sole discretion that disclosure would be in furtherance of the Commission’s
+discharge of its duties and responsibilities, or (4) as otherwise required by law.
+
+                                                IV.
+
+        In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondent Ammo’s Offer.
+
+       Accordingly, pursuant Section 8A of the Securities Act and 21C of the Exchange Act, it is
+hereby ORDERED that:
+
+        A.      Respondent Ammo cease and desist from committing or causing any violations and
+any future violations of Sections 17(a)(1) and (3) of the Securities Act and Sections 10(b), 13(a),
+13(b)(2)(A), 13(b)(2)(B), and 14(a) of the Exchange Act and Rules 10b-5, 12b-20, 13a-1, 13a-11,
+13a-13, 14a-3, and 14a-9 promulgated thereunder.
+
+       B.     Respondent shall comply with the undertakings enumerated in Paragraphs 59
+through 62 above.
+
+       By the Commission.
+
+
+
+                                                      Vanessa A. Countryman
+                                                      Secretary
+
+
+
+
+                                                12
+

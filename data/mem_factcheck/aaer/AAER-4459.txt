@@ -1,0 +1,544 @@
+AAER-4459 | 2023-09-25 | GTT Communications, Inc.
+Source: https://www.sec.gov/files/litigation/admin/2023/33-11241.pdf
+
+                           UNITED STATES OF AMERICA
+                                    Before the
+                      SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES ACT OF 1933
+Release No. 11241 / September 25, 2023
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 98491 / September 25, 2023
+
+AAER Release No. 4459 / September 25, 2023
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-21708
+                                                     ORDER INSTITUTING CEASE-AND-
+ In the Matter of                                    DESIST PROCEEDINGS PURSUANT TO
+                                                     SECTION 8A OF THE SECURITIES ACT
+        GTT Communications, Inc.                     OF 1933 AND SECTION 21C OF THE
+                                                     SECURITIES EXCHANGE ACT OF 1934,
+ Respondent.                                         MAKING FINDINGS, AND IMPOSING A
+                                                     CEASE-AND-DESIST ORDER
+
+
+                                                I.
+
+        The Securities and Exchange Commission (“Commission”) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act
+of 1933 (“Securities Act”) and Section 21C of the Securities Exchange Act of 1934 (“Exchange
+Act”), against GTT Communications, Inc. (“GTT” or “Respondent”).
+
+                                               II.
+
+        In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commission’s jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 8A of the Securities Act of 1933 and Section 21C of
+the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order
+(“Order”), as set forth below.
+                                                III.
+
+       On the basis of this Order and Respondent’s Offer, the Commission finds1 that:
+
+                                            Summary
+
+        1.      GTT made materially misleading statements and omissions relating to Cost-of-
+Revenue (“COR”) in certain 2019 and 2020 Exchange Act annual, quarterly, and current reports.
+COR, referred to by GTT in public filings as Cost of Telecommunications Services, represents
+direct costs incurred by GTT in providing telecommunications services to its customers and is
+GTT’s largest operating expense.
+
+        2.       GTT grew rapidly through a series of acquisitions in 2017 and 2018, but struggled
+to integrate the newly-acquired companies into GTT’s systems. As a result, two key operational
+systems – GTT’s Client Management Database (“CMD”) and its third-party bill processing system
+(the “BPS”) – started to show a persistent and growing discrepancy between actual invoices
+received through the BPS that related to COR and GTT’s expectation of what COR should be
+based on underlying supplier contracts in CMD. This discrepancy, which was widely known
+within GTT, was a clear sign that GTT’s COR accounting methodology was not working properly
+and that GTT had data integrity issues.
+
+         3.     GTT’s accountants and operations staff investigated the cause of the discrepancy,
+but there was no effective way to compare the data in the two systems. Further, given the volume
+of transactions following the acquisitions, GTT did not have the resources to review its COR
+invoices manually for proper classification and validity. By at least mid-2018, GTT knew that it
+did not have sufficient information systems or resources to record and report COR accurately and
+fairly following the 2017 and 2018 acquisitions. Despite that knowledge, GTT failed to implement
+and maintain policies and procedures designed to provide reasonable assurance that the COR
+reflected in GTT’s financial statements was based on reasonable support. There also was a
+knowledge disconnect between GTT’s operations employees, who managed the company’s COR-
+related data, and the accounting employees, who used that data to record and report COR. Both
+groups were confused as to the other’s role: operations did not fully appreciate how accounting
+used the data they provided, and accounting did not fully understand what the data reflected and its
+limitations. Consequently, GTT’s conduct fell below the standard of care of a reasonable,
+similarly situated company.
+
+       4.       As a result, GTT failed to disclose material facts concerning certain unsupported
+adjustments to COR, which caused the statements that GTT made concerning COR to be
+misleading in light of the circumstances. These adjustments concerned COR-In-Advance (i.e., pre-
+paid expense) and COR vendor disputes and were reported in GTT’s Forms 10-Q for the quarters
+ended September 30, 2019, and March 31, 2020, and in GTT’s Form 10-K for the fiscal year ended
+December 31, 2019, and in related earnings releases on Forms 8-K. GTT also made material
+
+1
+       The findings herein are made pursuant to Respondent’s Offer of Settlement and are not
+binding on any other person or entity in this or any other proceeding.
+
+                                                 2
+omissions in its 2019 Form 10-K concerning uncertainties involving certain receivables from
+vendors subject to disputes that were recorded in its financial statements that rendered statements it
+made misleading. Consequently, and as described in more detail below, GTT violated Sections
+17(a)(2) and (3) of the Securities Act. GTT also violated Sections 13(a), 13(b)(2)(A) and
+13(b)(2)(B) of the Exchange Act and Rules 12b-20, 13a-1, 13a-11, 13a-13, and 13a-15(a)
+thereunder.
+
+                                            Respondent
+
+        5.       GTT Communications, Inc., a Delaware corporation headquartered in Virginia, was
+a publicly traded multinational telecommunications and internet service provider at all relevant
+times. GTT’s stock was registered under Section 12(b) of the Exchange Act and was listed on the
+New York Stock Exchange (“NYSE”) until July 21, 2021, when it was delisted. On November 9,
+2021, GTT filed a Form 15 terminating its registration under Section 12(g) of the Exchange Act
+and notifying the Commission that its duty to file reports under Section 15(d)(1) of the Exchange
+Act had been suspended for that fiscal year because it had fewer than 300 holders of record of each
+class of securities registered under the Exchange Act. GTT and certain of its affiliates filed
+prepackaged Chapter 11 bankruptcy cases on October 31, 2021, and GTT emerged as a private
+company on December 30, 2022.
+
+                                                Facts
+
+         Following Several Acquisitions, Two GTT Operating Systems Used to Account
+       for COR Showed a Persistent Discrepancy Between Expected and Actual Expense
+
+        6.      GTT grew rapidly between 2017 and 2018, completing eight acquisitions that more
+than doubled GTT’s revenue and expense. Many of the acquired companies were private,
+distressed companies located outside the United States that used different operating and accounting
+systems than GTT and that lacked robust internal controls. GTT’s employees were overwhelmed
+by the increased volume of data and transactions following the acquisitions and they struggled to
+successfully integrate certain of these newly acquired companies into GTT’s systems, including
+CMD and its BPS.
+
+       7.      CMD was an internally developed platform that GTT used to manage its contracts
+with networks, clients, and suppliers. GTT used CMD to bill customers for services provided, to
+manage the inventory necessary to provide the contracted-for services, and to estimate the
+expenses associated with providing the services. CMD contained estimates of GTT’s anticipated
+COR derived from information about third-party vendor inventory used to fulfill services to its
+customers.
+
+        8.      GTT used its BPS, which was specifically designed for the telecommunications
+industry, to process vendor invoices that underlay COR. The BPS received the majority of invoices
+electronically directly from the telecommunications vendors. The BPS processed the vendor
+invoices and pulled information, such as the service period and underlying charge type, into a
+useable format for GTT operations employees to review and approve or reject in summary form.
+
+
+                                                  3
+For purposes of recording and reporting COR, the BPS contained GTT’s expenses as reflected in
+the invoices received from the vendors.
+
+        9.       By the close of the second quarter 2018, a persistent and growing discrepancy
+existed between the amounts GTT was routinely paying in invoices as reflected in the BPS and the
+expected costs that were reflected in CMD. This discrepancy between CMD and the BPS
+indicated that GTT’s accounting methodology was not working correctly and that its systems had
+data integrity issues.
+
+        10.     At various points in time, GTT’s accountants and operations employees
+investigated the cause of the discrepancy, but there was no effective way to compare the data in the
+two systems, which by 2019 were processing more than 600,000 COR transactions on a monthly
+basis. Additionally, given the volume of data, GTT did not have the resources to review the
+invoices manually.
+
+    GTT Failed to Implement and Maintain Policies and Procedures Designed to Provide
+  Reasonable Assurance that COR Expense Adjustments Were Based on Reasonable Support
+
+        11.      After the discovery of the discrepancy between CMD and the BPS, GTT never
+resolved which data source should be used to record and report COR or which was more accurate.
+Certain members of GTT’s management favored CMD because it was GTT’s database of record
+and they believed it to be more accurate than the BPS. Certain members of GTT’s accounting staff
+did not fully trust the accuracy of either CMD or the BPS.
+
+        12.     Additionally, there was an information disconnect between the operations and
+accounting staff. There was a lack of understanding as to the other’s role, and the two groups did
+not effectively communicate concerning COR and the issues they were seeing. Operations was
+responsible for maintaining the data in CMD and the BPS, while accounting was responsible for
+recording and reporting COR based on the data maintained by operations. Accounting could not
+resolve the data discrepancy problem without the help of operations. Further, operations did not
+fully appreciate how accounting used the data they provided, and accounting did not fully
+understand what the data reflected and its limitations.
+
+        13.     By mid-2019, GTT accountants and operations employees, as well as some
+members of senior management, knew that the only way to determine GTT’s actual COR was to
+link the data between CMD and the BPS at a granular level. Until that exercise was completed and
+the systems were updated, they knew that GTT did not have a reliable data source on which to base
+the COR being recorded in the financial statements.
+
+         14.   Thus, it was widely understood within GTT that it did not have sufficient systems
+and resources to accurately record and report COR following its acquisitions. Yet, despite
+knowing that it lacked both a reliable data source and the resources to manually review COR, GTT
+failed to implement and maintain policies and procedures designed to provide reasonable assurance
+that COR adjustments were based on reasonable support. Rather, GTT’s operations and
+accounting employees continued to communicate ineffectively concerning COR, and GTT
+
+
+                                                 4
+continued to record adjustments to COR that lacked reasonable support, which fell below the
+standard of care of a reasonable, similarly situated company.
+
+   GTT Made Unsupported Accounting Adjustments to COR in 2019 and 2020, Resulting in
+          Materially Misleading Statements and Omissions in Its Public Filings
+
+        15.     As a result of GTT’s lack of policies and procedures to provide reasonable
+assurance that COR adjustments were based on reasonable support as well as the information
+disconnect between GTT’s operations and accounting employees regarding COR, GTT failed to
+disclose material facts concerning certain unsupported and highly uncertain adjustments to COR
+during the third quarter of 2019, fourth quarter of 2019 and the first quarter of 2020. This rendered
+the disclosures made concerning COR and vendor disputes materially misleading in light of the
+circumstances.
+
+                         Third Quarter 2019 COR-In-Advance Adjustment
+
+        16.      First, in the third quarter of 2019, GTT accountants moved $5.6 million of expense
+from the income statement to COR-In-Advance (i.e., prepaid expense) on the balance sheet
+without reasonable support. The adjustment increased prepaid expense and decreased COR on the
+financial statements reported in GTT’s Form 10-Q for the third quarter of 2019. It was also
+included in the financial information reported in an earnings release furnished with GTT’s
+November 11, 2019, Form 8-K. By that time, GTT accounting and operations employees were
+investigating, but had not determined the cause of, the discrepancy in COR reflected between
+CMD and the BPS. Although they suspected the BPS was not properly processing certain invoices
+that covered future service periods and was thus potentially overstating COR, they had no
+reasonable basis to quantify the impact of this suspected shortcoming prior to the closing of the
+books for the third quarter of 2019. GTT’s decision to record the $5.6 million adjustment was
+motivated by a desire to keep expenses consistent with CMD while it continued to investigate.
+Given the circumstances, GTT’s failure to disclose material facts concerning this unsupported
+adjustment, including that GTT could not confirm the validity or quantification of this adjustment
+prior to the close of the quarter, caused GTT’s disclosures concerning COR to be materially
+misleading. The COR-In-Advance adjustment amount had a material impact on GTT’s third
+quarter financial statements by increasing GTT’s operating income by approximately 23% and
+decreasing its third quarter net loss before income taxes by approximately 17%.
+
+                          Fourth Quarter 2019 Bulk Disputes Adjustment
+
+        17.     Second, in the fourth quarter of 2019, GTT failed to disclose material facts
+concerning an unsupported $16 million vendor dispute adjustment, which rendered GTT’s
+disclosures concerning COR and vendor disputes materially misleading in light of the
+circumstances. The adjustment reduced COR and was reflected in GTT’s 2019 Form 10-K, and in
+the related earnings release furnished with the March 2, 2020, Form 8-K.
+
+        18.    The adjustment lacked reasonable support because, as discussed below, it was
+based on unverified data. During the fourth quarter of 2019, GTT undertook a massive project to
+link as many of the invoices in the BPS as possible to CMD and to dispute any invoices that could
+
+                                                  5
+not be linked with the vendors. These disputes came to be known internally as “Bulk Disputes,”
+and they differed from GTT’s normal course disputes (e.g., disputes based on specific vendor
+billing errors identified during GTT’s bill verification procedures), in volume, timing and rationale.
+
+        19.      GTT accountants calculated the $16 million adjustment based on preliminary
+invoice data and estimated “win rates” (i.e., the percentage of disputes that GTT expected to win)
+provided by operations. Because GTT had no history with Bulk Disputes prior to the fourth
+quarter of 2019, GTT operations employees developed different estimated win rates for several
+sub-categories of the Bulk Disputes (e.g., services marked “disconnected” were assigned an
+estimated win rate of 68%, whereas services that could not be linked and required more research
+were assigned a win rate of 15%). By contrast, GTT generally applied a single win rate based on
+historical results to all normal course disputes. The adjustment was made before the actual filing
+of the Bulk Disputes.
+
+         20.      Following the booking of the $16 million adjustment, but prior to the filing of the
+2019 Form 10-K, the operations team provided the accounting team with updated data that
+reflected the actual disputes filed with the vendors, which was a smaller pool of invoices than the
+set of invoices upon which the adjustment was based. When the GTT accountants applied the
+same estimated win rates to the updated data, the calculation yielded an adjustment amount of
+approximately $9.1 million as compared to the $16 million adjustment recorded in mid-January
+using the preliminary invoice data. Although GTT had no prior experience with vendor disputes of
+this volume or nature, the employees believed that the win rate would rise as GTT exhausted
+efforts to link the invoices in the BPS to CMD. The theory was that any remaining unlinked
+invoices were more likely to be erroneous given that GTT appeared to have no record of them.
+GTT employees did not think they had time to update the win rates to apply to the updated data
+prior to the filing of the Form 10-K. Thus, although the accounting function knew or should have
+known that the $16 million entry was based on unverified data, that more accurate data was
+available, and that the fourth quarter financials had not yet been finalized, the $16 million
+adjustment was not updated to reflect the more accurate and up-to-date data reflected in the later
+calculation.
+
+        21.     Additionally, the 2019 Form 10-K included no meaningful disclosure regarding the
+Bulk Disputes adjustment. Rather, GTT included its standard “Disputed Supplier Expenses”
+disclosure for normal course vendor disputes, which did not describe the $16 million adjustment
+amount or contain any disclosure concerning the Bulk Disputes. The Bulk Disputes process
+differed from the normal course vendor disputes process in material ways and involved several
+subjective assumptions that were highly uncertain: (1) most of the invoices making up the Bulk
+Disputes had already been paid, requiring reimbursement or credit in the event of a win, whereas
+those in the normal course disputes process had not yet been paid; (2) many of the Bulk Disputes
+were being disputed simply because the underlying invoices in the BPS could not be linked to
+CMD, whereas the normal course disputes were based on some specifically identified flaw in the
+invoice; (3) these disputes were submitted using a “bulk” back-end process rather than through
+individual submissions entered by GTT personnel; and (4) GTT had no history on which to base
+the Bulk Disputes win rates whereas the normal course disputes were based on historical average
+win rates for that type of dispute. Part of the Bulk Disputes adjustment was included as a $10.7
+million receivable from suppliers (under Prepaid Expenses and Other Current Assets), which
+                                                  6
+reflected GTT’s assumption at that time that two-thirds of the total Bulk Disputes were paid
+disputes, without identifying that amount as part of its “Disputed Supplier Expenses” disclosure.
+
+        22.     GTT’s failure to disclose material facts concerning the Bulk Disputes adjustment,
+including that the adjustment did not reflect the actual disputes filed or the most accurate and up-
+to-date data available prior to the filing of the Form 10-K and that the Bulk Disputes process
+differed in several material ways from the normal course disputes as described above, rendered
+GTT’s disclosures concerning vendor disputes and COR materially misleading in light of the
+circumstances. The Bulk Disputes adjustment amount had a material impact on GTT’s financial
+statements by increasing GTT’s 2019 operating income by approximately 15% and decreasing
+GTT’s net loss before income taxes by approximately 13%.
+
+         23.     Further, GTT failed to include any disclosure in its 2019 Form 10-K concerning the
+material implications of the uncertainties associated with the methods, assumptions, and estimates
+underlying the Bulk Disputes adjustment, as required by Item 303 of Regulation S-K. Among
+other things, Item 303(a)(3)(ii) required disclosure of “any known … uncertainties that have had or
+that the registrant reasonably expects will have a material favorable or unfavorable impact on net
+sales, revenues or income from continuing operations….” GTT was required to objectively
+evaluate whether it reasonably expected uncertainties in the Bulk Disputes adjustment to have a
+material impact on the company’s liquidity, capital resources or results of operations and provide
+disclosure about that uncertainty if the impact is material.2 GTT failed to disclose that the
+assumptions it used to determine the Bulk Disputes adjustment, such as the win rates and the pool
+of invoices disputed (e.g., a large number of invoices were disputed simply because GTT could not
+find a record of them in CMD), were highly uncertain and it was reasonably likely the estimate
+could change because they had no historical experience upon which to rely to evaluate whether
+they would be successful in winning this type of dispute.
+
+                                  First Quarter 2020 Bulk Disputes
+
+       24.      Finally, in the first quarter of 2020, GTT failed to disclose material facts concerning
+two unsupported adjustments totaling $19 million relating to a reassessment of the Bulk Disputes
+recorded in the fourth quarter of 2019 and additional disputes that had not been entered for the first
+
+2
+        The Commission has articulated a two-part test for determining whether a known trend or
+uncertainty requires disclosure. “Where a trend, demand, commitment, event or uncertainty is
+known, management must make two assessments: (1) Is the known trend, demand, commitment,
+event or uncertainty likely to come to fruition? If management determines that it is not
+reasonably likely to occur, no disclosure is required. (2) If management cannot make that
+determination, it must evaluate objectively the consequences of the known trend, demand,
+commitment, event or uncertainty, on the assumption that it will come to fruition. Disclosure is
+then required unless management determines that a material effect on the registrant's financial
+condition or results of operations is not reasonably likely to occur.” Management’s Discussion
+and Analysis of Financial Condition and Results of Operations, Securities Act Release No. 6835,
+43 S.E.C. Docket 1330, 1989 WL 1092885, at *6 (May 18, 1989). This test was reiterated in the
+2003 MD&A release (Release No. 33-8350) and in the 2020 MD&A release (Release No. 33-
+10890).
+                                                  7
+quarter of 2020, which rendered GTT’s first quarter 2020 disclosures concerning COR and vendor
+disputes materially misleading in light of the circumstances. The $19 million in adjustments
+reduced COR and were reflected in GTT’s Form 10-Q for the first quarter of 2020, and in the
+related earnings release furnished with the May 8, 2020, Form 8-K.
+
+         25.     By the end of the first quarter of 2020, very few of the Bulk Disputes had been
+resolved. Therefore, GTT reassessed the amount still outstanding for the Bulk Disputes recorded
+in the fourth quarter. Continuing to believe, despite having no reasonable basis, that the win rate
+would rise as the pool of unlinked invoices shrunk, GTT accounting employees increased the Bulk
+Disputes win rate several times over a short period in connection with updating the calculation for
+the first quarter of 2020. Ultimately, the accounting team booked a reaccrual for the fourth quarter
+2019 Bulk Disputes of approximately $17 million, which was a $1 million increase over the
+original fourth quarter 2019 adjustment.
+
+        26.     In connection with calculating the reaccrual of the fourth quarter 2019 Bulk
+Disputes adjustment in the first quarter of 2020, GTT initially raised the win rates for certain sub-
+categories of Bulk Disputes based on GTT’s exhaustive linking efforts. However, the next day
+accounting decided GTT should apply the higher normal course disputes win rate of 62% to all the
+Bulk Disputes, regardless of sub-category, given that GTT had been pursuing the Bulk Disputes
+for a few months by that point, which again increased the adjustment amount. Then, one day later,
+after consulting with an operations employee, accounting raised the win rate to 75% based on
+GTT’s linking efforts.
+
+        27.     A few days later, the same operations employee informed accounting that he
+thought they had agreed to use a 25% win rate for the Bulk Disputes, not 75%. After further
+consideration, accounting changed the Bulk Disputes win rate back to the normal course disputes
+win rate of 62%, which resulted in an updated Bulk Disputes adjustment amount of approximately
+$17 million, or $1 million more than the fourth quarter 2019 estimate. Despite continuing to
+believe that the best operational estimate for the Bulk Disputes win rate was 25%, the operations
+employee did not protest the use of the normal course disputes win rate because he believed it to be
+an accounting judgment and outside of his area of expertise.
+
+        28.      Separately, GTT also recorded a Bulk Disputes adjustment for the first quarter of
+2020. GTT believed that many of the billing issues identified in the fourth quarter of 2019
+continued in the first quarter of 2020. GTT attempted to identify the same charges during the first
+quarter of 2020 that had not otherwise been disputed through the BPS for that period. GTT’s
+accounting staff recorded an incremental adjustment to account for their estimate of those disputes
+using a 75% win rate. This resulted in a reduction of COR of approximately $18 million in the
+first quarter of 2020.
+
+         29.     There was no reasonable basis to apply the normal course disputes win rate or
+higher to the Bulk Disputes: (1) there were numerous differences between the Bulk Disputes and
+the normal course disputes; and (2) GTT had not received enough results to provide any guidance
+that the win rate for the Bulk Disputes, many of which concerned invoices that had already been
+paid, would be similar to the normal course disputes, most of which had not yet been paid. GTT’s
+failure to disclose material facts concerning these adjustments, including that GTT applied the
+                                                  8
+normal disputes win rate or higher despite having no results history to support such a win rate and
+despite the material differences between these disputes and the normal course disputes, rendered
+the disclosures made concerning COR and vendor disputes in the first quarter of 2020 materially
+misleading.
+
+        30.     The $19 million in Bulk Disputes reassessment and additional amount for disputes
+not yet entered in the first quarter of 2020 had a material impact on GTT’s first quarter 2020
+financial statements by increasing GTT’s operating income by almost 200% and decreasing GTT’s
+net loss before income taxes by 18%.
+
+                           December 2020 Restatement Announcement
+
+        31.     On December 22, 2020, GTT disclosed in a Form 8-K that its previously issued
+consolidated financial statements for the years ended December 31, 2019, 2018 and 2017, and the
+quarter ended March 31, 2020, should no longer be relied upon and that it intended to file restated
+consolidated financial statements. In connection with closing its books for the second quarter of
+2020, GTT identified several issues related to the recording and reporting of COR and commenced
+an internal investigation. GTT also disclosed that it was evaluating the impact of the identified
+errors on GTT’s internal control over financial reporting and disclosure controls and procedures
+and that the company expected to report a material weakness in internal control over financial
+reporting and report that its disclosure controls and procedures were ineffective.
+
+        32.     GTT subsequently spent more than a year and tens of millions of dollars in an
+attempt to correct its filings, but ultimately suspended its efforts to restate due in part to the
+complexity of reconciling the two operational systems that were producing inconsistent
+information relevant to the calculation of COR. When GTT emerged from bankruptcy on
+December 30, 2022 as a private company owned by certain of its former creditors, GTT used
+“Fresh-Start Reporting,” which allows companies to present their assets, liabilities, and equity as a
+new entity on the day the company emerges from bankruptcy under Chapter 11 of the United
+States Bankruptcy Code.
+
+                                             Materiality
+
+        33.     Reasonable investors would have considered the misleading statements and
+omissions described above to be important in making investment decisions concerning GTT’s
+securities during the relevant period.
+
+                  GTT Offered and Sold Securities During the Relevant Period
+
+        34.    GTT offered and sold securities through its employee stock purchase plan, which
+transactions were registered on Form S-8, during the relevant period, and received proceeds from
+such sales.
+
+
+
+
+                                                  9
+                GTT’s Disclosure Controls and Procedures and Internal Control
+                             Over Financial Reporting Failures
+
+         35.      Rule 13a-15(a) under the Exchange Act requires issuers such as GTT to maintain
+disclosure controls and procedures, as defined in Rule 13a-15(e), and internal control over
+financial reporting, as defined in Rule 13a-15(f). Rule 13a-15(e) defines “disclosure controls and
+procedures” to include “controls and other procedures of an issuer that are designed to ensure that
+information required to be disclosed … is recorded, processed, summarized and reported” within
+the time periods specified in the Commission’s rules and forms. Rule 13a-15(f) defines “internal
+control over financial reporting” as a process to “provide reasonable assurance regarding the
+reliability of financial reporting and the preparation of financial statements” in accordance with
+GAAP, and includes policies and procedures that provide reasonable assurance that transactions
+are recorded as necessary to permit the preparation of the financial statements in accordance with
+GAAP.
+
+        36.     As described above, GTT lacked controls and procedures designed to ensure that
+GTT’s COR adjustments – especially the Bulk Disputes adjustments, which involved a new and
+highly uncertain process – were based on reasonable support and that material information
+concerning those adjustments was reported in GTT’s Exchange Act reports. GTT also lacked
+controls or procedures designed to provide reasonable assurance that COR was recorded and
+reported in the proper periods. Further, GTT failed to maintain internal control over financial
+reporting because, with respect to its COR adjustments, GTT lacked a process to provide
+reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+statements, as well as lacked policies and procedures that provided reasonable assurance that its
+COR adjustments were recorded as necessary to permit the preparation of financial statements in
+accordance with GAAP.
+
+                                             Violations
+
+        37.     As a result of the conduct described above, GTT violated Sections 17(a)(2) and
+17(a)(3) of the Securities Act. Section 17(a)(2) prohibits any person from obtaining money or
+property in the offer or sale of securities by means of any untrue statement of a material fact or any
+omission to state a material fact necessary in order to make the statements made, in light of the
+circumstances in which they were made, not misleading. Section 17(a)(3) of the Securities Act
+prohibits any person from engaging in any transaction, practice, or course of business which
+operates or would operate as a fraud or deceit upon the purchaser. Negligence is sufficient to
+establish violations of Sections 17(a)(2) and 17(a)(3). Aaron v. SEC, 446 U.S. 680, 697 (1980).
+
+        38.     As a result of the conduct described above, GTT violated Section 13(a) of the
+Exchange Act and Rules 13a-1, 13a-11, 13a-13, and 12b-20 thereunder, which require every issuer
+of a security registered pursuant to Section 12 of the Exchange Act to file with the Commission
+annual, current, and quarterly reports as the Commission may require, and mandate that Exchange
+Act reports contain such further material information as may be necessary to make the required
+statements not misleading.
+
+
+
+                                                 10
+        39.      As a result of the conduct described above, GTT violated Sections 13(b)(2)(A) and
+13(b)(2)(B) of the Exchange Act. Section 13(b)(2)(A) of the Exchange Act requires issuers with a
+security registered pursuant to Section 12 of the Exchange Act to make and keep books, records,
+and accounts which, in reasonable detail, accurately and fairly reflect the transactions and
+dispositions of the assets of the issuer, and Section 13(b)(2)(B) of the Exchange Act requires such
+issuers to, among other things, devise and maintain a system of internal accounting controls
+sufficient to provide reasonable assurances that transactions are recorded as necessary to permit
+preparation of financial statements in accordance with GAAP.
+
+        40.    As a result of the conduct described above, GTT violated Rule 13a-15(a) under the
+Exchange Act, which requires that every issuer of a security registered pursuant to Section 12 of
+the Exchange Act maintain disclosure controls and procedures as defined in Rule 13a-15(e) under
+the Exchange Act and that such issuers maintain internal control over financial reporting as defined
+in Rule 13a-15(f) under the Exchange Act.
+
+                           GTT’s Cooperation and Remedial Efforts
+
+       41.    In determining to accept the Offer, the Commission considered remedial acts
+promptly undertaken by Respondent and cooperation afforded the Commission staff.
+
+       42.     GTT promptly self-reported to the Commission and provided substantial
+cooperation, including by, among other things, providing multiple presentations concerning the
+findings from its internal investigation, including presentations made before it had reached final
+conclusions about the nature and scope of the relevant issues; identifying key documents and
+witnesses; promptly making documents and witnesses available; and facilitating testimony from
+former employees.
+
+        43.     Further, GTT voluntarily undertook affirmative remedial measures in response to
+the issues discovered, which included attempting to rebuild its COR accounts, replacing certain
+members of management, its board of directors, and its auditor, and overhauling its accounting
+function, including its policies and procedures relating to COR.
+
+                                                IV.
+
+        In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondent’s Offer.
+
+       Accordingly, it is hereby ORDERED that:
+
+        A.      Pursuant to Section 8A of the Securities Act and Section 21C of the Exchange Act,
+Respondent GTT cease and desist from committing or causing any violations and any future
+violations of Sections 17(a)(2) and (3) of the Securities Act and of Sections 13(a), 13(b)(2)(A),
+13(b)(2)(B) of the Exchange Act, and Rules 12b-20, 13a-1, 13a-11, 13a-13, and 13a-15(a)
+thereunder.
+
+
+
+                                                 11
+        B.      Respondent acknowledges that the Commission is not imposing a civil penalty in
+part based upon its cooperation in a Commission investigation and/or related enforcement
+action. If at any time following the entry of the Order, the Division of Enforcement (“Division”)
+obtains information indicating that Respondent knowingly provided materially false or misleading
+information or materials to the Commission, or in a related proceeding, the Division may, at its
+sole discretion and with prior notice to the Respondent, petition the Commission to reopen this
+matter and seek an order directing that the Respondent pay a civil money penalty. Respondent
+may contest by way of defense in any resulting administrative proceeding whether it knowingly
+provided materially false or misleading information, but may not: (1) contest the findings in the
+Order; or (2) assert any defense to liability or remedy, including, but not limited to, any statute of
+limitations defense.
+
+       By the Commission.
+
+
+                                                       Vanessa A. Countryman
+                                                       Secretary
+
+
+
+
+                                                  12
+

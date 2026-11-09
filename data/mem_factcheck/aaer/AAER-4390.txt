@@ -1,0 +1,3255 @@
+AAER-4390 | 2023-03-13 | Evoqua Water Technologies Corp. and Imran Parekh
+Source: https://www.sec.gov/enforcement-litigation/litigation-releases/lr-25662
+
+
+        More in this Section
+Enforcement & Litigation
+Litigation Releases
+Administrative Proceedings
+Administrative Law Judge Orders and Initial Decisions
+Trading Suspensions
+Distributions to Harmed Investors
+Receiverships
+Electronic Filings in Administrative Proceedings (eFAP)
+Rules of Practice
+Applications for Reentry
+Reports of Investigations
+Whistleblower Program
+Public Alert: Unregistered Soliciting Entities (PAUSE)
+SEC Action Lookup - Individuals (SALI)
+Enforcement Data Delivery Standards
+Small Businesses
+Appellate Briefs
+Amicus / Friend of the Court Briefs
+Enforcement & Litigation
+Litigation Releases
+Administrative Proceedings
+Administrative Law Judge Orders and Initial Decisions
+Trading Suspensions
+Distributions to Harmed Investors
+Receiverships
+Electronic Filings in Administrative Proceedings (eFAP)
+Rules of Practice
+Applications for Reentry
+Reports of Investigations
+Whistleblower Program
+Public Alert: Unregistered Soliciting Entities (PAUSE)
+SEC Action Lookup - Individuals (SALI)
+Enforcement Data Delivery Standards
+Small Businesses
+Appellate Briefs
+Amicus / Friend of the Court Briefs
+Home
+Enforcement and Litigation
+Litigation Releases
+              Evoqua Water Technologies Corp. and Imran Parekh
+        Evoqua Water Technologies Corp. and Imran Parekh
+ -->
+SEC Charges Water Treatment Company and Former Executive with Accounting Violations
+Litigation Release No. 25662 / March 13, 2023
+Accounting and Auditing Enforcement No. 4390 / March 13, 2023
+Securities and Exchange Commission v. Evoqua Water Technologies Corp. and Imran Parekh
+, No. 1:23-cv-00105 (D.R.I. filed Mar. 13, 2023)
+The Securities and Exchange Commission charged Pittsburgh, Pennsylvania-based Evoqua Water Technologies Corp. and its former division-level finance director Imran Parekh for improper accounting practices that materially misstated Evoqua's revenue reported in the company's SEC filings during 2017 and 2018. Evoqua and Parekh have agreed to settle the charges by, among other things, agreeing to injunctions against future violations of the securities laws and Evoqua paying a civil penalty of $8.5 million. Monetary and other relief against Parekh will be left to later decision by the court.
+According to the SEC's complaint filed in federal court in Rhode Island, from at least the fourth quarter of 2016 through August 2018, Parekh, as the Finance Director of one of Evoqua's divisions based in Rhode Island, engaged in fraudulent accounting practices that resulted in Evoqua improperly reporting materially false revenue amounts in its financial statements filed with the Commission. The SEC's complaint alleged that Parekh inflated the revenue Evoqua reported quarterly and at year-end by counting revenue from sales much earlier than accounting principles permitted. The complaint alleged that Parekh improperly accounted for so-called "bill-and-hold" transactions (where a company bills a purchaser for a product but the seller does not deliver the product to the purchaser until some future date), for which Evoqua recognized revenue from the sale of filtration products earlier than permitted and without meeting the criteria found in accounting principles to be able to immediately recognize the revenue.
+The complaint further alleges that negligent conduct at Evoqua's corporate level in managing the financial reporting and accounting controls processes facilitated Parekh's improper accounting practices. As a result of the fraudulent scheme, the complaint alleges, Evoqua improperly reported nearly $12 million of additional expected revenue for its fiscal year 2017 in its registration statement and its initial public offering (IPO) Prospectus filed with the Commission in October and November 2017; that the misconduct continued through Evoqua's first year as a public company, resulting in inaccurate books and records and material misstatements of Evoqua's financial condition in subsequent filings with the Commission; and that by failing to disclose to investors (or in filings with the Commission) that Evoqua reported uncompleted sales as revenue by misapplying bill-and-hold accounting criteria, Evoqua misled investors and potential investors about the true financial picture of the company.
+Evoqua has consented to the entry of a final judgment that permanently enjoins it from violating the antifraud provisions of Section 17(a)(2) and (3) of the Securities Act of 1933 ("Securities Act"); the periodic reporting provisions of Section 13(a) of the Securities and Exchange Act of 1934 ("Exchange Act") and Rules 12b-20, 13a-l, 13a-11, and 13a-13 thereunder; and the books and records and internal accounting controls provisions of Sections 13(b)(2)(A) and (B) of the Exchange Act. The final judgment would also order Evoqua to comply with certain undertakings, including an agreement to implement recommended improvements to its system of internal accounting controls, and to pay a civil penalty of $8.5 million.
+Parekh has consented to the entry of a judgment that permanently enjoins him from violating the antifraud provisions of Section 17(a) of the Securities Act and Section 10(b) of the Exchange Act and Rule 10(b)(5) thereunder; from aiding and abetting the periodic reporting provisions of Section 13(a) of the Securities Act and Rules 12b-20, 13a-l, 13a-11, and 13a-13 thereunder; from aiding and abetting the books and records and internal accounting controls provisions of Sections 13(b)(2)(A) and (B) of the Exchange Act; and from knowingly circumventing an issuer's system of accounting controls or knowingly falsifying an issuer's books and records in violation of Section 13(b)(5) of the Exchange Act. The judgment also orders that Parekh will be ordered to pay disgorgement, prejudgment interest, and a civil penalty, the amounts of which will be determined by the court, and that the court will determine whether Parekh should be barred from serving as an officer or director of a public company and if so the duration of such a bar. The settlements with Evoqua and Parekh are subject to court approval.
+The case was handled by Kerry Vasta, Jonathan Allen, Peter Moores, David London, and Amy Gwiazda of the Boston Regional Office.
+SEC Complaint
+Resources
+ SEC Complaint
+
+
+===== COMPLAINT (https://www.sec.gov/files/litigation/complaints/2023/comp25662.pdf) =====
+     Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 1 of 60 PageID #: 1
+
+
+
+
+                             UNITED STATES DISTRICT COURT
+                               DISTRICT OF RHODE ISLAND
+
+
+SECURITIES AND EXCHANGE COMMISSION,
+                                                               Case No.
+                      Plaintiff,
+
+       v.                                                      JURY TRIAL DEMANDED
+
+EVOQUA WATER TECHNOLOGIES CORP.
+and IMRAN PAREKH,
+
+                      Defendants.
+
+
+                                        COMPLAINT
+       Plaintiff United States Securities and Exchange Commission (“the Commission”) alleges
+
+the following against Defendants Evoqua Water Technologies Corp. (“Evoqua”) and its former
+
+division-level finance director Imran Parekh, and hereby demands a jury trial:
+
+
+                                   SUMMARY OF THE ACTION
+
+       1.      Beginning in 2016 and continuing at least until December 2018, Evoqua
+
+improperly counted (or “recognized”) revenue in violation of Generally Accepted Accounting
+
+Principles (“GAAP”), which is a common set of accounting principles, standards, and procedures
+
+that public companies must follow when they compile their financial statements, and is the
+
+accounting standard adopted by the Commission that must be followed by public companies in
+
+the United States. Evoqua’s improper revenue recognition caused the company to materially
+
+misstate the financial statements it incorporated into its November 2017 initial public offering
+
+(“IPO”) of stock and reported in its subsequent annual and quarterly financial statements filed
+
+with the Commission. Parekh was primarily responsible for the fraudulently inflated revenues at
+
+Evoqua.
+     Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 2 of 60 PageID #: 2
+
+
+
+
+       2.      Evoqua is a Pennsylvania company that earns revenue by selling water
+
+technology and treatment products. In April 2016, Evoqua acquired Neptune Benson
+
+(“Neptune”), which was headquartered in Rhode Island. Neptune manufactured and sold large
+
+water filters used in public and commercial pools and water parks. Evoqua incorporated Neptune
+
+by making it a division-level company in Evoqua’s products segment. Parekh worked at Neptune
+
+before Evoqua acquired Neptune, and became the finance director for Neptune after the sale to
+
+Evoqua. As finance director, Parekh was responsible for Neptune’s financial statements and
+
+recognition of revenue. Parekh was also given supervisory responsibilities for other division-
+
+level companies within Evoqua’s products segment.
+
+       3.      From the beginning of its integration into Evoqua, Neptune regularly reported
+
+revenue for consolidation into Evoqua’s financial statements that did not comply with GAAP.
+
+Under Parekh’s supervision, Neptune improperly recognized revenue from sales transactions that
+
+lacked documentation and for which Neptune failed to ship the product to the customer before
+
+the end of the reporting period. In 2016 and early 2017, Evoqua’s departments of finance,
+
+compliance, and internal audit became aware of problems with Neptune’s accounting controls,
+
+including lack of documentation supporting revenue recognition and improper recognition of
+
+revenue on product sales before the product shipped to the customer.
+
+       4.      During 2017, in response to pressure to generate additional revenue in advance of
+
+Evoqua’s IPO, Parekh intentionally or recklessly took steps to further increase Evoqua’s already
+
+inflated revenue. Working with others at Neptune and Wallace & Tiernan, another division-level
+
+company at Evoqua, Parekh inflated revenue in violation of GAAP in two primary ways. First, at
+
+the end of Evoqua’s fiscal quarters, he approved the recognition of revenue from sales
+
+transactions that did not support the recognition of revenue under GAAP because they contained,
+
+
+
+                                                2
+     Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 3 of 60 PageID #: 3
+
+
+
+
+among others things, sales terms with contingency clauses, return rights, or future performance
+
+obligations for Evoqua, or because the transactions lacked assurance Evoqua could collect from
+
+the purchaser. Second, Parekh directed and allowed Neptune and Wallace & Tiernan (and thus
+
+Evoqua) to fraudulently recognize revenue in periods before the company shipped products to
+
+customers to complete the transaction and in violation of accounting principles applicable to
+
+such transactions. For example, Parekh directed the recognition of revenue for product stored in
+
+warehouses (in other words, not shipped to the purchasing customer) at the end of quarters
+
+without any valid accounting basis. In effect, Evoqua improperly recognized revenue on a “bill-
+
+and-hold” basis in violation of GAAP. A bill-and-hold transaction is generally one where the
+
+seller “bills” the buyer for the purchase but the seller then “holds” the product and does not
+
+deliver it to the customer until some later date. Under GAAP, bill-and-hold transactions must
+
+meet certain criteria before the seller can recognize revenue, and Evoqua failed to meet those
+
+criteria for numerous transactions.
+
+       5.      The fraud was pervasive and infected most of Neptune’s largest transactions.
+
+Neptune improperly recognized revenue for nine of its 11 largest transactions between January
+
+2016 and September 2018 totaling nearly $13 million. In total, Neptune improperly recognized
+
+revenue in connection with at least 120 transactions representing nearly $36 million in revenue,
+
+which comprised approximately 20% of Neptune’s total revenue during this time period.
+
+       6.      As a result of the fraud, Evoqua reported nearly $12 million of additional
+
+expected revenue for its fiscal year 2017 in its securities registration statement and its IPO
+
+Prospectus (a disclosure document providing details about the IPO) filed with the Commission in
+
+October and November 2017. The registration statement and the IPO Prospectus are key
+
+documents containing financial and other important information that a company uses to market
+
+
+
+                                                  3
+     Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 4 of 60 PageID #: 4
+
+
+
+
+its shares to the public for the first time. By reading Evoqua’s registration statement and IPO
+
+Prospectus, potential investors could evaluate the newly public company’s prospects. The
+
+revenue Evoqua improperly reported in violation of GAAP made it appear that the company was
+
+selling more in aquatic filtration products, and earning more revenue and income, than it actually
+
+was at the time of the IPO.
+
+       7.      In November 2017, immediately following Evoqua’s IPO, Evoqua’s independent
+
+auditor challenged Neptune’s use of bill-and-hold sales and ultimately concluded that Neptune,
+
+and thus Evoqua, improperly accounted for many sales and recognized revenue before Neptune
+
+had shipped the products to its customers without proper application of relevant accounting
+
+principles. When challenged by its independent auditor, Parekh and Evoqua failed to identify all
+
+of the improper bill-and-hold transactions and erroneously recognized revenue from sales they
+
+understood did not comply with GAAP.
+
+       8.      During November 2017, Evoqua’s management made an internal decision that the
+
+company would view the amount of improperly recognized revenue that was challenged by the
+
+auditor as not being material. One month later, Evoqua filed with the Commission its first annual
+
+report (known as Form 10-K) as a public company, and published the same inflated revenues for
+
+its fiscal year 2017. If not for the inclusion of the improper revenue, Evoqua would have missed
+
+the preliminary financial results it had publicly disclosed in its registration statement and IPO
+
+Prospectus. As a result, the Defendants misled investors and potential investors, giving the false
+
+appearance that the company had met or exceeded the financial performance and revenue
+
+forecasts it had publicly disclosed in its IPO Prospectus for the respective period.
+
+       9.      The improper efforts to accelerate revenue recognition to meet financial targets in
+
+fiscal year 2017 had a snowball effect. The millions of dollars of sales that were pulled into fiscal
+
+
+
+                                                 4
+     Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 5 of 60 PageID #: 5
+
+
+
+
+2017 from bill-and-hold transactions where the revenue should have been recognized in later
+
+fiscal periods had to be replaced the following year in order to stay on the growth trajectory
+
+established for the newly public company. In an effort to achieve Evoqua’s financial targets,
+
+Neptune and Parekh again resorted to fraudulent sales practices and the untimely recognition of
+
+revenue.
+
+       10.     Previously, Neptune stored bill-and-hold product at its own warehouses and third-
+
+party warehouses paid for by Neptune. But following the fiscal 2017 audit when Evoqua’s
+
+independent auditor challenged Neptune’s practice of recognizing revenue for sales it did not
+
+ship before quarter end, Neptune and Parekh modified the scheme and directed Neptune’s
+
+operations personnel to ship product to third-party warehouses to store product purportedly at the
+
+customer’s expense when customers were unwilling to accept shipment before the end of
+
+Evoqua’s fiscal quarters. Neptune then recognized revenue for the product that was sitting in the
+
+third-party warehouse (and thus not yet shipped to customers)—storage that was actually paid
+
+for by Neptune, not the customer—and without applying the accounting principles applicable to
+
+such transactions. As a result, Neptune, and ultimately Evoqua, improperly recognized revenue
+
+in fiscal quarters earlier than permitted under GAAP during its 2018 fiscal year.
+
+       11.     Evoqua’s violations of the securities laws were the result of intentional or reckless
+
+conduct by Parekh, and negligent conduct at Evoqua’s corporate level in managing the financial
+
+reporting and accounting controls processes. The misconduct continued through Evoqua’s first
+
+year as a public company, resulting in inaccurate books and records and material misstatements
+
+of Evoqua’s financial condition reported in its registration statement and IPO Prospectus, as well
+
+as its Forms 10-K, 10-Q, and 8-K filed with the Commission between the end of 2017 and until
+
+December 2018.
+
+
+
+                                                 5
+     Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 6 of 60 PageID #: 6
+
+
+
+
+       12.     By failing to disclose to investors (or in filings with the Commission) that Evoqua
+
+reported uncompleted sales as revenue by misapplying bill-and-hold criteria, and by failing to
+
+adhere to GAAP and its own accounting policies, Evoqua misled its investors and potential
+
+investors about the true financial picture of the company.
+
+       13.     Through its conduct, Evoqua violated Sections 17(a)(2) and (3) of the Securities
+
+Act of 1933 (“Securities Act”) [15 U.S.C. §§ 77q(a)(2) and (3)], and Sections 13(a), 13(b)(2)(A),
+
+and 13(b)(2)(B) of the Securities Exchange Act of 1934 (“Exchange Act”) [15 U.S.C. §§
+
+78m(a), 78m(b)(2)(A), 78m(b)(2)(B)] and Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder
+
+[17 C.F.R. §§ 240.12b-20, 240.13a-1, 240.13a-11, 240.13a-13].
+
+       14.     Through his conduct, Parekh violated Section 17(a) of the Securities Act [15
+
+U.S.C. §§ 77q(a)] and Sections 10(b) and 13(b)(5) of the Exchange Act [15 U.S.C. §§ 78j(b),
+
+78m(b)(5)] and Rules 10b-5(a) and (c), and 13b2-1 promulgated under the Exchange Act [17
+
+C.F.R. §§ 240.10b-5(a) and (c), and 240.13b2-1]. He aided and abetted Evoqua’s violations of
+
+Section 17(a)(2) of the Securities Act [15 U.S.C. §§ 77q(a)(2)] and Sections 13(a), 13(b)(2)(A),
+
+and 13(b)(2)(B) of the Exchange Act [15 U.S.C. §§ 78m(a), 78m(b)(2)(A), 78m(b)(2)(B)] and
+
+Rules 12b-20, and 13a-1, 13a-11, and 13a-13 thereunder [17 C.F.R. §§ 240.12b-20, 240.13a-1,
+
+240.13a-11, 240.13a-13].
+
+       15.     The Commission seeks:
+
+                a.   entry of permanent injunctions prohibiting both Defendants from further
+                     violations of the provisions of the federal securities laws alleged violated,
+                     under Section 20(b) of the Securities Act [15 U.S.C. § 77t(b)] and
+                     Section 21(d)(1) of the Exchange Act [15 U.S.C. § 78u(d)(1)];
+
+                b.   imposition of civil monetary penalties against both Defendants under
+                     Section 20(d) of the Securities Act [15 U.S.C. § 77t(d)] and Section
+                     21(d)(3) of the Exchange Act [15 U.S.C. § 78u(d)(3)];
+
+
+
+
+                                                6
+      Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 7 of 60 PageID #: 7
+
+
+
+
+                c.    disgorgement of Parekh’s ill-gotten gains plus pre-judgment interest under
+                      Sections 21(d)(5) and (7) of the Exchange Act [15 U.S.C. §§ 78u(d)(5) and
+                      (7)];
+
+                d.    an officer and director bar against Parekh imposed under Section 20(e) of
+                      the Securities Act [15 U.S.C. § 77t(e)] and Section 21(d)(2) of the
+                      Exchange Act [15 U.S.C. § 78u(d)(2)], and
+
+                e.    such other and further relief the Court may find appropriate under Section
+                      21(d)(5) of the Exchange Act [15 U.S.C. § 78u(d)(5)].
+
+                                 JURISDICTION AND VENUE
+
+       16.     This Court has jurisdiction over this action pursuant to Sections 20(b), 20(d), and
+
+22(a) of the Securities Act [15 U.S.C. §§ 77t(b), 77t(d), 77v(a)] and Sections 21(d), 21(e), and 27
+
+of the Exchange Act [15 U.S.C. §§ 78u(d), 78u(e), and 78aa]. Defendants have directly or
+
+indirectly made use of the means or instruments of transportation or communication in, and the
+
+means or instrumentalities of, interstate commerce, or the mails, or of the facilities of a national
+
+securities exchange, in connection with the transactions, acts, practices, and courses of business
+
+alleged in this Complaint.
+
+       17.     Venue is proper in the District of Rhode Island pursuant to Section 22(a) of the
+
+Securities Act [15 U.S.C. § 77v(a)] and Section 27 of the Exchange Act [15 U.S.C. § 78aa]
+
+because certain of the acts, transactions, practices, and courses of business constituting the
+
+alleged violations occurred in this District.
+
+
+                                          DEFENDANTS
+
+       18.     Evoqua Water Technologies Corp. is a Delaware corporation headquartered in
+
+Pittsburgh, Pennsylvania. Evoqua describes itself as a provider of water and wastewater
+
+treatment solutions, offering a portfolio of products, services, and expertise to support industrial,
+
+municipal, and recreational customers. Evoqua became a publicly-traded company on November
+
+
+                                                  7
+        Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 8 of 60 PageID #: 8
+
+
+
+
+2, 2017. Its common stock is registered with the Commission pursuant to Section 12(b) of the
+
+Exchange Act and trades on the New York Stock Exchange under the ticker symbol “AQUA.”
+
+         19.   Imran Parekh, age 41, is a resident of Hopkinton, Massachusetts. From 2016
+
+through July 2018, Parekh was the Finance Director for the Americas at Evoqua’s Aquatics &
+
+Disinfection (“A&D”) Division. As Finance Director, Parekh had responsibility for the financial
+
+results of Neptune and other companies in the A&D Division. This included meeting internal
+
+sales targets and reporting of actual results for the division. He was responsible for the
+
+recognition of revenue for Neptune at Evoqua. Parekh ceased working at Evoqua in August
+
+2018.
+
+
+                                    STATEMENT OF FACTS
+
+  I.     Evoqua’s Business
+
+         20.   During the time period relevant to this case, Evoqua was organizationally
+
+structured into three business segments for the purpose of making operational decisions and
+
+assessing financial performance: (i) Industrial, (ii) Municipal, and (iii) Products.
+
+         21.   Evoqua has several division-level companies located throughout the United
+
+States, including Neptune based in Coventry, Rhode Island, which Evoqua acquired in April
+
+2016. Neptune is a manufacturer of water filtration and disinfection products for commercial,
+
+industrial, and municipal water markets, such as large city drinking water, commercial
+
+swimming pools, and theme parks. During the time period relevant to this case, Neptune took
+
+customized orders that often exceeded $100,000 and sometimes exceeded $1 million.
+
+         22.   Neptune’s main product at the time was the Defender filter, which is a
+
+regenerative media filtration product used in the commercial aquatics market. Neptune sells
+
+Defender filters to customers that build large water parks. Orders related to these large water
+
+
+                                                  8
+       Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 9 of 60 PageID #: 9
+
+
+
+
+parks typically required long lead times from when the order was placed until the time the
+
+product was needed on-site. Because these lead times could exceed one year, Neptune often
+
+carried project sales on Neptune’s backlog (expected future revenue) until the order was needed
+
+by the customer.
+
+        23.      Evoqua acquired Neptune in April 2016 for $283.7 million. Neptune was the
+
+largest acquisition Evoqua has ever made. Evoqua stated at the time that it acquired Neptune to
+
+complement Evoqua’s existing businesses and, consistent with Evoqua’s growth plan, to double
+
+its business by the end of 2021.
+
+        24.      After Evoqua acquired Neptune, revenue purportedly earned by Neptune was
+
+reported up to Evoqua and included in Evoqua’s financial statements. Thus, the facts presented
+
+below concerning the recognition and reporting of revenue by Neptune are, in fact, also revenue
+
+recognized and reported by Evoqua.
+
+ II.    Background on Revenue Recognition
+
+        25.      Under US GAAP at the time period relevant to this case, revenue could not be
+
+recognized until it was earned (generally speaking, when goods or services are transferred or
+
+rendered) and realizable (generally speaking, when cash or a claim to cash is received in
+
+exchange for goods or services).
+
+        26.      Relatedly, there are four fundamental criteria that generally must be met to
+
+recognize revenue:
+
+              i. persuasive evidence of an arrangement exists;
+
+              ii. delivery has occurred or services have been rendered;
+
+          iii. the seller’s price to the buyer is fixed or determinable; and
+
+          iv. collectability is reasonably assured.
+
+
+
+                                                  9
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 10 of 60 PageID #: 10
+
+
+
+
+The occurrence of delivery is one of the four criteria. But if any of these criteria are not met,
+
+revenue should not be recognized.
+
+        27.      With respect to delivery, there are various considerations that could impact
+
+whether delivery has occurred, one of which is bill-and-hold arrangements. A bill-and-hold
+
+arrangement is a deal where a sale is recognized prior to delivery to the customer. Under GAAP,
+
+in a bill-and-hold arrangement, revenue can only be recognized prior to delivery to the customer
+
+if all of the following criteria are met:
+
+                i.       The risks of ownership must pass to the buyer;
+
+               ii.       The customer must make a fixed commitment to purchase the goods;
+
+              iii.       The buyer, not the seller, must request that the transaction be on a bill and
+
+                         hold basis and the buyer must have a substantial business purpose for
+
+                         ordering the goods on a bill and hold basis;
+
+              iv.        There must be a fixed schedule for delivery of the goods and the date must be
+
+                         reasonable and consistent with the buyer’s business purpose;
+
+               v.        The seller must not have retained any specific performance obligations such
+
+                         that the earning process is not complete;
+
+              vi.        The ordered goods are segregated from the seller’s inventory and are not
+
+                         subject to being used to fill other orders; and
+
+              vii.       The product must be complete and ready for shipment.
+
+        28.          Taking all of the above into consideration, revenue recognition prior to delivery is
+
+an exception, not the norm.
+
+
+
+
+                                                      10
+       Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 11 of 60 PageID #: 11
+
+
+
+
+         29.   According to Evoqua’s internal accounting policies, Evoqua sought to maintain
+
+its financial statements in accordance with GAAP. The policies set forth that “[s]ales of goods
+
+and services are recognized when persuasive evidence of an arrangement exists, the price is fixed
+
+or determinable, collectability is reasonably assured and delivery has occurred or services have
+
+been rendered.” The policies also stated, “for sales of aftermarket parts or products with a low
+
+level of customization and engineering time, the Company recognizes revenue at the time title
+
+and risks and rewards of ownership pass, which is generally when products are shipped or
+
+delivered to the customer….” Evoqua published this revenue recognition policy in its IPO
+
+Prospectus filed November 3, 2017 (more than a year and a half after acquiring Neptune). It
+
+again published this policy in its first Form 10-K filed with the Commission one month later
+
+(December 4, 2017) and again in its Form 10-K for fiscal year 2018.
+
+         30.   Evoqua, however, did not adhere to its own policy by recognizing revenue in its
+
+products segment before title and the risks and rewards of ownership had passed to its customers.
+
+Thus, its disclosures of its revenue recognition policies in its publicly filed financial statements
+
+were materially misleading.
+
+III.     Beginning in Late 2016 and Continuing Through the November 2017 IPO, Evoqua
+         Improperly Recognized Millions of Dollars in Revenue
+
+         31.   A company’s fiscal year (sometimes referred to as a financial year) is a 12-month
+
+accounting period that a company uses for financial reporting purposes. A fiscal year can be
+
+different from a calendar year. Evoqua’s fiscal year starts on October 1 and ends the following
+
+September 30 (so, for example, its fiscal year 2017 began October 1, 2016 and concluded on
+
+September 30, 2017).
+
+         32.   Neptune’s first fiscal year as a part of Evoqua occurred in 2016. In advance of the
+
+fiscal year-end in September 2016, Neptune raced to recognize revenue, often in violation of
+
+
+                                                 11
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 12 of 60 PageID #: 12
+
+
+
+
+GAAP, and it failed to implement basic internal accounting controls relating to revenue
+
+recognition. Senior managers in Evoqua’s financial department learned of financial reporting
+
+problems at Neptune, but Evoqua failed to take steps to remediate the deficiencies, thus allowing
+
+revenue recognition problems to exacerbate throughout Evoqua’s fiscal year 2017.
+
+               A. Neptune Improperly Recognized Revenue in Fiscal Year 2016
+
+       33.      During the fourth quarter of fiscal 2016 (ending September 30, 2016), Neptune
+
+improperly recognized nearly $3.5 million in revenue from multiple sales under the close
+
+supervision of Parekh. The revenue was improperly recognized for several reasons, including a
+
+lack of documentation that the sales were realized or realizable and irreconcilable inconsistencies
+
+about when Neptune shipped product to customers. For example, numerous transactions lacked
+
+any written agreement or documentation such as a purchase order establishing that there was a
+
+fixed agreement by the customer to buy the product. Certain shipping documents also indicated
+
+that product for some sales shipped after the end of the quarter. In general, the shipping dates for
+
+product listed on bills of lading (a detailed list of a shipment of goods), invoices, and inventory
+
+records were inconsistent with each other.
+
+       34.     At the time, Parekh was the finance director for Neptune, responsible for the
+
+recognition of revenue at Neptune. Parekh approved and certified Neptune’s financial statements
+
+for the purpose of consolidating Neptune’s financial statements into Evoqua’s.
+
+       35.     There were no middle managers in the finance group at Neptune: all finance
+
+group personnel reported directly to Parekh. Parekh was the ultimate decision maker inside the
+
+Neptune finance group.
+
+       36.     Parekh was also heavily involved in aspects of Neptune’s business outside of
+
+traditional finance. For example, towards the ends of fiscal quarters, he often negotiated sales
+
+
+
+                                                 12
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 13 of 60 PageID #: 13
+
+
+
+
+terms directly with customers. He also participated in weekly meetings with sales and operations
+
+personnel, and people outside the finance group often sought his approval and direction.
+
+       37.     Parekh knew or was reckless in not knowing that Neptune’s financial statements
+
+included revenue from transactions that lacked basic written documentation to recognize
+
+revenue.
+
+               B. Parekh Caused Evoqua to Improperly Recognize Revenue During the
+                  First Two Quarters of Fiscal 2017
+
+                            i. Neptune “Pulled Forward” Revenue Into Earlier Quarters
+
+       38.     After Evoqua acquired Neptune, Evoqua’s products segment set aggressive
+
+revenue goals for Neptune to achieve in fiscal year 2017. In an effort to meet these goals,
+
+Neptune sought to accelerate sales orders expected in later quarters into earlier quarters.
+
+       39.     Parekh engaged in a recurring practice of “pulling forward” a future month’s sales
+
+orders to meet a current month’s financial target, and then having to make up for the lost sales
+
+that would have occurred and been recognized in the following months. The concept of pulling
+
+forward sales into earlier periods was not a secret to senior management of Evoqua, as it was
+
+frequently referenced in quarterly operations meetings as part of the plan to meet the current
+
+quarter’s forecast. Pulling forward revenue is not necessarily improper so long as all of the
+
+criteria for revenue recognition are met for the pulled forward sale. However, the practice results
+
+in sales that could be recognized as revenue in later periods instead being recognized as revenue
+
+in earlier periods, and creates pressure each subsequent period to make up for sales that were
+
+pulled forward into a prior period to fill the resulting gap in revenues in the later periods. This
+
+pressure can result in revenue being recognized before all of the criteria for revenue recognition
+
+are met. This is what happened at Neptune under Parekh’s watch.
+
+
+
+
+                                                  13
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 14 of 60 PageID #: 14
+
+
+
+
+       40.     Under historical practices at Neptune, the customer would have to accept
+
+shipment of the product earlier than anticipated in order for Neptune to pull forward the sale.
+
+Convincing a customer to do so could be a significant hurdle for several reasons if the customer
+
+did not need the product until a future date. For example, shipping the product starts the clock on
+
+how many days a customer has to remit payment. Also, some customers lacked space to store
+
+Neptune’s products (which were quite large) securely and safely before installation.
+
+       41.     By improperly recognizing revenue prior to shipment to the customer, Parekh was
+
+able to circumvent some of these hurdles and enhance Neptune’s ability to pull forward sales.
+
+       42.     In order to convince customers to place orders earlier than the customer desired,
+
+Parekh caused Neptune to change the terms of standard sales arrangements. For example,
+
+Neptune offered customers various discounts and extended payment terms. Neptune also offered
+
+to store product for customers, and ship the product at a future time when customers actually
+
+wanted delivery. Many of these altered sales arrangements did not permit Neptune to recognize
+
+revenue under GAAP. Nonetheless, Parekh allowed such sales arrangements to proceed and
+
+permitted the improper recognition of revenue.
+
+                          ii. Wallace & Tiernan Improperly Recognized Revenue Using
+                               “Ship in Place”
+
+       43.     In February 2017, sales personnel at Evoqua division Wallace & Tiernan began
+
+recognizing revenue improperly under a bill-and-hold arrangement that they referred to as “ship
+
+in place.” In a ship in place deal, Wallace & Tiernan claimed to sell a customer product, but did
+
+not ship the product to the customer until a later date when the customer actually wanted the
+
+product.
+
+       44.     A Wallace & Teirnan sales manager explained ship in place to a customer in an
+
+email in February 2017. Under these arrangements, Wallace & Tiernan would “release” the
+
+                                                 14
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 15 of 60 PageID #: 15
+
+
+
+
+product for shipment (that is, invoice the customer for the product), store the product in Wallace
+
+& Tiernan’s factory, care for the product while in storage by rotating it once a month, defer
+
+billing, and extend the warranty. The sales manager explained to the customer that it “would help
+
+our bottom line.” In emails to each other, Wallace & Tiernan’s sales staff characterized ship in
+
+place as a bill-and-hold arrangement.
+
+       45.     Throughout late February and early March 2017, a project manager and sales staff
+
+at Wallace & Tiernan emailed Parekh and others about their plan to utilize ship in place with
+
+different customers “to aid in revenue recognition.”
+
+       46.     Parekh did not advise or instruct the personnel at Wallace & Tiernan that they
+
+could not recognize revenue for sales transactions when they used ship in place as proposed.
+
+However, as of the second quarter of fiscal 2017, Parekh knew, or was reckless in not knowing,
+
+that under Evoqua’s revenue recognition policies and GAAP, revenue could not be recognized
+
+until product shipped in those circumstances. For example, on November 2, 2016, in connection
+
+with a potential sale of $250,000 of product, a senior employee at Neptune emailed Parekh and
+
+one other person stating that Evoqua “can’t recognize the revenue until the equipment leaves our
+
+factory...we are likely to be running up against a ‘bill and hold’ issue…we can invoice for the
+
+equipment and collect the cash but we just won’t be able to recognize the revenue….[Parekh]
+
+will, I’m sure know how to handle.”
+
+       47.     The practice of ship in place later spread to Neptune. At Neptune, the term was
+
+used interchangeably with another term, “ex works,” to mean a sale involving a bill-and-hold
+
+arrangement.
+
+               C. Parekh and Neptune Begin to Manipulate the Shipping Term “Ex
+                  Works” to Improperly Recognize Revenue Earlier Than Allowable Under
+                  GAAP
+
+
+
+                                                15
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 16 of 60 PageID #: 16
+
+
+
+
+       48.     In fiscal year 2017, Neptune attempted to grow its revenue by accelerating the
+
+completion of its product sales. Historically, Neptune generally recognized revenue when it
+
+shipped product to customers. For most sales, Neptune used the shipping term “FOB,” or “free
+
+on board,” which meant that Neptune arranged, contracted, and paid for shipping of the product
+
+to the customer. Upon shipment, Neptune would invoice its customer (often including the costs
+
+of shipping in the invoice) and recognize revenue on the transaction. This practice was consistent
+
+with Evoqua’s revenue recognition policies and GAAP.
+
+       49.     In practice, the date Neptune shipped the product to a customer was a function of
+
+when the customer wanted delivery and when the product was ready for shipment. If product was
+
+ready for shipment, but a customer was not ready to receive the product, then traditionally
+
+Neptune held the ordered product in its inventory until the customer requested Neptune ship it.
+
+       50.     As discussed above, the process of “pulling forward” sales typically involved
+
+requesting that the customer agree to receive product before it wanted or could use the product.
+
+By at least March 2017, Parekh allowed Neptune to invoice customers and recognize revenue
+
+without shipping the product to customers. He often justified this practice through the use of the
+
+shipping term “ex works.”
+
+       51.     Like FOB, ex works is one of many International Commercial Terms, also known
+
+as Incoterms, which define the responsibilities of sellers and buyers for the delivery of goods
+
+under sales contracts. According to Evoqua’s guidance received by Parekh in November 2016,
+
+ex works is a term used in shipping arrangements where the seller is “only responsible for
+
+making the goods available at the seller’s premises. The buyer bears the full risk from the seller’s
+
+premises to the final destination.”
+
+
+
+
+                                                16
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 17 of 60 PageID #: 17
+
+
+
+
+       52.     Under the ex works shipping term, Neptune was required only to make the
+
+product available for the customer to pick up. The customer – not Neptune – was responsible for
+
+arranging, contracting, and paying for shipping the product. While Incoterms define certain
+
+responsibilities of buyers and sellers related to delivery of goods in a transaction, they do not
+
+independently dictate the timing of revenue recognition or void the other necessary criteria for
+
+revenue recognition.
+
+       53.     By the end of March 2017, Parekh and others at Neptune working with Parekh
+
+directed Neptune employees to include the ex works shipping term on various sales documents,
+
+including invoices. Parekh and others at Neptune working with Parekh did this in order to
+
+improperly recognize revenue on pending sales orders for which customers had asked for later
+
+delivery.
+
+       54.     For example, a senior employee at Neptune, with Parekh’s knowledge, changed
+
+the shipping term of a sale destined for a project in Mexico at the end of the second quarter of
+
+fiscal 2017 to ex works. The Neptune employee requested the change and offered the customer
+
+numerous discounts to enter into the arrangement in advance of the customer needing the
+
+product. The Neptune employee informed the customer that it did not need to pick the product up
+
+before the end of the quarter (and the customer did not pick up the product before the end of the
+
+quarter). Because Neptune issued an invoice and revenue was recognized at the end of the
+
+quarter, this amounted to a bill-and-hold arrangement. Despite the product not being shipped
+
+(meaning, the product was not picked up by the customer before the end of the quarter), and not
+
+otherwise meeting the criteria for revenue recognition, Parekh and Neptune recognized revenue
+
+from the sale in violation of GAAP.
+
+
+
+
+                                                 17
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 18 of 60 PageID #: 18
+
+
+
+
+       55.     At the end of the second quarter of fiscal 2017, Neptune also improperly
+
+recognized revenue by shipping product to a third-party warehouse because a customer was not
+
+ready to receive the product. In this transaction, a customer had placed an order with Neptune for
+
+product to be installed in a resort casino in New York. During March 2017, using modified sales
+
+terms, Neptune persuaded the customer to allow Neptune to issue an invoice for approximately
+
+$100,900 on the last day of the quarter, but hold the product at a third-party warehouse located in
+
+Rhode Island. Neptune improperly recognized revenue on this sale because it was a bill-and-hold
+
+arrangement that did not meet the applicable criteria under GAAP.
+
+               D. Neptune Increasingly Relied on “Ex Works” Deals And Other Deficient
+                  Bill-and-Hold Arrangements to Improperly Recognize Revenue During
+                  the Third and Fourth Quarters of Fiscal 2017 Leading Up To the IPO
+
+       56.     Evoqua’s fiscal third quarter 2017 revenue numbers were especially important to
+
+Evoqua because of the company’s plan to publicly offer its stock for the first time. In June 2017,
+
+a Neptune sales representative asked a customer to place orders for product earlier than the
+
+customer needed it so Evoqua could meet its revenue goals. The sales representative
+
+acknowledged the pressure he and the company faced because of the IPO: “I hate asking for
+
+favors but the truth is we are getting pressure from above because the S1 was filed for the IPO.
+
+This quarter will determine the valuation of the company’s stock so you can imagine the push
+
+coming downhill.”
+
+       57.     The General Manager of Evoqua’s A&D Division emailed Parekh and others at
+
+various times, emphasizing the need to meet targets and record revenue. For example, he stated
+
+in an email on August 30, 2017, to sales representatives, Parekh, and others that “[w]e set an
+
+aggressive target of $14M for aquatic project orders to get close to where we need to be as a
+
+company … we are $3.2M short of our target if all of the projects land …we need to pull to close
+
+
+
+                                                18
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 19 of 60 PageID #: 19
+
+
+
+
+the $3.2M gap.” On September 1, 2017, the General Manager stated, “expect the pressure to
+
+ramp up through the month as the timing for the IPO gets firmed up and the company wants to
+
+demonstrate a solid performance….” As a result of this internal pressure, Parekh and Neptune
+
+increasingly engaged in what they referred to as “ex works” deals to artificially boost revenue
+
+numbers at the end of fiscal quarters during 2017.
+
+       58.     In a typical ex works deal, Neptune asked a customer to enter into a sales
+
+arrangement before the customer wanted the product or before the purchase request was
+
+finalized. Neptune would then store the product at its facility or at a third-party warehouse to be
+
+shipped to the customer after quarter end, while recognizing revenue prior to the end of the
+
+quarter.
+
+       59.     Parekh directed Neptune employees on how to handle ex works deals because the
+
+employees were unfamiliar with them. In a September 2017 email, Parekh provided his
+
+subordinates instructions, including items that were “needed for ex works jobs,” and directed
+
+them to “let me know if there were any questions.” Parekh’s instructions failed to adhere to
+
+revenue recognition requirements under GAAP, however. Parekh knew, or was reckless in not
+
+knowing, that his instructions failed to adhere to GAAP because at a minimum his instructions
+
+failed to include relevant guidance received from an accounting colleague.
+
+       60.     In order to entice Neptune’s customers to enter into what amounted to a deficient
+
+bill-and-hold arrangement, Neptune typically offered customers discounts, extended payment
+
+terms, and the right to exchange product without paying the standard re-stocking fee. These
+
+revised terms posed little to no risk to the customer, because they were not obligated to pay
+
+Neptune until a date in the future that corresponded to when they actually needed the product.
+
+
+
+
+                                                 19
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 20 of 60 PageID #: 20
+
+
+
+
+       61.     In certain instances, Neptune issued invoices prior to the customer finalizing its
+
+order. For example, one customer voiced its objection to an ex works deal because Neptune
+
+billed the customer for product in August 2017 in the approximate amount of $150,000 before
+
+the design drawings for construction of the customer’s water park had even been approved. In an
+
+email forwarded to Parekh in December 2017, the customer noted “it would help if you did not
+
+invoice us until after we send you a [purchase] order and until after the submittals are approved”
+
+and referenced another project for which the final approved design involved $100,000 in changes
+
+that occurred during the submittal process.
+
+       62.     During negotiations with customers in June 2017, Parekh and a senior employee
+
+at Neptune stated that the shipping term on purchase orders needed to be changed to ex works.
+
+But the use of the ex works shipping term did not alter the fact that Neptune intended to make
+
+arrangements to ship the product. For example, in an email on June 19, 2017 to a sales manager
+
+and Parekh concerning a product destined for a waterpark to be built in China, the senior
+
+employee reassured the sales manager that Neptune was paying for shipping despite the use of
+
+the ex works shipping term. The senior employee further elaborated in a subsequent email later
+
+the same day to Parekh and two sales managers that ex works needed to be added to the purchase
+
+order, but that Neptune “will arrange for the shipping once the customer requires it.”
+
+       63.     Neptune and Parekh’s use of ex works was a ruse to fraudulently recognize
+
+revenue prematurely because, as Parekh knew, or was reckless in not knowing, if Neptune’s
+
+customers did not agree to be responsible for shipping the product, Evoqua’s policies and GAAP
+
+did not allow revenue to be recognized prior to shipping. The use of the term ex works was
+
+merely a contrivance: Neptune stored customer product at its facility or at third-party warehouses
+
+until customers requested Neptune deliver the product to them under Neptune’s standard FOB
+
+
+
+                                                20
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 21 of 60 PageID #: 21
+
+
+
+
+shipping arrangement. Thus, despite Parekh and Neptune’s requirement that sales documentation
+
+contain the Incoterm ex works, Neptune retained responsibility for shipping the product to the
+
+customer. As a result, the risk of loss and ownership of the products stored by Neptune never
+
+transferred to the customer, and thus Neptune (and, as a result, Evoqua), could not properly
+
+recognize revenue prior to shipment.
+
+       64.     Parekh routinely treated product for ex works deals remaining in Neptune’s
+
+possession as subject to Neptune’s ownership and control. For example, in the June 2017
+
+transaction with the customer from China discussed above, Neptune entered into an agreement
+
+for the sale of more than $900,000 in product using the ex works shipping term. Because there
+
+was a heightened risk that Neptune and Evoqua might not be able to collect payment from the
+
+customer on the sale, Neptune was required to secure a letter of credit from a bank that would
+
+assure payment. Prior to the sale, however, in an email on June 7, 2017, Parekh advised the sales
+
+agent that Neptune did not require the letter of credit before the execution of the sales agreement
+
+or before the end of the quarter. Parekh stated that the “latest we can hold off for the [letter of
+
+credit is] in [m]id July.” Neptune proceeded forward with the recognition of revenue, but the
+
+customer did not provide a letter of credit for the sale before June 30, 2017. Despite not being
+
+reasonably assured of payment by the customer (because there was no letter of credit), Parekh
+
+and Neptune recognized revenue from the sale in the third quarter of fiscal 2017 contrary to the
+
+requirements of Evoqua policy and GAAP.
+
+       65.     In October 2017, Neptune had still not delivered the product to the customer for
+
+this sale, and the customer had still not provided a letter of credit pursuant to the terms of the
+
+agreement. In emails in September and October 2017, Parekh told the sales agent that Neptune
+
+would not release the product to the customer without the letter of credit. In his October 2017
+
+
+
+                                                  21
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 22 of 60 PageID #: 22
+
+
+
+
+email, Parekh stated that “if they do not pay then we can bring shipment back.” Had the
+
+customer assumed the risks and rewards of ownership when the product was ready for pick-up,
+
+purportedly in June 2017, the product would have belonged to the customer as of that date and
+
+Neptune would not be able to withhold the product from delivery to the customer. Because
+
+delivery had not yet occurred and the other payment contingencies were not resolved before the
+
+end of the June 2017 fiscal quarter, Parekh knew, or was reckless in not knowing, that the risk
+
+and rewards of ownership could not have passed to the customer in June 2017 or even by the end
+
+of the fiscal year 2017. Despite this, Parekh caused Neptune (and thus Evoqua) to improperly
+
+recognize revenue for this order.
+
+       66.     Another of Neptune’s customers submitted five purchase orders in the third and
+
+fourth quarters of fiscal 2017 following a June 2017 email from a Neptune sales representative
+
+requesting that the customer “help” Neptune out. Two of these purchase orders were for
+
+prospective projects for which the customer explicitly told the Neptune sales representative not
+
+to ship the product being ordered. In fact, Neptune did not ship any of the orders in the fourth
+
+quarter ended September 30, 2017, but it improperly recognized more than $700,000 of revenue
+
+in that quarter on these transactions.
+
+       67.     In late October 2017, following receipt of the invoice for certain of those orders,
+
+the customer inquired of the Neptune sales representative, “The [ ] jobs are just arriving this
+
+week and next, so the Net 90 should be from Oct 30 not September.” That is, the customer
+
+believed that their obligation to pay for the product occurred when the product actually shipped
+
+(or was delivered), consistent with their prior dealings with Neptune. The email from the
+
+customer was forwarded to Parekh in October 2017, but Parekh made no adjustments to reverse
+
+the revenue that had previously been improperly recognized in the prior period.
+
+
+
+                                                 22
+     Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 23 of 60 PageID #: 23
+
+
+
+
+        68.    Under Parekh’s supervision, Neptune improperly recognized nearly $14.5 million
+
+of revenue over the course of fiscal year 2017 for products that were not shipped in that time
+
+frame, including ex works deals. The following chart summarizes these transactions by quarter.
+
+                                                          Inappropriate
+                                                         Revenue Amount
+                            Period       # of Orders       ($ millions)
+                           Q1 FY17            3         $          3.1
+                           Q2 FY17            4                    1.5
+                           Q3 FY17            9                    2.0
+                           Q4 FY17            39                   7.9
+                                              55        $        14.5
+
+
+
+        69.    While each transaction involves unique circumstances and documentation, the
+
+underlying transactions follow a general pattern of Neptune personnel soliciting a customer to be
+
+invoiced early in exchange for additional discounts and extended payment terms, and then
+
+improperly recognizing revenue prior to shipment without assessment of the revenue recognition
+
+criteria.
+
+               E. Parekh Also Utilized Ex Works Deals At Another Division-Level
+                  Company
+
+        70.    In July 2017, Evoqua acquired Olson Irrigation Systems (“Olson”) and integrated
+
+it as a division-level company into Evoqua’s A&D Division, for which Parekh was the Finance
+
+Director. In an email dated September 6, 2017, Parekh proposed to a senior manager in Evoqua’s
+
+products segment that Olson engage in an “early buy program.” The program was designed to
+
+“enhance September revenue” by about $180,000. Parekh explained that Evoqua would either
+
+ship product to customers in September (the “preferred” option) or “if there is a delay in
+
+shipping, [the product] would be held in our factory Ex Works…to be shipped out over the next
+
+60 days.” Thus, Parekh was using the ex works shipping term to improperly recognize revenue
+
+for product that Evoqua could not or would not ship prior to the end of the reporting period.
+
+                                                   23
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 24 of 60 PageID #: 24
+
+
+
+
+               F. Evoqua’s Public Filings with the SEC Contained Inflated Revenue as a
+                  Result of Parekh’s Misconduct
+
+       71.     Evoqua’s October 18, 2017 and October 20, 2017 Form S-1/A Registration
+
+Statement (declared effective on November 1, 2017) and its November 3, 2017 IPO Prospectus
+
+publicly reported revenue figures that were inflated with improperly recognized revenue. In its
+
+registration statements and prospectus, Evoqua included in its financial statements $5.7 million
+
+of revenue it had not earned for the first three quarters of fiscal 2017 because the putative
+
+revenue was for product that had not shipped to the customer and otherwise failed to meet the
+
+requirements of GAAP. As a result, the registration statement and the IPO Prospectus did not
+
+contain accurate figures for the amount of revenue and earnings that Evoqua made for these
+
+respective periods.
+
+       72.     In addition, the registration statements and IPO Prospectus both included an
+
+estimated $8 million of revenue that Evoqua expected to be recognized in the fourth quarter of
+
+fiscal 2017 for product that had not shipped to the customer and otherwise failed to meet the
+
+requirements of GAAP.
+
+       73.     As further discussed below, Evoqua subsequently filed its fourth quarter results
+
+and full year 2017 results, including the improperly recognized revenue, in a Form 8-K and Form
+
+10-K filed with the Commission on December 1, 2017 and December 4, 2017, respectively. By
+
+including the improperly recognized revenue, Evoqua’s revenue and Adjusted EBITDA (or
+
+“Earnings Before Interest, Taxes, Depreciation, and Amortization,” a key financial metric used
+
+by the company) results were in line with the forecasted range presented for the respective
+
+periods; without the improperly recognized revenue, the results would not have been in line with
+
+the forecasts. As a result, Evoqua’s fraudulently inflated revenue numbers were materially
+
+misleading to investors and potential investors.
+
+                                                   24
+            Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 25 of 60 PageID #: 25
+
+
+
+
+              74.     The following chart represents how, without the fraudulently inflated revenue,
+
+      Evoqua’s financial results would have been below the forecasted range that had been first
+
+      disclosed in the November 3, 2017 IPO Prospectus and below the consensus estimates predicted
+
+      by third-party analysts who followed Evoqua’s financial performance at that time--information
+
+      that would have been important to investors.
+
+                                                         Fourth Quarter 2017              Fiscal Year 2017
+($ millions)                                            Revenue    Adj. EBITDA     Revenue          Adj. EBITDA
+Preliminary Range, per Nov. 2017 IPO Prospectus        $354-$357      $69-$72    $1,245-$1,248        $205-$208
+Analyst Consensus, referenced by Evoqua in Nov. 2017     $356            $71         $1,247             $207
+As Reported, per Form 8K and Form 10-K in Dec. 2017      $357            $71         $1,247             $208
+As Adjusted, to correct inappropriate revenue            $349            $67         $1,236             $200
+As Adjusted, compared to Preliminary Range                ($5)           ($2)          ($9)              ($5)
+As Adjusted, compared to Analyst Consensus                ($7)           ($4)         ($11)              ($7)
+
+      IV.     Evoqua Discovers Parekh’s Misconduct And Reports the Improper Revenue in
+              Public Filings with the SEC
+
+                      A. An Internal Evoqua Hotline Complaint Alleged that Neptune Was
+                         Manipulating Revenue
+
+              75.     In or around November 2016, an employee in Evoqua’s internal audit group was
+
+      made aware of concerns that Neptune management was manipulating shipping terms to
+
+      improperly recognize revenue prior to shipment in fiscal year 2016. The employee subsequently
+
+      documented the concerns in Evoqua’s internal compliance system, also known as a hotline or
+
+      helpline system, which is an electronic reporting tool available to Evoqua employees to express
+
+      concerns for further review and consideration by Evoqua’s compliance department. The
+
+      allegation documented into the internal hotline complaint specified that Neptune finance people,
+
+      including Parekh, manipulated certain terms “in the system [that changed] the recognition of
+
+      revenue from October to September even though the products were not picked up.”
+
+              76.     A few months later, Evoqua’s compliance department initiated an investigation
+
+      into the hotline complaint. The internal audit group concluded its investigation in March 2017.
+
+
+                                                        25
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 26 of 60 PageID #: 26
+
+
+
+
+On March 14, 2017, Evoqua’s compliance personnel emailed the results of the investigation to
+
+several of Evoqua’s finance executives. The compliance department found Neptune’s
+
+documentation of sales arrangements was lacking or contained inconsistencies in shipping dates
+
+(thus identifying several areas for improvements in Neptune’s revenue recognition process). For
+
+example, the investigation found: (i) 10 of the 16 transactions, or 63% of the transactions
+
+selected for review by the compliance department, did not have any purchase order or contract,
+
+(ii) 13% of the transactions had a ship date on the bill of lading that was one day later than the
+
+ship date listed on the invoice, and (ii) 100% of the sample selections “had inventory ship post
+
+dates that were three or more days later than the ship date listed on the invoice.”
+
+       77.     Despite the findings from the internal investigation, Evoqua failed to
+
+acknowledge that it had erroneously recognized revenue from these transactions, evaluate
+
+whether the errors were material, or assess whether the identified documentation deficiencies and
+
+discrepancies from 2016 also impacted the first half of fiscal 2017. Instead, the company
+
+continued to improperly recognize revenue during fiscal 2017 as discussed above. Evoqua failed
+
+to verify that process improvements were sufficiently implemented at Neptune such that revenue
+
+recognition was in compliance with GAAP going forward.
+
+               B. Evoqua’s Independent Auditor Learns of the Hotline Complaint and
+                  Neptune’s Use of Ex Works During a Routine Audit
+
+       78.     Public companies are required to have their financial statements, and the
+
+information and documentation behind them, audited by an independent auditor. Evoqua retained
+
+an independent auditor beginning in time periods before it became a public company in
+
+November 2017, and this independent auditor continued to audit Evoqua’s financial statements
+
+after its IPO. In connection with standard fiscal year end audit procedures in September 2017,
+
+and as part of their normal procedures to review anything to do with accounting or fraud,
+
+                                                 26
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 27 of 60 PageID #: 27
+
+
+
+
+Evoqua’s independent auditor learned of the November 2016 hotline complaint. The auditor
+
+requested information from Evoqua, including workpapers and documentation related to the
+
+internal investigation that was conducted, as well as the memo documenting the findings and
+
+conclusion.
+
+       79.       On September 7, 2017, Evoqua’s compliance manager anticipated that the
+
+independent auditor might want to evaluate whether the process improvements identified from
+
+the investigation into the 2016 hotline complaint were implemented, and suggested that Parekh
+
+and others be prepared. Parekh was told by Evoqua’ compliance manager that the independent
+
+audit team would “most likely be testing a hefty sample selection for cut-off procedures.” Cut-
+
+off procedures are audit procedures designed to review specific transactions at the end and
+
+beginning of a financial reporting period to ensure the criteria for revenue recognition was met in
+
+the period revenue was recognized. However, Parekh did not initially advise anyone at Evoqua
+
+or the independent auditor regarding the change to timing of revenue recognition due to
+
+Neptune’s ex works deals, which could have impacted the independent auditor’s cut-off
+
+procedures.
+
+       80.       In its initial review for the audit for the fiscal year ended September 30, 2017, the
+
+independent auditor found a large percentage of revenue recognized right before the end of the
+
+fiscal year. The auditor requested from certain customers an “audit confirmation letter,” which is
+
+an inquiry sent to a customer to establish the contents of the accounting records of the entity
+
+being audited.
+
+       81.       In response to this request, the auditor received an email from a Neptune customer
+
+on November 2, 2017 expressing concern that Neptune recognized revenue in September 2017
+
+for sale of a product the customer still had not received over a month later. Around this time, the
+
+
+
+                                                  27
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 28 of 60 PageID #: 28
+
+
+
+
+independent auditor informed Evoqua finance personnel that Parekh told the independent auditor
+
+that Neptune was using the ex works Incoterm and invoicing customers when the product was
+
+ready and held at Neptune’s warehouse. As a result of its initial work, the independent auditor
+
+became concerned because almost all of the transactions they selected for review had the ex
+
+works term, and almost all of the product (approximately $9 million of revenue) had not been
+
+shipped as of year-end. The independent auditor recognized this as a bill-and-hold issue.
+
+       82.     The independent auditor then expanded the scope of its testing of Evoqua’s sales
+
+transactions and revenue recognition, but limited its review to transactions recognized as revenue
+
+in August and September 2017 based on its mistaken understanding that the bill-and-hold
+
+transactions started at that time. Evoqua did not disclose to the independent auditor the full
+
+extent of the use of bill-and-hold transactions. As a result, the independent auditor’s review did
+
+not include all of the improper bill-and-hold deals for fiscal year 2017.
+
+       83.     Parekh and Evoqua senior management worked closely with the auditor in their
+
+transaction-by-transaction review. Parekh collected and distributed documentation on more than
+
+30 transactions, and he oversaw the completion of a bill-and-hold checklist to determine whether
+
+the criteria for revenue recognition had been met. In addressing the auditor’s concerns, Evoqua
+
+senior management became aware of the extent and magnitude of Neptune’s improper bill-and-
+
+hold revenue recognition practice.
+
+       84.     Most of the transactions that had been recognized as revenue, but not yet shipped,
+
+were found by the independent auditor to not meet the criteria for revenue recognition for the
+
+quarter ended September 30, 2017. The auditor did not object to some of the remaining
+
+transactions due, in part, to erroneous or incomplete information provided by Evoqua. For
+
+example, Evoqua recognized approximately $800,000 of revenue on a purported sale to a
+
+
+
+                                                 28
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 29 of 60 PageID #: 29
+
+
+
+
+European customer (“Customer A”). Parekh had reported to the independent auditor that
+
+Neptune shipped the product to Customer A a few days after September 30. But Parekh knew, or
+
+was reckless in not knowing, that this product had shipped to a third-party warehouse at
+
+Neptune’s expense, and not to Neptune’s customer.
+
+       85.     In an email from September 2017 in which Parekh provided instructions to his
+
+subordinates for ex works jobs, he also told his subordinates that they needed a “[p]acking list
+
+with items that are ready and quarantined (Here or at [the third party warehouse]).” Later in
+
+February 2018, a Neptune shipping manager sent Parekh a list of ex works “jobs that are still at”
+
+the third-party warehouse (amounting to millions of dollars of product). Included within the list
+
+was the product for the reported sale to Customer A. After Parekh left Neptune, his successor
+
+located in August 2018 product purportedly sold to Customer A still sitting in the third-party
+
+warehouse. When Parekh’s successor called Parekh and confronted him with the information that
+
+Neptune product reportedly sold to customers was sitting in a warehouse in Rhode Island, Parekh
+
+acknowledged that he knew about the product sitting there. Parekh told his successor that he had
+
+planned to write-off or reverse the revenue associated with the product in the third-party
+
+warehouse, but had not yet done so before leaving Evoqua. Parekh therefore knew that Neptune
+
+was using a third party warehouse to store ex works orders. And thus Parekh knew, or was
+
+reckless in not knowing, that the use of the third party warehouse was equivalent to storing on
+
+site at Neptune. Despite this, Parekh represented to the auditor that shipment to the third party
+
+warehouse constituted shipment to the customer. Based on Parekh’s inaccurate representation,
+
+the independent auditor concluded erroneously that revenue had been properly recognized.
+
+       86.     Parekh also provided other incorrect information to the auditor during its audit of
+
+Evoqua’s revenue and sales transactions. For example, on September 30, 2017, Neptune invoiced
+
+
+
+                                                 29
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 30 of 60 PageID #: 30
+
+
+
+
+a customer (“Customer B”) approximately $114,000 for the purpose of preserving a discount for
+
+Customer B. This was not a real sale at that time, however, because Customer B did not submit a
+
+purchase order to Neptune until afterwards on October 6, 2017. Neptune also agreed with
+
+Customer B, in an email dated October 25, 2017, that it would send Customer B the “actual
+
+invoice” once the filter shipped from Neptune to Customer B. Neptune shipped the filter to
+
+Customer B in February 2018. Internally, Customer B recorded that the invoice for the sale was
+
+dated February 15, 2018.
+
+       87.       Nonetheless, Parekh informed the independent auditor via email on November 17,
+
+2017 that Neptune had shipped the product for the sale to Customer B in September 2017 before
+
+the end of Evoqua’s fiscal year. Parekh also informed the auditor that Evoqua properly
+
+recognized revenue from the purported sale. As backup support, Parekh provided the auditor the
+
+sham September 30, 2017 invoice mailed to Customer B and a shipping document purportedly
+
+reflecting that Neptune shipped the order to Customer B on September 14, 2017. The shipping
+
+document that Parekh included as support, however, was for a different project.
+
+       88.       In November 2017, the independent auditor ultimately determined that Neptune
+
+had improperly recognized $4.8 million of revenue in September 2017, and attributed this to
+
+Neptune’s misunderstanding of the ex works shipping term. The auditor’s findings further
+
+reflected that “when a company utilizes [ex works] shipping terms, the transaction must be
+
+analyzed as a bill-and-hold transaction” but “management had not done this for many of the
+
+transactions.”
+
+       89.       Evoqua determined that this $4.8 million figure was not material to its fiscal 2017
+
+financial results, without any documentation of the qualitative and quantitative factors that must
+
+be considered in assessing the materiality of an error to the financial statements.
+
+
+
+                                                 30
+     Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 31 of 60 PageID #: 31
+
+
+
+
+       90.     Additionally, the quantified misstatement of $4.8 million excluded $1.5 million of
+
+additional revenue that was included in the scope of the ex works review and that was recognized
+
+prior to shipment, but that the independent auditor concluded was “good revenue.” The $4.8
+
+million error was lower than the initial assessment made by Evoqua’s senior finance personnel,
+
+yet Evoqua’s senior management undertook no effort to understand why the $1.5 million of
+
+additional revenue was “good revenue” at the time. Upon a subsequent review of the underlying
+
+transactions performed by Evoqua years later during the Commission’s investigation, Evoqua
+
+concluded that these transactions also failed to meet the criteria for revenue recognition in fiscal
+
+2017. This additional amount, which would have resulted in an aggregate $6.3 million revenue
+
+misstatement, was not considered in Evoqua’s materiality determination. As a result, Evoqua
+
+included in its first filings of financial results as a public company millions of dollars of revenue
+
+and earnings that did not comply with GAAP.
+
+V.     The Improperly Recognized Bill-and-Hold Transactions Resulted in Material
+       Misstatements in Evoqua’s Filings with the Commission
+
+       91.     One month after the IPO, Evoqua filed its Form 10-K with the Commission in
+
+December 2017, the company’s first annual filing as a public company. In the Form 10-K,
+
+Evoqua reported as revenue the improper transactions identified by the independent auditor.
+
+Evoqua senior management made the decision to not adjust the revenue in the Form 10-K (that
+
+is, Evoqua did not back out the improper transactions that had already been identified). Had
+
+Evoqua done so, its reported revenues would have fallen below the range of the estimated
+
+revenue for the fourth quarter and full year of fiscal 2017 that it had provided to the financial
+
+markets in its registration statements and IPO Prospectus previously filed with the Commission.
+
+As a result, Evoqua reported earnings within the range forecasted in its November 2017 IPO
+
+
+
+
+                                                 31
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 32 of 60 PageID #: 32
+
+
+
+
+Prospectus. If not for the improper bill-and-hold transaction revenue, Evoqua would have missed
+
+the forecast.
+
+       92.      Evoqua also did not disclose to the investing public that Neptune had adopted a
+
+practice of reporting revenues for bill-and-hold transactions or that the practice deviated from
+
+GAAP and Evoqua’s own revenue recognition policies. Nor did Evoqua disclose that such
+
+reporting of bill-and-hold transactions had enabled Evoqua to meet or exceed the financial
+
+forecasts it had announced to investors in the IPO Prospectus or that the impact of accelerating
+
+revenues could have an adverse impact on future results.
+
+       93.      Further, the quantified $4.8 million misstatement that was determined by Evoqua
+
+senior financial executives to be immaterial in 2017 was only a fraction of the total misstatement
+
+for the period. In fact, years later, during the Commission’s investigation, Evoqua concluded that
+
+it improperly recognized revenue on significantly more transactions, comprising more than $18
+
+million of revenue during the 2017 fiscal year, primarily through the improper use of bill-and-
+
+hold transactions.
+
+       94.      In sum, in fiscal year 2017, Parekh caused the A&D Division (and thus Evoqua)
+
+to improperly recognize net $11.7 million of revenue (which includes the partial offset for
+
+recognition of revenue that was found to have been improperly recognized in fiscal year 2016).
+
+Had Evoqua excluded this amount from its financial results in the period, as it should have,
+
+reported revenues and Adjusted EBITDA each would have fallen below the respective range
+
+Evoqua provided in its IPO Prospectus. In addition, consolidated Adjusted EBITDA would have
+
+been approximately $4.4 million less (6%) and $7.6 million less (3.6%) than what was reported
+
+for the fourth fiscal quarter and full fiscal year 2017, respectively, and the Adjusted EBITDA for
+
+the business segment that included Neptune would have been approximately 18% and 10% less
+
+
+
+                                                32
+      Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 33 of 60 PageID #: 33
+
+
+
+
+than what was reported for the fourth fiscal quarter and full fiscal year 2017, respectively. Thus
+
+the impact of the improperly recognized revenue was both qualitatively and quantitatively
+
+material to Evoqua’s financial results.
+
+VI.     Evoqua Failed to Disclose in its Fiscal Year 2017 Form 10-K That It Lacked
+        Sufficient Internal Controls To Ensure That Revenue Was Properly Reported
+
+        95.    In October 2017, Parekh and senior financial management of Evoqua were aware
+
+of the high-risk findings of the internal controls gaps at Neptune. More specifically, on October
+
+15, 2017, Evoqua’s internal audit department distributed to various recipients the findings of the
+
+fiscal 2017 internal controls testing to discuss the results and a plan for remediation of identified
+
+deficiencies. The findings included that Neptune’s accounting system “does not have a
+
+systematic control to prevent invoice generation and revenue recognition prior to shipment [and]
+
+[c]urrently there is not a process in place to ensure orders which have not shipped are not
+
+invoiced.” The recommendation from Evoqua’s internal audit department was that “management
+
+should implement a control to review shipments at month end to ensure revenue is recognized in
+
+the proper period. Evidence of this review should be formally documented and maintained.”
+
+These findings confirmed that: (a) it was not expected that revenue would be recognized prior to
+
+shipment, (b) Evoqua senior financial management was made aware of the risks that existed that
+
+revenue could be recognized prior to shipping, and (c) it was necessary to put a process in place
+
+to ensure that recognition of revenue prior to shipment did not happen. However, despite the fact
+
+that this revenue recognition risk at Neptune had been identified and had become a reality in
+
+fiscal 2017, Evoqua failed to disclose that it possessed a material weakness in its internal
+
+controls for financial reporting in its fiscal 2017 Form 10-K. A material weakness is a
+
+deficiency, or combination of deficiencies, in internal control over financial reporting, such that
+
+there is a reasonable possibility that a material misstatement of the company’s annual or interim
+
+
+                                                 33
+       Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 34 of 60 PageID #: 34
+
+
+
+
+financial statements will not be prevented or detected on a timely basis. Disclosure of a material
+
+weakness could have alerted investors about the deficient state of the internal control
+
+environment at Evoqua and of the resulting risks. It also would have required Evoqua to be held
+
+accountable for remediating the material weakness by implementing a plan and timeline for
+
+remediation. Failure to report a material weakness was misleading about the company’s control
+
+environment. Further, an effective process was not put in place in fiscal 2018 and revenue
+
+continued to be improperly recognized prior to shipment at Neptune.
+
+VII.     Evoqua Did Not Timely Inform Its Independent Auditor of A 2017 Hotline
+         Complaint
+
+         96.   At the time that Evoqua’s independent auditor was conducting its review of the
+
+September 2017 revenue transactions at Neptune, Evoqua received another internal hotline
+
+complaint concerning Neptune. On November 8, 2017, this complaint alleged that “empty crates
+
+in beaver dam counted as finished product at the end of the fiscal year [2017] along with a
+
+questionable ‘ex works’ policy to create revenue for product not shipped.” Beaver Dam,
+
+Wisconsin is another location of the Neptune division-level company for which Parekh was the
+
+finance director. Evoqua senior management were all aware of the allegation.
+
+         97.   Evoqua engaged a regional consulting firm to investigate the allegations. The
+
+consulting firm performed site visits in mid-November 2017 at Neptune’s two locations (Rhode
+
+Island and Wisconsin). The firm noted that a late September order may have been unpackaged
+
+but still counted as revenue before it was repackaged, as well as several improper ex works
+
+transactions. The firm was engaged in its investigation of the allegations about improper revenue
+
+recognition involving ex works transactions at the exact same time as Evoqua’s independent
+
+auditor was questioning Evoqua about the same practice. A draft report of the investigation
+
+
+
+
+                                                34
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 35 of 60 PageID #: 35
+
+
+
+
+findings was dated November 22, 2017, and the final report was dated December 1, 2017, three
+
+days before the fiscal 2017 financial statements were filed on December 4, 2017.
+
+        98.    Evoqua’s senior financial executives did not disclose to the independent auditor
+
+the allegations of the November 2017 hotline complaint or the findings of the firm investigating
+
+the complaint prior to the firm’s issuance of its audit opinion. Evoqua’s senior financial
+
+executives did not disclose the allegations or the existence of the investigation to the independent
+
+auditor prior to Evoqua publicly filing its financial statements for fiscal year 2017. The
+
+disclosure of a suspected fraud to the independent auditors could have reasonably impacted the
+
+scope of the fiscal 2017 audit.
+
+        99.    When the independent auditor did learn of the complaint as part of their January
+
+2018 review of Evoqua--after the filing of the 2017 Form 10-K--it communicated its concerns to
+
+Evoqua that the company should have timely informed the auditor about the allegations. The
+
+auditor advised Evoqua that it is critical for the independent auditor to be informed of fraud
+
+allegations on a timely basis.
+
+VIII.   Evoqua Continued to Improperly Recognize Revenue Through Bill-and-Hold Deals
+        In Fiscal Year 2018
+
+        100.   The effects of pulling forward revenue into fiscal 2017 and improperly
+
+recognizing revenue prior to shipment had a detrimental impact on Evoqua’s first fiscal quarter
+
+of 2018. For example, as reported in Evoqua’s Form 8-K and Form 10-Q filed with the
+
+Commission on February 6, 2018 and February 7, 2018, respectively, revenues in the first
+
+quarter of 2018 for the reporting segment that included Neptune decreased $1.5 million, or 2.2%,
+
+from the corresponding quarter in the prior year. Evoqua informed the public that this was an
+
+“expected decline in revenues… primarily due to the timing of larger projects completed in the
+
+first quarter of the prior year in the Aquatics product line.” However, the larger projects
+
+
+                                                 35
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 36 of 60 PageID #: 36
+
+
+
+
+recognized in the first quarter of the prior year included a $2 million project that was improperly
+
+recognized in the first quarter of 2017 at Neptune. Had Evoqua not inflated its 2017 financial
+
+results by nearly $12 million, including the $2 million improperly recognized in the first quarter
+
+of 2017, revenues in the first quarter of fiscal 2018 would have increased by nearly $5.3 million,
+
+or 7.7%, in the first quarter of 2018 over the prior year, a materially different result for the
+
+segment than what was reported. Thus the improper revenue recognition in fiscal 2017, was
+
+causing 2018 financial results to appear worse than they otherwise would have.
+
+       101.    In early 2018 (a few months after the independent auditor informed Evoqua that
+
+Neptune improperly applied the shipping terms to revenue recognition), Parekh developed
+
+another means to book revenue prior to shipping despite having been specifically apprised of the
+
+extensive bill-and-hold criteria in November 2017 and despite Evoqua’s internal audit findings in
+
+October 2017 that there should be a control put in place at Neptune to ensure revenue was not
+
+recognized on orders that hadn’t shipped.
+
+       102.    Specifically, on November 8, 2017, following the identification of the ex works
+
+issue, the independent auditor sent Evoqua its firm’s guidance on bill-and-hold transactions,
+
+which included consideration of ex works terms. This guidance was shared with Parekh, and
+
+specifically applied by Parekh and Evoqua to evaluate the ex works transactions that were
+
+reviewed during the audit that had been recognized prior to shipment in 2017. In addition to the
+
+extensive bill-and-hold criteria, the guidance stated:
+
+       Because of the restrictive nature of the criteria discussed above, bill and hold transactions
+       rarely result in revenue recognition prior to the customer taking delivery of the goods
+       (and then only if all of the other basic criteria for revenue recognition have been met).
+
+As a result, Parekh and Evoqua were on notice at least as of November 2017, not only of the
+
+extensive bill-and-hold criteria, but of the fact that, “prior to shipment, the arrangement should
+
+
+
+                                                  36
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 37 of 60 PageID #: 37
+
+
+
+
+be evaluated using the bill-and-hold criteria” and that “bill and hold transactions rarely result in
+
+revenue recognition prior to the customer taking delivery of the goods.” In other words, Parekh
+
+knew, or was reckless in not knowing, the bill and hold criteria well enough to prevent any
+
+mistaken application of the factors going forward.
+
+       103.    In February and March 2018, Parekh directed Neptune personnel to introduce a
+
+“warehouse deal” to its customers whereby Neptune would send product to a third-party
+
+warehouse for storage. This was not an entirely new concept. In fiscal 2017, Neptune had
+
+shipped purportedly sold product to the same third-party warehouse, including to “quarantine”
+
+customer orders with ex works terms until the customer was ready for delivery. Parekh, however,
+
+was on notice following the fiscal 2017 audit that recognizing revenue prior to shipping to the
+
+customer was prohibited unless specific GAAP criteria were satisfied. As a work around, Parekh
+
+developed a variation on the quarantine deal whereby Neptune would ship product to a
+
+warehouse under terms it negotiated but which Neptune’s customers paid.
+
+       104.    A February 26, 2018 email from Neptune’s logistics manager to his contact at the
+
+third-party warehouse described the warehouse deal as “an option we want to present to
+
+customers to try and pull in some jobs.” On February 28, 2018, Neptune’s logistics manager
+
+provided the rates he obtained on Parekh’s behalf for the storage proposal to Parekh. On March
+
+16, 2018, Parekh sent an email to Neptune’s customer service and support team director for the
+
+Americas region, with the subject line “Warehouse deal,” and included a proposal to “Business
+
+Partners” regarding “a viable and economic warehousing option” for the third party warehouse
+
+provider and proposed monthly rates for “warehousing.”
+
+       105.    In practice, however, the “warehouse deal” was not appealing to customers who
+
+did not want to pay for storage and subsequent shipping, assume risk earlier than necessary, or
+
+
+
+                                                 37
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 38 of 60 PageID #: 38
+
+
+
+
+handle logistics. Instead, Neptune shipped product to the third-party warehouse at the end of
+
+reporting periods; paid for shipping to, and storage at, the warehouse; and recognized revenue on
+
+the sales, even though the customer had not taken the product, had not assumed risk of loss, or in
+
+some cases had no present obligation to pay for the order.
+
+       106.    For example, Evoqua recognized revenue on the sale of product for the
+
+construction of two animation-themed waterparks in late March 2018 during the second quarter
+
+of fiscal year 2018. One sale totaled approximately $142,000 and the second totaled
+
+approximately $33,200. Neptune shipped the products for both sales to a third-party warehouse
+
+in March 2018. In April 2018, during the third quarter of fiscal year 2018, one of Neptune’s
+
+shipping managers emailed the warehouse and directed them to ship the product to the customer
+
+locations located in California and Texas, respectively. Neptune paid for the storage and
+
+shipping of the product.
+
+       107.    Another example of a 2018 improper bill-and-hold transaction involved a sale to a
+
+customer in China. In order to pull forward and prematurely recognize nearly $3 million on an
+
+order to the customer in China, on May 24, 2018, Neptune offered the warehouse deal to “lock in
+
+pricing” and “avoid the price increase … for shipments that occur after June 30th.” Neptune also
+
+“made arrangements with a local warehouse that will store [the] customer equipment at very
+
+competitive rates.” Parekh sent an email on June 11, 2018 with a list of proposed terms to
+
+Neptune’s senior manager in China, including offering an additional $50,000 discount, which
+
+covered the “cost of the warehouse with 3 month storage, freight to Shanghai and full
+
+insurance.” Despite the appearance that the customer would pay for storage pursuant to the
+
+warehouse deal, Neptune was effectively paying for storage via the discount offered to the
+
+customer. Nevertheless, the third-party warehouse used for storage confirmed it only billed
+
+
+
+                                               38
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 39 of 60 PageID #: 39
+
+
+
+
+Neptune for storage. Additionally, almost the entire payment was contingent on shipment from
+
+the warehouse to the end customer site or thereafter.
+
+       108.    While Parekh was involved in the negotiation of the terms, the transaction was
+
+also visible to other Evoqua personnel. Neptune (and thus Evoqua) recognized the revenue in the
+
+quarter ended June 30, 2018 without assessment of the bill and hold criteria, or other criteria for
+
+revenue recognition, which it would have failed. Thus, Neptune was in substance doing in fiscal
+
+2018 the same as what it did in fiscal 2017 when it improperly relied on the ex works shipping
+
+term to recognize revenue prior to shipping. This transaction would have failed bill and hold
+
+criteria because Neptune, not the customer, was proposing use of a warehouse; there wasn’t an
+
+otherwise substantial business purpose for the customer having the goods stored in a warehouse;
+
+and there were payment contingencies including that more than 95% of the payment was
+
+dependent on receipt and acceptance of the products by the end-user. Thus, risks and rewards of
+
+ownership had not passed when the product shipped to the warehouse in June 2018.
+
+       109.    Parekh offered these terms to entice the customer because this sale was critical to
+
+Evoqua’s fiscal third quarter ending June 30, 2018. On June 19, 2018, in response to concerns
+
+from the local Neptune team in China about the deal, Neptune’s general manager stated in an
+
+email that Parekh was copied on, “[w]ithout this order our quarter will be a disaster…[Parekh]
+
+and I will call you at 8:15 to discuss options.” On June 29, 2018, the same day revenue was
+
+ultimately recognized for the order, a senior executive of Evoqua congratulated the sales team in
+
+China for their efforts and wrote, “A meaningful completion for the quarter and a terrific order to
+
+close out.”
+
+       110.    The $3 million sale was meaningful to Evoqua. Evoqua reported its results for
+
+fiscal third quarter 2018 in its Form 8-K and Form 10-K filed with the Commission on August 7,
+
+
+
+                                                 39
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 40 of 60 PageID #: 40
+
+
+
+
+2018, and reported that revenues for the business segment that included Neptune increased $8
+
+million, or 9.5%, over the reported revenues in the corresponding quarter in the prior year, of
+
+which this particular sale represented nearly $3 million, or approximately 33%. Despite the
+
+meaningful impact this sale had on the quarter, Evoqua failed to ensure proper internal controls
+
+were in place to evaluate the terms and conditions of this arrangement for proper revenue
+
+recognition. Had Evoqua properly addressed the red flags that it had been presented with
+
+regarding this order, it should have concluded the criteria for revenue recognition had not been
+
+met.
+
+       111.    Thus, during fiscal year 2018, Neptune and Parekh were using the same bill-and-
+
+hold tactics they had used in fiscal 2017 to pull-forward sales, by enticing customers with price
+
+discounts, extended payment terms, and coordinating a storage solution in exchange for
+
+recording the sale earlier than when the customer needed the underlying product.
+
+       112.    Over the course of the first nine months of fiscal 2018, Parekh allowed Neptune,
+
+and therefore Evoqua, to improperly recognize at least $4.1 million of revenue related to nine
+
+transactions through additional bill-and-hold deals. This was improper revenue recognition
+
+because the bill-and-hold deals failed several revenue recognition criteria. First, Neptune’s
+
+proposal meant that Neptune, not the customer, was effectively requesting a bill-and-hold
+
+transaction with no substantial business purpose other than for Neptune to accelerate revenue
+
+recognition. Second, Neptune actually paid for the storage costs, typically by paying the third-
+
+party storage provider (meaning that delivery had not occurred) and/or by providing customers
+
+credit in the approximate amount of the storage costs. Third, Neptune was responsible for
+
+coordinating the shipment of the goods to the final customer destination (meaning that delivery
+
+had not occurred prior to that point in time). Fourth, payment was often contingent on delivery to
+
+
+
+                                                40
+      Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 41 of 60 PageID #: 41
+
+
+
+
+the final customer destination (a collectability concern under basic revenue recognition criteria,
+
+as well as indicia that risk had not passed to the customer since the customer was not obligated to
+
+pay until a subsequent date).
+
+IX.     After Parekh Departs, Evoqua Discovers Products Left In a Warehouse Despite
+        Having Recognized Revenue in 2017
+
+        113.   Parekh left his employment at Neptune in August 2018. Soon thereafter, Parekh’s
+
+successor learned of Parekh’s use of the third-party warehouse to improperly recognize revenue.
+
+Among other things, Parekh’s successor discovered 36 Defender filters at the third-party
+
+warehouse for which more than $2 million of revenue had been previously recognized in an
+
+earlier interim or annual period.
+
+        114.   The discovery of the warehouse was communicated on August 28, 2018 to
+
+Evoqua senior management, including that revenue from 24 of the 36 Defender filters had been
+
+improperly recognized as revenue in fiscal 2017 based on the ex works shipping term, had not
+
+yet shipped to the customer, and were sitting at a warehouse nearly a year later. Evoqua senior
+
+management was informed that the warehouse was being used “as a storage facility for customer
+
+unwilling to accept goods at quarter end” and that “risks that Revenue Recognition criteria were
+
+not met during the past period end still exist.” Additionally, Evoqua senior management was
+
+informed that “there is probably a revenue cut-off issue in our procedures.” Parekh’s successor
+
+also confirmed on August 29, 2018 that Neptune was paying for the third-party warehouse costs,
+
+which he had acknowledged would “be a revenue recognition issue.”
+
+        115.   Neptune reversed revenue by approximately $1.4 million in fiscal 2018 for two
+
+transactions that were improperly recognized in fiscal 2017, under Parekh’s oversight, for
+
+product that was found in the warehouse. Both of these transactions were part of the fiscal 2017
+
+ex works deals reviewed for the 2017 audit. While one of these transactions had been quantified
+
+
+                                                41
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 42 of 60 PageID #: 42
+
+
+
+
+as part of the $4.8 million misstatement in fiscal 2017 for failing the bill and hold criteria, the
+
+other transaction was not part of the misstatement because it was purported to have shipped to
+
+the customer on or about September 30, 2017. The purported shipment date, however, was not
+
+accurate, because the product had not shipped to the customer but rather to the third party
+
+warehouse where it remained until it was discovered nearly a year later.
+
+       116.    Despite learning of the existence of the products at the warehouse and the
+
+potential revenue recognition cut-off issues at Neptune in fiscal 2018, including the correlation to
+
+prior bill and hold issues, Evoqua senior management did not make efforts to undertake a
+
+thorough review to, among other things, confirm the magnitude of the issues that were identified
+
+or the potential impact to prior period financial statements. Further, Evoqua did not apprise the
+
+independent auditor of these potential issues, despite a pattern of revenue recognition cut-off
+
+issues at Neptune for the third year in a row.
+
+       117.    These facts could have caused the independent auditor to rethink its conclusions
+
+reached in fiscal 2017 that Neptune’s reliance on the ex works shipping terms was a simple
+
+misunderstanding of the application of ex works. This is so because even ex works shipping
+
+terms do not contemplate holding product indefinitely on a customer’s behalf. The independent
+
+auditor had communicated in November 2017 to Evoqua senior management that “if it is
+
+determined that [bill and hold] criteria was met and revenue is recognized by the Company and
+
+then the customer subsequently does not take delivery/pick-up by the specified date, [the auditor]
+
+would then consider this to be an error related to the 9/30/17 audit and this could trigger a
+
+reopening of the FY17 audit/potential restatement of FY17 results.” Evoqua, however, did not
+
+notify its independent auditor that it had found product in a warehouse related to transactions that
+
+were previously recognized as revenue.
+
+
+
+                                                  42
+      Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 43 of 60 PageID #: 43
+
+
+
+
+ X.     Neptune Offered Another Warehouse Deal In The Fourth Quarter of Fiscal 2018
+
+
+        118.    During the last quarter of fiscal 2018, Neptune had a prospective $7 million
+
+international order that was in danger of falling through, which would have significantly
+
+impacted Neptune’s financial results for the fiscal quarter and year end. This would have been
+
+the largest order Neptune ever closed and despite being part of the forecasted results for the year,
+
+the receipt of a definitive order and the closing of the sale had been delayed from several earlier
+
+periods. Evoqua senior management informed the public in an August 2018 conference call with
+
+investors and financial analysts who followed the company (often called an “earnings call”) that
+
+they expected to deliver several larger aquatics projects in the fourth quarter of that fiscal year
+
+(ending September 30, 2018), including projects that were on hold and deferred from the third
+
+quarter. But this project was more than just “on hold” because Evoqua didn’t even have a
+
+purchase order for it. This was misleading, because it implied a sale was imminent, when in fact
+
+it was still speculative.
+
+        119.    Evoqua was up against a potential earnings miss for the fourth fiscal quarter of
+
+2018. In a September 27, 2018 email, an Evoqua senior executive wrote to other senior
+
+executives, “[w]e must hit guidance and simply cannot miss the range as we close this year…
+
+Reach out individually to all GMs and let them know to pull whatever they can….” In attempt to
+
+try to salvage the quarter, on September 28, 2018, Neptune entered into an arrangement with a
+
+purportedly new distributor, who would in turn sell the underlying product to an end-customer
+
+for a portion of the $7 million prospective order at some unspecified point in the future. This
+
+contemplated transaction was merely another example of an inappropriate warehouse deal. First,
+
+the new distributor Neptune identified that would purportedly buy the product had no credit
+
+history, did only $1 million in annual sales in an entirely different industry, and required
+
+
+                                                 43
+      Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 44 of 60 PageID #: 44
+
+
+
+
+extended payment terms. In addition, the distributor had no end-customer lined up to buy the
+
+product and no capacity to store the product. Despite these risk factors, Neptune recorded $1.2
+
+million of revenue on September 29, 2018 and stored the product at the same third-party
+
+warehouse discussed above. Evoqua’s senior management were made aware of the terms and
+
+conditions of the arrangement, and signed off on extending credit to a new distributor with no
+
+credit history, thus allowing revenue from the transaction to be recognized in the fourth quarter
+
+of 2018.
+
+        120.   Like certain other transactions Neptune improperly recognized as revenue, the
+
+transaction ultimately fell through and the underlying product was returned from the third-party
+
+warehouse to Neptune in fiscal 2020 upon confirmation that the customer would not be taking
+
+delivery. Neptune paid the third-party warehouse for the outstanding storage costs that were
+
+supposed to be paid by the customer. Had Neptune conducted a proper bill and hold assessment
+
+for this transaction at the time revenue was recognized in 2018, it would not have passed
+
+because, at a minimum, the transaction lacked a substantial business purposes for storage at a
+
+warehouse with no defined shipment date to the customer and collectability was not reasonably
+
+assured.
+
+XI.     In October 2018, Evoqua’s Stock Price Dropped 35% When the Company
+        Announced a Sizeable Miss In Earnings
+
+        121.   In October 2018, at the conclusion of Evoqua’s first full year as a public
+
+company, Evoqua announced a sizeable miss in earnings for the 2018 fiscal year, including that
+
+its adjusted EBITDA would be between $213 million to $217 million (an increase of 2.6% to
+
+4.5% over the previous year) versus the company’s previously stated expected range between
+
+$235 million to $245 million (an increase of 13% to 18% over 2017). The price for Evoqua’s
+
+stock dropped 35%, from $13.80 per share to $9.02 per share, on October 30, 2018, the day the
+
+
+                                                44
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 45 of 60 PageID #: 45
+
+
+
+
+company announced the news. Evoqua publicly disclosed in its October 30, 2018 Form 8-K filed
+
+with the Commission, that the “challenges were primarily concentrated in the Product segment’s
+
+aquatics business and the Municipal segment. These combined shortfalls are primarily due to
+
+acquisition system integration issues, supply chain disruptions influenced by tariffs and an
+
+extended delay on a large aquatics project.” Thus, Evoqua acknowledged publicly that the A&D
+
+Division was a primary driver of the earnings miss.
+
+       122.    While the fourth quarter earnings miss was significant, it was also exaggerated
+
+because of the material misstatements that had occurred in the periods leading up to and
+
+including the fourth quarter. For example, in its Form 8-K filed with the Commission on
+
+November 27, 2018, Evoqua reported that revenues in the business segment in which the A&D
+
+Division was included, were down nearly $5 million, or 5%, versus the fourth quarter in the prior
+
+year. However, had Evoqua not improperly recognized revenue, it would have reported increased
+
+revenues of $2 million, or 2.3%, versus the respective prior period, rather than a decrease.
+
+Similarly, for fiscal year 2018, Evoqua reported an increase in revenue over the prior year of
+
+approximately $14 million, or 4%. Had Evoqua not improperly recognized revenue, it would
+
+have reported an increase in revenue over the prior year of approximately $28 million, or 9%--
+
+more than double the increase than what it reported. These are materially different results for the
+
+fourth quarter and fiscal year 2018, and misstated the trends of this business segment.
+
+       123.    Internal documents sent to Evoqua senior financial management attributed more
+
+than $8 million of the estimated $15 million revenue miss in September 2018 as due to the
+
+inability to get customers to take product early and an additional $1.4 million of the revenue miss
+
+related to “Revenue reversal for inventory sitting at [ ] warehouse.” However, these factors were
+
+not included in the public explanation for the material earnings miss at Evoqua despite senior
+
+
+
+                                                45
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 46 of 60 PageID #: 46
+
+
+
+
+financial management of Evoqua internally describing the situation at Neptune as a “[c]omplete
+
+train-wreck.”
+
+       124.     Evoqua acknowledged in its fiscal 2018 Form 10-K, filed with the Commission
+
+on or about December 11, 2018, that it had a material weakness in its internal control over
+
+financial reporting, including a number of control deficiencies related to revenue recognition.
+
+This disclosure was too late, however, because the material weakness existed before fiscal 2018
+
+and, as a result, investors were misled. The disclosure also stated that the material weakness “did
+
+not result in any reported misstatements to the financial statements, and there were no changes to
+
+previously reported financial results.” This was also misleading because material misstatements
+
+existed in the 2018 and prior period financial results.
+
+       125.     Evoqua’s registration statement, prospectuses, Forms 10-K, Forms 10-Q, and
+
+Forms 8-K filed with the Commission during fiscal year 2017 and through fiscal year 2018
+
+contained materially false and misleading financial statements with improperly reported revenue,
+
+in violation of Evoqua’s accounting policies and GAAP: Specifically, these filings include the
+
+S-1/A Registration Statement filed with the Commission on or about October 18, 2017 and
+
+October 20, 2017, the IPO Prospectus filed with the Commission on or about November 3, 2017;
+
+the prospectus filed with the Commission on or about March 16, 2018; Forms 10-K filed with
+
+the Commission on or about December 4, 2017 and December 11, 2018; Forms 10-Q filed with
+
+the Commission on or about February 7, 2018, May 8, 2018 and August 7, 2018; and Forms 8-K
+
+filed with the Commission on or about December 1, 2017, February 6, 2018, May 8, 2018,
+
+August 7, 2018, October 30, 2018, and November 27, 2018. In addition, these filings failed to
+
+disclose Evoqua’s reliance on the practice of reporting revenue from uncompleted sales it treated
+
+as bill-and-hold transactions, and Evoqua’s material deviations from its publicly stated and
+
+
+
+                                                 46
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 47 of 60 PageID #: 47
+
+
+
+
+internal revenue recognition policies and GAAP. Additionally, in its Form 10-K filed with the
+
+Commission on or about December 4, 2017 and in its Forms 10-Q filed with the Commission on
+
+or about February 7, 2018, May 8, 2018 and August 7, 2018, Evoqua failed to disclose a material
+
+weakness in its internal control over financial reporting despite the severe control deficiencies at
+
+Evoqua that had a reasonable possibility of causing a material misstatement and that such control
+
+deficiencies had yet to be remediated and thus continued to pose risk that a material
+
+misstatement would not be prevented or detected on a timely basis in future periods.
+
+       126.    Each of these filings was materially false and misleading because the disclosure
+
+failures and improper omissions concerned sales and finance practices that are important to a
+
+reasonable investor.
+
+       127.    In addition, the financial statements in each of these filings were misstated
+
+materially due to a variety of quantitative and qualitative factors, including but not limited to:
+
+           •   Certain financial statements quantitatively misstated revenue and/or adjusted
+
+               EBITDA, a key financial metric of Evoqua, at the consolidated and/or at the
+
+               respective segment level for a business segment that played a significant role in
+
+               Evoqua’s profitability as evidenced by the fact that when this business segment
+
+               underperformed in fiscal 2018 it resulted in an overall material earnings miss;
+
+           •   Certain financial statements concealed Evoqua’s failure to meet publicly reported
+
+               expectations for revenue and adjusted EBITDA as well as analyst consensus
+
+               estimates, and/or concealed the magnitude of those failures;
+
+           •   Certain financial statements were the product of non-compliance with its own
+
+               policies, the circumvention of its controls, and fraud as discussed above;
+
+
+
+
+                                                 47
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 48 of 60 PageID #: 48
+
+
+
+
+           •   Misstatements in certain financial statements affected Evoqua’s compliance with
+
+               regulatory requirements (for example, violation of US GAAP);
+
+           •   Misstatements in certain financial statements masked a change in earnings or
+
+               trends (for example, distorting adjusted EBITDA growth percentages);
+
+           •   The nature and amount of the misstatements in certain financial statements may
+
+               have resulted in a significant negative market reaction; and
+
+           •   The financial statements did not disclose the recurring practice of pulling forward
+
+               sales and the potentially adverse impact it could have (and did have) on
+
+               subsequent period filings.
+
+
+
+                                         FIRST CLAIM
+
+   Violation of Section 10(b) of the Exchange Act and Rules 10b-5(a) and (c) Thereunder
+                                          (Parekh)
+
+       128.    The Commission repeats and incorporates by reference the allegations in
+
+paragraphs 1 through 127 above as if set forth fully herein.
+
+       129.    Parekh intentionally, knowingly, or recklessly engaged in a fraudulent scheme
+
+through the series of acts detailed above. Parekh directly or indirectly (a) employed devices,
+
+schemes, or artifices to defraud; and (c) engaged in acts, practices, or courses of business which
+
+operated or would operate as a fraud or deceit upon any persons, including purchasers or sellers
+
+of Evoqua’s securities.
+
+       130.    As set forth above, Parekh employed devices, schemes, or artifices to defraud by
+
+fraudulently recognizing revenues from uncompleted sales, knowing that the revenue would be
+
+included in the company’s public statements and filings with the Commission. He knew or was
+
+reckless in not knowing that recognizing revenues from these transactions was improper under
+
+                                                48
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 49 of 60 PageID #: 49
+
+
+
+
+applicable accounting rules and/or would mislead investors about the financial condition of the
+
+company. Parekh also concealed details of these uncompleted sales from Evoqua personnel,
+
+including, but not limited to, (1) making a widespread change at Neptune to the ex works
+
+shipping term to recognize revenue prior to shipment in fiscal 2017 without vetting the change
+
+with Evoqua’s corporate accounting group, (2) using the ex works term in form but not substance
+
+to rationalize recognition of revenue prior to shipment, (3) storing ex works orders for extended
+
+periods of time, including up to a year in a warehouse, after revenue had been recognized, and
+
+(4) introducing the warehouse deal in fiscal 2018 and continuing to recognize revenue and store
+
+customer orders in a warehouse after specifically being told revenue recognition prior to
+
+shipment must be assessed under the bill and hold criteria.
+
+       131.    Parekh directly or indirectly made use of the means of instrumentalities or
+
+interstate commerce, or the mails, or of the facilities of a national securities exchange, in
+
+connection with these transactions, acts, practices, and courses of business.
+
+       132.    As a result, Parekh violated and, unless enjoined, will continue to violate Section
+
+10(b) of the Exchange Act [15 U.S.C. § 78j(b)] and Rules 10b-5(a) and (c) thereunder [17
+
+C.F.R. § 240.10b-5(a) and (c)].
+
+
+                                        SECOND CLAIM
+
+                       Violation of Section 17(a)(1) of the Securities Act
+                                           (Parekh)
+
+       133.    The Commission repeats and incorporates by reference the allegations in
+
+paragraphs 1 through 127 above as if set forth fully herein.
+
+       134.    As detailed above, Parekh directly or indirectly, in the offer or sale of securities,
+
+using the means and instruments of transportation or communication in interstate commerce or
+
+by use of the mail, with scienter, employed devices, schemes, or artifices to defraud.
+
+                                                 49
+     Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 50 of 60 PageID #: 50
+
+
+
+
+        135.   As set forth above, Parekh employed devices, schemes, or artifices to defraud by
+
+intentionally, knowingly or recklessly recognizing revenues from uncompleted sales, knowing
+
+that the revenue would be included in the company’s public statements and filings with the
+
+Commission. He knew or was reckless in not knowing that recognizing revenues from these
+
+transactions was improper under applicable accounting rules and/or would mislead investors
+
+about the financial condition of the company. Parekh also concealed details of these uncompleted
+
+sales from Evoqua personnel, including, but not limited to, (1) making a widespread change at
+
+Neptune to the ex works shipping term to recognize revenue prior to shipment in fiscal 2017
+
+without vetting the change with Evoqua’s corporate accounting group, (2) using the ex works
+
+term in form but not substance to rationalize recognition of revenue prior to shipment, (3) storing
+
+ex works orders for extended periods of time, including up to a year in a warehouse, after
+
+revenue had been recognized, and (4) introducing the warehouse deal in fiscal 2018 and
+
+continuing to recognize revenue and store customer orders in a warehouse after specifically
+
+being told revenue recognition prior to shipment must be assessed under the bill and hold
+
+criteria.
+
+        136.   As a result, Parekh violated and, unless enjoined, will continue to violate Section
+
+17(a)(1) of the Securities Act [15 U.S.C. § 77q(a)(1)].
+
+
+                                         THIRD CLAIM
+
+                       Violation of Section 17(a)(2) of the Securities Act
+                                     (Evoqua and Parekh)
+
+        137.   The Commission repeats and incorporates by reference the allegations in
+
+paragraphs 1 through 127 above as if set forth fully herein.
+
+        138.   As detailed above, Evoqua and Parekh, acting negligently, directly or indirectly,
+
+in the offer or sale of securities, using the means and instruments of transportation or
+
+                                                 50
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 51 of 60 PageID #: 51
+
+
+
+
+communication in interstate commerce or by use of the mail, obtained money or property by
+
+means of untrue statements of a material fact or by omitting to state a material fact necessary to
+
+make the statements made, in light of the circumstances under which they were made, not
+
+misleading.
+
+       139.    As a result, Evoqua and Parekh violated and, unless enjoined, will continue to
+
+violate Section 17(a)(2) of the Securities Act [15 U.S.C. § 77q(a)(2)].
+
+
+                                        FOURTH CLAIM
+
+           Aiding and Abetting Violations of Section 17(a)(2) of the Securities Act
+                                         (Parekh)
+
+
+       140.    The Commission repeats and incorporates by reference the allegations in
+
+paragraphs 1 through 127 above as if set forth fully herein.
+
+       141.    As set forth above, Parekh knowingly or recklessly provided substantial
+
+assistance to Evoqua for, directly or indirectly, in the offer or sale of securities, using the means
+
+and instruments of transportation or communication in interstate commerce or by use of the mail,
+
+obtaining money or property by means of untrue statements of a material fact or by omitting to
+
+state a material fact necessary to make the statements made, in light of the circumstances under
+
+which they were made, not misleading.
+
+       142.    As a result, pursuant to Section 15(b) of the Securities Act [15 U.S.C. § 77(b)],
+
+Parekh aided and abetted, and unless enjoined will continue to aid and abet violations of Section
+
+17(a)(2) of the Securities Act.
+
+
+                                          FIFTH CLAIM
+
+                       Violation of Section 17(a)(3) of the Securities Act
+                                     (Evoqua and Parekh)
+
+
+                                                  51
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 52 of 60 PageID #: 52
+
+
+
+
+       143.    The Commission repeats and incorporates by reference the allegations in
+
+paragraphs 1 through 127 above as if set forth fully herein.
+
+       144.    As detailed above, Evoqua and Parekh, acting negligently, directly or indirectly,
+
+in the offer or sale of securities, using the means and instruments of transportation or
+
+communication in interstate commerce or by use of the mail, engaged in transactions, practices,
+
+or course of business which operated or would operate as a fraud or deceit upon the purchaser.
+
+       145.    As a result, Evoqua and Parekh violated and, unless enjoined, will continue to
+
+violate Section 17(a)(3) of the Securities Act [15 U.S.C. § 77q(a)(3)].
+
+
+                                         SIXTH CLAIM
+
+                      Violation of Section 13(a) of the Exchange Act and
+                      Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder
+                                           (Evoqua)
+
+       146.    The Commission repeats and incorporates by reference the allegations in
+
+paragraphs 1 through 127 above as if set forth fully herein.
+
+       147.    Section 13(a) of the Exchange Act and Rules 13a-1, 13a-11, and 13a-13
+
+thereunder require an issuer such as Evoqua to file with the Commission accurate annual reports
+
+on Forms 10-K, 8-K, and 10-Q respectively. Rule 12b-20 requires that these reports contain such
+
+further material information as is necessary to make the required statements in the reports not
+
+misleading.
+
+       148.    As set forth above, the registration statements, prospectuses, Forms 10-K, Forms
+
+10-Q, and Forms 8-K filed by Evoqua during 2017 and 2018 contained materially false and
+
+misleading financial statements with improperly reported revenue, in violation of Evoqua’s
+
+accounting policies and GAAP: Specifically, these filings include the S-1/A Registration
+
+Statement filed with the Commission on or about October 20, 2017; the IPO Prospectus filed
+
+
+                                                 52
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 53 of 60 PageID #: 53
+
+
+
+
+with the Commission on or about November 3, 2017; the prospectus filed with the Commission
+
+on or about March 16, 2018; Forms 10-K filed with the Commission on or about December 4,
+
+2017 and December 11, 2018; Forms 10-Q filed with the Commission on or about February 7,
+
+2018, May 8, 2018 and August 7, 2018; and Forms 8-K filed with the Commission on or about
+
+December 1, 2017, February 6, 2018, May 8, 2018, August 7, 2018, October 30, 2018, and
+
+November 27, 2018. In addition, these filings failed to disclose Evoqua’s reliance on the practice
+
+of reporting revenue from uncompleted sales it treated as bill-and-hold transactions and
+
+Evoqua’s material deviations from its publicly stated and internal revenue recognition policies
+
+and GAAP. Additionally, in the Form 10-K filed with the Commission on or about December 4,
+
+2017 and Forms 10-Q filed with the Commission on or about February 7, 2018, May 8, 2018 and
+
+August 7, 2018, Evoqua failed to disclose a material weakness in its internal control over
+
+financial reporting.
+
+       149.    As a result, Evoqua violated and, unless enjoined, will continue to violate Section
+
+13(a) of the Exchange Act and Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder [15 U.S.C.
+
+§§78m(a); 17 C.F.R. §§240.12b-20, 240.13a-1, 240.13a-11, and 240.13a-13].
+
+
+                                      SEVENTH CLAIM
+
+                            Aiding and Abetting Violations of
+Section 13(a) of the Exchange Act and Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder
+                                        (Parekh)
+
+       150.    The Commission repeats and incorporates by reference the allegations in
+
+paragraphs 1 through 127 above as if set forth fully herein.
+
+       151.    As set forth above, Parekh knowingly or recklessly provided substantial
+
+assistance to Evoqua in its failures to file with the Commission accurate and complete
+
+information, reports, and documents, and such further material information necessary to make
+
+
+                                                53
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 54 of 60 PageID #: 54
+
+
+
+
+the required statements, in light of the circumstances under which they were made, not
+
+misleading.
+
+        152.    As set forth above, the registration statements, prospectuses, Forms 10-K, Forms
+
+10-Q, and Forms 8-K filed by Evoqua during 2017 and 2018 (as listed in paragraph 148 above)
+
+each contained false and misleading financial statements which improperly reported revenue that
+
+was attributed to purported bill-and-hold transactions, in violation of Evoqua’s accounting
+
+policies and GAAP.
+
+        153.    Parekh knowingly or recklessly provided substantial assistance to Evoqua in its
+
+failures to file with the Commission accurate and complete information, reports and documents
+
+for each Form 10-K, Form 10-Q, Form 8-K, and other documents listed in Paragraph 148 above,
+
+which Evoqua filed with the Commission.
+
+        154.    As a result, pursuant to Section 20(e) of the Exchange Act [15 U.S.C. § 78(t)(e)],
+
+Parekh aided and abetted, and unless enjoined will continue to aid and abet violations of Section
+
+13(a) of the Exchange Act [15 U.S.C. § 78m(a)] and Rules 12b-20, 13a-1, 13a-11, and 13a-13
+
+thereunder [17 C.F.R. §§ 240.12b-20, 240.13a-1, 240.13a-11, and 240.13a-13].
+
+
+                                         EIGHTH CLAIM
+
+                      Violation of Section 13(b)(2)(A) of the Exchange Act
+                                            (Evoqua)
+
+        155.    The Commission repeats and incorporates by reference the allegations in
+
+paragraphs 1 through 127 above as if set forth fully herein.
+
+        156.    Section 13(b)(2)(A) of the Exchange Act requires an issuer such as Evoqua to
+
+make and keep books, records, and accounts which, in reasonable detail, accurately and fairly
+
+reflect the transactions and dispositions of its assets.
+
+
+
+                                                  54
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 55 of 60 PageID #: 55
+
+
+
+
+          157.   By failing to make or keep books, records and accounts that in reasonable detail
+
+accurately and fairly reflected its transactions and disposition of its assets, Evoqua violated and,
+
+unless enjoined, will continue to violate Section 13(b)(2)(A) of the Exchange Act [15 U.S.C. §
+
+78m(b)(2)(A)].
+
+
+                                          NINTH CLAIM
+
+                                Aiding and Abetting Violations of
+                             Section 13(b)(2)(A) of the Exchange Act
+                                             (Parekh)
+
+          158.   The Commission repeats and incorporates by reference the allegations in
+
+paragraphs 1 through 127 above as if set forth fully herein.
+
+          159.   As set forth above, through his conduct Parekh knowingly or recklessly provided
+
+substantial assistance to Evoqua in its failure to make and keep books, records, and accounts,
+
+which, in reasonable detail, accurately and fairly reflected the transactions and dispositions of its
+
+assets.
+
+          160.   As a result, pursuant to Section 20(e) of the Exchange Act [15 U.S.C. § 78t(e)],
+
+Parekh aided and abetted, and unless enjoined, will continue to aid and abet, violations of
+
+Section 13(b)(2)(A) of the Exchange Act [15 U.S.C. § 78m(b)(2)(A)].
+
+
+                                         TENTH CLAIM
+
+                       Violation of Section 13(b)(2)(B) of the Exchange Act
+                                             (Evoqua)
+
+          161.   The Commission repeats and incorporates by reference the allegations in
+
+paragraphs 1 through 127 above as if set forth fully herein.
+
+          162.   Section 13(b)(2)(B) of the Exchange Act requires an issuer such as Evoqua to
+
+devise and maintain a system of internal accounting controls sufficient to provide reasonable
+
+
+                                                 55
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 56 of 60 PageID #: 56
+
+
+
+
+assurances that its financial statements are prepared in conformity with GAAP or any other
+
+criteria applicable to those statements.
+
+          163.   As set forth above, the financial statements in the Forms 10-K, 10-Q, 8-K, and
+
+other documents listed above in paragraph 125 recognized revenue in ways that did not comply
+
+with GAAP and that had a material impact on the company’s financial results.
+
+          164.   As a result, Evoqua violated and, unless enjoined, will continue to violate Section
+
+13(b)(2)(B) of the Exchange Act [15 U.S.C. § 78m(b)(2)(B)].
+
+
+                                       ELEVENTH CLAIM
+
+                                Aiding and Abetting Violations of
+                             Section 13(b)(2)(B) of the Exchange Act
+                                             (Parekh)
+
+          165.   The Commission repeats and incorporates by reference the allegations in
+
+paragraphs 1 through 127 above as if set forth fully herein.
+
+          166.   As set forth above, through the conduct described above and by failing to ensure
+
+that sufficient accounting controls existed, Parekh knowingly or recklessly provided substantial
+
+assistance to Evoqua in its failure to devise and maintain internal accounting controls sufficient
+
+to provide reasonable assurances that transactions were recorded as necessary to permit the
+
+preparation of financial statements in conformity with GAAP and to maintain accountability for
+
+assets.
+
+          167.   As a result, pursuant to Section 20(e) of the Exchange Act [15 U.S.C. § 78t(e)],
+
+Parekh aided and abetted, and unless enjoined, will continue to aid and abet, violations of
+
+Section 13(b)(2)(B) of the Exchange Act [15 U.S.C. § 78m(b)(2)(B).
+
+
+
+
+                                                  56
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 57 of 60 PageID #: 57
+
+
+
+
+                                       TWELFTH CLAIM
+
+                       Violation of Section 13(b)(5) of the Exchange Act
+                                            (Parekh)
+
+       168.    The Commission repeats and incorporates by reference the allegations in
+
+paragraphs 1 through 127 above as if set forth fully herein.
+
+       169.    Section 13(b)(5) of the Exchange Act prohibits any person from knowingly
+
+circumventing or knowingly failing to implement a system of internal accounting controls or
+
+from knowingly falsifying any book, record, or account.
+
+       170.    As set forth above, Parekh knowingly circumvented and/or knowingly failed to
+
+implement a system of internal accounting controls at Neptune, and therefore at Evoqua through
+
+Neptune, and directly or indirectly, knowingly falsified, or caused, through the conduct described
+
+above, to be falsified, Evoqua’s books, records, and/or accounts.
+
+       171.    As a result, Parekh violated and, unless enjoined, will continue to violate Section
+
+13(b)(5) of the Exchange Act [15 U.S.C. §§78m(b)(5)].
+
+
+                                    THIRTEENTH CLAIM
+
+                             Violation of Exchange Act Rule 13b2-1
+                                            (Parekh)
+
+       172.    The Commission repeats and incorporates by reference the allegations in
+
+paragraphs 1 through 127 above as if set forth fully herein.
+
+       173.    As set forth above, Parekh, directly or indirectly, falsified or caused to be falsified
+
+Evoqua’s books, records, and/or accounts subject to Section 13(b)(2)(A) of the Exchange Act.
+
+       174.    As a result, Parekh violated, and unless enjoined, will continue to violate Rule
+
+13b2-1 promulgated under the Exchange Act [17 C.F.R. § 240.13b2-1].
+
+
+
+
+                                                 57
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 58 of 60 PageID #: 58
+
+
+
+
+                                     PRAYER FOR RELIEF
+
+        WHEREFORE, the Commission requests that this Court:
+
+       A.       Enter permanent injunctions, including an injunction restraining Defendants and
+
+each of their agents, servants, employees and attorneys and those persons in active concert or
+
+participation with them who receive actual notice of the injunction by personal service or
+
+otherwise, including facsimile transmission or overnight delivery service, from directly or
+
+indirectly engaging in the conduct described above, or in conduct of similar purport and effect,
+
+as follows:
+
+            a. For Evoqua: conduct in violation of Section 17(a)(2) and (3) of the Securities Act
+
+               [15 U.S.C. § 77q(a)(2) and (3)], and Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B)
+
+               of the Exchange Act [15 U.S.C. §§ 78m(a), 78m(b)(2)(A), 78m(b)(2)(B)] and
+
+               Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder [17 C.F.R. §§ 240.10b-5(a)
+
+               and (c), 240.12b-20, 240.13a-1, 240.13a-11, 240.13a-13];
+
+            b. For Parekh: conduct in violation of Sections 17(a) of the Securities Act [15 U.S.C.
+
+               § 77q(a)], and Sections 10(b) and 13(b)(5) of the Exchange Act [15 U.S.C. §§
+
+               78j(b), 78m(b)(5)] and Rules 10b-5(a) and (c) and 13b2-1 promulgated under the
+
+               Exchange Act [17 C.F.R. §§ 240.10b-5(a) and (c), 240.13b2-1], and aiding and
+
+               abetting Evoqua’s violations of Section 17(a)(2) of the Securities Act [15 U.S.C. §
+
+               77q(a)(2)] and Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act
+
+               [15 U.S.C. §§ 78m(a), 78m(b)(2)(A), 78m(b)(2)(B)] and Rules 12b-20, 13a-1, 13a-
+
+               11, and 13a-13 thereunder [17 C.F.R. §§ 240.12b-20, 240.13a-1, 240.13a-11,
+
+               240.13a-13];
+
+       B.       Prohibit pursuant to Section 20(e) of the Securities Act [15 U.S.C. § 77t(e)] and
+
+Section 21(d)(2) of the Exchange Act [15 U.S.C. §78u(d)(2)] Defendant Parekh from acting as
+                                                 58
+    Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 59 of 60 PageID #: 59
+
+
+
+
+an officer or director of any issuer that has a class of securities registered under Section 12 of the
+
+Exchange Act [15 U.S.C. § 78l] or that is required to file reports under Section 15(d) of the
+
+Exchange Act [15 U.S.C. § 78o].
+
+       C.      Require Defendants to pay an appropriate civil monetary penalty pursuant to
+
+Section 20(d) of the Securities Act [15 U.S.C. § 77t(d)] and Section 21(d)(3) of the Exchange
+
+Act [15 U.S.C. § 78u(d)(3)].
+
+       D.      Require Parekh to pay disgorgement plus prejudgment interest on his ill-gotten
+
+gains pursuant to Sections 21(d)(5) and (7) of the Exchange Act [15 U.S.C. § 78u(d)(5) and (7)].
+
+       E.      Retain jurisdiction over this action to implement and carry out the terms of all
+
+orders and decrees that may be entered; and,
+
+       F.      Award other and further relief as the Court deems just and proper.
+
+
+
+                                               Respectfully submitted,
+
+                                               SECURITIES AND EXCHANGE COMMISSION
+                                               By its attorneys,
+
+                                               /s/ David H. London
+                                               David H. London (Mass. Bar No. 638289)
+                                                 Trial Counsel
+                                               Jonathan R. Allen (Mass. Bar No. 680729)
+                                                 Senior Enforcement Counsel
+                                               Peter Bryan Moores (Mass. Bar No. 658033)
+                                                 Senior Enforcement Counsel
+
+                                               Attorneys for Plaintiff
+                                               SECURITIES AND EXCHANGE COMMISSION
+                                               33 Arch Street, 24th Floor
+                                               Boston, MA 02110
+                                               (617) 573-8997 (London direct)
+                                               (617) 573-4590 (Fax)
+                                               LondonD@sec.gov (London email)
+
+
+
+
+                                                  59
+   Case 1:23-cv-00105 Document 1 Filed 03/13/23 Page 60 of 60 PageID #: 60
+
+
+
+
+                                   Local Counsel:
+
+                                   Bethany N. Wong
+                                   Assistant United States Attorney
+                                   Chief, Civil Division
+                                   One Financial Plaza, 17th Floor
+                                   Providence, Rhode Island 02903
+                                   (401) 709-5000
+                                   (401) 709-5001 (Fax)
+                                   Email: Bethany.Wong@usdoj.gov
+
+
+DATED: March 13, 2023
+
+
+
+
+                                     60
+
