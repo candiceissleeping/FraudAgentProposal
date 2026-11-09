@@ -1,0 +1,244 @@
+{
+ "seed": 20261111,
+ "order": [
+  "P07C",
+  "P14C",
+  "P12T",
+  "P04C",
+  "P05T",
+  "P12C",
+  "P01C",
+  "P10T",
+  "P13T",
+  "P09C",
+  "P11T",
+  "P07T",
+  "P09T",
+  "P03C",
+  "P04T",
+  "P08T",
+  "P01T",
+  "P02C",
+  "P13C",
+  "P02T",
+  "P10C",
+  "P11C",
+  "P06C",
+  "P14T",
+  "P03T",
+  "P06T",
+  "P05C",
+  "P08C"
+ ],
+ "listing": "1. fiscal year 2018; total assets: $100 million-$1 billion; public float: $75-700 million; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 20 years or more\n2. fiscal year 2017; total assets: $1 billion or more; public float: $700 million or more; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 10-20 years\n3. fiscal year 2018; total assets: $100 million-$1 billion; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years\n4. fiscal year 2020; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 10-20 years\n5. fiscal year 2019; total assets: $1 billion or more; public float: $700 million or more; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 20 years or more\n6. fiscal year 2018; total assets: $100 million-$1 billion; public float: under $75 million; exchange listing (Section 12(b)): NYSE American; filing with the SEC for: 10-20 years\n7. fiscal year 2021; total assets: $100 million-$1 billion; public float: $75-700 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years\n8. fiscal year 2020; total assets: $1 billion or more; public float: $75-700 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years\n9. fiscal year 2018; total assets: $1 billion or more; public float: $700 million or more; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 3-10 years\n10. fiscal year 2020; total assets: $100 million-$1 billion; public float: $700 million or more; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 10-20 years\n11. fiscal year 2017; total assets: under $100 million; public float: $75-700 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n12. fiscal year 2018; total assets: $100 million-$1 billion; public float: $75-700 million; exchange listing (Section 12(b)): NYSE American; filing with the SEC for: 20 years or more\n13. fiscal year 2019; total assets: $100 million-$1 billion; public float: $75-700 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n14. fiscal year 2022; total assets: $100 million-$1 billion; public float: $75-700 million; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 20 years or more\n15. fiscal year 2020; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 20 years or more\n16. fiscal year 2019; total assets: $1 billion or more; public float: $700 million or more; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 10-20 years\n17. fiscal year 2021; total assets: $100 million-$1 billion; public float: $700 million or more; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: under 3 years\n18. fiscal year 2022; total assets: $1 billion or more; public float: $700 million or more; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 20 years or more\n19. fiscal year 2018; total assets: $1 billion or more; public float: $700 million or more; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 3-10 years\n20. fiscal year 2022; total assets: $1 billion or more; public float: $700 million or more; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 20 years or more\n21. fiscal year 2020; total assets: $1 billion or more; public float: $75-700 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n22. fiscal year 2017; total assets: under $100 million; public float: $75-700 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n23. fiscal year 2018; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 20 years or more\n24. fiscal year 2017; total assets: $1 billion or more; public float: $700 million or more; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n25. fiscal year 2023; total assets: $100 million-$1 billion; public float: $75-700 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n26. fiscal year 2018; total assets: under $100 million; public float: under $75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n27. fiscal year 2019; total assets: $1 billion or more; public float: $700 million or more; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 20 years or more\n28. fiscal year 2019; total assets: $1 billion or more; public float: $75-700 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 10-20 years",
+ "attempts": 1,
+ "complete": true,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "reply": [
+  {
+   "id": 1,
+   "risk_score": 10,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Mid-size, long-tenured NYSE filer; moderate baseline risk"
+  },
+  {
+   "id": 2,
+   "risk_score": 7,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Large Nasdaq accelerated filer with established history; lower baseline"
+  },
+  {
+   "id": 3,
+   "risk_score": 15,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small float with relatively short filing history; elevated baseline"
+  },
+  {
+   "id": 4,
+   "risk_score": 18,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Micro-cap Nasdaq company, small assets and float; higher baseline"
+  },
+  {
+   "id": 5,
+   "risk_score": 5,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Large, long-established NYSE filer; low baseline"
+  },
+  {
+   "id": 6,
+   "risk_score": 18,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "NYSE American listing with small float; higher baseline"
+  },
+  {
+   "id": 7,
+   "risk_score": 13,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Mid-size, younger Nasdaq filer in 2021; moderate baseline"
+  },
+  {
+   "id": 8,
+   "risk_score": 11,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Large assets relative to float, young filer; moderate baseline"
+  },
+  {
+   "id": 9,
+   "risk_score": 7,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Large NYSE company, fairly recent registrant; low-moderate baseline"
+  },
+  {
+   "id": 10,
+   "risk_score": 8,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "High float relative to assets, established NYSE filer; low-moderate"
+  },
+  {
+   "id": 11,
+   "risk_score": 12,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small assets but meaningful float, long history; moderate"
+  },
+  {
+   "id": 12,
+   "risk_score": 12,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "NYSE American mid-size, long history; moderate"
+  },
+  {
+   "id": 13,
+   "risk_score": 10,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Mid-size, long-tenured Nasdaq filer; moderate baseline"
+  },
+  {
+   "id": 14,
+   "risk_score": 10,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Mid-size, long-tenured NYSE filer; moderate baseline"
+  },
+  {
+   "id": 15,
+   "risk_score": 22,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Unlisted micro-cap filer; weaker oversight, highest baseline group"
+  },
+  {
+   "id": 16,
+   "risk_score": 6,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Large NYSE accelerated filer; low baseline"
+  },
+  {
+   "id": 17,
+   "risk_score": 15,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Newly public (likely 2020-21 IPO/SPAC era) with high valuation; elevated"
+  },
+  {
+   "id": 18,
+   "risk_score": 5,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Large, long-established NYSE filer; low baseline"
+  },
+  {
+   "id": 19,
+   "risk_score": 7,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Large NYSE company, fairly recent registrant; low-moderate"
+  },
+  {
+   "id": 20,
+   "risk_score": 5,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Large, long-established NYSE filer; low baseline"
+  },
+  {
+   "id": 21,
+   "risk_score": 9,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Large assets with modest float (possibly bank), long history; moderate"
+  },
+  {
+   "id": 22,
+   "risk_score": 12,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small assets, meaningful float, long history; moderate"
+  },
+  {
+   "id": 23,
+   "risk_score": 22,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Unlisted micro-cap filer; highest baseline group"
+  },
+  {
+   "id": 24,
+   "risk_score": 5,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Large, long-established Nasdaq filer; low baseline"
+  },
+  {
+   "id": 25,
+   "risk_score": 10,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Mid-size, long-tenured Nasdaq filer; moderate baseline"
+  },
+  {
+   "id": 26,
+   "risk_score": 17,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Micro-cap Nasdaq company; higher baseline"
+  },
+  {
+   "id": 27,
+   "risk_score": 5,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Large, long-established NYSE filer; low baseline"
+  },
+  {
+   "id": 28,
+   "risk_score": 9,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Large assets, modest float Nasdaq filer; moderate"
+  }
+ ]
+}
