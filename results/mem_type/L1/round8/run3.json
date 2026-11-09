@@ -1,0 +1,244 @@
+{
+ "seed": 20261113,
+ "order": [
+  "P07T",
+  "P04C",
+  "P08T",
+  "P09T",
+  "P12T",
+  "P14T",
+  "P13C",
+  "P04T",
+  "P06C",
+  "P11T",
+  "P10C",
+  "P05T",
+  "P10T",
+  "P05C",
+  "P12C",
+  "P07C",
+  "P01T",
+  "P02T",
+  "P13T",
+  "P09C",
+  "P02C",
+  "P08C",
+  "P14C",
+  "P11C",
+  "P06T",
+  "P03C",
+  "P01C",
+  "P03T"
+ ],
+ "listing": "1. industry: SIC 3728 Aircraft Parts & Auxiliary Equipment, Nec; fiscal year ended 2018-12-31; total assets: $100 million-$1 billion; public float: $75-250 million; exchange listing (Section 12(b)): NYSE American; filing with the SEC for: 20 years or more\n2. industry: SIC 2834 Pharmaceutical Preparations; fiscal year ended 2020-12-31; total assets: $10-100 million; public float: $10-75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 10-20 years\n3. industry: SIC 4813 Telephone Communications (No Radiotelephone); fiscal year ended 2019-12-31; total assets: $1-10 billion; public float: $700 million-$5 billion; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 10-20 years\n4. industry: SIC 3620 Electrical Industrial Apparatus; fiscal year ended 2019-12-31; total assets: $100 million-$1 billion; public float: $250-700 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n5. industry: SIC 1382 Oil & Gas Field Exploration Services; fiscal year ended 2018-12-31; total assets: $100 million-$1 billion; public float: $10-75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years\n6. industry: SIC 3714 Motor Vehicle Parts & Accessories; fiscal year ended 2017-12-31; total assets: $1-10 billion; public float: $5 billion or more; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n7. industry: SIC 3580 Refrigeration & Service Industry Machinery; fiscal year ended 2018-12-31; total assets: $1-10 billion; public float: $700 million-$5 billion; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 3-10 years\n8. industry: SIC 2834 Pharmaceutical Preparations; fiscal year ended 2020-12-31; total assets: $10-100 million; public float: $10-75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 20 years or more\n9. industry: SIC 4841 Cable & Other Pay Television Services; fiscal year ended 2018-12-31; total assets: $10-100 million; public float: $10-75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 20 years or more\n10. industry: SIC 3578 Calculating & Accounting Machines (No Electronic Computers); fiscal year ended 2017-06-30; total assets: $10-100 million; public float: $75-250 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n11. industry: SIC 6035 Savings Institution, Federally Chartered; fiscal year ended 2020-06-30; total assets: $1-10 billion; public float: $75-250 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n12. industry: SIC 3841 Surgical & Medical Instruments & Apparatus; fiscal year ended 2019-09-30; total assets: $10 billion or more; public float: $5 billion or more; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 20 years or more\n13. industry: SIC 6035 Savings Institution, Federally Chartered; fiscal year ended 2020-09-30; total assets: $1-10 billion; public float: $75-250 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years\n14. industry: SIC 3841 Surgical & Medical Instruments & Apparatus; fiscal year ended 2019-12-31; total assets: $10 billion or more; public float: $5 billion or more; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 20 years or more\n15. industry: SIC 1382 Oil & Gas Field Exploration Services; fiscal year ended 2018-12-31; total assets: $100 million-$1 billion; public float: $10-75 million; exchange listing (Section 12(b)): NYSE American; filing with the SEC for: 10-20 years\n16. industry: SIC 3728 Aircraft Parts & Auxiliary Equipment, Nec; fiscal year ended 2018-12-31; total assets: $100 million-$1 billion; public float: $250-700 million; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 20 years or more\n17. industry: SIC 5072 Wholesale-Hardware; fiscal year ended 2021-12-31; total assets: $100 million-$1 billion; public float: $700 million-$5 billion; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: under 3 years\n18. industry: SIC 2070 Fats & Oils; fiscal year ended 2022-12-31; total assets: $10 billion or more; public float: $5 billion or more; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 20 years or more\n19. industry: SIC 3580 Refrigeration & Service Industry Machinery; fiscal year ended 2018-09-30; total assets: $1-10 billion; public float: $700 million-$5 billion; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 3-10 years\n20. industry: SIC 3620 Electrical Industrial Apparatus; fiscal year ended 2020-03-31; total assets: $100 million-$1 billion; public float: $700 million-$5 billion; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 10-20 years\n21. industry: SIC 2070 Fats & Oils; fiscal year ended 2022-12-31; total assets: $10 billion or more; public float: $5 billion or more; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 20 years or more\n22. industry: SIC 4813 Telephone Communications (No Radiotelephone); fiscal year ended 2019-12-31; total assets: $1-10 billion; public float: $250-700 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 10-20 years\n23. industry: SIC 3714 Motor Vehicle Parts & Accessories; fiscal year ended 2017-12-31; total assets: $1-10 billion; public float: $700 million-$5 billion; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 10-20 years\n24. industry: SIC 3577 Computer Peripheral Equipment, Nec; fiscal year ended 2017-09-30; total assets: $10-100 million; public float: $75-250 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n25. industry: SIC 4841 Cable & Other Pay Television Services; fiscal year ended 2018-12-31; total assets: $10-100 million; public float: $10-75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n26. industry: SIC 3480 Ordnance & Accessories, (No Vehicles/Guided Missiles); fiscal year ended 2022-12-31; total assets: $100 million-$1 billion; public float: $250-700 million; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 20 years or more\n27. industry: SIC 5080 Wholesale-Machinery, Equipment & Supplies; fiscal year ended 2021-12-31; total assets: $100 million-$1 billion; public float: $75-250 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years\n28. industry: SIC 3480 Ordnance & Accessories, (No Vehicles/Guided Missiles); fiscal year ended 2023-03-31; total assets: $100 million-$1 billion; public float: $250-700 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more",
+ "attempts": 1,
+ "complete": true,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "reply": [
+  {
+   "id": 1,
+   "risk_score": 70,
+   "company_guess": "CPI Aerostructures",
+   "knows_later_problems": true,
+   "basis": "Small NYSE American aerostructures firm; restated 2018 financials for revenue recognition errors"
+  },
+  {
+   "id": 2,
+   "risk_score": 18,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small Nasdaq pharma; elevated base rate but no specific signal"
+  },
+  {
+   "id": 3,
+   "risk_score": 65,
+   "company_guess": "GTT Communications",
+   "knows_later_problems": true,
+   "basis": "NYSE telecom with this profile; later accounting investigation and restatement covering 2019"
+  },
+  {
+   "id": 4,
+   "risk_score": 10,
+   "company_guess": "Powell Industries",
+   "knows_later_problems": false,
+   "basis": "Long-listed mid-size industrial; low base rate"
+  },
+  {
+   "id": 5,
+   "risk_score": 20,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small, younger oilfield services firm in a stressed sector"
+  },
+  {
+   "id": 6,
+   "risk_score": 6,
+   "company_guess": "Gentex",
+   "knows_later_problems": false,
+   "basis": "Large, mature auto parts maker with a conservative balance sheet"
+  },
+  {
+   "id": 7,
+   "risk_score": 60,
+   "company_guess": "Welbilt",
+   "knows_later_problems": true,
+   "basis": "2016 spin-off; restated 2016-2018 financials, material weaknesses"
+  },
+  {
+   "id": 8,
+   "risk_score": 25,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Unlisted microcap pharma; weaker controls are typical"
+  },
+  {
+   "id": 9,
+   "risk_score": 20,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Unlisted small cable/pay-TV company"
+  },
+  {
+   "id": 10,
+   "risk_score": 75,
+   "company_guess": "USA Technologies",
+   "knows_later_problems": true,
+   "basis": "June FYE Nasdaq SIC 3578; FY2017 later restated, SEC enforcement"
+  },
+  {
+   "id": 11,
+   "risk_score": 7,
+   "company_guess": "Provident Financial Holdings",
+   "knows_later_problems": false,
+   "basis": "Long-established regulated thrift"
+  },
+  {
+   "id": 12,
+   "risk_score": 25,
+   "company_guess": "Becton Dickinson",
+   "knows_later_problems": true,
+   "basis": "SEC settlement over Alaris pump disclosures in the 2019-2020 period"
+  },
+  {
+   "id": 13,
+   "risk_score": 8,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Regulated thrift holding company, recently converted"
+  },
+  {
+   "id": 14,
+   "risk_score": 12,
+   "company_guess": "Boston Scientific",
+   "knows_later_problems": false,
+   "basis": "Large-cap medtech; ambiguous (Baxter also fits)"
+  },
+  {
+   "id": 15,
+   "risk_score": 20,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small-float oilfield services firm on NYSE American"
+  },
+  {
+   "id": 16,
+   "risk_score": 10,
+   "company_guess": "Ducommun",
+   "knows_later_problems": false,
+   "basis": "Mature NYSE aerospace supplier"
+  },
+  {
+   "id": 17,
+   "risk_score": 22,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Newly public (possibly SPAC) distributor; new-issuer risk"
+  },
+  {
+   "id": 18,
+   "risk_score": 35,
+   "company_guess": "Archer-Daniels-Midland",
+   "knows_later_problems": true,
+   "basis": "Nutrition segment intersegment accounting issue, restated segment data, SEC probe"
+  },
+  {
+   "id": 19,
+   "risk_score": 15,
+   "company_guess": "Evoqua Water Technologies",
+   "knows_later_problems": false,
+   "basis": "Recent IPO with Sept FYE; shareholder suit but no restatement known"
+  },
+  {
+   "id": 20,
+   "risk_score": 10,
+   "company_guess": "Thermon Group",
+   "knows_later_problems": false,
+   "basis": "March FYE NYSE industrial, IPO about 2011"
+  },
+  {
+   "id": 21,
+   "risk_score": 10,
+   "company_guess": "Bunge",
+   "knows_later_problems": false,
+   "basis": "Large mature agribusiness (Darling also possible)"
+  },
+  {
+   "id": 22,
+   "risk_score": 12,
+   "company_guess": "Consolidated Communications",
+   "knows_later_problems": false,
+   "basis": "Leveraged rural telecom; no known restatement"
+  },
+  {
+   "id": 23,
+   "risk_score": 10,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Mid-cap auto supplier"
+  },
+  {
+   "id": 24,
+   "risk_score": 18,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small Nasdaq hardware firm"
+  },
+  {
+   "id": 25,
+   "risk_score": 20,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small Nasdaq pay-TV company"
+  },
+  {
+   "id": 26,
+   "risk_score": 8,
+   "company_guess": "National Presto Industries",
+   "knows_later_problems": false,
+   "basis": "Conservative, long-listed defense/ordnance firm"
+  },
+  {
+   "id": 27,
+   "risk_score": 18,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small Nasdaq equipment distributor"
+  },
+  {
+   "id": 28,
+   "risk_score": 70,
+   "company_guess": "AMMO Inc",
+   "knows_later_problems": true,
+   "basis": "March FYE Nasdaq ammo maker; later restatement, undisclosed related-party issues, SEC charges"
+  }
+ ]
+}

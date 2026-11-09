@@ -1,0 +1,452 @@
+{
+ "seed": 20261112,
+ "order": [
+  "O11C",
+  "O05C",
+  "O19C",
+  "O14C",
+  "O05T",
+  "O17T",
+  "O23C",
+  "O21T",
+  "O02C",
+  "O19T",
+  "O10C",
+  "O15T",
+  "O21C",
+  "O13T",
+  "O03C",
+  "O07C",
+  "O25C",
+  "O04C",
+  "O12T",
+  "O26T",
+  "O25T",
+  "O01C",
+  "O09T",
+  "O06C",
+  "O02T",
+  "O11T",
+  "O23T",
+  "O15C",
+  "O20T",
+  "O22C",
+  "O09C",
+  "O03T",
+  "O10T",
+  "O01T",
+  "O18T",
+  "O22T",
+  "O16T",
+  "O08C",
+  "O27C",
+  "O18C",
+  "O16C",
+  "O06T",
+  "O12C",
+  "O14T",
+  "O24T",
+  "O04T",
+  "O20C",
+  "O08T",
+  "O24C",
+  "O13C",
+  "O27T",
+  "O17C",
+  "O26C",
+  "O07T"
+ ],
+ "listing": "1. industry: SIC 5099 Wholesale-Durable Goods, Nec; fiscal year ended 2025-12-31; total assets: $10-100 million; public float: under $10 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years\n2. industry: SIC 1221 Bituminous Coal & Lignite Surface Mining; fiscal year ended 2025-12-31; total assets: $100 million-$1 billion; public float: $75-250 million; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 20 years or more\n3. industry: SIC 4841 Cable & Other Pay Television Services; fiscal year ended 2025-12-31; total assets: $10 billion or more; public float: $700 million-$5 billion; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 10-20 years\n4. industry: SIC 6199 Finance Services; fiscal year ended 2025-06-30; total assets: $10-100 million; public float: $10-75 million; exchange listing (Section 12(b)): NYSE American; filing with the SEC for: 20 years or more\n5. industry: SIC 1220 Bituminous Coal & Lignite Mining; fiscal year ended 2025-12-31; total assets: $100 million-$1 billion; public float: $10-75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 10-20 years\n6. industry: SIC 3721 Aircraft; fiscal year ended 2025-12-31; total assets: under $10 million; public float: under $10 million; exchange listing (Section 12(b)): none; filing with the SEC for: 20 years or more\n7. industry: SIC 3714 Motor Vehicle Parts & Accessories; fiscal year ended 2025-12-31; total assets: under $10 million; public float: under $10 million; exchange listing (Section 12(b)): none; filing with the SEC for: 10-20 years\n8. industry: SIC 7372 Services-Prepackaged Software; fiscal year ended 2025-12-31; total assets: $10-100 million; public float: under $10 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years\n9. industry: SIC 6022 State Commercial Banks; fiscal year ended 2025-12-31; total assets: $1-10 billion; public float: $75-250 million; exchange listing (Section 12(b)): none; filing with the SEC for: 10-20 years\n10. industry: SIC 4841 Cable & Other Pay Television Services; fiscal year ended 2025-12-31; total assets: $10 billion or more; public float: $250-700 million; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 3-10 years\n11. industry: SIC 3060 Fabricated Rubber Products, Nec; fiscal year ended 2025-12-31; total assets: $10-100 million; public float: $10-75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n12. industry: SIC 2844 Perfumes, Cosmetics & Other Toilet Preparations; fiscal year ended 2025-12-31; total assets: $10-100 million; public float: $10-75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n13. industry: SIC 7372 Services-Prepackaged Software; fiscal year ended 2025-12-31; total assets: $10-100 million; public float: $10-75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n14. industry: SIC 2834 Pharmaceutical Preparations; fiscal year ended 2025-12-31; total assets: $10-100 million; public float: under $10 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years\n15. industry: SIC 4899 Communications Services, Nec; fiscal year ended 2024-12-31; total assets: under $10 million; public float: $10-75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 10-20 years\n16. industry: SIC 3714 Motor Vehicle Parts & Accessories; fiscal year ended 2025-12-31; total assets: $10-100 million; public float: $10-75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n17. industry: SIC 7900 Services-Amusement & Recreation Services; fiscal year ended 2025-12-31; total assets: $10-100 million; public float: $10-75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 20 years or more\n18. industry: SIC 200 Agricultural Prod-Livestock & Animal Specialties; fiscal year ended 2024-12-28; total assets: $100 million-$1 billion; public float: under $10 million; exchange listing (Section 12(b)): none; filing with the SEC for: 20 years or more\n19. industry: SIC 2836 Biological Products, (No Diagnostic Substances); fiscal year ended 2025-12-31; total assets: $100 million-$1 billion; public float: under $10 million; exchange listing (Section 12(b)): NYSE American; filing with the SEC for: 3-10 years\n20. industry: SIC 7389 Services-Business Services, Nec; fiscal year ended 2025-12-31; total assets: $100 million-$1 billion; public float: $10-75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years\n21. industry: SIC 7900 Services-Amusement & Recreation Services; fiscal year ended 2025-12-31; total assets: $10-100 million; public float: under $10 million; exchange listing (Section 12(b)): NYSE American; filing with the SEC for: 3-10 years\n22. industry: SIC 2836 Biological Products, (No Diagnostic Substances); fiscal year ended 2024-12-31; total assets: $10-100 million; public float: under $10 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n23. industry: SIC 5030 Wholesale-Lumber & Other Construction Materials; fiscal year ended 2025-12-31; total assets: $10-100 million; public float: under $10 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n24. industry: SIC 1311 Crude Petroleum & Natural Gas; fiscal year ended 2025-10-31; total assets: $10-100 million; public float: under $10 million; exchange listing (Section 12(b)): NYSE American; filing with the SEC for: 3-10 years\n25. industry: SIC 6022 State Commercial Banks; fiscal year ended 2025-12-31; total assets: $1-10 billion; public float: $10-75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years\n26. industry: SIC 5030 Wholesale-Lumber & Other Construction Materials; fiscal year ended 2025-12-31; total assets: $10-100 million; public float: not reported; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n27. industry: SIC 3714 Motor Vehicle Parts & Accessories; fiscal year ended 2025-12-31; total assets: $10-100 million; public float: under $10 million; exchange listing (Section 12(b)): none; filing with the SEC for: 10-20 years\n28. industry: SIC 2844 Perfumes, Cosmetics & Other Toilet Preparations; fiscal year ended 2025-12-31; total assets: $10-100 million; public float: $10-75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years\n29. industry: SIC 4813 Telephone Communications (No Radiotelephone); fiscal year ended 2025-12-31; total assets: $100 million-$1 billion; public float: $10-75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 3-10 years\n30. industry: SIC 1311 Crude Petroleum & Natural Gas; fiscal year ended 2025-12-31; total assets: $10-100 million; public float: under $10 million; exchange listing (Section 12(b)): none; filing with the SEC for: 20 years or more\n31. industry: SIC 5051 Wholesale-Metals Service Centers & Offices; fiscal year ended 2025-12-31; total assets: $10-100 million; public float: $10-75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 10-20 years\n32. industry: SIC 4813 Telephone Communications (No Radiotelephone); fiscal year ended 2024-12-31; total assets: under $10 million; public float: under $10 million; exchange listing (Section 12(b)): none; filing with the SEC for: 10-20 years\n33. industry: SIC 3089 Plastics Products, Nec; fiscal year ended 2025-12-31; total assets: not reported; public float: not reported; exchange listing (Section 12(b)): NYSE American; filing with the SEC for: 3-10 years\n34. industry: SIC 2836 Biological Products, (No Diagnostic Substances); fiscal year ended 2024-12-31; total assets: $10-100 million; public float: $10-75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years\n35. industry: SIC 3690 Miscellaneous Electrical Machinery, Equipment & Supplies; fiscal year ended 2025-12-31; total assets: $10-100 million; public float: $10-75 million; exchange listing (Section 12(b)): NYSE American; filing with the SEC for: 3-10 years\n36. industry: SIC 1311 Crude Petroleum & Natural Gas; fiscal year ended 2025-12-31; total assets: $10-100 million; public float: $10-75 million; exchange listing (Section 12(b)): NYSE American; filing with the SEC for: 3-10 years\n37. industry: SIC 3949 Sporting & Athletic Goods, Nec; fiscal year ended 2025-12-31; total assets: under $10 million; public float: under $10 million; exchange listing (Section 12(b)): none; filing with the SEC for: 20 years or more\n38. industry: SIC 7373 Services-Computer Integrated Systems Design; fiscal year ended 2025-12-31; total assets: $10-100 million; public float: under $10 million; exchange listing (Section 12(b)): none; filing with the SEC for: 20 years or more\n39. industry: SIC 8742 Services-Management Consulting Services; fiscal year ended 2025-06-30; total assets: under $10 million; public float: under $10 million; exchange listing (Section 12(b)): none; filing with the SEC for: under 3 years\n40. industry: SIC 3690 Miscellaneous Electrical Machinery, Equipment & Supplies; fiscal year ended 2025-12-31; total assets: $10-100 million; public float: $10-75 million; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 3-10 years\n41. industry: SIC 3949 Sporting & Athletic Goods, Nec; fiscal year ended 2025-12-31; total assets: under $10 million; public float: under $10 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years\n42. industry: SIC 1311 Crude Petroleum & Natural Gas; fiscal year ended 2025-12-31; total assets: $10-100 million; public float: $10-75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: under 3 years\n43. industry: SIC 2836 Biological Products, (No Diagnostic Substances); fiscal year ended 2025-12-31; total assets: $100 million-$1 billion; public float: $10-75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 3-10 years\n44. industry: SIC 6199 Finance Services; fiscal year ended 2025-04-30; total assets: $10-100 million; public float: under $10 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 10-20 years\n45. industry: SIC 3861 Photographic Equipment & Supplies; fiscal year ended 2025-12-31; total assets: $100 million-$1 billion; public float: $75-250 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 10-20 years\n46. industry: SIC 200 Agricultural Prod-Livestock & Animal Specialties; fiscal year ended 2024-12-31; total assets: under $10 million; public float: under $10 million; exchange listing (Section 12(b)): none; filing with the SEC for: under 3 years\n47. industry: SIC 4813 Telephone Communications (No Radiotelephone); fiscal year ended 2025-12-31; total assets: $10-100 million; public float: under $10 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 20 years or more\n48. industry: SIC 7320 Services-Consumer Credit Reporting, Collection Agencies; fiscal year ended 2025-12-31; total assets: $10-100 million; public float: $10-75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 20 years or more\n49. industry: SIC 3861 Photographic Equipment & Supplies; fiscal year ended 2025-12-31; total assets: $100 million-$1 billion; public float: $700 million-$5 billion; exchange listing (Section 12(b)): NYSE; filing with the SEC for: 20 years or more\n50. industry: SIC 2834 Pharmaceutical Preparations; fiscal year ended 2025-12-31; total assets: $10-100 million; public float: $10-75 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 10-20 years\n51. industry: SIC 8742 Services-Management Consulting Services; fiscal year ended 2025-07-31; total assets: under $10 million; public float: $10-75 million; exchange listing (Section 12(b)): none; filing with the SEC for: 10-20 years\n52. industry: SIC 3721 Aircraft; fiscal year ended 2025-12-31; total assets: under $10 million; public float: under $10 million; exchange listing (Section 12(b)): none; filing with the SEC for: 10-20 years\n53. industry: SIC 7389 Services-Business Services, Nec; fiscal year ended 2025-12-31; total assets: $100 million-$1 billion; public float: $250-700 million; exchange listing (Section 12(b)): Nasdaq; filing with the SEC for: 10-20 years\n54. industry: SIC 3714 Motor Vehicle Parts & Accessories; fiscal year ended 2025-12-31; total assets: $10-100 million; public float: $75-250 million; exchange listing (Section 12(b)): none; filing with the SEC for: 3-10 years",
+ "attempts": 1,
+ "complete": true,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "reply": [
+  {
+   "id": 1,
+   "risk_score": 45,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Micro-cap Nasdaq wholesaler, tiny float, short filing history"
+  },
+  {
+   "id": 2,
+   "risk_score": 12,
+   "company_guess": "NACCO Industries",
+   "knows_later_problems": false,
+   "basis": "Long-established NYSE coal/mining company, moderate size"
+  },
+  {
+   "id": 3,
+   "risk_score": 10,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Large-cap cable operator with mature reporting"
+  },
+  {
+   "id": 4,
+   "risk_score": 30,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small finance company on NYSE American; long history offsets size"
+  },
+  {
+   "id": 5,
+   "risk_score": 35,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small-float Nasdaq coal miner; volatile sector with leverage"
+  },
+  {
+   "id": 6,
+   "risk_score": 55,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Unlisted shell-sized aircraft company with tiny assets"
+  },
+  {
+   "id": 7,
+   "risk_score": 55,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Unlisted micro-cap auto parts company"
+  },
+  {
+   "id": 8,
+   "risk_score": 40,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Micro-cap Nasdaq software; revenue recognition risk, tiny float"
+  },
+  {
+   "id": 9,
+   "risk_score": 12,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Regulated mid-size bank; bank oversight lowers risk"
+  },
+  {
+   "id": 10,
+   "risk_score": 15,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Large leveraged cable operator; depressed float but big-auditor coverage"
+  },
+  {
+   "id": 11,
+   "risk_score": 22,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small established manufacturer on Nasdaq"
+  },
+  {
+   "id": 12,
+   "risk_score": 25,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small established cosmetics company"
+  },
+  {
+   "id": 13,
+   "risk_score": 25,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small long-tenured software company"
+  },
+  {
+   "id": 14,
+   "risk_score": 40,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Micro-float Nasdaq pharma; going-concern style risks"
+  },
+  {
+   "id": 15,
+   "risk_score": 50,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Unlisted tiny communications company with relatively large float"
+  },
+  {
+   "id": 16,
+   "risk_score": 22,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small established auto parts manufacturer"
+  },
+  {
+   "id": 17,
+   "risk_score": 35,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Unlisted small recreation company"
+  },
+  {
+   "id": 18,
+   "risk_score": 30,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Sizable unlisted agricultural company with tiny float, likely closely held"
+  },
+  {
+   "id": 19,
+   "risk_score": 40,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Biotech with sizable assets but tiny float on NYSE American; mismatch is a flag"
+  },
+  {
+   "id": 20,
+   "risk_score": 30,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Young business services company, small float relative to assets"
+  },
+  {
+   "id": 21,
+   "risk_score": 45,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Micro-float NYSE American recreation company, short history"
+  },
+  {
+   "id": 22,
+   "risk_score": 35,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Long-listed but micro-float biotech"
+  },
+  {
+   "id": 23,
+   "risk_score": 35,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Micro-float construction materials wholesaler"
+  },
+  {
+   "id": 24,
+   "risk_score": 45,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Micro-float E&P on NYSE American; reserve estimation risk"
+  },
+  {
+   "id": 25,
+   "risk_score": 20,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Bank with small float relative to assets; regulated"
+  },
+  {
+   "id": 26,
+   "risk_score": 40,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Float not reported; disclosure gap at small company"
+  },
+  {
+   "id": 27,
+   "risk_score": 45,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Unlisted small auto parts company with tiny float"
+  },
+  {
+   "id": 28,
+   "risk_score": 35,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Young small cosmetics company"
+  },
+  {
+   "id": 29,
+   "risk_score": 30,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Unlisted telecom with meaningful assets"
+  },
+  {
+   "id": 30,
+   "risk_score": 45,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Unlisted micro-float E&P"
+  },
+  {
+   "id": 31,
+   "risk_score": 25,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small metals distributor, established"
+  },
+  {
+   "id": 32,
+   "risk_score": 55,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Unlisted tiny telecom"
+  },
+  {
+   "id": 33,
+   "risk_score": 45,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Key size data not reported; young small manufacturer"
+  },
+  {
+   "id": 34,
+   "risk_score": 30,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small biotech; typical cash-burn profile"
+  },
+  {
+   "id": 35,
+   "risk_score": 35,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Young small electrical equipment company"
+  },
+  {
+   "id": 36,
+   "risk_score": 35,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Young small E&P on NYSE American"
+  },
+  {
+   "id": 37,
+   "risk_score": 55,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Unlisted tiny sporting goods company"
+  },
+  {
+   "id": 38,
+   "risk_score": 40,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Unlisted small IT services with tiny float"
+  },
+  {
+   "id": 39,
+   "risk_score": 65,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "New unlisted tiny consulting firm; shell-like profile"
+  },
+  {
+   "id": 40,
+   "risk_score": 30,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small young electrical equipment company on NYSE"
+  },
+  {
+   "id": 41,
+   "risk_score": 50,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Nasdaq-listed with under $10M assets; delisting-risk profile"
+  },
+  {
+   "id": 42,
+   "risk_score": 45,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Newly public E&P; limited reporting history"
+  },
+  {
+   "id": 43,
+   "risk_score": 30,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Biotech with large assets vs small float"
+  },
+  {
+   "id": 44,
+   "risk_score": 45,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Micro-float Nasdaq finance company"
+  },
+  {
+   "id": 45,
+   "risk_score": 20,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Mid-size established imaging company"
+  },
+  {
+   "id": 46,
+   "risk_score": 65,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "New unlisted tiny agricultural company"
+  },
+  {
+   "id": 47,
+   "risk_score": 40,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Micro-float Nasdaq telecom"
+  },
+  {
+   "id": 48,
+   "risk_score": 30,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Unlisted collection/credit company with estimates risk"
+  },
+  {
+   "id": 49,
+   "risk_score": 12,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Large-float long-established NYSE company"
+  },
+  {
+   "id": 50,
+   "risk_score": 30,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Small pharma, established filer"
+  },
+  {
+   "id": 51,
+   "risk_score": 55,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Unlisted tiny consulting firm with outsized float"
+  },
+  {
+   "id": 52,
+   "risk_score": 55,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Unlisted tiny aircraft company"
+  },
+  {
+   "id": 53,
+   "risk_score": 18,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Mid-size established business services firm"
+  },
+  {
+   "id": 54,
+   "risk_score": 35,
+   "company_guess": "unknown",
+   "knows_later_problems": false,
+   "basis": "Unlisted company with sizable float; unusual profile"
+  }
+ ]
+}
