@@ -61,3 +61,6 @@ Opus 5.5 在 `results/mem_isolated` 的 5 次執行（實驗 A）。依 `results
 
 ## 5. 修訂紀錄
 - 2026-11-09：初版，於建立任何類型卡與執行任何本實驗 session 前提交
+- 2026-11-09（建卡後、任何 session 執行前）：「掛牌交易所」的解析範圍改為封面從「Section 12(b)」到下一個問題（well-known seasoned issuer）之前，
+  因為有些封面把交易所表格放在 12(g) 那一行之後（例：BONK 寫 12(b) None，表格列 Nasdaq）；新式 inline XBRL 10-K 先移除開頭隱藏的 `ix:header` 再解析。
+  欄位定義不變。OTC 報價不算交易所
