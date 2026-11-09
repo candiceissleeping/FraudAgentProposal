@@ -66,10 +66,11 @@
    "year": 2026,
    "doi": "10.1146/annurev-economics-120925-105620",
    "arxiv_id": null,
-   "notes": [
-    "doi lookup failed"
-   ],
-   "status": "LOOKUP_FAILED"
+   "doi_record_title": "Large Language Models: An Applied Econometric Framework",
+   "doi_similarity": 1.0,
+   "doi_year": 2026,
+   "status": "VERIFIED",
+   "via": "doi"
   },
   {
    "key": "gao2025detecting",

@@ -4,7 +4,7 @@
 
 | 主題 | 篇數 | VERIFIED（DOI） | VERIFIED（arXiv） | PLAUSIBLE（WebSearch） | 不符／失敗／待查 |
 |---|---|---|---|---|---|
-| T1 | 20 | 6 | 13 | 0 | 1：ludwig2026large |
+| T1 | 20 | 7 | 13 | 0 | 0 |
 | T2 | 20 | 10 | 9 | 1 | 0 |
 | T3 | 20 | 10 | 10 | 0 | 0 |
 | T4 | 20 | 10 | 10 | 0 | 0 |
@@ -19,7 +19,7 @@
 | T1 | lopezlira2025memorization | VERIFIED | arxiv | 1.0 | The Memorization Problem: Can We Trust LLMs' Economic Forecasts? |
 | T1 | levy2026caution | VERIFIED | doi | 1.0 | Caution Ahead: Numerical Reasoning and Look‐Ahead Bias in AI Models |
 | T1 | didisheim2025predictable | VERIFIED | doi | 1.0 | AI’s predictable memory in financial analysis |
-| T1 | ludwig2026large | LOOKUP_FAILED |  |  |  |
+| T1 | ludwig2026large | VERIFIED | doi | 1.0 | Large Language Models: An Applied Econometric Framework |
 | T1 | gao2025detecting | VERIFIED | arxiv | 1.0 | Detecting Lookahead Bias in LLM Forecasts |
 | T1 | roy2026memguard | VERIFIED | arxiv | 1.0 | MemGuard-Alpha: Limits of Membership Inference for Detecting and Filtering Memorization-Co |
 | T1 | eliseev2026fake | VERIFIED | arxiv | 1.0 | Fake Date Tests: Can We Trust In-sample Accuracy of LLMs in Macroeconomic Forecasting? |

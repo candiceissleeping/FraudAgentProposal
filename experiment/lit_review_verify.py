@@ -69,7 +69,7 @@ def check(s):
     for kind, ident, fn in (("doi", s.get("doi"), crossref), ("arxiv", s.get("arxiv_id"), arxiv)):
         if not ident:
             continue
-        rec = fn(ident)
+        rec = fn(ident) or (time.sleep(2) or fn(ident))   # one retry on a transient failure
         if rec is None:
             out.setdefault("notes", []).append(f"{kind} lookup failed")
             continue
