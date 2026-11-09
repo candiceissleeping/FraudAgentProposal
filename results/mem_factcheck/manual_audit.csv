@@ -1,0 +1,52 @@
+claim_id,issue,consequence,contradiction,record_exists,note
+K198,not_stated,correct,no,yes,"4.02 Nov 2024 covers Q2 2024"
+K221,not_stated,correct,no,no,"only 2011 restatement under former name; FY2025 no record"
+K098,not_stated,correct,no,no,"2024 4.02 is earlier periods; FY2025 no record"
+K250,not_stated,correct,no,no,"2024 restatement matches record but not FY2025"
+K062,not_stated,incorrect,yes,no,"no 4.02 or AAER in record"
+K240,not_stated,incorrect,yes,no,"no restatement or SEC action in record"
+K004,not_stated,incorrect,yes,no,"SEC-related concerns not in record"
+K009,match,correct,no,yes,
+K015,match,correct,no,yes,
+K028,match,correct,no,yes,
+K044,match,correct,no,yes,
+K054,match,correct,no,yes,
+K063,not_stated,correct,no,yes,"material weaknesses only"
+K175,match,correct,no,yes,
+K177,match,correct,no,yes,
+K023,not_stated,correct,no,yes,
+K089,not_stated,correct,no,yes,"internal investigation matches; no problem type"
+K129,match,correct,no,yes,"related-party; FY2024 extension tolerated"
+K241,match,correct,no,yes,
+K088,partial,not_stated,no,yes,"US Compounding unit"
+K183,partial,correct,no,yes,
+K253,partial,correct,no,yes,
+K150,match,correct,no,yes,
+K011,not_stated,incorrect,yes,yes,"SEC enforcement action not in record"
+K070,not_stated,incorrect,yes,yes,"SEC enforcement not in record"
+K073,not_stated,correct,no,yes,"restatement of 2018 interim matches"
+K224,not_stated,correct,no,yes,"quarterly restatements match"
+K114,partial,correct,no,yes,
+K128,match,correct,no,yes,
+K194,partial,correct,no,yes,"2019 overlaps the 2017-2019 period"
+K025,match,correct,no,yes,
+K152,match,correct,no,yes,
+K077,match,correct,no,yes,
+K153,not_stated,correct,no,yes,
+K026,partial,correct,no,yes,"warrant not in record but record says among other things"
+K036,match,correct,no,yes,
+K120,match,correct,no,yes,
+K030,not_stated,correct,no,yes,
+K184,match,correct,no,yes,
+K193,not_stated,correct,no,yes,
+K050,not_stated,incorrect,yes,no,"no restatement in record"
+K165,not_stated,incorrect,yes,no,"no restatement in record"
+K057,match,correct,no,yes,
+K171,not_stated,correct,no,yes,
+K205,match,correct,no,yes,
+K040,not_stated,correct,yes,no,"SEC inquiry not in record"
+K043,not_stated,correct,yes,no,"SEC resolution not in record"
+K014,not_stated,incorrect,yes,yes,"claims restatement-related issues for FY2018; no restatement in record"
+K018,match,correct,no,yes,"settlement year off by under a year"
+K029,not_stated,incorrect,yes,yes,"claims FY2018 restated; no restatement in record"
+K087,match,correct,no,yes,"settlement year off by under a year"
