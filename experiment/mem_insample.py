@@ -411,5 +411,89 @@ def main():
     a.fn(a)
 
 
+# ---------------------------------------------------------------- addendum: shorter lists (about 14 pairs, as in round 8)
+SMALL = ["A1", "A2", "B1", "B2"]
+
+
+def cmd_lists_small(args):
+    """Split each 27-pair list into two lists of 13-14 pairs; same names and pair assignment."""
+    base = open(f"{DATA}/prompt.md", encoding="utf-8").read()
+    os.makedirs(f"{DATA}/small", exist_ok=True)
+    for g in ("A", "B"):
+        key = [r for r in csv.DictReader(open(f"{OUT}/key_{g}.tsv", encoding="utf-8"), delimiter="\t")]
+        lines = {re.sub(r"\s+—\s+fiscal year.*$", "", re.sub(r"^\s*\d+\.\s*", "", l)).strip(): re.sub(r"^\s*\d+\.\s*", "", l)
+                 for l in open(f"{DATA}/input_{g}.txt", encoding="utf-8").read().splitlines() if l.strip()}
+        pairs = sorted({r["pid"][:-1] for r in key})
+        random.Random(SEED + 2).shuffle(pairs)
+        cut = (len(pairs) + 1) // 2
+        for h, qs in ((g + "1", sorted(pairs[:cut])), (g + "2", sorted(pairs[cut:]))):
+            rows = [r for r in key if r["pid"][:-1] in qs]
+            open(f"{DATA}/small/input_{h}.txt", "w").write(
+                "\n".join(f"{k}. {l}" for k, l in enumerate(sorted(lines[r["company"]] for r in rows), 1)) + "\n")
+            os.makedirs(f"{OUT}/small", exist_ok=True)
+            with open(f"{OUT}/small/key_{h}.tsv", "w") as fh:
+                fh.write("company\tpid\n" + "".join(f"{r['company']}\t{r['pid']}\n" for r in rows))
+            n = len(rows)
+            assert "Below are 54 company" in base
+            open(f"{DATA}/small/prompt_{h}.md", "w").write(base.replace("Below are 54 company", f"Below are {n} company"))
+            print(h, len(qs), "pairs", n, "names")
+
+
+def cmd_run_small(args):
+    for i, h in enumerate(SMALL):
+        subprocess.run([sys.executable, "-m", "experiment.mem_isolated", "run", "--out", f"{OUT}/small/{h}",
+                        "--input", f"{DATA}/small/input_{h}.txt", "--prompt", f"{DATA}/small/prompt_{h}.md",
+                        "--runs", "5", "--seed", str(20261200 + 10 * i)], check=True)
+
+
+def cmd_evaluate_small(args):
+    def collect(folders):
+        runs = {}
+        for folder, keyfile in folders:
+            r, _ = _load(folder, keyfile)
+            for n, d in r.items():
+                runs.setdefault(n, {}).update(d)
+        pids = sorted(next(iter(runs.values())))
+        mean = {p: sum(d[p][0] for d in runs.values()) / len(runs) for p in pids}
+        knows = {p: sum(d[p][1] for d in runs.values()) for p in pids}
+        return mean, knows
+    big = collect([(f"{OUT}/{g}", f"{OUT}/key_{g}.tsv") for g in ("A", "B")])
+    small = collect([(f"{OUT}/small/{h}", f"{OUT}/small/key_{h}.tsv") for h in SMALL])
+    qs = sorted({p[:-1] for p in big[0]})
+    rng = random.Random(11)
+    L = ["# 加做：較短名單（每份約 14 對，同第八輪）", "",
+         "同樣 54 對、同一份提示（只改公司數）、同一環境；每份名單 5 次，共 20 次，全部通過 7 項檢查。", "",
+         "| 名單長度 | AUC | 95% CI | 組內勝／平／負 | 平均配對分數差 | 問題公司 ≥3/5 說知道 | 至少 1 次說知道 | 對照 ≥3/5 說知道 |",
+         "|---|---|---|---|---|---|---|---|"]
+    for lab, (m, k) in (("54 家／份（原實驗）", big), ("26–28 家／份（本加做）", small)):
+        b = [_pair_auc(m, [rng.choice(qs) for _ in qs]) for _ in range(10000)]
+        w = sum(m[q + "T"] > m[q + "C"] for q in qs); t = sum(m[q + "T"] == m[q + "C"] for q in qs)
+        L.append(f"| {lab} | {_pair_auc(m, qs):.2f} | {_ci(b)[0]:.2f}–{_ci(b)[1]:.2f} | {w}／{t}／{len(qs) - w - t} | "
+                 f"{sum(m[q + 'T'] - m[q + 'C'] for q in qs) / len(qs):.1f} | {sum(k[q + 'T'] >= 3 for q in qs)} | "
+                 f"{sum(k[q + 'T'] >= 1 for q in qs)} | {sum(k[q + 'C'] >= 3 for q in qs)} |")
+    d = [_pair_auc(small[0], s) - _pair_auc(big[0], s) for s in ([rng.choice(qs) for _ in qs] for _ in range(10000))]
+    pids = sorted(big[0])
+    from experiment.mem_isolated import spearman
+    L += ["", f"- AUC 差（短名單 − 長名單，同一批配對重抽）：{_pair_auc(small[0], qs) - _pair_auc(big[0], qs):+.2f}，"
+              f"95% CI {_ci(d)[0]:+.2f} 至 {_ci(d)[1]:+.2f}",
+          f"- 兩種名單長度的平均分數 Spearman ρ：{spearman([big[0][p] for p in pids], [small[0][p] for p in pids]):.2f}",
+          f"- 「知道」判定（≥3/5）兩者一致的問題公司：{sum((big[1][q + 'T'] >= 3) == (small[1][q + 'T'] >= 3) for q in qs)}/{len(qs)}"]
+    for lab, sel in (("問題公司被記得（短名單 ≥3/5）", [q for q in qs if small[1][q + "T"] >= 3]),
+                     ("問題公司未被記得（短名單）", [q for q in qs if small[1][q + "T"] < 3])):
+        if sel:
+            L.append(f"- 短名單，{lab}：{len(sel)} 對，AUC {_pair_auc(small[0], sel):.2f}")
+    diff = [q for q in qs if (big[1][q + "T"] >= 3) != (small[1][q + "T"] >= 3)]
+    if diff:
+        L += ["", "判定不同的問題公司：", ""] + [f"- {q}T：長名單 {big[1][q + 'T']}/5、短名單 {small[1][q + 'T']}/5" for q in diff]
+    open(f"{OUT}/small/evaluation.md", "w", encoding="utf-8").write("\n".join(L) + "\n")
+    print("\n".join(L))
+
+
+_extra = {"lists-small": cmd_lists_small, "run-small": cmd_run_small, "evaluate-small": cmd_evaluate_small}
+if __name__ == "__main__" and len(sys.argv) > 1 and sys.argv[1] in _extra:
+    _extra[sys.argv[1]](None)
+    sys.exit(0)
+
+
 if __name__ == "__main__":
     main()
