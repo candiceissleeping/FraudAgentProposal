@@ -1,0 +1,396 @@
+{
+ "seed": 20261119,
+ "model": "claude-opus-5-5",
+ "attempts": 1,
+ "complete": true,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "scores": [
+  {
+   "id": 1,
+   "company": "Rithm Capital Corp.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Large mortgage REIT; complex fair value marks but no known restatement"
+  },
+  {
+   "id": 2,
+   "company": "Society Pass Incorporated.",
+   "risk_score": 35,
+   "knows_later_problems": false,
+   "basis": "Small-cap acquisitive company with material weaknesses; no specific restatement known"
+  },
+  {
+   "id": 3,
+   "company": "Aptargroup, Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Established industrial; no known issues"
+  },
+  {
+   "id": 4,
+   "company": "Capital City Bank Group Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Regional bank; no known issues"
+  },
+  {
+   "id": 5,
+   "company": "Limoneira Co.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Agribusiness; no known issues"
+  },
+  {
+   "id": 6,
+   "company": "Mid Penn Bancorp Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Regional bank; no known issues"
+  },
+  {
+   "id": 7,
+   "company": "Renovacor, Inc.",
+   "risk_score": 25,
+   "knows_later_problems": false,
+   "basis": "De-SPAC biotech; SPAC-related accounting complexity"
+  },
+  {
+   "id": 8,
+   "company": "Fuelcell Energy Inc.",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "Loss-making with complex project accounting; no specific restatement recalled"
+  },
+  {
+   "id": 9,
+   "company": "Toyota Motor Credit Corp.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Captive finance arm; regulatory consumer issues but no accounting restatement recalled"
+  },
+  {
+   "id": 10,
+   "company": "Cytosorbents Corp.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Small medtech; no known issues"
+  },
+  {
+   "id": 11,
+   "company": "BYTE Acquisition Corp.",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "SPAC; warrant/redeemable share classification risk typical of SPACs"
+  },
+  {
+   "id": 12,
+   "company": "SAB Biotherapeutics, Inc.",
+   "risk_score": 25,
+   "knows_later_problems": false,
+   "basis": "De-SPAC year; complex warrant accounting"
+  },
+  {
+   "id": 13,
+   "company": "Tofla Megaline Inc.",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "Tiny shell-like company; weak controls typical"
+  },
+  {
+   "id": 14,
+   "company": "Crown Castle Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Large REIT; earlier 2019-era restatement not this period"
+  },
+  {
+   "id": 15,
+   "company": "BIMI International Medical Inc.",
+   "risk_score": 55,
+   "knows_later_problems": false,
+   "basis": "China-based small cap, frequent auditor changes and reverse splits, governance concerns"
+  },
+  {
+   "id": 16,
+   "company": "Armstrong World Industries Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Established manufacturer; no known issues"
+  },
+  {
+   "id": 17,
+   "company": "iANTHUS CAPITAL HOLDINGS, Inc.",
+   "risk_score": 40,
+   "knows_later_problems": false,
+   "basis": "Distressed cannabis MSO with impairments and governance history"
+  },
+  {
+   "id": 18,
+   "company": "Weave Communications, Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "SaaS company; no known issues"
+  },
+  {
+   "id": 19,
+   "company": "Biodesix Inc.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Diagnostics; no known issues"
+  },
+  {
+   "id": 20,
+   "company": "BigBear.ai Holdings, Inc.",
+   "risk_score": 75,
+   "knows_later_problems": true,
+   "basis": "Restated 2021-2023 financials in 2025 over accounting for convertible notes"
+  },
+  {
+   "id": 21,
+   "company": "Assure Holdings Corp.",
+   "risk_score": 50,
+   "knows_later_problems": false,
+   "basis": "Large revenue/receivable write-downs, material weaknesses, distress"
+  },
+  {
+   "id": 22,
+   "company": "Evolv Technologies Holdings, Inc.",
+   "risk_score": 80,
+   "knows_later_problems": true,
+   "basis": "Restated 2022-2023 over sales practices/revenue recognition; SEC and FTC matters"
+  },
+  {
+   "id": 23,
+   "company": "Cellectar Biosciences, Inc.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Clinical biotech; no known issues"
+  },
+  {
+   "id": 24,
+   "company": "Discover Financial Services",
+   "risk_score": 45,
+   "knows_later_problems": true,
+   "basis": "Card misclassification overcharging since 2007; revised prior financials, regulatory actions"
+  },
+  {
+   "id": 25,
+   "company": "Avinger Inc.",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "Distressed small medtech; no known restatement"
+  },
+  {
+   "id": 26,
+   "company": "AZEK Co. Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Established building products; no known issues"
+  },
+  {
+   "id": 27,
+   "company": "Logiq, Inc.",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "Micro-cap with weak controls and complex spin-offs"
+  },
+  {
+   "id": 28,
+   "company": "AstroNova, Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Small industrial; no known issues for this period"
+  },
+  {
+   "id": 29,
+   "company": "Genius Brands International, Inc.",
+   "risk_score": 30,
+   "knows_later_problems": false,
+   "basis": "Promotional history, acquisitions, impairments"
+  },
+  {
+   "id": 30,
+   "company": "Optical Cable Corp.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Small manufacturer; no known issues"
+  },
+  {
+   "id": 31,
+   "company": "Dzs Inc.",
+   "risk_score": 85,
+   "knows_later_problems": true,
+   "basis": "Restated 2022 and Q1 2023 due to revenue recognition misconduct in Asia"
+  },
+  {
+   "id": 32,
+   "company": "Cottonwood Communities, Inc.",
+   "risk_score": 12,
+   "knows_later_problems": false,
+   "basis": "Non-traded REIT; no known issues"
+  },
+  {
+   "id": 33,
+   "company": "Cvr Energy Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Refiner; no known issues"
+  },
+  {
+   "id": 34,
+   "company": "Hyzon Motors Inc.",
+   "risk_score": 90,
+   "knows_later_problems": true,
+   "basis": "Restated 2021 revenue; SEC charges for misleading statements"
+  },
+  {
+   "id": 35,
+   "company": "Hoops Scouting Usa",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "Tiny shell-like company; weak controls typical"
+  },
+  {
+   "id": 36,
+   "company": "SmartStop Self Storage REIT, Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "REIT; no known issues"
+  },
+  {
+   "id": 37,
+   "company": "Cosmos Health Inc.",
+   "risk_score": 40,
+   "knows_later_problems": false,
+   "basis": "Small cap with receivables concerns and material weaknesses"
+  },
+  {
+   "id": 38,
+   "company": "Biocept Inc.",
+   "risk_score": 25,
+   "knows_later_problems": false,
+   "basis": "Distressed diagnostics, later bankruptcy"
+  },
+  {
+   "id": 39,
+   "company": "Phoenix Motor Inc.",
+   "risk_score": 40,
+   "knows_later_problems": false,
+   "basis": "Small EV company, material weaknesses, distress"
+  },
+  {
+   "id": 40,
+   "company": "Milestone Pharmaceuticals Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Clinical biotech; no known issues"
+  },
+  {
+   "id": 41,
+   "company": "Clearfield, Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Established; no known issues"
+  },
+  {
+   "id": 42,
+   "company": "Aqua Metals, Inc.",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "Pre-revenue; no known restatement"
+  },
+  {
+   "id": 43,
+   "company": "Data443 Risk Mitigation, Inc.",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "Micro-cap with weak controls and complex financing"
+  },
+  {
+   "id": 44,
+   "company": "GPB Automotive Portfolio, L.P.",
+   "risk_score": 45,
+   "knows_later_problems": true,
+   "basis": "GPB Capital fraud and SEC enforcement (earlier periods); post-receivership wind-down"
+  },
+  {
+   "id": 45,
+   "company": "Longeveron Inc.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Clinical biotech; no known issues"
+  },
+  {
+   "id": 46,
+   "company": "Cinedigm Corp.",
+   "risk_score": 25,
+   "knows_later_problems": false,
+   "basis": "Small media company, complex content accounting"
+  },
+  {
+   "id": 47,
+   "company": "Apple Hospitality REIT, Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Large REIT; no known issues"
+  },
+  {
+   "id": 48,
+   "company": "Calumet Specialty Products Partners, L.P.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Leveraged MLP; no specific restatement recalled"
+  },
+  {
+   "id": 49,
+   "company": "Nxu, Inc.",
+   "risk_score": 40,
+   "knows_later_problems": false,
+   "basis": "Distressed small EV company"
+  },
+  {
+   "id": 50,
+   "company": "Uniti Group Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "REIT; no known issues"
+  },
+  {
+   "id": 51,
+   "company": "Lazydays Holdings, Inc.",
+   "risk_score": 30,
+   "knows_later_problems": false,
+   "basis": "Financial distress, going concern, material weaknesses"
+  },
+  {
+   "id": 52,
+   "company": "Sensus Healthcare, Inc.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Small medtech; no known issues"
+  },
+  {
+   "id": 53,
+   "company": "Heat Biologics, Inc.",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "Clinical biotech; no known issues"
+  },
+  {
+   "id": 54,
+   "company": "Tupperware Brands Corp.",
+   "risk_score": 80,
+   "knows_later_problems": true,
+   "basis": "Restated 2021-2022 financials; material weaknesses, late filings"
+  }
+ ]
+}

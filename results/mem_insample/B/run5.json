@@ -1,0 +1,396 @@
+{
+ "seed": 20261132,
+ "model": "claude-opus-5-5",
+ "attempts": 1,
+ "complete": true,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "scores": [
+  {
+   "id": 1,
+   "company": "Luxurban Hotels Inc.",
+   "risk_score": 70,
+   "knows_later_problems": true,
+   "basis": "Microcap in severe distress around 2024; I recall auditor and going-concern problems and possible reporting issues, but I'm not sure of the details"
+  },
+  {
+   "id": 2,
+   "company": "Virtual Interactive Technologies Corp.",
+   "risk_score": 55,
+   "knows_later_problems": false,
+   "basis": "Tiny OTC shell-like company with weak controls; nothing specific known"
+  },
+  {
+   "id": 3,
+   "company": "Innovative Solutions & Support Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Stable small avionics firm; no known issues"
+  },
+  {
+   "id": 4,
+   "company": "Calavo Growers Inc.",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "Later Mexican tax matters and control weaknesses; nothing known that restates FY2021"
+  },
+  {
+   "id": 5,
+   "company": "OneSpan Inc.",
+   "risk_score": 12,
+   "knows_later_problems": false,
+   "basis": "Earlier material weaknesses (2020) were remediated; no known FY2022 issue"
+  },
+  {
+   "id": 6,
+   "company": "Atlantic Coastal Acquisition Corp. II",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "SPAC with simple financials"
+  },
+  {
+   "id": 7,
+   "company": "America First Multifamily Investors, L.p.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Established partnership; no known issues"
+  },
+  {
+   "id": 8,
+   "company": "First Northwest Bancorp",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Small regulated bank; no known issues"
+  },
+  {
+   "id": 9,
+   "company": "SITIME Corp.",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "Established semiconductor company; no known issues"
+  },
+  {
+   "id": 10,
+   "company": "Allogene Therapeutics, Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Clinical-stage biotech with simple accounting"
+  },
+  {
+   "id": 11,
+   "company": "Pennsylvania Real Estate Investment Trust",
+   "risk_score": 18,
+   "knows_later_problems": false,
+   "basis": "Financial distress and 2023 bankruptcy, but no known misstatement"
+  },
+  {
+   "id": 12,
+   "company": "Plum Acquisition Corp. I",
+   "risk_score": 12,
+   "knows_later_problems": false,
+   "basis": "SPAC"
+  },
+  {
+   "id": 13,
+   "company": "Nicolet Bankshares Inc.",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "Well-run regional bank"
+  },
+  {
+   "id": 14,
+   "company": "OneMeta Inc.",
+   "risk_score": 55,
+   "knows_later_problems": false,
+   "basis": "Microcap AI firm with weak controls"
+  },
+  {
+   "id": 15,
+   "company": "Greenway Technologies Inc.",
+   "risk_score": 60,
+   "knows_later_problems": false,
+   "basis": "Distressed OTC company with governance disputes and delinquent filings"
+  },
+  {
+   "id": 16,
+   "company": "Maui Land & Pineapple Co. Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Simple land company"
+  },
+  {
+   "id": 17,
+   "company": "Cars.com Inc.",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 18,
+   "company": "BTCS Inc.",
+   "risk_score": 30,
+   "knows_later_problems": false,
+   "basis": "Small crypto company; risks around digital asset accounting"
+  },
+  {
+   "id": 19,
+   "company": "Global Technology Acquisition Corp. I",
+   "risk_score": 12,
+   "knows_later_problems": false,
+   "basis": "SPAC"
+  },
+  {
+   "id": 20,
+   "company": "COMSovereign Holding Corp.",
+   "risk_score": 70,
+   "knows_later_problems": true,
+   "basis": "Acquisitive microcap with material weaknesses, impairments and later delinquent filings"
+  },
+  {
+   "id": 21,
+   "company": "Us Energy Corp.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Small oil and gas company; no known issues"
+  },
+  {
+   "id": 22,
+   "company": "Marathon Digital Holdings, Inc.",
+   "risk_score": 75,
+   "knows_later_problems": true,
+   "basis": "Restated 2021 financials in 2023 (digital asset impairment and other errors); SEC subpoena"
+  },
+  {
+   "id": 23,
+   "company": "Comstock Holding Companies, Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 24,
+   "company": "Laser Photonics Corp.",
+   "risk_score": 65,
+   "knows_later_problems": true,
+   "basis": "Auditor was BF Borgers, which the SEC barred in 2024, forcing a re-audit; small company with weak controls"
+  },
+  {
+   "id": 25,
+   "company": "Edgemode, Inc.",
+   "risk_score": 60,
+   "knows_later_problems": false,
+   "basis": "Microcap crypto miner with weak controls; I'm unsure whether its auditor was BF Borgers"
+  },
+  {
+   "id": 26,
+   "company": "1606 Corp.",
+   "risk_score": 60,
+   "knows_later_problems": false,
+   "basis": "Tiny shell-like company"
+  },
+  {
+   "id": 27,
+   "company": "ESSA Bancorp, Inc.",
+   "risk_score": 7,
+   "knows_later_problems": false,
+   "basis": "Regulated bank"
+  },
+  {
+   "id": 28,
+   "company": "RespireRx Pharmaceuticals Inc.",
+   "risk_score": 40,
+   "knows_later_problems": false,
+   "basis": "Going-concern microcap with weak controls"
+  },
+  {
+   "id": 29,
+   "company": "Bright Mountain Media, Inc.",
+   "risk_score": 55,
+   "knows_later_problems": true,
+   "basis": "History of restatements and material weaknesses around 2020–2021"
+  },
+  {
+   "id": 30,
+   "company": "Kandi Technologies Group, Inc.",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "Earlier SEC and restatement history (2017–2019); China-based"
+  },
+  {
+   "id": 31,
+   "company": "InFinT Acquisition Corp.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "SPAC"
+  },
+  {
+   "id": 32,
+   "company": "Lincoln National Corp.",
+   "risk_score": 25,
+   "knows_later_problems": false,
+   "basis": "Complex insurer with large 2022 assumption charges; I may recall some correction of errors but I'm not sure"
+  },
+  {
+   "id": 33,
+   "company": "Inspired Entertainment, Inc.",
+   "risk_score": 75,
+   "knows_later_problems": true,
+   "basis": "Restated prior periods including 2022; delayed 2023 10-K; material weaknesses"
+  },
+  {
+   "id": 34,
+   "company": "McEwen Mining Inc.",
+   "risk_score": 12,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 35,
+   "company": "VNUE, Inc.",
+   "risk_score": 60,
+   "knows_later_problems": false,
+   "basis": "OTC microcap with weak controls"
+  },
+  {
+   "id": 36,
+   "company": "Bancorp, Inc.",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "Fintech-partner bank with some loan scrutiny; no known restatement"
+  },
+  {
+   "id": 37,
+   "company": "BioCardia, Inc.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Small biotech with simple accounting"
+  },
+  {
+   "id": 38,
+   "company": "Coeptis Therapeutics Holdings, Inc.",
+   "risk_score": 40,
+   "knows_later_problems": false,
+   "basis": "Post-SPAC microcap with weak controls"
+  },
+  {
+   "id": 39,
+   "company": "Welsis Corp.",
+   "risk_score": 60,
+   "knows_later_problems": false,
+   "basis": "Tiny shell company"
+  },
+  {
+   "id": 40,
+   "company": "Avid Technology, Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Old issues predate this period; taken private in 2023"
+  },
+  {
+   "id": 41,
+   "company": "Gatos Silver, Inc.",
+   "risk_score": 70,
+   "knows_later_problems": true,
+   "basis": "Mineral reserve errors at Cerro Los Gatos led to delayed and amended filings, impairment and securities litigation"
+  },
+  {
+   "id": 42,
+   "company": "Skillz Inc.",
+   "risk_score": 35,
+   "knows_later_problems": false,
+   "basis": "Securities suits and material weakness concerns; no known restatement"
+  },
+  {
+   "id": 43,
+   "company": "Medies",
+   "risk_score": 60,
+   "knows_later_problems": false,
+   "basis": "Tiny shell company"
+  },
+  {
+   "id": 44,
+   "company": "KwikClick, Inc.",
+   "risk_score": 50,
+   "knows_later_problems": false,
+   "basis": "Microcap with weak controls"
+  },
+  {
+   "id": 45,
+   "company": "Agrify Corp.",
+   "risk_score": 55,
+   "knows_later_problems": true,
+   "basis": "Customer receivable problems, material weaknesses, securities litigation over 2021 disclosures"
+  },
+  {
+   "id": 46,
+   "company": "Ambarella Inc.",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 47,
+   "company": "Jackson Financial Inc.",
+   "risk_score": 30,
+   "knows_later_problems": false,
+   "basis": "Complex hedging accounting; earlier restatements were of pre-2022 periods"
+  },
+  {
+   "id": 48,
+   "company": "Quantum Energy Inc.",
+   "risk_score": 60,
+   "knows_later_problems": false,
+   "basis": "Shell-like OTC company"
+  },
+  {
+   "id": 49,
+   "company": "Expion360 Inc.",
+   "risk_score": 30,
+   "knows_later_problems": false,
+   "basis": "Small-cap with control weaknesses"
+  },
+  {
+   "id": 50,
+   "company": "Broad Street Realty, Inc.",
+   "risk_score": 40,
+   "knows_later_problems": false,
+   "basis": "Highly leveraged small REIT with delinquent-filing risk"
+  },
+  {
+   "id": 51,
+   "company": "Alexander & Baldwin, Inc.",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 52,
+   "company": "Sana Biotechnology, Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Clinical-stage biotech"
+  },
+  {
+   "id": 53,
+   "company": "Vislink Technologies, Inc.",
+   "risk_score": 35,
+   "knows_later_problems": false,
+   "basis": "Small-cap with material weaknesses; no known restatement of 2021 that I recall"
+  },
+  {
+   "id": 54,
+   "company": "Faraday Future Intelligent Electric Inc.",
+   "risk_score": 75,
+   "knows_later_problems": true,
+   "basis": "Internal investigation found inaccurate disclosures; SEC investigation and Wells notices; material weaknesses"
+  }
+ ]
+}
