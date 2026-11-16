@@ -1,0 +1,214 @@
+{
+ "seed": 20261225,
+ "model": "claude-opus-5-5",
+ "attempts": 1,
+ "complete": true,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "scores": [
+  {
+   "id": 1,
+   "company": "BTCS Inc.",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "Small crypto company with complex digital-asset accounting; no restatement known for FY2022"
+  },
+  {
+   "id": 2,
+   "company": "Lincoln National Corp.",
+   "risk_score": 25,
+   "knows_later_problems": false,
+   "basis": "Large insurer with a big 2022 reserve/assumption charge and LDTI transition complexity; no confirmed restatement of FY2022 recalled"
+  },
+  {
+   "id": 3,
+   "company": "Jackson Financial Inc.",
+   "risk_score": 30,
+   "knows_later_problems": false,
+   "basis": "Restated earlier periods (around 2021) for reinsurance/derivative accounting errors; complex hedging; no specific FY2022 restatement recalled"
+  },
+  {
+   "id": 4,
+   "company": "Maui Land & Pineapple Co. Inc.",
+   "risk_score": 12,
+   "knows_later_problems": false,
+   "basis": "Small, simple land company; no known issues"
+  },
+  {
+   "id": 5,
+   "company": "Inspired Entertainment, Inc.",
+   "risk_score": 80,
+   "knows_later_problems": true,
+   "basis": "Delayed 2023 10-K and restated prior periods, including FY2022, for accounting errors; material weaknesses"
+  },
+  {
+   "id": 6,
+   "company": "Innovative Solutions & Support Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Stable small avionics firm; no known issues"
+  },
+  {
+   "id": 7,
+   "company": "Luxurban Hotels Inc.",
+   "risk_score": 65,
+   "knows_later_problems": true,
+   "basis": "Material weaknesses, auditor turnover, financial distress, and reported accounting/revision issues around 2023"
+  },
+  {
+   "id": 8,
+   "company": "Kandi Technologies Group, Inc.",
+   "risk_score": 40,
+   "knows_later_problems": false,
+   "basis": "China-based EV maker with prior SEC action and restatement (2014–2016 related parties); no known FY2022 issue"
+  },
+  {
+   "id": 9,
+   "company": "ESSA Bancorp, Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Small community bank; no known issues"
+  },
+  {
+   "id": 10,
+   "company": "Medies",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "Tiny shell-like startup issuer; weak controls typical; no specific knowledge"
+  },
+  {
+   "id": 11,
+   "company": "Avid Technology, Inc.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Old restatement/SEC history (2013–2014); taken private 2023; no FY2022 issue known"
+  },
+  {
+   "id": 12,
+   "company": "America First Multifamily Investors, L.p.",
+   "risk_score": 12,
+   "knows_later_problems": false,
+   "basis": "Mortgage revenue bond partnership; no known issues"
+  },
+  {
+   "id": 13,
+   "company": "Bright Mountain Media, Inc.",
+   "risk_score": 55,
+   "knows_later_problems": false,
+   "basis": "Microcap ad-tech with acquisitions, going-concern doubts, and material weaknesses; possible restatements but uncertain"
+  },
+  {
+   "id": 14,
+   "company": "Welsis Corp.",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "Tiny shell-like startup issuer; no specific knowledge"
+  },
+  {
+   "id": 15,
+   "company": "Broad Street Realty, Inc.",
+   "risk_score": 40,
+   "knows_later_problems": false,
+   "basis": "Small leveraged REIT with going-concern and material weakness disclosures"
+  },
+  {
+   "id": 16,
+   "company": "First Northwest Bancorp",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Community bank; no specific issue known"
+  },
+  {
+   "id": 17,
+   "company": "Allogene Therapeutics, Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Clinical-stage biotech with simple accounting"
+  },
+  {
+   "id": 18,
+   "company": "Plum Acquisition Corp. I",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "SPAC; typical warrant/redemption accounting risks only"
+  },
+  {
+   "id": 19,
+   "company": "Edgemode, Inc.",
+   "risk_score": 55,
+   "knows_later_problems": false,
+   "basis": "Microcap crypto miner via reverse merger; weak controls likely"
+  },
+  {
+   "id": 20,
+   "company": "Sana Biotechnology, Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Clinical-stage biotech; no known issues"
+  },
+  {
+   "id": 21,
+   "company": "Marathon Digital Holdings, Inc.",
+   "risk_score": 80,
+   "knows_later_problems": true,
+   "basis": "Restated FY2021 (and 2022 quarters) for digital-asset impairment and other errors; SEC investigation related to Hardin, MT facility"
+  },
+  {
+   "id": 22,
+   "company": "VNUE, Inc.",
+   "risk_score": 50,
+   "knows_later_problems": false,
+   "basis": "Microcap with going concern, convertible debt, and weak controls"
+  },
+  {
+   "id": 23,
+   "company": "Comstock Holding Companies, Inc.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Small asset manager; no known issues"
+  },
+  {
+   "id": 24,
+   "company": "BioCardia, Inc.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Small biotech; no known issues"
+  },
+  {
+   "id": 25,
+   "company": "Coeptis Therapeutics Holdings, Inc.",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "Microcap de-SPAC biotech with complex instruments and weak controls"
+  },
+  {
+   "id": 26,
+   "company": "Atlantic Coastal Acquisition Corp. II",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "SPAC; typical complexities only"
+  },
+  {
+   "id": 27,
+   "company": "OneSpan Inc.",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "Prior material weakness and restatement (~2020); no known FY2022 issue"
+  },
+  {
+   "id": 28,
+   "company": "Faraday Future Intelligent Electric Inc.",
+   "risk_score": 75,
+   "knows_later_problems": true,
+   "basis": "Internal investigation found inaccurate disclosures; material weaknesses; SEC investigation and Wells notices; going concern"
+  }
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "seed": 20261221,
+ "model": "claude-opus-5-5",
+ "attempts": 1,
+ "complete": true,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "scores": [
+  {
+   "id": 1,
+   "company": "BioCardia, Inc.",
+   "risk_score": 12,
+   "knows_later_problems": false,
+   "basis": "Small clinical-stage biotech with simple cash-burn accounts; going-concern risk but no known restatement"
+  },
+  {
+   "id": 2,
+   "company": "Edgemode, Inc.",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "Micro-cap crypto-mining reverse merger with weak controls; no specific restatement known"
+  },
+  {
+   "id": 3,
+   "company": "Luxurban Hotels Inc.",
+   "risk_score": 60,
+   "knows_later_problems": true,
+   "basis": "Aggressive growth, related-party dealings, revenue/chargeback issues and auditor turmoil; later restatement and filing problems recalled with moderate confidence"
+  },
+  {
+   "id": 4,
+   "company": "Allogene Therapeutics, Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Well-funded clinical-stage biotech with straightforward accounting"
+  },
+  {
+   "id": 5,
+   "company": "First Northwest Bancorp",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Small bank; later credit losses, but no known accounting misstatement"
+  },
+  {
+   "id": 6,
+   "company": "Lincoln National Corp.",
+   "risk_score": 35,
+   "knows_later_problems": true,
+   "basis": "Recalled 2022 reserve-model errors with material weakness and revisions of prior periods; complex insurer accounting"
+  },
+  {
+   "id": 7,
+   "company": "Jackson Financial Inc.",
+   "risk_score": 25,
+   "knows_later_problems": false,
+   "basis": "Prior material weakness and restatement on hedge accounting (2021); complex LDTI/variable annuity accounting"
+  },
+  {
+   "id": 8,
+   "company": "Plum Acquisition Corp. I",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "SPAC; generic warrant/redeemable-share classification and control weaknesses"
+  },
+  {
+   "id": 9,
+   "company": "Medies",
+   "risk_score": 50,
+   "knows_later_problems": false,
+   "basis": "Tiny shell-like startup with minimal controls and high risk; nothing specific known"
+  },
+  {
+   "id": 10,
+   "company": "Comstock Holding Companies, Inc.",
+   "risk_score": 12,
+   "knows_later_problems": false,
+   "basis": "Small asset manager/developer; no known accounting issues"
+  },
+  {
+   "id": 11,
+   "company": "Avid Technology, Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Old SEC matters predate 2022; taken private in 2023 with no known issues for 2022"
+  },
+  {
+   "id": 12,
+   "company": "Faraday Future Intelligent Electric Inc.",
+   "risk_score": 75,
+   "knows_later_problems": true,
+   "basis": "Governance failures, undisclosed related-party issues, material weaknesses, SEC investigation and Wells notices"
+  },
+  {
+   "id": 13,
+   "company": "Inspired Entertainment, Inc.",
+   "risk_score": 75,
+   "knows_later_problems": true,
+   "basis": "Delayed 2023 10-K and restated 2021-2022 financials after accounting review and material weaknesses"
+  },
+  {
+   "id": 14,
+   "company": "OneSpan Inc.",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "Earlier revenue-recognition control weaknesses; no known 2022 restatement"
+  },
+  {
+   "id": 15,
+   "company": "ESSA Bancorp, Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Conservative community bank"
+  },
+  {
+   "id": 16,
+   "company": "Coeptis Therapeutics Holdings, Inc.",
+   "risk_score": 40,
+   "knows_later_problems": false,
+   "basis": "Micro-cap de-SPAC biotech with material weaknesses and complex instruments"
+  },
+  {
+   "id": 17,
+   "company": "Bright Mountain Media, Inc.",
+   "risk_score": 50,
+   "knows_later_problems": false,
+   "basis": "History of material weaknesses, acquisition accounting complexity, and prior restatement concerns"
+  },
+  {
+   "id": 18,
+   "company": "Welsis Corp.",
+   "risk_score": 50,
+   "knows_later_problems": false,
+   "basis": "Tiny shell startup with minimal controls"
+  },
+  {
+   "id": 19,
+   "company": "BTCS Inc.",
+   "risk_score": 25,
+   "knows_later_problems": false,
+   "basis": "Small crypto company; digital-asset accounting judgments"
+  },
+  {
+   "id": 20,
+   "company": "Marathon Digital Holdings, Inc.",
+   "risk_score": 80,
+   "knows_later_problems": true,
+   "basis": "Restated FY2021 and 2022 interim financials (digital asset impairment, other errors); SEC investigation"
+  },
+  {
+   "id": 21,
+   "company": "Broad Street Realty, Inc.",
+   "risk_score": 40,
+   "knows_later_problems": false,
+   "basis": "Highly leveraged small REIT with late filings and control weaknesses"
+  },
+  {
+   "id": 22,
+   "company": "Sana Biotechnology, Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Clinical-stage biotech with straightforward accounting"
+  },
+  {
+   "id": 23,
+   "company": "Kandi Technologies Group, Inc.",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "Prior restatements and SEC settlement (2019); China-based with related-party complexity"
+  },
+  {
+   "id": 24,
+   "company": "Innovative Solutions & Support Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Stable small avionics firm with simple accounting"
+  },
+  {
+   "id": 25,
+   "company": "VNUE, Inc.",
+   "risk_score": 50,
+   "knows_later_problems": false,
+   "basis": "Penny stock with going-concern doubt, derivative liabilities, and weak controls"
+  },
+  {
+   "id": 26,
+   "company": "Atlantic Coastal Acquisition Corp. II",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "SPAC with generic trust and redemption accounting risks"
+  },
+  {
+   "id": 27,
+   "company": "Maui Land & Pineapple Co. Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Simple land company; no known issues"
+  },
+  {
+   "id": 28,
+   "company": "America First Multifamily Investors, L.p.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Bond/real-estate partnership with fair-value judgments; no known restatement"
+  }
+ ]
+}

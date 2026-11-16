@@ -1,0 +1,200 @@
+{
+ "seed": 20261212,
+ "model": "claude-opus-5-5",
+ "attempts": 1,
+ "complete": true,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "scores": [
+  {
+   "id": 1,
+   "company": "Mid Penn Bancorp Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Regional bank; I know of no restatement or enforcement for FY2022"
+  },
+  {
+   "id": 2,
+   "company": "Limoneira Co.",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "Established agribusiness; no known accounting issues for FY2022"
+  },
+  {
+   "id": 3,
+   "company": "Evolv Technologies Holdings, Inc.",
+   "risk_score": 85,
+   "knows_later_problems": true,
+   "basis": "Restated 2022–2023 results over undisclosed sales side terms; SEC inquiry and FTC action"
+  },
+  {
+   "id": 4,
+   "company": "Hoops Scouting Usa",
+   "risk_score": 30,
+   "knows_later_problems": false,
+   "basis": "Tiny shell-type issuer with weak controls; no specific issues known"
+  },
+  {
+   "id": 5,
+   "company": "Uniti Group Inc.",
+   "risk_score": 7,
+   "knows_later_problems": false,
+   "basis": "Large REIT; no known misstatement for FY2023"
+  },
+  {
+   "id": 6,
+   "company": "Heat Biologics, Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Small biotech; no known restatement for FY2021"
+  },
+  {
+   "id": 7,
+   "company": "iANTHUS CAPITAL HOLDINGS, Inc.",
+   "risk_score": 30,
+   "knows_later_problems": false,
+   "basis": "Distressed cannabis MSO with impairments and governance issues; no specific FY2022 restatement known"
+  },
+  {
+   "id": 8,
+   "company": "AstroNova, Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Small industrial company; no known restatement"
+  },
+  {
+   "id": 9,
+   "company": "Milestone Pharmaceuticals Inc.",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "Clinical-stage biotech with simple financials"
+  },
+  {
+   "id": 10,
+   "company": "Cinedigm Corp.",
+   "risk_score": 22,
+   "knows_later_problems": false,
+   "basis": "Has a history of control weaknesses; no specific FY2023 restatement known"
+  },
+  {
+   "id": 11,
+   "company": "Genius Brands International, Inc.",
+   "risk_score": 22,
+   "knows_later_problems": false,
+   "basis": "Earlier securities litigation over promotion; no known FY2022 restatement"
+  },
+  {
+   "id": 12,
+   "company": "Tofla Megaline Inc.",
+   "risk_score": 30,
+   "knows_later_problems": false,
+   "basis": "Micro shell issuer with weak controls; no specific issues known"
+  },
+  {
+   "id": 13,
+   "company": "Clearfield, Inc.",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues"
+  },
+  {
+   "id": 14,
+   "company": "Fuelcell Energy Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Losses but no known FY2021 restatement"
+  },
+  {
+   "id": 15,
+   "company": "SAB Biotherapeutics, Inc.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "De-SPAC with typical SPAC-era complexity; no known restatement"
+  },
+  {
+   "id": 16,
+   "company": "Capital City Bank Group Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Regional bank; no known issues"
+  },
+  {
+   "id": 17,
+   "company": "BYTE Acquisition Corp.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "SPAC with typical warrant and redemption accounting risk; no specific issues known"
+  },
+  {
+   "id": 18,
+   "company": "Apple Hospitality REIT, Inc.",
+   "risk_score": 4,
+   "knows_later_problems": false,
+   "basis": "Stable REIT; no known issues"
+  },
+  {
+   "id": 19,
+   "company": "Longeveron Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Small biotech; no known restatement"
+  },
+  {
+   "id": 20,
+   "company": "Hyzon Motors Inc.",
+   "risk_score": 92,
+   "knows_later_problems": true,
+   "basis": "Restated 2021 revenue over improper truck sales recognition; SEC settlement and charges against executives"
+  },
+  {
+   "id": 21,
+   "company": "Renovacor, Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "De-SPAC biotech; no known issues"
+  },
+  {
+   "id": 22,
+   "company": "Cellectar Biosciences, Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Small biotech; no known restatement"
+  },
+  {
+   "id": 23,
+   "company": "BigBear.ai Holdings, Inc.",
+   "risk_score": 75,
+   "knows_later_problems": true,
+   "basis": "2025 restatement of 2022–2024 statements over convertible notes accounting"
+  },
+  {
+   "id": 24,
+   "company": "Weave Communications, Inc.",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues"
+  },
+  {
+   "id": 25,
+   "company": "Dzs Inc.",
+   "risk_score": 85,
+   "knows_later_problems": true,
+   "basis": "Restated FY2022 and 2023 interim results over Asia revenue and accounting errors; delayed filings"
+  },
+  {
+   "id": 26,
+   "company": "Data443 Risk Mitigation, Inc.",
+   "risk_score": 30,
+   "knows_later_problems": false,
+   "basis": "Microcap with material weaknesses and going-concern issues; no specific restatement known"
+  }
+ ]
+}

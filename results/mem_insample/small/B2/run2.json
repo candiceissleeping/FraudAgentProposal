@@ -1,0 +1,200 @@
+{
+ "seed": 20261232,
+ "model": "claude-opus-5-5",
+ "attempts": 1,
+ "complete": true,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "scores": [
+  {
+   "id": 1,
+   "company": "COMSovereign Holding Corp.",
+   "risk_score": 70,
+   "knows_later_problems": true,
+   "basis": "Microcap with acquisition-driven growth, impairments, material weaknesses, late filings and delisting; I recall restatement and reporting problems around this period"
+  },
+  {
+   "id": 2,
+   "company": "Ambarella Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Established semiconductor firm with Big 4 audit; no known accounting issues"
+  },
+  {
+   "id": 3,
+   "company": "Agrify Corp.",
+   "risk_score": 60,
+   "knows_later_problems": true,
+   "basis": "Recent IPO with heavy losses, customer disputes, material weaknesses and later restatement or revision issues around 2021-22 revenue and receivables"
+  },
+  {
+   "id": 4,
+   "company": "OneMeta Inc.",
+   "risk_score": 50,
+   "knows_later_problems": false,
+   "basis": "Tiny AI startup with going-concern doubts and weak controls; possibly a BF Borgers client, but not confirmed"
+  },
+  {
+   "id": 5,
+   "company": "Pennsylvania Real Estate Investment Trust",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Financial distress and 2023 bankruptcy, but no known misstatement"
+  },
+  {
+   "id": 6,
+   "company": "Vislink Technologies, Inc.",
+   "risk_score": 35,
+   "knows_later_problems": true,
+   "basis": "Small-cap with weak controls; I recall a later audit-committee investigation and filing delays, but it may concern later periods"
+  },
+  {
+   "id": 7,
+   "company": "1606 Corp.",
+   "risk_score": 60,
+   "knows_later_problems": false,
+   "basis": "Shell-like microcap; possibly a BF Borgers client requiring re-audit, but not confirmed"
+  },
+  {
+   "id": 8,
+   "company": "Gatos Silver, Inc.",
+   "risk_score": 85,
+   "knows_later_problems": true,
+   "basis": "Mineral reserve errors in the 2021-era technical report led to delayed and restated filings, class actions and SEC scrutiny"
+  },
+  {
+   "id": 9,
+   "company": "Calavo Growers Inc.",
+   "risk_score": 25,
+   "knows_later_problems": true,
+   "basis": "Later audit-committee investigation into Mexico tax-related matters and filing delay around FY2024; FY2021 is less directly affected"
+  },
+  {
+   "id": 10,
+   "company": "Bancorp, Inc.",
+   "risk_score": 30,
+   "knows_later_problems": true,
+   "basis": "I vaguely recall a 2025 restatement or correction for FY2024 involving consumer fintech loan or credit-enhancement accounting; uncertain"
+  },
+  {
+   "id": 11,
+   "company": "RespireRx Pharmaceuticals Inc.",
+   "risk_score": 35,
+   "knows_later_problems": false,
+   "basis": "Tiny biotech with going-concern doubts and material weaknesses; no specific known issue"
+  },
+  {
+   "id": 12,
+   "company": "Global Technology Acquisition Corp. I",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "SPAC with simple financials; usual warrant and redemption accounting risk"
+  },
+  {
+   "id": 13,
+   "company": "Expion360 Inc.",
+   "risk_score": 30,
+   "knows_later_problems": false,
+   "basis": "Small battery company with losses and weak controls; no known restatement"
+  },
+  {
+   "id": 14,
+   "company": "Cars.com Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Established company; no known issues"
+  },
+  {
+   "id": 15,
+   "company": "Greenway Technologies Inc.",
+   "risk_score": 50,
+   "knows_later_problems": false,
+   "basis": "OTC microcap with going-concern doubts, litigation and weak controls"
+  },
+  {
+   "id": 16,
+   "company": "KwikClick, Inc.",
+   "risk_score": 50,
+   "knows_later_problems": false,
+   "basis": "OTC microcap with related-party heavy operations and weak controls"
+  },
+  {
+   "id": 17,
+   "company": "Alexander & Baldwin, Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Established REIT; no known issues"
+  },
+  {
+   "id": 18,
+   "company": "Skillz Inc.",
+   "risk_score": 45,
+   "knows_later_problems": true,
+   "basis": "Post-SPAC company with warrant-accounting restatement and short-seller allegations about user metrics; securities litigation"
+  },
+  {
+   "id": 19,
+   "company": "Laser Photonics Corp.",
+   "risk_score": 75,
+   "knows_later_problems": true,
+   "basis": "BF Borgers client; after the SEC barred Borgers in 2024, re-audits were needed, along with filing delays and restatement issues"
+  },
+  {
+   "id": 20,
+   "company": "Us Energy Corp.",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "Small E&P that made 2021 acquisitions; no known misstatement"
+  },
+  {
+   "id": 21,
+   "company": "Quantum Energy Inc.",
+   "risk_score": 50,
+   "knows_later_problems": false,
+   "basis": "Shell-like microcap with going-concern doubts and minimal controls"
+  },
+  {
+   "id": 22,
+   "company": "InFinT Acquisition Corp.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "SPAC with simple financials"
+  },
+  {
+   "id": 23,
+   "company": "McEwen Mining Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Established miner; no known accounting issues"
+  },
+  {
+   "id": 24,
+   "company": "SITIME Corp.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Established semiconductor firm; no known issues"
+  },
+  {
+   "id": 25,
+   "company": "Virtual Interactive Technologies Corp.",
+   "risk_score": 55,
+   "knows_later_problems": false,
+   "basis": "Tiny OTC company with going-concern doubts and weak controls"
+  },
+  {
+   "id": 26,
+   "company": "Nicolet Bankshares Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Regional bank; no known issues"
+  }
+ ]
+}

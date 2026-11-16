@@ -1,0 +1,6 @@
+run,tools_empty,mcp_empty,no_tool_blocks,server_web_zero,no_subagents,single_turn,completed,all_pass,expected_all_pass,web_search_requests,tool_blocks,init_model,served_models,claude_code_version,raw_sha256,note
+run1,True,True,True,True,True,True,True,True,True,0,0,claude-opus-5-5,claude-opus-5-5,2.1.325,372291dbe64e6edc5c0c79b0619dd9fe5c370fa8ec7af37e8bc9ab9c550800c1,model=claude-opus-5-5 attempts=1 complete=True parsed=26
+run2,True,True,True,True,True,True,True,True,True,0,0,claude-opus-5-5,claude-opus-5-5,2.1.325,b590b36fb162804ec6b2ea8c4d4a40ecc4031959d98b47f4f5ad3104a3043260,model=claude-opus-5-5 attempts=1 complete=True parsed=26
+run3,True,True,True,True,True,True,True,True,True,0,0,claude-opus-5-5,claude-opus-5-5,2.1.325,42eb8af794f18527a56fe2860ca1c7542c85474cd60095809db0daab32dc7216,model=claude-opus-5-5 attempts=1 complete=True parsed=26
+run4,True,True,True,True,True,True,True,True,True,0,0,claude-opus-5-5,claude-opus-5-5,2.1.325,82112076740509490f0978fee8b1d58c94f1133935e9738951d4e253055aa9a9,model=claude-opus-5-5 attempts=1 complete=True parsed=26
+run5,True,True,True,True,True,True,True,True,True,0,0,claude-opus-5-5,claude-opus-5-5,2.1.325,2bb035fec24262a4da538efe118d4280ad5a9ab59eefcff99ffa1342df9017d7,model=claude-opus-5-5 attempts=1 complete=True parsed=26

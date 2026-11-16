@@ -1,0 +1,214 @@
+{
+ "seed": 20261202,
+ "model": "claude-opus-5-5",
+ "attempts": 1,
+ "complete": true,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "scores": [
+  {
+   "id": 1,
+   "company": "Cvr Energy Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Established refiner, Icahn-controlled; no known restatement or SEC action for FY2022"
+  },
+  {
+   "id": 2,
+   "company": "Armstrong World Industries Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Stable large-cap manufacturer; no known accounting issues"
+  },
+  {
+   "id": 3,
+   "company": "Logiq, Inc.",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "Microcap with going-concern doubts, spin-off complexity and weak controls; no specific restatement recalled"
+  },
+  {
+   "id": 4,
+   "company": "Rithm Capital Corp.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Large mortgage REIT; complex fair-value marks but no known issues"
+  },
+  {
+   "id": 5,
+   "company": "BIMI International Medical Inc.",
+   "risk_score": 60,
+   "knows_later_problems": false,
+   "basis": "China-based microcap, serial acquisitions, material weaknesses, auditor turnover, listing problems; no specific restatement recalled"
+  },
+  {
+   "id": 6,
+   "company": "Phoenix Motor Inc.",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "Small EV maker with late filings and material weaknesses; no specific restatement recalled"
+  },
+  {
+   "id": 7,
+   "company": "Crown Castle Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Earlier restatement covered 2019 and prior periods (tower services revenue); none known for 2023"
+  },
+  {
+   "id": 8,
+   "company": "Cytosorbents Corp.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Small medtech with losses; no known accounting issues"
+  },
+  {
+   "id": 9,
+   "company": "Aptargroup, Inc.",
+   "risk_score": 4,
+   "knows_later_problems": false,
+   "basis": "Large stable industrial; no known issues"
+  },
+  {
+   "id": 10,
+   "company": "Cottonwood Communities, Inc.",
+   "risk_score": 12,
+   "knows_later_problems": false,
+   "basis": "Non-traded REIT; valuation judgment, but no known issues"
+  },
+  {
+   "id": 11,
+   "company": "Aqua Metals, Inc.",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "Pre-revenue small cap; earlier securities litigation, but none known about FY2023 accounting"
+  },
+  {
+   "id": 12,
+   "company": "Cosmos Health Inc.",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "Microcap with acquisitions, receivables concerns and control weaknesses; no specific restatement recalled"
+  },
+  {
+   "id": 13,
+   "company": "Tupperware Brands Corp.",
+   "risk_score": 85,
+   "knows_later_problems": true,
+   "basis": "In 2023 Tupperware disclosed errors and material weaknesses and said it would restate prior periods including FY2021; bankrupt 2024"
+  },
+  {
+   "id": 14,
+   "company": "Toyota Motor Credit Corp.",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "Large captive finance company; no known material misstatement for FY2024"
+  },
+  {
+   "id": 15,
+   "company": "Biodesix Inc.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Diagnostics small cap; no known issues"
+  },
+  {
+   "id": 16,
+   "company": "Discover Financial Services",
+   "risk_score": 35,
+   "knows_later_problems": true,
+   "basis": "Card-tier misclassification overcharging merchants since 2007 led to accruals and regulatory actions, plus control and compliance failures; not a known formal restatement"
+  },
+  {
+   "id": 17,
+   "company": "Society Pass Incorporated.",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "Microcap roll-up of SE Asian acquisitions with weak controls; no specific restatement recalled"
+  },
+  {
+   "id": 18,
+   "company": "SmartStop Self Storage REIT, Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Non-traded or late-listed storage REIT; no known issues"
+  },
+  {
+   "id": 19,
+   "company": "Optical Cable Corp.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Small, long-standing manufacturer; no known issues"
+  },
+  {
+   "id": 20,
+   "company": "Lazydays Holdings, Inc.",
+   "risk_score": 35,
+   "knows_later_problems": false,
+   "basis": "Financial distress, going-concern and covenant issues, material weakness disclosures; no specific restatement recalled"
+  },
+  {
+   "id": 21,
+   "company": "Biocept Inc.",
+   "risk_score": 25,
+   "knows_later_problems": false,
+   "basis": "Small diagnostics company, later bankrupt in 2023; no specific accounting fraud known"
+  },
+  {
+   "id": 22,
+   "company": "GPB Automotive Portfolio, L.P.",
+   "risk_score": 50,
+   "knows_later_problems": true,
+   "basis": "GPB Capital sponsor fraud (SEC/DOJ, Gentile conviction) and receivership/wind-down context; history of late or restated filings"
+  },
+  {
+   "id": 23,
+   "company": "Assure Holdings Corp.",
+   "risk_score": 60,
+   "knows_later_problems": true,
+   "basis": "History of large revenue/receivable write-downs and prior-period corrections tied to out-of-network billing estimates; material weaknesses"
+  },
+  {
+   "id": 24,
+   "company": "Sensus Healthcare, Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Small profitable medtech; no known issues"
+  },
+  {
+   "id": 25,
+   "company": "AZEK Co. Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "2022 CFO termination was over personal conduct, not accounting; no known misstatement"
+  },
+  {
+   "id": 26,
+   "company": "Calumet Specialty Products Partners, L.P.",
+   "risk_score": 18,
+   "knows_later_problems": false,
+   "basis": "Prior restatement history in mid-2010s and complex structure; none known for FY2022"
+  },
+  {
+   "id": 27,
+   "company": "Nxu, Inc.",
+   "risk_score": 40,
+   "knows_later_problems": false,
+   "basis": "Cash-burning EV/charging microcap with going-concern issues; no specific restatement recalled"
+  },
+  {
+   "id": 28,
+   "company": "Avinger Inc.",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "Small medtech with going-concern issues; no known accounting problems"
+  }
+ ]
+}

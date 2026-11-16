@@ -1,0 +1,214 @@
+{
+ "seed": 20261205,
+ "model": "claude-opus-5-5",
+ "attempts": 1,
+ "complete": true,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "scores": [
+  {
+   "id": 1,
+   "company": "Cottonwood Communities, Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Non-traded multifamily REIT; no known accounting issues for this year"
+  },
+  {
+   "id": 2,
+   "company": "Aptargroup, Inc.",
+   "risk_score": 3,
+   "knows_later_problems": false,
+   "basis": "Large established packaging company with a clean reporting history"
+  },
+  {
+   "id": 3,
+   "company": "Calumet Specialty Products Partners, L.P.",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "Complex leveraged MLP with past control weaknesses; nothing known for FY2022"
+  },
+  {
+   "id": 4,
+   "company": "Phoenix Motor Inc.",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "Small EV maker with material weaknesses, filing delays and going-concern stress"
+  },
+  {
+   "id": 5,
+   "company": "Lazydays Holdings, Inc.",
+   "risk_score": 30,
+   "knows_later_problems": false,
+   "basis": "Financial distress, going-concern doubts and impairments in 2024"
+  },
+  {
+   "id": 6,
+   "company": "Biocept Inc.",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "Small diagnostics firm, later bankrupt; no known misstatement"
+  },
+  {
+   "id": 7,
+   "company": "GPB Automotive Portfolio, L.P.",
+   "risk_score": 40,
+   "knows_later_problems": true,
+   "basis": "GPB Capital sponsor fraud: SEC case and sponsor convictions; entity in receivership/wind-down"
+  },
+  {
+   "id": 8,
+   "company": "BIMI International Medical Inc.",
+   "risk_score": 60,
+   "knows_later_problems": false,
+   "basis": "China-based microcap with governance and auditor concerns, frequent acquisitions and impairments"
+  },
+  {
+   "id": 9,
+   "company": "Rithm Capital Corp.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Large mortgage REIT; complex valuations but no known issues"
+  },
+  {
+   "id": 10,
+   "company": "Biodesix Inc.",
+   "risk_score": 12,
+   "knows_later_problems": false,
+   "basis": "Diagnostics company; no known accounting problems"
+  },
+  {
+   "id": 11,
+   "company": "Discover Financial Services",
+   "risk_score": 35,
+   "knows_later_problems": true,
+   "basis": "Card misclassification overcharges going back to 2007, control failures, regulatory penalties"
+  },
+  {
+   "id": 12,
+   "company": "Assure Holdings Corp.",
+   "risk_score": 60,
+   "knows_later_problems": true,
+   "basis": "Prior restatement, large revenue and receivable reversals, collapse"
+  },
+  {
+   "id": 13,
+   "company": "Society Pass Incorporated.",
+   "risk_score": 40,
+   "knows_later_problems": false,
+   "basis": "Acquisitive SE Asia microcap with heavy losses and weak controls"
+  },
+  {
+   "id": 14,
+   "company": "Cosmos Health Inc.",
+   "risk_score": 35,
+   "knows_later_problems": false,
+   "basis": "Microcap with receivable concerns and related-party dealings"
+  },
+  {
+   "id": 15,
+   "company": "SmartStop Self Storage REIT, Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Storage REIT; no known issues"
+  },
+  {
+   "id": 16,
+   "company": "Aqua Metals, Inc.",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "Earlier SEC settlement related to a prior period; FY2023 is a pre-revenue company with nothing known"
+  },
+  {
+   "id": 17,
+   "company": "Armstrong World Industries Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Stable industrial company; clean reporting"
+  },
+  {
+   "id": 18,
+   "company": "Avinger Inc.",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "Distressed medtech microcap; no known misstatement"
+  },
+  {
+   "id": 19,
+   "company": "Logiq, Inc.",
+   "risk_score": 50,
+   "knows_later_problems": false,
+   "basis": "Troubled microcap with spin-offs, weak controls and going-concern doubts"
+  },
+  {
+   "id": 20,
+   "company": "Cytosorbents Corp.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Small medtech; no known accounting issues"
+  },
+  {
+   "id": 21,
+   "company": "Crown Castle Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Earlier restatement and SEC matter concerned 2016-2018, not FY2023"
+  },
+  {
+   "id": 22,
+   "company": "Optical Cable Corp.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Small, stable manufacturer"
+  },
+  {
+   "id": 23,
+   "company": "Toyota Motor Credit Corp.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Large captive finance company; no known issues for this year"
+  },
+  {
+   "id": 24,
+   "company": "Tupperware Brands Corp.",
+   "risk_score": 70,
+   "knows_later_problems": true,
+   "basis": "2023 disclosure of prior-period errors and material weaknesses, restatement, then bankruptcy"
+  },
+  {
+   "id": 25,
+   "company": "Nxu, Inc.",
+   "risk_score": 35,
+   "knows_later_problems": false,
+   "basis": "Cash-strapped EV/charging microcap with weak controls"
+  },
+  {
+   "id": 26,
+   "company": "Cvr Energy Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Established refiner; no known accounting issues"
+  },
+  {
+   "id": 27,
+   "company": "Sensus Healthcare, Inc.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Small medtech; nothing known"
+  },
+  {
+   "id": 28,
+   "company": "AZEK Co. Inc.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Building products company; recall some control/executive issues but no known restatement"
+  }
+ ]
+}

@@ -1,0 +1,200 @@
+{
+ "seed": 20261235,
+ "model": "claude-opus-5-5",
+ "attempts": 1,
+ "complete": true,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "scores": [
+  {
+   "id": 1,
+   "company": "Gatos Silver, Inc.",
+   "risk_score": 80,
+   "knows_later_problems": true,
+   "basis": "Mineral reserve and resource errors at Cerro Los Gatos disclosed in 2022; 2021 10-K delayed and later amended/restated; class actions and SEC scrutiny"
+  },
+  {
+   "id": 2,
+   "company": "OneMeta Inc.",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "Microcap AI translation firm with going-concern doubts and likely weak controls; no specific restatement known"
+  },
+  {
+   "id": 3,
+   "company": "1606 Corp.",
+   "risk_score": 50,
+   "knows_later_problems": false,
+   "basis": "Tiny shell-like CBD/AI spinoff with minimal operations and small-auditor risk; no specific issue recalled"
+  },
+  {
+   "id": 4,
+   "company": "Quantum Energy Inc.",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "Development-stage microcap with going-concern risk and weak controls; no specific restatement known"
+  },
+  {
+   "id": 5,
+   "company": "Cars.com Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Established company with Big Four audit and no known accounting issues"
+  },
+  {
+   "id": 6,
+   "company": "McEwen Mining Inc.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Mid-tier miner with impairment and estimate risk; no known restatement"
+  },
+  {
+   "id": 7,
+   "company": "Ambarella Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Established semiconductor company with no known accounting problems"
+  },
+  {
+   "id": 8,
+   "company": "Calavo Growers Inc.",
+   "risk_score": 25,
+   "knows_later_problems": true,
+   "basis": "Later Mexican tax assessments, an internal investigation and material weakness disclosures (around FY2023); unclear impact on FY2021"
+  },
+  {
+   "id": 9,
+   "company": "SITIME Corp.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Established company with no known accounting issues"
+  },
+  {
+   "id": 10,
+   "company": "Skillz Inc.",
+   "risk_score": 35,
+   "knows_later_problems": true,
+   "basis": "Earlier warrant restatement, material weaknesses, securities class actions over user metrics and revenue; no confirmed FY2021 restatement recalled"
+  },
+  {
+   "id": 11,
+   "company": "Bancorp, Inc.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Short-seller criticism of REBL loan portfolio, but no known restatement"
+  },
+  {
+   "id": 12,
+   "company": "Vislink Technologies, Inc.",
+   "risk_score": 35,
+   "knows_later_problems": true,
+   "basis": "Small cap with material weaknesses and later delayed filings and control issues (around 2023-24)"
+  },
+  {
+   "id": 13,
+   "company": "InFinT Acquisition Corp.",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "SPAC with simple financials; usual SPAC classification and control-weakness risk"
+  },
+  {
+   "id": 14,
+   "company": "COMSovereign Holding Corp.",
+   "risk_score": 60,
+   "knows_later_problems": true,
+   "basis": "Distressed roll-up with material weaknesses, heavy impairments, going concern, delayed filings and later delisting"
+  },
+  {
+   "id": 15,
+   "company": "Virtual Interactive Technologies Corp.",
+   "risk_score": 50,
+   "knows_later_problems": false,
+   "basis": "Tiny OTC issuer with limited controls; no specific issue known"
+  },
+  {
+   "id": 16,
+   "company": "RespireRx Pharmaceuticals Inc.",
+   "risk_score": 35,
+   "knows_later_problems": false,
+   "basis": "Cash-starved microcap biotech with going concern and material weaknesses, but simple accounting"
+  },
+  {
+   "id": 17,
+   "company": "Nicolet Bankshares Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Regional bank with no known accounting issues"
+  },
+  {
+   "id": 18,
+   "company": "Us Energy Corp.",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "Small E&P that did acquisitions in late 2021 and 2022; no known restatement"
+  },
+  {
+   "id": 19,
+   "company": "Global Technology Acquisition Corp. I",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "SPAC with simple financials; usual SPAC risks"
+  },
+  {
+   "id": 20,
+   "company": "Agrify Corp.",
+   "risk_score": 60,
+   "knows_later_problems": true,
+   "basis": "Bomani/Mack Molding receivable and impairment disputes, material weaknesses, class actions, large write-offs soon after"
+  },
+  {
+   "id": 21,
+   "company": "Alexander & Baldwin, Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Established REIT with no known issues"
+  },
+  {
+   "id": 22,
+   "company": "Laser Photonics Corp.",
+   "risk_score": 70,
+   "knows_later_problems": true,
+   "basis": "Audited by BF Borgers, which the SEC barred in 2024 for fraudulent audits, requiring a reaudit; delayed filings and Nasdaq deficiencies"
+  },
+  {
+   "id": 23,
+   "company": "KwikClick, Inc.",
+   "risk_score": 55,
+   "knows_later_problems": false,
+   "basis": "Tiny OTC social-selling firm with going concern and weak controls"
+  },
+  {
+   "id": 24,
+   "company": "Expion360 Inc.",
+   "risk_score": 30,
+   "knows_later_problems": false,
+   "basis": "Small-cap battery firm with going concern and material weaknesses; no known restatement"
+  },
+  {
+   "id": 25,
+   "company": "Greenway Technologies Inc.",
+   "risk_score": 55,
+   "knows_later_problems": false,
+   "basis": "OTC microcap with governance disputes, litigation, going concern and weak controls"
+  },
+  {
+   "id": 26,
+   "company": "Pennsylvania Real Estate Investment Trust",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "Distressed mall REIT (Chapter 11 in late 2023) with going-concern and impairment judgment risk; no known restatement"
+  }
+ ]
+}

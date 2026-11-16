@@ -1,0 +1,200 @@
+{
+ "seed": 20261231,
+ "model": "claude-opus-5-5",
+ "attempts": 1,
+ "complete": true,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "scores": [
+  {
+   "id": 1,
+   "company": "Alexander & Baldwin, Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Established REIT with a Big-4 auditor; no known restatement or enforcement for FY2022"
+  },
+  {
+   "id": 2,
+   "company": "OneMeta Inc.",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "Microcap AI/translation company with going-concern doubts and likely weak controls; no specific issue known"
+  },
+  {
+   "id": 3,
+   "company": "Cars.com Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Stable mid-cap with clean reporting history; nothing known"
+  },
+  {
+   "id": 4,
+   "company": "RespireRx Pharmaceuticals Inc.",
+   "risk_score": 40,
+   "knows_later_problems": false,
+   "basis": "Cash-strapped microcap biotech with going-concern doubts and material weaknesses; no known restatement"
+  },
+  {
+   "id": 5,
+   "company": "Nicolet Bankshares Inc.",
+   "risk_score": 4,
+   "knows_later_problems": false,
+   "basis": "Well-run regional bank; nothing known"
+  },
+  {
+   "id": 6,
+   "company": "KwikClick, Inc.",
+   "risk_score": 50,
+   "knows_later_problems": false,
+   "basis": "Tiny OTC company, related-party heavy, small auditor; elevated base risk, no specific event known"
+  },
+  {
+   "id": 7,
+   "company": "InFinT Acquisition Corp.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "SPAC shell; risk limited to SPAC-era classification issues"
+  },
+  {
+   "id": 8,
+   "company": "Greenway Technologies Inc.",
+   "risk_score": 50,
+   "knows_later_problems": false,
+   "basis": "OTC microcap with a history of governance disputes, litigation and weak controls"
+  },
+  {
+   "id": 9,
+   "company": "Ambarella Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Established semiconductor company; nothing known"
+  },
+  {
+   "id": 10,
+   "company": "Global Technology Acquisition Corp. I",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "SPAC shell; low substantive accounting risk"
+  },
+  {
+   "id": 11,
+   "company": "Quantum Energy Inc.",
+   "risk_score": 50,
+   "knows_later_problems": false,
+   "basis": "Shell-like OTC microcap with minimal operations and weak controls"
+  },
+  {
+   "id": 12,
+   "company": "COMSovereign Holding Corp.",
+   "risk_score": 65,
+   "knows_later_problems": true,
+   "basis": "Serial acquirer with material weaknesses, large impairments, going concern and later delisting and filing delinquencies"
+  },
+  {
+   "id": 13,
+   "company": "McEwen Mining Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Established miner; nothing known for FY2021"
+  },
+  {
+   "id": 14,
+   "company": "Skillz Inc.",
+   "risk_score": 40,
+   "knows_later_problems": true,
+   "basis": "Securities class actions over user metrics and disclosures; post-SPAC warrant restatement; questions about the business model"
+  },
+  {
+   "id": 15,
+   "company": "Pennsylvania Real Estate Investment Trust",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Financial distress and a 2023 bankruptcy, but no known accounting misstatement"
+  },
+  {
+   "id": 16,
+   "company": "Bancorp, Inc.",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "Fintech-partner bank with regulatory scrutiny and short-seller attention; uncertain about any later issues"
+  },
+  {
+   "id": 17,
+   "company": "Calavo Growers Inc.",
+   "risk_score": 20,
+   "knows_later_problems": true,
+   "basis": "Later internal investigation into Mexican tax-related payments and delayed filings (around FY2024); FY2021 less directly implicated"
+  },
+  {
+   "id": 18,
+   "company": "Gatos Silver, Inc.",
+   "risk_score": 75,
+   "knows_later_problems": true,
+   "basis": "Mineral reserve errors at Cerro Los Gatos led to an amended FY2021 10-K, restatement of related items, and class actions"
+  },
+  {
+   "id": 19,
+   "company": "Agrify Corp.",
+   "risk_score": 50,
+   "knows_later_problems": true,
+   "basis": "Class actions over revenue/customer disclosures, large write-downs, material weaknesses"
+  },
+  {
+   "id": 20,
+   "company": "Us Energy Corp.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Small E&P that grew by acquisitions; nothing specific known"
+  },
+  {
+   "id": 21,
+   "company": "Laser Photonics Corp.",
+   "risk_score": 50,
+   "knows_later_problems": true,
+   "basis": "Small-cap IPO with auditor issues and reported restatement/filing delays; uncertain on details"
+  },
+  {
+   "id": 22,
+   "company": "1606 Corp.",
+   "risk_score": 50,
+   "knows_later_problems": false,
+   "basis": "Tiny spinoff microcap with minimal operations and small-auditor risk"
+  },
+  {
+   "id": 23,
+   "company": "SITIME Corp.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Established semiconductor company; nothing known"
+  },
+  {
+   "id": 24,
+   "company": "Virtual Interactive Technologies Corp.",
+   "risk_score": 50,
+   "knows_later_problems": false,
+   "basis": "OTC microcap with going concern and weak controls"
+  },
+  {
+   "id": 25,
+   "company": "Expion360 Inc.",
+   "risk_score": 30,
+   "knows_later_problems": false,
+   "basis": "Small-cap with going concern and material weaknesses; no known restatement"
+  },
+  {
+   "id": 26,
+   "company": "Vislink Technologies, Inc.",
+   "risk_score": 35,
+   "knows_later_problems": true,
+   "basis": "Later internal review and delayed filings tied to inventory/accounting matters; recollection is uncertain"
+  }
+ ]
+}

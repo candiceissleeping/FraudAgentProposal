@@ -1,0 +1,214 @@
+{
+ "seed": 20261201,
+ "model": "claude-opus-5-5",
+ "attempts": 1,
+ "complete": true,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "scores": [
+  {
+   "id": 1,
+   "company": "Nxu, Inc.",
+   "risk_score": 30,
+   "knows_later_problems": false,
+   "basis": "Micro-cap EV/charging company with going-concern doubts and heavy dilution; no specific restatement known"
+  },
+  {
+   "id": 2,
+   "company": "AZEK Co. Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Established building-products company; no known accounting issues"
+  },
+  {
+   "id": 3,
+   "company": "Cottonwood Communities, Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Non-traded REIT with valuation judgment; no known problems"
+  },
+  {
+   "id": 4,
+   "company": "Armstrong World Industries Inc.",
+   "risk_score": 4,
+   "knows_later_problems": false,
+   "basis": "Stable large-cap industrial; no known issues"
+  },
+  {
+   "id": 5,
+   "company": "Biodesix Inc.",
+   "risk_score": 12,
+   "knows_later_problems": false,
+   "basis": "Small diagnostics firm with losses; no known restatement"
+  },
+  {
+   "id": 6,
+   "company": "Sensus Healthcare, Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Small medical device company; no known issues"
+  },
+  {
+   "id": 7,
+   "company": "Crown Castle Inc.",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "Large tower REIT; activist dispute but no known accounting misstatement"
+  },
+  {
+   "id": 8,
+   "company": "Rithm Capital Corp.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Complex Level 3 valuations (MSRs) but no known problems"
+  },
+  {
+   "id": 9,
+   "company": "Discover Financial Services",
+   "risk_score": 40,
+   "knows_later_problems": true,
+   "basis": "Card product misclassification (merchant overcharging since 2007) disclosed 2023-24; large accrual, revisions of prior periods, compliance and control failures, regulatory scrutiny"
+  },
+  {
+   "id": 10,
+   "company": "Logiq, Inc.",
+   "risk_score": 40,
+   "knows_later_problems": false,
+   "basis": "Micro-cap with spin-offs, weak controls and going-concern doubts; elevated general risk"
+  },
+  {
+   "id": 11,
+   "company": "GPB Automotive Portfolio, L.P.",
+   "risk_score": 40,
+   "knows_later_problems": true,
+   "basis": "Sponsor GPB Capital charged by SEC/DOJ as a Ponzi-like scheme; Gentile convicted 2024; entity under monitorship/receivership. FY2024 accounts are post-wind-down, but legacy risk is high"
+  },
+  {
+   "id": 12,
+   "company": "Lazydays Holdings, Inc.",
+   "risk_score": 30,
+   "knows_later_problems": false,
+   "basis": "Financial distress, going-concern doubts, and previously reported material weaknesses"
+  },
+  {
+   "id": 13,
+   "company": "Calumet Specialty Products Partners, L.P.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Leveraged refiner; no known accounting issues for 2022"
+  },
+  {
+   "id": 14,
+   "company": "Optical Cable Corp.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Small, long-standing manufacturer; no known issues"
+  },
+  {
+   "id": 15,
+   "company": "Cvr Energy Inc.",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "Established refiner; no known issues"
+  },
+  {
+   "id": 16,
+   "company": "Cytosorbents Corp.",
+   "risk_score": 18,
+   "knows_later_problems": false,
+   "basis": "Small medical device firm with losses; no specific restatement known"
+  },
+  {
+   "id": 17,
+   "company": "Aptargroup, Inc.",
+   "risk_score": 4,
+   "knows_later_problems": false,
+   "basis": "Large stable packaging company; no known issues"
+  },
+  {
+   "id": 18,
+   "company": "Cosmos Health Inc.",
+   "risk_score": 40,
+   "knows_later_problems": false,
+   "basis": "Micro-cap with Greek operations, acquisitions, related-party dealings and weak controls"
+  },
+  {
+   "id": 19,
+   "company": "Society Pass Incorporated.",
+   "risk_score": 40,
+   "knows_later_problems": false,
+   "basis": "Micro-cap Southeast Asian roll-up with material weaknesses and many acquisitions"
+  },
+  {
+   "id": 20,
+   "company": "SmartStop Self Storage REIT, Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Non-traded storage REIT; no known issues"
+  },
+  {
+   "id": 21,
+   "company": "Phoenix Motor Inc.",
+   "risk_score": 40,
+   "knows_later_problems": false,
+   "basis": "Small EV maker with material weaknesses, late filings and going-concern doubts"
+  },
+  {
+   "id": 22,
+   "company": "Aqua Metals, Inc.",
+   "risk_score": 18,
+   "knows_later_problems": false,
+   "basis": "Pre-revenue recycler with prior securities litigation; no known restatement for 2023"
+  },
+  {
+   "id": 23,
+   "company": "Avinger Inc.",
+   "risk_score": 18,
+   "knows_later_problems": false,
+   "basis": "Distressed small medical device company; no known restatement"
+  },
+  {
+   "id": 24,
+   "company": "BIMI International Medical Inc.",
+   "risk_score": 60,
+   "knows_later_problems": false,
+   "basis": "China-based micro-cap with frequent acquisitions and disposals, auditor changes, material weaknesses and Nasdaq compliance problems"
+  },
+  {
+   "id": 25,
+   "company": "Toyota Motor Credit Corp.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Large captive finance company; no known material issues"
+  },
+  {
+   "id": 26,
+   "company": "Tupperware Brands Corp.",
+   "risk_score": 80,
+   "knows_later_problems": true,
+   "basis": "In 2023 it restated FY2021 and prior periods, citing material weaknesses (tax and other errors) and delayed filings; went bankrupt in 2024"
+  },
+  {
+   "id": 27,
+   "company": "Biocept Inc.",
+   "risk_score": 22,
+   "knows_later_problems": false,
+   "basis": "Distressed diagnostics company with COVID-testing revenue and collectability judgments; bankrupt in 2023"
+  },
+  {
+   "id": 28,
+   "company": "Assure Holdings Corp.",
+   "risk_score": 55,
+   "knows_later_problems": true,
+   "basis": "Neuromonitoring billing with large revenue and accounts-receivable estimate reversals, material weaknesses and prior adjustments; later distress and merger"
+  }
+ ]
+}
