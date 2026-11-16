@@ -1,0 +1,200 @@
+{
+ "seed": 20261321,
+ "model": "claude-opus-5-5",
+ "attempts": 1,
+ "complete": true,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "scores": [
+  {
+   "id": 1,
+   "company": "Thermon Group Holdings, Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known restatement or enforcement for FY2020"
+  },
+  {
+   "id": 2,
+   "company": "Maxwell Technologies Inc.",
+   "risk_score": 85,
+   "knows_later_problems": true,
+   "basis": "Restated 2011-2012 revenue for improper recognition; SEC enforcement followed"
+  },
+  {
+   "id": 3,
+   "company": "Fluor Corp.",
+   "risk_score": 25,
+   "knows_later_problems": false,
+   "basis": "Later SEC case on project cost estimates covers 2016-2018, not 2013"
+  },
+  {
+   "id": 4,
+   "company": "Interface Inc.",
+   "risk_score": 60,
+   "knows_later_problems": true,
+   "basis": "SEC charged company and former execs in 2020 over manipulated EPS adjustments in 2015-2016"
+  },
+  {
+   "id": 5,
+   "company": "Borgwarner Inc.",
+   "risk_score": 7,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 6,
+   "company": "Cpi Aerostructures Inc.",
+   "risk_score": 88,
+   "knows_later_problems": true,
+   "basis": "Restated 2018 for revenue recognition errors; SEC enforcement followed"
+  },
+  {
+   "id": 7,
+   "company": "Protalix BioTherapeutics, Inc.",
+   "risk_score": 12,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues"
+  },
+  {
+   "id": 8,
+   "company": "Alexandria Real Estate Equities Inc.",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 9,
+   "company": "Osiris Therapeutics, Inc.",
+   "risk_score": 92,
+   "knows_later_problems": true,
+   "basis": "Restated 2014-2015 for revenue fraud; SEC charged company and execs"
+  },
+  {
+   "id": 10,
+   "company": "Autoliv Inc.",
+   "risk_score": 7,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues"
+  },
+  {
+   "id": 11,
+   "company": "Apple Inc.",
+   "risk_score": 2,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 12,
+   "company": "Plug Power Inc.",
+   "risk_score": 75,
+   "knows_later_problems": true,
+   "basis": "2021 restatement covered 2018-2019 periods"
+  },
+  {
+   "id": 13,
+   "company": "Provident Financial Holdings Inc.",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 14,
+   "company": "Ducommun Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 15,
+   "company": "Malvern Bancorp, Inc.",
+   "risk_score": 55,
+   "knows_later_problems": true,
+   "basis": "Recall restatement of FY2020 over loan classification and impairment; moderate confidence"
+  },
+  {
+   "id": 16,
+   "company": "Evoqua Water Technologies Corp.",
+   "risk_score": 25,
+   "knows_later_problems": false,
+   "basis": "Securities class action over disclosures, but no restatement"
+  },
+  {
+   "id": 17,
+   "company": "Entegris Inc.",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 18,
+   "company": "Gentex Corp.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 19,
+   "company": "Tupperware Brands Corp.",
+   "risk_score": 22,
+   "knows_later_problems": false,
+   "basis": "Later restatements and control failures relate to 2020s, not 2016"
+  },
+  {
+   "id": 20,
+   "company": "Albany International Corp.",
+   "risk_score": 12,
+   "knows_later_problems": false,
+   "basis": "No known issues for 2015"
+  },
+  {
+   "id": 21,
+   "company": "Visteon Corp.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 22,
+   "company": "Ultralife Corp.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Small cap; no known issues"
+  },
+  {
+   "id": 23,
+   "company": "Super Micro Computer, Inc.",
+   "risk_score": 88,
+   "knows_later_problems": true,
+   "basis": "Restated FY2015-2017; SEC 2020 charges over improper revenue recognition"
+  },
+  {
+   "id": 24,
+   "company": "American Realty Capital Properties, Inc.",
+   "risk_score": 85,
+   "knows_later_problems": true,
+   "basis": "AFFO fraud led to restatement of 2013-2014; SEC and criminal charges against execs"
+  },
+  {
+   "id": 25,
+   "company": "Kbr, Inc.",
+   "risk_score": 70,
+   "knows_later_problems": true,
+   "basis": "Restated 2013 for Canadian project estimate errors; SEC settlement on controls"
+  },
+  {
+   "id": 26,
+   "company": "Welbilt, Inc.",
+   "risk_score": 75,
+   "knows_later_problems": true,
+   "basis": "Restated 2018 for tax and other accounting errors; material weaknesses"
+  }
+ ]
+}

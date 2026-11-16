@@ -1,0 +1,214 @@
+{
+ "seed": 20261315,
+ "model": "claude-opus-5-5",
+ "attempts": 1,
+ "complete": true,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "scores": [
+  {
+   "id": 1,
+   "company": "Air Products & Chemicals Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "Large, stable industrial gas company; no known restatement or enforcement for FY2016"
+  },
+  {
+   "id": 2,
+   "company": "Dice Holdings, Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues for 2013"
+  },
+  {
+   "id": 3,
+   "company": "Ideanomics, Inc.",
+   "risk_score": 65,
+   "knows_later_problems": true,
+   "basis": "Frequent pivots and related-party dealings; later SEC charges against the company and former CEO over misleading disclosures and revenue; later restatements"
+  },
+  {
+   "id": 4,
+   "company": "MSCI Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 5,
+   "company": "theMaven, Inc.",
+   "risk_score": 60,
+   "knows_later_problems": true,
+   "basis": "2018 10-K filed about 1.5 years late; pervasive material weaknesses and accounting for acquisitions and financings"
+  },
+  {
+   "id": 6,
+   "company": "Ammo, Inc.",
+   "risk_score": 70,
+   "knows_later_problems": true,
+   "basis": "Internal investigation into undisclosed related parties and executive conduct; delayed filings, restatement and SEC scrutiny touching FY2023"
+  },
+  {
+   "id": 7,
+   "company": "Stryker Corp.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "No known misstatement"
+  },
+  {
+   "id": 8,
+   "company": "Archer-Daniels-Midland Co.",
+   "risk_score": 65,
+   "knows_later_problems": true,
+   "basis": "2024 Nutrition segment intersegment sales investigation; segment disclosures revised for prior years; SEC/DOJ inquiries"
+  },
+  {
+   "id": 9,
+   "company": "Orion Energy Systems, Inc.",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "Small cap with losses; no known restatement"
+  },
+  {
+   "id": 10,
+   "company": "SAExploration Holdings, Inc.",
+   "risk_score": 95,
+   "knows_later_problems": true,
+   "basis": "Restated 2015-2018 for hidden receivable/round-trip scheme; SEC fraud charges and executive criminal cases"
+  },
+  {
+   "id": 11,
+   "company": "AerSale Corp.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "SPAC-era listing, but no known restatement for 2021"
+  },
+  {
+   "id": 12,
+   "company": "Overseas Shipholding Group Inc.",
+   "risk_score": 90,
+   "knows_later_problems": true,
+   "basis": "2012 disclosure that 2009-2011 statements were unreliable due to an unrecorded tax liability; restatement, bankruptcy, SEC action"
+  },
+  {
+   "id": 13,
+   "company": "EPAM Systems, Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 14,
+   "company": "National Presto Industries Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "Old Investment Company Act dispute from the 2000s; nothing for 2022"
+  },
+  {
+   "id": 15,
+   "company": "Comscore, Inc.",
+   "risk_score": 40,
+   "knows_later_problems": true,
+   "basis": "Later restatement and SEC fraud charges over nonmonetary transactions in 2014-2017; 2013 is adjacent to that period"
+  },
+  {
+   "id": 16,
+   "company": "Latch, Inc.",
+   "risk_score": 90,
+   "knows_later_problems": true,
+   "basis": "Restated 2021-2022 revenue recognition; years of delinquent filings; delisted"
+  },
+  {
+   "id": 17,
+   "company": "WEX Inc.",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 18,
+   "company": "Bunge Ltd.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known issues for 2022"
+  },
+  {
+   "id": 19,
+   "company": "Tidewater Inc.",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "FCPA settlement with SEC/DOJ in late 2010 concerned bribery and books-and-records, not a financial misstatement"
+  },
+  {
+   "id": 20,
+   "company": "Ppg Industries Inc.",
+   "risk_score": 85,
+   "knows_later_problems": true,
+   "basis": "2018 restatement of 2016-2017 for improper accrual and reserve manipulation; SEC charges against the company and its controller"
+  },
+  {
+   "id": 21,
+   "company": "Brooks Automation Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Option backdating issues were around 2006; nothing for FY2014"
+  },
+  {
+   "id": 22,
+   "company": "Manitex International, Inc.",
+   "risk_score": 35,
+   "knows_later_problems": false,
+   "basis": "2018 restatement covered later years (about 2016-2017) for financing and related-party sales; 2014 not known to be affected"
+  },
+  {
+   "id": 23,
+   "company": "Transatlantic Petroleum Ltd.",
+   "risk_score": 25,
+   "knows_later_problems": false,
+   "basis": "Small Turkey-focused E&P with related-party and controlling-holder issues; no known restatement"
+  },
+  {
+   "id": 24,
+   "company": "Synchronoss Technologies Inc.",
+   "risk_score": 70,
+   "knows_later_problems": true,
+   "basis": "Restated prior periods; 2022 SEC charges for improper revenue and accounting covering roughly 2013-2017"
+  },
+  {
+   "id": 25,
+   "company": "Sysco Corp.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 26,
+   "company": "Revolution Lighting Technologies, Inc.",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "Later SEC charges over improper bill-and-hold revenue in roughly 2016-2018; 2014 predates that, but there was an aggressive acquisition roll-up"
+  },
+  {
+   "id": 27,
+   "company": "Baxter International Inc.",
+   "risk_score": 80,
+   "knows_later_problems": true,
+   "basis": "Restatement of foreign exchange gains from intra-company transactions covering 2014-2019; SEC charges in 2022"
+  },
+  {
+   "id": 28,
+   "company": "Chs Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known issues for FY2014"
+  }
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "seed": 20261302,
+ "model": "claude-opus-5-5",
+ "attempts": 1,
+ "complete": true,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "scores": [
+  {
+   "id": 1,
+   "company": "Stonemor Partners L.P.",
+   "risk_score": 55,
+   "knows_later_problems": true,
+   "basis": "Later material weaknesses, delayed filings and restatement-related issues; SEC action over misleading distribution and operating disclosures in the mid-2010s"
+  },
+  {
+   "id": 2,
+   "company": "Hertz Global Holdings Inc.",
+   "risk_score": 90,
+   "knows_later_problems": true,
+   "basis": "Restated 2011-2013 in 2014-2015 for widespread accounting errors; SEC enforcement in 2018"
+  },
+  {
+   "id": 3,
+   "company": "Alliance One International, Inc.",
+   "risk_score": 35,
+   "knows_later_problems": false,
+   "basis": "Prior FCPA issues and some subsidiary accounting errors around this era; uncertain whether there was a material FY2013 restatement"
+  },
+  {
+   "id": 4,
+   "company": "Omnicom Group Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "No known accounting problems for 2011"
+  },
+  {
+   "id": 5,
+   "company": "Superior Uniform Group Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 6,
+   "company": "Igen Networks Corp.",
+   "risk_score": 35,
+   "knows_later_problems": false,
+   "basis": "Microcap with going-concern and weak-controls profile; no specific restatement known"
+  },
+  {
+   "id": 7,
+   "company": "UNITED THERAPEUTICS Corp.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "No known accounting problems"
+  },
+  {
+   "id": 8,
+   "company": "Usa Technologies Inc.",
+   "risk_score": 85,
+   "knows_later_problems": true,
+   "basis": "Restated FY2017-FY2018 after an audit committee investigation into revenue recognition; SEC charges followed"
+  },
+  {
+   "id": 9,
+   "company": "Andersons Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 10,
+   "company": "PARETEUM Corp.",
+   "risk_score": 95,
+   "knows_later_problems": true,
+   "basis": "Restated 2018 revenue for improperly recognized revenue; SEC fraud charges and delisting"
+  },
+  {
+   "id": 11,
+   "company": "Boston Scientific Corp.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "No known accounting problems for 2019"
+  },
+  {
+   "id": 12,
+   "company": "Weight Watchers International Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 13,
+   "company": "Santander Consumer USA Holdings Inc.",
+   "risk_score": 70,
+   "knows_later_problems": true,
+   "basis": "Restated 2014-2015 for TDR and loan-loss allowance errors; SEC settlement over allowance disclosures"
+  },
+  {
+   "id": 14,
+   "company": "Nelnet Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 15,
+   "company": "A10 Networks, Inc.",
+   "risk_score": 35,
+   "knows_later_problems": true,
+   "basis": "2018 audit committee probe into revenue recognition and later SEC action for 2016-2017 periods; FY2015 is less clearly affected"
+  },
+  {
+   "id": 16,
+   "company": "Capstone Turbine Corp.",
+   "risk_score": 55,
+   "knows_later_problems": true,
+   "basis": "SEC action over misleading backlog and revenue tied to a Russian distributor around FY2015-2016"
+  },
+  {
+   "id": 17,
+   "company": "PDS Biotechnology Corp.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Small biotech with no known issues"
+  },
+  {
+   "id": 18,
+   "company": "Power Solutions International, Inc.",
+   "risk_score": 90,
+   "knows_later_problems": true,
+   "basis": "Restated 2014-2016 for revenue fraud; SEC charges and criminal case against executives"
+  },
+  {
+   "id": 19,
+   "company": "Adamis Pharmaceuticals Corp.",
+   "risk_score": 55,
+   "knows_later_problems": true,
+   "basis": "Restated 2019 and 2020 interim results for accounting errors; material weakness"
+  },
+  {
+   "id": 20,
+   "company": "Becton Dickinson & Co.",
+   "risk_score": 15,
+   "knows_later_problems": true,
+   "basis": "SEC settlement over misleading Alaris pump disclosures rather than a restatement; financials not restated"
+  },
+  {
+   "id": 21,
+   "company": "GTT Communications, Inc.",
+   "risk_score": 90,
+   "knows_later_problems": true,
+   "basis": "Accounting investigation into cost and capex accounting; never filed a restatement; SEC charges, then bankruptcy"
+  },
+  {
+   "id": 22,
+   "company": "Consolidated Communications Holdings, Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 23,
+   "company": "Quantum Corp.",
+   "risk_score": 85,
+   "knows_later_problems": true,
+   "basis": "Restated FY2015-FY2018 for improper revenue recognition; SEC enforcement"
+  },
+  {
+   "id": 24,
+   "company": "DarkPulse, Inc.",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "Microcap with weak controls and later stock-promotion litigation; no specific FY2018 restatement known"
+  },
+  {
+   "id": 25,
+   "company": "Agilysys Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "No known issues"
+  },
+  {
+   "id": 26,
+   "company": "Cherokee Inc.",
+   "risk_score": 20,
+   "knows_later_problems": false,
+   "basis": "Financial distress and impairments but no known restatement"
+  },
+  {
+   "id": 27,
+   "company": "Mitek Systems Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "No known restatement for FY2017"
+  },
+  {
+   "id": 28,
+   "company": "Akorn Inc.",
+   "risk_score": 60,
+   "knows_later_problems": true,
+   "basis": "Restated 2014 results with material weaknesses after the Hi-Tech acquisition; later data-integrity scandal"
+  }
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "seed": 20261314,
+ "model": "claude-opus-5-5",
+ "attempts": 1,
+ "complete": true,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "scores": [
+  {
+   "id": 1,
+   "company": "SAExploration Holdings, Inc.",
+   "risk_score": 92,
+   "knows_later_problems": true,
+   "basis": "Restated 2015-2018 over undisclosed related-party scheme; SEC fraud charges and criminal case against executives"
+  },
+  {
+   "id": 2,
+   "company": "EPAM Systems, Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues"
+  },
+  {
+   "id": 3,
+   "company": "theMaven, Inc.",
+   "risk_score": 60,
+   "knows_later_problems": true,
+   "basis": "Long-delayed 2018 10-K, material weaknesses, restated interim periods during acquisition integration"
+  },
+  {
+   "id": 4,
+   "company": "Synchronoss Technologies Inc.",
+   "risk_score": 65,
+   "knows_later_problems": true,
+   "basis": "SEC 2022 settlement covered misleading accounting from about 2013-2017; major restatement mostly 2015-2016"
+  },
+  {
+   "id": 5,
+   "company": "Air Products & Chemicals Inc.",
+   "risk_score": 4,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues"
+  },
+  {
+   "id": 6,
+   "company": "Ideanomics, Inc.",
+   "risk_score": 55,
+   "knows_later_problems": true,
+   "basis": "Later SEC charges for misleading statements (2019-2020 era), weak controls and later restatements; questionable revenue"
+  },
+  {
+   "id": 7,
+   "company": "Archer-Daniels-Midland Co.",
+   "risk_score": 50,
+   "knows_later_problems": true,
+   "basis": "Nutrition segment intersegment sales issue, segment restatement for 2018-2023, SEC/DOJ probes; consolidated totals largely unaffected"
+  },
+  {
+   "id": 8,
+   "company": "Ammo, Inc.",
+   "risk_score": 80,
+   "knows_later_problems": true,
+   "basis": "Internal investigation over undisclosed related party and control failures; restated FY2023; SEC scrutiny"
+  },
+  {
+   "id": 9,
+   "company": "Sysco Corp.",
+   "risk_score": 4,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues"
+  },
+  {
+   "id": 10,
+   "company": "Stryker Corp.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues"
+  },
+  {
+   "id": 11,
+   "company": "Latch, Inc.",
+   "risk_score": 85,
+   "knows_later_problems": true,
+   "basis": "Revenue recognition and control failures; restated 2021 and earlier; years of delinquent filings"
+  },
+  {
+   "id": 12,
+   "company": "Chs Inc.",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues"
+  },
+  {
+   "id": 13,
+   "company": "Revolution Lighting Technologies, Inc.",
+   "risk_score": 45,
+   "knows_later_problems": true,
+   "basis": "Later SEC case over improper bill-and-hold revenue (mainly 2016-2018); aggressive acquisition-driven growth"
+  },
+  {
+   "id": 14,
+   "company": "AerSale Corp.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Recent SPAC listing; no specific known restatement for 2021"
+  },
+  {
+   "id": 15,
+   "company": "Overseas Shipholding Group Inc.",
+   "risk_score": 85,
+   "knows_later_problems": true,
+   "basis": "2012 tax-related disclosure failure; restated 2009-2011 statements; bankruptcy and SEC/class actions"
+  },
+  {
+   "id": 16,
+   "company": "Bunge Ltd.",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues for 2022"
+  },
+  {
+   "id": 17,
+   "company": "National Presto Industries Inc.",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues"
+  },
+  {
+   "id": 18,
+   "company": "Baxter International Inc.",
+   "risk_score": 75,
+   "knows_later_problems": true,
+   "basis": "Intra-company FX transaction gains misstated 2014-2019; restatement and 2022 SEC settlement"
+  },
+  {
+   "id": 19,
+   "company": "Transatlantic Petroleum Ltd.",
+   "risk_score": 18,
+   "knows_later_problems": false,
+   "basis": "Small E&P with related-party dealings; no specific known restatement"
+  },
+  {
+   "id": 20,
+   "company": "WEX Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues"
+  },
+  {
+   "id": 21,
+   "company": "Tidewater Inc.",
+   "risk_score": 15,
+   "knows_later_problems": true,
+   "basis": "2010-2011 FCPA settlements (bribery via customs agent), not a major financial restatement"
+  },
+  {
+   "id": 22,
+   "company": "MSCI Inc.",
+   "risk_score": 4,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues"
+  },
+  {
+   "id": 23,
+   "company": "Brooks Automation Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known issues for this period (earlier options backdating unrelated)"
+  },
+  {
+   "id": 24,
+   "company": "Comscore, Inc.",
+   "risk_score": 40,
+   "knows_later_problems": true,
+   "basis": "SEC fraud charges and restatement for 2014-2016 revenue/nonmonetary transactions; 2013 just before the period"
+  },
+  {
+   "id": 25,
+   "company": "Manitex International, Inc.",
+   "risk_score": 30,
+   "knows_later_problems": true,
+   "basis": "Later restatement (around 2016-2017) over revenue recognition and controls; 2014 likely outside the main affected period"
+  },
+  {
+   "id": 26,
+   "company": "Orion Energy Systems, Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues for FY2015"
+  },
+  {
+   "id": 27,
+   "company": "Ppg Industries Inc.",
+   "risk_score": 55,
+   "knows_later_problems": true,
+   "basis": "2018 investigation into improper accrual reversals; restated 2016-2017; SEC charges against company and former controller"
+  },
+  {
+   "id": 28,
+   "company": "Dice Holdings, Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues"
+  }
+ ]
+}

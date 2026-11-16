@@ -1,0 +1,214 @@
+{
+ "seed": 20261305,
+ "model": "claude-opus-5-5",
+ "attempts": 1,
+ "complete": true,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "scores": [
+  {
+   "id": 1,
+   "company": "Hertz Global Holdings Inc.",
+   "risk_score": 90,
+   "knows_later_problems": true,
+   "basis": "Restated 2011-2013 in 2014-2015; SEC enforcement in 2018 over accounting during that period"
+  },
+  {
+   "id": 2,
+   "company": "Capstone Turbine Corp.",
+   "risk_score": 55,
+   "knows_later_problems": true,
+   "basis": "Class actions and SEC scrutiny over distributor (BPC) sales and backlog around FY2015; restatement uncertain"
+  },
+  {
+   "id": 3,
+   "company": "DarkPulse, Inc.",
+   "risk_score": 50,
+   "knows_later_problems": false,
+   "basis": "Microcap with weak controls and promotional history; no specific restatement for 2018 recalled"
+  },
+  {
+   "id": 4,
+   "company": "PARETEUM Corp.",
+   "risk_score": 95,
+   "knows_later_problems": true,
+   "basis": "Restated 2018 and 2019 revenue; SEC fraud charges against company and executives"
+  },
+  {
+   "id": 5,
+   "company": "Alliance One International, Inc.",
+   "risk_score": 40,
+   "knows_later_problems": false,
+   "basis": "Earlier FCPA issues and some control weaknesses; no clear FY2013 restatement recalled"
+  },
+  {
+   "id": 6,
+   "company": "GTT Communications, Inc.",
+   "risk_score": 90,
+   "knows_later_problems": true,
+   "basis": "2021 audit committee probe led to restatement of 2018-2020; SEC charges; bankruptcy"
+  },
+  {
+   "id": 7,
+   "company": "Superior Uniform Group Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues"
+  },
+  {
+   "id": 8,
+   "company": "Consolidated Communications Holdings, Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues"
+  },
+  {
+   "id": 9,
+   "company": "Becton Dickinson & Co.",
+   "risk_score": 20,
+   "knows_later_problems": true,
+   "basis": "SEC 2024 settlement over Alaris pump disclosures in 2019-2020; a disclosure issue, not a known restatement"
+  },
+  {
+   "id": 10,
+   "company": "Boston Scientific Corp.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues for 2019"
+  },
+  {
+   "id": 11,
+   "company": "Cherokee Inc.",
+   "risk_score": 25,
+   "knows_later_problems": false,
+   "basis": "Financial distress and impairments, but no known misstatement"
+  },
+  {
+   "id": 12,
+   "company": "Akorn Inc.",
+   "risk_score": 60,
+   "knows_later_problems": true,
+   "basis": "Material weaknesses and restated quarters around 2014; later data-integrity scandal"
+  },
+  {
+   "id": 13,
+   "company": "PDS Biotechnology Corp.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "Clinical-stage biotech with simple financials; no known issues"
+  },
+  {
+   "id": 14,
+   "company": "UNITED THERAPEUTICS Corp.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues"
+  },
+  {
+   "id": 15,
+   "company": "Agilysys Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues"
+  },
+  {
+   "id": 16,
+   "company": "Usa Technologies Inc.",
+   "risk_score": 92,
+   "knows_later_problems": true,
+   "basis": "Restated FY2017-2018 after audit committee investigation; SEC charges against former executives"
+  },
+  {
+   "id": 17,
+   "company": "Santander Consumer USA Holdings Inc.",
+   "risk_score": 75,
+   "knows_later_problems": true,
+   "basis": "Restated 2014-2015 for credit loss/TDR accounting errors; SEC enforcement over loss-model disclosures"
+  },
+  {
+   "id": 18,
+   "company": "Adamis Pharmaceuticals Corp.",
+   "risk_score": 60,
+   "knows_later_problems": true,
+   "basis": "Restated 2020-era interim periods; SEC investigation and material weaknesses"
+  },
+  {
+   "id": 19,
+   "company": "Weight Watchers International Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues"
+  },
+  {
+   "id": 20,
+   "company": "Quantum Corp.",
+   "risk_score": 88,
+   "knows_later_problems": true,
+   "basis": "Restated FY2015-2017 revenue recognition; SEC charges in 2019"
+  },
+  {
+   "id": 21,
+   "company": "Andersons Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues"
+  },
+  {
+   "id": 22,
+   "company": "A10 Networks, Inc.",
+   "risk_score": 40,
+   "knows_later_problems": true,
+   "basis": "2018 audit committee revenue-recognition investigation of earlier periods; mainly later years"
+  },
+  {
+   "id": 23,
+   "company": "Igen Networks Corp.",
+   "risk_score": 45,
+   "knows_later_problems": false,
+   "basis": "Tiny microcap with weak controls; no specific issues recalled"
+  },
+  {
+   "id": 24,
+   "company": "Stonemor Partners L.P.",
+   "risk_score": 65,
+   "knows_later_problems": true,
+   "basis": "Later restatements, material weaknesses, and deferred revenue/merchandise trust accounting concerns"
+  },
+  {
+   "id": 25,
+   "company": "Omnicom Group Inc.",
+   "risk_score": 8,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues for 2011"
+  },
+  {
+   "id": 26,
+   "company": "Mitek Systems Inc.",
+   "risk_score": 12,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues"
+  },
+  {
+   "id": 27,
+   "company": "Nelnet Inc.",
+   "risk_score": 10,
+   "knows_later_problems": false,
+   "basis": "No known accounting issues for 2014"
+  },
+  {
+   "id": 28,
+   "company": "Power Solutions International, Inc.",
+   "risk_score": 95,
+   "knows_later_problems": true,
+   "basis": "Restated 2014-2016 for revenue fraud; SEC and DOJ charges against executives"
+  }
+ ]
+}

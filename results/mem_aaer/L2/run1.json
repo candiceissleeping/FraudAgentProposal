@@ -1,0 +1,214 @@
+{
+ "seed": 20261311,
+ "model": "claude-opus-5-5",
+ "attempts": 1,
+ "complete": true,
+ "verification": {
+  "tools_empty": true,
+  "mcp_empty": true,
+  "no_tool_blocks": true,
+  "server_web_zero": true,
+  "no_subagents": true,
+  "single_turn": true,
+  "completed": true,
+  "all_pass": true
+ },
+ "scores": [
+  {
+   "id": 1,
+   "company": "Sysco Corp.",
+   "risk_score": 4,
+   "knows_later_problems": false,
+   "basis": "Large, stable distributor; I know of no restatement or SEC accounting action for FY2014."
+  },
+  {
+   "id": 2,
+   "company": "Brooks Automation Inc.",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "I know of no accounting enforcement or restatement for FY2014."
+  },
+  {
+   "id": 3,
+   "company": "EPAM Systems, Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "I know of no accounting problems for 2013."
+  },
+  {
+   "id": 4,
+   "company": "Ideanomics, Inc.",
+   "risk_score": 70,
+   "knows_later_problems": true,
+   "basis": "History of governance and disclosure problems; SEC later charged the company and executives, and it later restated financials; a microcap with aggressive accounting."
+  },
+  {
+   "id": 5,
+   "company": "Ammo, Inc.",
+   "risk_score": 80,
+   "knows_later_problems": true,
+   "basis": "Internal investigation into undisclosed related-party control persons and accounting for the FY2023 period; delayed filings, restatement and SEC scrutiny."
+  },
+  {
+   "id": 6,
+   "company": "Baxter International Inc.",
+   "risk_score": 75,
+   "knows_later_problems": true,
+   "basis": "Intra-company FX transactions misstated pre-tax income over 2014–2019; restatement and an SEC enforcement action in 2022."
+  },
+  {
+   "id": 7,
+   "company": "Air Products & Chemicals Inc.",
+   "risk_score": 4,
+   "knows_later_problems": false,
+   "basis": "I know of no accounting issues."
+  },
+  {
+   "id": 8,
+   "company": "Tidewater Inc.",
+   "risk_score": 12,
+   "knows_later_problems": false,
+   "basis": "Prior FCPA settlement (2010) but no known financial misstatement for FY2011."
+  },
+  {
+   "id": 9,
+   "company": "Ppg Industries Inc.",
+   "risk_score": 75,
+   "knows_later_problems": true,
+   "basis": "Improper accrual and reserve accounting led to restatement of 2016–2017; SEC enforcement in 2019."
+  },
+  {
+   "id": 10,
+   "company": "Stryker Corp.",
+   "risk_score": 10,
+   "knows_later_problems": true,
+   "basis": "2018 SEC FCPA books-and-records/internal-controls settlement, but no material misstatement of consolidated financials."
+  },
+  {
+   "id": 11,
+   "company": "AerSale Corp.",
+   "risk_score": 12,
+   "knows_later_problems": false,
+   "basis": "Recent SPAC listing; I know of no restatement for 2021."
+  },
+  {
+   "id": 12,
+   "company": "Revolution Lighting Technologies, Inc.",
+   "risk_score": 50,
+   "knows_later_problems": true,
+   "basis": "SEC later charged the company and CEO over sham bill-and-hold revenue (mainly 2017–2018); earlier years carry an elevated culture risk."
+  },
+  {
+   "id": 13,
+   "company": "Bunge Ltd.",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "I know of no accounting issues for 2022."
+  },
+  {
+   "id": 14,
+   "company": "Latch, Inc.",
+   "risk_score": 85,
+   "knows_later_problems": true,
+   "basis": "Revenue recognition errors; the company could not file and later restated 2021 and subsequent periods; delisted."
+  },
+  {
+   "id": 15,
+   "company": "MSCI Inc.",
+   "risk_score": 4,
+   "knows_later_problems": false,
+   "basis": "I know of no accounting issues."
+  },
+  {
+   "id": 16,
+   "company": "Manitex International, Inc.",
+   "risk_score": 40,
+   "knows_later_problems": true,
+   "basis": "Later restated 2016–2017 for certain sale transactions and had material weaknesses; 2014 is less directly implicated."
+  },
+  {
+   "id": 17,
+   "company": "Orion Energy Systems, Inc.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Small cap with losses; I know of no restatement for FY2015."
+  },
+  {
+   "id": 18,
+   "company": "Chs Inc.",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "I know of no accounting issues for FY2014."
+  },
+  {
+   "id": 19,
+   "company": "Overseas Shipholding Group Inc.",
+   "risk_score": 85,
+   "knows_later_problems": true,
+   "basis": "Tax accounting errors led to a 2012 announcement that 2009–2011 statements could not be relied on, followed by bankruptcy and restatement."
+  },
+  {
+   "id": 20,
+   "company": "Archer-Daniels-Midland Co.",
+   "risk_score": 55,
+   "knows_later_problems": true,
+   "basis": "Nutrition segment intersegment pricing issue; restated segment data for 2018–2023; SEC/DOJ inquiries; consolidated totals largely unaffected."
+  },
+  {
+   "id": 21,
+   "company": "National Presto Industries Inc.",
+   "risk_score": 6,
+   "knows_later_problems": false,
+   "basis": "Old (2000s) investment-company dispute with the SEC; nothing for 2022."
+  },
+  {
+   "id": 22,
+   "company": "theMaven, Inc.",
+   "risk_score": 60,
+   "knows_later_problems": true,
+   "basis": "The 2018 10-K was filed very late amid material weaknesses and acquisition accounting complexity; long-delinquent filer."
+  },
+  {
+   "id": 23,
+   "company": "Dice Holdings, Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "I know of no accounting issues."
+  },
+  {
+   "id": 24,
+   "company": "Transatlantic Petroleum Ltd.",
+   "risk_score": 15,
+   "knows_later_problems": false,
+   "basis": "Small E&P in Turkey with related-party dealings, but I know of no restatement."
+  },
+  {
+   "id": 25,
+   "company": "WEX Inc.",
+   "risk_score": 5,
+   "knows_later_problems": false,
+   "basis": "I know of no accounting issues."
+  },
+  {
+   "id": 26,
+   "company": "Synchronoss Technologies Inc.",
+   "risk_score": 65,
+   "knows_later_problems": true,
+   "basis": "Restated 2015–2016 revenue; SEC 2022 settlement over improper revenue recognition spanning roughly 2013–2017."
+  },
+  {
+   "id": 27,
+   "company": "Comscore, Inc.",
+   "risk_score": 55,
+   "knows_later_problems": true,
+   "basis": "Nonmonetary transaction and revenue accounting led to a restatement (2014–2016) and SEC fraud charges in 2019; 2013 is adjacent to the affected period."
+  },
+  {
+   "id": 28,
+   "company": "SAExploration Holdings, Inc.",
+   "risk_score": 92,
+   "knows_later_problems": true,
+   "basis": "Restated 2015–2018 for undisclosed related-party transactions; SEC fraud charges in 2020 and criminal case against executives."
+  }
+ ]
+}
