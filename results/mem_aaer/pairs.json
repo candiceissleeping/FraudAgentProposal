@@ -1,0 +1,1048 @@
+[
+ {
+  "pair": "E01",
+  "src": "round8",
+  "aaer": "AAER-4604",
+  "case": {
+   "pid": "E01T",
+   "cik": 1826000,
+   "fy": "2021-12-31",
+   "name_fy": "Latch, Inc.",
+   "name": "Latch, Inc.",
+   "assets": 449601000,
+   "f402_near": [
+    "2023-01-23",
+    "2022-08-25",
+    "2021-04-30"
+   ]
+  },
+  "control": {
+   "pid": "E01C",
+   "cik": 1754170,
+   "fy": "2021-12-31",
+   "name_fy": "AerSale Corp",
+   "name": "AerSale Corp.",
+   "assets": 487485000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E02",
+  "src": "round8",
+  "aaer": "AAER-4582",
+  "case": {
+   "pid": "E02T",
+   "cik": 7084,
+   "fy": "2022-12-31",
+   "name_fy": "Archer-Daniels-Midland Co",
+   "name": "Archer-Daniels-Midland Co.",
+   "assets": 59774000000,
+   "f402_near": [
+    "2024-11-05"
+   ]
+  },
+  "control": {
+   "pid": "E02C",
+   "cik": 1144519,
+   "fy": "2022-12-31",
+   "name_fy": "BUNGELTD",
+   "name": "Bunge Ltd.",
+   "assets": 24580000000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E03",
+  "src": "round8",
+  "aaer": "AAER-4581",
+  "case": {
+   "pid": "E03T",
+   "cik": 1015383,
+   "fy": "2023-03-31",
+   "name_fy": "AMMO, INC.",
+   "name": "Ammo, Inc.",
+   "assets": 413195143,
+   "f402_near": [
+    "2025-02-25",
+    "2024-10-03"
+   ]
+  },
+  "control": {
+   "pid": "E03C",
+   "cik": 80172,
+   "fy": "2022-12-31",
+   "name_fy": "NATIONAL PRESTO INDUSTRIES INC",
+   "name": "National Presto Industries Inc.",
+   "assets": 411847000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E04",
+  "src": "round8",
+  "aaer": "AAER-4555",
+  "case": {
+   "pid": "E04T",
+   "cik": 887247,
+   "fy": "2020-12-31",
+   "name_fy": "Adamis Pharmaceuticals Corp",
+   "name": "Adamis Pharmaceuticals Corp.",
+   "assets": 30867462,
+   "f402_near": [
+    "2021-04-15"
+   ]
+  },
+  "control": {
+   "pid": "E04C",
+   "cik": 1472091,
+   "fy": "2020-12-31",
+   "name_fy": "PDS Biotechnology Corp",
+   "name": "PDS Biotechnology Corp.",
+   "assets": 30890379,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E05",
+  "src": "round8",
+  "aaer": "AAER-4547",
+  "case": {
+   "pid": "E05T",
+   "cik": 10795,
+   "fy": "2019-09-30",
+   "name_fy": "BECTON DICKINSON & CO",
+   "name": "Becton Dickinson & Co.",
+   "assets": 51765000000,
+   "f402_near": []
+  },
+  "control": {
+   "pid": "E05C",
+   "cik": 885725,
+   "fy": "2019-12-31",
+   "name_fy": "BOSTON SCIENTIFIC CORP",
+   "name": "Boston Scientific Corp.",
+   "assets": 30565000000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E06",
+  "src": "round8",
+  "aaer": "AAER-4512",
+  "case": {
+   "pid": "E06T",
+   "cik": 837852,
+   "fy": "2018-12-31",
+   "name_fy": "IDEANOMICS, INC.",
+   "name": "Ideanomics, Inc.",
+   "assets": 94235112,
+   "f402_near": [
+    "2021-11-22",
+    "2021-11-16"
+   ]
+  },
+  "control": {
+   "pid": "E06C",
+   "cik": 894871,
+   "fy": "2018-12-31",
+   "name_fy": "theMaven, Inc.",
+   "name": "theMaven, Inc.",
+   "assets": 37157803,
+   "f402_near": [
+    "2019-08-16"
+   ]
+  }
+ },
+ {
+  "pair": "E07",
+  "src": "round8",
+  "aaer": "AAER-4510",
+  "case": {
+   "pid": "E07T",
+   "cik": 889348,
+   "fy": "2018-12-31",
+   "name_fy": "CPI AEROSTRUCTURES INC",
+   "name": "Cpi Aerostructures Inc.",
+   "assets": 47438393,
+   "f402_near": [
+    "2021-11-17",
+    "2021-06-07",
+    "2020-02-14",
+    "2019-02-08"
+   ]
+  },
+  "control": {
+   "pid": "E07C",
+   "cik": 30305,
+   "fy": "2018-12-31",
+   "name_fy": "DUCOMMUN INC /DE/",
+   "name": "Ducommun Inc.",
+   "assets": 644739000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E08",
+  "src": "round8",
+  "aaer": "AAER-4459",
+  "case": {
+   "pid": "E08T",
+   "cik": 1315255,
+   "fy": "2019-12-31",
+   "name_fy": "GTT Communications, Inc.",
+   "name": "GTT Communications, Inc.",
+   "assets": 4757700000,
+   "f402_near": [
+    "2020-12-22"
+   ]
+  },
+  "control": {
+   "pid": "E08C",
+   "cik": 1304421,
+   "fy": "2019-12-31",
+   "name_fy": "Consolidated Communications Holdings, Inc.",
+   "name": "Consolidated Communications Holdings, Inc.",
+   "assets": 3390277000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E09",
+  "src": "round8",
+  "aaer": "AAER-4452",
+  "case": {
+   "pid": "E09T",
+   "cik": 1093691,
+   "fy": "2019-12-31",
+   "name_fy": "PLUG POWER INC",
+   "name": "Plug Power Inc.",
+   "assets": 659513000,
+   "f402_near": [
+    "2021-03-16"
+   ]
+  },
+  "control": {
+   "pid": "E09C",
+   "cik": 1489096,
+   "fy": "2020-03-31",
+   "name_fy": "Thermon Group Holdings, Inc.",
+   "name": "Thermon Group Holdings, Inc.",
+   "assets": 620905000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E10",
+  "src": "round8",
+  "aaer": "AAER-4441",
+  "case": {
+   "pid": "E10T",
+   "cik": 1550603,
+   "fy": "2020-09-30",
+   "name_fy": "MALVERN BANCORP, INC.",
+   "name": "Malvern Bancorp, Inc.",
+   "assets": 1208275000,
+   "f402_near": [
+    "2021-05-18",
+    "2021-02-16",
+    "2021-01-20"
+   ]
+  },
+  "control": {
+   "pid": "E10C",
+   "cik": 1010470,
+   "fy": "2020-06-30",
+   "name_fy": "PROVIDENT FINANCIAL HOLDINGS INC",
+   "name": "Provident Financial Holdings Inc.",
+   "assets": 1176837000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E11",
+  "src": "round8",
+  "aaer": "AAER-4417",
+  "case": {
+   "pid": "E11T",
+   "cik": 896429,
+   "fy": "2017-06-30",
+   "name_fy": "USA TECHNOLOGIES INC",
+   "name": "Usa Technologies Inc.",
+   "assets": 67544000,
+   "f402_near": [
+    "2020-02-18",
+    "2019-10-09",
+    "2019-02-06"
+   ]
+  },
+  "control": {
+   "pid": "E11C",
+   "cik": 807863,
+   "fy": "2017-09-30",
+   "name_fy": "MITEK SYSTEMS INC",
+   "name": "Mitek Systems Inc.",
+   "assets": 71719000,
+   "f402_near": [
+    "2022-10-27"
+   ]
+  }
+ },
+ {
+  "pair": "E12",
+  "src": "round8",
+  "aaer": "AAER-4402",
+  "case": {
+   "pid": "E12T",
+   "cik": 1514732,
+   "fy": "2018-12-31",
+   "name_fy": "SAExploration Holdings, Inc.",
+   "name": "SAExploration Holdings, Inc.",
+   "assets": 102347000,
+   "f402_near": [
+    "2019-08-16"
+   ]
+  },
+  "control": {
+   "pid": "E12C",
+   "cik": 1092289,
+   "fy": "2018-12-31",
+   "name_fy": "TRANSATLANTIC PETROLEUM LTD.",
+   "name": "Transatlantic Petroleum Ltd.",
+   "assets": 132600000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E13",
+  "src": "round8",
+  "aaer": "AAER-4390",
+  "case": {
+   "pid": "E13T",
+   "cik": 1604643,
+   "fy": "2018-09-30",
+   "name_fy": "Evoqua Water Technologies Corp.",
+   "name": "Evoqua Water Technologies Corp.",
+   "assets": 1663617000,
+   "f402_near": []
+  },
+  "control": {
+   "pid": "E13C",
+   "cik": 1650962,
+   "fy": "2018-12-31",
+   "name_fy": "Welbilt, Inc.",
+   "name": "Welbilt, Inc.",
+   "assets": 2075000000,
+   "f402_near": [
+    "2018-11-05"
+   ]
+  }
+ },
+ {
+  "pair": "E14",
+  "src": "round8",
+  "aaer": "AAER-4373",
+  "case": {
+   "pid": "E14T",
+   "cik": 355811,
+   "fy": "2017-12-31",
+   "name_fy": "GENTEX CORP",
+   "name": "Gentex Corp.",
+   "assets": 2352053912,
+   "f402_near": []
+  },
+  "control": {
+   "pid": "E14C",
+   "cik": 1111335,
+   "fy": "2017-12-31",
+   "name_fy": "VISTEON CORP",
+   "name": "Visteon Corp.",
+   "assets": 2304000000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E15",
+  "src": "round9f",
+  "aaer": "AAER-3855",
+  "case": {
+   "pid": "E15T",
+   "cik": 75208,
+   "fy": "2010-12-31",
+   "name_fy": "OVERSEAS SHIPHOLDING GROUP INC",
+   "name": "Overseas Shipholding Group Inc.",
+   "assets": 3854237000,
+   "f402_near": [
+    "2012-10-22"
+   ]
+  },
+  "control": {
+   "pid": "E15C",
+   "cik": 98222,
+   "fy": "2011-03-31",
+   "name_fy": "TIDEWATER INC",
+   "name": "Tidewater Inc.",
+   "assets": 3748116000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E16",
+  "src": "round9f",
+  "aaer": "AAER-3905",
+  "case": {
+   "pid": "E16T",
+   "cik": 1360886,
+   "fy": "2014-12-31",
+   "name_fy": "OSIRIS THERAPEUTICS, INC.",
+   "name": "Osiris Therapeutics, Inc.",
+   "assets": 88450000,
+   "f402_near": [
+    "2016-03-15",
+    "2015-11-20"
+   ]
+  },
+  "control": {
+   "pid": "E16C",
+   "cik": 1006281,
+   "fy": "2014-12-31",
+   "name_fy": "Protalix BioTherapeutics, Inc.",
+   "name": "Protalix BioTherapeutics, Inc.",
+   "assets": 78357000,
+   "f402_near": [
+    "2019-03-18"
+   ]
+  }
+ },
+ {
+  "pair": "E17",
+  "src": "round9f",
+  "aaer": "AAER-3931",
+  "case": {
+   "pid": "E17T",
+   "cik": 3116,
+   "fy": "2014-12-31",
+   "name_fy": "AKORN INC",
+   "name": "Akorn Inc.",
+   "assets": 1893905000,
+   "f402_near": [
+    "2016-05-10",
+    "2015-04-24",
+    "2015-03-17"
+   ]
+  },
+  "control": {
+   "pid": "E17C",
+   "cik": 1082554,
+   "fy": "2014-12-31",
+   "name_fy": "UNITED THERAPEUTICS Corp",
+   "name": "UNITED THERAPEUTICS Corp.",
+   "assets": 1884410000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E18",
+  "src": "round9f",
+  "aaer": "AAER-3932",
+  "case": {
+   "pid": "E18T",
+   "cik": 319815,
+   "fy": "2011-12-31",
+   "name_fy": "MAXWELL TECHNOLOGIES INC",
+   "name": "Maxwell Technologies Inc.",
+   "assets": 154746000,
+   "f402_near": [
+    "2013-03-07"
+   ]
+  },
+  "control": {
+   "pid": "E18C",
+   "cik": 875657,
+   "fy": "2011-12-31",
+   "name_fy": "ULTRALIFE CORP",
+   "name": "Ultralife Corp.",
+   "assets": 100815000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E19",
+  "src": "round9f",
+  "aaer": "AAER-3946",
+  "case": {
+   "pid": "E19T",
+   "cik": 1357615,
+   "fy": "2013-12-31",
+   "name_fy": "KBR, INC.",
+   "name": "Kbr, Inc.",
+   "assets": 5438000000,
+   "f402_near": [
+    "2014-05-05"
+   ]
+  },
+  "control": {
+   "pid": "E19C",
+   "cik": 1124198,
+   "fy": "2013-12-31",
+   "name_fy": "FLUOR CORP",
+   "name": "Fluor Corp.",
+   "assets": 8323850000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E20",
+  "src": "round9f",
+  "aaer": "AAER-3993",
+  "case": {
+   "pid": "E20T",
+   "cik": 939930,
+   "fy": "2013-03-31",
+   "name_fy": "ALLIANCE ONE INTERNATIONAL, INC.",
+   "name": "Alliance One International, Inc.",
+   "assets": 1895373000,
+   "f402_near": [
+    "2016-02-19"
+   ]
+  },
+  "control": {
+   "pid": "E20C",
+   "cik": 821026,
+   "fy": "2012-12-31",
+   "name_fy": "ANDERSONS INC",
+   "name": "Andersons Inc.",
+   "assets": 2182304000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E21",
+  "src": "round9f",
+  "aaer": "AAER-4002",
+  "case": {
+   "pid": "E21T",
+   "cik": 1580608,
+   "fy": "2014-12-31",
+   "name_fy": "Santander Consumer USA Holdings Inc.",
+   "name": "Santander Consumer USA Holdings Inc.",
+   "assets": 32368751000,
+   "f402_near": [
+    "2016-09-23"
+   ]
+  },
+  "control": {
+   "pid": "E21C",
+   "cik": 1258602,
+   "fy": "2014-12-31",
+   "name_fy": "NELNET INC",
+   "name": "Nelnet Inc.",
+   "assets": 30027739000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E22",
+  "src": "round9f",
+  "aaer": "AAER-4012",
+  "case": {
+   "pid": "E22T",
+   "cik": 1364479,
+   "fy": "2011-12-31",
+   "name_fy": "HERTZ GLOBAL HOLDINGS INC",
+   "name": "Hertz Global Holdings Inc.",
+   "assets": 17673527000,
+   "f402_near": [
+    "2015-11-09",
+    "2014-11-14",
+    "2014-06-06"
+   ]
+  },
+  "control": {
+   "pid": "E22C",
+   "cik": 29989,
+   "fy": "2011-12-31",
+   "name_fy": "OMNICOM GROUP INC",
+   "name": "Omnicom Group Inc.",
+   "assets": 20505400000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E23",
+  "src": "round9f",
+  "aaer": "AAER-4091",
+  "case": {
+   "pid": "E23T",
+   "cik": 1158172,
+   "fy": "2013-12-31",
+   "name_fy": "COMSCORE, INC.",
+   "name": "Comscore, Inc.",
+   "assets": 363413000,
+   "f402_near": [
+    "2016-09-15"
+   ]
+  },
+  "control": {
+   "pid": "E23C",
+   "cik": 1393883,
+   "fy": "2013-12-31",
+   "name_fy": "DICE HOLDINGS, INC.",
+   "name": "Dice Holdings, Inc.",
+   "assets": 420641000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E24",
+  "src": "round9f",
+  "aaer": "AAER-4094",
+  "case": {
+   "pid": "E24T",
+   "cik": 79879,
+   "fy": "2016-12-31",
+   "name_fy": "PPG INDUSTRIES INC",
+   "name": "Ppg Industries Inc.",
+   "assets": 15771000000,
+   "f402_near": [
+    "2018-06-28",
+    "2018-05-10"
+   ]
+  },
+  "control": {
+   "pid": "E24C",
+   "cik": 2969,
+   "fy": "2016-09-30",
+   "name_fy": "AIR PRODUCTS & CHEMICALS INC /DE/",
+   "name": "Air Products & Chemicals Inc.",
+   "assets": 18028600000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E25",
+  "src": "round9f",
+  "aaer": "AAER-4107",
+  "case": {
+   "pid": "E25T",
+   "cik": 1286131,
+   "fy": "2013-12-31",
+   "name_fy": "STONEMOR PARTNERS LP",
+   "name": "Stonemor Partners L.P.",
+   "assets": 1475405000,
+   "f402_near": [
+    "2017-02-27",
+    "2016-11-09",
+    "2016-09-02"
+   ]
+  },
+  "control": {
+   "pid": "E25C",
+   "cik": 105319,
+   "fy": "2013-12-28",
+   "name_fy": "WEIGHT WATCHERS INTERNATIONAL INC",
+   "name": "Weight Watchers International Inc.",
+   "assets": 1405926000,
+   "f402_near": [
+    "2015-05-05"
+   ]
+  }
+ },
+ {
+  "pair": "E26",
+  "src": "round9f",
+  "aaer": "AAER-4110",
+  "case": {
+   "pid": "E26T",
+   "cik": 709283,
+   "fy": "2016-03-31",
+   "name_fy": "QUANTUM CORP /DE/",
+   "name": "Quantum Corp.",
+   "assets": 230600000,
+   "f402_near": [
+    "2018-09-14"
+   ]
+  },
+  "control": {
+   "pid": "E26C",
+   "cik": 1580808,
+   "fy": "2015-12-31",
+   "name_fy": "A10 Networks, Inc.",
+   "name": "A10 Networks, Inc.",
+   "assets": 189892000,
+   "f402_near": [
+    "2018-07-02"
+   ]
+  }
+ },
+ {
+  "pair": "E27",
+  "src": "round9f",
+  "aaer": "AAER-4149",
+  "case": {
+   "pid": "E27T",
+   "cik": 1507385,
+   "fy": "2013-12-31",
+   "name_fy": "American Realty Capital Properties, Inc.",
+   "name": "American Realty Capital Properties, Inc.",
+   "assets": 7809083000,
+   "f402_near": [
+    "2014-10-29"
+   ]
+  },
+  "control": {
+   "pid": "E27C",
+   "cik": 1035443,
+   "fy": "2013-12-31",
+   "name_fy": "ALEXANDRIA REAL ESTATE EQUITIES INC",
+   "name": "Alexandria Real Estate Equities Inc.",
+   "assets": 7529764000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E28",
+  "src": "round9f",
+  "aaer": "AAER-4161",
+  "case": {
+   "pid": "E28T",
+   "cik": 1375365,
+   "fy": "2015-06-30",
+   "name_fy": "Super Micro Computer, Inc.",
+   "name": "Super Micro Computer, Inc.",
+   "assets": 1089809000,
+   "f402_near": [
+    "2018-11-15"
+   ]
+  },
+  "control": {
+   "pid": "E28C",
+   "cik": 320193,
+   "fy": "2015-09-26",
+   "name_fy": "APPLE INC",
+   "name": "Apple Inc.",
+   "assets": 290345000000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E29",
+  "src": "round9f",
+  "aaer": "AAER-4164",
+  "case": {
+   "pid": "E29T",
+   "cik": 908255,
+   "fy": "2012-12-31",
+   "name_fy": "BORGWARNER INC",
+   "name": "Borgwarner Inc.",
+   "assets": 6400800000,
+   "f402_near": []
+  },
+  "control": {
+   "pid": "E29C",
+   "cik": 1034670,
+   "fy": "2012-12-31",
+   "name_fy": "AUTOLIV INC",
+   "name": "Autoliv Inc.",
+   "assets": 6570300000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E30",
+  "src": "round9f",
+  "aaer": "AAER-4169",
+  "case": {
+   "pid": "E30T",
+   "cik": 1137091,
+   "fy": "2014-12-31",
+   "name_fy": "POWER SOLUTIONS INTERNATIONAL, INC.",
+   "name": "Power Solutions International, Inc.",
+   "assets": 266945000,
+   "f402_near": [
+    "2018-10-03",
+    "2017-04-07",
+    "2017-02-03",
+    "2017-01-05"
+   ]
+  },
+  "control": {
+   "pid": "E30C",
+   "cik": 1009759,
+   "fy": "2015-03-31",
+   "name_fy": "CAPSTONE TURBINE CORP",
+   "name": "Capstone Turbine Corp.",
+   "assets": 78927000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E31",
+  "src": "round9f",
+  "aaer": "AAER-4170",
+  "case": {
+   "pid": "E31T",
+   "cik": 917523,
+   "fy": "2014-12-31",
+   "name_fy": "Revolution Lighting Technologies, Inc.",
+   "name": "Revolution Lighting Technologies, Inc.",
+   "assets": 126542000,
+   "f402_near": [
+    "2019-05-08",
+    "2018-12-11"
+   ]
+  },
+  "control": {
+   "pid": "E31C",
+   "cik": 1409375,
+   "fy": "2015-03-31",
+   "name_fy": "ORION ENERGY SYSTEMS, INC.",
+   "name": "Orion Energy Systems, Inc.",
+   "assets": 87805000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E32",
+  "src": "round9f",
+  "aaer": "AAER-4175",
+  "case": {
+   "pid": "E32T",
+   "cik": 715787,
+   "fy": "2016-01-03",
+   "name_fy": "INTERFACE INC",
+   "name": "Interface Inc.",
+   "assets": 766472000,
+   "f402_near": []
+  },
+  "control": {
+   "pid": "E32C",
+   "cik": 819793,
+   "fy": "2015-12-31",
+   "name_fy": "ALBANY INTERNATIONAL CORP /DE/",
+   "name": "Albany International Corp.",
+   "assets": 1009562000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E33",
+  "src": "round9f",
+  "aaer": "AAER-4177",
+  "case": {
+   "pid": "E33T",
+   "cik": 1302028,
+   "fy": "2014-12-31",
+   "name_fy": "Manitex International, Inc.",
+   "name": "Manitex International, Inc.",
+   "assets": 314267000,
+   "f402_near": [
+    "2017-11-06"
+   ]
+  },
+  "control": {
+   "pid": "E33C",
+   "cik": 933974,
+   "fy": "2014-09-30",
+   "name_fy": "BROOKS AUTOMATION INC",
+   "name": "Brooks Automation Inc.",
+   "assets": 778038000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E34",
+  "src": "round9f",
+  "aaer": "AAER-4199",
+  "case": {
+   "pid": "E34T",
+   "cik": 844161,
+   "fy": "2018-02-03",
+   "name_fy": "CHEROKEE INC",
+   "name": "Cherokee Inc.",
+   "assets": 96932000,
+   "f402_near": []
+  },
+  "control": {
+   "pid": "E34C",
+   "cik": 95574,
+   "fy": "2017-12-31",
+   "name_fy": "SUPERIOR UNIFORM GROUP INC",
+   "name": "Superior Uniform Group Inc.",
+   "assets": 218938000,
+   "f402_near": [
+    "2022-03-23"
+   ]
+  }
+ },
+ {
+  "pair": "E35",
+  "src": "round9f",
+  "aaer": "AAER-4216",
+  "case": {
+   "pid": "E35T",
+   "cik": 1393540,
+   "fy": "2018-12-31",
+   "name_fy": "IGEN NETWORKS CORP",
+   "name": "Igen Networks Corp.",
+   "assets": 651575,
+   "f402_near": []
+  },
+  "control": {
+   "pid": "E35C",
+   "cik": 866439,
+   "fy": "2018-12-31",
+   "name_fy": "DarkPulse, Inc.",
+   "name": "DarkPulse, Inc.",
+   "assets": 630651,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E36",
+  "src": "round9f",
+  "aaer": "AAER-4247",
+  "case": {
+   "pid": "E36T",
+   "cik": 1084384,
+   "fy": "2018-12-31",
+   "name_fy": "PARETEUM Corp",
+   "name": "PARETEUM Corp.",
+   "assets": 158168000,
+   "f402_near": [
+    "2021-03-08",
+    "2019-10-21"
+   ]
+  },
+  "control": {
+   "pid": "E36C",
+   "cik": 78749,
+   "fy": "2019-03-31",
+   "name_fy": "AGILYSYS INC",
+   "name": "Agilysys Inc.",
+   "assets": 163591000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E37",
+  "src": "round9f",
+  "aaer": "AAER-4275",
+  "case": {
+   "pid": "E37T",
+   "cik": 1309108,
+   "fy": "2013-12-31",
+   "name_fy": "WEX Inc.",
+   "name": "WEX Inc.",
+   "assets": 3432278000,
+   "f402_near": []
+  },
+  "control": {
+   "pid": "E37C",
+   "cik": 1408198,
+   "fy": "2013-12-31",
+   "name_fy": "MSCI Inc.",
+   "name": "MSCI Inc.",
+   "assets": 3136115000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E38",
+  "src": "round9f",
+  "aaer": "AAER-4283",
+  "case": {
+   "pid": "E38T",
+   "cik": 10456,
+   "fy": "2017-12-31",
+   "name_fy": "BAXTER INTERNATIONAL INC",
+   "name": "Baxter International Inc.",
+   "assets": 17111000000,
+   "f402_near": [
+    "2020-02-13"
+   ]
+  },
+  "control": {
+   "pid": "E38C",
+   "cik": 310764,
+   "fy": "2017-12-31",
+   "name_fy": "STRYKER CORP",
+   "name": "Stryker Corp.",
+   "assets": 22197000000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E39",
+  "src": "round9f",
+  "aaer": "AAER-4302",
+  "case": {
+   "pid": "E39T",
+   "cik": 1131554,
+   "fy": "2013-12-31",
+   "name_fy": "SYNCHRONOSS TECHNOLOGIES INC",
+   "name": "Synchronoss Technologies Inc.",
+   "assets": 527019000,
+   "f402_near": [
+    "2017-10-12",
+    "2017-06-13"
+   ]
+  },
+  "control": {
+   "pid": "E39C",
+   "cik": 1352010,
+   "fy": "2013-12-31",
+   "name_fy": "EPAM Systems, Inc.",
+   "name": "EPAM Systems, Inc.",
+   "assets": 432877000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E40",
+  "src": "round9f",
+  "aaer": "AAER-4330",
+  "case": {
+   "pid": "E40T",
+   "cik": 823277,
+   "fy": "2014-08-31",
+   "name_fy": "CHS INC",
+   "name": "Chs Inc.",
+   "assets": 15296104000,
+   "f402_near": [
+    "2018-10-26"
+   ]
+  },
+  "control": {
+   "pid": "E40C",
+   "cik": 96021,
+   "fy": "2014-06-28",
+   "name_fy": "SYSCO CORP",
+   "name": "Sysco Corp.",
+   "assets": 13141113000,
+   "f402_near": []
+  }
+ },
+ {
+  "pair": "E41",
+  "src": "round9f",
+  "aaer": "AAER-4343",
+  "case": {
+   "pid": "E41T",
+   "cik": 1008654,
+   "fy": "2016-12-31",
+   "name_fy": "TUPPERWARE BRANDS CORP",
+   "name": "Tupperware Brands Corp.",
+   "assets": 1587800000,
+   "f402_near": []
+  },
+  "control": {
+   "pid": "E41C",
+   "cik": 1101302,
+   "fy": "2016-12-31",
+   "name_fy": "ENTEGRIS INC",
+   "name": "Entegris Inc.",
+   "assets": 1699532000,
+   "f402_near": []
+  }
+ }
+]
