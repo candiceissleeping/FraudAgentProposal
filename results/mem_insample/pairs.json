@@ -1,0 +1,1302 @@
+{
+ "eligible": 380,
+ "sampled": 54,
+ "pairs": [
+  {
+   "case": {
+    "cik": 1295401,
+    "name_now": "Bancorp, Inc.",
+    "name_fy": "Bancorp, Inc.",
+    "sic": "6021",
+    "event_date": "2025-03-04",
+    "event_acc": "0002039852-25-000053",
+    "y0_period": "2024-12-31",
+    "y0_acc": "0001562762-25-000040",
+    "assets": 8727543000
+   },
+   "control": {
+    "cik": 1174850,
+    "name_now": "NICOLET BANKSHARES INC",
+    "name_fy": "NICOLET BANKSHARES INC",
+    "sic": "6021",
+    "sic_digits": 4,
+    "y0_period": "2024-12-31",
+    "y0_acc": "0001174850-25-000008",
+    "assets": 8796795000,
+    "size_ratio": 1.01
+   }
+  },
+  {
+   "case": {
+    "cik": 1295961,
+    "name_now": "QUANTUM ENERGY INC.",
+    "name_fy": "QUANTUM ENERGY INC.",
+    "sic": "1311",
+    "event_date": "2023-04-05",
+    "event_acc": "0001437749-23-009385",
+    "y0_period": "2022-02-28",
+    "y0_acc": "0001437749-22-021365",
+    "assets": 18490088
+   },
+   "control": {
+    "cik": 101594,
+    "name_now": "BIG SKY INDUSTRIAL INC.",
+    "name_fy": "US ENERGY CORP",
+    "sic": "1311",
+    "sic_digits": 4,
+    "y0_period": "2021-12-31",
+    "y0_acc": "0001493152-22-007884",
+    "assets": 17663000,
+    "size_ratio": 1.05
+   }
+  },
+  {
+   "case": {
+    "cik": 1836981,
+    "name_now": "BigBear.ai Holdings, Inc.",
+    "name_fy": "BigBear.ai Holdings, Inc.",
+    "sic": "7372",
+    "event_date": "2025-03-18",
+    "event_acc": "0001193125-25-056086",
+    "y0_period": "2023-12-31",
+    "y0_acc": "0001628280-24-011538",
+    "assets": 199910000
+   },
+   "control": {
+    "cik": 1609151,
+    "name_now": "Weave Communications, Inc.",
+    "name_fy": "Weave Communications, Inc.",
+    "sic": "7372",
+    "sic_digits": 4,
+    "y0_period": "2023-12-31",
+    "y0_acc": "0001609151-24-000021",
+    "assets": 201012000,
+    "size_ratio": 1.01
+   }
+  },
+  {
+   "case": {
+    "cik": 1572386,
+    "name_now": "GREENWAY TECHNOLOGIES, INC. & SUBSIDIARIES",
+    "name_fy": "GREENWAY TECHNOLOGIES INC",
+    "sic": "2860",
+    "event_date": "2023-11-16",
+    "event_acc": "0001493152-23-041628",
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001493152-23-012221",
+    "assets": 27542
+   },
+   "control": {
+    "cik": 849636,
+    "name_now": "RespireRx Pharmaceuticals Inc.",
+    "name_fy": "RespireRx Pharmaceuticals Inc.",
+    "sic": "2834",
+    "sic_digits": 2,
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001493152-23-012542",
+    "assets": 22781,
+    "size_ratio": 1.21
+   }
+  },
+  {
+   "case": {
+    "cik": 1476963,
+    "name_now": "Scorpius Holdings, Inc.",
+    "name_fy": "HEAT BIOLOGICS, INC.",
+    "sic": "2834",
+    "event_date": "2023-03-23",
+    "event_acc": "0001558370-23-004449",
+    "y0_period": "2021-12-31",
+    "y0_acc": "0001558370-22-003452",
+    "assets": 120961233
+   },
+   "control": {
+    "cik": 1408443,
+    "name_now": "Milestone Pharmaceuticals Inc.",
+    "name_fy": "Milestone Pharmaceuticals Inc.",
+    "sic": "2834",
+    "sic_digits": 4,
+    "y0_period": "2021-12-31",
+    "y0_acc": "0001558370-22-004205",
+    "assets": 119849000,
+    "size_ratio": 1.01
+   }
+  },
+  {
+   "case": {
+    "cik": 1721056,
+    "name_now": "HOOPS SCOUTING USA",
+    "name_fy": "HOOPS SCOUTING USA",
+    "sic": "7374",
+    "event_date": "2024-11-29",
+    "event_acc": "0001477932-24-007747",
+    "y0_period": "2023-06-30",
+    "y0_acc": "0001477932-23-009040",
+    "assets": 49381
+   },
+   "control": {
+    "cik": 1885849,
+    "name_now": "Tofla Megaline Inc.",
+    "name_fy": "Tofla Megaline Inc.",
+    "sic": "7372",
+    "sic_digits": 3,
+    "y0_period": "2023-07-31",
+    "y0_acc": "0001885849-23-000017",
+    "assets": 43273,
+    "size_ratio": 1.14
+   }
+  },
+  {
+   "case": {
+    "cik": 1842566,
+    "name_now": "Airship AI Holdings, Inc.",
+    "name_fy": "BYTE Acquisition Corp.",
+    "sic": "7372",
+    "event_date": "2023-06-02",
+    "event_acc": "0001213900-23-045725",
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001213900-23-024845",
+    "assets": 3909096
+   },
+   "control": {
+    "cik": 1068689,
+    "name_now": "Data443 Risk Mitigation, Inc.",
+    "name_fy": "Data443 Risk Mitigation, Inc.",
+    "sic": "7372",
+    "sic_digits": 4,
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001493152-23-005934",
+    "assets": 4183265,
+    "size_ratio": 1.07
+   }
+  },
+  {
+   "case": {
+    "cik": 1451809,
+    "name_now": "SITIME Corp",
+    "name_fy": "SITIME Corp",
+    "sic": "3674",
+    "event_date": "2024-01-25",
+    "event_acc": "0001451809-24-000007",
+    "y0_period": "2022-12-31",
+    "y0_acc": "0000950170-23-004647",
+    "assets": 750616000
+   },
+   "control": {
+    "cik": 1280263,
+    "name_now": "AMBARELLA INC",
+    "name_fy": "AMBARELLA INC",
+    "sic": "3674",
+    "sic_digits": 4,
+    "y0_period": "2023-01-31",
+    "y0_acc": "0000950170-23-011305",
+    "assets": 704781000,
+    "size_ratio": 1.07
+   }
+  },
+  {
+   "case": {
+    "cik": 1805521,
+    "name_now": "FARADAY FUTURE INTELLIGENT ELECTRIC INC.",
+    "name_fy": "FARADAY FUTURE INTELLIGENT ELECTRIC INC.",
+    "sic": "3711",
+    "event_date": "2023-07-11",
+    "event_acc": "0001213900-23-056255",
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001628280-23-007358",
+    "assets": 529288000
+   },
+   "control": {
+    "cik": 1316517,
+    "name_now": "Kandi Technologies Group, Inc.",
+    "name_fy": "Kandi Technologies Group, Inc.",
+    "sic": "3711",
+    "sic_digits": 4,
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001213900-23-020551",
+    "assets": 482982276,
+    "size_ratio": 1.1
+   }
+  },
+  {
+   "case": {
+    "cik": 77281,
+    "name_now": "PENNSYLVANIA REAL ESTATE INVESTMENT TRUST",
+    "name_fy": "PENNSYLVANIA REAL ESTATE INVESTMENT TRUST",
+    "sic": "6798",
+    "event_date": "2023-05-10",
+    "event_acc": "0001193125-23-139585",
+    "y0_period": "2022-12-31",
+    "y0_acc": "0000950170-23-010004",
+    "assets": 1803129000
+   },
+   "control": {
+    "cik": 1545654,
+    "name_now": "Alexander & Baldwin, Inc.",
+    "name_fy": "Alexander & Baldwin, Inc.",
+    "sic": "6798",
+    "sic_digits": 4,
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001545654-23-000008",
+    "assets": 1787304000,
+    "size_ratio": 1.01
+   }
+  },
+  {
+   "case": {
+    "cik": 1721741,
+    "name_now": "Lazydays Holdings, Inc.",
+    "name_fy": "Lazydays Holdings, Inc.",
+    "sic": "5500",
+    "event_date": "2025-04-30",
+    "event_acc": "0001628280-25-021079",
+    "y0_period": "2024-12-31",
+    "y0_acc": "0001628280-25-015640",
+    "assets": 675830000
+   },
+   "control": {
+    "cik": 1578742,
+    "name_now": "GPB Automotive Portfolio, LP",
+    "name_fy": "GPB Automotive Portfolio, LP",
+    "sic": "5500",
+    "sic_digits": 4,
+    "y0_period": "2024-12-31",
+    "y0_acc": "0001410578-25-000505",
+    "assets": 530692000,
+    "size_ratio": 1.27
+   }
+  },
+  {
+   "case": {
+    "cik": 1178727,
+    "name_now": "COMSovereign Holding Corp.",
+    "name_fy": "COMSovereign Holding Corp.",
+    "sic": "3669",
+    "event_date": "2023-01-27",
+    "event_acc": "0001213900-23-005707",
+    "y0_period": "2021-12-31",
+    "y0_acc": "0001213900-22-048364",
+    "assets": 88529000
+   },
+   "control": {
+    "cik": 1565228,
+    "name_now": "Vislink Technologies, Inc.",
+    "name_fy": "Vislink Technologies, Inc.",
+    "sic": "3669",
+    "sic_digits": 4,
+    "y0_period": "2021-12-31",
+    "y0_acc": "0001493152-22-008597",
+    "assets": 68120000,
+    "size_ratio": 1.3
+   }
+  },
+  {
+   "case": {
+    "cik": 1862935,
+    "name_now": "Currenc Group Inc.",
+    "name_fy": "InFinT Acquisition Corp",
+    "sic": "7389",
+    "event_date": "2023-08-04",
+    "event_acc": "0001493152-23-026775",
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001493152-23-008441",
+    "assets": 209298900
+   },
+   "control": {
+    "cik": 1848821,
+    "name_now": "Global Technology Acquisition Corp. I",
+    "name_fy": "Global Technology Acquisition Corp. I",
+    "sic": "7389",
+    "sic_digits": 4,
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001193125-23-088335",
+    "assets": 207857000,
+    "size_ratio": 1.01
+   }
+  },
+  {
+   "case": {
+    "cik": 63330,
+    "name_now": "MAUI LAND & PINEAPPLE CO INC",
+    "name_fy": "MAUI LAND & PINEAPPLE CO INC",
+    "sic": "6500",
+    "event_date": "2025-01-10",
+    "event_acc": "0001437749-25-000870",
+    "y0_period": "2023-12-31",
+    "y0_acc": "0001437749-24-009834",
+    "assets": 42223000
+   },
+   "control": {
+    "cik": 1299969,
+    "name_now": "Comstock Holding Companies, Inc.",
+    "name_fy": "Comstock Holding Companies, Inc.",
+    "sic": "6500",
+    "sic_digits": 4,
+    "y0_period": "2023-12-31",
+    "y0_acc": "0001299969-24-000010",
+    "assets": 49939000,
+    "size_ratio": 1.18
+   }
+  },
+  {
+   "case": {
+    "cik": 1737287,
+    "name_now": "Allogene Therapeutics, Inc.",
+    "name_fy": "Allogene Therapeutics, Inc.",
+    "sic": "2836",
+    "event_date": "2024-02-16",
+    "event_acc": "0001193125-24-038107",
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001737287-23-000018",
+    "assets": 821579000
+   },
+   "control": {
+    "cik": 1770121,
+    "name_now": "Sana Biotechnology, Inc.",
+    "name_fy": "Sana Biotechnology, Inc.",
+    "sic": "2836",
+    "sic_digits": 4,
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001564590-23-003798",
+    "assets": 822720000,
+    "size_ratio": 1.0
+   }
+  },
+  {
+   "case": {
+    "cik": 1716583,
+    "name_now": "Hyzon Motors Inc.",
+    "name_fy": "Hyzon Motors Inc.",
+    "sic": "3620",
+    "event_date": "2023-02-09",
+    "event_acc": "0001716583-23-000018",
+    "y0_period": "2021-12-31",
+    "y0_acc": "0001193125-22-089751",
+    "assets": 530279000
+   },
+   "control": {
+    "cik": 886128,
+    "name_now": "FUELCELL ENERGY INC",
+    "name_fy": "FUELCELL ENERGY INC",
+    "sic": "3620",
+    "sic_digits": 4,
+    "y0_period": "2021-10-31",
+    "y0_acc": "0001558370-21-017054",
+    "assets": 854691000,
+    "size_ratio": 1.61
+   }
+  },
+  {
+   "case": {
+    "cik": 1833214,
+    "name_now": "SAB Biotherapeutics, Inc.",
+    "name_fy": "SAB Biotherapeutics, Inc.",
+    "sic": "2836",
+    "event_date": "2023-03-31",
+    "event_acc": "0001437749-23-008871",
+    "y0_period": "2021-12-31",
+    "y0_acc": "0000950170-22-004935",
+    "assets": 81140931
+   },
+   "control": {
+    "cik": 1799850,
+    "name_now": "Renovacor, Inc.",
+    "name_fy": "Renovacor, Inc.",
+    "sic": "2836",
+    "sic_digits": 4,
+    "y0_period": "2021-12-31",
+    "y0_acc": "0000950170-22-004543",
+    "assets": 80999000,
+    "size_ratio": 1.0
+   }
+  },
+  {
+   "case": {
+    "cik": 1517006,
+    "name_now": "Gatos Silver, Inc.",
+    "name_fy": "Gatos Silver, Inc.",
+    "sic": "1040",
+    "event_date": "2023-04-03",
+    "event_acc": "0000950103-23-005282",
+    "y0_period": "2021-12-31",
+    "y0_acc": "0001104659-23-034448",
+    "assets": 345248000
+   },
+   "control": {
+    "cik": 314203,
+    "name_now": "McEwen Inc.",
+    "name_fy": "McEwen Mining Inc.",
+    "sic": "1040",
+    "sic_digits": 4,
+    "y0_period": "2021-12-31",
+    "y0_acc": "0001558370-22-002910",
+    "assets": 525341000,
+    "size_ratio": 1.52
+   }
+  },
+  {
+   "case": {
+    "cik": 1376804,
+    "name_now": "VNUE, Inc.",
+    "name_fy": "VNUE, Inc.",
+    "sic": "7822",
+    "event_date": "2024-05-08",
+    "event_acc": "0001829126-24-003177",
+    "y0_period": "2023-12-31",
+    "y0_acc": "0001829126-24-002516",
+    "assets": 25430
+   },
+   "control": {
+    "cik": 1918694,
+    "name_now": "Medies",
+    "name_fy": "Medies",
+    "sic": "7812",
+    "sic_digits": 2,
+    "y0_period": "2024-02-29",
+    "y0_acc": "0001683168-24-004100",
+    "assets": 23341,
+    "size_ratio": 1.09
+   }
+  },
+  {
+   "case": {
+    "cik": 1801661,
+    "name_now": "Firy Inc.",
+    "name_fy": "Skillz Inc.",
+    "sic": "7374",
+    "event_date": "2023-03-24",
+    "event_acc": "0001628280-23-009167",
+    "y0_period": "2021-12-31",
+    "y0_acc": "0001628280-22-004552",
+    "assets": 1021124000
+   },
+   "control": {
+    "cik": 1683606,
+    "name_now": "Cars.com Inc.",
+    "name_fy": "Cars.com Inc.",
+    "sic": "7374",
+    "sic_digits": 4,
+    "y0_period": "2021-12-31",
+    "y0_acc": "0000950170-22-002101",
+    "assets": 1007205000,
+    "size_ratio": 1.01
+   }
+  },
+  {
+   "case": {
+    "cik": 1620280,
+    "name_now": "Uniti Group LLC",
+    "name_fy": "Uniti Group Inc.",
+    "sic": "6798",
+    "event_date": "2024-10-31",
+    "event_acc": "0001104659-24-112863",
+    "y0_period": "2023-12-31",
+    "y0_acc": "0001628280-24-008054",
+    "assets": 5025129000
+   },
+   "control": {
+    "cik": 1418121,
+    "name_now": "Apple Hospitality REIT, Inc.",
+    "name_fy": "Apple Hospitality REIT, Inc.",
+    "sic": "6798",
+    "sic_digits": 4,
+    "y0_period": "2023-12-31",
+    "y0_acc": "0000950170-24-018793",
+    "assets": 4937298000,
+    "size_ratio": 1.02
+   }
+  },
+  {
+   "case": {
+    "cik": 1800637,
+    "name_now": "RYTHM, Inc.",
+    "name_fy": "Agrify Corp",
+    "sic": "0700",
+    "event_date": "2023-04-17",
+    "event_acc": "0001213900-23-030258",
+    "y0_period": "2021-12-31",
+    "y0_acc": "0001213900-22-016936",
+    "assets": 182048000
+   },
+   "control": {
+    "cik": 1133470,
+    "name_now": "CALAVO GROWERS INC",
+    "name_fy": "CALAVO GROWERS INC",
+    "sic": "0700",
+    "sic_digits": 4,
+    "y0_period": "2021-10-31",
+    "y0_acc": "0001558370-21-016971",
+    "assets": 468632000,
+    "size_ratio": 2.57
+   }
+  },
+  {
+   "case": {
+    "cik": 1507605,
+    "name_now": "MARA Holdings, Inc.",
+    "name_fy": "MARATHON DIGITAL HOLDINGS, INC.",
+    "sic": "6199",
+    "event_date": "2023-02-28",
+    "event_acc": "0001493152-23-006169",
+    "y0_period": "2021-12-31",
+    "y0_acc": "0001493152-22-006446",
+    "assets": 1444331000
+   },
+   "control": {
+    "cik": 1059142,
+    "name_now": "Greystone Housing Impact Investors LP",
+    "name_fy": "AMERICA FIRST MULTIFAMILY INVESTORS, L.P.",
+    "sic": "6199",
+    "sic_digits": 4,
+    "y0_period": "2021-12-31",
+    "y0_acc": "0000950170-22-001871",
+    "assets": 1385909483,
+    "size_ratio": 1.04
+   }
+  },
+  {
+   "case": {
+    "cik": 1798270,
+    "name_now": "Assure Holdings Corp.",
+    "name_fy": "Assure Holdings Corp.",
+    "sic": "3841",
+    "event_date": "2024-04-26",
+    "event_acc": "0001104659-24-053019",
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001798270-23-000007",
+    "assets": 24249000
+   },
+   "control": {
+    "cik": 1506928,
+    "name_now": "Avinger Inc",
+    "name_fy": "Avinger Inc",
+    "sic": "3841",
+    "sic_digits": 4,
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001437749-23-006751",
+    "assets": 24195000,
+    "size_ratio": 1.0
+   }
+  },
+  {
+   "case": {
+    "cik": 1393612,
+    "name_now": "Discover Financial Services",
+    "name_fy": "Discover Financial Services",
+    "sic": "6141",
+    "event_date": "2024-11-25",
+    "event_acc": "0001193125-24-265265",
+    "y0_period": "2023-12-31",
+    "y0_acc": "0001393612-24-000010",
+    "assets": 151713000000
+   },
+   "control": {
+    "cik": 834071,
+    "name_now": "TOYOTA MOTOR CREDIT CORP",
+    "name_fy": "TOYOTA MOTOR CREDIT CORP",
+    "sic": "6141",
+    "sic_digits": 4,
+    "y0_period": "2024-03-31",
+    "y0_acc": "0000950170-24-068427",
+    "assets": 149381000000,
+    "size_ratio": 1.02
+   }
+  },
+  {
+   "case": {
+    "cik": 1877461,
+    "name_now": "1606 CORP.",
+    "name_fy": "1606 CORP.",
+    "sic": "7372",
+    "event_date": "2024-08-28",
+    "event_acc": "0001477932-24-005351",
+    "y0_period": "2023-12-31",
+    "y0_acc": "0001477932-24-002182",
+    "assets": 148338
+   },
+   "control": {
+    "cik": 1536089,
+    "name_now": "VIRTUAL INTERACTIVE TECHNOLOGIES CORP.",
+    "name_fy": "VIRTUAL INTERACTIVE TECHNOLOGIES CORP.",
+    "sic": "7372",
+    "sic_digits": 4,
+    "y0_period": "2023-09-30",
+    "y0_acc": "0001493152-24-014885",
+    "assets": 128443,
+    "size_ratio": 1.15
+   }
+  },
+  {
+   "case": {
+    "cik": 726601,
+    "name_now": "CAPITAL CITY BANK GROUP INC",
+    "name_fy": "CAPITAL CITY BANK GROUP INC",
+    "sic": "6022",
+    "event_date": "2023-11-13",
+    "event_acc": "0001171200-23-000452",
+    "y0_period": "2022-12-31",
+    "y0_acc": "0000726601-23-000009",
+    "assets": 4519223000
+   },
+   "control": {
+    "cik": 879635,
+    "name_now": "MID PENN BANCORP INC",
+    "name_fy": "MID PENN BANCORP INC",
+    "sic": "6022",
+    "sic_digits": 4,
+    "y0_period": "2022-12-31",
+    "y0_acc": "0000879635-23-000016",
+    "assets": 4497954000,
+    "size_ratio": 1.0
+   }
+  },
+  {
+   "case": {
+    "cik": 1335112,
+    "name_now": "LOGIQ, INC.",
+    "name_fy": "LOGIQ, INC.",
+    "sic": "7389",
+    "event_date": "2024-05-01",
+    "event_acc": "0001575872-24-000460",
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001575872-23-000678",
+    "assets": 15184018
+   },
+   "control": {
+    "cik": 1817511,
+    "name_now": "SOCIETY PASS INCORPORATED.",
+    "name_fy": "SOCIETY PASS INCORPORATED.",
+    "sic": "7389",
+    "sic_digits": 4,
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001607062-23-000144",
+    "assets": 32698742,
+    "size_ratio": 2.15
+   }
+  },
+  {
+   "case": {
+    "cik": 1805385,
+    "name_now": "Evolv Technologies Holdings, Inc.",
+    "name_fy": "Evolv Technologies Holdings, Inc.",
+    "sic": "3577",
+    "event_date": "2023-10-25",
+    "event_acc": "0001628280-23-035145",
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001628280-23-009178",
+    "assets": 344249000
+   },
+   "control": {
+    "cik": 8146,
+    "name_now": "AstroNova, Inc.",
+    "name_fy": "AstroNova, Inc.",
+    "sic": "3577",
+    "sic_digits": 4,
+    "y0_period": "2023-01-31",
+    "y0_acc": "0001193125-23-103662",
+    "assets": 139196000,
+    "size_ratio": 2.47
+   }
+  },
+  {
+   "case": {
+    "cik": 1615063,
+    "name_now": "Inspired Entertainment, Inc.",
+    "name_fy": "Inspired Entertainment, Inc.",
+    "sic": "7372",
+    "event_date": "2023-11-08",
+    "event_acc": "0001493152-23-039952",
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001493152-23-007974",
+    "assets": 290000000
+   },
+   "control": {
+    "cik": 896841,
+    "name_now": "AVID TECHNOLOGY, INC.",
+    "name_fy": "AVID TECHNOLOGY, INC.",
+    "sic": "7372",
+    "sic_digits": 4,
+    "y0_period": "2022-12-31",
+    "y0_acc": "0000896841-23-000019",
+    "assets": 287453000,
+    "size_ratio": 1.01
+   }
+  },
+  {
+   "case": {
+    "cik": 1568385,
+    "name_now": "Bright Mountain Media, Inc.",
+    "name_fy": "Bright Mountain Media, Inc.",
+    "sic": "7371",
+    "event_date": "2023-03-06",
+    "event_acc": "0001493152-23-006802",
+    "y0_period": "2021-12-31",
+    "y0_acc": "0001493152-22-016601",
+    "assets": 31564000
+   },
+   "control": {
+    "cik": 836690,
+    "name_now": "INNOVATIVE SOLUTIONS & SUPPORT INC",
+    "name_fy": "INNOVATIVE SOLUTIONS & SUPPORT INC",
+    "sic": "7371",
+    "sic_digits": 4,
+    "y0_period": "2021-09-30",
+    "y0_acc": "0001104659-21-152604",
+    "assets": 27086000,
+    "size_ratio": 1.17
+   }
+  },
+  {
+   "case": {
+    "cik": 1643154,
+    "name_now": "iANTHUS CAPITAL HOLDINGS, INC.",
+    "name_fy": "iANTHUS CAPITAL HOLDINGS, INC.",
+    "sic": "0100",
+    "event_date": "2024-02-16",
+    "event_acc": "0000950170-24-016396",
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001193125-23-084037",
+    "assets": 303467000
+   },
+   "control": {
+    "cik": 1342423,
+    "name_now": "Limoneira CO",
+    "name_fy": "Limoneira CO",
+    "sic": "0100",
+    "sic_digits": 4,
+    "y0_period": "2022-10-31",
+    "y0_acc": "0001342423-22-000038",
+    "assets": 321128000,
+    "size_ratio": 1.06
+   }
+  },
+  {
+   "case": {
+    "cik": 1840317,
+    "name_now": "VEEA INC.",
+    "name_fy": "Plum Acquisition Corp. I",
+    "sic": "7373",
+    "event_date": "2024-02-14",
+    "event_acc": "0001213900-24-014054",
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001193125-23-103855",
+    "assets": 324041674
+   },
+   "control": {
+    "cik": 1044777,
+    "name_now": "OneSpan Inc.",
+    "name_fy": "OneSpan Inc.",
+    "sic": "7373",
+    "sic_digits": 4,
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001628280-23-005639",
+    "assets": 335082000,
+    "size_ratio": 1.03
+   }
+  },
+  {
+   "case": {
+    "cik": 1008654,
+    "name_now": "TUPPERWARE BRANDS CORP",
+    "name_fy": "TUPPERWARE BRANDS CORP",
+    "sic": "3089",
+    "event_date": "2023-03-16",
+    "event_acc": "0001008654-23-000022",
+    "y0_period": "2021-12-25",
+    "y0_acc": "0001008654-22-000008",
+    "assets": 1240100000
+   },
+   "control": {
+    "cik": 7431,
+    "name_now": "ARMSTRONG WORLD INDUSTRIES INC",
+    "name_fy": "ARMSTRONG WORLD INDUSTRIES INC",
+    "sic": "3089",
+    "sic_digits": 4,
+    "y0_period": "2021-12-31",
+    "y0_acc": "0000950170-22-001531",
+    "assets": 1710000000,
+    "size_ratio": 1.38
+   }
+  },
+  {
+   "case": {
+    "cik": 1652958,
+    "name_now": "Edgemode, Inc.",
+    "name_fy": "Edgemode, Inc.",
+    "sic": "8082",
+    "event_date": "2024-09-24",
+    "event_acc": "0001683168-24-006613",
+    "y0_period": "2023-12-31",
+    "y0_acc": "0001683168-24-002725",
+    "assets": 20588
+   },
+   "control": {
+    "cik": 1887912,
+    "name_now": "Welsis Corp.",
+    "name_fy": "Welsis Corp.",
+    "sic": "8000",
+    "sic_digits": 2,
+    "y0_period": "2023-09-30",
+    "y0_acc": "0001683168-23-008323",
+    "assets": 33167,
+    "size_ratio": 1.61
+   }
+  },
+  {
+   "case": {
+    "cik": 1279704,
+    "name_now": "Cellectar Biosciences, Inc.",
+    "name_fy": "Cellectar Biosciences, Inc.",
+    "sic": "2834",
+    "event_date": "2024-08-09",
+    "event_acc": "0001104659-24-087859",
+    "y0_period": "2023-12-31",
+    "y0_acc": "0001410578-24-000307",
+    "assets": 12075580
+   },
+   "control": {
+    "cik": 1721484,
+    "name_now": "Longeveron Inc.",
+    "name_fy": "Longeveron Inc.",
+    "sic": "2834",
+    "sic_digits": 4,
+    "y0_period": "2023-12-31",
+    "y0_acc": "0001213900-24-017521",
+    "assets": 12078000,
+    "size_ratio": 1.0
+   }
+  },
+  {
+   "case": {
+    "cik": 1175151,
+    "name_now": "Cytosorbents Corp",
+    "name_fy": "Cytosorbents Corp",
+    "sic": "3841",
+    "event_date": "2025-03-31",
+    "event_acc": "0001104659-25-029887",
+    "y0_period": "2023-12-31",
+    "y0_acc": "0001410578-24-000201",
+    "assets": 52956322
+   },
+   "control": {
+    "cik": 1494891,
+    "name_now": "Sensus Healthcare, Inc.",
+    "name_fy": "Sensus Healthcare, Inc.",
+    "sic": "3841",
+    "sic_digits": 4,
+    "y0_period": "2023-12-31",
+    "y0_acc": "0001213900-24-023093",
+    "assets": 53710000,
+    "size_ratio": 1.01
+   }
+  },
+  {
+   "case": {
+    "cik": 1340122,
+    "name_now": "Calumet Specialty Products Partners, L.P.",
+    "name_fy": "Calumet Specialty Products Partners, L.P.",
+    "sic": "2911",
+    "event_date": "2024-02-23",
+    "event_acc": "0001193125-24-043546",
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001340122-23-000034",
+    "assets": 2741000000
+   },
+   "control": {
+    "cik": 1376139,
+    "name_now": "CVR ENERGY INC",
+    "name_fy": "CVR ENERGY INC",
+    "sic": "2911",
+    "sic_digits": 4,
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001376139-23-000009",
+    "assets": 4119000000,
+    "size_ratio": 1.5
+   }
+  },
+  {
+   "case": {
+    "cik": 1807887,
+    "name_now": "LASE Corp.",
+    "name_fy": "Laser Photonics Corp",
+    "sic": "3690",
+    "event_date": "2024-09-23",
+    "event_acc": "0001493152-24-037825",
+    "y0_period": "2023-12-31",
+    "y0_acc": "0001654954-24-004797",
+    "assets": 15124087
+   },
+   "control": {
+    "cik": 1894954,
+    "name_now": "Expion Energy, Inc.",
+    "name_fy": "Expion360 Inc.",
+    "sic": "3690",
+    "sic_digits": 4,
+    "y0_period": "2023-12-31",
+    "y0_acc": "0001903596-24-000170",
+    "assets": 11905331,
+    "size_ratio": 1.27
+   }
+  },
+  {
+   "case": {
+    "cik": 59558,
+    "name_now": "LINCOLN NATIONAL CORP",
+    "name_fy": "LINCOLN NATIONAL CORP",
+    "sic": "6311",
+    "event_date": "2023-03-27",
+    "event_acc": "0001193125-23-080586",
+    "y0_period": "2022-12-31",
+    "y0_acc": "0000059558-23-000009",
+    "assets": 334331000000
+   },
+   "control": {
+    "cik": 1822993,
+    "name_now": "Jackson Financial Inc.",
+    "name_fy": "Jackson Financial Inc.",
+    "sic": "6311",
+    "sic_digits": 4,
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001822993-23-000009",
+    "assets": 314983000000,
+    "size_ratio": 1.06
+   }
+  },
+  {
+   "case": {
+    "cik": 1556727,
+    "name_now": "First Northwest Bancorp",
+    "name_fy": "First Northwest Bancorp",
+    "sic": "6036",
+    "event_date": "2024-10-25",
+    "event_acc": "0001437749-24-032157",
+    "y0_period": "2023-12-31",
+    "y0_acc": "0001437749-24-008142",
+    "assets": 2201797000
+   },
+   "control": {
+    "cik": 1382230,
+    "name_now": "ESSA Bancorp, Inc.",
+    "name_fy": "ESSA Bancorp, Inc.",
+    "sic": "6036",
+    "sic_digits": 4,
+    "y0_period": "2023-09-30",
+    "y0_acc": "0000950170-23-070332",
+    "assets": 2293246000,
+    "size_ratio": 1.04
+   }
+  },
+  {
+   "case": {
+    "cik": 1692951,
+    "name_now": "Cottonwood Communities, Inc.",
+    "name_fy": "Cottonwood Communities, Inc.",
+    "sic": "6798",
+    "event_date": "2023-09-08",
+    "event_acc": "0001692951-23-000153",
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001692951-23-000052",
+    "assets": 1955637000
+   },
+   "control": {
+    "cik": 1585389,
+    "name_now": "SmartStop Self Storage REIT, Inc.",
+    "name_fy": "SmartStop Self Storage REIT, Inc.",
+    "sic": "6798",
+    "sic_digits": 4,
+    "y0_period": "2022-12-31",
+    "y0_acc": "0000950170-23-005961",
+    "assets": 1947217387,
+    "size_ratio": 1.0
+   }
+  },
+  {
+   "case": {
+    "cik": 1879848,
+    "name_now": "PHOENIX MOTOR INC.",
+    "name_fy": "PHOENIX MOTOR INC.",
+    "sic": "3713",
+    "event_date": "2024-10-01",
+    "event_acc": "0001493152-24-039002",
+    "y0_period": "2023-12-31",
+    "y0_acc": "0001410578-24-000471",
+    "assets": 11636000
+   },
+   "control": {
+    "cik": 1722969,
+    "name_now": "Nxu, Inc.",
+    "name_fy": "Nxu, Inc.",
+    "sic": "3713",
+    "sic_digits": 4,
+    "y0_period": "2023-12-31",
+    "y0_acc": "0001214659-24-005647",
+    "assets": 13259000,
+    "size_ratio": 1.14
+   }
+  },
+  {
+   "case": {
+    "cik": 1101680,
+    "name_now": "DZS INC.",
+    "name_fy": "DZS INC.",
+    "sic": "3661",
+    "event_date": "2023-06-01",
+    "event_acc": "0001101680-23-000048",
+    "y0_period": "2022-12-31",
+    "y0_acc": "0000950170-23-007289",
+    "assets": 373161000
+   },
+   "control": {
+    "cik": 796505,
+    "name_now": "Clearfield, Inc.",
+    "name_fy": "Clearfield, Inc.",
+    "sic": "3661",
+    "sic_digits": 4,
+    "y0_period": "2022-09-30",
+    "y0_acc": "0001171843-22-007645",
+    "assets": 229128000,
+    "size_ratio": 1.63
+   }
+  },
+  {
+   "case": {
+    "cik": 1213660,
+    "name_now": "BIMI Holdings Inc.",
+    "name_fy": "BIMI International Medical Inc.",
+    "sic": "5122",
+    "event_date": "2023-12-01",
+    "event_acc": "0001213900-23-092042",
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001213900-23-036407",
+    "assets": 34094490
+   },
+   "control": {
+    "cik": 1474167,
+    "name_now": "Cosmos Health Inc.",
+    "name_fy": "Cosmos Health Inc.",
+    "sic": "5122",
+    "sic_digits": 4,
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001477932-23-002443",
+    "assets": 68038621,
+    "size_ratio": 2.0
+   }
+  },
+  {
+   "case": {
+    "cik": 1893219,
+    "name_now": "Abpro Holdings, Inc.",
+    "name_fy": "Atlantic Coastal Acquisition Corp. II",
+    "sic": "2836",
+    "event_date": "2025-04-15",
+    "event_acc": "0001213900-25-032083",
+    "y0_period": "2023-12-31",
+    "y0_acc": "0001193125-24-081194",
+    "assets": 3355000
+   },
+   "control": {
+    "cik": 925741,
+    "name_now": "BioCardia, Inc.",
+    "name_fy": "BioCardia, Inc.",
+    "sic": "2836",
+    "sic_digits": 4,
+    "y0_period": "2023-12-31",
+    "y0_acc": "0001437749-24-009587",
+    "assets": 2987000,
+    "size_ratio": 1.12
+   }
+  },
+  {
+   "case": {
+    "cik": 1044378,
+    "name_now": "BIOCEPT INC",
+    "name_fy": "BIOCEPT INC",
+    "sic": "8071",
+    "event_date": "2023-04-17",
+    "event_acc": "0001193125-23-102909",
+    "y0_period": "2021-12-31",
+    "y0_acc": "0001564590-22-013599",
+    "assets": 60417000
+   },
+   "control": {
+    "cik": 1439725,
+    "name_now": "BIODESIX INC",
+    "name_fy": "BIODESIX INC",
+    "sic": "8071",
+    "sic_digits": 4,
+    "y0_period": "2021-12-31",
+    "y0_acc": "0000950170-22-003495",
+    "assets": 76097000,
+    "size_ratio": 1.26
+   }
+  },
+  {
+   "case": {
+    "cik": 1388295,
+    "name_now": "OneMeta Inc.",
+    "name_fy": "OneMeta Inc.",
+    "sic": "7374",
+    "event_date": "2024-12-13",
+    "event_acc": "0001493152-24-049948",
+    "y0_period": "2023-12-31",
+    "y0_acc": "0001493152-24-012247",
+    "assets": 1143690
+   },
+   "control": {
+    "cik": 1884164,
+    "name_now": "KwikClick, Inc.",
+    "name_fy": "KwikClick, Inc.",
+    "sic": "7374",
+    "sic_digits": 4,
+    "y0_period": "2023-12-31",
+    "y0_acc": "0001683168-24-002394",
+    "assets": 1555889,
+    "size_ratio": 1.36
+   }
+  },
+  {
+   "case": {
+    "cik": 1893311,
+    "name_now": "LUXURBAN HOTELS INC.",
+    "name_fy": "LUXURBAN HOTELS INC.",
+    "sic": "6500",
+    "event_date": "2024-08-09",
+    "event_acc": "0001829126-24-005363",
+    "y0_period": "2023-12-31",
+    "y0_acc": "0001829126-24-002461",
+    "assets": 283294022
+   },
+   "control": {
+    "cik": 764897,
+    "name_now": "Broad Street Realty, Inc.",
+    "name_fy": "Broad Street Realty, Inc.",
+    "sic": "6500",
+    "sic_digits": 4,
+    "y0_period": "2023-12-31",
+    "y0_acc": "0000950170-24-039408",
+    "assets": 351119000,
+    "size_ratio": 1.24
+   }
+  },
+  {
+   "case": {
+    "cik": 1759186,
+    "name_now": "Z Squared Inc.",
+    "name_fy": "Coeptis Therapeutics Holdings, Inc.",
+    "sic": "6199",
+    "event_date": "2024-03-25",
+    "event_acc": "0001683168-24-001672",
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001683168-23-001850",
+    "assets": 7915689
+   },
+   "control": {
+    "cik": 1436229,
+    "name_now": "BTCS Inc.",
+    "name_fy": "BTCS Inc.",
+    "sic": "6199",
+    "sic_digits": 4,
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001493152-23-010331",
+    "assets": 9917575,
+    "size_ratio": 1.25
+   }
+  },
+  {
+   "case": {
+    "cik": 1782754,
+    "name_now": "AZEK Co Inc.",
+    "name_fy": "AZEK Co Inc.",
+    "sic": "3089",
+    "event_date": "2024-05-08",
+    "event_acc": "0001628280-24-021666",
+    "y0_period": "2023-09-30",
+    "y0_acc": "0000950170-23-066594",
+    "assets": 2343876000
+   },
+   "control": {
+    "cik": 896622,
+    "name_now": "APTARGROUP, INC.",
+    "name_fy": "APTARGROUP, INC.",
+    "sic": "3089",
+    "sic_digits": 4,
+    "y0_period": "2023-12-31",
+    "y0_acc": "0000896622-24-000010",
+    "assets": 4451890000,
+    "size_ratio": 1.9
+   }
+  },
+  {
+   "case": {
+    "cik": 1355848,
+    "name_now": "Kartoon Studios, Inc.",
+    "name_fy": "Genius Brands International, Inc.",
+    "sic": "7812",
+    "event_date": "2024-04-09",
+    "event_acc": "0001355848-24-000049",
+    "y0_period": "2022-12-31",
+    "y0_acc": "0001355848-23-000011",
+    "assets": 239585000
+   },
+   "control": {
+    "cik": 1173204,
+    "name_now": "Cineverse Corp.",
+    "name_fy": "Cinedigm Corp.",
+    "sic": "7841",
+    "sic_digits": 2,
+    "y0_period": "2023-03-31",
+    "y0_acc": "0000950170-23-030833",
+    "assets": 87988000,
+    "size_ratio": 2.72
+   }
+  },
+  {
+   "case": {
+    "cik": 1556593,
+    "name_now": "Rithm Capital Corp.",
+    "name_fy": "Rithm Capital Corp.",
+    "sic": "6798",
+    "event_date": "2024-07-22",
+    "event_acc": "0001140361-24-033746",
+    "y0_period": "2023-12-31",
+    "y0_acc": "0001556593-24-000007",
+    "assets": 39717084000
+   },
+   "control": {
+    "cik": 1051470,
+    "name_now": "CROWN CASTLE INC.",
+    "name_fy": "CROWN CASTLE INC.",
+    "sic": "6798",
+    "sic_digits": 4,
+    "y0_period": "2023-12-31",
+    "y0_acc": "0001051470-24-000062",
+    "assets": 38527000000,
+    "size_ratio": 1.03
+   }
+  },
+  {
+   "case": {
+    "cik": 1000230,
+    "name_now": "OPTICAL CABLE CORP",
+    "name_fy": "OPTICAL CABLE CORP",
+    "sic": "3357",
+    "event_date": "2024-12-23",
+    "event_acc": "0001437749-24-038225",
+    "y0_period": "2023-10-31",
+    "y0_acc": "0001437749-23-034978",
+    "assets": 40493885
+   },
+   "control": {
+    "cik": 1621832,
+    "name_now": "Aqua Metals, Inc.",
+    "name_fy": "Aqua Metals, Inc.",
+    "sic": "3341",
+    "sic_digits": 2,
+    "y0_period": "2023-12-31",
+    "y0_acc": "0001437749-24-009870",
+    "assets": 33600000,
+    "size_ratio": 1.21
+   }
+  }
+ ]
+}
