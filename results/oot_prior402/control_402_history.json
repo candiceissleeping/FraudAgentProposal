@@ -1,0 +1,477 @@
+[
+ {
+  "pid": "O01C",
+  "name": "WINDTREE THERAPEUTICS INC /DE/",
+  "cik": 946486,
+  "event_date": "",
+  "event_acc": "",
+  "former": [
+   "DISCOVERY LABORATORIES INC /DE/",
+   "ANSAN PHARMACEUTICALS INC",
+   "ANSAN INC"
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2010-11-09",
+    "acc": "0001144204-10-058411",
+    "items": "2.02,4.02,8.01,9.01",
+    "doc": "v201516_8k.htm"
+   }
+  ],
+  "first_filing": "1996-05-15"
+ },
+ {
+  "pid": "O02C",
+  "name": "Skyline Bankshares, Inc.",
+  "cik": 1657642,
+  "event_date": "",
+  "event_acc": "",
+  "former": [
+   "Parkway Acquisition Corp."
+  ],
+  "filings_402": [],
+  "first_filing": "2015-11-09"
+ },
+ {
+  "pid": "O03C",
+  "name": "KonaTel, Inc.",
+  "cik": 845819,
+  "event_date": "",
+  "event_acc": "",
+  "former": [
+   "DALA PETROLEUM CORP.",
+   "WESTCOTT PRODUCTS CORP"
+  ],
+  "filings_402": [],
+  "first_filing": "2005-12-30"
+ },
+ {
+  "pid": "O04C",
+  "name": "U. S. Premium Beef, LLC",
+  "cik": 1289237,
+  "event_date": "",
+  "event_acc": "",
+  "former": [
+   "U. S. Premium Beef, Inc."
+  ],
+  "filings_402": [],
+  "first_filing": "2004-05-05"
+ },
+ {
+  "pid": "O05C",
+  "name": "NACCO INDUSTRIES INC",
+  "cik": 789933,
+  "event_date": "",
+  "event_acc": "",
+  "former": [],
+  "filings_402": [],
+  "first_filing": "1994-02-14"
+ },
+ {
+  "pid": "O06C",
+  "name": "Trio Petroleum Corp",
+  "cik": 1898766,
+  "event_date": "",
+  "event_acc": "",
+  "former": [
+   "Trio Petroleum Corp."
+  ],
+  "filings_402": [],
+  "first_filing": "2022-03-17"
+ },
+ {
+  "pid": "O07C",
+  "name": "Worksport Ltd",
+  "cik": 1096275,
+  "event_date": "",
+  "event_acc": "",
+  "former": [
+   "Worksport Ltd",
+   "Worksport, Ltd",
+   "Franchise Holdings International, Inc.",
+   "TMANGLOBAL COM INC"
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2017-01-17",
+    "acc": "0001477932-17-000287",
+    "items": "4.02,9.01",
+    "doc": "fnhi_8k.htm"
+   },
+   {
+    "form": "8-K/A",
+    "filed": "2017-01-18",
+    "acc": "0001477932-17-000323",
+    "items": "4.02,9.01",
+    "doc": "fnhi_8ka.htm"
+   }
+  ],
+  "first_filing": "1999-10-13"
+ },
+ {
+  "pid": "O08C",
+  "name": "OMNIQ Corp.",
+  "cik": 278165,
+  "event_date": "",
+  "event_acc": "",
+  "former": [
+   "Quest Solution, Inc.",
+   "AMERIGO ENERGY, INC.",
+   "STRATEGIC GAMING INVESTMENTS, INC.",
+   "LEFT RIGHT MARKETING TECHNOLOGY INC",
+   "LEFT RIGHT MAKETING TECHNOLOGY INC",
+   "GLOBAL GAMING & TECHNOLOGY INC"
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2011-03-29",
+    "acc": "0001227528-11-000008",
+    "items": "4.02",
+    "doc": "agoe8kfs.txt"
+   },
+   {
+    "form": "8-K/A",
+    "filed": "2011-04-15",
+    "acc": "0001227528-11-000015",
+    "items": "4.02",
+    "doc": "agoe8ka041511.txt"
+   },
+   {
+    "form": "8-K/A",
+    "filed": "2011-04-29",
+    "acc": "0001227528-11-000023",
+    "items": "4.02",
+    "doc": "aego8kafrom32911fin.txt"
+   }
+  ],
+  "first_filing": "1995-11-13"
+ },
+ {
+  "pid": "O09C",
+  "name": "Greenwave Technology Solutions, Inc.",
+  "cik": 1589149,
+  "event_date": "",
+  "event_acc": "",
+  "former": [
+   "MassRoots, Inc."
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2021-12-07",
+    "acc": "0001213900-21-063982",
+    "items": "4.02,5.02,5.03,9.01",
+    "doc": "ea151905-8k_massroots.htm"
+   }
+  ],
+  "first_filing": "2013-10-18"
+ },
+ {
+  "pid": "O10C",
+  "name": "YUNHONG GREEN CTI LTD.",
+  "cik": 1042187,
+  "event_date": "",
+  "event_acc": "",
+  "former": [
+   "Yunhong CTI Ltd.",
+   "CTI INDUSTRIES CORP"
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2006-09-11",
+    "acc": "0001144204-06-037862",
+    "items": "4.02,9.01",
+    "doc": "v052539_8k.htm"
+   },
+   {
+    "form": "8-K",
+    "filed": "2020-05-14",
+    "acc": "0001437749-20-010750",
+    "items": "4.02,8.01",
+    "doc": "ctib20200514_8k.htm"
+   }
+  ],
+  "first_filing": "1997-07-24"
+ },
+ {
+  "pid": "O11C",
+  "name": "Greenlane Holdings, Inc.",
+  "cik": 1743745,
+  "event_date": "",
+  "event_acc": "",
+  "former": [],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2023-11-15",
+    "acc": "0001743745-23-000072",
+    "items": "4.02,9.01",
+    "doc": "gnln-20231110.htm"
+   }
+  ],
+  "first_filing": "2018-08-14"
+ },
+ {
+  "pid": "O12C",
+  "name": "Artiva Biotherapeutics, Inc.",
+  "cik": 1817241,
+  "event_date": "",
+  "event_acc": "",
+  "former": [],
+  "filings_402": [],
+  "first_filing": "2020-07-10"
+ },
+ {
+  "pid": "O13C",
+  "name": "KIORA PHARMACEUTICALS INC",
+  "cik": 1372514,
+  "event_date": "",
+  "event_acc": "",
+  "former": [
+   "EYEGATE PHARMACEUTICALS INC"
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2022-05-23",
+    "acc": "0001104659-22-063871",
+    "items": "4.02,9.01",
+    "doc": "tm2216631d1_8k.htm"
+   }
+  ],
+  "first_filing": "2006-08-09"
+ },
+ {
+  "pid": "O14C",
+  "name": "Marygold Companies, Inc.",
+  "cik": 1005101,
+  "event_date": "",
+  "event_acc": "",
+  "former": [
+   "CONCIERGE TECHNOLOGIES INC",
+   "STARFEST INC"
+  ],
+  "filings_402": [],
+  "first_filing": "2000-03-10"
+ },
+ {
+  "pid": "O15C",
+  "name": "BONK, INC.",
+  "cik": 1760903,
+  "event_date": "",
+  "event_acc": "",
+  "former": [
+   "Safety Shot, Inc.",
+   "Jupiter Wellness, Inc.",
+   "CBD Brands, Inc."
+  ],
+  "filings_402": [],
+  "first_filing": "2019-03-04"
+ },
+ {
+  "pid": "O16C",
+  "name": "Newton Golf Company, Inc.",
+  "cik": 1934245,
+  "event_date": "",
+  "event_acc": "",
+  "former": [
+   "Sacks Parente Golf, Inc."
+  ],
+  "filings_402": [],
+  "first_filing": "2022-06-24"
+ },
+ {
+  "pid": "O17C",
+  "name": "DUKE Robotics Corp.",
+  "cik": 1638911,
+  "event_date": "",
+  "event_acc": "",
+  "former": [
+   "UAS Drone Corp."
+  ],
+  "filings_402": [],
+  "first_filing": "2015-04-10"
+ },
+ {
+  "pid": "O18C",
+  "name": "ESS Tech, Inc.",
+  "cik": 1819438,
+  "event_date": "",
+  "event_acc": "",
+  "former": [
+   "ACON S2 Acquisition Corp."
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2021-05-24",
+    "acc": "0001564590-21-029500",
+    "items": "4.02",
+    "doc": "stwou-8k_20210524.htm"
+   },
+   {
+    "form": "8-K",
+    "filed": "2021-11-22",
+    "acc": "0001193125-21-337023",
+    "items": "2.02,4.01,4.02",
+    "doc": "d263214d8k.htm"
+   }
+  ],
+  "first_filing": "2020-07-31"
+ },
+ {
+  "pid": "O19C",
+  "name": "Liberty Global Ltd.",
+  "cik": 1570585,
+  "event_date": "",
+  "event_acc": "",
+  "former": [
+   "Liberty Global plc",
+   "Liberty Global Corp Ltd"
+  ],
+  "filings_402": [],
+  "first_filing": "2013-03-07"
+ },
+ {
+  "pid": "O20C",
+  "name": "Crexendo, Inc.",
+  "cik": 1075736,
+  "event_date": "",
+  "event_acc": "",
+  "former": [
+   "IMERGENT INC",
+   "NETGATEWAY INC"
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2005-08-19",
+    "acc": "0001104659-05-040386",
+    "items": "4.02,7.01,9.01",
+    "doc": "a05-15172_18k.htm"
+   }
+  ],
+  "first_filing": "1999-06-01"
+ },
+ {
+  "pid": "O21C",
+  "name": "PIXELWORKS, INC",
+  "cik": 1040161,
+  "event_date": "",
+  "event_acc": "",
+  "former": [
+   "PIXELWORKS INC"
+  ],
+  "filings_402": [],
+  "first_filing": "2000-02-25"
+ },
+ {
+  "pid": "O22C",
+  "name": "BLUE DOLPHIN ENERGY CO",
+  "cik": 793306,
+  "event_date": "",
+  "event_acc": "",
+  "former": [],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2005-10-31",
+    "acc": "0001010549-05-000774",
+    "items": "4.02,8.01,9.01",
+    "doc": "bluedol8k103105.txt"
+   }
+  ],
+  "first_filing": "1995-03-23"
+ },
+ {
+  "pid": "O23C",
+  "name": "Omnitek Engineering Corp",
+  "cik": 1404804,
+  "event_date": "",
+  "event_acc": "",
+  "former": [],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2014-11-06",
+    "acc": "0001445866-14-001375",
+    "items": "4.02,9.01",
+    "doc": "omn8k11062014.htm"
+   }
+  ],
+  "first_filing": "2007-06-22"
+ },
+ {
+  "pid": "O24C",
+  "name": "IMAX CORP",
+  "cik": 921582,
+  "event_date": "",
+  "event_acc": "",
+  "former": [],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2007-03-19",
+    "acc": "0000909567-07-000432",
+    "items": "2.02,4.02,9.01",
+    "doc": "o35321e8vk.htm"
+   },
+   {
+    "form": "8-K",
+    "filed": "2007-10-05",
+    "acc": "0000909567-07-001233",
+    "items": "4.02",
+    "doc": "o37936e8vk.htm"
+   }
+  ],
+  "first_filing": "1997-01-31"
+ },
+ {
+  "pid": "O25C",
+  "name": "Galaxy Gaming, Inc.",
+  "cik": 13156,
+  "event_date": "",
+  "event_acc": "",
+  "former": [
+   "SECURED DIVERSIFIED INVESTMENT LTD",
+   "SECURED  DIVERSIFIED INVESTMENT LTD",
+   "BOOK CORP OF AMERICA"
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2017-04-03",
+    "acc": "0001564590-17-005941",
+    "items": "4.02,9.01",
+    "doc": "glxz-8k_20170403.htm"
+   }
+  ],
+  "first_filing": "2000-05-18"
+ },
+ {
+  "pid": "O26C",
+  "name": "Paysign, Inc.",
+  "cik": 1496443,
+  "event_date": "",
+  "event_acc": "",
+  "former": [
+   "3PEA INTERNATIONAL, INC."
+  ],
+  "filings_402": [],
+  "first_filing": "2010-09-16"
+ },
+ {
+  "pid": "O27C",
+  "name": "Protopia Global Holdings Inc.",
+  "cik": 1959585,
+  "event_date": "",
+  "event_acc": "",
+  "former": [],
+  "filings_402": [],
+  "first_filing": "2023-01-20"
+ }
+]

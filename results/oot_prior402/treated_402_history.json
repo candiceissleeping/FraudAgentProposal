@@ -1,0 +1,710 @@
+[
+ {
+  "pid": "O01T",
+  "name": "FutureTech II Acquisition Corp.",
+  "cik": 1889450,
+  "event_date": "20260708",
+  "event_acc": "0001493152-26-032525",
+  "former": [
+   "Future Tech II Acquisition Corp."
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2024-11-26",
+    "acc": "0001493152-24-047777",
+    "items": "4.02",
+    "doc": "form8-k.htm"
+   },
+   {
+    "form": "8-K",
+    "filed": "2024-12-13",
+    "acc": "0001493152-24-049977",
+    "items": "4.02",
+    "doc": "form8-k.htm"
+   },
+   {
+    "form": "8-K",
+    "filed": "2026-07-08",
+    "acc": "0001493152-26-032525",
+    "items": "4.02",
+    "doc": "form8-k.htm"
+   }
+  ],
+  "first_filing": "2021-11-01"
+ },
+ {
+  "pid": "O02T",
+  "name": "BayFirst Financial Corp.",
+  "cik": 1649739,
+  "event_date": "20260715",
+  "event_acc": "0001649739-26-000041",
+  "former": [],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2026-07-15",
+    "acc": "0001649739-26-000041",
+    "items": "2.02,4.02,9.01",
+    "doc": "bafn-20260714.htm"
+   }
+  ],
+  "first_filing": "2021-05-11"
+ },
+ {
+  "pid": "O03T",
+  "name": "HIGH WIRE NETWORKS, INC.",
+  "cik": 1413891,
+  "event_date": "20260715",
+  "event_acc": "0001683168-26-005550",
+  "former": [
+   "HWN, INC.",
+   "Spectrum Global Solutions, Inc.",
+   "Mantra Venture Group Ltd."
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2023-12-08",
+    "acc": "0001213900-23-094204",
+    "items": "1.01,2.02,4.02,9.01",
+    "doc": "ea189737-8k_highwire.htm"
+   },
+   {
+    "form": "8-K",
+    "filed": "2024-11-22",
+    "acc": "0001213900-24-101599",
+    "items": "4.02",
+    "doc": "ea0222353-8k_highwire.htm"
+   },
+   {
+    "form": "8-K",
+    "filed": "2026-07-15",
+    "acc": "0001683168-26-005550",
+    "items": "4.02",
+    "doc": "highwire_8k.htm"
+   }
+  ],
+  "first_filing": "2007-10-18"
+ },
+ {
+  "pid": "O04T",
+  "name": "Trans American Aquaculture, Inc",
+  "cik": 1990446,
+  "event_date": "20260717",
+  "event_acc": "0001683168-26-005614",
+  "former": [],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2026-07-17",
+    "acc": "0001683168-26-005614",
+    "items": "4.02",
+    "doc": "transaqua_8k.htm"
+   }
+  ],
+  "first_filing": "2023-08-18"
+ },
+ {
+  "pid": "O05T",
+  "name": "American Resources Corp",
+  "cik": 1590715,
+  "event_date": "20260724",
+  "event_acc": "0001477932-26-004477",
+  "former": [
+   "NGFC Equities, Inc.",
+   "NATURAL GAS FUELING & CONVERSION INC."
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2026-07-24",
+    "acc": "0001477932-26-004477",
+    "items": "4.01,4.02,9.01",
+    "doc": "arec_8k.htm"
+   },
+   {
+    "form": "8-K/A",
+    "filed": "2026-07-29",
+    "acc": "0001477932-26-004585",
+    "items": "4.01,4.02,9.01",
+    "doc": "arec_8ka.htm"
+   }
+  ],
+  "first_filing": "2013-11-06"
+ },
+ {
+  "pid": "O06T",
+  "name": "New ERA Energy & Digital, Inc.",
+  "cik": 2028336,
+  "event_date": "20260730",
+  "event_acc": "0001213900-26-083411",
+  "former": [
+   "NEW ERA HELIUM INC.",
+   "Roth CH V Holdings, Inc."
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2026-07-30",
+    "acc": "0001213900-26-083411",
+    "items": "4.02",
+    "doc": "ea0299918-8k_newera.htm"
+   }
+  ],
+  "first_filing": "2024-06-28"
+ },
+ {
+  "pid": "O07T",
+  "name": "Securetech Innovations, Inc.",
+  "cik": 1703157,
+  "event_date": "20260805",
+  "event_acc": "0001017386-26-000096",
+  "former": [
+   "Securetech, Inc."
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2026-08-05",
+    "acc": "0001017386-26-000096",
+    "items": "4.01,4.02,7.01,9.01",
+    "doc": "scth_form8k08052026.htm"
+   }
+  ],
+  "first_filing": "2017-07-18"
+ },
+ {
+  "pid": "O08T",
+  "name": "CREDITRISKMONITOR COM INC",
+  "cik": 315958,
+  "event_date": "20260806",
+  "event_acc": "0001140361-26-031633",
+  "former": [
+   "NEW GENERATION FOODS INC"
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2026-08-06",
+    "acc": "0001140361-26-031633",
+    "items": "4.02",
+    "doc": "ef20079472_8k.htm"
+   }
+  ],
+  "first_filing": "1996-05-15"
+ },
+ {
+  "pid": "O09T",
+  "name": "OLENOX INDUSTRIES INC.",
+  "cik": 1023994,
+  "event_date": "20260806",
+  "event_acc": "0001213900-26-086226",
+  "former": [
+   "SAFE & GREEN HOLDINGS CORP.",
+   "SG BLOCKS, INC.",
+   "CDSI HOLDINGS INC",
+   "PC411 INC"
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2026-08-06",
+    "acc": "0001213900-26-086226",
+    "items": "4.02",
+    "doc": "ea0300966-8k_olenox.htm"
+   }
+  ],
+  "first_filing": "1997-02-11"
+ },
+ {
+  "pid": "O10T",
+  "name": "Northann Corp.",
+  "cik": 1923780,
+  "event_date": "20260810",
+  "event_acc": "0001575872-26-000562",
+  "former": [],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2026-08-10",
+    "acc": "0001575872-26-000562",
+    "items": "3.01,4.01,4.02,5.02,9.01",
+    "doc": "ncl121_8k.htm"
+   },
+   {
+    "form": "8-K/A",
+    "filed": "2026-08-24",
+    "acc": "0001575872-26-000605",
+    "items": "4.01,4.02,9.01",
+    "doc": "ncl124_8ka.htm"
+   }
+  ],
+  "first_filing": "2022-07-29"
+ },
+ {
+  "pid": "O11T",
+  "name": "Capstone Holding Corp.",
+  "cik": 887151,
+  "event_date": "20260812",
+  "event_acc": "0001437749-26-027149",
+  "former": [
+   "Capstone Therapeutics Corp.",
+   "ORTHOLOGIC CORP",
+   "ORTHOLOGIC CORPORATION"
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2026-08-12",
+    "acc": "0001437749-26-027149",
+    "items": "4.02,9.01",
+    "doc": "caps20260807_8k.htm"
+   }
+  ],
+  "first_filing": "1994-02-11"
+ },
+ {
+  "pid": "O12T",
+  "name": "Pelthos Therapeutics Inc.",
+  "cik": 1919246,
+  "event_date": "20260813",
+  "event_acc": "0001919246-26-000110",
+  "former": [
+   "Channel Therapeutics Corp",
+   "Chromocell Therapeutics Corp"
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2026-08-13",
+    "acc": "0001919246-26-000110",
+    "items": "4.02",
+    "doc": "pths-20260812.htm"
+   }
+  ],
+  "first_filing": "2022-09-06"
+ },
+ {
+  "pid": "O13T",
+  "name": "HCW Biologics Inc.",
+  "cik": 1828673,
+  "event_date": "20260814",
+  "event_acc": "0001493152-26-038240",
+  "former": [],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2024-05-03",
+    "acc": "0000950170-24-053055",
+    "items": "4.02",
+    "doc": "hcwb-20240503.htm"
+   },
+   {
+    "form": "8-K",
+    "filed": "2026-08-14",
+    "acc": "0001493152-26-038240",
+    "items": "4.02",
+    "doc": "form8-k.htm"
+   }
+  ],
+  "first_filing": "2020-10-19"
+ },
+ {
+  "pid": "O14T",
+  "name": "Netcapital Inc.",
+  "cik": 1414767,
+  "event_date": "20260818",
+  "event_acc": "0001493152-26-038853",
+  "former": [
+   "ValueSetters Inc.",
+   "ValueSetters Corp"
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2026-08-18",
+    "acc": "0001493152-26-038853",
+    "items": "4.01,4.02,9.01",
+    "doc": "form8-k.htm"
+   }
+  ],
+  "first_filing": "2007-10-05"
+ },
+ {
+  "pid": "O15T",
+  "name": "SOLESENCE, INC.",
+  "cik": 883107,
+  "event_date": "20260821",
+  "event_acc": "0001171843-26-005702",
+  "former": [
+   "NANOPHASE TECHNOLOGIES Corp",
+   "NANOPHASE TECHNOLOGIES CORPORATION"
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2021-08-16",
+    "acc": "0001171843-21-005988",
+    "items": "4.02",
+    "doc": "f8k_081621.htm"
+   },
+   {
+    "form": "8-K",
+    "filed": "2026-08-21",
+    "acc": "0001171843-26-005702",
+    "items": "4.02,9.01",
+    "doc": "f8k_082126.htm"
+   }
+  ],
+  "first_filing": "1997-03-13"
+ },
+ {
+  "pid": "O16T",
+  "name": "Brownie's Marine Group, Inc",
+  "cik": 1166708,
+  "event_date": "20260824",
+  "event_acc": "0001493152-26-039804",
+  "former": [
+   "UNITED COMPANIES CORP"
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2015-02-25",
+    "acc": "0001144204-15-011855",
+    "items": "4.02",
+    "doc": "v402805_8k.htm"
+   },
+   {
+    "form": "8-K",
+    "filed": "2026-08-24",
+    "acc": "0001493152-26-039804",
+    "items": "4.02",
+    "doc": "form8-k.htm"
+   }
+  ],
+  "first_filing": "2002-09-10"
+ },
+ {
+  "pid": "O17T",
+  "name": "SDR Drone, Inc.",
+  "cik": 1331421,
+  "event_date": "20260909",
+  "event_acc": "0001493152-26-041986",
+  "former": [
+   "HALLMARK VENTURE GROUP, INC.",
+   "HALLMARK VENTURE GROUP"
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2026-09-09",
+    "acc": "0001493152-26-041986",
+    "items": "4.02,9.01",
+    "doc": "form8-k.htm"
+   }
+  ],
+  "first_filing": "2005-06-24"
+ },
+ {
+  "pid": "O18T",
+  "name": "Nuburu, Inc.",
+  "cik": 1814215,
+  "event_date": "20260916",
+  "event_acc": "0001193125-26-393238",
+  "former": [
+   "Tailwind Acquisition Corp."
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2021-05-14",
+    "acc": "0001104659-21-066868",
+    "items": "4.02",
+    "doc": "tm2116349d1_8k.htm"
+   },
+   {
+    "form": "8-K",
+    "filed": "2022-01-28",
+    "acc": "0001104659-22-008617",
+    "items": "4.02",
+    "doc": "tm224543d1_8k.htm"
+   },
+   {
+    "form": "8-K",
+    "filed": "2024-10-24",
+    "acc": "0000950170-24-116747",
+    "items": "4.02",
+    "doc": "buru-20241023.htm"
+   },
+   {
+    "form": "8-K",
+    "filed": "2025-04-15",
+    "acc": "0000950170-25-054316",
+    "items": "4.02,9.01",
+    "doc": "buru-20250411.htm"
+   },
+   {
+    "form": "8-K",
+    "filed": "2025-06-25",
+    "acc": "0000950170-25-090023",
+    "items": "4.02",
+    "doc": "buru-20250620.htm"
+   },
+   {
+    "form": "8-K",
+    "filed": "2026-09-16",
+    "acc": "0001193125-26-393238",
+    "items": "4.02",
+    "doc": "buru-20260916.htm"
+   }
+  ],
+  "first_filing": "2020-06-17"
+ },
+ {
+  "pid": "O19T",
+  "name": "Optimum Communications, Inc.",
+  "cik": 1702780,
+  "event_date": "20260921",
+  "event_acc": "0001702780-26-000057",
+  "former": [
+   "Altice USA, Inc."
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2026-09-21",
+    "acc": "0001702780-26-000057",
+    "items": "2.02,4.02,9.01",
+    "doc": "optu-20260916.htm"
+   }
+  ],
+  "first_filing": "2017-04-11"
+ },
+ {
+  "pid": "O20T",
+  "name": "GlobalTech Corp",
+  "cik": 1938338,
+  "event_date": "20261002",
+  "event_acc": "0001477932-26-006021",
+  "former": [],
+  "filings_402": [
+   {
+    "form": "8-K/A",
+    "filed": "2023-09-07",
+    "acc": "0001477932-23-006722",
+    "items": "4.02",
+    "doc": "global_8ka.htm"
+   },
+   {
+    "form": "8-K",
+    "filed": "2023-09-07",
+    "acc": "0001477932-23-006669",
+    "items": "4.02",
+    "doc": "global_8k.htm"
+   },
+   {
+    "form": "8-K/A",
+    "filed": "2023-09-21",
+    "acc": "0001477932-23-006985",
+    "items": "4.02",
+    "doc": "global_8ka.htm"
+   },
+   {
+    "form": "8-K",
+    "filed": "2026-10-02",
+    "acc": "0001477932-26-006021",
+    "items": "2.02,4.02",
+    "doc": "gltk_8k.htm"
+   }
+  ],
+  "first_filing": "2022-09-29"
+ },
+ {
+  "pid": "O21T",
+  "name": "Sports Entertainment Gaming Global Corp",
+  "cik": 1673481,
+  "event_date": "20261008",
+  "event_acc": "0001493152-26-046278",
+  "former": [
+   "Lottery.com Inc.",
+   "Trident Acquisitions Corp."
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2021-06-21",
+    "acc": "0001213900-21-033058",
+    "items": "4.02",
+    "doc": "ea142887-8k_tridentacq.htm"
+   },
+   {
+    "form": "8-K",
+    "filed": "2022-07-22",
+    "acc": "0001213900-22-041017",
+    "items": "4.02,5.02,9.01",
+    "doc": "ea163230-8k_lottery.htm"
+   },
+   {
+    "form": "8-K/A",
+    "filed": "2022-07-26",
+    "acc": "0001213900-22-041442",
+    "items": "4.02,9.01",
+    "doc": "ea163324-8ka1_lottery.htm"
+   },
+   {
+    "form": "8-K",
+    "filed": "2026-10-08",
+    "acc": "0001493152-26-046278",
+    "items": "4.02,8.01,9.01",
+    "doc": "form8-k.htm"
+   }
+  ],
+  "first_filing": "2016-05-03"
+ },
+ {
+  "pid": "O22T",
+  "name": "EON Resources Inc.",
+  "cik": 1842556,
+  "event_date": "20261013",
+  "event_acc": "0001213900-26-108614",
+  "former": [
+   "HNR Acquisition Corp."
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2025-04-15",
+    "acc": "0001213900-25-032130",
+    "items": "4.02",
+    "doc": "ea0238037-8k_eonresour.htm"
+   },
+   {
+    "form": "8-K",
+    "filed": "2026-02-27",
+    "acc": "0001213900-26-021741",
+    "items": "4.02",
+    "doc": "f8k022426_eonresorces.htm"
+   },
+   {
+    "form": "8-K",
+    "filed": "2026-10-13",
+    "acc": "0001213900-26-108614",
+    "items": "4.02",
+    "doc": "ea0308292-8k_eonresources.htm"
+   }
+  ],
+  "first_filing": "2021-01-27"
+ },
+ {
+  "pid": "O23T",
+  "name": "Globaltek Ventures, Inc.",
+  "cik": 1530185,
+  "event_date": "20261015",
+  "event_acc": "0001376474-26-000649",
+  "former": [
+   "Ameritek Ventures, Inc.",
+   "AMERITEK VENTURES",
+   "ATVROCKN"
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2026-10-15",
+    "acc": "0001376474-26-000649",
+    "items": "4.01,4.02,5.02,7.01,9.01",
+    "doc": "atvk-20260811_8k.htm"
+   }
+  ],
+  "first_filing": "2011-09-19"
+ },
+ {
+  "pid": "O24T",
+  "name": "GoPro, Inc.",
+  "cik": 1500435,
+  "event_date": "20261016",
+  "event_acc": "0001500435-26-000064",
+  "former": [
+   "Woodman Labs, Inc."
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2026-10-16",
+    "acc": "0001500435-26-000064",
+    "items": "2.02,4.02,8.01",
+    "doc": "gpro-20261009.htm"
+   }
+  ],
+  "first_filing": "2010-09-22"
+ },
+ {
+  "pid": "O25T",
+  "name": "High Roller Technologies, Inc.",
+  "cik": 1947210,
+  "event_date": "20261016",
+  "event_acc": "0001753926-26-001958",
+  "former": [],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2026-10-16",
+    "acc": "0001753926-26-001958",
+    "items": "4.02",
+    "doc": "rolr-20261015.htm"
+   }
+  ],
+  "first_filing": "2022-11-23"
+ },
+ {
+  "pid": "O26T",
+  "name": "Datavault AI Inc.",
+  "cik": 1682149,
+  "event_date": "20261026",
+  "event_acc": "0001104659-26-118772",
+  "former": [
+   "WISA TECHNOLOGIES, INC.",
+   "Summit Wireless Technologies, Inc.",
+   "Summit Semiconductor Inc.",
+   "SUMMIT SEMICONDUCTOR LLC"
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2026-10-26",
+    "acc": "0001104659-26-118772",
+    "items": "4.02,9.01",
+    "doc": "tm2628100d1_8k.htm"
+   }
+  ],
+  "first_filing": "2016-08-17"
+ },
+ {
+  "pid": "O27T",
+  "name": "Panamera Holdings Corp",
+  "cik": 1620749,
+  "event_date": "20261026",
+  "event_acc": "0001640334-26-001688",
+  "former": [
+   "PANAMERA HEALTHCARE Corp"
+  ],
+  "filings_402": [
+   {
+    "form": "8-K",
+    "filed": "2026-10-26",
+    "acc": "0001640334-26-001688",
+    "items": "4.02",
+    "doc": "pnht_8k.htm"
+   },
+   {
+    "form": "8-K",
+    "filed": "2026-11-13",
+    "acc": "0001640334-26-001797",
+    "items": "4.02",
+    "doc": "pnht_8k.htm"
+   }
+  ],
+  "first_filing": "2014-09-26"
+ }
+]
