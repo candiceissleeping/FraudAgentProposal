@@ -1,0 +1,14 @@
+abs:"look-ahead bias" AND abs:"language model"
+abs:"lookahead bias" AND abs:LLM
+abs:memorization AND abs:LLM AND abs:firms
+abs:LLM AND abs:"company name" AND (abs:anonymiz OR abs:masked OR abs:"entity bias")
+abs:LLM AND abs:"10-K" AND (abs:leakage OR abs:memorization OR abs:contamination)
+abs:LLM AND abs:fraud AND abs:"annual report"
+abs:LLM AND abs:restatement
+abs:"language model" AND abs:"firm" AND abs:"training data" AND abs:"out-of-sample" AND abs:text
+abs:LLM AND abs:"well-known" AND (abs:firms OR abs:companies) AND abs:predict
+abs:LLM AND abs:"small-cap" AND (abs:knowledge OR abs:memor)
+abs:"entity bias" AND abs:financial AND abs:LLM
+abs:"prior knowledge" AND abs:LLM AND abs:context AND abs:"popular" AND abs:entities
+abs:"knowledge conflict" AND abs:popularity AND abs:"language model"
+abs:LLM AND abs:forecasting AND abs:"knowledge cutoff" AND (abs:company OR abs:firm OR abs:earnings)

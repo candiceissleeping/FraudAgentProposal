@@ -1,0 +1,10 @@
+all:"language model" AND all:"name-only" AND (all:firm OR all:company)
+all:"language model" AND all:restatement AND (all:memorization OR all:"look-ahead" OR all:lookahead)
+all:"language model" AND all:"financial statement fraud" AND (all:memorization OR all:leakage OR all:"knowledge cutoff")
+all:"language model" AND all:"prior knowledge" AND all:firm AND (all:disclosure OR all:filing OR all:"10-K")
+all:LLM AND all:"lookahead bias" AND all:firm AND (all:familiarity OR all:popularity OR all:"firm size")
+all:LLM AND all:"parametric knowledge" AND (all:financial OR all:stock OR all:firm) AND (all:context OR all:retrieval)
+all:"language model" AND all:misstatement AND (all:"10-K" OR all:"annual report")
+all:LLM AND all:"entity" AND all:anonymization AND (all:financial OR all:earnings) AND (all:"unknown" OR all:unfamiliar OR all:"less known")
+all:LLM AND all:bankruptcy AND (all:memorization OR all:"look-ahead" OR all:"de-identified")
+all:"closed-book" AND (all:firm OR all:company OR all:stock) AND all:"language model" AND all:forecast
