@@ -6,7 +6,7 @@
 
 ## 查證方式與標記
 
-本報告引用的 57 篇 arXiv 文獻，都已對照 arXiv 的原始紀錄確認存在，標題與作者相符。關鍵數字另外對照全文。每一項證據後面的標記說明查到哪一層：
+本報告引用的 75 篇 arXiv 文獻，都已對照 arXiv 的原始紀錄確認存在，標題與作者相符。關鍵數字另外對照全文。每一項證據後面的標記說明查到哪一層：
 
 | 標記 | 意思 |
 |---|---|
@@ -186,6 +186,7 @@ Engelberg 等人的 "Entity Neutering" 是 SSRN 工作論文，依 2026 年 6 �
   - 「聽文件還是聽記憶」由單一層裡的一個方向控制（[Minder et al. 2025](https://arxiv.org/abs/2411.07404)，ICLR 2025，筆記）。這個方向可跨任務、跨四個模型家族通用（[Lou et al. 2026](https://arxiv.org/abs/2610.20067)，筆記；預印本）。
   - 模型內部有「我認不認得這個實體」的訊號，調整它可以讓模型對認識的實體拒絕回答（[Ferrando et al. 2025](https://arxiv.org/abs/2411.14257)，ICLR 2025，筆記）。
   - 壓抑特定神經元可以只抹掉對某一個實體的記憶（[Yona et al. 2026](https://arxiv.org/abs/2604.01404)，筆記；預印本）。
+- **用在前視偏誤上**：用稀疏自編碼器找出模型內部與「時間意識」相關的特徵，把它調強後，預測任務上的前視偏誤明顯下降，一般推理能力不受影響；反過來直接調整「前視偏誤」特徵則沒有效果（[Merchant & Levy 2026](https://arxiv.org/abs/2606.27199)，摘要；預印本）。
 - **限制**：
   - 需要開放權重。
   - 效果隨輸入變動很大（[Tan et al. 2024](https://arxiv.org/abs/2407.12404)，筆記）。
@@ -256,7 +257,7 @@ Engelberg 等人的 "Entity Neutering" 是 SSRN 工作論文，依 2026 年 6 �
 |---|---|---|
 | 迭代式遮蔽加改寫 | 把隱私研究的對抗式匿名化搬到金融文本 | 有大規模實證，但仍是工作論文 |
 | 推論時扣除記憶 | FinCAD、Divergence Decoding | 一篇 EMNLP 2026、一篇預印本 |
-| 找出模型內部的開關 | 文件對記憶的方向、實體辨識訊號、實體神經元 | 基礎發現已發表；用於去偏只有一篇預印本 |
+| 找出模型內部的開關 | 文件對記憶的方向、實體辨識訊號、實體神經元、時間意識特徵 | 基礎發現已發表；用於去偏與前視偏誤各只有一篇預印本 |
 | 擴大時間截斷模型 | DatedGPT、Kelly 等人 | 預印本 |
 | 蒸餾式穩健遺忘 | UNDO | NeurIPS 2025，主要在合成任務上 |
 | 訓練時不記實體 | Knowledgeless Language Models | 一篇預印本 |
@@ -264,6 +265,47 @@ Engelberg 等人的 "Entity Neutering" 是 SSRN 工作論文，依 2026 年 6 �
 | 內外雙層稽核 | 同時檢查輸出與內部表徵 | 一篇預印本 |
 
 整體趨勢是從「偵測並避開」轉向「量測並校正」。
+
+### 各方向的 2026 年論文
+
+下表列出研究筆記中屬於這八個方向、2026 年在 arXiv 發表或更新的論文。每一篇都已對照 arXiv 紀錄確認存在；內容描述依摘要。除非註明發表處，其餘都是預印本。
+
+| 方向 | 2026 年論文 | 內容 | 發表處 |
+|---|---|---|---|
+| 迭代式遮蔽加改寫 | [Engelberg et al.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5182756)，2026 年 6 月版（2025 年初稿） | 改良後的遮蔽加改寫流程，擴及 MD&A 與法說會 | SSRN 工作論文 |
+| | [Jeon & Lee](https://arxiv.org/abs/2603.17692) "Can Blindfolded LLMs Still Trade?" | 先匿名化再讓交易代理人決策，用負向對照驗證訊號 | ICLR 2026 workshop |
+| | [Lermen et al.](https://arxiv.org/abs/2602.16800) "Large-scale online deanonymization with LLMs" | 反面證據：LLM 可大規模還原匿名身分 | USENIX Security 2026 |
+| 推論時扣除記憶 | [Li, Wang & Ma](https://arxiv.org/abs/2605.24564)（FinCAD） | 依公司與日期調整扣除量的解碼法 | EMNLP 2026 |
+| | [Chai et al.](https://arxiv.org/abs/2601.19334) "When Benchmarks Leak" | 推論時加入擾動，把模型推離靠記憶作答的捷徑 | 預印本 |
+| 找出模型內部的開關 | [Merchant & Levy](https://arxiv.org/abs/2606.27199) "Forecasting With LLMs: Improved Generalization Through Feature Steering" | 調強「時間意識」特徵以降低前視偏誤 | 預印本 |
+| | [Yona et al.](https://arxiv.org/abs/2604.01404) "Friends and Grandmothers in Silico" | 找到對應個別實體的神經元 | 預印本 |
+| | [Lou et al.](https://arxiv.org/abs/2610.20067) "Which Knowledge Should LLMs Trust?" | 「聽文件還是聽記憶」的方向可跨任務通用 | 預印本 |
+| | [Zhang et al.](https://arxiv.org/abs/2609.08173) "Key Path Identification…via SAE-based Steering" | 只調整少數關鍵特徵，比大量調整準確 | 預印本 |
+| 擴大時間截斷模型 | [Yan et al.](https://arxiv.org/abs/2603.11838)（DatedGPT） | 依年份截止的模型系列 | 預印本 |
+| | [Kelly et al.](https://arxiv.org/abs/2607.11889) "Scaling Point-in-Time Language Models" | 擴大規模，並公開完整訓練流程 | 預印本 |
+| | [Benhenda](https://arxiv.org/abs/2601.13770)（Look-Ahead-Bench） | 評比時間截斷模型的前視偏誤 | 預印本 |
+| | [Chen et al.](https://arxiv.org/abs/2609.20554) "Does Training on Future Data Pay?" | 在時間序列模型上比較：看過未來資料不一定讓預測更準 | 預印本 |
+| 穩健遺忘 | [Yin et al.](https://arxiv.org/abs/2607.27836) "Crossing the Margin Cliff" | 現有方法在 20 筆樣本的再學習攻擊下都被復原；提出較耐攻擊的做法 | 預印本 |
+| | [Xiao et al.](https://arxiv.org/abs/2605.11685) "Robust LLM Unlearning Against Relearning Attacks" | 針對表徵中的次要成分做遺忘，較耐再學習 | 預印本 |
+| | [Li et al.](https://arxiv.org/abs/2609.16229) "Test-Time Unlearning via Sparse Autoencoder" | 不改權重，推論時用稀疏自編碼器壓抑目標知識 | 預印本 |
+| | [Qian et al.](https://arxiv.org/abs/2608.04519) "Leak-Resistant Unlearning" | 新基準：現有方法擋不住多步推理與復原攻擊 | 預印本 |
+| | [Zhang et al.](https://arxiv.org/abs/2605.11592) "SoK: Unlearnability and Unlearning for Model Dememorization" | 系統化綜述 | 預印本 |
+| | [Yoon et al.](https://arxiv.org/abs/2606.27379) "Position: The Term 'Machine Unlearning' Is Overused in LLMs" | 立場論文 | ICML 2026 |
+| 訓練時不記實體 | [Cohen et al.](https://arxiv.org/abs/2607.12831) "Knowledgeless Language Models" | 用匿名化實體的語料預訓練 | 預印本 |
+| 量測並報告界限 | [Zhang & Stadie](https://arxiv.org/abs/2608.02985) "Temporal Leakage in LLM Backtesting" | 量測時間洩漏並提出校正分數 | TMLR 2026 |
+| | [Jia](https://arxiv.org/abs/2607.18867)（HindsightBench） | 黑箱的事後知識稽核流程 | 預印本 |
+| | [Li et al.](https://arxiv.org/abs/2611.11588)（FinCutBench） | 持續更新的基準，量測模型金融知識的時間邊界 | 預印本 |
+| | [Eliseev & Seleznev](https://arxiv.org/abs/2601.07992) "Fake Date Tests" | 用假日期檢測前視偏誤；受測模型都沒通過第一項檢定 | 預印本 |
+| | [Li et al.](https://arxiv.org/abs/2601.13717) "Simulated Ignorance Fails" | 提示詞無法可靠地倒轉模型的知識 | 預印本 |
+| | [Roy & Roy](https://arxiv.org/abs/2603.26797)（MemGuard-Alpha） | 負面結果：用成員推論過濾被記憶污染的訊號，效果有限 | 預印本 |
+| | [Kong et al.](https://arxiv.org/abs/2602.14233) "Evaluating LLMs in Finance Requires Explicit Bias Consideration" | 主張金融 LLM 評測必須明確處理偏誤 | 預印本 |
+| 內外雙層稽核 | [Tripathy & Buckmann](https://arxiv.org/abs/2605.15217) "Fair outputs, Biased Internals" | 輸出公平但內部保留偏誤 | 預印本 |
+
+三點說明：
+
+- 「蒸餾式穩健遺忘」本身在研究筆記中沒有 2026 年的後續論文；表中列的是同一目標（耐再學習攻擊的遺忘）下的其他做法。
+- 2026 年的論文大多數是預印本。有同儕審查發表處的只有 FinCAD、Zhang & Stadie、Lermen et al.、Yoon et al. 和 Jeon & Lee（workshop）。
+- 這份清單來自研究筆記，不是對 2026 年文獻的完整搜尋。
 
 ## 六、領域的缺口
 
