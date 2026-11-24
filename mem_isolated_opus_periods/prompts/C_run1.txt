@@ -1,0 +1,24 @@
+# Memory-only baseline (isolated rerun of round 8 MEM)
+
+Below are 12 company annual reports (company name and fiscal year end). You are NOT given the reports.
+
+For each one, using only what you already know, rate the risk that the company's financial statements for that
+fiscal year are materially misstated, through fraud or serious accounting errors (0 = no concern, 100 = almost
+certainly misstated). Also say whether you know of later accounting problems, restatements or SEC enforcement
+involving that period.
+
+Reply with only this JSON list, one entry per company, in the order given, and nothing else:
+[{"id": <number as listed>, "company": "<as listed>", "risk_score": <int>, "knows_later_problems": <true|false>, "basis": "short reason"}, ...]
+
+1. SAExploration Holdings, Inc. — fiscal year ended 2018-12-31
+2. National Energy Services Reunited Corp. — fiscal year ended 2018-12-31
+3. Hewlett Packard Enterprise Co. — fiscal year ended 2018-10-31
+4. Firstenergy Corp. — fiscal year ended 2019-12-31
+5. Ideanomics, Inc. — fiscal year ended 2018-12-31
+6. Pacific Drilling S.A. — fiscal year ended 2018-12-31
+7. theMaven, Inc. — fiscal year ended 2018-12-31
+8. Dawson Geophysical Co. — fiscal year ended 2018-12-31
+9. Deere & Co. — fiscal year ended 2018-10-28
+10. Dte Energy Co. — fiscal year ended 2019-12-31
+11. Clearway Energy LLC — fiscal year ended 2018-12-31
+12. Portland General Electric Co. — fiscal year ended 2018-12-31

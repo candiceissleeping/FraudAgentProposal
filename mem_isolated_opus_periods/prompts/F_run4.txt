@@ -1,0 +1,34 @@
+# Memory-only baseline (isolated rerun of round 8 MEM)
+
+Below are 22 company annual reports (company name and fiscal year end). You are NOT given the reports.
+
+For each one, using only what you already know, rate the risk that the company's financial statements for that
+fiscal year are materially misstated, through fraud or serious accounting errors (0 = no concern, 100 = almost
+certainly misstated). Also say whether you know of later accounting problems, restatements or SEC enforcement
+involving that period.
+
+Reply with only this JSON list, one entry per company, in the order given, and nothing else:
+[{"id": <number as listed>, "company": "<as listed>", "risk_score": <int>, "knows_later_problems": <true|false>, "basis": "short reason"}, ...]
+
+1. Plug Power Inc. — fiscal year ended 2019-12-31
+2. DEX ONE Corp. — fiscal year ended 2012-12-31
+3. Clear Channel Outdoor Holdings, Inc. — fiscal year ended 2012-12-31
+4. Vivic Corp. — fiscal year ended 2021-12-31
+5. Ecosphere Technologies Inc. — fiscal year ended 2016-12-31
+6. Hub Group Inc. — fiscal year ended 2013-12-31
+7. Cloopen Group Holding Ltd. — fiscal year ended 2021-12-31
+8. Thermon Group Holdings, Inc. — fiscal year ended 2020-03-31
+9. Evoqua Water Technologies Corp. — fiscal year ended 2018-09-30
+10. Georgia Gulf Corp. — fiscal year ended 2009-12-31
+11. Bio Lab Naturals, Inc. — fiscal year ended 2021-12-31
+12. Encision Inc. — fiscal year ended 2022-03-31
+13. CarGurus, Inc. — fiscal year ended 2017-12-31
+14. Omnia Wellness Inc. — fiscal year ended 2022-03-31
+15. Roadrunner Transportation Systems, Inc. — fiscal year ended 2013-12-31
+16. Albemarle Corp. — fiscal year ended 2009-12-31
+17. Black Spade Acquisition Co. — fiscal year ended 2021-12-31
+18. Renren Inc. — fiscal year ended 2021-12-31
+19. Bilander Acquisition Corp. — fiscal year ended 2021-12-31
+20. Longfin Corp. — fiscal year ended 2017-12-31
+21. Digital Power Corp. — fiscal year ended 2016-12-31
+22. Actuant Corp. — fiscal year ended 2018-08-31

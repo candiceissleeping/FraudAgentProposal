@@ -1,0 +1,42 @@
+# Memory-only baseline (isolated rerun of round 8 MEM)
+
+Below are 30 company annual reports (company name and fiscal year end). You are NOT given the reports.
+
+For each one, using only what you already know, rate the risk that the company's financial statements for that
+fiscal year are materially misstated, through fraud or serious accounting errors (0 = no concern, 100 = almost
+certainly misstated). Also say whether you know of later accounting problems, restatements or SEC enforcement
+involving that period.
+
+Reply with only this JSON list, one entry per company, in the order given, and nothing else:
+[{"id": <number as listed>, "company": "<as listed>", "risk_score": <int>, "knows_later_problems": <true|false>, "basis": "short reason"}, ...]
+
+1. Toro Co. — fiscal year ended 2020-10-31
+2. Thor Industries Inc. — fiscal year ended 2017-07-31
+3. Barrett Business Services Inc. — fiscal year ended 2012-12-31
+4. Edison International — fiscal year ended 2019-12-31
+5. Raytheon Co. — fiscal year ended 2011-12-31
+6. Celsius Holdings, Inc. — fiscal year ended 2021-12-31
+7. Boston Scientific Corp. — fiscal year ended 2019-12-31
+8. Zevia PBC — fiscal year ended 2021-12-31
+9. BorrowMoney.com, Inc. — fiscal year ended 2019-08-31
+10. PDS Biotechnology Corp. — fiscal year ended 2020-12-31
+11. Adamis Pharmaceuticals Corp. — fiscal year ended 2020-12-31
+12. Express, Inc. — fiscal year ended 2020-02-01
+13. Road Marshall, Inc. — fiscal year ended 2019-09-30
+14. Knight-Swift Transportation Holdings Inc. — fiscal year ended 2019-12-31
+15. Aar Corp. — fiscal year ended 2017-05-31
+16. Sino-Global Shipping America, Ltd. — fiscal year ended 2021-06-30
+17. Hudson Global, Inc. — fiscal year ended 2012-12-31
+18. United Parcel Service Inc. — fiscal year ended 2019-12-31
+19. Moog Inc. — fiscal year ended 2020-10-03
+20. Becton Dickinson & Co. — fiscal year ended 2019-09-30
+21. JMU Ltd. — fiscal year ended 2017-12-31
+22. Northrop Grumman Corp. — fiscal year ended 2011-12-31
+23. Tingo, Inc. — fiscal year ended 2021-12-31
+24. American Electric Power Co. Inc. — fiscal year ended 2019-12-31
+25. 500.com Ltd. — fiscal year ended 2017-12-31
+26. Endo International plc — fiscal year ended 2019-12-31
+27. Angi Inc. — fiscal year ended 2021-12-31
+28. Unique Logistics International Inc. — fiscal year ended 2021-05-31
+29. Elanco Animal Health Inc. — fiscal year ended 2019-12-31
+30. Tailored Brands Inc. — fiscal year ended 2020-02-01

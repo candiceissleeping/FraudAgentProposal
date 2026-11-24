@@ -1,0 +1,36 @@
+# Memory-only baseline (isolated rerun of round 8 MEM)
+
+Below are 24 company annual reports (company name and fiscal year end). You are NOT given the reports.
+
+For each one, using only what you already know, rate the risk that the company's financial statements for that
+fiscal year are materially misstated, through fraud or serious accounting errors (0 = no concern, 100 = almost
+certainly misstated). Also say whether you know of later accounting problems, restatements or SEC enforcement
+involving that period.
+
+Reply with only this JSON list, one entry per company, in the order given, and nothing else:
+[{"id": <number as listed>, "company": "<as listed>", "risk_score": <int>, "knows_later_problems": <true|false>, "basis": "short reason"}, ...]
+
+1. Newell Brands Inc. — fiscal year ended 2016-12-31
+2. USA Mobility, Inc. — fiscal year ended 2011-12-31
+3. Alpine 4 Technologies Ltd. — fiscal year ended 2020-12-31
+4. UniTek Global Services, Inc. — fiscal year ended 2011-12-31
+5. Synchronoss Technologies Inc. — fiscal year ended 2013-12-31
+6. Consolidated Communications Holdings, Inc. — fiscal year ended 2019-12-31
+7. Goodyear Tire & Rubber Co. — fiscal year ended 2016-12-31
+8. Chanticleer Holdings, Inc. — fiscal year ended 2017-12-31
+9. PG&E Corp. — fiscal year ended 2011-12-31
+10. Cerus Corp. — fiscal year ended 2013-12-31
+11. 3m Co. — fiscal year ended 2014-12-31
+12. GTT Communications, Inc. — fiscal year ended 2019-12-31
+13. MusclePharm Corp. — fiscal year ended 2017-12-31
+14. ReShape Lifesciences Inc. — fiscal year ended 2020-12-31
+15. Rekor Systems, Inc. — fiscal year ended 2020-12-31
+16. Malvern Bancorp, Inc. — fiscal year ended 2020-09-30
+17. Semler Scientific, Inc. — fiscal year ended 2020-12-31
+18. Mimedx Group, Inc. — fiscal year ended 2013-12-31
+19. Icg Group, Inc. — fiscal year ended 2013-12-31
+20. Lordstown Motors Corp. — fiscal year ended 2020-12-31
+21. Provident Financial Holdings Inc. — fiscal year ended 2020-06-30
+22. Danaher Corp. — fiscal year ended 2014-12-31
+23. Exelon Corp. — fiscal year ended 2011-12-31
+24. Workhorse Group Inc. — fiscal year ended 2020-12-31

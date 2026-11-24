@@ -1,0 +1,22 @@
+# Memory-only baseline (isolated rerun of round 8 MEM)
+
+Below are 10 company annual reports (company name and fiscal year end). You are NOT given the reports.
+
+For each one, using only what you already know, rate the risk that the company's financial statements for that
+fiscal year are materially misstated, through fraud or serious accounting errors (0 = no concern, 100 = almost
+certainly misstated). Also say whether you know of later accounting problems, restatements or SEC enforcement
+involving that period.
+
+Reply with only this JSON list, one entry per company, in the order given, and nothing else:
+[{"id": <number as listed>, "company": "<as listed>", "risk_score": <int>, "knows_later_problems": <true|false>, "basis": "short reason"}, ...]
+
+1. Ducommun Inc. — fiscal year ended 2018-12-31
+2. Natural Health Trends Corp. — fiscal year ended 2018-12-31
+3. Bankrate, Inc. — fiscal year ended 2012-12-31
+4. HF Foods Group Inc. — fiscal year ended 2018-12-31
+5. EVERTEC Group, LLC — fiscal year ended 2012-12-31
+6. Vse Corp. — fiscal year ended 2014-12-31
+7. Cpi Aerostructures Inc. — fiscal year ended 2018-12-31
+8. Panhandle Oil & Gas Inc. — fiscal year ended 2019-09-30
+9. Hill International, Inc. — fiscal year ended 2014-12-31
+10. Petroteq Energy Inc. — fiscal year ended 2019-08-31
